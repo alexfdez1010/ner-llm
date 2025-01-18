@@ -62,23 +62,20 @@ class Dataset:
     
     return self.training[:num_instances]
   
-  def get_validation_instances(self, num_instances: Optional[int] = None) -> list[Instance]: 
+  def get_validation_instances(self) -> list[Instance]: 
     """
     Returns a list of validation instances.
 
-    Args:
-      num_instances: The number of instances to return. If None, then all instances are returned.
+    Returns:
+      A list of validation instances.
     """
-    if num_instances is None:
-      return self.validation
-    
-    return self.validation[:num_instances]
+    return self.validation
   
-  def get_test_instances(self, num_instances: Optional[int] = None) -> list[Instance]: 
+  def get_test_instances(self) -> list[Instance]: 
     """
     Returns a list of test instances.
 
-    Args:
-      num_instances: The number of instances to return. If None, then all instances are returned.
+    Returns:
+      A list of test instances.
     """
     return self.test
