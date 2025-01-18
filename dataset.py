@@ -6,10 +6,19 @@ from typing import Optional
 class Instance:
   """A NER instance of the dataset."""
   tokens: list[str]
-  labels: Optional[list[int]]
+  labels: Optional[list[int]]   
 
-  def to_string(self):
+  def __str__(self):
     return " ".join(self.tokens)
+  
+  def get_entities(self, index_to_category: dict[int, str]):
+    if self.labels is None:
+      return []
+    return list(
+      filter(lambda x: x is not None, 
+        map(index_to_category.get, self.labels)
+      )
+    )
 
 
 class Dataset:
@@ -18,11 +27,13 @@ class Dataset:
     self, 
     training: list[Instance],
     validation: list[Instance],
-    test: list[Instance]
+    test: list[Instance],
+    index_to_category: dict[int, str]
   ):
     self.training = training
     self.validation = validation
     self.test = test
+    self.index_to_category = index_to_category
 
   def get_training_instances(self, num_instances: Optional[int] = None): 
     """

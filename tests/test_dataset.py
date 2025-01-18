@@ -14,17 +14,38 @@ def test_instance_creation():
 
 def test_instance_to_string():
     instance = Instance(tokens=["hello", "world"], labels=[0, 1])
-    assert instance.to_string() == "hello world"
+    assert str(instance) == "hello world"
+
+def test_instance_get_entities():
+    # Test with all valid categories
+    instance = Instance(tokens=["John", "lives", "in", "New", "York"], labels=[1, 0, 0, 2, 2])
+    index_to_category = {0: None, 1: "PERSON", 2: "LOCATION"}
+    entities = instance.get_entities(index_to_category)
+    assert entities == ["PERSON", "LOCATION", "LOCATION"]
+    
+    # Test with some invalid categories
+    instance = Instance(tokens=["The", "cat", "sleeps"], labels=[0, 1, 0])
+    index_to_category = {0: None, 2: "ACTION"}  # Missing category 1
+    entities = instance.get_entities(index_to_category)
+    assert entities == []
+    
+    # Test with no labels
+    instance = Instance(tokens=["Simple", "text"], labels=None)
+    index_to_category = {0: None, 1: "CATEGORY"}
+    entities = instance.get_entities(index_to_category)
+    assert entities == []
 
 def test_dataset_creation():
     training = [Instance(tokens=["train1"], labels=[0])]
     validation = [Instance(tokens=["val1"], labels=[1])]
     test = [Instance(tokens=["test1"], labels=[2])]
+    index_to_category = {0: None, 1: "PERSON", 2: "LOCATION"}
     
-    dataset = Dataset(training=training, validation=validation, test=test)
+    dataset = Dataset(training=training, validation=validation, test=test, index_to_category=index_to_category)
     assert dataset.training == training
     assert dataset.validation == validation
     assert dataset.test == test
+    assert dataset.index_to_category == index_to_category
 
 def test_get_training_instances():
     training = [
@@ -35,7 +56,8 @@ def test_get_training_instances():
     dataset = Dataset(
         training=training,
         validation=[],
-        test=[]
+        test=[],
+        index_to_category={0: None, 1: "PERSON", 2: "LOCATION"}
     )
     
     # Test getting all instances
@@ -56,7 +78,8 @@ def test_get_validation_instances():
     dataset = Dataset(
         training=[],
         validation=validation,
-        test=[]
+        test=[],
+        index_to_category={0: None, 1: "PERSON"}
     )
     
     instances = dataset.get_validation_instances()
@@ -71,7 +94,8 @@ def test_get_test_instances():
     dataset = Dataset(
         training=[],
         validation=[],
-        test=test
+        test=test,
+        index_to_category={0: None, 1: "PERSON"}
     )
     
     instances = dataset.get_test_instances()
