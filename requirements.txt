@@ -1,0 +1,5 @@
+langchain
+huggingface
+huggingface-hub
+langchain-community
+pytest
