@@ -1,12 +1,11 @@
 from dataclasses import dataclass
 from random import shuffle
-from typing import Optional
 
 @dataclass
 class Instance:
   """A NER instance of the dataset."""
   tokens: list[str]
-  labels: Optional[list[int]]   
+  labels: list[int] | None
 
   def __str__(self):
     return " ".join(self.tokens)
@@ -45,7 +44,7 @@ class Dataset:
     self.test = test
     self.index_to_category = index_to_category
 
-  def get_training_instances(self, num_instances: Optional[int] = None) -> list[Instance]: 
+  def get_training_instances(self, num_instances: int | None = None) -> list[Instance]: 
     """
     Returns a list of training instances randomly shuffled.
 

@@ -5,3 +5,4 @@ langchain-community
 langchain-together
 python-dotenv
 pytest
+spacy
