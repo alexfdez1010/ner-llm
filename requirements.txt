@@ -2,4 +2,6 @@ langchain
 huggingface
 huggingface-hub
 langchain-community
+langchain-together
+python-dotenv
 pytest
