@@ -1,5 +1,6 @@
 from typing import Any, Literal
 import json
+import spacy
 
 from ai.extractor_ner import ExtractorNER
 from ai.rules_generator import RulesGenerator
@@ -86,9 +87,9 @@ class Pipeline:
         self, 
         rules: list[dict[str, Any]], 
         subset: Literal["training", "validation", "test"] = "validation"
-    ) -> dict[str, float]:
+    ) -> tuple[float, float, float]:
         """
-        Evaluates NER performance on a dataset using provided rules.
+        Evaluates NER performance on a dataset using provided spaCy rules.
         
         Args:
             rules: List of rules dictionaries containing pattern and label
@@ -105,6 +106,11 @@ class Pipeline:
         else:
             instances = self.dataset.test
 
+        # Initialize spaCy matcher with rules
+        nlp = spacy.blank("en")
+        ruler = nlp.add_pipe("entity_ruler")
+        ruler.add_patterns(rules)
+
         # Initialize counters
         true_positives = 0
         false_positives = 0
@@ -112,15 +118,23 @@ class Pipeline:
 
         # Process each instance
         for instance in instances:
-            # Get predicted entities using extractor
-            text = " ".join(instance.tokens)
-            predicted_entities = self.extractor.extract_entities(text, rules)
+            # Calculate character spans for tokens
+            doc = nlp(" ".join(instance.tokens))
+
+            entities_detected = [
+                Entity(
+                    entity=entity.text,
+                    category=entity.label_,
+                    span=(entity.start_char, entity.end_char),
+                )
+                for entity in doc.ents
+            ]
 
             # Get gold entities
             gold_entities = instance.get_entities(self.dataset.index_to_category)
 
             # Convert entities to set of tuples for comparison
-            pred_set = {(e.span[0], e.span[1], e.category) for e in predicted_entities}
+            pred_set = {(e.span[0], e.span[1], e.category) for e in entities_detected}
             gold_set = {(e.span[0], e.span[1], e.category) for e in gold_entities}
 
             # Update metrics
@@ -133,11 +147,7 @@ class Pipeline:
         recall = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0.0
         f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
 
-        return {
-            "precision": precision,
-            "recall": recall,
-            "f1": f1
-        }
+        return precision, recall, f1
 
     def load_rules(self, rules_file: str) -> list[dict[str, Any]]:
         with open(rules_file, "r") as f:

@@ -179,21 +179,21 @@ def test_pipeline_evaluate(mock_components):
     pipeline = Pipeline(mock_extractor, mock_rules_generator, dataset)
     
     rules = [
-        {"pattern": [{"LOWER": "peter"}], "category": "PERSON"},
-        {"pattern": [{"LOWER": "berlin"}], "category": "LOCATION"}
+        {"pattern": [{"LOWER": "peter"}], "label": "PERSON"},
+        {"pattern": [{"LOWER": "berlin"}], "label": "LOCATION"}
     ]
     
     # Test evaluation on validation set
-    metrics = pipeline.evaluate(rules, subset="validation")
+    precision, recall, f1 = pipeline.evaluate(rules, subset="validation")
     
     # Since our mock extractor perfectly matches the validation data
     # we expect perfect scores
-    assert metrics["precision"] == 1.0
-    assert metrics["recall"] == 1.0
-    assert metrics["f1"] == 1.0
+    assert precision == 1.0
+    assert recall == 1.0
+    assert f1 == 1.0
     
     # Test evaluation on training set
-    metrics = pipeline.evaluate(rules, subset="training")
-    assert metrics["precision"] == 1.0
-    assert metrics["recall"] == 0.5
-    assert metrics["f1"] == 0.6666666666666666
+    precision, recall, f1 = pipeline.evaluate(rules, subset="training")
+    assert precision == 0.0
+    assert recall == 0.0
+    assert f1 == 0.0
