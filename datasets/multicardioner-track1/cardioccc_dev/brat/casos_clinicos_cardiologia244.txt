@@ -1,0 +1,66 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Presentamos el caso de un varón de 77 años que tras ingesta de pescado fresco, comienza con cuadro de anafilaxia grave que requiere administración de adrenalina intramuscular con posterior dolor torácico y elevación del segmento ST, acompañado de datos clínicos y analíticos de bajo gasto cardiaco.
+
+Antecedentes
+No alergias medicamentosas conocidas.
+Factores de riesgo cardiovascular: exfumador, hipertensión arterial (HTA), diabetes mellitus tipo 2 (DM2), hipeuricemia.
+No cardiopatía ni broncopatía conocidas.
+Síndrome de isquemia crónica de ambas extremidades inferiores grado IV. Amputación transfalángica del segundo dedo de la extremidad inferior izquierda (EII) en junio de 2017. Amputación del cuarto dedo de la extremidad inferior derecha (EID) en octubre de 2018. Amputación infracondilea de EID el 26/08/2019.
+Intervenciones quirúrgicas previas: catarata de ojo derecho.
+Tratamiento habitual: insulina glargina, 20 unidades en la cena; metformina 850 mg, 1 comprimido cada 12 horas; sitagliptina 50 mg, 1 comprimido cada 12 horas, repaglinida 1 mg, 1 comprimido desayuno, comida, cena; ácido acetilsalicílico 100 mg, 1 comprimido en la comida; enalapril/lercanidipino 20/20 mg, 1 comprimido en el desayuno; atorvastatina 20 mg, 1 comprimido en la cena; alopurinol 300 mg, 1 comprimido en el desayuno; etoricoxib 120 mg, 1 comprimido al día; metamizol 575 mg; paracetamol 1 g, a demanda. Situación funcional basal: funciones cognitivas conservadas. Se desplaza en silla de ruedas por amputación infracondílea reciente de EID. No angor o disnea en su vida habitual.
+
+Enfermedad actual
+Varón de 77 años, que tras haber cenado merluza fresca y almejas, comienza pasadas 4 horas, con eritema generalizado, intenso prurito palmo-plantar, prurito genital y edema de lengua con ligera disfonía. A la llegada del soporte vital básico, se le administra dexclorfeniramina y Actocortina intravenosas (i.v.), a pesar de lo cual, a su llegada al servicio de urgencias de su hospital de referencia, persiste con leve prurito y notable edema de lengua, por lo que se decide administración de adrenalina 0,5 mg intramuscular (i.m.), comenzando de forma instantánea con dolor torácico intenso irradiado a extremidad superior izquierda. Se realiza electrocardiograma (ECG) objetivando elevación del ST anteroseptal con descenso especular en cara inferior, que no mejora tras nitroglicerina sublingual, con signos de bajo gasto acompañantes (hipotensión arterial, frialdad acra y obnubilación), por lo que se inicia perfusión continua de dobutamina (DBT) y noradrenalina (NAD). Ante sospecha de síndrome coronario agudo con elevación del segmento ST (SCACEST) anteroseptal Killip IV, se activa el código infarto y se decide traslado a la sala de hemodinámica de nuestro hospital para realización de intervencionismo coronario percutáneo (ICP) emergente.
+A su llegada paciente consciente y orientado, afectado por el dolor, bajo perfusión continua de NAD (a 0,8 mcg/kg/min) y DBT (a 5 mcg/kg/min) con tendencia a la hipotensión arterial (tensión arterial [TA] 75/50 mmHg) y taquicardia sinusal (frecuencia cardiaca [FC] 120 lpm). En el ECG persiste elevación del ST anteroseptal, objetivándose en la ecoscopia de llegada, disfunción moderada de VI con acinesia de todos los segmentos medio apicales y de la cara anterior. Se traslada directamente a sala de hemodinámica.
+Hora de inicio del dolor torácico: 5:15 horas.
+Hora de llegada a urgencias: 5:30 horas.
+Hora de apertura de la arteria: 7:08 horas.
+Escala de riesgo TIMI: 12 puntos (35,9%).
+Escala de riesgo CRUSADE: 59 puntos, 19,5 % (riesgo hemorrágico alto).
+
+Exploración física
+A su ingreso en la unidad coronaria
+TA 75/50 mmHg; FC 120 lpm; SatO2 95% basal; afebril. Somnoliento. Mala perfusión distal con livideces en EEII y frialdad acra.
+Cabeza y cuello: no ingurgitación yugular.
+Auscultación cardiaca: rítmica, sin claros soplos audibles.
+Auscultación pulmonar: crepitantes bibasales.
+Abdomen: blando, depresible, no doloroso a la palpación, ruidos hidroáreos normales. EEII: amputación de EID, no edemas en EII, pedio izquierdo palpable.
+
+PRUEBAS COMPLEMENTARIAS
+ECG en el servicio de urgencias del hospital comarcal: ritmo sinusal a 70 lpm, PR largo, bloqueo de rama derecha de has de His (BRDHH), elevación del ST de V1-V5, I y AVL, máximo de 9 mm en V3, con descenso especular en cara inferior.
+ECG de ingreso en la unidad coronaria: taquicardia sinusal a 115 lpm, PR largo, persiste elevación del ST en precordiales, máxima de 6 mm en V3.
+Radiografía de tórax: silueta cardiaca no aumentada de tamaño, redistribución vascular, senos costofrénicos libres, sin condensaciones aparentes.
+Analítica a su ingreso en la unidad coronaria:
+Gasometría arterial: pH 7.27, PCO2 31 mmHg, PO2 90 mmHg, HCO3 14 mmol/l, lactato 4.5.
+Bioquímica: urea 80 mg/dl, creatinina 0,96 mg/dl, GPT 14 U/L, bilirrubina total 0,3 mg/dl, sodio 134 mEq/l, potasio 5 mEq/l, PCR 16 mg/l, CK 138 U/l, LDH 450 U/l, troponina T ultrasensible 118 ng/l (normal < 14).
+Hemograma: hemoglobina 10.5 g/dl, plaquetas 469.000, leucocitos 31.000 (con 86% de neutrófilos).
+Coagulación: TTPA > 180 sg, INR 1,2.
+Pico enzimático: CK máxima 779 U/l, troponina T máxima 2016 ng/dl.
+Otros resultados analíticos:
+HbA1c: 7,5%. TSH: 1.01 (en rango).
+Lipidograma: colesterol total 102, triglicéridos 112, HDL 33, LDL 47.
+Analítica solicitada por el servicio de alergología: curva de triptasa (9/9/2019): Hospital comarcal: 24; a las 4 horas de iniciados los síntomas: 11; A las 24 horas: 10; (valor normal triptasa indetectable, o < 1,2 mg/l).
+IgE: 190,00 kUA/L (elevada); Anisakis Ac.IgE: 36,90 kUA/L (muy positiva).
+Cateterismo urgente: tronco común corto con ateromatosis distal no significativa. Descendente anterior (DA): lesión subtotal ostial en DA, con resto del vaso con ateromatosis leve, flujo TIMI 2. La 1a y 2a diagonales presentan estenosis moderada ostial. Circunfleja (Cx): lesión moderada proximal y ateromatosis larga moderada distal. Coronaria derecha (CD): dominante. Ateromatosis leve proximal-media y lesión corta grave a nivel de la cruz-ostium IVP. ICP primaria: se predilata la lesión grave de DA ostial con balón 3,0 mm y se implanta unstent ANGIOLITE 3,5/24 mm desde TC ostial con resultado óptimo. La DA más distal a nivel apical queda ocluida y no recupera flujo tras ACTP a nivel de la oclusión con balón 2,0 mm.
+Ecocardiograma al ingreso: ventrículo izquierdo (VI) no dilatado (DTD 45mm) ni hipertrófico (SIV 9mm, PP 9mm) con función sistólica global moderadamente deprimida a expensas de acinesia de todos los segmentos medio-apicales con hipercontractilidad del resto. Ventrículo derecho (VD) no dilatado, función global conservada con acinesia apical. Válvula aórtica esclerosa con apertura conservada, sin alteraciones funcionales. Válvula mitral esclerosa con ligera restricción de velo posterior e insuficiencia mitral moderada, dirigida hacia pared posterior de la aurícula izquierda (AI). Válvula tricúspide de aspecto normal con insuficiencia mitral (IT) leve y gradiente VD-AD 25-30 mmHg. Vena cava inferior (VCI) no dilatada con colapso inspiratorio (PSAP estimada 30-35 mmHg, sin hipertensión pulmonar). Sin derrame pericárdico.
+ECG al alta de la unidad coronaria: ritmo sinusal a 100 lpm, PR largo, eje a -60a, BRIHH + HAIHH.
+Cateterismo en segundo tiempo con ICP a CD: tras avanzar sendas guías a PL e IVP, se implanta un stent farmacoactivo directo RESOLUTE 2,5 x 15 mm en Cd distal-IVP, quedando ligera infraexpansión, por lo que se posdilata con balón NC 2,5 x 8 mm con buen resultado final. Queda enjaulada la PL, sin lesión ostial. La IVP, distal al stent, es difusamente ateromatosa con lesiones graves de pequeño vaso distales.
+
+EVOLUCIÓN CLÍNICA
+El paciente ingresa en la unidad coronaria tras cateterismo emergente en donde se objetiva enfermedad coronaria grave bivaso con lesión trombótica aguda de DA ostial que se trata con un stent en TC-DA con buen resultado. Con ello se objetiva una mejoría hemodinámica inmediata pudiendo suspender la dobutamina en la sala de hemodinámica. Ingresa en la unidad coronaria estable pudiendo suspender por completo la noradrenalina a las 2 horas de su ingreso. Refiere al ingreso cierta molestia torácica leve residual que se resuelve en las primeras 4 horas.
+Con la sospecha de anafilaxia (edema de lengua, prurito...) se extraen determinaciones de triptasa seriadas durante las primeras 24 horas que resultan positivas. Se mantiene durante su ingreso en la unidad coronaria con corticoide y dexclorfeniramina (Polaramine) intravenosa con resolución completa del prurito genital y del edema de lengua en las primeras 12 horas, permaneciendo después asintomático a ese respecto. Es valorado por alergología que extrae analítica con IgE específicas comprobando una IgE elevada para Anisakis e IgE negativas a merluza y almeja. Según recomendación del servicio de alergología, se inicia el descenso de las dosis de glucocorticoides intravenosos y se mantiene el Polaramine (antiH1) durante todo el ingreso hasta pasados 5 días del evento agudo. Se mantiene así mismo, la prohibición de tomar pescado o marisco hasta nueva valoración por su parte tras el alta hospitalaria.
+Hemodinámicamente permanece estable durante las 48 horas del ingreso con tendencia a la hipotensión leve asintomática (TAS 90-100 mmHg) y taquicardia sinusal (95-110 lpm), sin nuevos datos de baja perfusión exploratorios o analíticos, persistiendo al alta la disfunción moderada de VI, no siendo posible por hipotensión leve la introducción de fármacos betabloqueantes ni inhibidores de la enzima de conversión de la angiotensina (IECA). Si se inicia espironolactona, con buena tolerancia.
+Respiratoriamente permanece estable con aparición el primer día de ingreso de datos de insuficiencia cardiaca leve (crepitantes bibasales) sin disnea ni desaturación. Se inicia una dosis diaria de furosemida oral con buena tolerancia. Presenta pico febril único hasta 38,3 oC sin tiritona el tercer día de ingreso (11/9/2019) sin datos focales clínicos de infección. Se extraen muestras para cultivo (hemo/urocultivo) y se pauta amoxicilina/clavulánico empírico. Es valorado durante su ingreso por el servicio de cirugía vascular para la valoración de la herida quirúrgica reciente de amputación de EID, objetivando las heridas en buen estado de curación con algún punto necrótico pero sin datos de infección, estando pendiente de retirada de sutura intradérmica.
+Una vez estabilizado el cuadro, se decide trasladar al paciente a planta para control evolutivo y realización de nuevo cateterismo en segundo tiempo, con ICP a CD-IVP que resulta exitosa. Durante su estancia en planta, el paciente permanece hemodinámica y respiratoriamente estable, asintomático, por lo que tras revaloración por el servicio de alergología, el paciente es dado de alta con cita a nivel ambulatorio para seguimiento conjunto por alergología y cardiología.
+
+DIAGNÓSTICO
+Diagnóstico principal:
+SCACEST Killip IV (síndrome de Kounis tipo II).
+Anafilaxia grave por Anisakis (en contexto de ingesta de pescado fresco). Enfermedad coronaria grave de dos vasos: DA y CD.
+Lesión trombótica aguda en DA ostial con estenosis grave.
+ICP primaria con implantación de stent farmacoactivo en eje TC-DA.
+ICP en segundo tiempo con implantación de un stent farmacoactivo en CD-IVP FEVI moderadamente deprimida.
+
+Diagnósticos secundarios:
+Factores de riesgo cardiovascular: exfumador, HTA, DM2.
+Síndrome de isquemia crónica de EEII grado IV. Posoperatorio reciente de amputación infracondilea de EID.

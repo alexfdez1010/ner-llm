@@ -1,0 +1,22 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 42 años, sin factores de riesgo cardiovascular conocidos. Antecedentes de soplo en la infancia, intervenido de pectus excavatum y hernia diafragmática. En tratamiento con ácido ibandrónico y carbonato cálcico.
+Fue valorado inicialmente en su hospital de referencia por soplo, evidenciándose en el ecocardiograma un ventrículo izquierdo (VI) ligeramente dilatado con función sistólica (FEVI) ligeramente deprimida (45% por Simpson), válvula mitral de aspecto mixomatoso con prolapso de ambos velos que condicionaba una insuficiencia ligera, ventrículo derecho (VD) de tamaño normal, pero con ápex aneurismático y acinético y con función sistólica deprimida, raíz aórtica en el límite alto de la normalidad. Ante estos hallazgos, fue derivado a consulta específica de cardiopatías familiares por sospecha de miocardiopatía arritmogénica de ventrículo derecho (MAVD).
+En la primera visita, el paciente se encontraba asintomático desde el punto de vista cardiovascular. A la exploración física destacaba aspecto marfanoide, con tonos cardiacos rítmicos y con soplo sistólico II/VI en foco mitral irradiado a axila, con murmullo vesicular conservado, sin ruidos sobreañadidos a la auscultación pulmonar y con las extremidades inferiores sin edemas.
+A lo largo del seguimiento ambulatorio comenzó con disnea de moderados esfuerzos.
+Para completar el estudio se realizaron Holter-ECG, resonancia magnética cardiaca, ecocardiograma transesofágico y estudio genético.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG) en consulta: ritmo sinusal con bloqueo incompleto de rama derecha y una deflexión desde S hasta pseudoR > 55 ms.
+En el Holter de 24 horas se evidenciaron extrasístoles ventriculares con origen del tracto de salida del VD con densidad del 3% (6.935 latidos) y una racha de taquicardia ventricular no sostenida (TVNS) con morfología de tracto de salida de VD de 11 latidos, totalmente asintomática.
+La resonancia magnética cardiaca evidenció un VD no dilatado con hipertrabeculación apical con movimiento discinético de la pared anterior libre y apical, con dudosa infiltración lineal fibrograsa a ese nivel y con función sistólica derecha moderadamente deprimida (FEVD 36%). El ventrículo izquierdo se encontraba ligeramente dilatado, con hipertrabeculación apical asociada con hipocontractilidad medio-apical lateral y función sistólica levemente deprimida (FEVI 48%).
+En el ecocardiograma transesofágico presentaba una válvula mitral de aspecto mixomatoso con prolapso de ambos velos con insuficiencia ligera, raíz aortica en el límite alto de la normalidad y disfunción sistólica ligera de VI.
+El estudio genético lo identificó como portador en heterocigosis de una mutación en el gen de la fibrilina 1, asociada con el síndrome de Marfan (mutación NC_000015.9: g. 48737574delC), no evidenciándose mutaciones en los genes relacionados con la displasia arritmogénica de VD. Ante estos hallazgos y dado el fenotipo y la clínica el paciente, le diagnosticamos de síndrome de Marfan y ampliamos el estudio genético a sus hijos, que resultaron ser portadores, estando además uno de ellos afecto con dilatación aórtica ligera.
+
+EVOLUCIÓN CLÍNICA
+Ante los hallazgos de las pruebas complementarias y a pesar de que el test genético para displasia arritmogénica el VD fuera negativo, consideramos que el paciente presenta este diagnóstico, ya que tiene un criterio mayor (disquinesia anterior y apical del VD con disfunción < 40%) y 3 menores (> 500 EV en el Holter, TVNS con morfología de tracto de salida de VD y deflexión desde S hasta pseudoR > 55 ms en el electrocardiograma).
+Dados los resultados de las pruebas complementarias y el antecedente de taquicardia ventricular no sostenida asintomática, se decidió implantar un desfibrilador automático (DAI) en prevención primaria, además de tratamiento médico con betabloqueantes e inhibidores de la enzima de conversión de la angiotensina (IECA).
+Desde el implante del DAI el paciente no ha presentado ninguna descarga y permanece en clase funcional II de la New York Heart Association (NYHA) durante el seguimiento en consultas.
+
+DIAGNÓSTICO
+Miocardiopatía arritmogénica biventricular con disfunción izquierda ligera y derecha moderada, con dilatación ligera del ventrículo izquierdo, disquinesia anterior y apical del VD y estudio genético negativo para miocardiopatía arritmogénica de VD.
+Síndrome de Marfan; portador en heterocigosis de mutación en el gen de la fibrilina 1.

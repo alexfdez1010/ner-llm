@@ -1,0 +1,33 @@
+T32	ENFERMEDAD 3033 3076	ventrículo izquierdo moderadamente dilatado
+T35	ENFERMEDAD 3211 3256	Función sistólica global gravemente deprimida
+T36	ENFERMEDAD 4627 4668	congestión de predominio a nivel pulmonar
+T39	ENFERMEDAD 5651 5674	glucemia basal alterada
+T73	ENFERMEDAD 99 133	reacciones adversas medicamentosas
+T74	ENFERMEDAD 180 189	exfumador
+T75	ENFERMEDAD 216 224	enolismo
+T76	ENFERMEDAD 236 244	obesidad
+T77	ENFERMEDAD 309 320	cardiopatía
+T81	ENFERMEDAD 2858 2880	insuficiencia cardiaca
+T82	ENFERMEDAD 3541 3570	insuficiencia ligera-moderada
+T83	ENFERMEDAD 3677 3697	Insuficiencia ligera
+T84	ENFERMEDAD 3763 3782	derrame pericárdico
+T85	ENFERMEDAD 3958 4038	Descendente anterior de buen desarrollo y calibre con ateromatosis ligera difusa
+T86	ENFERMEDAD 4155 4226	Circunfleja de buen desarrollo y calibre con ateromatosis ligera difusa
+T88	ENFERMEDAD 4580 4621	descompensación de insuficiencia cardiaca
+T89	ENFERMEDAD 4739 4761	insuficiencia cardiaca
+T90	ENFERMEDAD 4841 4867	insuficiencia respiratoria
+T91	ENFERMEDAD 5433 5455	ateromatosis coronaria
+T92	ENFERMEDAD 5621 5645	diabetes mellitus tipo 2
+T93	ENFERMEDAD 5847 5884	enfermedad cardiovascular establecida
+T94	ENFERMEDAD 5886 5894	obesidad
+T96	ENFERMEDAD 6315 6337	insuficiencia cardiaca
+T97	ENFERMEDAD 6652 6704	descompensación de insuficiencia cardiaca congestiva
+T98	ENFERMEDAD 6706 6729	Miocardiopatía dilatada
+T99	ENFERMEDAD 6825 6849	Diabetes mellitus tipo 2
+T100	ENFERMEDAD 6872 6880	Obesidad
+T1	ENFERMEDAD 735 753	consumo de tóxicos
+T78	ENFERMEDAD 764 771	alcohol
+T79	ENFERMEDAD 3328 3367	Aurícula izquierda ligeramente dilatada
+T87	ENFERMEDAD 4397 4485	Coronaria derecha dominante, de buen desarrollo y calibre con ateromatosis ligera difusa
+T134	ENFERMEDAD 323 336	muerte súbita
+T107	ENFERMEDAD 4259 4305	primera obtusa marginal con una placa moderada

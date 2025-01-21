@@ -1,0 +1,35 @@
+T30	ENFERMEDAD 246 255	exfumador
+T31	ENFERMEDAD 296 317	hipertensión arterial
+T32	ENFERMEDAD 319 322	HTA
+T33	ENFERMEDAD 328 345	diabetes mellitus
+T34	ENFERMEDAD 347 349	DM
+T35	ENFERMEDAD 355 366	dislipemias
+T36	ENFERMEDAD 432 443	cardiopatía
+T37	ENFERMEDAD 465 473	glaucoma
+T38	ENFERMEDAD 475 488	ulcus péptico
+T39	ENFERMEDAD 1059 1081	insuficiencia cardiaca
+T40	ENFERMEDAD 2462 2475	valvulopatías
+T41	ENFERMEDAD 2572 2591	derrame pericárdico
+T42	ENFERMEDAD 3059 3068	arritmias
+T43	ENFERMEDAD 3256 3331	Arteria coronaria derecha con origen anómalo desde seno coronario izquierdo
+T44	ENFERMEDAD 3960 4034	divertículo en la pared inferoposterior izquierda de la aurícula izquierda
+T45	ENFERMEDAD 4051 4075	trombos intraauriculares
+T46	ENFERMEDAD 4103 4118	hernia de hiato
+T47	ENFERMEDAD 4595 4603	fibrosis
+T48	ENFERMEDAD 4606 4625	necrosis miocárdica
+T49	ENFERMEDAD 4651 4659	isquemia
+T50	ENFERMEDAD 4741 4764	cardiopatía estructural
+T51	ENFERMEDAD 5016 5024	isquemia
+T52	ENFERMEDAD 5067 5093	angina de esfuerzo estable
+T53	ENFERMEDAD 5828 5873	origen anómalo en el seno coronario izquierdo
+T54	ENFERMEDAD 6488 6496	isquemia
+T55	ENFERMEDAD 6775 6794	bradicardia sinusal
+T56	ENFERMEDAD 6886 6905	necrosis miocárdica
+T57	ENFERMEDAD 6926 6934	isquemia
+T58	ENFERMEDAD 7102 7110	isquemia
+T59	ENFERMEDAD 7709 7715	angina
+T60	ENFERMEDAD 7874 7958	Anomalía coronaria: arteria coronaria derecha con origen en seno coronario izquierdo
+T61	ENFERMEDAD 7990 8004	Angina estable
+T62	ENFERMEDAD 4458 4466	isquemia
+T63	ENFERMEDAD 5148 5156	isquemia
+T64	ENFERMEDAD 3608 3674	Salida anómala de coronaria derecha desde seno coronario izquierdo

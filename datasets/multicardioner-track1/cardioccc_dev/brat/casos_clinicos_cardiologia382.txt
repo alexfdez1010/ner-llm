@@ -1,0 +1,36 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+No alergias conocidas. Factores de riesgo cardiovascular (RCV): exfumador desde hace 17 años.
+Hipertensión arterial (HTA) bien controlada. Dislipemia sin tratamiento médico. Hiperuricemia.
+Síndrome de apnea-hipopnea obstructiva del sueño (SAHOS) en tratamiento con presión positiva continua en la vía aérea (CPAP).
+Historia hematológica: poliglobulia con sangrías periódicas. En septiembre de 2017: diagnosticado de linfoma linfocítico con delección del gen p53. Artropatía degenerativa de hombro y osteofitosis acromioclavicular valorado por traumatología y rehabilitación.
+Intervenciones quirúrgicas: hernia inguinal.
+Tratamiento habitual: enalapril/HCTZ 20/12,5 (1-0-0), alopurinol 300 mg 0-1-0, omeprazol 20 mg 1-0-0.
+Funciones superiores conservadas (SFB): independiente para las actividades básicas de la vida diaria (ABVD). Vive con su mujer.
+
+ENFERMEDAD ACTUAL:
+Durante la primera visita, el paciente refiere encontrarse cansado, con mayor astenia de la habitual. Sin embargo, niega disnea, tanto de esfuerzo como de reposo, ortopnea, oliguria o edemas en extremidades inferiores. No tiene antecedentes de dolor torácico ni de palpitaciones.
+Se realiza electrocardiograma (ECG) y se solicita analítica y ecocardiograma para completar el estudio.
+Dados los criterios de mal pronóstico asociados a la leucemia linfocítica, por parte de hematología se decidió iniciar tratamiento con ibrutinib (inhibidor de la tirosin-kinasa de Bruton).
+Aproximadamente un mes después de comenzar el tratamiento, el paciente acude al servicio de urgencias por palpitaciones y sensación de opresión centrotorácica. A su llegada se realizó un
+ECG que mostró un flutter auricular común con respuesta ventricular a 150 lpm. No presentaba signos de insuficiencia cardiaca en la exploración física ni en la radiografía de tórax. Se administró tratamiento con betabloqueantes revirtiendo de forma espontánea a ritmo sinusal al cabo de pocas horas, por lo que el paciente fue dado de alta siendo remitido a consultas de cardio-onco-hematología ambulatoria.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal, bloqueo completo de rama derecha (BRDHH) con alteraciones secundarias de la repolarización. No alteraciones agudas de la repolarización.
+ANALÍTICA: glucosa 92 mg/dl, urea 117 mg/dl, creatinina 1,19 mg/dl, albúmina 3.66 mg/dl, sodio 138 mmol/l, potasio 4,72 mmol/l, hemoglobina 12,4 g/dl, leucocitos 11.600 μL (N 68%), plaquetas 77000 μL.
+ECOCARDIOGRAMA: ventrículo izquierdo (VI) no dilatado ni hipertrófico, con función sistólica global y segmentaria conservadas. Válvula aórtica esclerocalcificada sin alteraciones funcionales. Válvula mitral esclerosa con regurgitación leve. Aurícula izquierda (AI) ligeramente dilatada. Ventrículo derecho (VD) no dilatado con buena función. No se detecta insuficiencia tricuspídea (IT). La curva de aceleración pulmonar no sugiere hipertensión pulmonar significativa. VCI no dilatada. No derrame pericárdico.
+ECG urgencias: flutter auricular común con respuesta ventricular a 150 lpm.
+Radiografía de tórax: silueta cardiaca aumentada de tamaño. No pinzamiento de senos costofrénicos ni otros datos de insuficiencia cardiaca.
+
+EVOLUCIÓN CLÍNICA
+Tras un primer episodio de flutter auricular, el paciente cumple criterios para iniciar tratamiento anticoagulante (CHA2DS2VASc: 3 por edad > 75 e HTA), por lo que se pauta tratamiento con rivaroxabán 15 mg, 1 comprimido al día y se inicia tratamiento con betabloqueantes a dosis bajas (bisoprolol 1,25 mg, 1 comprimido al día).
+Un mes después, presenta un nuevo episodio de palpitaciones junto con disnea de esfuerzo acudiendo a urgencias. El ECG muestra esta vez fibrilación auricular (FA) con respuesta ventricular rápida. Se decide aplicar estrategia de control de frecuencia mediante la administración de digoxina y dosis mayor de betabloqueante (bisoprolol 5 mg). Una vez controlada la frecuencia cardiaca y al no presentar datos congestivos, es dado de alta adelantando la cita de cardio-onco-hematología.
+El paciente es valorado a la semana en consultas, donde se le realiza un ECG que muestra un ritmo sinusal, de modo que se inicia flecainida a dosis bajas (50 mg al desayuno y 50 mg a la cena) y se mantiene tratamiento betabloqueante (reduciendo dosis de bisoprolol a 2,5 mg). A pesar de dicho tratamiento, el paciente acude nuevamente 20 días después a la consulta por clínica de palpitaciones de una semana de evolución, disnea a medianos esfuerzos y edemas en extremidades inferiores. En el ECG se observa un flutter auricular IC con respuesta ventricular a 170 lpm, procediéndose a ingreso en planta de cardiología.
+Durante el ingreso se suspende tratamiento con flecainida y se inicia estrategia de control de la frecuencia cardiaca con betabloqueantes a dosis altas (bisoprolol 10 mg al día) y digoxina, revirtiendo de forma espontánea a ritmo sinusal. Además, se instaura tratamiento diurético con buena respuesta al mismo y desaparición de los signos congestivos, por lo que el paciente pudo ser dado de alta una semana después.
+
+DIAGNÓSTICO
+FA – flutter auricular paroxístico en contexto de ibrutinib.
+Episodio de flutter auricular IC tras toma de flecainida.
+Función biventricular conservada.
+Linfoma linfocítico en tratamiento con ibrutinib.

@@ -1,0 +1,40 @@
+T40	ENFERMEDAD 159 175	hábito tabáquico
+T41	ENFERMEDAD 410 445	extrasistolia ventricular monomorfa
+T42	ENFERMEDAD 501 541	taquicardias ventriculares no sostenidas
+T43	ENFERMEDAD 629 652	cardiopatía estructural
+T44	ENFERMEDAD 843 863	enfermedad coronaria
+T45	ENFERMEDAD 1443 1454	presincopal
+T46	ENFERMEDAD 2101 2126	trombosis venosa profunda
+T47	ENFERMEDAD 2236 2274	extrasistolia supraventricular aislada
+T48	ENFERMEDAD 2276 2301	Extrasistolia ventricular
+T50	ENFERMEDAD 2553 2588	Extrasistolia ventricular monomorfa
+T51	ENFERMEDAD 2690 2713	bigeminismo ventricular
+T52	ENFERMEDAD 2850 2880	Extrasistolia supraventricular
+T53	ENFERMEDAD 3155 3160	angor
+T54	ENFERMEDAD 3281 3316	Extrasistolia ventricular monomorfa
+T55	ENFERMEDAD 3503 3528	extrasistolia ventricular
+T56	ENFERMEDAD 3632 3640	isquemia
+T57	ENFERMEDAD 3735 3756	insuficiencia central
+T58	ENFERMEDAD 4121 4142	hipertensión pulmonar
+T59	ENFERMEDAD 4147 4166	derrame pericárdico
+T60	ENFERMEDAD 5643 5656	extrasistolia
+T62	ENFERMEDAD 6020 6043	taquicardia ventricular
+T63	ENFERMEDAD 6294 6307	extrasistolia
+T64	ENFERMEDAD 6846 6854	arritmia
+T65	ENFERMEDAD 7118 7155	extrasistolia ventricular muy aislada
+T66	ENFERMEDAD 7253 7278	Extrasistolia ventricular
+T67	ENFERMEDAD 7430 7453	cardiopatía estructural
+T68	ENFERMEDAD 4776 4803	extrasístoles ventriculares
+T69	ENFERMEDAD 1104 1115	hipotensión
+T70	ENFERMEDAD 1423 1439	clínica sincopal
+T71	ENFERMEDAD 2345 2348	BRD
+T72	ENFERMEDAD 4809 4812	BRD
+T73	ENFERMEDAD 5497 5510	extrasístoles
+T75	ENFERMEDAD 6569 6582	extrasistolia
+T12	ENFERMEDAD 3429 3453	trigeminismo ventricular
+T23	ENFERMEDAD 3455 3474	Doblete ventricular
+T24	ENFERMEDAD 3487 3489	TV
+T32	ENFERMEDAD 5184 5196	extrasístole
+T36	ENFERMEDAD 6045 6047	TV
+T49	ENFERMEDAD 2320 2343	bloqueo de rama derecha
+T128	ENFERMEDAD 4887 4891	TSVD

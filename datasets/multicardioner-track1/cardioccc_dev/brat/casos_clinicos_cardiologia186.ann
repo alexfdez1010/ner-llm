@@ -1,0 +1,26 @@
+T20	ENFERMEDAD 2416 2450	ventrículo izquierdo (VI) dilatado
+T38	ENFERMEDAD 1728 1749	edema agudo de pulmón
+T39	ENFERMEDAD 2024 2044	insuficiencia mitral
+T40	ENFERMEDAD 2259 2278	coartación de aorta
+T41	ENFERMEDAD 2327 2368	Derrame pleural en ambas bases pulmonares
+T42	ENFERMEDAD 2766 2785	derrame pericárdico
+T43	ENFERMEDAD 2848 2877	Disfunción sistólica VI grave
+T44	ENFERMEDAD 2919 2943	miocardiopatía periparto
+T45	ENFERMEDAD 3193 3225	Disfunción sistólica de VI grave
+T46	ENFERMEDAD 3340 3360	Insuficiencia mitral
+T47	ENFERMEDAD 3604 3628	tromboembolismo pulmonar
+T48	ENFERMEDAD 3630 3633	TEP
+T49	ENFERMEDAD 3906 3927	edema agudo de pulmón
+T50	ENFERMEDAD 3956 3980	miocardiopatía periparto
+T51	ENFERMEDAD 4841 4864	arritmias ventriculares
+T52	ENFERMEDAD 5101 5125	miocardiopatía periparto
+T53	ENFERMEDAD 5341 5362	Edema agudo de pulmón
+T54	ENFERMEDAD 5364 5434	Miocardiopatía periparto con disfunción grave del ventrículo izquierdo
+T55	ENFERMEDAD 5491 5514	arritmias ventriculares
+T56	ENFERMEDAD 2046 2048	IM
+T57	ENFERMEDAD 3725 3736	hipotensión
+T58	ENFERMEDAD 1798 1888	ventrículo izquierdo ligeramente dilatado (DTDVI 57 mm) con disfunción sistólica muy grave
+T59	ENFERMEDAD 3052 3058	zoster
+T60	ENFERMEDAD 3150 3191	ventrículo izquierdo ligeramente dilatado
+T61	ENFERMEDAD 3804 3840	disfunción sistólica de VI muy grave
+#1	AnnotatorNotes T56	 insuficiencia mitral

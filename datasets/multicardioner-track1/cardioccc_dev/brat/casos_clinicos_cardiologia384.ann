@@ -1,0 +1,42 @@
+T15	ENFERMEDAD 68 89	Hipertensión arterial
+T16	ENFERMEDAD 91 101	Dislipemia
+T17	ENFERMEDAD 106 123	diabetes mellitus
+T18	ENFERMEDAD 134 163	Cardiopatía isquémica crónica
+T19	ENFERMEDAD 165 240	Infarto agudo de miocardio con elevación del segmento ST (IAMCEST) inferior
+T20	ENFERMEDAD 291 309	angina refractaria
+T21	ENFERMEDAD 391 440	oclusión trombótica de coronaria derecha proximal
+T22	ENFERMEDAD 442 488	Suboclusión crónica de primera obtusa marginal
+T23	ENFERMEDAD 740 755	pseudoaneurisma
+T24	ENFERMEDAD 1030 1051	trombo intracavitario
+T25	ENFERMEDAD 1123 1147	enfermedad renal crónica
+T26	ENFERMEDAD 1160 1190	Enfermedad arterial periférica
+T27	ENFERMEDAD 1214 1237	Demencia tipo Alzheimer
+T28	ENFERMEDAD 1536 1564	Deterioro cognitivo moderado
+T29	ENFERMEDAD 1621 1647	infarto agudo de miocardio
+T30	ENFERMEDAD 1649 1652	IAM
+T31	ENFERMEDAD 1725 1746	cardiopatía isquémica
+T32	ENFERMEDAD 2370 2395	trombosis venosa profunda
+T33	ENFERMEDAD 2397 2400	TVP
+T34	ENFERMEDAD 3065 3108	discinesia inferior basal y posterior basal
+T35	ENFERMEDAD 3110 3143	acinesia de septo posterior medio
+T36	ENFERMEDAD 3238 3253	pseudoaneurisma
+T37	ENFERMEDAD 3412 3421	aneurisma
+T38	ENFERMEDAD 3524 3554	Dilatación auricular izquierda
+T39	ENFERMEDAD 3556 3613	Leve derrame pericárdico en zona adyacente cara posterior
+T40	ENFERMEDAD 3768 3797	hipertensión venosa sistémica
+T41	ENFERMEDAD 4100 4122	pseudoaneurisma del VI
+T42	ENFERMEDAD 4389 4395	trombo
+T43	ENFERMEDAD 4531 4563	Disfunción moderada-grave del VI
+T44	ENFERMEDAD 4576 4611	Leve insuficiencia aórtica y mitral
+T45	ENFERMEDAD 4762 4777	pseudoaneurisma
+T46	ENFERMEDAD 4958 4980	insuficiencia cardiaca
+T47	ENFERMEDAD 4982 5005	arritmias ventriculares
+T48	ENFERMEDAD 5023 5029	angina
+T49	ENFERMEDAD 5263 5286	trombo intraventricular
+T50	ENFERMEDAD 5737 5766	Cardiopatía isquémica crónica
+T51	ENFERMEDAD 5768 5797	SCACEST inferior evolucionado
+T52	ENFERMEDAD 5871 5898	Pseudoaneurisma ventricular
+T53	ENFERMEDAD 5923 5944	trombo intracavitario
+T54	ENFERMEDAD 5946 5977	Disfunción ventricular moderada
+T55	ENFERMEDAD 560 622	ventrículo izquierdo (VI) ligeramente dilatado con hipertrofia
+T118	ENFERMEDAD 3466 3497	signos degenerativos valvulares

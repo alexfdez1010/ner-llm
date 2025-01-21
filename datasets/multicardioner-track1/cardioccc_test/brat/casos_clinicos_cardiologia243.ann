@@ -1,0 +1,57 @@
+T50	ENFERMEDAD 88 111	alergias medicamentosas
+T51	ENFERMEDAD 126 141	hábitos tóxicos
+T52	ENFERMEDAD 178 199	hipertensión arterial
+T53	ENFERMEDAD 202 212	dislipemia
+T54	ENFERMEDAD 214 251	Fibrilación auricular (FA) permanente
+T55	ENFERMEDAD 237 239	FA
+T56	ENFERMEDAD 1444 1517	Miembros inferiores: trastornos tróficos por insuficiencia venosa crónica
+T57	ENFERMEDAD 1655 1657	FA
+T58	ENFERMEDAD 2561 2606	hipertrofia a nivel de septo interventricular
+T59	ENFERMEDAD 2911 3004	Válvula mitral esclerocalcificada con restricción del velo posterior e insuficiencia moderada
+T60	ENFERMEDAD 3103 3132	Insuficiencia tricúspide leve
+T61	ENFERMEDAD 3231 3252	hipertensión pulmonar
+T62	ENFERMEDAD 3257 3276	derrame pericárdico
+T63	ENFERMEDAD 3354 3356	FA
+T64	ENFERMEDAD 4238 4253	pseudoaneurisma
+T65	ENFERMEDAD 4333 4367	Insuficiencia mitral leve-moderada
+T66	ENFERMEDAD 4369 4407	Insuficiencia tricúspide leve-moderada
+T67	ENFERMEDAD 4534 4555	Insuficiencia aórtica
+T68	ENFERMEDAD 4598 4617	derrame pericárdico
+T69	ENFERMEDAD 4776 4810	Aneurisma y pseudoaneurisma apical
+T70	ENFERMEDAD 4877 4896	derrame pericárdico
+T71	ENFERMEDAD 4906 4921	derrame pleural
+T72	ENFERMEDAD 4934 4979	atelectasia subsegmentaria en lóbulo inferior
+T73	ENFERMEDAD 5004 5006	FA
+T74	ENFERMEDAD 5307 5329	síndrome de tako-tsubo
+T75	ENFERMEDAD 5339 5355	SCASEST anterior
+T76	ENFERMEDAD 6929 6954	derrame pericárdico grave
+T77	ENFERMEDAD 7053 7103	taponamiento cardiaco secundario a rotura cardiaca
+T78	ENFERMEDAD 8794 8811	hipotensión grave
+T79	ENFERMEDAD 8957 8999	taponamiento cardiaco secundario a derrame
+T80	ENFERMEDAD 9418 9438	hipotensión arterial
+T81	ENFERMEDAD 10070 10085	pseudoaneurisma
+T82	ENFERMEDAD 10272 10281	aneurisma
+T83	ENFERMEDAD 10284 10324	pseudoaneurisma apical y apical inferior
+T84	ENFERMEDAD 11123 11185	Disección espontánea de DA distal con oclusión distal del vaso
+T85	ENFERMEDAD 11293 11365	taponamiento cardiaco por rotura de pared libre del ventrículo izquierdo
+T86	ENFERMEDAD 11412 11428	Pseudonaneurisma
+T87	ENFERMEDAD 11431 11465	aneurisma apical y apical inferior
+T88	ENFERMEDAD 11508 11539	Insuficiencia renal aguda grave
+T89	ENFERMEDAD 11574 11606	Fibrilación auricular permanente
+T90	ENFERMEDAD 11622 11643	Hipertensión arterial
+T91	ENFERMEDAD 11645 11655	Dislipemia
+T92	ENFERMEDAD 3006 3047	Aurícula izquierda moderadamente dilatada
+T93	ENFERMEDAD 414 419	angor
+T94	ENFERMEDAD 5169 5184	angor de reposo
+T95	ENFERMEDAD 5774 5792	eventos arrítmicos
+T96	ENFERMEDAD 6798 6809	hipotensión
+T97	ENFERMEDAD 2819 2909	Válvula aórtica trivalva, esclerocalcificada, con apertura conservada e insuficiencia leve
+T98	ENFERMEDAD 3605 3690	Disección de la arteria descendente anterior distal (DA) hasta la punta, con oclusión
+T99	ENFERMEDAD 6250 6308	disección espontanea a nivel de la DA distal, con oclusión
+T100	ENFERMEDAD 7692 7704	PCR por AESP
+T101	ENFERMEDAD 11233 11270	PCR por actividad eléctrica sin pulso
+T102	ENFERMEDAD 11096 11112	IAMCEST anterior
+T103	ENFERMEDAD 4002 4044	Septo anterior basal con hipertrofia grave
+T208	ENFERMEDAD 7611 7634	región apical infartada
+T214	ENFERMEDAD 9015 9048	coágulos sobre cavidades derechas
+T215	ENFERMEDAD 9210 9267	saco pericárdico, visualizando nuevamente desgarro apical

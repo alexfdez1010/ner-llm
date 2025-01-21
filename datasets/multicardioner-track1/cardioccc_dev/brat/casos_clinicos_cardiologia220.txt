@@ -1,0 +1,157 @@
+Situación funcional:
+Situación fisica: IABVD.
+
+Historia actual:
+Mujer de 84 años sin AP de interés que acude por disnea progresiva de más de 2 semanas de evolución hasta hacerse de mínimos esfuerzos, ortopnea y edema en miembros inferiores.
+Refiere dudosas palpitaciones desde hace varios días pero niega angina, ni síncope u otros.
+No infecciones recientes, no cambios en la medicación u otra causa que justifique la descompensación.
+
+Exploración física:
+Ingreso: TA: 138/90 mmHg FC: 166 Ipm. Ta: 36.2 C. SatO2: 95 % basal BEG. IY. ACP: Arrítmica sin soplos; MVC con crepitantes hasta campos medios. MMII: edema hasta tercio medio, no signos de TVP.
+
+Al alta: TA: 100/70 mmHg FC: 80 Ipm. ACP: Arrítmica sin soplos; MVC con crepitantes en base derecha. MMII: no edemas ni signos de TVP.
+
+Resumen de pruebas complementarias:
+
+Laboratorio:
+Analítica urgente 03/09/2021 21:16: Hematíes 4.770.000/pL, Hb 14.1 g/dL, Hto 43%, VCM 90.1 fL, HCM 29.5 pg, Leucocitos 7140/pL [N 4180, L 2150, M 380, E 250, B 40, LUC 150, N/L 1.94}, Plaquetas 156.000/4, VPM 12.8 fL, TP 12 s / 77%, INR 1.1, Fibrinógeno 335 mg/dL, TTPa 24.7 s / ratio 0.92, Glucemia 105 mg/dL, Creatinina 0.82 mg/dL, Filtrado 66 mL/min, Urea 55 mg/dL, Na+ 139 mmol/L, K+ 4.6 mmol/L, Cl- 105 mmol/L, ASAT 77 UI/L, ALAT 85 UI/L, LDH 270 U1/L, GGT 120 UI/L, BRT 0.87 mg/dL, BRD 0.26 mg/dL, BRI 0.61 mg/dL, NT-proBNP 3145 pg/mL, PCR 3.7 mg/L
+
+Analítica diferida 06/09/2021 08:30: Hematíes 4.720.000/11, Hb 13.8 g/dL, Hto 42.3%, VCM 89.6 fL, HCM 29.3 pg, Leucocitos 7410/pL [N 3790, L 2660, M 470, E 300, B 40, LUC 140, N/L 1.42], Plaquetas 175.000/pL, VPM 12.8 fL, TP 13 s / 65%, INR 1.2, Fibrinógeno 361 mg/dL, TTPa 26.6 s / ratio 0.99, Glucemia 99 mg/dL, HbA1C 5.4%, Colesterol total 160 mg/dL, HDL 58 mg/dL, noHDL 102 mg/dL, LDLc 88 mg/dL, TG 71 mg/dL, Creatinina 1.16 mg/dL, Filtrado 43 mL/min, Urato 7.7 mg/dL, Na+ 140 mmol/L, K+ 3.9 mmol/L, Cl- 100 mmol/L, ASAT 38 Ul/L, ALAT 63 Ul/L, FAIc 102 Ul/L, GGT 96 Ul/L, BRT 0.74 mg/dL, CPK 46 Ul/L, Proteínas 6.2 g/dL, PCR 3.1 mg/L, Hierro 45 pg/dL, Transferrina 199 mg/dL, CTTH 281 pg/dL, IST 16%, Ferritina 121 ng/mL, TSH 3.16 pUl/mL
+
+Analítica al alta: 09/09/2021 08:32:22: Hemoglobina 13.4 g/dL (11.8 - 15.8), Hematocrito 41.1 % (35 - 45), V.C.M. 91.1 fL (80 - 101), Leucocitos 8.58 x10e3/pL (3.6 - 10.5), Plaquetas 154 x10e3/pL (150 - 370), INR 1.1 (0.8 - 1.2), GLUCOSA EN SUERO 107 mg/dL (74 - 106), CREATININA EN SUERO 0.72 mg/dL (0.5 - 1.1), FILTRADO GLOMERULAR (CKD-EPI) 77 mL/min/1.73m2 (45 - 999999), SODIO EN SUERO 134 mmol/L (136 - 145), POTASIO EN SUERO 4.2 mmol/L (3.5 - 5.1), NT-proBNP 4177 pg/mL (0 - 450)
+
+
+Imagen:
+Rx torax 03/08/21: ICT aumentado, redistribución vascular marcada sin claro derrame pleural.
+No consolidaciones
+
+Ecocardioscopia 03/08/21: Realizada en FA a unos 130-140Ipm, VI no dilatado leve-mod disfuncionante. VD normal. IT moderada-severa sin otras valvulopatías. No derrame. Dilatación biauricular. Vena cava dilatada sin apenas campos respiratorios. Ecocardiograma 06/09/21: estudio realizado en FA a 100-130 Ipm. Ventrículo izquierdo no dilatado, hipertrofia ligera, con función sistólica global ligeramente deprimida. FEVI BP 47% con hipocinesia global y movimiento del septo relacionado con sobrecarga derecha. Insuficiencia mitral al menos de grado moderado. Dilatación moderada de ambas aurículas. Ventrículo derecho ligeramente dilatado, con disfunción moderada. Insuficiencia tricúspide moderada a severa por dilatación del anillo. PSAP estimada en torno a 45-50 mmHg. Vena cava inferior no dilatada y con colapso inspiratorio fisiológico. Sin derrame pericárdico.
+
+Otras pruebas:
+ECG urg 03/08/21: FA con RVR a 120 Ipm, eje normal, QRS estrecho sin alteraciones de la repolarización.
+
+ECG 08/09/21: FA con RVR a 108 Ipm, eje normal, QRS estrecho sin alteraciones en la repolarización.
+
+PCR COVID 03/08/21: negativa
+
+Evolución y comentarios:
+Ingresa por un primer episodio de IC en el contexto de FA con respuesta ventricular rápida.
+Mejoría rápida con tto diurético intravenoso. Se opta por control de FC (bisoprolol y digoxina a dosis bajas) al estar las aurículas dilatadas y presentar IT moderada-severa así como 1M al menos moderada. Se ajusta tto médico y se comienza anticoagulación con rivaroxaban, derivándose a consultas para seguimiento evolutivo. No se pauta 1ECA por tendencia a la hipotensión.
+
+Diagnóstico principal :
+Primer episodio de IC. Fibrilación auricular con RV rápida. CHADS-Vasc 4. IT moderada a severa, 1M al menos moderada y dilatación biauricular. FEVI ligeramente deprimida (47%).
+
+Tratamiento:
+
+Fármacos:
+-Xarelto 20 mg: 1 comp en la cena.
+-Bisoprolol 5 mg: 1 comp en desayuno y cena.
+-Digoxina 0,25 mg: 1/2 comp diario.
+-Jardiance 10 mg: 1 comp en desayuno.
+-Elecor (eplerenona) 25 mg: 1 comp en desayuno.
+-Seguril 1 comp en desayuno durante una semana y suspended. En caso de edemas, ganancia rápida de peso o disnea podrá tomar 2-3 comp diarios transitoriamente.
+
+Continuar con su tto farmacológico domiciliario: CITALOPRAM 10 MG 1-0-0, OMEPRAZOL 20 MG 0-1-0, NOLOTIL 575MG 1-1-1 si dolor intenso, MASTICAL D 500 MG/ 800 UI 0-0-1 y PARACETAMOL 1000 MG 1-0-1
+
+Otras Recomendaciones:
+Revisión en consultas de Atención Primaria y Cardiología (se adjunta cita).
+
+
+HOJA DE MEDICACIÓN
+
+FÁRMACOS
+
+PARACETAMOL 1000 MG 40 COMPRIMIDOS
+Desayuno 1
+Comida
+Cena 1
+Al Acostarse
+Fecha Inicial 02/10/12
+Fecha Final CRONICO
+
+CITALOPRAM 10 MG 28 COMPRIMIDOS
+Desayuno 1
+Comida
+Cena
+Al Acostarse
+Fecha Inicial 13/06/19
+Fecha Final CRONICO
+
+MASTICAL D 500 MG/ 800 UI COMPRIMIDOS
+Desayuno
+Comida
+Cena 1
+Al Acostarse
+Fecha Inicial 28/04/15
+Fecha Final CRONICO
+
+OMEPRAZOL 20 MG 28 CAPSULAS
+Desayuno
+Comida 1
+Cena
+Al Acostarse
+Fecha Inicial 15/04/16
+Fecha Final CRONICO
+
+NOLOTIL 575MG 20 CAPSULAS
+Unidades: CÁPSULA, Vía: ORAL
+Desayuno 1
+Comida 1
+Cena 1
+Al Acostarse
+Fecha Inicial 13/12/16
+Fecha Final CRONICO                                                                                                                             SI DOLOR INTENSO
+
+XARELTO 20 MG COMPRIMIDOS RECUBIERTOS CON
+Unidades: COMPRIMIDO, Vía: ORAL
+Desayuno
+Comida
+Cena 1
+Al Acostarse
+Fecha Inicial 09/09/21
+Fecha Final CRONICO
+
+BISOPROLOL 5 MG 60 COMPRIMIDOS
+Unidades: COMPRIMIDO, Vía: ORAL
+Desayuno 1
+Comida
+Cena 1
+Al Acostarse
+Fecha Inicial 09/09/21
+Fecha Final CRONICO
+
+DIGOXINA KERN PHARMA 0,25MG 50 COMPRIMIDOS
+Unidades: COMPRIMIDO, Vía: ORAL
+Desayuno 0,5
+Comida
+Cena
+Al Acostarse
+Fecha Inicial 09/09/21
+Fecha Final CRONICO
+
+JARDIANCE 10MG COMPRIMIDOS RECUBIERTOS CON
+Unidades: COMPRIMIDO, Vía: ORAL
+Desayuno 1
+Comida
+Cena
+Al Acostarse
+Fecha Inicial 09/09/21
+Fecha Final CRONICO
+
+EPLERENONA 25 MG 30 COMPRIMIDOS
+Unidades: COMPRIMIDO, Vía: ORAL
+Desayuno 1
+Comida
+Cena
+Al Acostarse
+Fecha Inicial 09/09/21
+Fecha Final CRONICO
+
+SEGURIL 40MG 30 COMPRIMIDOS
+Unidades: COMPRIMIDO, Vía: ORAL
+Desayuno 1
+Comida
+Cena
+Al Acostarse
+Fecha Inicial 09/09/21
+Fecha Final CRONICO

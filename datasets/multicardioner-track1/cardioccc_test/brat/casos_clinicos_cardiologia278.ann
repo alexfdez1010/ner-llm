@@ -1,0 +1,34 @@
+T39	ENFERMEDAD 127 139	dislipidemia
+T40	ENFERMEDAD 141 162	hipertensión arterial
+T41	ENFERMEDAD 164 173	sobrepeso
+T42	ENFERMEDAD 183 207	diabetes mellitus tipo 2
+T44	ENFERMEDAD 474 487	histiocitosis
+T45	ENFERMEDAD 756 775	EPOC fenotipo mixto
+T46	ENFERMEDAD 1548 1557	serositis
+T48	ENFERMEDAD 2468 2493	trombosis venosa profunda
+T49	ENFERMEDAD 2495 2498	TVP
+T50	ENFERMEDAD 2777 2792	derrame pleural
+T51	ENFERMEDAD 2795 2817	condensación neumónica
+T52	ENFERMEDAD 3035 3050	derrame pleural
+T53	ENFERMEDAD 3053 3075	condensación neumónica
+T54	ENFERMEDAD 3103 3124	fibrilación auricular
+T55	ENFERMEDAD 3237 3262	Extrasistolia ventricular
+T56	ENFERMEDAD 5000 5013	valvulopatías
+T57	ENFERMEDAD 5080 5105	Insuficiencia tricuspídea
+T58	ENFERMEDAD 5200 5225	Derrame pericárdico grave
+T59	ENFERMEDAD 5939 5996	shock obstructivo en el contexto de taponamiento cardiaco
+T60	ENFERMEDAD 6821 6840	derrame pericárdico
+T61	ENFERMEDAD 7049 7106	Shock obstructivo en el contexto de taponamiento cardiaco
+T62	ENFERMEDAD 7108 7133	Derrame pericárdico grave
+T63	ENFERMEDAD 7149 7170	taponamiento cardiaco
+T64	ENFERMEDAD 7387 7400	Poliserositis
+T65	ENFERMEDAD 7413 7436	Síndrome constitucional
+T66	ENFERMEDAD 7458 7485	síndrome de Erdheim-Chester
+T67	ENFERMEDAD 7487 7526	histiocitosis esclerosante poliostótica
+T68	ENFERMEDAD 7324 7356	Fibrilación auricular permanente
+T69	ENFERMEDAD 3159 3204	Hemibloqueo anterior izquierdo del haz de His
+T70	ENFERMEDAD 237 269	fibrilación auricular permanente
+T71	ENFERMEDAD 5107 5109	IT
+T72	ENFERMEDAD 5137 5164	Vena cava inferior dilatada
+T73	ENFERMEDAD 5414 5469	shock obstructivo secundario a un taponamiento cardiaco
+T171	ENFERMEDAD 6505 6524	líquido pericárdico

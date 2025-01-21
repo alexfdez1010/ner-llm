@@ -1,0 +1,12 @@
+T2	ENFERMEDAD 1545 1564	quiste broncogénico
+T6	ENFERMEDAD 1695 1713	formación quística
+T7	ENFERMEDAD 217 220	EII
+T8	ENFERMEDAD 260 285	asma bronquial extrínseca
+T9	ENFERMEDAD 287 315	púrpura de Schonleich-Henoch
+T10	ENFERMEDAD 332 357	enfermedad de Crohn ileal
+T11	ENFERMEDAD 382 389	fumador
+T14	ENFERMEDAD 504 507	EII
+T18	ENFERMEDAD 675 694	enfermedad de Crohn
+T19	ENFERMEDAD 706 712	lesión
+#1	AnnotatorNotes T7	  EII: enfermedad inflamatoria intestinal
+#2	AnnotatorNotes T14	  EII: enfermedad inflamatoria intestinal

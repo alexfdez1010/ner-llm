@@ -1,0 +1,26 @@
+Antecedentes, enfermedad actual y exploración física
+Mujer de 61 años, sin factores de riesgo cardiovascular ni antecedentes médicos relevantes, acude a su centro de salud por dolor torácico opresivo irradiado a espalda, asociado a palpitaciones y disnea, de una hora de evolución.
+A su llegada impresiona de mal estado general con frecuencia cardiaca en torno a 250 lpm e hipotensión arterial. Se realiza electrocardiograma (figura 1), tras lo que se decide avisar a los servicios de emergencias y administrar 300 mg de amiodarona intravenosa. A la llegada de la UVI móvil la paciente permanece sintomática sin haber conseguido cardioversión.
+Ante la presencia de una taquiarritmia que se interpreta como taquicardia ventricular, mal tolerada hemodinámicamente, se decide realizar cardioversión eléctrica.
+Previa sedación se procede a cardioversión con tres choques (200-300-360 julios) sin éxito, tras lo que se traslada de urgencia a su hospital de referencia.
+
+
+Pruebas complementarias
+ʟʟ Análisis: hemograma: hemoglobina 11,7 g/dl, hematocrito 36%, leucocitos 9.000/uL, plaquetas 183.000/uL. Coagulación normal. Glucemia 225 mg/dl, creatinina 1,2 mg/dl, sodio 138 mmol/litro, potasio 4,1 mmol/litro, magnesio 1,9 mg/dl, lactato 2,4 mmol/litro, calcio 8,3 mmol/litro y troponina T 130 pg/ml.
+ʟʟ Gasometría venosa: pH 7,16, pCO2 54, HCO3 19, BE -9,7.
+ʟʟ ECG
+
+Evolución clínica
+Ingresa en la unidad de cuidados intensivos donde se inicia tratamiento con lidocaína intravenosa, lográndose cardioversión con mejoría de la tensión arterial. Ya en ritmo sinusal, se objetiva en el electrocardiograma un descenso generalizado del segmento ST con ascenso en aVR, por lo que contacta con la unidad de críticos cardiológicos de nuestro centro y se traslada para estudio.
+A su llegada la paciente se encuentra asintomática y hemodinámicamente estable.
+Al interrogatorio dirigido niega episodios previos de dolor torácico o palpitaciones pese a caminar diariamente varios kilómetros. En el electrocardiograma basal se objetiva preexcitación.
+
+Se realiza ecocardiograma donde se objetiva anomalía de Ebstein con velo lateral de la válvula tricúspide con implantación baja (1,4 cm de la mitral) no conocida previamente. Ventrículo derecho levemente dilatado con función sistólica levemente deprimida e insuficiencia tricuspídea moderada-severa.
+Se revisa el registro de la taquicardia con el servicio de electrofisiología y, ante la sospecha de que la paciente presentara una taquicardia supraventricular, probable fibrilación auricular preexcitada, se decide realizar estudio electrofisiológico y ablación.
+En dicho estudio se detectan 3 vías accesorias: posteroseptal derecha, posteroseptal izquierda e inferolateral derecha, procediéndose a ablación efectiva de las mismas.
+Como complicación presenta derrame pericárdico leve que permaneció sin cambios durante su evolución en planta, siendo dada de alta asintomática con control ambulatorio.
+
+Diagnóstico
+ʟʟ Síndrome de Wolff Parkinson White
+ʟʟ Anomalía de Ebstein
+ʟʟ Insuficiencia tricuspídea severa

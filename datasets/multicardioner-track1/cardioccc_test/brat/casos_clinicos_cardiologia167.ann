@@ -1,0 +1,56 @@
+T45	ENFERMEDAD 134 152	síndrome de Marfan
+T46	ENFERMEDAD 413 434	hipertensión arterial
+T47	ENFERMEDAD 436 439	HTA
+T48	ENFERMEDAD 445 462	diabetes mellitus
+T49	ENFERMEDAD 464 466	DM
+T50	ENFERMEDAD 472 482	dislipemia
+T51	ENFERMEDAD 902 925	cardiopatía estructural
+T52	ENFERMEDAD 1192 1199	síncope
+T53	ENFERMEDAD 1638 1664	parada cardiorrespiratoria
+T54	ENFERMEDAD 1783 1806	fibrilación ventricular
+T55	ENFERMEDAD 2456 2478	síndrome aórtico agudo
+T56	ENFERMEDAD 2679 2703	tromboembolismo pulmonar
+T57	ENFERMEDAD 2707 2719	flap aórtico
+T58	ENFERMEDAD 2898 2907	arritmias
+T59	ENFERMEDAD 3465 3490	trombosis venosa profunda
+T60	ENFERMEDAD 3492 3495	TVP
+T61	ENFERMEDAD 5649 5670	hipertensión pulmonar
+T62	ENFERMEDAD 5686 5705	derrame pericárdico
+T63	ENFERMEDAD 6169 6191	síndrome aórtico agudo
+T64	ENFERMEDAD 6340 6360	arritmias sostenidas
+T65	ENFERMEDAD 6591 6603	canalopatías
+T66	ENFERMEDAD 6773 6792	síndrome de Brugada
+T67	ENFERMEDAD 7001 7027	parada cardiorrespiratoria
+T68	ENFERMEDAD 7041 7064	fibrilación ventricular
+T69	ENFERMEDAD 7216 7226	dislipemia
+T70	ENFERMEDAD 7611 7622	vasoespasmo
+T71	ENFERMEDAD 7988 8013	extrasistolia ventricular
+T72	ENFERMEDAD 8054 8108	lesión subepicárdica ínfero-posterolateral transitoria
+T73	ENFERMEDAD 8137 8158	vasoespasmo coronario
+T74	ENFERMEDAD 8366 8386	angina vasoespástica
+T75	ENFERMEDAD 9199 9214	ateroesclerosis
+T76	ENFERMEDAD 9497 9520	fibrilación ventricular
+T77	ENFERMEDAD 9522 9542	Angina vasoespástica
+T78	ENFERMEDAD 9655 9675	angina vasoespástica
+T79	ENFERMEDAD 9678 9688	Dislipemia
+T80	ENFERMEDAD 9443 9469	Parada cardiorrespiratoria
+T81	ENFERMEDAD 9419 9426	Síncope
+T82	ENFERMEDAD 7318 7339	TV polimórfica rápida
+T83	ENFERMEDAD 7349 7390	episodios no sostenidos de TV polimórfica
+T84	ENFERMEDAD 8404 8416	TV sostenida
+T85	ENFERMEDAD 8026 8030	TVNS
+T86	ENFERMEDAD 9346 9350	TVNS
+T87	ENFERMEDAD 9586 9639	Taquicardias ventriculares sostenidas y no sostenidas
+T88	ENFERMEDAD 46 69	alergias medicamentosas
+T89	ENFERMEDAD 8642 8651	arritmias
+T90	ENFERMEDAD 3748 3763	daño miocardico
+T91	ENFERMEDAD 686 726	episodio sincopal de perfil cardiogénico
+T92	ENFERMEDAD 9007 9024	episodio sincopal
+T93	ENFERMEDAD 371 379	fumadora
+T94	ENFERMEDAD 970 978	isquemia
+T95	ENFERMEDAD 1146 1153	síncope
+T96	ENFERMEDAD 9308 9344	taquicardia ventricular no sostenida
+T97	ENFERMEDAD 1666 1669	PCR
+T30	ENFERMEDAD 8419 8444	descarga apropiada de DAI
+T213	ENFERMEDAD 2632 2664	dilatación de cavidades derechas
+T174	ENFERMEDAD 6387 6391	TVNS

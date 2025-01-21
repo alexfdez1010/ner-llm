@@ -1,0 +1,54 @@
+T80	ENFERMEDAD 92 115	alergias farmacológicas
+T81	ENFERMEDAD 160 181	hipertensión arterial
+T82	ENFERMEDAD 183 186	HTA
+T83	ENFERMEDAD 208 237	diabetes mellitus (DM) tipo 2
+T84	ENFERMEDAD 227 229	DM
+T85	ENFERMEDAD 266 287	retinopatía diabética
+T86	ENFERMEDAD 331 394	enfermedad renal crónica estadio 4 de origen arterioesclerótico
+T87	ENFERMEDAD 399 402	HTA
+T88	ENFERMEDAD 405 407	DM
+T89	ENFERMEDAD 497 528	hiperplasia benigna de próstata
+T90	ENFERMEDAD 636 643	síncope
+T91	ENFERMEDAD 887 915	convulsiones tónico-clónicas
+T92	ENFERMEDAD 992 1004	hipoglucemia
+T93	ENFERMEDAD 1104 1177	traumatismo craneoencefálico con herida inciso-contusa en cuero cabelludo
+T95	ENFERMEDAD 2109 2134	trombosis venosa profunda
+T96	ENFERMEDAD 2217 2266	Bloqueo aurículo-ventricular de 2o grado Mobitz 1
+T97	ENFERMEDAD 2387 2436	Bloqueo aurículo-ventricular de 2o grado Mobitz 1
+T98	ENFERMEDAD 2866 2892	Atrofia corticosubcortical
+T99	ENFERMEDAD 2913 2957	Calcificación de epífisis y plexos coroideos
+T101	ENFERMEDAD 3359 3394	Circunfleja (CX): enfermedad severa
+T104	ENFERMEDAD 3614 3646	Lesión oclusiva trombótica aguda
+T106	ENFERMEDAD 4310 4354	bloqueo aurículo-ventricular de primer grado
+T107	ENFERMEDAD 4652 4689	hipertensión pulmonar ligera-moderada
+T108	ENFERMEDAD 4694 4713	derrame pericardico
+T109	ENFERMEDAD 4752 4775	Bloqueo AV primer grado
+T110	ENFERMEDAD 4822 4829	síncope
+T111	ENFERMEDAD 4919 4970	bloqueo aurículo-ventricular (BAV) grado 2 Mobitz I
+T112	ENFERMEDAD 4949 4952	BAV
+T114	ENFERMEDAD 5131 5155	SCACEST de cara inferior
+T115	ENFERMEDAD 5202 5244	hemorragia postraumatismo craneoencefálico
+T117	ENFERMEDAD 5526 5554	bloqueo aurículo-ventricular
+T118	ENFERMEDAD 5579 5614	BAV de segundo grado tipo Mobitz II
+T119	ENFERMEDAD 5649 5669	BAV grado 2 Mobitz I
+T120	ENFERMEDAD 5720 5776	lesión oclusiva trombótica aguda en la coronaria derecha
+T121	ENFERMEDAD 6228 6272	bloqueo aurículo-ventricular de primer grado
+T122	ENFERMEDAD 6326 6355	bloqueo aurículo- ventricular
+T123	ENFERMEDAD 6651 6657	anemia
+T124	ENFERMEDAD 6659 6683	enfermedad renal crónica
+T125	ENFERMEDAD 6883 6954	Síndrome coronario agudo con elevación del ST (SCACEST) inferoposterior
+T126	ENFERMEDAD 6930 6937	SCACEST
+T127	ENFERMEDAD 6965 7019	Coronaria derecha con lesión oclusiva trombótica aguda
+T128	ENFERMEDAD 7134 7179	Bloqueo aurículo-ventricular grado 2 Mobitz i
+T129	ENFERMEDAD 7193 7303	bloqueo aurículo- ventricular de alto grado de origen isquémico por compromiso de la arteria coronaria derecha
+T130	ENFERMEDAD 7329 7373	bloqueo aurículo-ventricular de primer grado
+T132	ENFERMEDAD 7410 7438	traumatismo craneoencefálico
+T133	ENFERMEDAD 7444 7483	lesiones hemorrágicas agudas cerebrales
+T134	ENFERMEDAD 7485 7525	Herida inciso-contusa en cuero cabelludo
+T135	ENFERMEDAD 7527 7579	Cardiopatía isquémica severa multivaso multisegmento
+T14	ENFERMEDAD 3127 3171	Descendente anterior (DA): lesión muy severa
+T103	ENFERMEDAD 4603 4605	IM
+T136	ENFERMEDAD 4638 4640	IT
+T137	ENFERMEDAD 6840 6845	ángor
+T139	ENFERMEDAD 6521 6575	lesiones severas de descendente anterior y circunfleja
+T53	ENFERMEDAD 6686 6716	afectación difusa distal de DA

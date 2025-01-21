@@ -1,0 +1,29 @@
+Antecedentes personales
+Paciente de 49 años, panadero de profesión.
+Factores de riesgo cardiovascular: fumador de más de 25 paquetes-año, obeso y bebedor moderado. No HTA, DM, DL ni otros antecedentes de interés. No historia cardiológica.
+No otras enfermedades de interés ni tratamientos crónicos. Enfermedad actual Consulta en Urgencias por 10 días de disnea progresiva, llegando a mínimos esfuerzos, con ortopnea y disnea paroxística nocturna. Niega dolor precordial, palpitaciones, síncope, fiebre o clínica infecciosa a otro nivel.
+
+
+Exploración física
+TA: 128/90.
+FC: 105.
+SatO2: 92%.
+Afebril, PVC 15 con leve RHY. IMC de 34.
+AC: RsCs arrítmicos a 110 lpm, sin soplos.
+AP: crepitantes bibasales.
+Abdomen globuloso, sin líquido libre ni megalias.
+EEII: edemas con fóvea en 1⁄2 inferior. Pulsos periféricos presentes y simétricos. No soplos a nivel carotídeo, abdominal ni femoral.
+
+PRUEBAS COMPLEMENTARIAS
+Hemograma, bioquímica y coagulación: normales. Marcadores de daño miocárdico: HbA1c, TSH, colesterol normales. Gasometría al ingreso: hipoxemia e hipercapnia (pO2 60, pCO2 47 y bicarbonato 26). Radiografía de tórax: compatible con insuficiencia cardiaca. ECG: fibrilación auricular (FA) rápida al ingreso, no conocida. Ecocardiograma: AI dilatada moderadamente. AD dilatada levemente. VI levemente dilatado e hipertrófico, con hipocontractilidad global y función sistólica global moderadamente deprimida. FE 35-40%. VD con función afecta por TAPSE, IT leve, PSAP estimada de 26mmHG +PVC. VM con buena apertura y reflujo leve. AO normofuncionante. Vena cava dilatada con colapso parcial. No derrame pericárdico. Disfunción biventricular moderada con vi levemente dilatado e hipertrófico con FEVI 35-40%. Coronariografía: coronarias sin lesiones coronarias significativas.
+
+EVOLUCIÓN
+El paciente ingresa con el diagnóstico de insuficiencia cardiaca descompensada por fibrilación auricular rápida no conocida. Se objetiva una dilatación y disfunción biventricular moderada. Al descartarse origen isquémico mediante coronariografía, se atribuye como posiblemente secundaria a taquicardiomiopatía o miocardiopatía por alcohol. Durante el ingreso, en la telemetría se objetiva pausa espontánea de 12 segundos coincidiendo con apnea de sueño, saliendo ritmo propio con QRS estrecho. Se interroga al paciente sobre hábitos del sueño y con una alta sospecha de síndrome de apnea-hipopnea del sueño (SAOS) se solicita consulta a Neumología. El paciente es diagnosticado de EPOC GOLD II y SAOS grave. En polisomnografía ambulatoria se constata además una desaturación grave de oxígeno asociada. Previo al ingreso, nos encontramos ante un paciente "aparentemente sano". Se hace especial incidencia en la importancia de medidas higiénico dietéticas, que junto con la CPAP, será el tratamiento más importante en este caso, más que cualquier tratamiento farmacológico. El paciente se compromete con el cambio de estilo de vida y se inicia anticoagulación para programar cardioversión eléctrica de la FA. Seguimiento a los 3 meses: se realiza una cardioversión eléctrica efectiva, pasando a ritmo sinusal y la FA, por tanto, a persistente. En ecocardiograma de control tras 3 meses (en ritmo sinusal, sin consumo de alcohol, con IMC 33,3 y tratamiento con CPAP): ventrículo no dilatado con FEVI conservada. Se trata por tanto de una disfunción ventricular reversible. No podemos afirmar si la disfunción ha sido secundaria a FA rápida, alcohol o incluso al propio SAOS. grave.
+
+DIAGNÓSTICO
+Primer episodio de insuficiencia cardiaca.
+Fibrilación auricular. Cardioversión eléctrica eficaz.
+isfunción biventricular moderada.
+Taquicardiomiopatía.
+Síndrome de apnea-hipopnea del sueño (SAOS) grave.
+EPOC GOLD II tipo. Tabaquismo. Obesidad.

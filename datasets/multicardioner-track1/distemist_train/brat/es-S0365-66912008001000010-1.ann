@@ -1,0 +1,7 @@
+T8	ENFERMEDAD 718 738	papiledema bilateral
+T10	ENFERMEDAD 276 279	HII
+T30	ENFERMEDAD 1621 1649	trombosis de senos craneales
+T31	ENFERMEDAD 367 377	papiledema
+T34	ENFERMEDAD 1669 1715	estenosis segmentaria del seno lateral derecho
+T35	ENFERMEDAD 1882 1925	estenosis larga del seno transverso derecho
+#1	AnnotatorNotes T10	   HII: Hipertensión intracraneal idiopática

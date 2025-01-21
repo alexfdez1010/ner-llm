@@ -1,0 +1,42 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Mujer de 41 años. Sin alergias medicamentosas.
+Antecedentes médicos: migrañas. Menopausia precoz a los 37 años, no otras enfermedades conocidas. Aborto a los 21 años. No antecedentes familiares cardiológicos. Tabaquismo activo.
+Al preguntarle sobre otros hábitos tóxicos no refiere.
+
+ENFERMEDAD ACTUAL
+El día 10/02/2019 es remitida a urgencias del hospital desde su centro de salud, acompañada por su hermano, por presentar clínica de disnea progresiva de un mes de evolución hasta hacerse de mínimos esfuerzos acompañándose de tos y ortopnea de dos almohadas en los últimos 3 días. Tos sin expectoración productiva, en una ocasión con hebras hemáticas. No presentaba semiología infecciosa concomitante con el cuadro. En los últimos tres días refiere además molestias centrotorácicas con el esfuerzo y la inspiración profunda.
+
+EXPLORACIÓN FÍSICA
+Tensión arterial (TA) 140/95 mmHg. Consciente y orientada, discretamente taquipneica en reposo (24 respiraciones por minuto). Pulso venoso yugular elevado.
+Auscultación cardiaca: tonos rítmicos a 105 lpm con tercer ruido audible.
+Auscultación pulmonar: semiología de derrame pleural bilateral, más acusado izquierdo.
+No edemas en extremidades ni de decúbito.
+Se contacta en ese momento con cardiología de guardia. Realizamos ecocardioscopia portátil: observamos ventrículo izquierdo dilatado con disfunción sistólica a expensas de hipocontractilidad global, válvula mitral con dilatación del anillo mitral e insuficiencia central funcional que aparenta ser de grado moderado y derrame pleural bilateral.
+Se decide ingresar en planta de cardiología como primer episodio de insuficiencia cardiaca en una paciente sin antecedentes personales cardiológicos y, a priori, sin una etiología definida para estudio de la disfunción sistólica y del cuadro de descompensación.
+Al llegar a la planta y una vez la paciente está en la habitación, nos aborda su hermano para contarnos algo importante que la paciente nos había ocultado: resulta que nuestra paciente, aunque previamente lo hubiera negado, es consumidora habitual de anfetaminas.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): ritmo sinusal con ondas T negativas en V2-V6 y cara inferior.
+Analítica sanguínea:
+Bioquímica: glucosa 96 mg/dl, urea 0,37 g/l, creatinina 1,06 mg/dl, troponina Tus 41,73 ng/l, sodio 142 mEq/l, potasio 4,67 mEq/l, NT-proBNP 5993 pg/ml.
+Gasometría arterial: pH 7,43, pO2 104mmHg, pCO2 32mmHg, sPO 298,2%, CO3H 21,4mmol/l.
+Hemograma: Hb 11,8 g/dl, Hcto 34,6%, leucocitos 8l3 mil/mm3 con 55% de neutrófilos, plaquetas 172 mil/mm3.
+Coagulación: sin alteraciones, fibrinógeno 378 mg/dl.
+Tóxicos en orina: positivo para anfetaminas.
+Radiografía de tórax: signos de edema intersticial junto con cardiomegalia, pinzamiento del seno costofrénico izquierdo.
+Ecocardiograma transtorácico: ventrículo izquierdo (VI) dilatado e hipertraberculado a nivel apical con disfunción moderada (Simpson biplano 33%) a expensas de hipocontractilidad global. Presiones de llenado incrementadas (E/e" media 17 cm/seg). Dilatación de aurícula izquierda (volumen 94 ml) con aneurisma del septo interauricular sin shunt. Insuficiencia mitral funcional ligera. Ventrículo derecho (VD) igualmente hipertrabeculado de tamaño y contractilidad normal. VCI dilatada. Pericardio normal.
+Coronariografía: dominancia izquierda. Estenosis no significativa en primera obtusa marginal. Resto del árbol coronario sin lesiones angiográficas.
+Resonancia magnética cardiaca: VI gravemente dilatado (VTDVI 240 ml, VTSVI 144 ml) hipertrabeculado a nivel apical y lateral, con discreta mejoría de la función ventricular (FEVI 40%) con hipoquinesia global y acinesia a nivel inferolateral medio y apical y septal inferior medio. VD de dimensión normal, hipertrabeculado a nivel de pared libre y con FEVD 67%. Además se evidencia pequeño trombo apical (6 x 9 mm). En las secuencias potenciadas en T1, se observan dos focos de realce subendocárdico a nivel inferolateral medio y apical y septo-inferior medio y apical.
+
+EVOLUCIÓN CLÍNICA
+La paciente presenta una muy buena respuesta al tratamiento depletivo con mejoría de los signos congestivos. Se inicia tratamiento de la insuficiencia cardiaca con disfunción sistólica mediante betabloqueante, IECA y antialdosterónico.
+Se completa el estudio con ecocardiograma reglado y coronariografía. Se titula la dosis de diurético durante el ingreso y la paciente puede ser dada de alta a los pocos días con una clase funcional I, manteniendo tratamiento de la disfunción sistólica. La resonancia magnética cardiaca se realizó de manera ambulatoria una vez la paciente fue dada de alta un mes después del ecocardiograma.
+Tras el alta hospitalaria, la paciente ha cesado el consumo de tóxicos, se mantiene en clase funcional I-II de la New York Heart Association (NYHA), y no ha presentado nuevos episodios de descompensación.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca aguda congestiva, primer episodio de descompensación.
+Miocardiopatía dilatada con disfunción sistólica moderada secundaria a consumo crónico de anfetaminas.
+Fracción de eyección discretamente recuperada en el seguimiento.
+Abuso de anfetaminas.

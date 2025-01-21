@@ -1,0 +1,13 @@
+T1	ENFERMEDAD 49 73	paragangliomas múltiples
+T2	ENFERMEDAD 102 123	paraganglioma yugular
+T3	ENFERMEDAD 246 265	paraganglioma vagal
+T5	ENFERMEDAD 409 425	parálisis facial
+T6	ENFERMEDAD 476 483	cofosis
+T7	ENFERMEDAD 486 534	parálisis de los pares craneales IX, X, XI y XII
+T8	ENFERMEDAD 605 613	disfagia
+T9	ENFERMEDAD 615 623	disfonía
+T15	ENFERMEDAD 954 957	SPM
+T17	ENFERMEDAD 1151 1159	disfonía
+T19	ENFERMEDAD 283 301	progresión tumoral
+T4	ENFERMEDAD 329 342	paraganglioma
+#1	AnnotatorNotes T15	  SPM: síndrome de primer mordisco

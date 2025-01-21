@@ -1,0 +1,16 @@
+T2	ENFERMEDAD 110 125	hernia inguinal
+T3	ENFERMEDAD 155 174	queratosis actínica
+T6	ENFERMEDAD 306 355	lesiones costrosas en la región parieto-occipital
+T10	ENFERMEDAD 407 464	Carcinoma epidermoide de moderado grado de diferenciación
+T14	ENFERMEDAD 802 823	Carcinoma epidermoide
+T28	ENFERMEDAD 3062 3121	Carcinomas epidermoides de moderado grado de diferenciación
+T29	ENFERMEDAD 3128 3146	Carcinomas in situ
+T31	ENFERMEDAD 3427 3441	recidiva local
+T32	ENFERMEDAD 566 571	tumor
+T1	ENFERMEDAD 496 504	lesiones
+T4	ENFERMEDAD 710 718	lesiones
+T5	ENFERMEDAD 962 980	lesiones costrosas
+T7	ENFERMEDAD 1046 1054	lesiones
+T8	ENFERMEDAD 1178 1217	retracción completa del cuero cabelludo
+T9	ENFERMEDAD 1490 1505	hernia inguinal
+T11	ENFERMEDAD 50 88	ausencia de pelo en el cuero cabelludo

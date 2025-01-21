@@ -1,0 +1,34 @@
+T52	ENFERMEDAD 91 101	Hipertenso
+T53	ENFERMEDAD 104 111	fumador
+T54	ENFERMEDAD 577 597	episodios sincopales
+T55	ENFERMEDAD 703 734	traumatismo en mandíbula y boca
+T56	ENFERMEDAD 1114 1136	insuficiencia cardiaca
+T57	ENFERMEDAD 1710 1726	Pectus excavatum
+T58	ENFERMEDAD 2001 2004	TEP
+T59	ENFERMEDAD 2096 2133	adenopatías mediastínicas ni hiliares
+T60	ENFERMEDAD 2211 2226	derrame pleural
+T61	ENFERMEDAD 2445 2475	dilatación ventricular derecha
+T62	ENFERMEDAD 2961 2995	Aneurisma del septo interauricular
+T63	ENFERMEDAD 2997 3000	SIA
+T64	ENFERMEDAD 3045 3064	derrame pericárdico
+T65	ENFERMEDAD 3093 3113	Insuficiencia mitral
+T66	ENFERMEDAD 3128 3153	Insuficiencia tricuspídea
+T67	ENFERMEDAD 4398 4409	canalopatía
+T68	ENFERMEDAD 5104 5107	TEP
+T69	ENFERMEDAD 5147 5178	displasia de ventrículo derecho
+T70	ENFERMEDAD 5594 5639	extrasistolia ventricular ni supraventricular
+T71	ENFERMEDAD 5643 5652	arritmias
+T72	ENFERMEDAD 5698 5705	síncope
+T73	ENFERMEDAD 5806 5829	taquicardia ventricular
+T74	ENFERMEDAD 5962 5982	anomalías coronarias
+T75	ENFERMEDAD 5997 6049	agenesia prácticamente total de pericardio izquierda
+T76	ENFERMEDAD 6163 6185	Síncopes de repetición
+T77	ENFERMEDAD 6320 6340	anomalías coronarias
+T78	ENFERMEDAD 6342 6384	Agenesia prácticamente total de pericardio
+T79	ENFERMEDAD 3155 3157	IT
+T80	ENFERMEDAD 125 133	síncopes
+T81	ENFERMEDAD 5529 5537	síncopes
+T82	ENFERMEDAD 2556 2588	Ventrículo derecho (VD) dilatado
+T83	ENFERMEDAD 3115 3117	IM
+T133	ENFERMEDAD 201 204	ICC
+T125	ENFERMEDAD 4884 4921	ausencia prácticamente del pericardio

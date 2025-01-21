@@ -1,0 +1,33 @@
+T18	ENFERMEDAD 2163 2236	dilatación ligera de ventrículo izquierdo y severa del ventrículo derecho
+T20	ENFERMEDAD 2412 2444	disociación aurículo-ventricular
+T30	ENFERMEDAD 3485 3524	Aurícula izquierda ligeramente dilatada
+T31	ENFERMEDAD 3526 3566	Cavidades derechas severamente dilatadas
+T32	ENFERMEDAD 3688 3720	VD y función sistólica deprimida
+T95	ENFERMEDAD 2365 2397	taquicardia regular de QRS ancho
+T98	ENFERMEDAD 2583 2602	BAV de primer grado
+T99	ENFERMEDAD 6233 6252	BAV de primer grado
+T100	ENFERMEDAD 6163 6231	Disfunción sistólica ventricular derecha severa e izquierda moderada
+T102	ENFERMEDAD 6049 6082	Taquicardia ventricular sostenida
+T103	ENFERMEDAD 3226 3267	Ventrículo izquierdo ligeramente dilatado
+T104	ENFERMEDAD 2036 2042	anemia
+T105	ENFERMEDAD 179 201	arteria cerebral media
+T106	ENFERMEDAD 910 935	bloqueo de rama izquierda
+T107	ENFERMEDAD 2470 2495	bloqueo de rama izquierda
+T108	ENFERMEDAD 2542 2561	bradicardia sinusal
+T109	ENFERMEDAD 3842 3861	derrame pericárdico
+T110	ENFERMEDAD 2861 2876	derrame pleural
+T111	ENFERMEDAD 4678 4702	dilatación aneurismática
+T112	ENFERMEDAD 4401 4434	dilatación del ventrículo derecho
+T113	ENFERMEDAD 2267 2316	disfunción sistólica severa de ventrículo derecho
+T114	ENFERMEDAD 70 79	exfumador
+T115	ENFERMEDAD 6254 6275	hipertensión arterial
+T116	ENFERMEDAD 128 143	ictus isquémico
+T117	ENFERMEDAD 3779 3804	insuficiencia tricuspídea
+T118	ENFERMEDAD 5337 5399	miocardiopatía arritmogénica de ventrículo derecho e izquierdo
+T119	ENFERMEDAD 6099 6161	miocardiopatía arritmogénica de ventrículo derecho e izquierdo
+T120	ENFERMEDAD 97 106	sobrepeso
+T122	ENFERMEDAD 5063 5086	taquicardia ventricular
+T76	ENFERMEDAD 81 90	exbebedor
+T78	ENFERMEDAD 301 363	dilatación ligera de ventrículo derecho con hipertrabeculación
+T14	ENFERMEDAD 2816 2829	cardiomegelia
+T77	ENFERMEDAD 838 870	taquicardia regular de QRS ancho

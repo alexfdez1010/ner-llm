@@ -1,0 +1,32 @@
+T9	ENFERMEDAD 55 64	exfumador
+T10	ENFERMEDAD 110 120	hipertenso
+T11	ENFERMEDAD 193 204	cardiopatía
+T12	ENFERMEDAD 306 318	poliesplenia
+T13	ENFERMEDAD 415 438	miocardiopatía dilatada
+T14	ENFERMEDAD 562 585	miocardiopatía dilatada
+T15	ENFERMEDAD 676 698	estenosis aórtica leve
+T16	ENFERMEDAD 942 951	IM severa
+T17	ENFERMEDAD 1263 1292	disfunción ventricular severa
+T18	ENFERMEDAD 1996 2014	IM moderada-severa
+T19	ENFERMEDAD 2021 2045	estenosis aórtica severa
+T20	ENFERMEDAD 2577 2589	poliesplenia
+T21	ENFERMEDAD 3158 3188	Insuficiencia cardiaca crónica
+T22	ENFERMEDAD 3265 3288	Miocardiopatía dilatada
+T23	ENFERMEDAD 3375 3384	IM severa
+T24	ENFERMEDAD 3387 3411	estenosis aórtica severa
+T25	ENFERMEDAD 3431 3470	Disfunción ventricular sistólica severa
+T26	ENFERMEDAD 1317 1319	FA
+T27	ENFERMEDAD 1547 1549	FA
+T28	ENFERMEDAD 701 731	IM moderada por prolapso de P2
+T29	ENFERMEDAD 1066 1088	insuficiencia cardiaca
+T31	ENFERMEDAD 123 134	dislipémico
+T32	ENFERMEDAD 1964 1975	VI dilatado
+T33	ENFERMEDAD 2591 2621	inversión hepática y esplénica
+T34	ENFERMEDAD 2624 2654	anomalías en el drenaje venoso
+T35	ENFERMEDAD 3643 3671	anomalías del drenaje venoso
+T57	ENFERMEDAD 232 243	único riñón
+T8	ENFERMEDAD 3562 3574	Poliesplenia
+T61	ENFERMEDAD 1097 1108	IM moderada
+T64	ENFERMEDAD 2359 2366	paradas
+T69	ENFERMEDAD 3576 3594	inversión hepática
+T70	ENFERMEDAD 3612 3640	Vena cava superior izquierda

@@ -1,0 +1,35 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Mujer de 43 años, con los siguientes antecedentes: Sin alergias medicamentosas conocidas. No hábitos tóxicos ni factores de riesgo cardiovascular conocidos. Anemia ferropénica en tratamiento intermitente con hierro oral. Síndrome ansioso- depresivo, en tratamiento ansiolítico a demanda. Sin antecedentes familiares de cardiopatía o enfermedad cardiovascular precoz. Medicación habitual: ácido fólico 5 mg/24 h, lorazepam 1 mg (a demanda).
+
+Enfermedad actual
+Consulta por episodio de dolor centrotorácico opresivo, con cuadro vegetativo acompañante, iniciado de forma brusca estando de pie mientras trabajaba en una cocina a alta temperatura y asociando gran sensación de estrés. A su llegada al hospital, con mejoría clínica progresiva, no se registran alteraciones electrocardiográficas sugestivas de isquemia ni movilización de enzimas de daño miocárdico. Negaba historia previa de ángor, palpitaciones, síncopes o presíncopes. Refería disnea progresiva de esfuerzos moderados de unos 6 meses de evolución, sin ortopnea, edemas ni recorte de diuresis. Finalmente, se decide ingreso en cardiología para completar estudios.
+
+Exploración física
+Asintomática, normocoloreada, bien perfundida, sin ingurgitación yugular ni reflujo hepato-yugular.
+
+Tensión arterial (TA) 110/60 mmHg, frecuencia cardiaca (FC) 80 lpm. Eupneica en saturación basal 99%. A la auscultación, tonos cardiacos rítmicos, con soplo sistólico II/VI panfocal pero de predominio pulmonar, irradiado a carótidas y más llamativamente a región interescapular. Abdomen: exploración normal, sin hallazgos patológicos. Pulsos radiales y pedios conservados simétricamente. Ausencia de edemas.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): RS a 57 lpm, eje normal, sin trastornos de la conducción auriculoventricular (AV) o intraventricular, sin trastornos de la repolarización.
+
+Radiografía de tórax: índice cardiotorácico (ICT) en el límite superior de la normalidad, con aumento de la trama vascular pulmonar.
+
+Analíticas:
+Analítica sanguínea inicial (urgencias): anemia microcítica hipocrómica con hemoglobina 9,3 g/dl (similar a previas), VCM 84 fl, HCM 25,9 pg, resto del hemograma normal. Función renal, perfil hepatobiliar e iones normales. Creatina-fosfocinasa normal. TnT 9- 16 ng/l.
+
+Estudios analíticos durante el ingreso (resumen):
+Hemograma: hemoglobina estable en torno a 10 g/dl, resto sin alteraciones.
+Perfil carencial: hierro sérico 67,20 g/dl, IST 19%, ferritina 13,70 g/l, transferrina 282,40 mg/dl, vitB12 normal, ácido fólico 2,4 g/l.
+Bioquímica: función renal iones y marcadores de función hepática normales. Perfil metabólico y otros: TSH normal. HbA1C 5,8%.
+Perfil lipídico normal. Reactantes de fase aguda normales. Marcadores de autoinmunidad negativos (FR, ANA, ANCA, C3, C4). ProBNP 167 pg/ml.
+
+Ecocardiograma transtorácico: ventrículo izquierdo (VI) ligeramente dilatado por volúmenes (DTDVI 52 mm, vol BP 165 ml), no hipertrofiado. Aurícula izquierda dilatada indexada a superficie corporal (44 ml/m2). Cavidades derechas normales. Aorta de calibre y flujo normal en sus tramos accesibles. Ausencia de valvulopatías significativas. No datos de hipertensión pulmonar. Se visualiza un jet de llenado anómalo en aurícula izquierda, excéntrico, que recorre el septo interauricular y alcanza válvula mitral, continuo, con Vmáx de 3,4 m/s. Función sistólica y diastólica del VI normal, sin alteraciones de la contractilidad. Ventrículo derecho normofuncionante. No derrame pericárdico ni otros hallazgos. Angio-TAC con contraste de arterias coronarias y aorta: arterias coronarias normales, sin lesiones. Se observa fístula desde aorta torácica descendente hasta aurícula izquierda, con dilatación sacular de pared posterior derecha. Resonancia magnética cardiaca (RMC): VI de diámetro y morfología normal, con volumen telediastólico indexado de 78 ml/m2 (ligeramente dilatado). FEVI conservada, sin alteraciones segmentarias de la contractilidad. Se aprecia en secuencias de cine evidente fístula aorto-atrial (jet muy fino a nivel del techo de la aurícula izquierda), resto de estudio sin hallazgos significativos.
+
+EVOLUCIÓN CLÍNICA
+Ante los datos clínicos y pruebas complementarias iniciales, se consideró baja probabilidad de cardiopatía isquémica. En cambio, ante los hallazgos exploratorios se sospechó cardiopatía congénita, visualizando en el estudio ecocardiográfico un jet de llenado anómalo en aurícula izquierda. Se solicitó angio-TAC de arterias coronarias, descartándose enfermedad arterioesclerótica, pero con hallazgo de un trayecto fistuloso de morfología sacular entre aorta torácica descendente y aurícula izquierda, sospechando origen genético ante la ausencia de antecedentes quirúrgicos, traumatismos, ni semiología compatible con endocarditis actual o previa. Durante su ingreso permaneció asintomática y se atribuyó el episodio único de dolor torácico a una crisis de ansiedad, ya que la localización del trayecto fistuloso no justifica en este caso un posible fenómeno de robo coronario. Se completó el estudio de manera ambulatoria con RMC, confirmando los hallazgos ya descritos mediante ecocardiograma y TC coronario, con datos de incipiente remodelado de cavidades izquierdas (dilatación e hiperaflujo). Por este motivo, se consensuó en reunión médico-quirúrgica la reparación endovascular, mediante implante percutáneo de endoprótesis en aorta torácica, que se llevó a cabo sin complicaciones, con buen sellado de la fuga en la angiografía de control.
+
+DIAGNÓSTICO
+Dolor torácico de causa multifactorial: crisis de ansiedad, estado hiperdinámico. Arterias coronarias angiográficamente normales mediante angio-TAC.
+Fístula aorto-atrial izquierda con datos de incipiente remodelado de cavidades izquierdas (dilatación e hiperaflujo).

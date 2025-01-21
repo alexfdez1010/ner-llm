@@ -1,0 +1,42 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+Paciente de 71 años de edad, con antecedentes personales de:
+Factores de riesgo cardiovascular: hipertesión arterial, dislipemia, diabetes mellitus tipo 2.
+Exfumador desde hace más de 15 años.
+Gastritis crónica. Erradicación de Helicobacter pylori en 2010.
+Ictus con secuelas leves en 2007.
+Claudicación intermitente a 100 metros. Oclusión fémoro-poplítea bilateral, sin considerar cirugía por parte de Cirugía Vascular.
+Fibrilación auricular paroxística.
+Larga historia de cardiopatía isquémica crónica:
+
+-- Infarto anterior en el año 2000, implantándose un stent convencional en la A. descendente anterior (ADA) proximal.
+--Angina progresiva en 2005 con fracción de eyección del ventrículo izquierdo (FEVI) del 40 %: reestenosis del stent previo de la ADA y enfermedad severa de A. circunfleja (ACx) y A. coronaria derecha (ACD). Se realiza bypass de vena safena de ACD y de arteria mamaria interna (AMI) a ADA. La ACx no se revasculariza por ser de pequeño calibre.
+--En 2012, empeoramiento de clase funcional (CF) y de FEVI (30 %), repitiéndose coronariografía: oclusión crónica de ADA y ACx, bypass de AMI a ADA y safena a ACD permeables. Se implanta desfibrilador (DAI) monocameral en prevención primaria (sin criterios para resincronización, QRS 125 mseg).
+--En abril de 2016 sufre una descarga apropiada del DAI.
+--En mayo y julio de 2016 necesita ingresos cortos por descompensación de insuficiencia cardiaca y en agosto reingresa de nuevo, esta vez con necesidad de perfusión de levosimendam.
+
+Enfermedad actual
+A las 3 semanas del alta hospitalaria el paciente acude a consultas externas de Insuficiencia Cardiaca, refiriendo CF NYHA III, ortopnea de dos almohadas y sin nuevos datos de empeoramiento desde el punto de vista congestivo, tampoco síntomas atribuibles a bajo gasto. Peso estable alrededor de 58 kg.
+
+Desde el alta hospitalaria con el siguiente tratamiento: sintrom, bisoprolol 5 mg (1/24 h), enalapril 10 mg (1/12 h), eplerenona 25 mg (2/24 h), furosemida 40 mg (3/24 h), atorvastatina 40 mg (1/24 h), hierro oral, metformina 850 mg (1/12 h), pantoprazol 40 mg (1/24 h).
+
+Exploración física
+Tensión arterial 123/77 mmHg, frecuencia cardiaca 63 lpm, saturación de O2 97 %.
+Buen estado general. Eupneico en decúbito a 40o. Sin ingurgitación venosa yugular.
+Buena perfusión distal y adecuado relleno capilar. Auscultación cardiaca: rítmico, sin soplos. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos añadidos. Abdomen: no se palpa hepatomegalia. No signos de ascitis ni edema de pared. Miembros inferiores: sin edemas. Cambios tróficos. Pulsos pedios muy débiles de forma bilateral.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma: ritmo sinusal a 68 lpm, PR 204 mseg, trastorno de la conducción intraventricular (QRS 128 mseg).
+Ecocardiograma: ventrículo izquierdo severamente dilatado con función sistólica global severamente deprimida (23 % por Simpson biplano). Llenado mitral restrictivo. Ventrículo derecho no dilatado con función en límite bajo de la normalidad (TAPSE 15 mm). Insuficiencia mitral ligera. IT ligera que permite estimar presión sistólica de A. Pulmonar de 43 mmHg. Electrodo en cavidades derechas.
+No derrame pericárdico.
+Analítica: NTproBNP 6170 pg/mL, hemoglobina 13,4 g/dl, glucosa 99 mg/dl, creatinina 1 mg/dl, urea 44 mg/dl, sodio 140 mmol/l, potasio 3,9 mmol/L.
+
+EVOLUCIÓN
+Se decide suspender enalapril y comenzar con sacubitrilo/valsartán 49/51 mg, un comprimido cada 12 horas, dejando un período de lavado del enalapril de 36 horas.
+A las 3 semanas, el paciente es valorado de nuevo en consulta, siendo la TA de 119/60 mmHg y manteniendo función renal y cifras de potasio en rango normal, por lo que se aumenta a 97/103 mg. A los dos meses del inicio del tratamiento, se realizó una nueva determinación de NTpro-BNP que era de 2900 pg/mL.
+Tras 6 meses de seguimiento, el paciente ha permanecido en clase funcional II-III (subjetivamente algo mejor que antes del cambio de tratamiento) y no ha vuelto a ingresar por insuficiencia cardiaca. Únicamente, ha acudido al Servicio de Urgencias en una ocasión por descompensación leve de insuficiencia cardiaca en relación con infección respiratoria de vías altas, pudiendo ser manejado desde Urgencias y con alta precoz a las 24 horas.
+
+DIAGNÓSTICO
+Cardiopatía isquémica crónica con dilatación y disfunción severa de ventrículo izquierdo. CF II-III. Trastorno de la conducción intraventricular sin criterios para resincronización.
+Respuesta parcial al tratamiento con sacubitrilo/valsartán, con disminución de los reingresos por insuficiencia cardiaca durante 6 meses de seguimiento.

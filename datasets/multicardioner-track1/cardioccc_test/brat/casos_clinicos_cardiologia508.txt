@@ -1,0 +1,37 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Varón de 54 años sin hábitos tóxicos con antecedentes de HTA y dislipemia. No diabetes mellitus. Fractura de 5o metacarpiano. Síndrome depresivo reactivo. Ingreso en marzo de 2017 por SCASEST sin lesiones coronarias en la coronariografía, siendo documentada una fibrilación auricular con posterior paso a RS. Función sistólica conservada.
+En tratamiento a su ingreso con: atorvastatina 40 mg, lorazepam 1 mg, bisoprolol 2,5 mg, pantoprazol 40 mg, adiro 100 mg, orfidal 1 mg, escitalopram 10 mg.
+
+Enfermedad actual
+El día de su ingreso acude a Urgencias por episodio de dolor torácico opresivo y palpitaciones rápidas de comienzo súbito con irradiación a cuello. La sintomatología ha sido precipitada a raíz de una discusión. A su llegada se objetiva una taquicardia de QRS ancho rítmica a 237 lpm. Valorado en Urgencias, se procede a cardioversión eléctrica pasando a ritmo sinusal estable. Se decide ingreso para continuar estudio y tratamiento.
+
+Exploración física
+A su llegada a Urgencias: tensión arterial 101/65, frecuencia cardiaca190 p.m., Saturación de oxígeno 100. Consciente, orientado, normocoloreado y normohidratado.
+Eupneico. No ingurgitación yugular. Auscultación pulmonar: normoventilación, sin ruidos sobreañadidos. Auscultación cardiaca: tonos rítmicos, taquicárdicos.
+Abdomen blando y depresible, no doloroso a la palpación, sin signos de irritación peritoneal. Peristaltismo conservado. EEII: no edemas ni signos de TVP.
+
+PRUEBAS COMPLEMENTARIAS
+ECG en el ingreso: taquicardia de QRS ancho. QRS 0,24. QS en I. Morfología de BRD. R en V1 a V4. R R" aVR QRS en V6 con morfología de rS. Visualización de p" sin disociación a > 80 ms de QRS precedente.
+ECG de alta: ritmo sinusal a 55 lpm, QRS estrecho, sin alteraciones de la repolarización.
+Radiografía de tórax: silueta conservada. No signos congestivos.
+Radiografía de tórax al alta: desfibrilador automático con extremo distal de electrodo subcutáneo en pared torácica. Grapas quirúrgicas.
+Analítica: Bioquímica: glucosa 107 mg/dl, urea 37 mg/dl, creatinina 1,04 mg/dl, ácido úrico 5,00 mg/dl, triglicéridos 135 mg/dl, colesterol total 105 mg/dl, HDL 40 mg/dl, LDL 38 mg/dl, sodio 137 mEq/l, potasio 5,0 mEq/l, CK 56 U/L, FA 125 U/L, GGT 101 U/L, AST 29 U/L, ALT 54 U/L. Marcadores cardiacos (cifras máximas): troponina I 0,23 ng/ml. Función tiroidea: TSH 3,65 mUI/l, T4 0,65 ng/dl. -Hemograma: hematíes 4.67 mill/mm3, hemoglobina 14,8 g/dl, hematocrito 43 %, VCM 92 fl, leucocitos 6,6/mm3 (59 % N, 28 % L), plaquetas 150 /mm3.
+
+
+Ecocardiograma: VI de dimensión en límite alto de la normalidad (teniendo en cuenta superficie corporal). Grosor parietal conservada.
+Función sistólica global conservada (57 % por Simpson ́s biplanar) y GLS -19 %. No se aprecian claras asimetrías contráctiles. Sin datos concluyentes que sugieran elevación de la TDVI. AI ligeramente dilatada (vol biplanar 36 ml/m2). Cavidades derechas normales. Raíz aórtica de dimensión normal. VM y VAo sin alteraciones.
+No detecto adecuadamente IT para estimar PAPs. Ausencia de derrame pericárdico o masas intracavitarias por esta vía de acceso.
+Resonancia magnética cardiaca (RMC): miocarditis aguda (VI) con edema (hiperseñal lineal subepicárdica en segmentos inferiores medio y apical y laterales medios) y fibrosis (realce tardío lineal subepicárdico en segmentos anteriores basal y medio, segmentos laterales basales y medios, segmentos inferiores medios y apical y segmento inferoseptal medio). Ventrículo izquierdo moderadamente dilatado (DTD: 60 mm); con función sistólica normal: (FE 52 %). Función VD normal. Aurículas no dilatadas. IA leve.
+Estudio electrofisiológico: sin hallazgos significativos. No se evidencia vía accesoria ni doble vía nodal. Mediante estimulación programada no induce arritmias ventriculares.
+
+EVOLUCIÓN
+Desde su ingreso presenta una evolución favorable sin nuevos episodios de arritmias.
+Se realiza RMC que demuestra la existencia de edema miocárdico y hallazgos sugestivos de miocarditis aguda. Se comenta el caso con la Unidad de
+Arritmias que decide implantar DAI subcutáneo. Se implanta DAI subcutáneo modelo EMBLEM MRI sin complicaciones ni incidencias. Se comprueba el adecuado funcionamiento del sistema implantado. Tolera deambulación sin limitaciones.
+Tendencia a cifras tensionales en el límite bajo por lo que se ajusta tratamiento betabloqueante y ARAII, con buena tolerancia, asintomático.
+En situación de estabilidad clínica se decide su alta hospitalaria.
+
+DIAGNÓSTICO
+Taquicardia ventricular sostenida en contexto de miocarditis aguda.

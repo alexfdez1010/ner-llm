@@ -1,0 +1,23 @@
+Varón de 42 años que acude por dolor torácico.
+
+Antecedentes, enfermedad actual y exploración física
+Antecedentes personales: Fiebre reumática en la infancia. IQ: Osteosíntesis en EID. Marino de profesión.
+No tratamiento habitual.
+AF: Hermano fallecido a los 35 años por IAM.
+Enfermedad actual: Varón de 42 años que presenta cuadro de dolor epigástrico y precordial opresivo asociado a cortejo vegetativo de 3 horas de duración. El mes previo había presentado un cuadro de sinusitis tratado con antibiótico. Ante la clínica que presenta, acude a su centro de salud, donde realizan un ECG.
+
+Exploración física: Paciente consciente y orientado. Eupneico. TA 130/90 mmHg, FC 73 lpm. No ingurgitación yugular. Auscultación cardiaca: rítmico, sin soplos. Auscultación pulmonar: murmullo vesicular conservado. Abdomen: Sin hallazgos patológicos. Extremidades inferiores: no edemas ni signos de TVP. Pulsos distales presentes y simétricos.
+
+Pruebas complementarias
+• ECG: taquicardia regular de QRS ancho, 220 lpm, morfología de bloqueo de rama derecha del haz de His y eje superior.
+• Cateterismo: Coronariografía: Sin lesiones coronarias angiográficamente significativas. Ventriculografía izquierda: Disfunción sistólica severa.
+• Analítica: Pico máximo de TnT ultrasensible de 267 ng/L.
+• Ecocardiograma tras 3 días del ingreso: Ventrículo izquierdo no dilatado con función sistólica global ligeramente deprimida e hipocinesia severa de los segmentos basales y medios de cara lateral, inferior y posterior, sin valvulopatías significativas.
+• RMN cardiaca: Hipocinesia de segmentos medioapicales de cara lateral y acinesia del segmento basal de cara lateral. En las series de realce miocárdico tardío, se demuestra una captación de base subepicárdica que respeta el subendocardio, y que afecta a segmentos laterales e inferiores a nivel basal y medio. Leve derrame pericárdico. Hallazgos compatibles con miocarditis aguda.
+• Estudio electrofisiológico: A través de sistema de reconstrucción anatómica digital, se evidencian dos zonas de escara submitrales. Se inducen en varias ocasiones taquicardias ventriculares de igual morfología a la que presentó el paciente al ingreso, pero con mala tolerancia clínica que impidió su mapeo y obligó a terminarlas con sobreestimulación. Finalmente, se decidió realizar varias aplicaciones de radiofrecuencia alrededor de las escaras en ritmo sinusal.
+
+Evolución clínica
+Ante la clínica y el ECG que presenta el paciente, se avisa al Servicio de Emergencias, que pautan sedación y realizan CVE sincronizada a 100J, revirtiendo a ritmo sinusal, y posteriormente es trasladado a la Unidad de Cuidados Intensivos de su hospital de referencia. En el centro se practica coronariografía y analíticas seriadas, con los resultados previamente mencionados. Una vez alcanzada la estabilidad clínica, el paciente es dado de alta a planta de hospitalización, iniciándose tratamiento con IECAs y betabloqueantes con buena tolerancia clínica. Se realiza ecocardiograma que muestra mejoría de la función ventricular izquierda respecto a la ventriculografía realizada al ingreso, y RMN cardiaca, con hallazgos compatibles con miocarditis aguda. Tras realización de estudio electrofisiológico, se implanta DAI sin incidencias, y el paciente es dado de alta a domicilio con IECA y betabloqueante.
+
+Diagnóstico
+Taquicardia ventricular monomórfica sostenida revertida a ritmo sinusal con CVE en contexto de probable miocarditis aguda.

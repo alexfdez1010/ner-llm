@@ -1,0 +1,48 @@
+T36	ENFERMEDAD 159 180	hipertensión arterial
+T37	ENFERMEDAD 237 254	embolia de pulmón
+T38	ENFERMEDAD 718 748	hipertensión pulmonar moderada
+T39	ENFERMEDAD 765 801	insuficiencia tricuspídea (IT) grave
+T40	ENFERMEDAD 1378 1400	insuficiencia cardiaca
+T41	ENFERMEDAD 2022 2027	bocio
+T42	ENFERMEDAD 2104 2123	exoftalmos bilatera
+T43	ENFERMEDAD 2679 2687	mixedema
+T44	ENFERMEDAD 2919 2934	derrame pleural
+T45	ENFERMEDAD 3087 3140	dilatación y disfunción graves del ventrículo derecho
+T46	ENFERMEDAD 3143 3151	HP grave
+T47	ENFERMEDAD 3190 3221	insuficiencia tricuspídea grave
+T48	ENFERMEDAD 3306 3331	embolia de pulmón crónica
+T49	ENFERMEDAD 3548 3554	anemia
+T50	ENFERMEDAD 3615 3625	colestasis
+T52	ENFERMEDAD 3788 3805	hígado de estasis
+T53	ENFERMEDAD 3873 3885	hiponatremia
+T54	ENFERMEDAD 3897 3911	hiperpotasemia
+T55	ENFERMEDAD 4391 4416	trombosis venosa profunda
+T56	ENFERMEDAD 4432 4439	ascitis
+T57	ENFERMEDAD 4442 4459	hígado de estasis
+T58	ENFERMEDAD 4702 4727	embolia de pulmón crónica
+T59	ENFERMEDAD 5235 5270	hipertiroidismo primario autoinmune
+T60	ENFERMEDAD 5272 5300	enfermedad de Graves-Basedow
+T61	ENFERMEDAD 5306 5324	hipoaldosteronismo
+T62	ENFERMEDAD 5669 5725	bacteriemia por Staphylococcus aureus meticilín sensible
+T63	ENFERMEDAD 6167 6184	embolia de pulmón
+T64	ENFERMEDAD 6200 6242	dilatación de cavidades cardiacas derechas
+T65	ENFERMEDAD 6272 6287	derrame pleural
+T66	ENFERMEDAD 6608 6633	insuficiencia tricuspídea
+T67	ENFERMEDAD 6800 6818	trastorno tiroideo
+T68	ENFERMEDAD 6968 6990	Insuficiencia cardiaca
+T69	ENFERMEDAD 7014 7053	Disfunción grave del ventrículo derecho
+T70	ENFERMEDAD 7056 7087	insuficiencia tricuspídea grave
+T71	ENFERMEDAD 7103 7124	hipertensión pulmonar
+T72	ENFERMEDAD 7126 7153	Hipertensión pulmonar grave
+T73	ENFERMEDAD 7204 7232	enfermedad de Graves-Basedow
+T74	ENFERMEDAD 7235 7270	Hipertiroidismo primario autoinmune
+T75	ENFERMEDAD 7272 7300	enfermedad de Graves-Basedow
+T76	ENFERMEDAD 7303 7328	Insuficiencia renal aguda
+T77	ENFERMEDAD 792 794	IT
+T78	ENFERMEDAD 4252 4259	Sífilis
+T79	ENFERMEDAD 6023 6040	cuadro infeccioso
+T80	ENFERMEDAD 2407 2420	hepatomegalia
+T81	ENFERMEDAD 807 834	ventrículo derecho dilatado
+T131	ENFERMEDAD 7167 7202	hipertiroidismo primario autoinmune
+T133	ENFERMEDAD 7126 7202	Hipertensión pulmonar grave secundaria a hipertiroidismo primario autoinmune
+#1	AnnotatorNotes T77	 IT insuficiencia tricuspídea

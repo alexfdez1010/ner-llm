@@ -1,0 +1,41 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Se presenta el caso de un varón de 58 años con antecedentes a destacar de extabaquismo, hipertensión arterial, broncopatía crónica, artropatía microcristalina, fibrilación auricular, anuloplastia mitral dos años antes por insuficiencia valvular grave y último ingreso por descompensación de insuficiencia cardiaca escasos meses atrás en el seno de consumo de antiinflamatorios no esteroideos y anemia. Último ecocardiograma transtorácico el año previo: ventrículo izquierdo no dilatado, con hipertrofia ligera y fracción de eyección conservada.
+Anulopastia mitral con insuficiencia residual III-IV/IV. Hipertensión pulmonar moderada. Válvula aórtica bicúspide.
+Por otro lado, a finales del año pasado se realizó una resección intestinal anterior baja por un carcinoma de colon en unión recto-sigma, diagnosticado a raíz de un estudio de anemia.
+Tratamientos previos: dabigatrán 150 mg 1-0-1; alopurinol 300 mg 1-0-1; furosemida 40 mg 1-0-0; omeprazol 20 mg 1-0-0, bromuro de tiotropio 18 mcg 1-0-0; budesonida 200 mcg 1-0-1; sulfato ferroso 1-0-0; ácido alendrónico 70 mg 1 cada 7 días; carbonato de Calcio 500 mg/400 UI 1-0-0.
+Acude actualmente al servicio de urgencias por un cuadro de 2 meses de evolución consistente en disnea de predominio nocturno con ortopnea de 2 almohadas, disnea paroxística nocturna, deterioro progresivo de clase funcional y tos sin expectoración. Además, los 4 días previos comienza un cuadro febril con temperaturas de hasta 38,2 oC.
+En urgencias se presenta con aceptable estado general y levemente taquipneico, manteniendo saturaciones de oxígeno basales del 98%. La auscultación cardiopulmonar revela un soplo sistólico en foco mitral y crepitantes bibasales. Sin otros hallazgos de interés.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica sanguínea:
+Bioquímica: glucosa 162,5 mg/dl. Creatinina 1,17 mg/dl. Sodio 135.6 mEq/l. Potasio 4,52 mEq/l. Cloro 98,6 mEq/l. Proteínas totales 6,27 g/dl. Albúmina 3,29 g/dl. ALT (GPT) 12,3 U/l. AST (GOT) 14,4 U/l. Gamma-GT 18 U/l. Fosfatasa alcalina 76 U/l. LDH 282 U/l.
+Bilirrubina .51 mg/dl. Proteína C reactiva 13,78 mg/dl. Hierro 16 mcg/dl [59-158] * Ferritina 99 ng/ml [30-400]. Transferrina 233 mg/dl [200-360]. TIBC 329 mcg/dl [250-400] %. Saturación transferrina 4,9% [20,0-50,0 ] NT-proBNP 2729 pg/ml (X2 respecto a previo)*. Índice de hemólisis 1. Índice de lipemia 12.
+Hematología: leucocitos 9.4 x1000/μl. Hematíes 3.87 xmill/μl. Hemoglobina 8,6 g/dl (previa de 9,7). Hematocrito 27,3%. VCM 70,5 fl. HCM 22,2 pg. CHCM 31,5 g/dl. RDW 20%.
+Plaquetas 240 x1000/μl. VPM 7.2 fl. Neutrófilos 7.1 x1000/μl. Neutrófilos % 75.6. Linfocitos 1.2 x1000/μl. Linfocitos % 12.3. Monocitos 1.1 x1000/μl Monocitos % 11.5. Eosinófilos 0 x1000/μl. Eosinófilos % .2 Basófilos 0 x1000/μl Basófilos % 0.
+Hemostasia: actividad de protrombina 70%. INR 1.28. TTPa 36,6 sec. Fibrinógeno (derivado) 869 mg/dl. Dímeros D 507 ng/ml.
+
+Electrocardiograma: ritmo sinusal a 86 latidos, eje izquierdo, QRS ensanchado con imagen compatible con bloqueo completo de rama izquierda, sin otros hallazgos relevantes.
+Similar a previos.
+Radiografía torácica: datos de insuficiencia cardiaca sin claras consolidaciones.
+Exudado nasofaríngeo (x2): negativo para SARS-CoV-2.
+Hemocultivos (2 sets): aislamiento de Enterococcus faecium resistente a ampicilina, sensible a linezolid, glucopéptidos, daptomicina y sinergia con gentamicina.
+Ecocardiograma transtorácico: dilatación biventricular. Insuficiencia mitral y aórtica al menos moderadas.
+Ecocardiograma transesofágico: válvula aórtica bicúspide con infiltración y desestructuración de todo el velo fusionado que prolapsa y ocasiona una insuficiencia grave, con probable perforación del mismo. Engrosamiento de la pared posterior de la aorta, rodeando la coronaria izquierda que no se puede descartar que se trate de abscesificación a ese nivel.
+Patrón de inversión holodiastólica en aorta torácica descendente.
+Anuloplastia mitral con imagen filiforme y móvil de 12 mm sugestiva de vegetación, condicionando una insuficiencia valvular grave.
+Resonancia magnética nuclear cerebral: sin objetivarse complicaciones intracraneales de interés.
+
+EVOLUCIÓN CLÍNICA
+Inicialmente, bajo el diagnóstico de insuficiencia cardiaca en probable relación con anemia, el paciente fue transfundido con un concentrado de hematíes y se inició tratamiento depletivo, con mejoría clínica sustancial. Sin embargo, aunque la disnea y la tos no productiva que presentaba el paciente pudieran atribuirse a su descompensación de insuficiencia cardiaca, dado el contexto epidemiológico actual, máxime con el pico febril constatado, era imperativo descartar infección por SARS-CoV-2, trasladando al paciente a hospitalización de COVID-19 e iniciando tratamiento con hidroxicloroquina. Se obtuvieron dos exudados nasofaríngeos que resultaron negativos, lo cual, sumado a la positividad en los dos sets de hemocultivos para E. faecium, hicieron posible descartar razonablemente el diagnóstico de infección por coronavirus y dirigir el foco hacia un diagnóstico de insuficiencia cardiaca en el contexto de una endocarditis infecciosa y agudización de anemia crónica.
+Por ello, fue trasladado desde la planta de medicina interna de COVID-19 hacia la planta de Cardiología, iniciando antibioterapia empírica con daptomicina en el momento de la positividad de los hemocultivos. Una vez conocido el antibiograma, se decidió ampliar cobertura añadiendo ampicilina y gentamicina.
+Se presentó el caso al servicio de cirugía cardiaca, quienes aceptaron al paciente para intervencionismo. Se realizó RMN cerebral que descartó complicaciones neurológicas significativas. Sin embargo, se decidió tomar otro exudado para PCR de SARS-CoV-2 como medida de precaución, resultando positivo en esta determinación. Por ello, el paciente fue trasladado de nuevo a hospitalización de medicina interna de COVID-19 para tratamiento médico hasta negativización del exudado nasofaríngeo, con opción a intervención quirúrgica urgente en caso de empeoramiento resistente a tratamiento médico. El paciente se mantuvo varios días con fiebre persistente y deterioro clínico progresivo, con disnea de mínimos esfuerzos, intensa ortopnea que lo obligaba a dormir sentado y varios episodios de disnea paroxística nocturna, precisando oxigenoterapia con reservorio, por lo que finalmente, teniendo en cuenta el balance riesgo/beneficio, se decidió intervenir, practicándose un doble recambio valvular por prótesis mecánicas.
+Tras la cirugía, el paciente es trasladado a cuidados intensivos, donde experimenta una evolución tórpida inicial, desarrollando un shock mixto cardiogénico y vasopléjico en relación con la circulación extracorpórea, precisando intubación orotraqueal y soporte con dobutamina y noradrenalina. Se realiza ecocardioscopia que evidencia depleción de volumen y deterioro moderado la contractilidad del ventrículo izquierdo, con respuesta favorable a levosimendán.
+Además, desarrolla episodio de fibrilación auricular con respuesta ventricular rápida que se controla adecuadamente con digoxina. Finalmente, en los días posteriores evoluciona satisfactoriamente, pudiendo suspenderse el soporte vasoactivo y proceder a extubación, aunque precisando intermitentemente ventilación mecánica no invasiva.
+
+DIAGNÓSTICO
+Descompensación de insuficiencia cardiaca de predominio izquierdo secundaria a anemia y a endocarditis infecciosa aórtica y mitral por E. faecium con insuficiencia grave de ambas válvulas.
+Agudización de anemia crónica microcítica hipocrómica, con requerimiento de 1 concentrado de hematíes.
+Infección respiratoria leve por SARS-CoV-2.
+Shock mixto cardiogénico y vasopléjico en relación a circulación extracorpórea, precisando ventilación mecánica invasiva y soporte vasoactivo.
+Fibrilación auricular de novo con respuesta ventricular rápida, controlada con digoxina.

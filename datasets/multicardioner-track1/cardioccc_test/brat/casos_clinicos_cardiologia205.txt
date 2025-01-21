@@ -1,0 +1,31 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Varón joven de 19 años
+Antecedentes familiares: abuelo paterno fallecido a edad avanzada por tromboembolismo pulmonar masivo. Padre y madre sin trombosis. Madre sin abortos.
+Sin alergias medicamentosas conocidas.
+Síndrome antifosfolípido primario: diagnosticado tras episodio de trombosis venosa profunda (TVP) en 2017. Perfil serológico de alto riesgo: triple positividad de anticuerpos (AL + aCL + Antiβ2-GPI positivos).
+Fumador activo de 3-5 cigarrillos/día. Sin antecedentes quirúrgicos. Tratamiento habitual: acenocumarol.
+
+Enfermedad actual
+Varón de 19 años que acude a urgencias por dolor centrotorácico opresivo con cortejo vegetativo asociado de 3 horas de evolución que comienza durante el ejercicio y no cede con el reposo. No irradiado, sin cambios con los movimientos o la respiración, sin palpitaciones, ni disnea, ni clínica infecciosa.
+Reconoce no haber tomado la dosis de acenocumarol los 5 días previos por miedo a la interacción del mismo con el alcohol, que ha consumido.
+
+Exploración física
+Tensión arterial (TA) 130/85 mmHg. Frecuencia cardiaca (FC) 65 lpm. Saturación basal de oxígeno 99%. Frecuencia respiratoria 16 rpm. Buen estado general. Consciente y orientado. Afebril. Sudoroso. Auscultación cardiaca: rítmico sin soplos. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos sobreañadidos. Extremidades inferiores sin edemas, ni signos de TVP.
+
+PRUEBAS COMPLEMENTARIAS
+ECG en urgencias: Bradicardia sinusal a 55 lpm. PR normal. QRS estrecho con eje normal. Elevación del ST de 3-4 mm en DII, DIII y aVF y de 1-1,5 mm en V5-V6, descenso del ST especular en DI y aVL.
+Analítica: INR a su llegada de 1,1. Hemoglobina 15,6 g/dl, leucocitos 11.040 /μl, plaquetas 177.000 /μl. Troponina I (hs-TnI rango normal 0-53,5) inicial 5.122,3, pico 116.052,8 ng/l, HbA1C 5,5%, colesterol total 136 mg/dl, HDL 37 mg/dl, LDL 62 mg/dl, triglicéridos 188 mg/dl, creatinina 0,86 mg/dl, filtrado glomerular > 90 ml/min, sodio 136 mmol/l, potasio 3,5 mmol/l, TSH 1 μUI/ml, perfil férrico normal.
+Cateterismo coronario emergente: acceso radial derecho. Tronco: sin lesiones. arteria coronaria descendente anterior (DA): normodesarrollada, sin lesiones angiográficas. Arteria coronaria circunfleja (Cx): sin lesiones angiográficas. Coronaria derecha (CD): dominante, oclusión completa trombótica en segmento medio.
+Intervencionismo coronario percutáneo (ICP): se avanza guía a CD distal y se realizan varias aspiraciones de trombo, obteniendo abundante trombo rojo. Se recupera flujo TIMI 3 y se observa lesión larga con estenosis ligera y restos de trombo en CD medio-distal. Lecho distal de buen desarrollo y sin lesiones. Se realiza tomografía de coherencia óptica (OCT) que muestra restos de trombo rojo adheridos a la pared, sin imágenes sugerentes de rotura de placa, en un vaso sin signos de aterosclerosis, aunque en algunos puntos no es visible la pared arterial por la presencia de trombo. Ante estos hallazgos se decide no implantar stent.
+Ecocardiograma transtorácico: ventrículo izquierdo no dilatado, ni hipertrófico, con función sistólica global normal (FEVI por Simpson biplano de 54%). Aquinesia de segmentos medio y basal de cara inferior e inferolateral. Relación E/E' de 7,5. Ventrículo derecho de tamaño y función normales. Aurículas de tamaño normal. Insuficiencia mitral leve. Insuficiencia tricuspídea leve que permite estimar una PSAP de 35 mmHg. Raíz aórtica y aorta ascendente normales. No derrame pericárdico.
+ECG al alta: ritmo sinusal a 75 lpm. PR normal. QRS estrecho con onda Q y ondas T negativas en cara inferior (DII, DIII, aVF) y lateral (V4-V6).
+
+EVOLUCIÓN CLÍNICA
+A su llegada se realiza electrocardiograma donde se objetiva elevación del ST y se activa la alerta de hemodinámica para realización de cateterismo coronario emergente. Se observa oclusión trombótica en la arteria coronaria derecha, se realiza tromboaspiración y angioplastia con balón recuperando flujo TIMI 3. Se realiza prueba de imagen intracoronaria con OCT con visualización de trombo rojo residual adherido a la pared, sin datos de rotura de placa ni aterosclerosis. Ante estos hallazgos se decide no implantar stent.
+Se realiza ecocardiograma transtorácico con función global normal y alteración segmentaria en el territorio de CD. Se inicia doble antiagregación y anticoagulación. El paciente permaneció monitorizado durante el ingreso, estable, reintroduciendo anticoagulación oral, sin complicaciones de la función renal, ni de la punción radial. Puesto que se trataba de un evento trombótico, en contexto de incorrecta anticoagulación y con coronarias sin lesiones, se decidió mantener anticoagulación y estatinas indefinidas junto antiagregación con ácido acetilsalicílico durante un mes. Al alta se derivó al paciente al programa de rehabilitación cardiaca. En TC coronario de control a los 2 meses se observaron arterias coronarias epicárdicas sin lesiones.
+
+DIAGNÓSTICO
+Infarto agudo de miocardio inferolateral de origen trombótico. Revascularización urgente de coronaria derecha. Función sistólica de VI conservada.
+Síndrome antifosfolípido primario con perfil de alto riesgo. Abandono del tratamiento anticoagulante oral.

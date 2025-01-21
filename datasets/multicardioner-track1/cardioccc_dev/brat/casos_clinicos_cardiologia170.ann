@@ -1,0 +1,43 @@
+T32	ENFERMEDAD 24 76	Alergia a las sulfamidas y al ácido acetilsalicílico
+T33	ENFERMEDAD 113 123	dislipemia
+T34	ENFERMEDAD 156 173	diabetes mellitus
+T35	ENFERMEDAD 178 199	hipertensión arterial
+T36	ENFERMEDAD 201 204	HTA
+T37	ENFERMEDAD 250 273	estenosis aórtica grave
+T38	ENFERMEDAD 519 533	Asma bronquial
+T39	ENFERMEDAD 575 592	Trombosis macular
+T40	ENFERMEDAD 595 627	desprendimiento de vítreo en ojo
+T41	ENFERMEDAD 664 720	Rotura de pelvis en agosto 2017 (isquion derecha y coxis
+T42	ENFERMEDAD 855 882	fractura de cuello de fémur
+T43	ENFERMEDAD 2225 2250	trombosis venosa profunda
+T44	ENFERMEDAD 2252 2255	TVP
+T45	ENFERMEDAD 2751 2764	cardiomegalia
+T46	ENFERMEDAD 2766 2791	Derrame pleural bilateral
+T47	ENFERMEDAD 3214 3310	Válvula mitral fibrocalcificada sobre todo a nivel posterior con regurgitación al menos moderada
+T48	ENFERMEDAD 3469 3488	derrame pericárdico
+T49	ENFERMEDAD 3708 3723	Estenosis grave
+T50	ENFERMEDAD 3783 3812	Insuficiencia mitral moderada
+T51	ENFERMEDAD 4034 4055	edema agudo de pulmón
+T52	ENFERMEDAD 4173 4275	estenosis e insuficiencia aórtica graves secundaria a disfunción de prótesis valvular aórtica mecánica
+T53	ENFERMEDAD 4413 4447	trombosis protésica aguda-subaguda
+T54	ENFERMEDAD 4762 4780	shock cardiogénico
+T55	ENFERMEDAD 5429 5452	fibrilación ventricular
+T56	ENFERMEDAD 5900 5918	shock cardiogénico
+T57	ENFERMEDAD 5994 6015	fracaso multiorgánico
+T58	ENFERMEDAD 6054 6076	Insuficiencia cardiaca
+T59	ENFERMEDAD 6093 6111	edema agudo pulmón
+T60	ENFERMEDAD 6113 6193	Trombosis aguda de prótesis aórtica mecánica con estenosis e insuficiencia grave
+T61	ENFERMEDAD 6330 6360	Shock cardiogénico refractario
+T62	ENFERMEDAD 6380 6401	Fracaso multiorgánico
+T63	ENFERMEDAD 2629 2669	Bloqueo de rama izquierda del haz de His
+T64	ENFERMEDAD 3414 3425	IT moderada
+T65	ENFERMEDAD 5666 5706	disfunción de ventrículo izquierdo grave
+T66	ENFERMEDAD 210 225	hábitos tóxicos
+T67	ENFERMEDAD 733 755	Fracturaacuñamiento L1
+T68	ENFERMEDAD 2671 2676	BRIHH
+T69	ENFERMEDAD 2830 2842	edema pulmón
+T70	ENFERMEDAD 2881 2917	ventrículo izquierdo con hipertrofia
+T130	ENFERMEDAD 3762 3781	insuficiencia grave
+T132	ENFERMEDAD 3814 3869	Ventrículo izquierdo (VI) no dilatado, hipertrofia leve
+T135	ENFERMEDAD 4896 4978	prótesis aórtica St Jude no 19 bloqueada por la presencia de dos pequeños coágulos
+#1	AnnotatorNotes T64	 IT insuficiencia tricuspídea

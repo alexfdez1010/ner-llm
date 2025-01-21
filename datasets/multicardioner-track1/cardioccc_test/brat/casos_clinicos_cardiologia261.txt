@@ -1,0 +1,41 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 65 años remitido de forma preferente desde atención primaria a consultas externas de cardiología por clínica de dolor torácico.
+
+Antecedentes
+Factores de riesgo cardiovascular (FRCV): exfumador desde hace 10 años (35 paquetesaño).
+No hipertensión arterial (HTA), ni diabetes mellitus (DM), ni dislipemias.
+Sin historia cardiológica previa. No antecedentes familiares de cardiopatía.
+Otros antecedentes: glaucoma, ulcus péptico.
+Tratamiento: omeprazol 20 mg: 1 comprimido al día. Colirios oculares de latanoprost, dorzolamida y timolol.
+
+Enfermedad actual
+Refería dolor torácico en hemitórax izquierdo de características opresivas, sin irradiación, acompañado en ocasiones de sudoración fría, desencadenado generalmente con los esfuerzos, aunque también con algún episodio en reposo, y mejoría progresiva del dolor en unos 30 minutos tras cesar el esfuerzo. El paciente negó cambios en el umbral de esfuerzo o progresión de la clínica en las últimas semanas. No refería sintomatología sugestiva de insuficiencia cardiaca, palpitaciones o episodios de pérdida del nivel de conciencia.
+
+Exploración física
+Buen estado general, normocoloreado y normohidratado, eupneico en reposo y consciente, orientado y colaborador.
+Tensión arterial (TA) 124/73 mmHg, frecuencia cardiaca (FC) 55 lpm, SatO2 98% con aire ambiente.
+No se detectaron soplos en la auscultación cardiaca y la auscultación pulmonar evidenció un murmullo vesicular conservado sin ruidos sobreañadidos salvo algún sibilante teleespiratorio aislado.
+Los pulsos radiales y pedios eran palpables, rítmicos y simétricos.
+
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG) basal: ritmo sinusal a 55 latidos por minuto. Eje 60o. PR 0.16s. QRS estrecho. Sin alteraciones en la repolarización.
+Analítica: glucosa 91 mg/dl, creatinina 0,78 mg/dl, filtrado glomerular estimado (CKD-EPI) superior a 90 ml/min/1,73 m2, colesterol total 172 mg/dl, triglicéridos 71 mg/dl, colesterol HDL 54 mg/dl, colesterol LDL calculado 113 mg/dl.
+Ecocardiografía transtorácica: ventrículo izquierdo de diámetros y grosores parietales normales con FEVI conservada (67%). No se observan alteraciones segmentarias en la contractilidad. Patrón de llenado transmitral normal. E/e" medio de 9.5 (PTDVI globalmente estimadas como normales). Ventrículo derecho no dilatado con buena contractilidad (TAPSE 21 mm, s" anillo tricuspídeo 13,2 cm/s). Aurículas de tamaño normal. Sin valvulopatías relevantes. Vena cava inferior (VCI) no dilatada con adecuado colapso inspiratorio. Ausencia de derrame pericárdico.
+Ergometría en tapiz rodante: ergometría máxima con protocolo de Bruce en cinta móvil, se detiene la prueba por dolor precordial opresivo, no limitante, similar al que motivó la solicitud, y descenso horizontal del ST máximo de 2 mm en 5 derivaciones (II, III, aVF, V4 y V5); tanto la clínica como los cambios ECG persisten unos 5 minutos tras finalizar el esfuerzo.
+Correcta adaptación de FC y TA. Capacidad funcional normal (alcanza 12.6 METS). No se han detectado arritmias significativas.
+Coronariografía (vídeo 2): dominancia izquierda. Tronco coronario izquierdo, arteria descendente anterior y arteria circunfleja sin lesiones angiográficas significativas. Arteria coronaria derecha con origen anómalo desde seno coronario izquierdo y probable trayecto interarterial, de escaso desarrollo y sin lesiones angiográficas significativas.
+TC de coronarias con sincronización cardiaca y adquisición prospectiva: anatomía coronaria: dominancia izquierda. Ramo intermediario como variante anatómica de la normalidad. Salida anómala de coronaria derecha desde seno coronario izquierdo con curso interarterial alto. Tronco coronario izquierdo: largo, sin lesiones. Descendente anterior: sin lesiones. Circunfleja: sin lesiones. Coronaria derecha: salida desde el seno coronario contralateral con curso interarterial alto, sin lesiones. Otros hallazgos cardiacos: Pequeño divertículo en la pared inferoposterior izquierda de la aurícula izquierda. No se observan trombos intraauriculares. Hallazgos extracardiacos: hernia de hiato.
+Resonancia magnética cardiaca de estrés con dipiridamol: ventrículo izquierdo con grosor de sus paredes, volúmenes y función sistólica segmentaria y global dentro de la normalidad (FEVI 70%). Ventrículo derecho de volumen y función sistólica dentro de la normalidad (FEVD 64 %). Aurículas y grandes vasos de tamaño normal. Provocación de isquemia con dipiridamol i.v. (0,84 mg/kg, bien tolerada) NEGATIVA. Basal 57 lpm y 137/76 mmHg. Estrés 84 lpm y 127/70 mmHg. Ausencia de fibrosis o necrosis miocárdica. En resumen, ausencia de isquemia inducible.
+
+EVOLUCIÓN CLÍNICA
+Tras la valoración ecocardiográfica, que no mostró cardiopatía estructural, los datos disponibles, las recomendaciones de manejo clínico en ese momento, la disponibilidad local de pruebas complementarias y estimando una probabilidad pretest intermedia, se solicitó una ergometría en tapiz rodante para valorar la presencia de isquemia y confirmar el diagnóstico de sospecha de angina de esfuerzo estable. Esta resultó compatible clínica y eléctricamente con isquemia a alta carga. Con este resultado y la clínica que presentaba el paciente, se inició tratamiento con ácido acetilsalicílico 100 mg 1 comprimido al día y atorvastatina 20 mg 1 comprimido al día y se solicitó coronariografía.
+Durante la técnica, la canalización del tronco coronario izquierdo mostró unas arterias descendente anterior y circunfleja sin lesiones significativas, con dominancia izquierda. No se consiguió canalizar la arteria coronaria derecha desde el seno coronario derecho, con lo cual se buscó el origen de dicha arteria en el seno coronario izquierdo. Tras varios intentos e inyecciones subselectivas se observó que la arteria coronaria derecha tenía un origen anómalo en el seno coronario izquierdo, con probable trayecto interarterial. La arteria en sí era poco desarrollada y prácticamente rudimentaria. Para confirmar el origen y especialmente el trayecto de la arteria coronaria derecha se solicitó un TC coronario, que mostró, de forma concordante con la coronariografía, un origen desde el seno izquierdo, así como un trayecto interarterial alto.
+Se presentó al paciente en sesión médico-quirúrgica para plantear reimplantación de la arteria coronaria derecha, resección parietal o unroofing o bypass con ligadura proximal. Se decidió solicitar una prueba de imagen para valorar y localizar la presencia de isquemia como dato adicional para indicar la eventual cirugía. Se añadió tratamiento antianginoso de forma secuencial con parche de nitratos 5 mg al día, lercanidipino 10 mg 1 comprimido al día y ranolazina 500 mg 1 comprimido cada 12 horas. No toleró betabloqueantes por tendencia a la bradicardia sinusal.
+Se realizó una RMC de estrés con vasodilatador (dipiridamol) que descartó la presencia de necrosis miocárdica y tampoco evidenció isquemia. Hay que comentar que el mecanismo de inducción de estrés mediante esta técnica (vasodilatación) no produjo un aumento de la PA, con lo cual no se hubiera evidenciado isquemia en caso de que el mecanismo hubiera sido la compresión de la arteria coronaria con trayecto interarterial por expansión de la arteria aorta y el tronco pulmonar, mecanismo que sí se hubiera producido si la inducción de estrés hubiera sido con el esfuerzo.
+Finalmente, se desestimó intervención quirúrgica por parte de cirugía cardiaca debido al escaso calibre y desarrollo de la arteria afectada, las dificultades técnicas de la intervención y la buena respuesta al tratamiento médico. A día de hoy el paciente se mantiene estable con una clase funcional CCS (Canadian Cardiovascular Society) para angina de II/IV, aún pendiente de optimización plena de tratamiento antianginoso. No ha presentado eventos cardiovasculares a lo largo del seguimiento.
+
+DIAGNÓSTICO
+Anomalía coronaria: arteria coronaria derecha con origen en seno coronario izquierdo y trayecto interarterial alto.
+Angina estable.
+FEVI normal

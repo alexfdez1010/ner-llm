@@ -1,0 +1,16 @@
+T1	ENFERMEDAD 72 96	enolismo moderado-severo
+T2	ENFERMEDAD 98 119	hipertensión arterial
+T3	ENFERMEDAD 122 143	cardiopatía isquémica
+T43	ENFERMEDAD 2282 2303	intoxicaciones por OP
+T44	ENFERMEDAD 239 320	post-ingesta de un OP (Metasystox®: oxidemetón-metilo) en un intento de autolisis
+T56	ENFERMEDAD 3041 3067	insuficiencia respiratoria
+T59	ENFERMEDAD 3184 3196	intoxicación
+T63	ENFERMEDAD 3408 3457	traqueobronquiolitis nosocomial por H. influenzae
+T4	ENFERMEDAD 2846 2848	SI
+T5	ENFERMEDAD 2998 3015	intoxicado por OP
+T64	ENFERMEDAD 509 518	hipotenso
+T66	ENFERMEDAD 2309 2333	mioclonías generalizadas
+T67	ENFERMEDAD 2530 2549	mioclonías faciales
+#1	AnnotatorNotes T43	   OP: organofosforados
+#2	AnnotatorNotes T4	   SI: síndrome intermedio
+#3	AnnotatorNotes T5	   OP: organofosforados

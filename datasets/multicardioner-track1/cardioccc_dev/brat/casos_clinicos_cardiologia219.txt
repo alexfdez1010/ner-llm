@@ -1,0 +1,44 @@
+Antecedentes
+Factores de riesgo cardiovascular (FRCV): hipertensión arterial (HTA) con lesión de órgano diana, diabetes mellitus (DM) tipo 2 con afectación macro y microvascular, DL, fumador activo (IPA estimado: 135).
+Enfermedad renal crónica estadio II de probable etiología mixta (hipertensiva y diabética), con filtrado glomerular estimado en torno a 60 ml/min y proteinuria en rango no nefrótico (1,1 g/24 horas).
+Cardiopatía isquémica crónica con enfermedad grave de tres vasos revascularizada quirúrgicamente en 2016 (injertos AMI-DA y VSI-OM, este último ocluido de forma crónica), con disfunción sistólica ligera del VI.
+Fibrilación auricular (FA) paroxística anticoagulada con acenocumarol.
+Ictus isquémico en territorio de arteria cerebral posterior (ACP) derecha de probable etiología cardioembólica.
+Síndrome de apneas-hipopneas durante el sueño (SAHS) moderado.
+Isquemia crónica grado IIA en miembro inferior derecho.
+
+
+Tratamiento domiciliario:
+Atorvastatina 80 mg 0-0-1, ácido acetilsalicílico (AAS) 100 mg 0-1-0, bisoprolol 5 mg 1-0-1, acenocumarol según controles de INR, ivabradina 5 mg 1-0-1, amlodipino 5 mg 1-0-0, candesartán 4 mg 1-0-1, espironolactona 25 mg 1-0-0, metformina 850 mg 1-0-0, furosemida 40 mg 2-0,5-0, omeprazol 20 mg 1-0-0.
+
+Enfermedad actual
+Se trata de un varón de 60 años con los antecedentes previamente referidos, entre los que destacan múltiples FRCV y enfermedad vascular establecida, con cardiopatía isquémica crónica revascularizada quirúrgicamente y con disfunción sistólica ligera del VI residual, que ingresa a cargo de neurología por ictus isquémico de etiología aterotrombótica en arteria cerebral media (ACM) izquierda, realizándose trombectomía mecánica e implante destent a nivel de arteria carótida izquierda. Durante el ingreso el paciente presenta episodio de descompensación de insuficiencia cardiaca, por lo que es trasladado a cargo de cardiología en situación de anasarca para monitorización, estudio y tratamiento diurético intensivo.
+
+Exploración física
+A la valoración por cardiología:
+Regular estado general. Consciente, orientado en las 3 esferas y colaborador. Normocoloreado, normohidratado y normoperfundido. Afebril al tacto. Taquipneico en reposo, con intolerancia al decúbito.
+Tensión arterial (TA): 160/70 mm Hg. Frecuencia cardiaca (FC): 73 lpm. SpO2: 91% con oxigenoterapia a bajo flujo (cánulas nasales).
+Auscultación cardiaca: ruidos cardiacos rítmicos. No se auscultan soplos, extratonos ni roce pericárdico.
+Auscultación pulmonar: hipoventilación generalizada en ambos campos pulmonares. Extremidades inferiores: pulsos pedios presentes y simétricos. Edemas con fóvea bilaterales hasta rodillas.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG) al ingreso: ritmo sinusal, PR 160 ms, QRS estrecho, sin alteraciones de la repolarización sugestivas de isquemia aguda.
+Radiografía de tórax: proyección AP. Derrame pleural bilateral (mínimo izquierdo, más evidente derecho). Hilios congestivos y redistribución vascular.
+
+Analítica al ingreso:
+Bioquímica: glucosa 186 mg/dl, creatinina 0,98 mg/dl, sodio 140 mEq/l, proteínas totales 7,5 g/dl, potasio 4,59 mEq/l, albúmina 4,0 g/dl, cloro 102 mEq/l, ALT (GPT) 21 U/l, AST (GOT) 25 U/l, gamma-GT 34 U/l, fosfatasa alcalina 125 U/l, LDH 384 U/l, bilirrubina 0,8 mg/dl, proteína C reactiva 3,02 mg/dl.
+Hemograma: hematíes 4,56 xmill/μl, hemoglobina 14,9 g/dl, hematocrito 45,6%, HCM 32,8 pg, VCM 100,2 fl, CHCM 32,7 g/dl, RDW 14,5%, plaquetas 277 x1000/μl, VPM 8,8 fl, leucocitos 8,4 x1000/μl, neutrófilos 6,8 x1000/μl, neutrófilos % 81,2%, linfocitos 0,8 x1000/μl, linfocitos % 9,9%, monocitos 0,7 x1000/μl, monocitos % 7,9%, eosinófilos 0,0 x1000/μl, eosinófilos % 0,5%, basófilos 0,0 x1000/μl, basófilos % 0,5%.
+Coagulación: tiempo de protrombina 16,3 sec, actividad de protrombina 61%, INR (laboratorio) 1,41, TTPa 36 sec, fibrinógeno (derivado) 597 mg/dl. NT-proBNP: 10053 pg/ml.
+Analítica con factores de riesgo cardiovascular: Hb glicada (DCCT) 7,2 (%Hbtotal) %, TSH 4,49 μlU/ml, T4 libre 1,17 ng/dl, colesterol 108 mg/dl, triglicéridos 102 mg/dl, LDL (estimación Friedewald) 67 mg/dl, HDL 21 mg/dl.
+Analítica al alta: glucosa 153 mg/dl, creatinina 1,69 mg/dl, sodio 134 mEq/l, potasio 5,1mEq/l, cloro 98 mEq/l, calcio 9,2 mg/dl, NT-proBNP 2640 pg/ml.
+Ecocardiograma transtorácico: ventrículo izquierdo no dilatado, con espesores parietales normales. Función sistólica moderadamente deprimida con alteraciones de la contractilidad segmentaria. Ventrículo derecho no dilatado con función sistólica normal. Aurícula izquierda ligeramente dilatada. Hipertensión pulmonar moderada-grave.
+Coronariografía: lesión grave en segmento proximal de arteria descendente anterior (ADA), que se revasculariza mediantestent farmacoactivo. Anastomosis de la mamaria permeable y sin lesiones. Circunfleja no dominante, que da una primera OM ocluida desde el origen, con relleno distal por circulación homocoronaria. Injerto safeno y arteria coronaria derecha no sondadas por encontrarse ya ocluidas previamente.
+
+EVOLUCIÓN CLÍNICA
+El paciente presenta buena evolución desde el punto de vista clínico y analítico (NT-proBNP inicial de 10053 pg/ml y final de 2640 pg/ml) tras inicio de tratamiento diurético combinado (furosemida, clortalidona y ciclo de 3 días de acetazolamida dada la tendencia a la alcalosis metabólica). Se realiza un ecocardiograma transtorácico que muestra deterioro de la función ventricular respecto a estudio previo; además, el paciente refiere episodios de dolor torácico típico tanto en domicilio como durante el ingreso, por lo que se lleva a cabo coronariografía, evidenciándose estenosis grave en segmento proximal de ADA, que se revasculariza mediante implante de stent farmacoactivo. Se mantiene bajo triple terapia antitrombótica con AAS, clopidogrel y dabigatrán 110 mg durante el ingreso, retirándose el AAS al alta hospitalaria. Dado el hallazgo analítico de mal control metabólico crónico de su DM tipo 2 (Hb glicada 7,2%), se plantea introducir un iSGLT2 (empagliflozina) en prevención secundaria de eventos cardiovasculares a pesar del fracaso renal agudo de probable origen mixto (prerrenal y nefropatía por contraste), con un filtrado glomerular (FG) al alta calculado según fórmula de CKD-EPI de 43 ml/min/m .
+
+DIAGNÓSTICO
+Insuficiencia cardiaca congestiva en situación de anasarca. Disfunción ventricular izquierda moderada.
+Diabetes mellitus tipo 2 con mal control metabólico crónico (HbA1c 7,2%) y afectación a nivel macro y microvascular.
+Enfermedad arterial coronaria de tres vasos: estenosis grave de la arteria descendente anterior proximal, revascularizada percutáneamente mediante implante dsetent farmacoactivo.
+Ictus isquémico secundario a oclusión de arteria carótida izquierda, revascularizada mediante stent. NIHSS inicial de 9. NIHSS al alta de 2.

@@ -1,0 +1,48 @@
+T30	ENFERMEDAD 2408 2421	hepatomegalia
+T34	ENFERMEDAD 3272 3285	cardiomegalia
+T37	ENFERMEDAD 3373 3399	hígado aumentado de tamaño
+T41	ENFERMEDAD 4245 4288	Válvula mitral con apertura normal, reflujo
+T43	ENFERMEDAD 4516 4546	venas suprahepáticas dilatadas
+T80	ENFERMEDAD 127 147	ataxia de Friedreich
+T81	ENFERMEDAD 300 342	Miocardiopatía hipertrófica no obstructiva
+T82	ENFERMEDAD 583 602	HVI de grado severo
+T83	ENFERMEDAD 1265 1298	hipertrofia ventricular izquierda
+T85	ENFERMEDAD 2516 2525	trombosis
+T86	ENFERMEDAD 3166 3169	HVI
+T87	ENFERMEDAD 3562 3570	litiasis
+T88	ENFERMEDAD 3761 3787	ectasia de vías excretoras
+T89	ENFERMEDAD 3901 3920	HVI de grado severo
+T91	ENFERMEDAD 4297 4348	Válvula aórtica de estructura normal, insuficiencia
+T92	ENFERMEDAD 4357 4400	Insuficiencia tricúspidea de grado moderado
+T93	ENFERMEDAD 4607 4626	MCH de grado severo
+T94	ENFERMEDAD 4628 4669	Disfunción sistólica biventricular severa
+T95	ENFERMEDAD 4671 4681	HTP ligera
+T96	ENFERMEDAD 4791 4824	insuficiencia cardiaca congestiva
+T97	ENFERMEDAD 4860 4879	congestión hepática
+T98	ENFERMEDAD 5029 5070	disfunción sistólica biventricular severa
+T99	ENFERMEDAD 5195 5212	miocarditis aguda
+T100	ENFERMEDAD 5217 5258	disfunción sistólica biventricular severa
+T101	ENFERMEDAD 5465 5483	shock cardiogénico
+T102	ENFERMEDAD 5804 5832	fracaso biventricular severo
+T103	ENFERMEDAD 5861 5871	HTP severa
+T104	ENFERMEDAD 5907 5925	shock cardiogénico
+T106	ENFERMEDAD 6104 6132	enfermedad neurológica grave
+T107	ENFERMEDAD 6221 6252	isquemia en extremidad inferior
+T108	ENFERMEDAD 6265 6331	hipoperfusión de extremidad derecha secundaria al implante de BACP
+T109	ENFERMEDAD 6415 6433	shock cardiogénico
+T110	ENFERMEDAD 6436 6457	fracaso multiorgánico
+T112	ENFERMEDAD 6471 6494	acidosis láctica severa
+T113	ENFERMEDAD 6542 6557	parada cardiaca
+T114	ENFERMEDAD 6562 6571	asistolia
+T115	ENFERMEDAD 6660 6682	miocarditis fulminante
+T116	ENFERMEDAD 6687 6717	shock cardiogénico refractario
+T118	ENFERMEDAD 6732 6754	Miocarditis fulminante
+T119	ENFERMEDAD 6756 6774	Shock cardiogénico
+T120	ENFERMEDAD 6776 6818	Miocardiopatía hipertrófica no obstructiva
+T121	ENFERMEDAD 6820 6840	Ataxia de Friedreich
+T36	ENFERMEDAD 3435 3504	Dilatación de venas suprahepáticas y de sistema de vena cava inferior
+T124	ENFERMEDAD 3575 3599	dilatación de vía biliar
+T127	ENFERMEDAD 4433 4466	Vena cava inferior (VCI) dilatada
+T129	ENFERMEDAD 5125 5149	engrosamiento miocárdico
+T84	ENFERMEDAD 1421 1438	necrosis cardiaca
+T62	ENFERMEDAD 3174 3219	alteraciones secundarias de la reporalización

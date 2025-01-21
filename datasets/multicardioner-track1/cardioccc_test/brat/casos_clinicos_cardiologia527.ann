@@ -1,0 +1,36 @@
+T21	ENFERMEDAD 1376 1420	tumoración laterocervical derecha voluminosa
+T32	ENFERMEDAD 2494 2525	HVI ligera-moderada concéntrica
+T34	ENFERMEDAD 2544 2575	Aurículas ligeramente dilatadas
+T36	ENFERMEDAD 3713 3733	Cardiomegalia global
+T93	ENFERMEDAD 152 175	alergias medicamentosas
+T94	ENFERMEDAD 218 221	HTA
+T95	ENFERMEDAD 223 233	dislipemia
+T96	ENFERMEDAD 235 259	diabetes mellitus tipo 2
+T97	ENFERMEDAD 262 294	fibrilación auricular permanente
+T100	ENFERMEDAD 731 742	traumatismo
+T101	ENFERMEDAD 1360 1363	TVP
+T102	ENFERMEDAD 1730 1783	fibrilación auricular con respuesta ventricular media
+T103	ENFERMEDAD 1811 1814	HVI
+T104	ENFERMEDAD 1952 1971	broncopatía crónica
+T105	ENFERMEDAD 1976 2001	hiperinsuflación pulmonar
+T106	ENFERMEDAD 2577 2622	Leve calcificación de anillo posterior mitral
+T107	ENFERMEDAD 2759 2778	derrame pericárdico
+T108	ENFERMEDAD 2832 2853	fibrilación auricular
+T109	ENFERMEDAD 2986 3012	adenopatía supraclavicular
+T110	ENFERMEDAD 3526 3558	adenopatías axilares bilaterales
+T111	ENFERMEDAD 3735 3757	Ateromatosis coronaria
+T112	ENFERMEDAD 3808 3832	bronconeumopatía crónica
+T113	ENFERMEDAD 3927 4013	adenopatías retroperitoneales ni mesentéricas, ni en las cadenas ilíacas ni inguinales
+T114	ENFERMEDAD 4053 4086	conglomerado adenopático cervical
+T115	ENFERMEDAD 4088 4136	linfoma-B de alto grado, difuso de célula grande
+T116	ENFERMEDAD 4631 4638	LNHBDCG
+T118	ENFERMEDAD 5094 5115	fibrilación auricular
+T122	ENFERMEDAD 5922 6021	síncope neurocardiogénico periférico secundario a compresión carotídea por voluminosa masa cervical
+T123	ENFERMEDAD 6355 6357	FA
+T124	ENFERMEDAD 6565 6598	conglomerado adenopático cervical
+T125	ENFERMEDAD 6618 6665	Linfoma B de alto grado difuso de célula grande
+T126	ENFERMEDAD 6877 6887	cardiópata
+T128	ENFERMEDAD 7256 7371	Síncope reflejo vasovagal cardioinhibitorio secundario a compresión del seno carotídeo por voluminosa masa cervical
+T129	ENFERMEDAD 7373 7459	Linfoma no Hodgkin de célula grande B, estadio II-B, triple-Hit (BCL-2, BCL-6 y C-MYC)
+T23	ENFERMEDAD 2627 2636	IM ligera
+T24	ENFERMEDAD 2638 2687	VAo: parece trivalva con esclerosis de sigmoideas

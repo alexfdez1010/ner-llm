@@ -1,0 +1,50 @@
+Presentamos el caso de un paciente varón de 59 años que ingresó en nuestro hospital remitido desde consultas externas de cardiología tras revisar las imágenes de una resonancia magnética cardiaca (RMC) que se realizó de manera ambulatoria y que fue solicitada por un electrocardiograma (ECG) patológico.
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+No reacciones alérgicas conocidas a fármacos.
+Hábitos tóxicos: fumador de 1 paquete diario (exposición acumulada de 40 paquetes/año).
+Factores de riesgo cardiovascular (FRCV): hipercolesterolemia.
+Sin antecedentes familiares de cardiopatía isquémica precoz.
+Antecedentes quirúrgicos: funduplicatura de Nissen laparoscópica en 2011.
+Tratamiento habitual: omeprazol 20 mg/día, atorvastatina 20 mg/día.
+
+Enfermedad actual
+Paciente varón de 59 años de edad que acudió a consultas externas de cardiología remitido desde atención primaria para valoración ante hallazgo casual de trazado electrocardiográfico patológico en un examen de salud de su empresa.
+El paciente aportó a la consulta un ECG que mostraba ondas Q en cara inferior y un estudio ecocardiográfico realizado en una clínica privada que describía alteraciones de la contractilidad en cara inferior a nivel medio-basal con una fracción de eyección del ventrículo izquierdo moderadamente deprimida. Ante estos hallazgos, se solicitó una resonancia magnética (RMC) donde se objetivó necrosis crónica de 4 segmentos del territorio perteneciente a la arteria coronaria derecha y un pseudoaneurisma en la cara inferior segmento medio, por lo que se decidió el ingreso hospitalario para completar el estudio y presentar el caso en la sesión médicoquirúrgica.
+En la anamnesis dirigida, el paciente negaba haber presentado algún episodio de dolor torácico previamente. Tampoco refería clínica cardinal de insuficiencia cardiaca ni sugestiva de embolismos sistémicos. Clase funcional I NYHA.
+
+Exploración física
+Buen estado general, normohidratado, normocoloreado. Eupneico en reposo sin uso de musculatura accesoria. Consciente, orientado y colaborador, sin focalidad neurológica aparente.
+Constantes: tensión arterial (TA) 136/67 mmHg, frecuencia cardiaca (FC) 72 lpm, saturación de oxígeno (SatO2) 99% (aire ambiente).
+Auscultación cardiaca: ruidos regulares, sin soplos audibles.
+Auscultación pulmonar: murmullo vesicular conservado, sin estertores.
+Sin edematización en miembros inferiores. Pulsos radiales y femorales presentes.
+
+PRUEBAS COMPLEMENTARIAS
+De forma ambulatoria, se le realizaron las siguientes pruebas complementarias:
+ECG: ritmo sinusal a 80 lpm, PR 160 ms, QRS estrecho con eje a +30°, onda Q en II, III y aVF, onda T aplanada V4-V6.
+RMC: volúmenes de ventrículo izquierdo normales con función sistólica moderadamente deprimida (FEVI 37%). Hipocinesia de segmentos basales inferoseptal, inferior e inferolateral. Discinesia y adelgazamiento grave (< 2 mm) localizado en segmento medio inferior, con rotura de la pared e imagen de pseudoaneurisma contenido por el pericardio (cuello 7 mm; ancho 28 mm; profundo 18 mm). Se observa trombosis parcial tapizando su pared interior. Ausencia de edema miocárdico. Volúmenes de ventrículo derecho normales, con función sistólica normal (FEVD 63%). Aurículas de tamaño normal. Grandes vasos de tamaño normal.
+Hipoperfusión de primer paso en reposo en los segmentos disfuncionantes. Se administra gadolinio endovenoso (gadoterato de meglumina 0,15 mmol/kg). Realce tardío de gadolinio sugestivo de necrosis transmural en segmento medio de cara inferior y subendocárdica en segmentos basales inferoseptal, inferior e inferolateral. En resumen: necrosis crónica de 4 segmentos de la ACD, pseudoaneurisma en cara inferior segmento medio y función sistólica ventricular izquierda moderadamente deprimida.
+
+Tras el ingreso, se completó el estudio con las siguientes exploraciones:
+Radiografía de tórax: silueta mediastínica de tamaño normal. No se observan áreas de consolidación alveolar ni derrame pleural.
+Analítica: glucosa 81 mg/dl, creatinina 0,85 mg/dl, urea 39 mg/dl, sodio 138 mmol/l, potasio 4 mmol/l, colesterol total 188 mg/dl, colesterol LDL 113 mg/dl, colesterol HDL 56 mg/dl, triglicéridos 99 mg/dl, leucocitos 6,05 x 109/l, hemoglobina 14,6 g/dl, plaquetas 226 x 109/l, hemoglobina glicada 5,4%, troponina T ultrasensible 26 pg/ml (normal < 14 pg/ml), NT-proBNP 1.780 pg/ml.
+Ecocardiografía transtorácica: ventrículo izquierdo no dilatado, con ligera hipertrofia septal y acinesia de pared inferior e inferoseptal basal y medio (pared adelgazada y ecorrefringente sugestiva de necrosis crónica), con presencia de un defecto en la pared inferior segmento medio (rotura de pared) e imagen de pseudoaneurisma sacular, de cuello estrecho (ostium 7-8 mm), visible en eje corto paraesternal y fundamentalmente en planos apicales de 2C y 3C. Función sistólica global de VI moderadamente deprimida (FEVI Simpson biplano del 40%).
+Aurícula izquierda gravemente dilatada. Válvula mitral con buena apertura y mínima regurgitación valvular. Válvula aórtica con gradientes transvalvulares normales, sin regurgitación valvular. Ventrículo derecho no dilatado, con buena contractilidad. Ausencia de derrame pericárdico.
+
+Cateterismo coronario diagnóstico (vídeos 1 y 2): tronco coronario izquierdo (TCI) sin lesiones.
+Arteria descendente anterior (ADA) larga, de buen calibre, con lesión grave (80%) en segmento proximal, muy calcificada y lesión significativa (60%) en segmento medio (con revascularización percutánea factible). Arteria circunfleja (ACx) no dominante, presenta irregularidades parietales no significativas. Arteria coronaria derecha (ACD) dominante, con oclusión total crónica ostial larga, con imagen de pila de monedas en cap proximal, y vaso distal de buen calibre y desarrollo visible por circulación heterocoronaria (Rentrop 3) epicárdica y septal con mal perfil para revascularización percutánea. Conclusiones: enfermedad coronaria de dos vasos con lesión grave en ADA proximal y significativa media y oclusión total crónica de ACD ostial.
+Ecocardiografía transtorácica (control posoperatorio): ventrículo izquierdo con acinesia de pared inferior e inferoseptal basal y medio, con pared adelgazada y ecorrefringente, sin que se observe cavidad pseudoaneurismática en cara inferior. Función sistólica global de ventrículo izquierdo moderadamente reducida. Resto del estudio sin cambios respecto a previo. Ausencia de derrame pericárdico.
+
+EVOLUCIÓN CLÍNICA
+Durante el ingreso se completó el estudio preoperatorio con las pruebas complementarias anteriormente descritas. En la ecocardiografía transtorácica se confirmaron los hallazgos descritos en la RMC, mientras que en el cateterismo coronario se objetivó una enfermedad coronaria de dos vasos consistente en una lesión grave en ADA proximal y significativa a nivel medio, y una oclusión crónica ostial de la ACD.
+Durante la intervención quirúrgica, se visualizó un pseudoaneurisma ventricular izquierdo en cara inferior de aproximadamente 3 cm de diámetro con paredes engrosadas y calcificadas, con contenido trombótico en su interior y un ostium que comunicaba con ventrículo izquierdo de aproximadamente 1 cm2. También se visualizó una arteria descendente posterior de escaso calibre y localizada en territorio cicatricial del pseudoaneurisma por lo que se descartó como vaso tributario para derivación aortocoronaria.
+Finalmente se llevó a cabo una resección de la zona aneurismática y reconstrucción de la pared inferior con parche de pericardio autólogo. Posteriormente se realizó una doble derivación aortocoronaria a ADA media con arteria mamaria izquierda y a primera diagonal con safena, ambas de tipo término-lateral.
+La estancia del paciente en la unidad de reanimación se desarrolló sin incidencias con extubación precoz y alta a la sala de hospitalización a las 48 horas de la intervención. Se realizó una ecocardiografía transtorácica de control en la que no se visualizaba la cavidad pseudoaneurismática y que descartó complicaciones postquirúrgicas precoces. La evolución posoperatoria fue satisfactoria con estabilidad clínica y hemodinámica, siendo dado de alta hospitalaria para seguimiento ambulatorio en consultas externas de cardiología y cirugía cardiaca.
+
+DIAGNÓSTICO
+Infarto de miocardio silente complicado con pseudoaneurisma ventricular izquierdo inferior. Enfermedad arterial coronaria de 2 vasos (ADA proximal y media y ACD ostial).
+Disfunción ventricular izquierda moderada. Cirugía de resección del aneurisma y revascularización coronaria de DA.
+Hipercolesterolemia. Tabaquismo.

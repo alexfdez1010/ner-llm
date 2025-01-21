@@ -1,0 +1,50 @@
+T51	ENFERMEDAD 4290 4376	ventrículo izquierdo (VI) ligeramente dilatado con marcada trabeculación del miocardio
+T57	ENFERMEDAD 5581 5597	dilatación de VI
+T81	ENFERMEDAD 9804 9846	Dilatación ligera del ventrículo izquierdo
+T121	ENFERMEDAD 168 179	cardiopatía
+T123	ENFERMEDAD 221 244	alergias medicamentosas
+T124	ENFERMEDAD 259 266	fumador
+T125	ENFERMEDAD 271 278	bebedor
+T126	ENFERMEDAD 363 383	enfermedades médicas
+T128	ENFERMEDAD 1223 1234	adenopatías
+T129	ENFERMEDAD 1474 1494	insuficiencia venosa
+T130	ENFERMEDAD 1498 1523	trombosis venosa profunda
+T131	ENFERMEDAD 1594 1613	bradicardia sinusal
+T132	ENFERMEDAD 2389 2412	hipertrofia ventricular
+T134	ENFERMEDAD 2694 2738	trastornos segmentarios de la contractilidad
+T135	ENFERMEDAD 3141 3154	valvulopatías
+T136	ENFERMEDAD 3554 3562	isquemia
+T138	ENFERMEDAD 4073 4081	isquemia
+T140	ENFERMEDAD 5452 5460	fibrosis
+T141	ENFERMEDAD 5474 5538	miocardiopatía no compactada con afectación de ambos ventrículos
+T142	ENFERMEDAD 5611 5619	fibrosis
+T145	ENFERMEDAD 6603 6667	miocardiopatía no compactada con vía accesoria lateral izquierda
+T146	ENFERMEDAD 6824 6881	miocardiopatía no compactada con afectación biventricular
+T147	ENFERMEDAD 7406 7414	fibrosis
+T148	ENFERMEDAD 7474 7483	arritmias
+T152	ENFERMEDAD 8672 8684	taquicardias
+T154	ENFERMEDAD 9076 9085	arritmias
+T156	ENFERMEDAD 9529 9557	miocardiopatía no compactada
+T157	ENFERMEDAD 9714 9771	Miocardiopatía no compactada con afectación biventricular
+T158	ENFERMEDAD 9848 9916	Vía accesoria anterolateral izquierda con preexcitación intermitente
+T122	ENFERMEDAD 3216 3239	trombos intracavitarios
+T137	ENFERMEDAD 3946 3964	eventos arrítmicos
+T143	ENFERMEDAD 6538 6551	valvulopatías
+T144	ENFERMEDAD 6898 6957	ventrículo izquierdo, que se encuentra ligeramente dilatado
+T159	ENFERMEDAD 7556 7574	eventos arrítmicos
+T149	ENFERMEDAD 9221 9234	preexcitación
+T150	ENFERMEDAD 8959 8972	preexcitación
+T83	ENFERMEDAD 7819 7845	preexcitación intermitente
+T151	ENFERMEDAD 7855 7873	eventos arrítmicos
+T153	ENFERMEDAD 7706 7719	preexcitación
+T155	ENFERMEDAD 7599 7612	preexcitación
+T160	ENFERMEDAD 4083 4096	Preexcitación
+T161	ENFERMEDAD 4202 4228	preexcitación intermitente
+T162	ENFERMEDAD 3832 3845	preexcitación
+T163	ENFERMEDAD 3597 3610	preexcitación
+T164	ENFERMEDAD 1649 1662	preexcitación
+T174	ENFERMEDAD 199 201	MS
+T185	ENFERMEDAD 286 310	consumo de otros tóxicos
+T195	ENFERMEDAD 184 197	muerte súbita
+T196	ENFERMEDAD 5439 5447	necrosis
+T68	ENFERMEDAD 6270 6330	ventrículo izquierdo no dilatado pero con hipertrabeculación

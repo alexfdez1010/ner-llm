@@ -1,0 +1,20 @@
+T12	ENFERMEDAD 135 141	anemia
+T13	ENFERMEDAD 1959 1963	GIST
+T15	ENFERMEDAD 1987 2014	insuficiencia renal crónica
+T17	ENFERMEDAD 2028 2042	amiloidosis AA
+T20	ENFERMEDAD 277 295	neoplasia gástrica
+T21	ENFERMEDAD 298 316	gastropatía antral
+T25	ENFERMEDAD 446 450	GIST
+T26	ENFERMEDAD 1078 1089	amiloidosis
+T28	ENFERMEDAD 1724 1743	GIST de alto riesgo
+T30	ENFERMEDAD 525 549	depósitos de amiloide AA
+T31	ENFERMEDAD 1170 1188	síndrome nefrótico
+T34	ENFERMEDAD 1215 1235	amiloidosis cardíaca
+T43	ENFERMEDAD 1987 2042	insuficiencia renal crónica secundaria a amiloidosis AA
+T45	ENFERMEDAD 390 414	proliferación neoplásica
+T46	ENFERMEDAD 593 598	tumor
+T1	ENFERMEDAD 1618 1673	afectación del estómago y el ángulo esplénico del colon
+T47	ENFERMEDAD 1483 1495	masa tumoral
+#3	AnnotatorNotes T13	   GIST: Gastrointestinal Stromal Tumors (Tumores del estromal gastrointestinal)
+#1	AnnotatorNotes T25	   GIST: Gastrointestinal Stromal Tumors (Tumores del estromal gastrointestinal)
+#2	AnnotatorNotes T28	   GIST: Gastrointestinal Stromal Tumors (Tumores del estromal gastrointestinal)

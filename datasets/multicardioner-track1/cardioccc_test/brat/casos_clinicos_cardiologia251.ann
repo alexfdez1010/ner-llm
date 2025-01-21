@@ -1,0 +1,41 @@
+T31	ENFERMEDAD 71 81	hipertenso
+T32	ENFERMEDAD 84 104	hipercolesterolémico
+T33	ENFERMEDAD 1237 1275	acidosis metabólica hiperlactacidémica
+T34	ENFERMEDAD 1758 1781	endocarditis infecciosa
+T35	ENFERMEDAD 1783 1785	EI
+T36	ENFERMEDAD 1874 1893	hemiparesia derecha
+T37	ENFERMEDAD 2019 2126	hemorragia cerebral intraparenquimatosa de 2 x 2 cm de calibre, a nivel del córtex prerirolándico izquierdo
+T38	ENFERMEDAD 2366 2389	endocarditis infecciosa
+T39	ENFERMEDAD 2457 2477	aneurismas micóticos
+T40	ENFERMEDAD 2561 2573	endocarditis
+T41	ENFERMEDAD 2947 2966	absceso periaórtico
+T42	ENFERMEDAD 3096 3213	endocarditis infecciosa (1 criterio mayor y 3 menores) por S. aureus sobre válvula aórtica protésica y tubo valvulado
+T43	ENFERMEDAD 3324 3342	vegetación aórtica
+T44	ENFERMEDAD 3563 3584	sangrado intracraneal
+T45	ENFERMEDAD 3923 3943	hipotensión arterial
+T46	ENFERMEDAD 3949 3966	episodio sincopal
+T47	ENFERMEDAD 4025 4042	anemización aguda
+T48	ENFERMEDAD 4235 4248	hemoperitoneo
+T49	ENFERMEDAD 4260 4278	hematoma esplénico
+T50	ENFERMEDAD 4368 4381	abdomen agudo
+T51	ENFERMEDAD 4457 4470	hemoperitoneo
+T52	ENFERMEDAD 4476 4498	rotura esplénica aguda
+T53	ENFERMEDAD 4655 4671	rotura esplénica
+T54	ENFERMEDAD 4825 4836	rectorragia
+T55	ENFERMEDAD 4852 4863	anemización
+T56	ENFERMEDAD 5013 5034	gastropatía de estrés
+T57	ENFERMEDAD 5425 5448	endocarditis infecciosa
+T58	ENFERMEDAD 5694 5720	hipotensión arterial grave
+T59	ENFERMEDAD 5813 5834	taponamiento cardiaco
+T60	ENFERMEDAD 6067 6141	hematoma pericárdico de 6 x 7 x 9 cm, comprometiendo a la aurícula derecha
+T61	ENFERMEDAD 6404 6441	endocarditis infecciosa por S. aureus
+T62	ENFERMEDAD 6522 6576	Endocarditis infecciosa protésica tardía por S. aureus
+T63	ENFERMEDAD 6661 6729	Hemorragia cerebral intraparenquimatosa secundaria a embolia séptica
+T64	ENFERMEDAD 6731 6770	Abdomen agudo debido a rotura esplénica
+T65	ENFERMEDAD 6775 6790	embolia séptica
+T66	ENFERMEDAD 6792 6859	Hemorragia digestiva alta secundaria a úlceras duodenales de estrés
+T67	ENFERMEDAD 6884 6919	Taponamiento cardiaco posquirúrgico
+T68	ENFERMEDAD 828 848	hipotensión arterial
+T69	ENFERMEDAD 935 960	mala perfusión periférica
+T118	ENFERMEDAD 5049 5067	úlceras duodenales
+T120	ENFERMEDAD 4694 4709	embolia séptica

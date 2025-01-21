@@ -1,0 +1,31 @@
+T4	ENFERMEDAD 1260 1278	peritonitis difusa
+T6	ENFERMEDAD 627 671	epitelioma basocelular terebrante supranasal
+T8	ENFERMEDAD 2146 2182	desnutrición calórico-proteica grave
+T11	ENFERMEDAD 2188 2203	hipoalbuminemia
+T13	ENFERMEDAD 845 888	hernia inguinoescrotal derecha irreductible
+T14	ENFERMEDAD 689 703	ulcus gástrico
+T16	ENFERMEDAD 2206 2229	hipoproteinemia severas
+T22	ENFERMEDAD 4462 4478	sepsis abdominal
+T29	ENFERMEDAD 985 1048	obstrucción intestinal secundaria a hernia inguinal incarcerada
+T30	ENFERMEDAD 1751 1767	sepsis abdominal
+T33	ENFERMEDAD 1801 1820	fracaso renal agudo
+T40	ENFERMEDAD 1125 1166	segmento intestinal isquémico y perforado
+T41	ENFERMEDAD 1889 1900	anemización
+T42	ENFERMEDAD 2539 2563	estrés metabólico severo
+T44	ENFERMEDAD 512 521	invidente
+T48	ENFERMEDAD 2822 2845	depresión en el anciano
+T49	ENFERMEDAD 2880 2899	fracaso renal agudo
+T53	ENFERMEDAD 3651 3666	hiperfosfatemia
+T54	ENFERMEDAD 3689 3703	hiperpotasemia
+T55	ENFERMEDAD 3727 3742	hipermagnesemia
+T56	ENFERMEDAD 3784 3803	fracaso renal agudo
+T57	ENFERMEDAD 3976 3987	fallo renal
+T63	ENFERMEDAD 1655 1664	infección
+T65	ENFERMEDAD 1340 1345	shock
+T1	ENFERMEDAD 801 825	hipoperfusión periférica
+T2	ENFERMEDAD 2933 2935	SR
+T3	ENFERMEDAD 3164 3166	SR
+T5	ENFERMEDAD 2663 2665	SR
+#1	AnnotatorNotes T2	   SR: síndrome de realimentación
+#2	AnnotatorNotes T3	   SR: síndrome de realimentación
+#3	AnnotatorNotes T5	   SR: síndrome de realimentación

@@ -1,0 +1,73 @@
+T32	ENFERMEDAD 5875 5940	ventrículo izquierdo (VI) no dilatado con hipertrofia concéntrica
+T35	ENFERMEDAD 6283 6358	Válvula aórtica tricomisural fibrosada no estenótica con leve regurgitación
+T151	ENFERMEDAD 74 97	alergias medicamentosas
+T152	ENFERMEDAD 109 135	Intolerancia al amlodipino
+T153	ENFERMEDAD 154 169	hábitos tóxicos
+T154	ENFERMEDAD 206 227	hipertensión arterial
+T155	ENFERMEDAD 229 232	HTA
+T156	ENFERMEDAD 235 245	Dislipemia
+T157	ENFERMEDAD 250 258	diabetes
+T158	ENFERMEDAD 274 294	Insuficiencia mitral
+T159	ENFERMEDAD 334 356	insuficiencia cardiaca
+T160	ENFERMEDAD 443 476	Fibrilación auricular paroxística
+T161	ENFERMEDAD 478 515	Hipertensión pulmonar ligera-moderada
+T162	ENFERMEDAD 517 582	Estenosis ligera-moderada de coronaria descendente anterior media
+T163	ENFERMEDAD 584 632	Enfermedad pulmonar obstructiva crónica moderada
+T164	ENFERMEDAD 646 661	bronquiectasias
+T165	ENFERMEDAD 679 695	Síndrome ansioso
+T166	ENFERMEDAD 879 898	deterioro cognitivo
+T167	ENFERMEDAD 982 1001	esclerosis múltiple
+T168	ENFERMEDAD 1060 1074	retraso mental
+T170	ENFERMEDAD 1802 1847	crisis comiciales parciales en brazo y pierna
+T171	ENFERMEDAD 2094 2114	ictus cardioembólico
+T172	ENFERMEDAD 2363 2400	trombo adheridas a la prótesis mitral
+T173	ENFERMEDAD 2416 2428	endocarditis
+T174	ENFERMEDAD 2502 2519	cuadro infeccioso
+T175	ENFERMEDAD 2542 2554	endocarditis
+T176	ENFERMEDAD 3044 3057	hepatomegalia
+T177	ENFERMEDAD 3497 3543	Bloqueo auriculoventricular (BAV) primer grado
+T178	ENFERMEDAD 3526 3529	BAV
+T179	ENFERMEDAD 4115 4147	afectación pulmonar por COVID 19
+T180	ENFERMEDAD 4216 4249	granulomas hepáticos calcificados
+T181	ENFERMEDAD 4285 4318	tendinitis calcificante en hombro
+T182	ENFERMEDAD 4374 4382	COVID 19
+T183	ENFERMEDAD 4421 4449	patología aguda intracraneal
+T184	ENFERMEDAD 4904 4939	lesiones isquémicas aguda/subagudas
+T185	ENFERMEDAD 4969 4980	cardiopatía
+T186	ENFERMEDAD 5014 5024	hemorragia
+T187	ENFERMEDAD 5541 5612	lesiones isquémicas múltiples supra e infratentoriales, aguda/subagudas
+T188	ENFERMEDAD 6499 6518	derrame pericárdico
+T189	ENFERMEDAD 6560 6593	hipertrofia ventricular izquierda
+T190	ENFERMEDAD 6629 6657	insuficiencia aórtica ligera
+T191	ENFERMEDAD 6858 6865	trombos
+T192	ENFERMEDAD 7149 7155	trombo
+T193	ENFERMEDAD 7683 7689	trombo
+T194	ENFERMEDAD 8253 8309	leak periprotésico a nivel anterior de la sutura aórtica
+T195	ENFERMEDAD 8888 8956	insuficiencia mitral (IM) moderada excéntrica por leak periprotésico
+T196	ENFERMEDAD 8980 9005	trombo en prótesis mitral
+T198	ENFERMEDAD 11070 11099	Insuficiencia tricúspide leve
+T199	ENFERMEDAD 11135 11159	Derrame pericárdico leve
+T200	ENFERMEDAD 11282 11294	endocarditis
+T201	ENFERMEDAD 11322 11344	insuficiencia cardiaca
+T202	ENFERMEDAD 11433 11447	crisis focales
+T203	ENFERMEDAD 11573 11627	lesiones isquémicas múltiples supra e infratentoriales
+T204	ENFERMEDAD 11691 11703	endocarditis
+T205	ENFERMEDAD 12235 12244	infección
+T206	ENFERMEDAD 12422 12434	endocarditis
+T207	ENFERMEDAD 12448 12466	trombosis valvular
+T208	ENFERMEDAD 12686 12696	FA con RVR
+T209	ENFERMEDAD 12974 12994	Ictus cardioembólico
+T210	ENFERMEDAD 12999 13053	lesiones isquémicas múltiples supra e infratentoriales
+T211	ENFERMEDAD 13055 13077	Crisis focales motoras
+T212	ENFERMEDAD 13145 13173	Trombosis valvular protésica
+T5	ENFERMEDAD 3130 3146	nódulos de Osler
+T7	ENFERMEDAD 3107 3126	lesiones de Janeway
+T19	ENFERMEDAD 3741 3771	Ateromas calcificados en aorta
+T23	ENFERMEDAD 4250 4282	Cambios degenerativos en columna
+T26	ENFERMEDAD 6032 6062	Dilatación auricular izquierda
+T36	ENFERMEDAD 7466 7524	placa de ateroma calcificada en aorta torácica descendente
+T41	ENFERMEDAD 8910 8912	IM
+T133	ENFERMEDAD 13175 13220	Leak periprotésico con insuficiencia moderada
+T139	ENFERMEDAD 12094 12120	leak perivalvular moderado
+T105	ENFERMEDAD 4452 4518	Resonancia magnética (RMN) cerebral: se visualizan varias lesiones
+T40	ENFERMEDAD 10026 10069	se daña pulmón derecho durante la disección

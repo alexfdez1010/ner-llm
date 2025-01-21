@@ -1,0 +1,31 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 58 años, sin alergias medicamentosas conocidas.
+
+Antecedentes
+Factores de riesgo cardiovascular: fumadora activa (8-10 cigarrillos diarios). Síndrome depresivo.
+Menopausia a los 50-51 años.
+Sin antecedentes cardiológicos conocidos, tampoco en familiares. Tratamiento habitual: citalopram 10 mg.
+
+Enfermedad actual
+Consulta en urgencias por malestar torácico de aparición en reposo, con cuadro presincopal asociado y duración aproximada de 50 minutos. A su valoración se encuentra asintomática, con electrocardiograma (ECG) inicial sin alteraciones y determinación de troponina positiva, por lo que se enfoca el cuadro como síndrome coronario agudo sin elevación del segmento ST (SCASEST) Killip I y se decide ingreso en la unidad de cuidados intermedios.
+
+Exploración física
+Tensión arterial (TA) 110/60 mmHg. Frecuencia cardiaca (FC) 60 lpm. Saturación de oxígeno (basal) 96%. Afebril. Auscultación cardiaca: rítmica sin soplos audibles. Auscultación pulmonar: normal. Abdomen: anodino. Miembros inferiores: sin edemas, ni signos de trombosis venosa profunda (TVP).
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal a 72 lpm, PR normal, QRS estrecho, sin alteraciones agudas de la repolarización.
+Analítica: NT-proBNP 22 pg/ml, troponina I US 1.871 -> pico 5.212 pg/ml (valora normal <14 pg/ml). Función renal e iones normales. Hemoglobina 14,4 g/dl, plaquetas 201.000/μl, leucocitos 5.600/μl. Glucosa 87 mg/dl, creatinina 0,74 mg/dl, Na 139 mEq/l, K 4,9 mEq/l, TSH normal, colesterol total 259 mg/dl, HDL 58 mg/dl, LDL 183 mg/dl.
+Radiografía de tórax: silueta cardiaca, parénquima y vascularización pulmonar sin hallazgos de interés patológico.
+Cateterismo cardiaco: coronarias epicárdicas sin lesiones angiográficas en vasos principales. Únicamente en una tercera rama obtusa marginal se visualiza cambio brusco de calibre de 1,5 mm a menos de 1 mm que posteriormente recupera el tamaño del vaso, lo que podría corresponder a zona de hematoma/disección espontánea. Ventriculografía: ventrículo izquierdo (VI) con función sistólica conservada, aquinesia muy localizada de zona inferolateral medio-basal.
+Ecocardiograma: VI no dilatado, paredes de grosor normal, función sistólica conservada (FEVI 59 %), sin alteraciones segmentarias. Aurículas no dilatadas. Ventrículo derecho (VD) no dilatado con contractilidad normal (TAPSE 20 mm, onda S 11,5 cm/s). Ligera esclerosis mitral, correcta apertura y competente. Válvula aórtica trivalva con punto de calcio en velo no coronariano y ligera esclerosis, no restringida en apertura y con insuficiencia ligera central. Insuficiencia tricúspide ligera, gradiente VD-AD 15 mmHg. Insuficiencia pulmonar ligera, gradiente protodiastólico de 6 mmHg. Tiempo de aceleración pulmonar 130 ms. Vena cava inferior (VCI) no dilatada (13 mm) con normocolapso. PAPs normal. Ausencia de derrame pericárdico.
+Tomografía axial computarizada (TAC) body: origen de los troncos supraórticos de morfología normal. Ejes arteriales axilosubclavios y ejes carotideos permeables y de calibre normal. Segmento cervical de arteria carótida interna con ligera irregularidad, no concluyente de displasia. Dominancia vertebral izquierda. Tronco coronario izquierdo y arteria circunfleja de calibre normal. Aorta permeable y de calibre conservado. Arteria renal accesoria bilateral con origen craneal al de la arteria renal principal ipsilateral. Arterias renales principales de aspecto arrosariado-displásico. Ejes arteriales ilíacos permeables y ectásicos. Arterias ilíacas externas de aspecto arrosariado-displásico. Ninguna de las estenosis focales que condicionan el aspecto displásico de las arterias renales principales y de las arterias ilíacas externas es significativa. Hallazgos extravasculares: suprarrenal izquierda con engrosamiento nodular de aspecto adenomatoso. Riñón derecho con pequeño nódulo graso en su tercio inferior compatible con pequeño angiomiolipoma y riñón izquierdo con pequeño quiste cortical en su tercio superior. Mioma uterino calcificado. Diverticulosis sigmoidea. Conclusión: arterias renales principales y arterias ilíacas externas de aspecto arrosariado, hallazgo que sugiere displasia fibromuscular.
+
+EVOLUCIÓN CLÍNICA
+Se realiza en las primeras 24 horas coronariografía con hallazgo de coronarias epicárdicas sin lesiones angiográficas en sus vasos principales, pero se aprecia una disminución brusca de calibre en la tercera rama marginal obtusa, compatible con disección coronaria espontánea a ese nivel.
+La evolución posterior es favorable, sin complicaciones en zona de acceso vascular, ni recurrencia clínica. Se solicita ecocardiograma transtorácico con función sistólica global conservada, sin asimetrías segmentarias al alta, ni valvulopatías reseñables.
+Ante el diagnóstico de disección coronaria espontánea, se completa el estudio mediante TAC body para despistaje de displasia fibromuscular, finalmente confirmada, con afectación de arterias renales principales e ilíacas externas. En situación de estabilidad clínica, la paciente es dada de alta indicando cese de hábito tabáquico y toma indefinida de antiagregación simple y estatinas de alta potencia.
+
+DIAGNÓSTICO
+Infarto agudo de miocardio sin onda Q por disección coronaria espontánea de tercera rama obtusa marginal. Función sistólica de VI normal.
+Displasia fibromuscular con afectación de arterias renales e ilíacas.
+Tabaquismo. Dislipemia.

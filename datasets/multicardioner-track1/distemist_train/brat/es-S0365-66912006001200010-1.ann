@@ -1,0 +1,19 @@
+T1	ENFERMEDAD 760 770	exoftalmos
+T3	ENFERMEDAD 969 978	proptosis
+T4	ENFERMEDAD 45 65	neoplasia de laringe
+T7	ENFERMEDAD 67 91	diabetes mellitus tipo 2
+T9	ENFERMEDAD 93 103	ex-fumador
+T11	ENFERMEDAD 106 116	ex-bebedor
+T13	ENFERMEDAD 135 155	crisis hipertiroidea
+T15	ENFERMEDAD 1091 1110	oftalmoplejía en AO
+T16	ENFERMEDAD 1113 1131	exposición corneal
+T17	ENFERMEDAD 186 196	exoftalmos
+T26	ENFERMEDAD 332 358	retinopatía diabética leve
+T28	ENFERMEDAD 1293 1319	severa crisis hipotiroidea
+T34	ENFERMEDAD 1435 1445	exoftalmos
+T37	ENFERMEDAD 1627 1635	glaucoma
+T42	ENFERMEDAD 1955 1979	neuropatía óptica severa
+T43	ENFERMEDAD 1998 2033	retinopatía diabética leve-moderada
+T23	ENFERMEDAD 1793 1802	proptosis
+T2	ENFERMEDAD 454 482	retracción de ambos párpados
+#1	AnnotatorNotes T15	   AO: ambos ojos

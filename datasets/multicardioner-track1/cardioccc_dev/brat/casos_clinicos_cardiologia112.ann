@@ -1,0 +1,38 @@
+T37	ENFERMEDAD 3399 3437	VD no dilatado con disfunción moderada
+T38	ENFERMEDAD 168 182	Alérgico a AAS
+T39	ENFERMEDAD 210 220	angioedema
+T40	ENFERMEDAD 297 315	Miocarditis vírica
+T41	ENFERMEDAD 1269 1293	hepato ni esplenomegalia
+T42	ENFERMEDAD 1340 1343	TVP
+T43	ENFERMEDAD 1524 1540	AI aneurismática
+T44	ENFERMEDAD 2070 2097	Disfunción sistólica severa
+T46	ENFERMEDAD 2427 2460	VD con disfunción moderada-severa
+T47	ENFERMEDAD 2650 2669	derrame pericárdico
+T48	ENFERMEDAD 3323 3343	Insuficiencia mitral
+T49	ENFERMEDAD 3378 3397	derrame pericárdico
+T50	ENFERMEDAD 3572 3600	miocardiopatía no compactada
+T52	ENFERMEDAD 4174 4201	Insuficiencia mitral severa
+T53	ENFERMEDAD 4204 4258	Fibrilación auricular con respuesta ventricular rápida
+T54	ENFERMEDAD 1103 1112	Arrítmica
+T55	ENFERMEDAD 1502 1515	Cardiomegalia
+T56	ENFERMEDAD 223 230	Fumador
+T57	ENFERMEDAD 2519 2526	IT leve
+T58	ENFERMEDAD 4087 4171	Miocardiopatía no compactada con disfunción sistólica severa de ventrículo izquierdo
+T59	ENFERMEDAD 280 295	hábitos tóxicos
+T60	ENFERMEDAD 3041 3069	miocardiopatía no compactada
+T61	ENFERMEDAD 198 207	urticaria
+T62	ENFERMEDAD 437 448	ACFA rápida
+T63	ENFERMEDAD 451 453	IC
+T64	ENFERMEDAD 1740 1804	VI severamente dilatado, con aumento de los espesores parietales
+T65	ENFERMEDAD 2146 2162	AI aneurismática
+T67	ENFERMEDAD 2695 2718	VI severamente dilatado
+T68	ENFERMEDAD 3282 3321	Severa dilatación de aurícula izquierda
+T115	ENFERMEDAD 3122 3129	trombos
+T26	ENFERMEDAD 260 269	marihuana
+T29	ENFERMEDAD 1415 1434	ACFA de onda gruesa
+T30	ENFERMEDAD 2211 2220	IM severa
+T31	ENFERMEDAD 2385 2425	Cavidades derechas ligeramente dilatadas
+T33	ENFERMEDAD 2309 2340	pseudoprolapso de velo anterior
+T35	ENFERMEDAD 2723 2750	disfunción sistólica global
+T66	ENFERMEDAD 3605 3628	disfunción severa de VI
+#1	AnnotatorNotes T63	 insuficiencia cardiaca

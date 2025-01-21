@@ -1,0 +1,38 @@
+T46	ENFERMEDAD 298 300	DM
+T47	ENFERMEDAD 302 305	HTA
+T48	ENFERMEDAD 307 317	dislipemia
+T49	ENFERMEDAD 320 340	hipertrigliceridemia
+T50	ENFERMEDAD 384 398	Hipotiroidismo
+T51	ENFERMEDAD 427 445	Síndrome depresivo
+T52	ENFERMEDAD 543 554	cardiopatía
+T53	ENFERMEDAD 615 636	cardiopatía isquémica
+T54	ENFERMEDAD 675 699	patología cardiovascular
+T55	ENFERMEDAD 712 714	DM
+T56	ENFERMEDAD 776 783	síncope
+T58	ENFERMEDAD 1591 1613	insuficiencia cardiaca
+T59	ENFERMEDAD 3834 3853	derrame pericárdico
+T60	ENFERMEDAD 3925 3946	Arteria DA: Estenosis
+T61	ENFERMEDAD 4439 4499	Enfermedad de un vaso con estenosis corta de 75% en DA media
+T62	ENFERMEDAD 5106 5133	extrasístoles ventriculares
+T63	ENFERMEDAD 5190 5208	ángor hemodinámico
+T64	ENFERMEDAD 5242 5261	bradicardia sinusal
+T65	ENFERMEDAD 5281 5304	bigeminismo ventricular
+T66	ENFERMEDAD 5989 6015	taquicardias ventriculares
+T67	ENFERMEDAD 6210 6218	arritmia
+T68	ENFERMEDAD 6609 6632	cardiopatía estructural
+T69	ENFERMEDAD 6735 6790	estenosis significativa en arteria descendente anterior
+T70	ENFERMEDAD 7047 7072	extrasistolia ventricular
+T71	ENFERMEDAD 7135 7145	dislipemia
+T72	ENFERMEDAD 7248 7262	hipotiroidismo
+T73	ENFERMEDAD 7499 7515	Angina inestable
+T74	ENFERMEDAD 7557 7615	Lesión significativa en arteria descendente anterior media
+T76	ENFERMEDAD 7518 7554	Taquicardia ventricular no sostenida
+T77	ENFERMEDAD 282 290	alergias
+T78	ENFERMEDAD 5899 5917	eventos arrítmicos
+T79	ENFERMEDAD 6480 6498	eventos arrítmicos
+T80	ENFERMEDAD 5327 5363	taquicardia ventricular no sostenida
+T81	ENFERMEDAD 342 352	Exfumadora
+T82	ENFERMEDAD 1675 1695	episodios sincopales
+T12	ENFERMEDAD 3712 3752	hipertrofia de las paredes ventriculares
+T177	ENFERMEDAD 2454 2461	hernias
+T182	ENFERMEDAD 786 799	muerte súbita

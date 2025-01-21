@@ -1,0 +1,16 @@
+T1	ENFERMEDAD 1853 1866	Hemoperitoneo
+T4	ENFERMEDAD 2102 2212	hematoma subcapsular extendido a casi la totalidad de la cara superior y posterior del lóbulo derecho hepático
+T9	ENFERMEDAD 2777 2794	shock hemorrágico
+T10	ENFERMEDAD 72 92	diabetes gestacional
+T11	ENFERMEDAD 1969 2002	desgarro de la cápsula de Glisson
+T12	ENFERMEDAD 2812 2838	rotura espontánea hepática
+T13	ENFERMEDAD 2857 2877	hematoma subcapsular
+T14	ENFERMEDAD 146 167	hipertensión arterial
+T16	ENFERMEDAD 2899 2913	síndrome HELLP
+T20	ENFERMEDAD 2651 2679	rotura espontánea del hígado
+T23	ENFERMEDAD 2708 2722	síndrome HELLP
+T24	ENFERMEDAD 335 404	cesárea, durante la cual se produjo una hemorragia intensa por atonía
+T27	ENFERMEDAD 533 545	coagulopatía
+T30	ENFERMEDAD 675 704	hematoma subcapsular hepático
+T32	ENFERMEDAD 977 1006	hematoma subcapsular hepático
+T2	ENFERMEDAD 2777 2838	shock hemorrágico secundario a una rotura espontánea hepática

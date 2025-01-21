@@ -1,0 +1,10 @@
+T2	ENFERMEDAD 63 94	anemia normocítica-normocrómica
+T3	ENFERMEDAD 600 672	MM polipoide y ulcerado de 11 cm de diámetro a nivel de colon ascendente
+T6	ENFERMEDAD 115 133	neoplasia de colon
+T8	ENFERMEDAD 209 211	MM
+T14	ENFERMEDAD 867 922	ganglios linfáticos resecados, 2 presentaban metástasis
+T15	ENFERMEDAD 370 375	nevus
+T16	ENFERMEDAD 392 394	MM
+#2	AnnotatorNotes T3	  MM: melanoma maligno
+#1	AnnotatorNotes T8	  MM: melanoma maligno
+#3	AnnotatorNotes T16	  MM: melanoma maligno

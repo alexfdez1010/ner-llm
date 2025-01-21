@@ -1,0 +1,33 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Varón de 32 años sin alergias medicamentosas conocidas, bebedor moderado sin otros factores de riesgo cardiovascular (FRCV.) Niega antecedentes personales médicos, ni quirúrgicos de interés y no está bajo tratamiento médico crónico. Entre sus antecedentes familiares destacan tres tíos maternos fallecidos de muerte súbita a edad joven (especifica los años, si los tienes) sin conocerse la etiología de las mismas. Padre y madre sin cardiopatía, ni eventos de muerte súbita. Realiza vida activa adecuada a su edad.
+
+Enfermedad actual
+El paciente refiere cuadros recurrentes e intermitentes caracterizado por palpitaciones, desde la adolescencia. El cuadro se reagudiza en los últimos meses con episodios sincopales con perdida postural y del nivel de consciencia, por lo que consulta ambulatoriamente.
+
+Exploración física
+Tensión arterial (TA) 120/80 mmHG, frecuencia cardiaca (FC) 70 lpm, frecuencia respiratoria (FR) 20 rpm, saturación de oxígeno (Sat O2) 95%.
+Normocoloreado y normohidratado.
+No ingurgitación yugular.
+Auscultación cardiaca: ruidos cardiacos rítmicos sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado.
+Abdomen: blando, no doloroso, sin masas, ni megalias.
+Extremidades inferiores: no edemas, no signos de trombosis venosa profunda (TVP).
+
+PRUEBAS COMPLEMENTARIAS
+Laboratorio: hemograma: leucocitos 7x10*9/l, Hb 13 g/dl, plaquetas 310x10*9/l. Bioquímica: glucosa 181 mg/dl [70-110], urea 59 mg/dl [10- 50], creatinina 1,53 mg/dl [,40-1,20] bilirrubina total 1,47 mg/dl [0-1,2], GPT 154 U/L [5-41].
+Electrocardiograma (ECG): ritmo regular sinusal con frecuencia de 70 lpm se observa rSr ́en V1 y V2, con elevación del segmento ST de 5 mm y T invertida en dichas derivaciones, patrón de Brugada tipo I.
+Ecocardiograma Doppler color: DDVI/DSVI 50/30, SIVD/PPD 11/11, FE 68%, VD 20, grosor parietal libre 10 mm. Aurícula izquierda área 23 cm2 sin trastornos de la motilidad ventricular, sin alteraciones en flujo transvalvular, PSAP 20.
+Holter de ECG 24 horas: detección de trazado de taquicardia ventricular no sostenida (TVNS) monomórfica de corta duración hasta 200 lpm que correlaciona con clínica de paciente.
+Radiografía de tórax posterior al implante DAI: índice cardiotorácico menor a 0,5 con presencia de generador en hemitórax izquierdo y electrodo hasta VD.
+Telemetría de DAI en el seguimiento (1o 6 meses): evidencia en controles evolutivos de descargas apropiadas de DAI ante eventos arrítmicos en forma de fibrilación ventricular (FV) y taquicardia ventricular (TV) rápidas.
+
+EVOLUCIÓN CLÍNICA
+Paciente con clínica episodios sincopales y antecedentes cardiovasculares de muerte súbita de familiares (sin estudio genéticos), con estudios morfológicos con ecocardiograma sin hallazgos patológicos. Teniendo en cuenta su ECG basal con patrón de Brugada tipo I, su historia familiar, sus eventos clínicos sincopales de repetición y la evidencia de eventos arrítmicos sintomáticos (TVNS) en Holter de 24 horas, se establece el diagnóstico de síndrome de Brugada y se decide implante de desfibrilador automático implantable (DAI) en prevención primaria ante paciente con síndrome de Brugada con muy alto riesgo de muerte súbita.
+El implante transcurre sin incidencias y el paciente en controles posteriores (6 meses posimplante) refiere estar en GF I, y ha tenido algún episodio sincopal muy aislado. En la revisión del dispositivo (DAI) se objetivan episodios de TV en zona de VT2 (180 LPM) Y FV (200 LPM) con terapia de estimulación ventricular antitaquicardia (ATP) y descargas apropiadas del DAI.
+
+DIAGNÓSTICO
+Síndrome de Brugada.
+Implante de desfibrilador automático implantable (DAI). No cardiopatía estructural (FEVI normal).
+GF I.

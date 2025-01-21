@@ -1,0 +1,36 @@
+T26	ENFERMEDAD 89 121	fibrilación auricular permanente
+T27	ENFERMEDAD 159 182	cardiopatía estructural
+T28	ENFERMEDAD 298 304	angina
+T29	ENFERMEDAD 802 838	patología pleuroparenquimatosa aguda
+T30	ENFERMEDAD 1071 1105	Aneurisma del septo interauricular
+T31	ENFERMEDAD 1145 1158	valvulopatías
+T32	ENFERMEDAD 1203 1222	derrame pericárdico
+T33	ENFERMEDAD 1287 1293	angina
+T34	ENFERMEDAD 1522 1531	arritmias
+T35	ENFERMEDAD 1834 1876	coronaria derecha: severamente calcificada
+T36	ENFERMEDAD 2130 2171	estenosis crítica de la coronaria derecha
+T37	ENFERMEDAD 3282 3301	derrame pericárdico
+T38	ENFERMEDAD 3397 3412	cuadro alérgico
+T39	ENFERMEDAD 3665 3693	disección coronaria oclusiva
+T40	ENFERMEDAD 3894 3902	isquemia
+T41	ENFERMEDAD 4106 4125	derrame pericárdico
+T42	ENFERMEDAD 4192 4240	depósito de fibrina a nivel del surco AV derecho
+T43	ENFERMEDAD 5349 5420	hematoma a nivel de la región basal de la pared libre del VD y en la AD
+T44	ENFERMEDAD 5435 5465	disección del surco AV derecho
+T45	ENFERMEDAD 5589 5610	taponamiento cardiaco
+T46	ENFERMEDAD 5630 5654	disfunción severa del VD
+T47	ENFERMEDAD 5740 5801	pared libre del VD, condicionando disfunción sistólica severa
+T48	ENFERMEDAD 6017 6086	perforación iatrogénica por guía de angioplastia del surco AV derecho
+T49	ENFERMEDAD 6088 6115	Taponamiento cardiaco agudo
+T50	ENFERMEDAD 6117 6147	Hematoma de pared libre del VD
+T51	ENFERMEDAD 5990 6009	Disección coronaria
+T52	ENFERMEDAD 686 701	daño miocárdico
+T53	ENFERMEDAD 4648 4675	disociación electromecánica
+T54	ENFERMEDAD 5268 5318	trombo de gran tamaño adherido al surco AV derecho
+T55	ENFERMEDAD 2698 2729	oclusión completa de la arteria
+T56	ENFERMEDAD 2921 2938	rash generalizado
+T57	ENFERMEDAD 2952 2978	alergia a contraste yodado
+T58	ENFERMEDAD 3949 3969	hipotensión arterial
+T112	ENFERMEDAD 4158 4170	taponamiento
+T114	ENFERMEDAD 4713 4727	retaponamiento
+T117	ENFERMEDAD 6145 6175	VD con disfunción severa aguda

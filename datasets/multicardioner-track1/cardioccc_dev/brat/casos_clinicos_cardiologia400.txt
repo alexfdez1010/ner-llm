@@ -1,0 +1,25 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 64 años sin antecedentes personales de interés. Sin historia cardiológica previa. No toma ninguna medicación.
+Acude a urgencias de nuestro hospital por clínica de disnea progresiva desde hace 1 semana.
+Asimismo, refiere espisodios autolimitados de palpitaciones, de minutos de duración, que suceden diariamente desde hace 6 meses. No refiere otra sintomatología.
+Exploración física: tensión arterial (TA) 120/70 mmHg, frecuencia cardiaca (FC) 125 lpm, saturación de oxígeno (SatO2) 95%. Consciente, orientada, eupneica en reposo. No ingurgitación venosa yugular. Auscultación cardiopulmonar: arrítmica, taquicárdica, sin soplos.
+Crepitantes bibasales. No presenta edemas en miembros inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+ESTUDIO ELECTROFISIOLÓGICO.
+ECG.
+RADIOGRAFÍA DE TÓRAX: índice cardiotorácico en el límite alto de la normalidad, signos de redistribución vascular, senos costofrénicos libres.
+ANALÍTICA: hemograma normal. Bioquímica con creatinina e iones normales. Fracción aminoterminal del propéptido natriurético cerebral (NT-proBNP) 2115.
+E C O C A R D I O G R A M A : disfunción ventricular izquierda moderada (FEVI 35%), disfunción ligera de ventrículo derecho.
+Dilatación leve de aurícula izquierda. Insuficencia mitral y tricúspide ligeras. Presión arterial pulmonar normal. Compatible con taquimiocardiopatía. Estudio realizado en ritmo sinusal.
+
+EVOLUCIÓN CLÍNICA
+Dada la presencia de una taquicardia de QRS estrecho con patrón regularmente irregular, se decide realizar maniobras vagales, observando el cese de la taquicardia con recurrencia precoz como se observa en el ECG. Observando detenidamente el ECG, se puede ver lo que parece una onda p por cada dos QRS con un intervalo constante, asimismo, en uno de los ECG se puede ver algún latido con imagen de bloqueo completo de rama derecha del haz de His (BCRDHH). Esto podría corresponder a una taquicardia con doble vía nodal anterógrada, como se confirma en el estudio electrofisiológico que se realiza durante el ingreso.
+Paralelamente, puesto que la paciente se encuentra en insuficiencia cardiaca, se inicia tratamiento deplectivo con buena respuesta. En el ecocardiograma se observa un ventrículo izquierdo no dilatado con disfunción sistólica grave con hipoquinesia global. Se comienza, por lo tanto, con tratamiento para la insuficiencia cardiaca con fracción de eyección reducida, comenzando con enalapril 2,5 mg (2 veces al día), bisoprolol 2,5 mg (1 comprimido en el desayuno) y eplerenona 25 mg (1 comprimido en el desayuno).
+Durante el ingreso se realiza tomografía computarizada (TAC) coronaria que descarta lesiones significativas en las arterias coronarias.
+Se decide proceder a la ablación de taquicardia intranodal no reentrante, con éxito, siendo dada de alta a los pocos días.
+A los 4 meses se realiza ecocardiograma de control con normalización de la función ventricular, estando la paciente asintomática.
+
+DIAGNÓSTICO
+Taquicardia por doble vía nodal anterógrada.
+Probable taquimiocardiopatía en relación a lo previo.

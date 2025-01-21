@@ -1,0 +1,51 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Presentamos el caso de un varón de 45 años con vida activa, actualmente asintomático, que acude al gabinete de ecocardiografía de nuestro hospital para la realización de un control transesofágico tras cierre percutáneo de orejuela izquierda con dispositivo Amulet (St Jude Medical) realizado por haber presentado ictus de repetición a pesar haber estado bajo tratamiento anticoagulante.
+
+ANTECEDENTES PERSONALES
+Factores de riesgo cardiovascular (FRCV): hipertensión arterial. Dislipemia. Fumador de 7-8 cigarrillos día (10.5 paquetes año)
+Antecedentes cardiológicos:
+Fibrilación auricular permanente diagnosticada en diciembre de 2001. (2 intentos no efectivos de CVE en 2002 tras los que se optó por estrategia de control de frecuencia).
+Ecocardiografía transtorácica: ventrículo izquierdo de diámetros y volúmenes normales, con función global sistólica conservada (FEVI 58%). Aurícula izquierda muy dilatada (volumen 4c 154 ml). Llenado transmitral con onda E única. Ausencia de valvulopatías significativas. Ventrículo derecho de diámetros y función global sistólica conservada. Ausencia de insuficiencia tricuspídea (IT) que permita estimar presión sistólica arterial pulmonar (PsAP).
+Cierre percutáneo de orejuela izquierda con dispositivo Amulet (St. Jude Medical) en 2018:
+En 2016, el paciente presentó un ictus de perfil cardioembólico bajo tratamiento con anticoagulación con acenocumarol con mal control de INR, por lo que se suspendió acenocumarol e inició rivaroxabán.
+Bajo tratamiento con rivaroxabán 20 mg/24 horas ajustado correctamente a su función renal, sufre nuevo ictus cardioembólico en 2017, por lo que se decide cierre de orejuela izquierda.
+En 2018 se realiza cierre percutáneo de orejuela izquierda con dispositivo Amulet (St. Jude Medical) sin complicaciones. Al alta, siguiendo las recomendaciones de la casa comercial, se inició doble terapia antiagregante con aspirina 100 mg y clopidogrel 75 mg. Aunque según las guías el paciente presentaba indicación de mantener además tratamiento anticoagulante por el riesgo de ictus, desestimó el mismo por haber presentado durante el tratamiento con rivaroxabán episodios de sangrado menor.
+Otros antecedentes médicos:
+Ictus cardioembólico de repetición (2016 y 2017) expresados como AIT, a pesar de anticoagulación.
+El primero de ellos localizado en lóbulo occipital izquierdo confirmado por técnicas de imagen.
+El segundo de de perfil carotideo izquierdo sin confirmación con técnicas de imagen.
+Criterios clínicos de bronquitis crónica sin pruebas funcionales respiratorias
+Intervenciones quirúrgicas: bypass gástrico. Hernia supraumbilical.
+Tratamiento actual: Foli-Doce 1 (comprimido al día), olmesartán + HCT 40/25 mg, atenolol 50 mg (1 comprimido al día), atorvastatina 20 mg (1 comprimido al día), ácido acetilsalicílico 100 mg (1 comprimido al día).
+
+EXPLORACIÓN FÍSICA
+Buen estado general, consciente, orientado, normohidratado y normocoloreado.
+Constantes: tensión arterial (TA) 132/76 mmHg, frecuencia cardiaca (FC) 67 lpm, SatO2 94% (FiO2 21%).
+Auscultación cardiaca: ruidos irregulares sin soplos.
+Auscultación pulmonar: ligera hipofonesis global, con roncus dispersos.
+Abdomen blando sin masas, ni megalias, no doloroso a la palpación.
+Extremidades inferiores sin edema. Pulsos periféricos presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica:
+Hemograma: hemoglobina 15,l g/dl. VCM 84 fl. HCM 30.7 pg. Leucocitos 5.8x10*9/l.
+Plaquetas 316x10*9/l.
+Bioquímica: glucosa 83 mg/dl. HbA1c 5,8%. Sodio 138 mEq/l. Potasio 4,3 mEq/l.
+Cloro 104 mEq/l. Bilirrubina 0,46 mg/dl. GOT 16 U/l. GPT 14 U/l. Fosfatasa alcalina 77 U/l. Gammaglutamil Transferasa 13 U/l. Creatinina 0,96 mg/dl (FG CKD-EPI > 90 ml/min/1,73 m2).
+Metabolismo del hierro: transferrina 249 mg/dl. Ferritina 26 ug/l. Hierro 60 ug/l, IST 17,8%.
+Metabolismo lipídico: colesterol total 150 mg/dl. Triglicéridos 64 mg/dl. HDLc 34 mg/dl. LDLc 126 mg/dl.
+Hemostasia: tiempo protrombina 12 s, IQ 84%. INR 1,03. TTPA 27,3 s.
+Electrocardiograma (ECG): fibrilación auricular con RVM a 67 lpm. Eje 15o. QRS 90 ms. onda Q no significativa y T negativa en dIII. T aplanada en avF. Sin otras alteraciones en la repolarización.
+Ecocardiografía transesofágica (ETE) (2D y 3D) 5 meses después de implante de dispositivo de cierre de orejuela: marcada dilatación auricular izquierda (volumen 4c 175 ml) con presencia de ecocontraste espontáneo. Se aprecia, sobre disco de dispositivo de cierre de orejuela normoposicionado, imagen sugestiva de pequeño trombo protruyente. Ventrículo izquierdo de diámetros aumentados y función global sistólica normales (FEVI 60%). Ausencia de valvulopatías significativas. Ventrículo derecho de diámetros normales y función conservada. Ausencia de IT que permita estimar PsAP.
+Exploración en fibrilación auricular.
+
+EVOLUCIÓN CLÍNICA
+Teniendo en cuenta que se trataba de un varón de 45 años asintomático en quien, aunque había cumplimentado correctamente la doble terapia antiagregante pautada siguiendo las recomendaciones del fabricante dispositivo, sin tratamiento anticoagulante por decisión del propio paciente, se objetivó en ETE de control una trombosis del dispositivo Amulet (St Jude Medical) de cierre de orejuela izquierda. Se decidió reiniciar tratamiento anticoagulante con acenocumarol con objetivos de INR (2-3). Tres meses más tarde se realizó nueva ETE de control en la que el trombo se había resuelto.
+No obstante, a pesar de la resolución del cuadro, se decidió mantener anticoagulación oral con acenocumarol (INR 2-3) y realizar un nuevo control ecocardiográfico en 12 meses, de cara a valorar entonces la retirada definitiva del tratamiento anticoagulante.
+En el momento actual han pasado 8 meses y el paciente permanece asintomático, sin complicaciones hemorrágicas, ni trombóticas, bajo tratamiento con acenocumarol y pendientes de repetir la ecocardiografía transesofágica de control.
+
+DIAGNÓSTICO
+Fibrilación auricular permanente con respuesta ventricular controlada. CHA2DS2VAS-c 3, HASBLED 2.
+Dos accidentes cerebrovasculares de perfil cardioembólico a pesar de anticoagulación con acenocumarol o rivaroxabán (precierre de orejuela izquierda).
+Cierre de orejuela izquierda con dispositivo Amulet (St Jude Medical).
+Trombosis sobre dispositivo de cierre de orejuela izquierda, resuelto con anticoagulación oral con acenocumarol.

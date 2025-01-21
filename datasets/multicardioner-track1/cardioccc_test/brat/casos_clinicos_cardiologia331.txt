@@ -1,0 +1,49 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Intolerancia a ácido acetilsalicílico (AAS) por úlcera duodenal.
+FRCV: tabaquismo (20 paquetes-año).
+Sin historia cardiológica conocida.
+Otros antecedentes: úlcera duodenal hace 10 años. Sin intervenciones quirúrgicas de interés.
+Tratamiento habitual: no refiere.
+
+ENFERMEDAD ACTUAL
+Paciente varón de 57 años con los antecedentes descritos que acude a urgencias de nuestro centro por cuadro de dolor centrotorácico opresivo, de unos 30 min de evolución, irradiado a ambos miembros superiores (MMSS) y cuello, que se inicia estando en reposo, de forma súbita, con leve cortejo vegetativo asociado. A su llegada a urgencias persiste de la clínica.
+Niega episodios de dolor centrotorácico previos. Refiere vida activa diaria. Niega clínica de ICC o infecciosa en días previos.
+
+EXPLORACIÓN FÍSICA
+Constantes: tensión arterial (TA) 140/60 mmHg (brazo izquierdo), 90/50 mmHg (brazo derecho), frecuencia cardiaca (FC) 65 lpm. SpO2 (FiO2 21%) 99%.
+Regular estado general, afectado por dolor intenso. Eupneico en reposo. Normocoloreado y normohidratado. Sudoroso.
+Paciente consciente y orientado, colaborador y alerta. Sin focalidad neurológica.
+Auscultación cardiopulmonar: ruidos regulares, soplo diastólico de predominio en borde esternal izquierdo. Murmullo vesicular conservado (MVC) sin ruidos sobreañadidos.
+Abdomen: blando y depresible, sin masa ni megalias, no doloroso a la palpación.
+MMSS: pulsos radiales asimétricos.
+Miembros inferiores: pulsos distales débiles y simétricos.
+
+
+PRUEBAS COMPLEMENTARIAS
+ECG a su llegada a urgencias: ritmo sinusal a 95 lpm, PR 170 ms, QRS estrecho, eje 0o, criterios de HVI. Sin cambios en ECG seriados.
+Analítica inicial:
+Hemograma: hematíes *4,62 10*12/l. Hemoglobina 14,3 g/dl. Hematocrito 42,9%.
+VCM 92,9 fl. HCM 30,9 pg. CHCM 33,3 g/l. ADE 13,1%. Leucocitos 8,6 10*9/l.
+Neutrófilos 54,6%. Linfocitos 32,2%. Plaquetas 198 10*9/l.
+Hemostasia: tiempo de protrombina (TP) 11 seg. Índice de Quick 100%, INR 0,95.
+TTPA 28,7 seg.
+Bioquímica: glucosa *103 mg/dl. Sodio 139 mEq/l. Potasio 4,3 mEq/l. Cloro 103 mEq/l. Urea 34,2 mg/dl. Creatinina 0,86 mg/dl.
+Biomarcadores de daño miocárdico: troponina I (hsTnI) 3,2 ng/l.
+Ecocardiograma (ETT) urgente en box de críticos (no se dispone de imágenes): ventrículo izquierdo con hipertrofia concéntrica ligera, de diámetros normales y función sistólica conservada, sin apreciarse alteraciones de la contractilidad segmentaria en reposo.
+Insuficiencia aórtica significativa, sin otras valvulopatías. Ventrículo derecho de tamaño y función normales. Raíz aórtica de diámetros aumentados (45 mm), sin apreciarse clara imagen de flap. Vena cava inferior (VCI) normal. Derrame pericárdico ligero.
+Angio-TAC de aorta: disección aórtica tipo A con afectación de raíz aórtica que se extiende por la vertiente anterior de la pared aórtica próxima al tronco coronario izquierdo (TCI) desde el plano valvular hasta el origen de arteria mesentérica inferior con afectación del origen proximal de TSA. Dilatación de raíz aórtica y de porción tubular de aorta ascendente (47 mm). Cayado 37 mm. Aorta descendente 31 mm. A nivel de aorta toraco-abdominal la luz verdadera presenta un calibre reducido. Tronco celiaco, mesentérica superior y renal derecha tienen su origen en la luz verdadera. Renal izquierda se origina en una puerta de comunicación entre la luz verdadera y la falsa luz con buena perfusión renal. Aorta distal y sector iliofemoral normal. Conclusión: disección tipo A que se extiende desde raíz aórtica hasta el segmento aórtico proximal al origen de mesentérica inferior.
+
+EVOLUCIÓN CLÍNICA
+Ante un paciente con dolor torácico opresivo intenso, sin alteraciones significativas a nivel de ECG sugestivas de isquemia, se decidió realizar ETT urgente, objetivando una dilatación de raíz aórtica con insuficiencia significativa. Ante estos hallazgos, se decidió solicitar angio-TAC que confirmó el diagnóstico de disección aórtica tipo A.
+Con los resultados de las exploraciones complementarias y el diagnóstico, se contactó con el servicio de cirugía cardiaca, realizándose intervención quirúrgica de forma emergente con técnica de Bono-Bentall mecánico (Carboseal 29 mm) (consiste en realizar en una misma intervención quirúrgica un reemplazo valvular aórtico, un reemplazo de raíz aórtica y aorta ascendente, así como el reimplante de ostium coronarios), bajo circulación extracorpórea, parada electromecánica del corazón y parada circulatoria con perfusión cerebral selectiva bicarotídea. No se realizó recambio de arco aórtico ni aorta descendente dada la situación crítica del paciente, la complejidad de la intervención y la mejoría tras eliminar el desgarro principal y reinstauración de flujo a luz verdadera.
+Evolución en UCI: estancia prolongada a 8 días tras cirugía de Bentall emergente. Extubación precoz a las 12 h post-IQ sin incidencias. A las 48 horas el paciente desarrolla insuficiencia respiratoria global orientada como síndrome de distrés respiratorio agudo (SDRA) postoperatorio por radiografía congruente con imagen de infiltrados dispersos en ambos campos pulmonares con distribución heterogénea. PCR gripe A negativa. Requirió de gafas nasales de alto flujo, con mejoría progresiva. Por otra parte, insuficiencia renal aguda resuelta. A nivel hemodinámico el paciente permaneció estable desde el posopertorio inmediato, sin signos de sangrado activo y sin requerimientos transfusionales.
+Buena evolución en sala de ciurgía cardiaca, con alta a domicilio el día 7/3/19.
+
+DIAGNÓSTICO
+Disección aórtica aguda tipo A. Cirugía emergente con Bono-Bentall metálico.
+Tabaquismo.
+Hipertensión arterial.
+Insuficiencia respiratoria aguda por SDRA.
+Insuficiencia renal prerenal resuelta.

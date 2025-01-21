@@ -1,0 +1,32 @@
+T18	ENFERMEDAD 39 64	hemorragia digestiva alta
+T19	ENFERMEDAD 82 101	espondiloartropatía
+T20	ENFERMEDAD 345 370	quiste aracnoideo derecho
+T21	ENFERMEDAD 582 645	doble lesión aórtica: estenosis moderada e insuficiencia severa
+T22	ENFERMEDAD 705 707	EI
+T23	ENFERMEDAD 823 847	adherencias pericárdicas
+T24	ENFERMEDAD 1483 1569	infarto establecido subagudo en el territorio de la arteria cerebral posterior derecha
+T25	ENFERMEDAD 2189 2247	complicaciones en la cicatrización de la herida quirúrgica
+T26	ENFERMEDAD 2877 2907	dilatación sacular de la aorta
+T27	ENFERMEDAD 2929 2977	endocarditis protésica precoz con seudoaneurisma
+T28	ENFERMEDAD 3351 3365	seudoaneurisma
+T30	ENFERMEDAD 4677 4713	seudoaneurisma periprotésico extenso
+T31	ENFERMEDAD 5033 5054	insuficiencia aórtica
+T32	ENFERMEDAD 5760 5774	seudoaneurisma
+T33	ENFERMEDAD 6027 6048	enfermedad de Whipple
+T34	ENFERMEDAD 6441 6443	EI
+T35	ENFERMEDAD 4751 4780	Ventrículo izquierdo dilatado
+T36	ENFERMEDAD 5255 5332	Ventrículo izquierdo dilatado con una depresión moderada-severa de la función
+T37	ENFERMEDAD 2591 2598	absceso
+T38	ENFERMEDAD 2302 2339	bloqueo aurículo-ventricular completo
+T39	ENFERMEDAD 2613 2634	regurgitación aórtica
+T40	ENFERMEDAD 4627 4659	regurgitación aórtica muy severa
+T41	ENFERMEDAD 1305 1326	taponamiento cardiaco
+T42	ENFERMEDAD 3541 3562	taponamiento cardiaco
+T43	ENFERMEDAD 66 79	betatalasemia
+T45	ENFERMEDAD 4951 4965	seudoaneurisma
+T120	ENFERMEDAD 3022 3068	dehiscencia en la zona del seno no coronariano
+T121	ENFERMEDAD 2772 2798	dehiscencia de la prótesis
+T111	ENFERMEDAD 3117 3153	cavidad seudoaneurismática subanular
+T29	ENFERMEDAD 3886 3930	alteraciones en la cicatrización e inmunidad
+#1	AnnotatorNotes T22	 endocarditis infecciosa
+#2	AnnotatorNotes T34	 endocarditis infecciosa

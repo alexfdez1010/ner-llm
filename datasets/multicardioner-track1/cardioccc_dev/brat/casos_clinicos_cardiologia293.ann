@@ -1,0 +1,59 @@
+T7	ENFERMEDAD 1083 1109	disfunción sistólica grave
+T40	ENFERMEDAD 6675 6701	disfunción sistólica grave
+T41	ENFERMEDAD 106 129	alergias medicamentosas
+T42	ENFERMEDAD 143 158	hábitos tóxicos
+T43	ENFERMEDAD 206 220	Hipotiroidismo
+T44	ENFERMEDAD 379 414	sarcoidosis con afectación pulmonar
+T45	ENFERMEDAD 1444 1481	infección de herida quirúrgica de DAI
+T46	ENFERMEDAD 1638 1662	endocarditis tricuspídea
+T47	ENFERMEDAD 1679 1700	embolismos pulmonares
+T48	ENFERMEDAD 1755 1789	insuficiencia cardiaca refractaria
+T49	ENFERMEDAD 1822 1877	taquicardia ventricular (TV) no sostenidos y sostenidos
+T50	ENFERMEDAD 1847 1849	TV
+T51	ENFERMEDAD 1943 2003	parada cardiorrespiratoria (PCR) por fibrilación ventricular
+T52	ENFERMEDAD 2005 2007	FV
+T53	ENFERMEDAD 2210 2245	necrosis avascular de ambas caderas
+T54	ENFERMEDAD 2444 2470	complicaciones infecciosas
+T55	ENFERMEDAD 2472 2488	absceso pulmonar
+T56	ENFERMEDAD 2498 2520	herpes zoster torácico
+T57	ENFERMEDAD 2530 2547	ITU de repetición
+T58	ENFERMEDAD 2549 2564	gastroenteritis
+T59	ENFERMEDAD 2682 2724	bloqueo auriculoventricular (BAV) completo
+T60	ENFERMEDAD 2711 2714	BAV
+T61	ENFERMEDAD 2830 2833	BAV
+T62	ENFERMEDAD 2966 2983	flutter auricular
+T63	ENFERMEDAD 4123 4135	BAV completo
+T64	ENFERMEDAD 4733 4767	enfermedad coronaria de tres vasos
+T65	ENFERMEDAD 4820 4877	oclusión trombótica de la coronaria derecha (CD) proximal
+T66	ENFERMEDAD 5124 5141	miocarditis aguda
+T67	ENFERMEDAD 5151 5188	síndrome coronario agudo tipo IAMSEST
+T68	ENFERMEDAD 5604 5616	BAV completo
+T69	ENFERMEDAD 5701 5735	enfermedad coronaria de tres vasos
+T70	ENFERMEDAD 5788 5825	oclusión trombótica de la CD proximal
+T71	ENFERMEDAD 6006 6018	BAV completo
+T72	ENFERMEDAD 6023 6051	deterioro hemodinámico grave
+T73	ENFERMEDAD 6079 6102	fibrilación ventricular
+T74	ENFERMEDAD 6272 6345	Síndrome coronario agudo con elevación del segmento ST (SCACEST) inferior
+T75	ENFERMEDAD 6357 6393	BAV completo por isquemia miocárdica
+T76	ENFERMEDAD 6407 6472	Enfermedad vascular del injerto en paciente trasplantado cardiaco
+T77	ENFERMEDAD 6474 6508	Oclusión trombótica de CD proximal
+T78	ENFERMEDAD 6528 6574	Sarcoidosis con afectación pulmonar y cardiaca
+T79	ENFERMEDAD 6609 6669	Miocardiopatía infiltrativa en fase dilatada por sarcoidosis
+T80	ENFERMEDAD 6703 6706	ICC
+T81	ENFERMEDAD 6742 6768	complicaciones infecciosas
+T82	ENFERMEDAD 6820 6861	Endocarditis infecciosa aguda tricuspídea
+T83	ENFERMEDAD 6395 6405	PCR por FV
+T84	ENFERMEDAD 4630 4645	daño miocárdico
+T85	ENFERMEDAD 868 902	dilatación de ventrículo izquierdo
+T86	ENFERMEDAD 560 603	taquicardia ventricular monomorfa sostenida
+T87	ENFERMEDAD 670 730	ventrículo izquierdo dilatado con disfunción sistólica grave
+T88	ENFERMEDAD 1971 1974	PCR
+T168	ENFERMEDAD 2605 2618	rechazo agudo
+T34	ENFERMEDAD 429 455	hiperreactividad bronquial
+T132	ENFERMEDAD 2879 2900	rechazo agudo celular
+T133	ENFERMEDAD 3094 3101	rechazo
+T136	ENFERMEDAD 4151 4170	isquemia miocárdica
+T141	ENFERMEDAD 6884 6897	Rechazo agudo
+#1	AnnotatorNotes T52	 fibrilación ventricular
+#2	AnnotatorNotes T83	 PCR: Parada cardiorrespiratoria, FV fibrilación ventricular
+#3	AnnotatorNotes T88	 parada cardiorespiratoria

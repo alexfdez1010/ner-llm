@@ -1,0 +1,9 @@
+T2	ENFERMEDAD 625 653	crisis hemolíticas repetidas
+T3	ENFERMEDAD 48 51	HPN
+T6	ENFERMEDAD 1096 1102	anemia
+T15	ENFERMEDAD 196 220	anemia hemolítica severa
+T17	ENFERMEDAD 891 922	esiones lacunares subcorticales
+T19	ENFERMEDAD 970 973	HPN
+T20	ENFERMEDAD 890 898	lesiones
+#1	AnnotatorNotes T3	   HPN: Hemoglobinuria paroxística nocturna
+#2	AnnotatorNotes T19	   HPN: Hemoglobinuria paroxística nocturna

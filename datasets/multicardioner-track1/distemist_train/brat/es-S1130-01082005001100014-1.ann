@@ -1,0 +1,14 @@
+T4	ENFERMEDAD 29 39	hipertensa
+T6	ENFERMEDAD 60 80	ulcus gastroduodenal
+T7	ENFERMEDAD 454 489	lesión submucosa en fundus gástrico
+T8	ENFERMEDAD 1563 1582	schwannoma gástrico
+T10	ENFERMEDAD 158 165	melenas
+T12	ENFERMEDAD 634 668	lesión submucosa gástrica ulcerada
+T14	ENFERMEDAD 1019 1077	gástrica presentaba una excavación secundaria a una úlcera
+T16	ENFERMEDAD 717 735	sangrado digestivo
+T18	ENFERMEDAD 1119 1166	adenopatías perilesionales ni en tronco celiaco
+T20	ENFERMEDAD 1209 1255	tumor gástrico submucoso estromal (tumor GIST)
+T21	ENFERMEDAD 1244 1254	tumor GIST
+T25	ENFERMEDAD 1377 1401	complicación hemorrágica
+T29	ENFERMEDAD 535 545	ulceración
+#1	AnnotatorNotes T21	  GIST: tumor gástrico submucoso estromal

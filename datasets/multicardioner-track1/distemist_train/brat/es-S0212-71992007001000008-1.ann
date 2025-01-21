@@ -1,0 +1,7 @@
+T13	ENFERMEDAD 1138 1141	HCL
+T16	ENFERMEDAD 1325 1367	adenopatía en localización supraclavicular
+T17	ENFERMEDAD 1405 1465	enfermedad de Hodgkin tipo esclerosis nodular asociada a HCL
+T18	ENFERMEDAD 1462 1465	HCL
+T23	ENFERMEDAD 128 137	hemotórax
+#1	AnnotatorNotes T13	   HCL:Histiocitosis de células de Langerhans
+#2	AnnotatorNotes T18	   HCL:Histiocitosis de células de Langerhans

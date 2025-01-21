@@ -1,0 +1,13 @@
+T3	ENFERMEDAD 171 186	carcinoma renal
+T5	ENFERMEDAD 232 251	metástasis pulmonar
+T9	ENFERMEDAD 696 698	DR
+T12	ENFERMEDAD 1292 1294	DR
+T15	ENFERMEDAD 1567 1596	metástasis de carcinoma renal
+T18	ENFERMEDAD 1860 1879	metástasis coroidea
+T26	ENFERMEDAD 669 694	desprendimiento de retina
+T27	ENFERMEDAD 1279 1285	lesión
+T1	ENFERMEDAD 53 70	pérdida de visión
+T2	ENFERMEDAD 749 772	inflamación intraocular
+T4	ENFERMEDAD 1628 1651	infiltrar nervio óptico
+#1	AnnotatorNotes T9	   DR: desprendimiento de retina
+#2	AnnotatorNotes T12	   DR: desprendimiento de retina

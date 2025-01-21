@@ -1,0 +1,65 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 78 años.
+
+ANTECEDENTES PERSONALES
+No alergias medicamentosas conocidas.
+Factores de riesgo cardiovascular (FRCV): hipertensión arterial (HTA), diabetes mellitus con mal control metabólico con lesión de órgano diana, dislipemia.
+
+Historia cardiovascular:
+Fiebre reumática en la infancia. Valvulopatía reumática mitro-aórtica. Recambio valvular mitral en tres ocasiones:
+Cirugía por estenosis mitral grave en 2006. Prótesis mitral metálica St Jude.
+Sustitución valvular mitral por prótesis biológica debido a trombosis valvular (2007).
+Sustitución valvular mitral y aórtica por prótesis biológicas (2018) debido a degeneración protésica mitral y estenosis aórtica moderada. Ingreso reciente (dado de alta hace una semana) tras ingreso prolongado (30 días de estancia) debido a clínica de insuficiencia cardiaca, deterioro de la función renal en dicho contexto y complicaciones del paciente crítico.
+Fibrilación auricular. Estrategia de control de frecuencia. En tratamiento con sintrom y bisoprolol.
+Arterias coronarias sin lesiones en coronariografía (octubre de 2018).
+
+Otros antecedentes:
+Enfermedad renal crónica de etiología diabética. Creatinina basal 1,4 mg/dl (filtrado glomerular [FG] 47 ml/min/1,73 m2).
+Síndrome de apneas-hipopneas del sueño (SAHS) moderado, sin tratamiento con presión positiva continua en la vía aérea (CPAP) por mala tolerancia.
+Prostatectomía debido a carcinoma de próstata.
+
+Tratamiento habitual:
+Acenocumarol 4 mg. DTS 15 mg. Controles de INR estables recientes.
+Espironolactona 50 mg (1 comprimido cada 24 horas).
+Bisoprolol 2,5 mg (1 comprimido cada 24 horas).
+Simvastatina 20 mg (1 comprimido al día).
+Omeprazol 40 mg (1 comprimido al día).
+Furosemida 40 mg (dos comprimidos en desayuno, uno en la comida y otro en la cena).
+Insulina lenta 18 UI al día.
+Insulina rápida (6-8-8 UI al día).
+Metamizol 575 mg (1 amp cada 8 horas si dolor).
+Situación basal: independiente para las actividades básicas de la vida diaria (ABVD). Sale a la calle a diario. Maneja su medicación. No cumple criterios de fragilidad (robusto). KATZ A.
+
+ENFERMEDAD ACTUAL
+Acude por empeoramiento de clase funcional, con disnea de mínimos esfuerzos, aumento de edemas en miembros inferiores y ortopnea que le ha llevado la noche previa al ingreso a dormir en sedestación. Ingreso reciente (dado de alta hace 7 días) de otro centro tras cirugía de sustitución valvular mitral y aórtica. El paciente refiere datos congestivos a los pocos días del alta. Reconoce ingesta de sal en dieta habitual en su domicilio, además ha comenzado a tomar antiinflamatorio no esteroideo (AINE) a consecuencia de dolores secundarios a patología osteomuscular agudizada tras el reciente ingreso.
+
+EXPLORACION FÍSICA
+Tensión arterial (TA) 140/80 mmHg, frecuencia cardiaca (FC) 120 lpm, Sat 93% con gafas nasales.
+Cabeza y cuello: no ingurgitación venosa yugular
+Auscultación cardiaca: arrítmica, sin soplos.
+Auscultación pulmonar: crepitantes en ambas bases.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica: hemoglobina 10,3 mg/dl. Urea 62 mg/dl. Creatinina 1,8 mg/dl (FG 39 mg/ml/1,73 m2), NT-proBNP 4550 pg/ml. Perfil férrico: Fe total 136, ferritina 150 g/l; IST 18%. TSH 2,1.
+HbA1C 7,9%. Albúmina 2,6 mg/dl. Prealbúmina 13 mg/dl.
+ECG: fibrilación auricular a 140 lpm. QRS 110 msg. Eje normal. Sin alteraciones de la repolarización.
+Radiografía de tórax: cardiomegalia. Redistribución vascular. Derrame pleural bilateral. Suturas de esternotomía previa.
+Ecocardiograma: ventrículo izquierdo con tamaño normal, con hipertrofia concéntrica de grado moderado, sin alteraciones significativas de la contractilidad segmentaria y con función sistólica global conservada. Ventrículo derecho con tamaño y función conservada.
+Ambas aurículas gravemente dilatadas. Prótesis biológica mitral sin signos de disfunción.
+Prótesis biológica aórtica sin signos de disfunción. IT trivial que permite estimar presión pulmonar sistólica de 35 mmHg. Raíz aórtica y aorta ascendente proximal con tamaño normal. Vena cava inferior gravemente dilatada y sin cambios respiratorios. Ausencia de derrame pericárdico.
+
+EVOLUCIÓN CLÍNICA
+Mala evolución durante sus primeros días con persistencia de datos congestivos pese a altas dosis de diurético de asa (furosemida 180 mg al día, en bolos intravenosos), control de ingesta hídrica (aporte inferior a 1,5 litros al día) y aportes controlados de sal en comidas (dosis 2 g cloruro sódico al día). El paciente presentó progresivo deterioro de la función renal en las analíticas consecutivas, con cifras de creatinina de hasta 2,6 mg/dl (FG 24 ml/min/1,73 m2). Ante este empeoramiento de la función renal, con tasas de filtrado glomerular por debajo de 30 ml/h, se decidió suspender el tratamiento con espironolactona.
+Como estrategia, dado que persistían diariamente los balances hídricos positivos con empeoramiento de datos congestivos (tercer tono, aumento de crepitantes, empeoramiento de edemas periféricos), se decidió la estrategia de combinación de diuréticos. Se suspendió la dosis en bolos de diurético de asa sustituyéndolo por perfusión intravenosa de furosemida y se añadió al tratamiento diuréticos tiazídicos (hidroclorotiazida) y diuréticos inhibidores de la anhidrasa carbónica (acetazolamida). Por el antecedente de ingreso prolongado reciente y datos de malnutrición proteica analítica se contactó con servicio de nutrición, iniciándose suplementos nutricionales ricos en proteínas.
+A las 12 horas de iniciar esta nueva estrategia de tratamiento, el paciente persistía con balances neutros. El paciente presentó deterioro clínico compatible con edema agudo de pulmón lo que obligó al ingreso en la unidad coronaria y soporte ventilatorio con ventilación mecánica no invasiva. Llegados a esta situación se plantearon distintas opciones terapéuticas. Se plantearon diversas opciones de tratamiento farmacológico, incluyendo aumentar la dosis de diuréticos tiazídicos, pautar perfusión de suero salino hipertónico junto con perfusión de diurético de asas e incluso se planteó una estrategia más invasiva contactando con el servicio de nefrología para programar sesiones de hemodiafiltración llegado el caso. El paciente se mostraba reacio a esta última opción por lo que se decidió esperar respuesta diurética en las siguientes horas añadiendo perfusión de suero salino hipertónico al tratamiento (perfusión de 100 ml de suero fisiológico al 0,9% con adición de 1 ampolla de ClNa al 20%).
+Finalmente, el paciente comenzó con un buen ritmo diurético, consiguiéndose balances hídricos negativos. A los pocos días la mejoría de los datos de congestión era evidente, con mejoría de la auscultación pulmonar y disminución de los edemas periféricos, auscultación cardiaca libre de tercer tono. Todo esto se acompañó de mejoría analítica de la función renal, hasta normalizar cifras de creatinina previas al ingreso. Toda esta buena evolución permitió finalmente el alta hospitalaria del paciente.
+
+DIAGNÓSTICO
+Descompensación de insuficiencia cardiaca.
+Probable transgresión dietética/toma de AINE.
+FEVI conservada.
+Prótesis mitral y aórtica biológicas normofuncionantes.
+Fibrilación auricular anticoagulada con acenocumarol.
+Deterioro de función renal en paciente con enfermedad renal crónica (ERC). Probable síndrome cardiorrenal.
+Anemia normocítica normocrómica.
+Síndrome de resistencia a diuréticos.

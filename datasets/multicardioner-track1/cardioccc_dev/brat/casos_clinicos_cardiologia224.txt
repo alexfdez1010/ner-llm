@@ -1,0 +1,40 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Factores de riesgo cardiovascular: hipertensión arterial, diabetes mellitus tipo 2, exfumador.
+Fibrilación auricular paroxística (CHA2DS2-VASc = 7) en tratamiento con acenocumarol. Enfermedad pulmonar obstructiva crónica (EPOC).
+Ictus en el año 2010, sin secuelas.
+Enfermedad renal crónica estadio 3a (secundaria a nefropatía diabética). Trombosis venosa profunda en miembros inferiores en el año 2006.
+Tratamiento habitual: insulina glargina 10 UI a la cena; atorvastatina 10 mg; acenocumarol 4 mg según pauta; bromuro de tiotropio 18 mcg 1-0-0; alogliptina/ metformina 12,5/1.000 mg 1-0-0; ranolazina 375 mg 1-0-1.
+
+Enfermedad actual
+Varón de 83 años en seguimiento en consultas de cardiología por angina estable. El paciente refiere que a pesar de ajuste de tratamiento médico, persiste con dolor precordial opresivo, irradiado a mandíbula y brazo izquierdo que se desencadena cuando sube más de dos pisos de escalera y que desaparece tras reposo de 5 minutos aproximadamente. No disnea, palpitaciones o síncope. En último ecocardiograma transtorácico se objetiva ventrículo izquierdo con fracción de eyección del 38%, aquinesia de segmentos inferior basal y medio con adelgazamiento de pared e imagen de cicatriz. Se deriva a nuestro hospital para realización de cateterismo.
+
+Exploración física
+Tensión arterial (TA) 150/95 mmHg. Frecuencia cardiaca (FC) 70 lpm. Saturación de oxígeno 98% con aire ambiente. Buen estado general. Consciente y orientado, eupneico, bien perfundido.
+
+Auscultación cardiaca: rítmica, sin soplos. Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos. Miembros inferiores: no edemas ni signos de trombosis venosa profunda (TVP), pulsos presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG) basal: ritmo sinusal con PR 280 ms, QRS 140 ms con bloqueo rama izquierda de haz de His (BRIHH) y alteraciones secundarias de la repolarización.
+Analítica: hemoglobina 12,4 g/dl. Leucocitos 8.700 μl N 82,3%. Plaquetas 163.000 μl. INR 1.1.
+Creatinina 1,85 mg/dl. Filtrado glomerular 45 ml/min/1,73 m. Sodio 140 mmol/l. Potasio 3,6 mmol/l. AST 377 UI/l. ALT 88 UI/l. Fosfatasa alcalina 48 UI/l. GGT 30 UI/l. Bilirrubina total 1,11 mg/dl. CK 1018 UI/l. Proteínas 5,3g/dl. HbA1c (NGSP) 7,9%. Colesterol total 100 mg/dl, HDL 26 mg/d, LDL 48 mg/dl, triglicéridos 133 mg/dl.
+Radiografía de tórax: ICT dentro de la normalidad, parénquima pulmonar sin alteraciones.
+Ecocardiograma al ingreso: ventrículo izquierdo con fracción de eyección del 38%, aquinesia de segmentos inferior basal y medio con adelgazamiento de pared e imagen de cicatriz. Hipocinesia de cara inferolateral.
+Coronariografía 1: enfermedad coronaria multivaso. Oclusión crónica de coronaria derecha (CD) media. Ateromatosis grave de descendente anterior (DA) proximal-media, intervención coronaria percutánea (ICP) e implante de dosstents farmacoactivos solapados. Ateromatosis grave de arteria circunfleja (Cx) proximal - primera obtusa marginal (OM1) tratada con implante de unstent farmacoactivo. Trombosis aguda delstent resuelta durante el procedimiento.
+Coronariografía 2: trombosis proximal delstent de Cx con nuevo implante de dos stents farmacoactivos.
+Ecocardiograma al alta: ventrículo izquierdo con fracción de eyección del 28%, aquinesia extensa inferoposterolateral, con hipoquinesia de cara anterior. Insuficiencia mitral isquémica de grado moderado-grave.
+
+EVOLUCIÓN CLÍNICA
+Cateterismo programado por angina y disfunción ventricular. Previo al procedimiento el paciente se encontraba en tratamiento con acenocumarol que suspendió 48 horas antes del ingreso y se administró carga de ácido acetilsalicílico de 250 mg sin añadir un inhibidor de P2Y12, a la espera de confirmar la necesidad de revascularización coronaria percutánea. En la coronariografía se objetiva lesión grave en DA proximal, lesión moderada-grave en Cx-OM1 y oclusión crónica de CD, con escasa probabilidad de viabilidad en su territorio. Se administran 600 mg de clopidogrel y se realiza revascularización de DA y Cx. Presenta IAM periprocedimiento por trombosis hiperaguda de stent de Cx y se inicia tratamiento con cangrelor i.v.
+Ingresa en la unidad coronaria, presentando insuficiencia cardiaca aguda, en edema agudo de pulmón con hipotensión arterial, que precisa oxigenoterapia con gafas de alto flujo, perfusión de furosemida y noradrenalina a dosis bajas. Además se objetiva deterioro de función renal con componente prerrenal y en relación con nefropatía por contraste.
+Tras 48 horas de ingreso presenta episodio de taquicardia ventricular monomorfa sostenida (TVMS) autolimitada seguida de varias rachas de taquicardia ventricular no sostenida (TVNS) con descenso del ST en V3 a V6. Ante estos hallazgos se repite coronariografía diagnóstica que presenta trombosis de stent de Cx, que se revasculariza, pautándose nueva perfusión de cangrelor y cambiando terapia antiagregante de clopidogrel a ticagrelor. Posteriormente es trasladado a planta de hospitalización donde presenta buena evolución clínica, sin nuevos episodios de arritmias, con mejoría de la función renal (FGR 48 ml/min).
+Es dado de alta con triple terapia antitrombótica con rivaroxabán 10 mg al día, adiro 100 mg al día y ticagrelor 90 mg cada 12 horas durante 1 mes; para continuar con doble terapia con rivaroxán 10 mg y ticagrelor 90 mg durante 6 meses y posteriormente solo con rivaroxabán 15 mg al día si el FGR se mantiene por debajo de 50 ml/min.
+
+DIAGNÓSTICO
+Cardiopatía isquémica, angor de esfuerzo estable clase II CCS con disfunción sistólica de VI moderada.
+Fibrilación auricular paroxística.
+Cateterismo cardiaco electivo:
+Enfermedad coronaria de de tres vasos. Revascularización percutánea de DA y Cx. IAM periprocedimiento por trombosis hiperaguda de stent en Cx. Edema agudo de pulmón resuelto.
+TVMS en contexto de nueva trombosis subaguda de stent de Cx. Disfunción sistólica de VI grave.
+Insuficiencia renal crónica agudizada.

@@ -1,0 +1,29 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 68 años, remitida a consulta externa de cardiología por hallazgo de masa cardiaca en tomografía axial computarizada (TAC).
+
+Antecedentes
+Sin factores de riesgo cardiovasculares conocidos. Independiente para las actividades básicas de la vida diaria. Neoplasia renal izquierda (carcinoma de células claras con diferenciación sarcomatoide el 80%, PT3A) con nefrectomía izquierda en 2013 y reintervención por eventración secundaria en 2017. Bocio multinodular normofuncionante, en seguimiento evolutivo.
+Sin otros antecedentes de interés y sin tratamiento farmacológico habitual.
+
+Enfermedad actual
+Paciente previamente asintomática cardiovascular, presenta dolor en hemitórax izquierdo (EVA 4), de características pleuríticas, no desencadenado con esfuerzo, de duración prolongada y que aparece esporádicamente en reposo. En la TAC de control de neoplasia renal intervenida, se detecta masa dependiente de ventrículo izquierdo, con crecimiento progresivo, por lo que se remite a cardiología.
+
+Exploración física
+Tensión arterial 120/80 mmHg. Frecuencia cardiaca 70 lpm. Eupneica en reposo. Presión venosa yugular normal. Auscultación cardiaca rítmica, con soplo protomesosistólico II/VI en foco aórtico con secundo ruido conservado, auscultación pulmonar con murmullo vesicular conservado, sin ruidos patológicos sobreañadidos. Exploración abdominal sin hallazgos significativos. No edema en extremidades inferiores, con pulsos periféricos conservados y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma: ritmo sinusal a 85 lpm, PR 160ms, QRS 100ms, eje cardiaco -15o con HBAI, onda Q septal no patológica, T negativa aislada en V1 sin otras alteraciones.
+Análisis: leucocitos 6.600/μl, hemoglobina 14,2 g/dl, plaquetas 190.000/μl, glucosa 93 mg/dl, urea 53 mg/dl, creatinina 0,91 mg/dl, MDRD-IDMS: > 60 ml/min, AST 16 UI/l, ALT 14UI/l, GGT 16UI/l, Na 141 mmol/l, K 4,4 mmol/l.
+Radiografía de tórax: índice cardiotorácico normal. No ensanchamiento mediastínico. No datos de insuficiencia cardiaca.
+Ecocardiograma: ventrículo izquierdo de tamaño normal con fracción de eyección conservada, sin anomalías segmentarias de la contractilidad. Ventrículo derecho de tamaño y función normal. Disfunción diastólica grado I. Regurgitación mitral ligera. Gran masa de ecogenicidad irregular, paracardiaca, en la zona posterior y lateral del ventrículo izquierdo, que no compromete la función ventricular.
+TAC tóraco-abdominal con contraste: masa sólida con atenuación heterogénea y unos diámetros máximos estimados de 6,3 x 5,5 x 3,8 cm (ejes craneocaudal, AP y transverso respectivamente), dependiente de la pared lateral y basal del ventrículo izquierdo, que impronta y deforma levemente la pared lateral de la aurícula izquierda. Se observa un engrosamiento asimétrico de la pared del ventrículo izquierdo coincidiendo con la localización de la lesión actual.
+Resonancia magnética cardiaca: gran masa en zona lateral de ventrículo izquierdo y surco auriculoventricular (6,4 x 5,2 cm de diámetros máximos), que afecta al espesor completo de la pared y con efecto masa sobre cara lateral de aurícula izquierda. Contorno bien definido, con infiltración miocárdica y pericárdica.
+Es de señal isointensa en potenciación T1, tenuemente hiperintensa en T2 y marcadamente hiperintensa en STIR, con evidencia de intensa vascularización en imágenes de primer paso tras la administración de gadolinio intravenoso. Realce tardío heterogéneo, de predominio central, a modo de anillo rodeando el área necrótica.
+Anatomía patológica: los fragmentos endomiocárdicos presentan áreas de infiltración por un tumor con patrón de crecimiento en nidos sólidos o cordones irregulares, con densa respuesta inflamatoria, y constituido por células de núcleo redondeado o lobulado con moderada anisocariosis, y citoplasmas clatos o acidófilos. Focalmente el tumor adopta un patrón y una morfología rabdoide. El estudio inmunohistoquímico muestra, en células neoplásicas, expresión de CK AE1-AE3, vimentina y CD10. Diagnóstico: fragmentos endomiocárdicos con metástasis de carcinoma de células renales (patrón histopatológico sarcomatoide, similar al descrito en la biopsia previa de la paciente).
+
+EVOLUCIÓN CLÍNICA
+Se decide ampliar estudio con resonancia magnética (RM) para mejor filiación de la masa cardiaca, con los resultados descritos previamente. Ante los hallazgos encontrados en la RM y los antecedentes clínicos de la paciente se sospecha como primera opción implante metastásico, realizándose biopsia endomiocárdica resultando compatible con metástasis de carcinoma de células renales.
+Posteriormente, se deriva a consultas externas de oncología que inician tratamiento con sunitinib 50 mg cada 24 horas, esquema 2/1, presentando crecimiento de masa cardiaca y aumento del derrame pericárdico tras 5 meses de tratamiento, por lo que se decide iniciar inmunoterapia con nivolumab, consiguiendo respuesta tumoral completa, con regresión de la masa tumoral cardiaca, sin evidencia de progresión en la actualidad.
+
+DIAGNÓSTICO
+Masa paracardiaca con infiltración pericárdica e intramural, compatible con metástasis de carcinoma renal.

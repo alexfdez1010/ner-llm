@@ -1,0 +1,53 @@
+T59	ENFERMEDAD 70 93	alergias medicamentosas
+T60	ENFERMEDAD 99 114	hábitos tóxicos
+T61	ENFERMEDAD 151 172	Hipertensión arterial
+T62	ENFERMEDAD 174 184	Dislipemia
+T63	ENFERMEDAD 243 272	Cardiopatía isquémica crónica
+T64	ENFERMEDAD 293 311	angina de esfuerzo
+T65	ENFERMEDAD 444 460	angina inestable
+T66	ENFERMEDAD 635 652	Espondiloartrosis
+T67	ENFERMEDAD 654 673	Síndrome prostático
+T68	ENFERMEDAD 675 695	Hipoacusia bilateral
+T69	ENFERMEDAD 725 758	Fractura pertrocantérea de cadera
+T71	ENFERMEDAD 1512 1538	lesiones isquémicas agudas
+T72	ENFERMEDAD 1555 1576	oclusión de gran vaso
+T73	ENFERMEDAD 2300 2317	lesiones cutáneas
+T74	ENFERMEDAD 3121 3146	trombosis venosa profunda
+T75	ENFERMEDAD 3193 3212	bradicardia sinusal
+T76	ENFERMEDAD 4529 4551	Insuficiencia pulmonar
+T77	ENFERMEDAD 4634 4653	derrame pericárdico
+T78	ENFERMEDAD 5139 5157	obstrucción mitral
+T79	ENFERMEDAD 6792 6802	tabaquismo
+T80	ENFERMEDAD 7122 7164	cicatrices corticales post-pielonefríticas
+T81	ENFERMEDAD 7167 7200	quistes parapiélicos y corticales
+T82	ENFERMEDAD 7322 7353	Hipertrofia prostática moderada
+T83	ENFERMEDAD 7459 7492	Moderada ateromatosis aortoilíaca
+T84	ENFERMEDAD 7509 7533	adenomegalias inguinales
+T85	ENFERMEDAD 7554 7566	Osteoporosis
+T86	ENFERMEDAD 7662 7679	Fractura de fémur
+T87	ENFERMEDAD 7900 7924	diseminación metastásica
+T88	ENFERMEDAD 8330 8336	mixoma
+T89	ENFERMEDAD 8456 8481	origen embólico del ictus
+T90	ENFERMEDAD 8932 8938	mixoma
+T91	ENFERMEDAD 9216 9223	sarcoma
+T92	ENFERMEDAD 9334 9358	diseminación metastásica
+T93	ENFERMEDAD 9510 9530	enfermedad coronaria
+T94	ENFERMEDAD 10302 10308	mixoma
+T95	ENFERMEDAD 10438 10469	hemiparesia de miembro inferior
+T96	ENFERMEDAD 10579 10641	Ictus isquémico en arteria coroidea derecha de origen embólico
+T97	ENFERMEDAD 10643 10717	Mixoma auricular pediculado de implantación en techo de aurícula izquierda
+T98	ENFERMEDAD 10742 10768	mixoma auricular izquierdo
+T99	ENFERMEDAD 10827 10898	Síndrome coronario crónico estable con enfermedad de dos vasos (Cx y DA
+T100	ENFERMEDAD 11011 11026	ictus isquémico
+T101	ENFERMEDAD 5388 5395	trombos
+T102	ENFERMEDAD 9759 9815	aurícula izquierda con la base de implantación del tumor
+T103	ENFERMEDAD 10260 10265	tumor
+T104	ENFERMEDAD 210 213	FAP
+T105	ENFERMEDAD 5440 5494	Aorta torácica descendente con alguna placa de ateroma
+T38	ENFERMEDAD 6691 6704	adenomegalias
+T70	ENFERMEDAD 6374 6442	calcio coronario en el recorrido proximal de las arterias coronarias
+T157	ENFERMEDAD 6956 6960	LOEs
+T180	ENFERMEDAD 3839 3852	infarto focal
+T186	ENFERMEDAD 4825 4844	líquido pericárdico
+T49	ENFERMEDAD 1852 1955	infarto establecido con nueva aparición de área focal hipodensa en lenticular y corona radiada derechas
+T160	ENFERMEDAD 6505 6586	ateromatosis de predominio cálcico en el cayado y origen de troncos supraaórticos

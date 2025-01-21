@@ -1,0 +1,31 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+Paciente mujer de 47 años con el único antecedente de ser fumadora activa de 10 cigarros/día (IPA 9) y con antecedentes familiares de distrofia miotónica (DM) tipo I (enfermedad de Steinert) en su hermano y muerte de su padre sin una etiología clara. Hermano menor de 37 años con diagnóstico de DM tipo I; un hijo mayor fallecido a los 17 años, con el mismo diagnóstico y con trastorno del espectro autista; y una hija de 25 años diagnosticada DM tipo 1 que presentó hemorragia cerebral al nacimiento y en investigación por QT largo.
+
+ENFERMEDAD ACTUAL:
+Derivada desde neurología con diagnóstico de DM tipo I a la consulta de cardiopatías familiares para valoración. Refiere astenia y fatiga muscular con esfuerzos ligeramente menores a los habituales desde hace 2 meses. La paciente se encuentra en situación funcional I de la New York Heart Association (NYHA) y asintomática por lo demás desde el punto de vista cardiovascular.
+
+EXPLORACIÓN FÍSICA:
+Constantes vitales normales. Auscultación cardiopulmonar normal. A la exploración neurológica presenta leve ptosis bilateral, debilidad facial leve a pesar de cierre ocular completo, hiporreflexia generalizada, paresia 4/5 y rodete miotónico. Resto de la exploración anodina.
+
+PRUEBAS COMPLEMENTARIAS
+ECOCARDIOGRAMA TT: ventrículo izquierdo (VI) no dilatado con espesores parietales normales, fracción de eyección de ventrículo izquierdo (FEVI) del 60-65%, sin alteraciones de la contractilidad segmentaria, movimiento anómalo del septo en relación con trastorno de la conducción, patrón de llenado transmitral normal, ventrículo derecho no dilatado normocrontráctil, aurículas no dilatadas. Válvulas aórtica, mitral, tricúspide y pulmonar morfológica y funcionalmente normales. No signos de hipertensión pulmonar. No derrame pericárdico. Vena cava inferior no dilatada y con colapso mayor del 50%. Aorta no dilatada y sin aceleración del flujo.
+ECG: ritmo sinusal a 50 latidos por minuto, PR 220 milisegundos, eje a -30 o, QRS 130 milisegundos con imagen de trastorno de conducción por rama izquierda, T invertida de V1 a V3, QTc 445 milisegundos.
+HOLTER: ritmo sinusal durante todo el registro. Frecuencia cardiaca promedio de 61 lpm. No arritmias ventriculares ni supraventriculares. QTc 31% (470-490 mseg), 5% (490-510 mseg).
+ANÁLITICA: bioquímica, hemograma y coagulación sin hallazgos.
+ESTUDIO GENÉTICO: negativo para QT largo. MYBPC3 p.Arg726Cys, variante rara posiblemente asociada con miocardiopatía hipertrófica aunque con reportes de familias con segundas mutaciones y encontrada en la población general (baja frecuencia).
+
+EVOLUCIÓN CLÍNICA
+En resumen, nos encontramos ante una paciente de 47 años diagnosticada de DM tipo I con antecedentes familiares de muerte súbita. Además, presenta un trastorno de conducción con QRS ancho, bloqueo auriculoventricular (BAV) de primer grado y en el Holter presenta un QT límite. A pesar de que el trastorno de conducción puede influir en la duración del intervalo QT, existe un pequeño porcentaje sobre los 490 milisegundos.
+Se solicita estudio de conducción y test de epinefrina.
+Test de epinefrina positivo (protocolo de Shimizu): tras el bolo se produce prolongación patológica del QTc hasta los 566 milisegundos. A lo largo de la infusión el QT absoluto disminuye lentamente hasta valores basales.
+Estudio electrofisiológico: se sitúan catéteres cuadripolares diagnósticos en aurícula derecha, His y ápex de ventrículo derecho. Intervalos basales anormales (HV 78 milisegundos). Basalmente pobre conducción AV con punto de Wenckebach a 78 lpm, concéntrica y decremental. Ausencia de conducción V-A.
+Debido al resultados de las pruebas previas se decide implante de desfibrilador automático implantable (DAI) bicameral previa realización de resonancia magnética (RM) cardiaca para completar el estudio. Tras el implante del DAI se inicia tratamiento con 1,25 mg de bisoprolol cada 24 horas. En la RM cardiaca se objetiva VI levemente dilatado pero no hipertrófico, con función sistólica conservada (FEVI 55%) y sin realce tardío intramiocárdico ni otras alteraciones de interés.
+Desde el punto de vista de familiares se realiza un panel de QT largo que resulta negativo.
+
+DIAGNÓSTICO
+Distrofia miotónica tipo 1 (enfermedad de Steinert). Ausencia de cardiopatía estructural significativa en ecocardiograma TT y en RM cardiaca.
+Síndrome QT largo probablemente asociada a DM.
+Antecedente en primer grado de muerte súbita probablemente arrítmica.
+Trastorno significativo de la conducción nodal y del sistema His-Purkinje con implante de DAI bicameral.

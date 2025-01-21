@@ -1,0 +1,8 @@
+T1	ENFERMEDAD 21 25	GCCA
+T7	ENFERMEDAD 419 443	desprendimiento coroideo
+T8	ENFERMEDAD 445 481	desprendimiento ciliocoroideo anular
+T9	ENFERMEDAD 484 499	bloqueo pupilar
+T10	ENFERMEDAD 520 536	glaucoma maligno
+T2	ENFERMEDAD 275 323	atalamia con contacto iridoendotelial periférico
+T3	ENFERMEDAD 394 417	atalamia con hipertonía
+#1	AnnotatorNotes T1	   GCCA: GLAUCOMA CRÓNICO POR CIERRE ANGULAR

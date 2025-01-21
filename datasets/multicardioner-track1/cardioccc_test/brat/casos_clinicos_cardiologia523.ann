@@ -1,0 +1,66 @@
+T21	ENFERMEDAD 3628 3676	dilatación ligera (25 cm2) de aurícula izquierda
+T23	ENFERMEDAD 4358 4455	Válvula mitral en paracaídas con engrosamiento difuso de ambos velos y prolapso del velo anterior
+T24	ENFERMEDAD 4726 4783	Aorta torácica descendente con estrechamiento postístmico
+T27	ENFERMEDAD 5697 5734	hipertrofia de arterias intercostales
+T54	ENFERMEDAD 5799 5829	Aneurismas de arterias renales
+T71	ENFERMEDAD 7896 7915	bloqueo AV completo
+T79	ENFERMEDAD 9695 9722	Aneurismas arterias renales
+T80	ENFERMEDAD 71 80	exfumador
+T81	ENFERMEDAD 102 123	hipertensión arterial
+T82	ENFERMEDAD 345 358	cardiomegalia
+T83	ENFERMEDAD 413 432	crisis hipertensiva
+T84	ENFERMEDAD 524 578	hipertrofia severa concéntrica de ventrículo izquierdo
+T87	ENFERMEDAD 1418 1448	hipertensión arterial pulmonar
+T88	ENFERMEDAD 1832 1894	estenosis distal a la salida de la arteria subclavia izquierda
+T89	ENFERMEDAD 2132 2160	síndrome de Shone incompleto
+T90	ENFERMEDAD 2192 2217	válvula aórtica bicúspide
+T91	ENFERMEDAD 2531 2537	angina
+T92	ENFERMEDAD 2857 2866	hematomas
+T93	ENFERMEDAD 3908 3929	insuficiencia aórtica
+T94	ENFERMEDAD 3945 3999	Hipertrofia concéntrica severa de ventrículo izquierdo
+T95	ENFERMEDAD 4229 4302	obstrucción severa al flujo del tracto de salida del ventrículo izquierdo
+T96	ENFERMEDAD 4476 4503	insuficiencia mitral severa
+T97	ENFERMEDAD 5117 5163	Estenosis severa proximal de coronaria derecha
+T98	ENFERMEDAD 5875 5896	calcio y trombo mural
+T99	ENFERMEDAD 5898 5933	Quistes renales simples bilaterales
+T100	ENFERMEDAD 5935 5972	Calcificaciones en la válvula aórtica
+T101	ENFERMEDAD 6010 6029	hipertensión severa
+T102	ENFERMEDAD 6777 6805	hipertensión arterial severa
+T103	ENFERMEDAD 6988 7009	cardiopatía isquémica
+T104	ENFERMEDAD 7054 7060	angina
+T105	ENFERMEDAD 7142 7163	cardiopatía congénita
+T106	ENFERMEDAD 7222 7277	obstrucción al tracto de salida de ventrículo izquierdo
+T107	ENFERMEDAD 7943 7964	fibrilación auricular
+T108	ENFERMEDAD 7976 7999	bloqueo de rama derecha
+T109	ENFERMEDAD 8076 8098	infarto perioperatorio
+T110	ENFERMEDAD 8988 9009	Cardiopatía congénita
+T112	ENFERMEDAD 9077 9105	síndrome de Shone incompleto
+T116	ENFERMEDAD 9279 9317	estenosis subvalvular aórtica moderada
+T117	ENFERMEDAD 9366 9401	estenosis valvular aórtica moderada
+T118	ENFERMEDAD 9452 9487	obstrucción severa al flujo aórtico
+T119	ENFERMEDAD 9489 9555	Arteria subclavia derecha aberrante con origen en aorta postductal
+T120	ENFERMEDAD 9557 9589	Hipertensión arterial secundaria
+T121	ENFERMEDAD 9613 9642	Enfermedad arterial coronaria
+T122	ENFERMEDAD 9647 9693	estenosis severa de coronaria derecha proximal
+T2	ENFERMEDAD 670 713	válvula mitral es congénitamente defectuosa
+T3	ENFERMEDAD 983 1011	válvula aórtica es bicúspide
+T5	ENFERMEDAD 1994 2029	arteria subclavia derecha aberrante
+T85	ENFERMEDAD 1808 1827	coartación de aorta
+T86	ENFERMEDAD 2162 2190	válvula mitral en paracaídas
+T123	ENFERMEDAD 2219 2237	coartación aórtica
+T125	ENFERMEDAD 3678 3760	Válvula aórtica bicúspide, con engrosamiento de ambos velos y ligera calcificación
+T25	ENFERMEDAD 5165 5200	Arteria subclavia derecha aberrante
+T126	ENFERMEDAD 5534 5569	arteria subclavia derecha aberrante
+T68	ENFERMEDAD 9144 9258	Válvula mitral en paracaídas con prolapso de velo anterior y doble lesión: estenosis ligera e insuficiencia severa
+T69	ENFERMEDAD 9319 9364	Válvula aórtica bicúspide tipo 1 de Schaeffer
+T136	ENFERMEDAD 1542 1560	coartación aórtica
+T22	ENFERMEDAD 4066 4135	tracto de salida de ventrículo izquierdo se observa un rodete fibroso
+T139	ENFERMEDAD 4194 4211	rodete subaórtico
+T140	ENFERMEDAD 5369 5387	coartación aórtica
+T141	ENFERMEDAD 5754 5787	hipertrofia de la arteria mamaria
+T142	ENFERMEDAD 6376 6398	coartación de la aorta
+T147	ENFERMEDAD 7351 7361	coartación
+T148	ENFERMEDAD 7807 7824	rodete subaórtico
+T63	ENFERMEDAD 8787 8797	coartación
+T73	ENFERMEDAD 9260 9277	Rodete subaórtico
+T111	ENFERMEDAD 9403 9447	Coartación aórtica yuxtaductal (tipo adulto)

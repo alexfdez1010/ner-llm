@@ -1,0 +1,30 @@
+Antecedentes
+Varón de 37 años de origen sudamericano que residía en España desde hacía 5 años. Sin alergias medicamentosas. Vida activa. Sin factores de riesgo cardiovascular. Sin hábitos tóxicos. No tenía historia familiar de miocardiopatía u otras enfermedades hereditarias. Sin antecedentes médico-quirúrgicos relevantes.
+
+Enfermedad actual
+El paciente acude a consulta de Cardiología remitido por el médico de su empresa tras objetivar en reconocimiento médico rutinario realizado alteraciones electrocardiográficas llamativas. Refiere únicamente episodios esporádicos de palpitaciones regulares de corta duración (2-3 minutos) sin relación con el esfuerzo que ceden de forma espontánea, con una frecuencia semanal. Niega dolor torácico o disnea. No ha presentado síncopes.
+
+Exploración física
+Buen estado general.
+TA: 110/60 mmHg.
+FC: 60 lpm.
+Auscultación cardiaca: rítmica, desdoblamiento fijo del segundo ruido. Sin soplos ni extratonos. 
+Auscultación pulmonar: murmullo vesicular conservado sin estertores.
+Abdomen: blando y depresible, no doloroso a la palpación sin masas ni organomegalias.
+Miembros inferiores: sin edemas. Pulsos pedios simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal a 60 lpm, bloqueo auriculoventricular de primer grado (PR 210 ms), bloqueo completo de rama derecha del haz de His y hemibloqueo anterior izquierdo, ascenso convexo del segmento ST e inversión de la onda T en precordiales.
+Holter de 24 horas: no se detectan arritmias supra ni ventriculares. Sin evidencia de bloqueo auriculoventricular avanzado. Analítica: glucosa 98 mg/dL, urea 32 mg/dL, creatinina 0,86 mg/dL (CrCl 110 ml/ min/1,73 m2 –CKD-EPI), sodio 143 mEq/L, potasio 4 mEq/L, NT-proBNP 102 pg/ml, CK 387 ng/ml, CK-MB 9,8 ng/ml, TnT 0,01, hemoglobina 14 g/dL, hematocrito 45%, VCM 85 fL, leucocitos 7980 /mm3, plaquetas 270000 /mm3, INR: 0,9.
+Radiografía de tórax: índice cardiotorácico normal, sin infiltrados pulmonares, senos costofrénicos libres, mediastino normal. 
+Ecocardiografía transtorácica: VI levemente dilatado (DTDVI indexado por SC de 3,3 cm/m2) con grosor parietal normal. Sin alteraciones de la contractilidad segmentaria. FEVI 52%. Patrón doppler de llenado transmitral de alteración de la relajación. VD de dimensiones normales con función sistólica por parámetros longitudinales en el límite inferior de la normalidad. Resonancia magnética cardiaca: mínima dilatación de ambos ventrículos (VTDVI 181/VTSVI 96 ml) con función sistólica biventricular ligeramente deprimida (FEVI 50%). En la secuencia de realce tardío se evidencian múltiples focos de realce transmural de distribución parcheada de predomino septal, basal de cara lateral y apical sugestivos de fibrosis.
+
+EVOLUCIÓN
+Teniendo en cuenta que el paciente procedía de un área endémica de enfermedad de Chagas, se realizaron pruebas serológicas para detectar anticuerpos circulantes contra Trypanosoma cruzi: ambas resultaron positivas (ELISA 8 e inmunofluorescencia >1/160), lo que confirmó el diagnóstico de infección crónica por dicho parásito. También se realizaron tránsito baritado esófagogástrico y radiografía de abdomen que descartaron afectación gastrointestinal.
+El paciente se diagnosticó de miocardiopatía chagásica crónica (MCC) en base a los resultados de la serología, ECG, ecocardiograma transtorácico y RM cardiaca; y se indicó tratamiento con benznidazol 100 mg/8h durante dos meses que se completó con buena tolerancia al mismo.
+Diez meses después del diagnóstico, el paciente presentó una muerte súbita jugando al tenis.
+Fue atendido por los servicios de Urgencias que detectaron como primer ritmo a su llegada asistolia. Las maniobras de RCP avanzada practicadas no fueron exitosas y el paciente finalmente falleció. Debido a que la muerte se produjo en medio extrahospitalario, se practicó una autopsia forense. El examen macroscópico y microscópico del corazón confirmó la afectación característica de la MCC.
+
+DIAGNÓSTICO
+Miocardiopatía chagásica crónica. Dilatación y disfunción sistólica ligera biventricular con fibrosis parcheada transmural en VI.
+Muerte súbita cardiaca.

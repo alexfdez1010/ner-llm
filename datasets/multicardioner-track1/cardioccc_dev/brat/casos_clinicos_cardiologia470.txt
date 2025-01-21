@@ -1,0 +1,37 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón 53 años que ingresa en la Unidad de Cuidados Intensivos Cardiológicos (UCIC) tras ser recuperado de una parada cardiorrespiratoria en la vía pública.
+
+Antecedentes personales
+Hipertensión arterial en tratamiento con enalapril 20 mg.
+Diabetes mellitus tipo 2 en tratamiento con metformina.
+Hiperuricemia con varios eposidos de artritis gotosa. En tratamiento con alopurinol.
+
+Enfermedad actual
+Los testigos refieren que, mientras trabaja (cocinero) y sin referir sintomatología previa, presenta desvanecimiento con pérdida del nivel de conciencia. Tras la aproximación inicial por los testigos se contacta con 112, se detecta la ausencia de respiración ni signos de vida y se inician maniobras de reanimación cardiopulmonar básica. A los 7 minutos, tras la llegada del Soporte Vital Básico (112) se detecta mediante DESA ritmo desfibrilable. Se aplican hasta 4 descargas con los correspondientes ciclos de 30:2 junto con 2 bolos de adrenalina y 300 mg de amiodarona.
+Tras la cuarta descarga el paciente recupera ritmo sinusal a 92 lpm y se traslada a la UCIC sedoanalgesiado, intubado y conectado a ventilación mecánica.
+
+Exploración física
+Sedoanalgesiado. RASS -4. Pupilas isocóricas, mióticas y reactivas. TA 95/45; FC 125 lpm; Saturación periférica de O2 100 % con FiO2 del 100 %.
+Ruidos cardiacos rítmicos, taquicárdicos sin soplos. Murmullo vesicular conservado bilateralmente.
+Abdomen ligeramente distendido y timpánico. Ruidos intestinales presentes.
+Miembros inferiores sin edemas y con pulsos bilaterales presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica: hemoglobina 14,5 gr/dl; leucocitos 12.900 (36 % N); plaquetas 191.000; actividad de protombina 100 %; creatinina 1,2 mg/dl; FG (MDRD-4) 67 ml/min; glucosa 293 mg/dl; BUN 17 U/L; sodio 142 mee/l; potasio 3,9 meq/l; GOT 197 U/l; GPT 159 U/L; troponina I 0,045 ng/ml; NT-proBNP 636 pg/ml; PCR < 5 mg/l. Pico de troponina I: 3 ng/ml.
+Tóxicos en orina: cocaína, anfetaminas, cannabis negativo.
+Radiografía de tórax: ligero aumento del índice cardiotorácico. Sin imágenes de infiltrados. Tubo endotraqueal centrado y normoposicionado.
+Equilibrio A-B a la llegada: pH 7,34; pO2 427; pCO2 48; HCO3 25.9; láctico 7,6 mmol/l.
+Ecocardiografía transtorácica: ventrículo izquierdo ligeramente hipertrófico con alteraciones segmentarias de la contractilidad. Función sistólica ventricular izquierda moderadamente reducida. Relajación prolongada del ventrículo izquierdo (E/é 9). Ausencia de valvulopatías. Ventrículo derecho de tamaño normal con función sistólica normal.
+TC cráneo: sin alteraciones significativas en la densidad del parénquima cerebral.
+Sistema ventricular de tamaño y morfología normal, sin desplazamientos con respecto a la línea media. No se objetivan signos de sangrado intracraneal.
+Cardiorresonancia magnética: ventrículo izquierdo no dilatado con disfunción ventricular izquierda moderada. Realce intramiocárdico parcheado intramiocárdico en cara anterior y posterior medio-apical. Hallazgos compatibles con miocarditis aguda.
+
+EVOLUCIÓN
+El paciente ingresa en la UCIC y se canaliza acceso venoso femoral para realización de hipotermia inducida durante las primeras 24 horas a 33°C. Se mantiene sedoanalgesiado y relajado, con tendencia a la bradicardia y la hipotensión arterial. Se corrige medio interno consiguiendo normalizar lactacidemia y pH.
+Tras cumplir las 24 horas de hipotermia se comienza recalentamiento progresivo, retirada de la relajación y suspensión gradual de la sedación. A las 72 h de ingreso presenta movimientos anormales, como tiritonas, coincidiendo con aumento de la temperatura (38°C), motivo por el que se solicita EEG, el cual descarta la presencia de status convulsivo. Se intensifica la terapia antibiótica (ceftriaxona + clindamicina) tras objetivar infiltrado basal derecho en la radiología, probablemente en relación con aspiración en la intubación. Se consigue progresar en el weaning hasta la extubación el 5o día. El TC cráneo tras la extubación no mostraba alteraciones de interés.
+En la monitorización en la UCIC se detectó la presencia de extrasistolia ventricular sin arritmias sostenidas. El estudio angiográfico coronario mostró unas arterias coronarias libres de lesiones obstructivas significativas. Una vez en planta de hospitalización se mantiene realizando rehabilitación asintomático. La cardiorresonancia magnética mostró captación parcheada intramiocárdica compatible con miocarditis y la función ventricular izquierda se encontraba moderadamente deprimida (38 %). A las dos semanas de ingreso se le implanta DAI unicameral, sin incidencias, para prevención secundaria de muerte súbita secundaria a miocardiopatía por miocarditis.
+
+DIAGNÓSTICO
+Parada cardiorrespiratoria recuperada.
+Neumonía aspirativa.
+Miocardiopatía secundaria a miocarditis.

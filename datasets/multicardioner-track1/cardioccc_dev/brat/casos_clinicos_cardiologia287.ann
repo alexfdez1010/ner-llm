@@ -1,0 +1,77 @@
+T59	ENFERMEDAD 146 168	Alérgico a penicilinas
+T60	ENFERMEDAD 223 232	exfumador
+T61	ENFERMEDAD 297 318	hipertensión arterial
+T62	ENFERMEDAD 320 323	HTA
+T63	ENFERMEDAD 326 377	Enfermedad pulmonar obstructiva crónica (EPOC) leve
+T64	ENFERMEDAD 367 371	EPOC
+T65	ENFERMEDAD 508 526	Bocio multinodular
+T66	ENFERMEDAD 552 593	Fibrilación/flutter auricular paroxístico
+T67	ENFERMEDAD 646 659	shock séptico
+T68	ENFERMEDAD 830 842	úlcera sacra
+T69	ENFERMEDAD 886 901	angor inestable
+T70	ENFERMEDAD 1044 1052	isquemia
+T71	ENFERMEDAD 1113 1167	síndrome coronario agudo sin elevación del segmento ST
+T72	ENFERMEDAD 1169 1176	SCASEST
+T73	ENFERMEDAD 1225 1257	lesión de tronco común izquierdo
+T74	ENFERMEDAD 1528 1556	dilatación leve raíz aórtica
+T75	ENFERMEDAD 1558 1592	insuficiencia mitral leve-moderada
+T76	ENFERMEDAD 1671 1708	Enfermedad de reflujo gastroesofágico
+T77	ENFERMEDAD 1710 1714	ERGE
+T78	ENFERMEDAD 1720 1730	esofagitis
+T79	ENFERMEDAD 1757 1765	Acalasia
+T80	ENFERMEDAD 1861 1901	infección respiratoria por P. aeruginosa
+T81	ENFERMEDAD 1903 1940	infección de escara sacra por E. coli
+T82	ENFERMEDAD 1962 1985	colecistitis alitiásica
+T83	ENFERMEDAD 1987 2025	Diverticulosis de colon con hemorragia
+T84	ENFERMEDAD 2059 2079	anemias ferropénicas
+T85	ENFERMEDAD 2089 2106	gastritis crónica
+T86	ENFERMEDAD 2138 2178	Pólipo pediculado a 30 cm de margen anal
+T87	ENFERMEDAD 2230 2242	divertículos
+T88	ENFERMEDAD 2285 2327	Angiodisplasia de intestino con hemorragia
+T89	ENFERMEDAD 2937 2944	melenas
+T90	ENFERMEDAD 3227 3259	lesión en tronco común izquierdo
+T91	ENFERMEDAD 3323 3366	disfunción moderada de ventrículo izquierdo
+T92	ENFERMEDAD 4193 4232	trombosis venosa en miembros inferiores
+T93	ENFERMEDAD 4463 4484	fibrilación auricular
+T94	ENFERMEDAD 4606 4623	flutter auricular
+T95	ENFERMEDAD 4786 4801	derrame pleural
+T96	ENFERMEDAD 5679 5691	úlcera sacra
+T97	ENFERMEDAD 5824 5827	HVI
+T98	ENFERMEDAD 6511 6554	Insuficiencia tricúspide (IT) leve-moderada
+T99	ENFERMEDAD 6694 6713	derrame pericárdico
+T100	ENFERMEDAD 6769 6782	valvulopatías
+T101	ENFERMEDAD 6822 6843	hipertensión pulmonar
+T102	ENFERMEDAD 6897 6923	tronco común con estenosis
+T103	ENFERMEDAD 7256 7323	Coronaria derecha dominante anatómicamente, difusamente ateromatosa
+T104	ENFERMEDAD 7850 7876	Angiodisplasia en estómago
+T105	ENFERMEDAD 7907 7934	Pólipo milimétrico en ciego
+T106	ENFERMEDAD 8973 9003	fibrilación flyutter auricular
+T107	ENFERMEDAD 9269 9282	valvulopatías
+T108	ENFERMEDAD 9289 9310	hipertensión pulmonar
+T109	ENFERMEDAD 9958 9966	COVID-19
+T110	ENFERMEDAD 10087 10119	úlcera por presión en zona sacra
+T111	ENFERMEDAD 10491 10502	anemización
+T112	ENFERMEDAD 10702 10709	melenas
+T113	ENFERMEDAD 11107 11109	FA
+T114	ENFERMEDAD 11413 11451	Angiodisplasias en estómago y en ciego
+T115	ENFERMEDAD 12306 12313	SCASEST
+T116	ENFERMEDAD 12325 12407	Enfermedad arterial coronaria grave de tronco coronario izquierdo (TCI) con lesión
+T117	ENFERMEDAD 12457 12489	Disfunción sistólica grave de VI
+T118	ENFERMEDAD 12521 12533	Anemia aguda
+T119	ENFERMEDAD 12607 12642	Angiodisplasias en estómago y ciego
+T120	ENFERMEDAD 12644 12686	Fibrilación/flutter auricular paroxísticos
+T121	ENFERMEDAD 12688 12713	Insuficiencia renal aguda
+T122	ENFERMEDAD 206 221	Hábitos tóxicos
+T123	ENFERMEDAD 6095 6180	Válvula aórtica esclerocalcificada, trivalva, con buena apertura e insuficiencia leve
+T124	ENFERMEDAD 4714 4727	cardiomegalia
+T125	ENFERMEDAD 8218 8229	hipotensión
+T126	ENFERMEDAD 3062 3082	hipotensión arterial
+T127	ENFERMEDAD 5776 5840	VI dilatado (DTD 70 mm), con hipertrofia de VI (HVI) septal leve
+T128	ENFERMEDAD 6182 6207	AI moderadamente dilatada
+T129	ENFERMEDAD 6209 6297	Válvula mitral esclerocalcificada, de velos engrosados, con regurgitación moderada-grave
+T130	ENFERMEDAD 6403 6445	Ventrículo derecho (VD) levemente dilatado
+T131	ENFERMEDAD 6581 6624	Vena cava inferior (VCI) levemente dilatada
+T132	ENFERMEDAD 8253 8274	mala perfusión distal
+T49	ENFERMEDAD 1745 1755	duodenitis
+T250	ENFERMEDAD 11645 11670	lesiones angiodisplásicas
+#1	AnnotatorNotes T97	 hipertrofia ventriculo izquierdo

@@ -1,0 +1,32 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 36 años.
+
+Antecedentes
+HTA
+Insuficiencia renal crónica estadio III secundaria a reflujo vesicoureteral Enfermedad actual El paciente refiere fiebre y vómitos de 3 días de evolución, malestar general, dolores generalizados, sensación distérmica, escalofríos, sudoración y vómitos.
+
+Exploración física
+TA: 100/40
+Ta: 39,5 °C
+Normocoloreado, hidratado y perfundido
+Eupneico a 0°
+Auscultación cardiaca: rítmica con soplo sistólico en BEI
+Auscultación pulmonar: MVC
+Abdomen: sin datos de irritación peritoneal
+
+PRUEBAS COMPLEMENTARIAS
+ECG: RS, BCRIHH.
+Radiografía de tórax: normal.
+Analítica: bioquímica: creatinina 7,99 mg/gl; Na 131 mEq/l; K 4,59 mEq/l, PCR 23,09 mg/dl. Gases: pH 7,23, pCO2 36 mmHg, pO2 14 mmHg, HCO3 15 mmol/l, Ebb – 11,6 mmol/l.
+Hemograma: Hb 11,6 g/dl, plaquetas 80 x1000/ul, leucocitos 16.30x1000/ ul, neutrófilos 94,7%.
+Coagulación: actividad de protrombina 65%, INR 1,34
+TC abdominal con cortes tórax: abdomen normal. En los cortes de tórax incluidos en el estudio se observa un nódulo en LID de 1 cm, dos en LII (el mayor de 5 mm) y otro en la parte anterior de la língula, todos ellos indeterminados, a valorar etiología infecciosa.
+Hemocultivos: S. aureus meticilin sensible.
+Ecocardiograma transtorácico: imagen compatible con verruga endocárdica de 15x10 mm anclada al septo IV. Comunicación interventricular restrictiva. Se recomienda ecocardiograma transesofágico. Ecocardiograma transesofágico: descarta afectación de otras válvulas.
+
+EVOLUCIÓN
+Ante el síndrome febril que presentaba el paciente se solicitan dos sets de hemocultivos. Se sospecha posible foco abdominal por la clínica y se realiza TC abdominal que lo descarta, si bien se evidencian posibles focos infecciosos en pulmones.
+Se extraen dos sets de hemocultivos que resultan positivos para Staphylococcus aureus. Al obtenerse aislamiento de S. aureus en ambos sets y la presencia de bloqueo de rama izquierda y soplo no conocidos previamente, se realiza ecocardiograma transtorácico que muestra una verruga endocárdica dependiente del aparato subvalvular tricuspídeo o del septo interventricular; y una comunicación interventricular restrictiva (GP max 140 mmHg). Se inicia antibioterapia con cloxacilina intravenosa, tras lo cual el paciente se mantiene afebril, asintomático, con descenso de los reactantes de fase aguda y hemocultivos de control seriados estériles. Se realiza ecocardiograma transtorácico de control a los 7 días de inicio de la antibioterapia y se comprueba que la imagen de verruga no ha disminuido de tamaño. Se mantiene actitud expectante y a los 14 días del inicio del tratamiento antibiótico se realiza un nuevo control ecocardiográfico que no muestra cambios con respecto al ecocardiograma diagnóstico. Ante la persistencia de la vegetación, se indica, en conjunto con el servicio de Cirugía Cardiaca, intervención quirúrgica. Se exponen las posibilidades al paciente y acepta. Se realiza resección de la vegetación y cierre con sutura directa de la CIV. El paciente evoluciona favorablemente y es incluido en programa de hemodiálisis.
+
+DIAGNÓSTICO
+Endocarditis tricuspídea por S. aureus.

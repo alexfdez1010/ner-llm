@@ -1,0 +1,37 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Varón de 52 años, exfumador de 10 cigarrillos al día desde hace 5 años, sin antecedentes personales ni familiares de interés. No toma ningún tratamiento.
+
+ENFERMEDAD ACTUAL
+Presenta en su domicilio dolor torácico opresivo, continuo, con cortejo vegetativo asociado. Tras unas 10 horas con los síntomas sufre un síncope, por lo que consulta finalmente en un centro externo. Se realiza un electrocardiograma en el que se objetiva un bloqueo auriculoventricular (BAV) completo con elevación del segmento ST predominante en DII-DIII y aVF. Se activa el código infarto y se lleva a cabo fibrinolisis inmediata, iniciándose antiagregación con ácido acetilsalicílico (AAS) y clopidogrel, según protocolo local. Posteriormente, se traslada con carácter urgente a nuestro hospital, donde se comprueba persistencia del dolor torácico y la elevación del ST tras 90 minutos de la fibrinolisis. Se lleva a cabo angioplastia de rescate, evidenciándose una vasoconstricción generalizada del árbol izquierdo, con ateromatosis pero sin estenosis significativas y una lesión subtotal en el tercio medio de la arteria coronaria derecha (ACD). Tras el paso de la guía por la lesión culpable, se aprecia imagen compatible con disección coronaria, que se resuelve implantando tres endoprótesis farmacoactivas en el origen, tercio medio y distal de la coronaria derecha CD, con aceptable resultado angiográfico y buena respuesta clínica. Tras 72 horas en la unidad de cuidados intensivos (UCI), pasa a planta de hospitalización.
+
+EXPLORACIÓN FÍSICA
+Regular aspecto general. Palidez cutánea. Disnea al habla. SpO2 97% con oxigenoterapia en gafas nasales a 2 l/min. Ingurgitación yugular presente a 45o. Tensión arterial 105/79 mmHg.
+Buen relleno capilar. Auscultación cardiaca: tonos rítmicos a 95 lpm, sin soplos audibles.
+Hipoventilación en ambas bases, sin ruidos añadidos. Miembros inferiores sin edemas ni empastamientos. Pulsos periféricos presentes.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica de ingreso: leucocitos 19630/mm3 con 79% de neutrófilos. Hb 14 g/dl. Plaquetas 293000. Sin alteraciones en el estudio de coagulación. Glucosa 183 mg/dl. Creatinina 1,1 mg/dl. Urea 44 mg/dl. Na+ 139 mEq/l. K 4,1 mEq/l. GGT 122 U/I. AST 339 U/I. Bilirrubina 0,8 mg/dl. CK 3472 UI. cTnT-hs 3779 ng/l (valores normales 0-14). Colesterol total 155 mg/dl. Triglicéridos 145 mg/dl.
+Ecocardiografía urgente en planta: ventrículo izquierdo (VI) no dilatado con acinesia de toda la pared inferior e hipercinesia compensadora de la pared anterior y lateral.
+Globalmente, existe una disfunción leve del VI, con fracción de eyección estimada en un 48%. Importante dilatación de las cavidades derechas con disfunción sistólica muy grave del ventrículo derecho (VD) (TAPSE 2 mm y S ́ anillo tricuspídeo 2,5 cm/s) y datos sugestivos de aumento de la presión venosa central. Insuficiencia tricúspide aguda con morfología triangular de su espectro Doppler como dato de gravedad e insuficiencia mitral leve. Ausencia de derrame pericárdico.
+Electrocardiograma (ECG) en planta: ritmo sinusal a 92 lpm, PR 134 ms. QRS 112 ms, QS inferior con persistencia de ST elevado 1 mm en estas derivaciones y en V3-V4 con R de alto voltaje en V2. QTc 442 ms.
+Coronariografía (segundo procedimiento):
+Árbol coronario izquierdo: tras inyección intracoronaria de nitroglicerina se observan unas arterias ateromatosas aunque sin lesiones angiográficamente significativas.
+Arteria coronaria derecha: oclusión ostial. Se observan algunas colaterales heterocoronarias que rellenan retrógradamente los ramos más distales. Se intenta repermeabilizar con mal resultado, tan solo un leve flujo anterógrado con imagen distal de trombo y disección residual.
+
+EVOLUCIÓN CLÍNICA
+Durante su estancia en la planta de hospitalización, el paciente presenta datos clínicos desfavorables, con el desarrollo de síntomas y signos de insuficiencia cardiaca (IC) derecha aguda. Realizamos una ecocardiografía urgente en la que destaca una dilatación y disfunción muy graves del VD.
+Teniendo en cuenta esta evolución y sabiendo que el flujo coronario epicárdico, que se consiguió en la primera coronariografía fue TIMI II, se decidió realizar una nueva coronariografía (96 horas tras la primera), en la que se evidenció una oclusión total de la ACD compatible con trombosis subaguda del stent previamente implantado a nivel ostial, intentándose la repermeabilización con mal resultado por presencia de trombo y disección residual.
+Tras el procedimiento ingresa nuevamente en la UCI, donde se comienza una infusión de levosimendán. A las pocas horas el paciente presenta una llamativa caída de las cifras tensionales, acompañada de un soplo holosistólico, rudo e intenso a la auscultación cardiaca. Se realiza una nueva ecocardiografía a pie de cama, en la que se aprecia una solución de continuidad en el septo interventricular a nivel inferior basal y shunt izquierda-derecha con gradiente máximo de 40 mmHg, compatible con comunicación interventricular (CIV) como complicación mecánica aguda del infarto agudo de miocardio (IAM).
+Ante esta situación, se traslada al centro trasplantador de referencia para valorar implante de oxigenador por membrana extracorpórea (ECMO). A las 12 horas del traslado se implanta ECMO periférico veno-arterial (V-A) femoro-femoral como puente a decisión, manteniéndose perfusión continua de dobutamina a 10 mcg/kg/min y noradrenalina a 0,5 mcg/kg/min.
+El paciente precisa conexión a ventilación mecánica por fracaso respiratorio. En una reunión multidisciplinar, ante la imposibilidad de abordar quirúrgicamente el defecto y la mala evolución hemodinámica, se decide incluir al paciente en urgencia 0 para trasplante cardiaco.
+Tras 7 días de soporte circulatorio con ECMO, se realiza trasplante cardiaco ortotópico de donante en muerte encefálica. Salida de circulación extracorpórea con ECMO periférico V-A femoro-axilar por labilidad hemodinámica e hipoxemia preoperatoria. Se retira la ECMO el cuarto día posterior al trasplante, con buena evolución. El paciente es dado de alta tras 67 días de hospitalización.
+
+DIAGNÓSTICO
+IAM evolucionado inferior y de ventrículo derecho.
+Fibrinolisis ineficaz. Oclusión trombótica de la ACD. Angioplastia coronaria transluminal percutánea (ACTP) complicada con disección coronaria. Implante de tres stents farmacoactivos en ACD. Trombosis subaguda de los stents implantados en la CD. ACTP no exitosa.
+IC aguda y shock cardiogénico secundario a fracaso del VD.
+Rotura del septo interventricular.
+ECMO como asistencia circulatoria mecánica puente a trasplante.
+Trasplante cardiaco ortotópico.

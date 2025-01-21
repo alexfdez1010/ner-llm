@@ -1,0 +1,43 @@
+T104	ENFERMEDAD 194 215	hipertensión arterial
+T105	ENFERMEDAD 217 227	Dislipemia
+T106	ENFERMEDAD 405 414	depresión
+T108	ENFERMEDAD 461 489	Traumatismo craneoencefálico
+T109	ENFERMEDAD 491 494	TCE
+T111	ENFERMEDAD 855 870	ánimo depresivo
+T113	ENFERMEDAD 931 970	traumatismo craneoencefálico secundario
+T114	ENFERMEDAD 2296 2299	TCE
+T115	ENFERMEDAD 3230 3252	insuficiencia cardiaca
+T116	ENFERMEDAD 3284 3312	patologia intracraneal aguda
+T117	ENFERMEDAD 3368 3403	hematoma epicraneal frontal derecho
+T118	ENFERMEDAD 3408 3423	fracturas óseas
+T119	ENFERMEDAD 3810 3843	Aneurisma del septo inteauricular
+T120	ENFERMEDAD 4921 4946	Derrame pleural bilateral
+T121	ENFERMEDAD 4999 5021	insuficiencia cardiaca
+T122	ENFERMEDAD 5060 5085	miocardiopatia por estrés
+T123	ENFERMEDAD 5087 5109	síndrome de tako-tsubo
+T124	ENFERMEDAD 5134 5150	edema miocárdico
+T125	ENFERMEDAD 5488 5518	hiponatremia grave hipoosmolar
+T126	ENFERMEDAD 5765 5779	hipomagnesemia
+T127	ENFERMEDAD 5782 5793	hipocalemia
+T128	ENFERMEDAD 6051 6072	síndrome de takotsubo
+T129	ENFERMEDAD 6396 6428	enfermedad coronaria obstructiva
+T130	ENFERMEDAD 6453 6464	cardiopatia
+T131	ENFERMEDAD 6495 6519	miocardiopatia de estrés
+T132	ENFERMEDAD 6630 6658	trastorno hidroelectrolitico
+T133	ENFERMEDAD 6710 6732	SIADH secundario a TCE
+T134	ENFERMEDAD 6806 6829	siń drome de tako-tsubo
+T135	ENFERMEDAD 6857 6875	hiponatremia grave
+T136	ENFERMEDAD 6908 6937	traumatismo creaneoencefálico
+T138	ENFERMEDAD 7143 7167	Miocardiopatia de estrés
+T139	ENFERMEDAD 7289 7330	Hiponatremia grave hipoosmolar euvolémica
+T140	ENFERMEDAD 7365 7370	SIADH
+T141	ENFERMEDAD 7373 7376	TCE
+T142	ENFERMEDAD 7378 7406	Traumatismo craneoencefálico
+T143	ENFERMEDAD 7408 7429	Hipertensión arterial
+T144	ENFERMEDAD 7431 7441	Dislipemia
+T145	ENFERMEDAD 7443 7461	Sindrome depresivo
+T33	ENFERMEDAD 3739 3778	Auricula izquierda ligeramente dilatada
+T44	ENFERMEDAD 6074 6098	miocardiopatia de estrés
+T155	ENFERMEDAD 3358 3367	Contusión
+T154	ENFERMEDAD 7181 7199	hiponatremia grave
+#1	AnnotatorNotes T133	TCE: traumatismo craneoencefálico

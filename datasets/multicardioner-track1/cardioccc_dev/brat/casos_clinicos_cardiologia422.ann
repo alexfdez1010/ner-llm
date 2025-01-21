@@ -1,0 +1,31 @@
+T33	ENFERMEDAD 127 150	alergias medicamentosas
+T34	ENFERMEDAD 200 221	hipertensión arterial
+T35	ENFERMEDAD 223 226	HTA
+T36	ENFERMEDAD 232 249	diabetes mellitus
+T37	ENFERMEDAD 251 253	DM
+T38	ENFERMEDAD 259 269	dislipemia
+T39	ENFERMEDAD 271 274	DLP
+T40	ENFERMEDAD 277 287	Exfumadora
+T41	ENFERMEDAD 422 435	hallux valgus
+T42	ENFERMEDAD 2039 2054	Derrame pleural
+T43	ENFERMEDAD 2146 2167	fibrilación auricular
+T44	ENFERMEDAD 2169 2171	FA
+T45	ENFERMEDAD 2187 2225	bloqueo de rama derecha del haz de His
+T58	ENFERMEDAD 2236 2266	hemibloqueo anterior izquierdo
+T60	ENFERMEDAD 2227 2232	BRDHH
+T61	ENFERMEDAD 2268 2272	HBAI
+T84	ENFERMEDAD 2320 2322	IC
+T85	ENFERMEDAD 2339 2397	FA de reciente diagnóstico con frecuencia ventricular alta
+T86	ENFERMEDAD 2681 2720	ventrículo izquierdo levemente dilatado
+T87	ENFERMEDAD 2819 2857	Aurícula izquierda gravemente dilatada
+T88	ENFERMEDAD 3238 3263	Insuficiencia tricuspídea
+T89	ENFERMEDAD 3398 3445	Válvula mitral con engrosamiento de ambos velos
+T90	ENFERMEDAD 3521 3547	Insuficiencia mitral grave
+T91	ENFERMEDAD 3733 3752	derrame pericárdico
+T92	ENFERMEDAD 4004 4009	tumor
+T93	ENFERMEDAD 4676 4691	mixoma cardiaco
+T94	ENFERMEDAD 4726 4741	Mixoma cardiaco
+T95	ENFERMEDAD 4762 4764	IC
+T96	ENFERMEDAD 4766 4825	FA de reciente diagnóstico con respuesta ventricular rápida
+T46	ENFERMEDAD 4840 4861	Hipertensión arterial
+#4	AnnotatorNotes T61	  hemibloqueo anterior izquierdo

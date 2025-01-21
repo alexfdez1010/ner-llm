@@ -1,0 +1,43 @@
+T1	ENFERMEDAD 291 308	cefalea tensional
+T80	ENFERMEDAD 105 126	hipertensión arterial
+T81	ENFERMEDAD 131 141	dislipemia
+T82	ENFERMEDAD 146 163	diabetes mellitus
+T83	ENFERMEDAD 168 176	fumadora
+T84	ENFERMEDAD 187 202	hábitos tóxicos
+T85	ENFERMEDAD 265 276	hemorroides
+T86	ENFERMEDAD 278 289	fisura anal
+T87	ENFERMEDAD 1259 1278	bradicardia sinusal
+T88	ENFERMEDAD 2190 2205	derrame pleural
+T90	ENFERMEDAD 2584 2597	valvulopatías
+T91	ENFERMEDAD 2683 2702	derrame pericárdico
+T92	ENFERMEDAD 2929 2948	disección coronaria
+T93	ENFERMEDAD 3046 3111	disección coronaria espontánea a nivel de primera obtusa marginal
+T94	ENFERMEDAD 3301 3320	disección coronaria
+T95	ENFERMEDAD 3431 3439	hematoma
+T96	ENFERMEDAD 3517 3582	disección coronaria espontánea a nivel de primera obtusa marginal
+T97	ENFERMEDAD 3858 3875	arterioesclerosis
+T98	ENFERMEDAD 3946 3954	hematoma
+T101	ENFERMEDAD 4272 4289	arterioesclerosis
+T102	ENFERMEDAD 4351 4368	arterioesclerosis
+T103	ENFERMEDAD 4383 4449	hematoma en descendente anterior (DA) distal que origina estenosis
+T104	ENFERMEDAD 4516 4533	arterioesclerosis
+T105	ENFERMEDAD 4590 4607	arterioesclerosis
+T106	ENFERMEDAD 4700 4717	arterioesclerosis
+T107	ENFERMEDAD 4893 4901	hematoma
+T108	ENFERMEDAD 4954 5111	sangrado intramural (densidad contraste en zona central) localizado en el origen del tronco celiaco y en la porción distal de la arteria descendente anterior
+T109	ENFERMEDAD 5475 5586	disección coronaria espontánea en la arteria descendente anterior media (DAm) y la primera rama obtusa marginal
+T110	ENFERMEDAD 5889 5904	daño miocárdico
+T111	ENFERMEDAD 6558 6573	daño miocárdico
+T112	ENFERMEDAD 6610 6636	infarto agudo de miocardio
+T113	ENFERMEDAD 6941 6954	angina típica
+T114	ENFERMEDAD 7047 7055	hematoma
+T115	ENFERMEDAD 7068 7091	displasia fibromuscular
+T116	ENFERMEDAD 7135 7143	hematoma
+T117	ENFERMEDAD 7164 7284	sangrado intramural localizado en el origen del tronco celiaco y en la porción distal de la arteria descendente anterior
+T118	ENFERMEDAD 7678 7694	IAMCEST anterior
+T119	ENFERMEDAD 7845 7853	Hematoma
+T120	ENFERMEDAD 7874 7936	sangrado intramural localizado en el origen del tronco celiaco
+T12	ENFERMEDAD 1514 1519	ángor
+T128	ENFERMEDAD 6290 6305	disección de DA
+T40	ENFERMEDAD 7093 7096	DFM
+T42	ENFERMEDAD 7706 7807	Disección coronaria espontánea de arteria descendente anterior medio-distal y primera obtusa marginal

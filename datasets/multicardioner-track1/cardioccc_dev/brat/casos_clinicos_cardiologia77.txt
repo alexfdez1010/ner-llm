@@ -1,0 +1,38 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Se trata de un paciente de 55 años, sin alergias medicamentosas conocidas y sin factores de riesgo cardiovascular conocidos.  Antecedentes personales ʟʟ Cardiopatía previa: miocardiopatía dilatada por enfermedad de Chagas con disfunción sistólica severa e implante de DAI monocameral en 2007 en prevención primaria. En seguimiento habitual en unidad de Arritmias de nuestro servicio (en el seguimiento presentó un episodio de TVMS que cedió con ATP, sin precisar choque). El día 24 de marzo de 2015 ingresó en nuestro servicio para recambio de generador de DAI.
+
+Otros antecedentes: polineuropatía sensitiva, axonal y desmielinizante de grado moderado en extremidades superiores e inferiores.
+
+Tratamiento crónico: ramipril 5 mg/24 horas. carvedilol 25 mg/24 horas. Sintrom según pauta. Enfermedad actual Paciente remitido a Urgencias de su hospital de referencia tras ser encontrado en su domicilio desorientado, confuso y con incontinencia de esfínteres por sus compañeros de trabajo. Estos fueron a buscarle ya que no acudió al trabajo en los últimos tres días. Anamnesis imposible de realizar al enfermo por su deterioro neurológico.
+
+Exploración física
+TA: 85/60 mmHg.
+FC: 85 lpm.
+FR: 26 rpm.
+Sat02: 96% con gafas nasales a 2 lpm.
+NRL: consciente y orientado en espacio y persona. Letárgico. Lenguaje fluente sin componentes afásicos. Pupilas isocóricas y normorreactivas. Paresia facial izquierda. Pares craneales centrados. Fuerza y sensibilidad conservada en extremidades. ROTs conservados.
+AC: tonos cardiacos muy apagados, sin soplos.
+AP: roncus en ambos campos pulmonares. No otros ruidos sobreañadidos.
+Abdomen: blando, depresible, no doloroso a la palpación. No masas ni megalias. No signos de irritación peritoneal.
+MMII: Sin edemas. Pulsos conservados.
+General: pterigion sobre ojo derecho. Úlcera en herida de generador de DAI en región subclavia izquierda.
+
+PRUEBAS COMPLEMENTARIAS
+En Urgencias de dicho hospital se inicia el estudio con extracción de hemocultivos por fiebre (38,5 °C), y se realizan las siguientes pruebas complementarias:
+Analítica: destaca 9000 plaquetas, 14.400 leucocitos, INR 10, AP 6,5%, PCR 67,11, procalcitonina 24,4, creatinina 1,77, bilirrubina total 6,2 (a expensas de la directa). Radiografía de tórax: ICT aumentado, congestión hiliar con imágenes nodulares bilaterales.
+TAC cráneo: hipodensidades en ganglios basales derechos compatibles con infartos lacunares antiguos. Hipodensidad en la convexidad parietal izquierda compatible con lesión residual isquémica. No se aprecian LOES, imágenes de contusión ni hemorragia. Sistema ventricular dentro de la normalidad.
+TAC toraco-abdominal: en mediastino se aprecian pequeños ganglios menores de 1 cm de dudoso significado patológico. En campos pulmonares se aprecian densidades nodulares mal definidas. Aunque no se aprecia cavitación, en el contexto clínico del paciente habría que considerar la posibilidad de émbolos sépticos. Elevación de hemidiafragma derecho. Mínimo derrame/engrosamiento pleural derecho. Abdomen: hígado de tamaño normal sin evidencia de lesiones focales. Vía biliar, páncreas, bazo, riñones y suprarrenales sin hallazgos significativos. No se aprecia líquido libre ni colecciones. Ante estos hallazgos y con la sospecha clínica de shock séptico grave se inicia perfusión de noradrenalina y tratamiento antibiótico empírico con imipenem y cloxacilina; con mala evolución clínica, remitiéndose a UCI de nuestro hospital.
+
+A su llegada a UCI se realizan las siguientes pruebas:
+Analítica: sodio 135, K+ 4,5, Cl 101, glucosa 187, urea 107, creatinina 1,28, CPK 109, bilirrubina total 6,19 (directa 5,86, indirecta 0,33), PCR 26, procalcitonina 17,3, Hb 13,1 g/dl, Hto 37,2%, 9000 plaquetas, 14850 leucocitos, INR 1,53, AP 52%. ECG: RS a 75 lpm. PR 200msg, QRS 80msg con eje normal y bajos voltajes en derivaciones frontales. Sin alteraciones agudas de la repolarización.
+Ecocardiografía transtorácica: VI dilatado con aneurisma apical e hipocinesia del resto de segmentos, que ocasiona disfunción sistólica moderada-severa (FEVI 38%). Válvula aórtica trivalva, sin gradientes ni flujos patológicos. Válvula mitral con insuficiencia central ligera. Cavidades derechas de dimensiones normales con función sistólica normal. Se aprecia cable de DAI con abundante material hiperecogénico adherido a lo largo de su trayecto, con movimiento independiente sugestivo de vegetación.
+Ecocardiograma transesofágico: Estudio que confirma los hallazgos anteriores. Durante su estancia en UCI se continúa tratamiento antibiótico con daptomicina, se procede a la extracción de nuevos hemocultivos y se extrae dispositivo (generador y cable de DAI, mediante tracción) a las 48 horas, mandándose muestras a Microbiología:
+Hemocultivos (x2): aislamiento de S. aureus meticilin resistente (resistente a cloxacilina y penicilina). Cable de DAI: aislamiento de S. aureus meticilin resistente.
+
+EVOLUCIÓN
+Ante estos hallazgos, es valorado por la sección de M.I. Infecciosas, persistiendo los hemocultivos positivos. Se ajusta tratamiento antibiótico y queda finalmente con vancomicina, fosfomicina y linezolid. En los siguientes días se repite el TC de tórax que confirma la presencia de émbolos sépticos pulmonares, derrame pleural bilateral y atelectasias compresivas asociadas. Y se repite el ecocardiograma transesofágico, en el que se visualiza una masa adherida al velo posterior tricúspide de 33x18 mm, hipermóvil y con anclaje que progresa hasta el aparato subvalvular, apreciándose otra vegetación menor en el borde libre del velo septal. Sin afectación de válvula pulmonar, mitral o aórtica. Continuó con tratamiento antibiótico en las semanas posteriores, con normalización progresiva de parámetros de función renal, hepática, coagulación y marcadores inflamatorios. Se solicitó RMN cardiaca que confirmó la dilatación biventricular con disfunción sistólica moderada y la presencia de aneurisma apical. En nuevo TC de tórax se comprobó la resolución de los embolismos sépticos; y en las diferentes ecocardiografías realizadas no se observó persistencia de vegetación valvular. Una vez finalizado el tratamiento antibiótico, y permaneciendo el paciente clínicamente estable, se implantó nuevo DAI monocameral en el lado contralateral sin incidencias.
+
+DIAGNÓSTICO
+Shock séptico grave secundario a endocarditis infecciosa por S. aureus meticilin resistente. 
+Miocardiopatía dilatada de etiología chagásica. Disfunción sistólica severa. Portador de DAI en prevención primaria.
+Explante y reimplante de DAI monocameral.

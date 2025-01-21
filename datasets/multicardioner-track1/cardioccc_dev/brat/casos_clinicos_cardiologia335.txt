@@ -1,0 +1,104 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Paciente mujer de 81 años, con los siguientes antecedentes de interés:
+Situación basal: vive sola. Independiente. Vida activa para su edad. Hijos pendientes.
+Trabajó de auxiliar.
+Factores de riesgo cardiovascular: hipertensión arterial de largo tiempo de evolución.
+Obesidad.
+Historia cardiológica:
+Fibrilación auricular (FA) paroxística anticoagulada con aldocumar con buen control de INR.
+Valorada 1-2 años antes en consultas externas de cardiología retirándose bisoprolol por bloqueo auriculoventricular de primer grado. Se realizó ergometría para valoración de dolor torácico siendo clínica y eléctricamente negativa.
+Ecocardiografía transtorácica (ETT) (noviembre 2016): ventrículo izquierdo (VI) no dilatado con hipertrofia concéntrica leve, contractilidad sin alteraciones con fracción de eyección del ventrículo izquierdo (FEVI) normal, patrón diastólico pseudonormal con datos sugestivos de elevación de presiones. No se aprecia valvulopatía aórtica significativa. Ventrículo derecho (VD) no dilatado con función sistólica normal.
+Dilatación de aurícula izquierda (AI) moderada. Insuficiencia mitral leve.
+Insuficiencia tricúspide leve. Presión sistólica arterial pulmonar (PSAP) estimada normal.
+
+
+Otros antecedentes:
+Estudiada por neumología por disnea sin diagnóstico específico. Pruebas de función respiratorias normales; con un broncodilatador de forma crónica.
+Artrosis.
+Síndrome depresivo.
+Niega intervenciones quirúrgicos de interés.
+Medicación previa: aldocumar 1 mg (1 comprimido todos los días salvo jueves y domingo que toma 1 y medio), furosemida 40 mg (medio comprimido cada 48 horas), paroxetina 20 mg (1 comprimido al desayuno y medio a la comida), omeprazol 20 mg (1 comprimido al desayuno), quetiapina 25 mg (1 comprimido a la cena), umeclidinio/vilanterol (55/22 mcg) inh cada 24 horas, paracetamol 1 g (si precisa), hidroferol 0,266 mg (cada 15 días).
+
+ENFERMEDAD ACTUAL
+Mujer de 81 años, con los antecedentes descritos, que acude al servicio de urgencias por empeoramiento de disnea en días previos hasta hacerse de reposo con taquipnea e importante trabajo respiratorio asociados.
+Historiando a la paciente y familia, cuentan disnea progresiva que se inicia como de moderados esfuerzos en semanas previas con escucha de sibilancias. El día del ingreso acude su hija a su domicilio y la encuentra con disnea y trabajo respiratorio quejándose de epigastralgia que la paciente no sabe definir. Refiere también tos y rinorrea en las últimas semanas sin fiebre.
+Niega dolor torácico (solo ocasionalmente con la tos) o palpitaciones. Niega ortopnea o disnea paroxística nocturna aunque la familia refiere que está durmiendo mal los últimos días. No refiere disminución del ritmo de diuresis ni edemas en miembros inferiores.
+En la valoración inicial de urgencias impresiona de edema agudo de pulmón e inician tratamiento con bolo de amiodarona parenteral dado que se encuentra en fibrilación auricular rápida mal tolerada clínicamente.
+
+EXPLORACIÓN FÍSICA
+Llegada: afebril (36,7  ̊C), frecuencia cardiaca (FC) 120-145 lpm, tensión arterial (TA) 114/96 mmHg, FR 31 rpm, SatO2 90% basal. Tras bolo de amiodarona: FC 120 lpm, TA 65-57/30-37 mmHg, SatO2 100% con VMNI.
+Inspección global: consciente, orientada en las tres esferas y colaboradora. Con regular estado general. Taquioneica con tiraje.
+Auscultación cardiaca: arrítmica. No se auscultan soplos ni extratonos. Artefactada por ruidos respiratorios.
+Auscultación pulmonar: murmullo vesicular conservado (MVC) bilateral con crepitantes hasta campos medios y sibilancias disperasas.
+Abdomen: ruidos hidroaéreos presentes. Levemente distendido, difusamente molesto a la palpación. Sin signos de irritación peritoneal. No palpo masas ni visceromegalias.
+Extremidades: sin edemas ni signos de flogosis.
+
+PRUEBAS COMPLEMENTARIAS
+Al ingreso
+Hemograma: hemoglobina 12,6 g/dl. Hematíes 4.38 x10E6/μl. VCM 85,6 fl. HCM 28,8 pg.
+Leucocitos 8.09 x10E3/μl. Neutrófilos (sangre-%) 89,6%, 7,25 x10E3/μl. Linfocitos (%) 5,4%. Linfocitos 0.44 x10E3/μl. Plaquetas UPLAQ 313 x10E3/μl. Hematocrito 37,5%.
+Bioquímica: glucosa 155 mg/dl. Urea 53 mg/dl. Creatinina 1,49 mg/dl. Ion sodio 136 mmol/l. Ion potasio en plasma 4,5 mmol/l.
+Marcadores cardiacos: creatina cinasa: 254-->304 U/l. Troponina T 328-->382 ng/l. NTproBNP 3531.
+Coagulación: T. tromboplastina parcial R 1,05. T. protrombina (ratio) 2,28. INR 2,22. T. tromboplastina parcial 30,40 seg. T. protrombina 25,50 seg. Fibrinógeno derivado 478. Ddímero 482.00 ng/ml. FEU T. protrombina (%) 34,0%.
+Gasometría: pH (gas arterial) 7,39, pO2 (gas arterial) 68 mmHg, pCO2 (gas arterial) 30 mmHg, CO2 total (gas arterial) 19,1 mmol/l. Bicarbonato (gas arterial) 19,7 mmol/l.
+Exceso de bases (gas arterial) -6,9 mmol/l. Saturación oxihemoglobina (gas arterial) 94%.
+Electrocardiograma (ECG): FA a 160 lpm, com onda Q en III y amputación de onda R hasta V5 no presente en ECG previos. Aplanamiento difuso de la repolarización. Tras CVE (1 choque 150 J): ritmo sinusal a 90 lpm, onda Q en III y aVF así como V1-V3.
+Radiografía de tórax: estudio en decúbito de mala calidad pero con signos de sobrecarga hídrica y patrón intersticial. Probable cardiomegalia aunque sobredimensionada por la proyección.
+Ecocardiografía transtorácica (ETT) en SUH (en paciente en RS a 80 lpm en sedestación): ventana subóptima. VI moderadamente dilatado con disfunción de VI grave (FEVI de visu: 20-25%). Mejor contractilidad de segmentos basales, pero difícil valorar alteraciones segmentarias. Patrón Doppler de relajación prolongada. VD con disfunción sistólica leve.
+TAPSE 15 mm. Insuficiencia mitral leve-moderada de origen mixto degenerativa y secundaria a dilatación de VI. Válvula aórtica trivalva con ligera calcificación de borde libre de los velos. Sin gradientes significativos. Insuficiencia aórtica (IAo) mínima.
+Insuficiencia tricuspídea moderada, con gradiente A-V de 25-30 mmHg. Vena cava no visualizada.
+
+
+Al alta
+Hemograma: hemoglobina 12,4 g/dl. Hematíes 4.30 x10E6/μl. VCM 84,0 fl. HCM 28,8 pg. CHCM 34,3 g/dl. Leucocitos 5.85 x10E3/μl. Neutrófilos (sangre-%) 64,4%. Neutrófilos 3.77 x10E3/μl. Linfocitos (%) 23,9%. Linfocitos 1.40 x10E3/μl. Monocitos (sangre-%) 9,6%.
+Plaquetas UPLAQ 271 x10E3/μl. VPM 10,5 fl. SR RDW coeficiente de variación 17,6%.
+Hematocrito 36,1%.
+Bioquímica: glucosa 89 mg/d. Urea 44 mg/dl. Creatinina 1,56 mg/dl. Ion sodio 134 mmol/.
+Ion potasio 4,1 mmol/l. Ion potasio en plasma 4,2 mmol/l. Amilasa 75 U/l. Lipasa 29 U/l.
+Creatina cinasa 15 U/l. Troponina T 50 ng/l. NT-proBNP 1213. Procalcitonina 0,06.
+Bilirrubina total 1,3 mg/dl. Bilirrubina directa 0,4 mg/dl. Alanina aminotransferasa 70 U/l.
+Calcio 2,21 mmol/l. Transferrina 221 mg/dl. Fosfato 1,09 mmol/l. Lactato deshidrogenasa 216 U/l. Aspartato aminotransferasa 37 U/l. Índice saturación transferri 23 %. Hierro 71 μg/dl. Folato 6,35. Albúmina 31 g/l. Proteína C reactiva 0,6 mg/dl. Horas de evolución (X).
+Gammaglutamiltransferasa 40 U/l. Magnesio 0,74 mmol/l. Proteína C reactiva 5,3 mg/dl.
+Ferritina 272. Colesterol HDL 51 mg/dl. Urato 7,4 mg/dl. Colesterol total 122 mg/d.
+Proteínas totales 62 g/l. Vitamina B12 1482. Triglicéridos 66 mg/dl. Filtrado glomerular estimado 38. Colesterol LDL calculado 57 mg/dl. Lactato 2,2 mmol/l. Calcio iónico 0,94 mmol/l.
+Coagulación: T. tromboplastina parcial R 0,96 T. protrombina (ratio) 1,13. INR 1,12. T. tromboplastina parcial 27,70 seg. T. protrombina 12,60 seg. Fibrinógeno derivado 625. Ddímero 482.00 ng/ml. FEU T. protrombina (%) 84,0%.
+Gasometría: pH (gas arterial) 7,39. pO2 (gas arterial) 68 mmHg. pCO2 (gas arterial) 30 mmHg. CO2 total (gas arterial) 19,1 mmol/l. Bicarbonato (gas arterial) 19,7 mmol/l.
+Exceso de bases (gas arterial) -6,9 mmol/l. Saturación oxihemoglobina (gas arterial) 94%.
+Microbiología: antigenuria negativa. Virología: VRS positivo (7748), resto indetectable.
+ECG 1: ritmo sinusal a 70 lpm. Bloqueo auriculoventricular (BAV) primer grado. Q cara inferior y V1-V4 y R amputada V5-V6. T negativas precordiales, I y aVL. QTc 670ms.
+ECG 2: FA con RVM controlada a 89 lpm. ondas Q en cara inferior sugestiva de necrosis de
+DIII y aVF (ya objetivado en ECG previos) infradesnivel del ST en cara anterior y lateral con ondas T negativas asimétricas.
+ECG 3: ritmo sinusal a 70 lpm. Ondas Q en cara inferior sugestiva de necrosis de DIII y aVF (ya objetivado en ECG previos) infradesnivel del ST en cara anterior y lateral con ondas T negativas asimétricas.
+Telemetría: rachas de taquicardia ventricular polimórfica no sostenida hasta ayer a las 22:30 horas aproximadamente (ayer a las 15 horas racha de TVPS). Desde entonces EV abundante con algún doblete/triplete.
+Ecocardiografía transtorácica (1): VI moderadamente dilatado con disfunción de VI grave (FEVI de visu: 20-25%). Mejor contractilidad de segmentos basales, pero difícil valorar alteraciones segmentarias. Patrón Doppler de relajación prolongada. VD con disfunción sistólica normal TAPSE 16 mm. Insuficiencia mitral leve-moderada de origen mixto degenerativa y secundaria a dilatación de VI. Válvula aórtica trivalva con ligera calcificación de borde libre de los velos. Sin gradientes significativos. IAo mínima. AI dilatada levemente. Insuficiencia tricuspídea moderada, difícil alineación. Vena cava no visualizada.
+Coronariografía: arterias coronarias sin lesiones angiográficas significativas.
+Ecocardiografía transtorácica (2) (estudio realizado en FA con RVR a 120x ́, alternando con rachas de RS a 80x ́): VI no dilatado con grosor normal, contractilidad segmentaria muy mal visualizada pero impresionan de aquinesia de segmento basal y medio lateral y basal inferior. Disfunción moderada de VI con FEVIbp 43%. VD con función sistólica normal. Insuficiencia mitral leve-moderada mixta. Válvula aórtica trivalva con ligera calcificación de borde libre de los velos. Sin gradientes significativos. IAo mínima. AI dilatada levemente. Insuficiencia tricuspídea mal visualizada. Vena cava no dilatada.
+Mejoría de la función e insuficiencia mitral respecto a estudio previo.
+Resonancia magnética cardiaca: VI de tamaño normal con disfunción sistólica moderadagrave.
+Hipoquinesia global. Hipocinesia grave en segmento inferolateral basal-medio con pequeño foco de realce tardío subendocárdico del 50% en segmento inferolateral basal de perfil isquémico. Valorar la posibilidad de taquicardiomiopatía. VD de tamaño normal con función sistólica normal. Voluminosa hernia de hiato por deslizamiento. Valorar la posibilidad de taquicardiomiopatía.
+
+EVOLUCIÓN CLÍNICA
+Paciente de 81 años, con los antecedentes descritos, que ingresa en la unidad coronaria de cardiología por edema agudo de pulmón secundario a FA con respuesta ventricular rápida.
+Inicialmente se procedió a cardioversión farmacológica con administración de bolo y perfusión de amiodarona, que no fue efectiva, y, junto a la toma domiciliaria de antidepresivos indujo la aparición de un QT largo. Secundario a la prolongación del QT, se registraron taquicardias ventriculares polimórficas sintomáticas aunque sin pérdida de pulso. Tras lavado farmacológico con fluidoterapia, y retirada de antidepresivos, se corrige el intervalo QT con desaparición de las arritmias ventriculares. En este contexto se realiza ecocardiografía transtorácica objetivándose
+FEVI gravemente afecta.
+En analítica del ingreso se objetiva elevación de pruebas de función hepática, solicitándose interconsulta a digestivo, que a la luz de evolución clínica y ecografía abdominal, se diagnosticó el cuadro de hepatitis isquémica.
+Posteriormente se traslada a planta de hospitalización, con mejoría progresiva de síntomas de insuficiencia cardiaca aguda. Debido a síntomas respiratorios asociados se extraen serologías víricas, siendo positivas para virus respiratorio sincitial. Dichos síntomas desaparecieron progresivamente con tratamiento broncodilatador.
+Se realizó ecocardiografía transtorácica de forma reglada, confirmándose la disfunción ventricular grave; hallazgo que también se visualizó en resonancia magnética nuclear. Debido a persistencia de FA se realizó cardioversión eléctrica con reversión a ritmo sinusal permaneciendo en sinusal en el momento del alta, bajo tratamiento con amiodarona. Días más tarde de la cardioversión, se realizó ecocardiografía transtorácica, objetivando mejoría de la disfunción ventricular izquierda; lo cual confirma el diagnóstico de taquimiocardiopatía.
+Durante su estancia hospitalaria, presentó varios episodios de vasoespasmo coronario oligosintomáticos, con elevación del ST en cara inferior y taquicardias ventriculares polimorfas sostenidas (máxima de 12 segundos). Se realizó coronariografía diagnóstica, observando normalidad de arterias coronarias, y tras inicio de tratamiento con nitratos y calcioantagonistas dihidropiridínicos, desaparecieron los episodios. En la resonancia magnética realizada durante el ingreso (comentado previamente) se objetiva realce tardío subendocárdico en segmento inferolateral de perfil isquémico, en probable contexto de estos episodios vasoespásticos.
+Debido a la retirada de medicación antidepresiva, la paciente comienza con clínica de depresión mayor (anhedonia, abulia...) por lo que se solicita interconsulta con psiquiatría, que tras reintroducción de paroxetina, se logra estabilizar el cuadro.
+Encontrándose la paciente asintomática y estable desde el punto de vista cardiovascular, se procede a alta domiciliaria.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca aguda congestiva en situación de edema agudo de pulmón.
+FA persistente con respuesta ventricular rápida cardiovertida química y eléctricamente.
+Taquimiocardiopatía con disfunción ventricular moderada poscardioversión.
+Taquicardia ventricular polimórfica sostenida (torsade de pointes).
+QT largo (farmacológico).
+Vasoespasmo coronario (angina de Prinzmetal) con arritmias ventriculares.
+Bronquitis aguda sin signos de infección respiratoria.
+Hepatitis isquémica. Colelitiasis.
+Trastorno depresivo mayor con síntomas psicóticos.
+Intolerancia tensional a inhibidores de la enzima de conversión de la angiotensina (IECA).
+Contraindicación a betabloqueantes por vasoespasmo.

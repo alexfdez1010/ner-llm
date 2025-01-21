@@ -1,0 +1,32 @@
+T24	ENFERMEDAD 94 117	Alergia a la penicilina
+T25	ENFERMEDAD 161 182	hipertensión arterial
+T26	ENFERMEDAD 184 187	HTA
+T27	ENFERMEDAD 190 219	diabetes mellitus (DM) tipo 2
+T28	ENFERMEDAD 209 211	DM
+T29	ENFERMEDAD 221 231	Dislipemia
+T30	ENFERMEDAD 233 241	Obesidad
+T31	ENFERMEDAD 243 260	Neoplasia de mama
+T32	ENFERMEDAD 841 869	angor de esfuerzo progresivo
+T34	ENFERMEDAD 1168 1191	isquemia inducible leve
+T35	ENFERMEDAD 1668 1716	bloqueo auriculoventocular (BAV) de primer grado
+T36	ENFERMEDAD 1718 1769	bloqueo incompleto de rama izquierda del haz de His
+T37	ENFERMEDAD 2303 2339	ateromatosis calcificada de la aorta
+T38	ENFERMEDAD 2341 2354	Cardiomegalia
+T39	ENFERMEDAD 2468 2487	Espondilosis dorsal
+T40	ENFERMEDAD 2567 2615	Hipertrofia ventricular izquierda (HVI) moderada
+T41	ENFERMEDAD 2602 2605	HVI
+T42	ENFERMEDAD 3267 3323	Vávula aórtica (VAo): trivalva, leve esclerosis de velos
+T43	ENFERMEDAD 3439 3464	Insuficiencia tricuspídea
+T44	ENFERMEDAD 3664 3683	derrame pericárdico
+T45	ENFERMEDAD 4231 4240	arritmias
+T46	ENFERMEDAD 4452 4475	isquemia inducible leve
+T47	ENFERMEDAD 4638 4713	fístulas coronarias a VI desde todos los territorios coronarios principales
+T48	ENFERMEDAD 5175 5207	fístulas conorario-ventriculares
+T49	ENFERMEDAD 5135 5152	Angor de esfuerzo
+T50	ENFERMEDAD 3023 3062	Aurícula izquierda ligeramente dilatada
+T51	ENFERMEDAD 2907 2928	Disfunción diastólica
+T52	ENFERMEDAD 3466 3468	IT
+T53	ENFERMEDAD 1696 1699	BAV
+T54	ENFERMEDAD 1771 1777	BIRIHH
+T91	ENFERMEDAD 3159 3212	Válvula mitral (VM): calcio en anillo posterio medial
+#1	AnnotatorNotes T41	  hipertrofia ventriculo izquierdo

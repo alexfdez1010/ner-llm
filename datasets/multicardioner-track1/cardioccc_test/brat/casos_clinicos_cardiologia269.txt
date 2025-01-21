@@ -1,0 +1,19 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 66 años hipertenso, diabético tipo 2, dislipémico y exfumador, sin otros antecedentes de interés, acudió a urgencias en abril de 2020 por disnea progresiva de varios días de evolución y fiebre, sin otra clínica cardiovascular asociada. Tratamiento domiciliario con enalapril 5 mg/24 horas, atorvastatina 40 mg/24 horas y metformina 850 mg/24 horas.
+A la primera valoración, el paciente se encontraba hemodinámicamente estable, si bien con regular estado general. Tensión arterial (TA) 130/75 mmHg, frecuencia cardiaca (FC) 75 lpm, FR 30 rpm, saturando basalmente al 85%, temperatura 38,3 oC. A la auscultación pulmonar, crepitantes bilaterales en ambos campos, con una auscultación cardíaca dentro de la normalidad y sin edemas en miembros inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+Gasometría arterial Insuficiencia respiratoria hipoxémica. pH 7,35, pCO2 30 mmHg, pO2 62 mmHg, HCO3- 25 mmol/l, láctico 2,3.
+Electrocardiograma (ECG): ritmo sinusal a 75 lpm, PR normal, QRS estrecho, eje normal, alteraciones difusas de la repolarización (T aplanadas en cara inferior y lateral) no sugerentes de isquemia aguda.
+Radiografía de tórax: infiltrado periférico en campo medio-inferior izquierdo y de menor densidad en región periférica del campo medio y región paracardiaca derecha, compatible con infección por SARS-CoV2 de grado moderado desde el punto de vista radiológico.
+Analítica: creatinina 0,96 mg/dl, sin alteraciones iónicas, perfil hepático con leve elevación de trasaminasas, primera troponina T 150 ng/dl, segunda troponina T 200 ng/dl, CK 100U/l, LDH 450U/l, Hb 11mg/dl, plaquetas 160.000/ul, leucocitos 9000/ul, neutrófilos 80%, linfocitos 1000/ul, D-dímeros 900 ng/ml.
+PCR nasofaríngea para SARS-CoV2: positiva.
+
+EVOLUCIÓN CLÍNICA
+Ante dichos hallazgos, se diagnostica a el paciente de neumonía bilateral por SARS-CoV2 con insuficiencia respiratoria aguda hipoxémica asociada, por lo que se ingresa y se inicia tratamiento con oxigenoterapia para SatO2 > 90% disminuyendo la frecuencia respiratoria del paciente, hidroxicloroquina (400 mg/12 horas las primeras 24 horas y posteriormente 200 mg/12 horas v.o.), liponavir-ritonavir (200/50 mg/12 horas v.o.), azitromicina 500 mg/24 horas v.o. y ceftriaxona 2 g/24 horas i.v.
+Ante la elevación de marcadores de daño miocárdico por sospecha de miocarditis asociada, se interconsulta al servicio de cardiología. En el ecocardiograma transtorácico el paciente presenta un ventrículo izquierdo no dilatado, levemente hipertrófico, con hipoquinesia de los segmentos medio distales del septo inferior, y FEVI normal; un ventrículo derecho no dilatado y normofuncionante, y ausencia de valvulopatías significativas o derrame pericárdico (vídeo 1).
+Interpretamos la elevación de marcadores de daño miocárdico como justificable por el contexto clínico del paciente (hipoxemia, infección aguda, posible cardiopatía subyacente) y no realizamos más pruebas complementarias.
+La paciente evoluciona favorablemente pudiéndose ir de alta a los 10 días del ingreso.
+
+DIAGNÓSTICO
+Neumonía bilateral por SARS-CoV2 con elevación de marcadores de daño miocárdico en dicho contexto.

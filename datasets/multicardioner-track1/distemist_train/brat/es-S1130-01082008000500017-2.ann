@@ -1,0 +1,6 @@
+T10	ENFERMEDAD 1027 1052	infección crónica por VHB
+T14	ENFERMEDAD 1140 1143	HCC
+T15	ENFERMEDAD 1170 1187	infección por VHB
+T21	ENFERMEDAD 750 762	coagulopatía
+T22	ENFERMEDAD 968 976	lesiones
+#1	AnnotatorNotes T14	  HCC: hepatocarcinoma

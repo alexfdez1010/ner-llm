@@ -1,0 +1,46 @@
+T30	ENFERMEDAD 161 169	obesidad
+T31	ENFERMEDAD 251 267	angina inestable
+T32	ENFERMEDAD 320 377	lesión crítica de tronco coronario izquierdo (TCI) ostial
+T33	ENFERMEDAD 709 722	valvulopatías
+T34	ENFERMEDAD 818 838	hepatitis autoinmune
+T35	ENFERMEDAD 1356 1375	crisis hipertensiva
+T36	ENFERMEDAD 1590 1611	edema agudo de pulmón
+T37	ENFERMEDAD 2902 2948	isquemia subepicárdica en región anterolateral
+T38	ENFERMEDAD 2987 3008	edema agudo de pulmón
+T39	ENFERMEDAD 3368 3396	insuficiencia aórtica severa
+T40	ENFERMEDAD 3727 3747	insuficiencia mitral
+T41	ENFERMEDAD 3787 3823	insuficiencia tricúspide (IT) severa
+T42	ENFERMEDAD 3930 3977	oclusión de la coronaria derecha a nivel ostial
+T43	ENFERMEDAD 4314 4401	oclusión al origen de la arteria vertebral izquierda, y de arteria mesentérica superior
+T44	ENFERMEDAD 4443 4488	hipertrofia de la arcada pancreático-duodenal
+T45	ENFERMEDAD 4575 4584	aneurisma
+T46	ENFERMEDAD 5033 5054	edema agudo de pulmón
+T47	ENFERMEDAD 5170 5182	valvulopatía
+T48	ENFERMEDAD 5658 5692	insuficiencia aórtica (IAo) severa
+T49	ENFERMEDAD 6108 6147	oclusión de la coronaria derecha ostial
+T50	ENFERMEDAD 6322 6364	lesiones coronarias de localización ostial
+T51	ENFERMEDAD 6367 6395	insuficiencia aórtica severa
+T52	ENFERMEDAD 6452 6473	afectación autoinmune
+T53	ENFERMEDAD 6543 6551	aortitis
+T54	ENFERMEDAD 6861 6869	aortitis
+T55	ENFERMEDAD 6885 6912	vasculitis de grandes vasos
+T56	ENFERMEDAD 7233 7254	edema agudo de pulmón
+T57	ENFERMEDAD 7946 8003	shock cardiogénico en relación con infarto perioperatorio
+T58	ENFERMEDAD 8172 8191	fallo multiorgánico
+T59	ENFERMEDAD 8232 8286	Vasculitis de grandes vasos tipo arteritis de Takayasu
+T60	ENFERMEDAD 2869 2899	hemibloqueo anterior izquierdo
+T61	ENFERMEDAD 3057 3113	ventrículo izquierdo ligeramente dilatado e hipertrófico
+T63	ENFERMEDAD 3749 3751	IM
+T64	ENFERMEDAD 3813 3815	IT
+T65	ENFERMEDAD 4223 4275	arteria subclavia izquierda que se encuentra ocluida
+T66	ENFERMEDAD 4547 4559	ulceraciones
+T67	ENFERMEDAD 4636 4643	Sífilis
+T68	ENFERMEDAD 4709 4768	válvula aórtica presencia de cambios degenerativos mixoides
+T69	ENFERMEDAD 4905 4929	enfermedad de TCI ostial
+T70	ENFERMEDAD 5681 5684	IAo
+T62	ENFERMEDAD 4563 4572	disección
+T124	ENFERMEDAD 5875 5906	alteraciones isquémicas del ECG
+#1	AnnotatorNotes T63	 IM insuficiencia mitral
+#2	AnnotatorNotes T64	 IT insuficiencia tricuspídea
+#3	AnnotatorNotes T69	 TCI Tronco coronario izquierdo
+#4	AnnotatorNotes T70	 IAo insuficiencia aórtica

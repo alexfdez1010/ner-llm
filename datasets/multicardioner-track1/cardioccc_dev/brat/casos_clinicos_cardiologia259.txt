@@ -1,0 +1,52 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Varón de 68 años.
+Sin alergias medicamentosas conocidas. Niega consumo de tóxicos en la actualidad.
+Episodio de cólico renal derecho en 2010, con discreta ectasia a nivel pielocalicial. Función renal normal.
+
+Historia cardiológica:
+Factores de riesgo cardiovascular (FRCV): hipertensión arterial (HTA) y dislipemia en tratamiento farmacológico. Exfumador desde hace 20 años (IPA de 30 paquetesaño).
+No diabetes mellitus.
+Bloqueo de rama izquierda de haz de His (BRIHH) conocido.
+Síndrome coronario crónico que debuta en 1986 con IAM, con revascularización quirúrgica con doble puente aortocoronario (safena-obtusa marginal y safenadescendente anterior). Posteriormente varios episodios de angina inestable en 2002 y 2003, con revascularización percutánea: intervencionismo coronario percutáneo (ICP) con implantación de un stent farmacoactivo en DA distal al injerto de safena, dos stents en primera rama diagonal proximal-media, un stent en CD media. En 2010 se realiza nueva coronariografía, de forma programada, donde se objetiva una estenosis grave en TC distal del 70%, con colocación de stent, con buen resultado.
+Último ecocardiograma de control (2018): miocardiopatía dilatada con disfunción ventricular grave (FEVI 25%) con insuficiencia mitral moderada-grave por tenting e hipertensión pulmonar leve.
+Resonancia magnética (RM) cardiaca de ese mismo año: ventrículo izquierdo (VI) gravemente dilatado con disfunción grave. FEVI 25,5%. Se observa una disquinesia del ápex verdadero, aquinesia de la mitad basal de la cara inferior, inferolateral y anterolateral, así como del septo posterior más basal.
+Adelgazamiento de la cara inferior e inferolateral (3 mm). Movimiento septal anómalo. Ventrículo derecho (VD) no dilatado con función global y segmentaria conservada. FEVD 52,5%. Se aprecia jet de insuficiencia mitral. En las secuencias de realce tardío se observa realce de tipo isquémico en regiones de septo posterior basal y medio, inferolateral basal y medio, anterolateral basal.
+En seguimiento ambulatorio en consulta de insuficiencia cardiaca, con controles semestrales/anuales. Clínicamente asintomático, NYHA I/IV, sin nuevos episodios de angor. Sigue programa de rehabilitación cardiaca.
+Tratamiento habitual: omeprazol 20 mg, ácido acetilsalicílico 100 mg/día, bisoprolol 5 mg/12 horas, furosemida 20 mg/día, sacubitrilo/valsartán 97/103 mg/día, rosuvastatina 20 mg/día.
+
+Enfermedad actual
+El paciente consulta en el servicio de urgencias de nuestro centro por aumento de disnea progresivo durante la última semana, hasta hacerse de mínimos esfuerzos, asociado a ortopnea y oliguria durante los últimos 3 días. No angor ni sensación de palpitaciones. Escaso cumplimiento de medidas higiénico-dietéticas durante los últimos días, con mayor ingesta hídrica. No infecciones ni cambios de medicación.
+
+Exploración física
+Tensión arterial (TA) 120/70 mmHg, frecuencia cardiaca (FC) 100 lpm, SO2 90% basal que mejora con O2 2 lpm hasta 95%. Afebril.
+Mínima plétora yugular. Auscultación cardiaca: rítmica con soplo sistólico en foco mitral III/IV, AP con crepitantes bibasales hasta campos medios. Abdomen anodino. Edemas bilaterales con fóvea en EEII hasta nivel pretibial.
+Ante cuadro compatible con episodio de insuficiencia cardiaca descompensada, se decide ingreso en el servicio de cardiología para tratamiento y evolución clínica del paciente.
+
+PRUEBAS COMPLEMENTARIAS
+En el servicio de urgencias:
+ECG: ritmo sinusal a 70 lpm, PR 220 ms, con BRIHH ya conocido, con duración del complejo QRS de 170 ms.
+Radiografía de tórax: índice cardiotorácico límite, con pinzamiento de ambos senos costofrénicos, sin infiltrados en parénquima pulmonar.
+Analítica: glucemia 80mg/dl, urea, creatinina y batería hepática normales. Na 135 mEq/l, K 4,2 mEq/l. Hb 15 g/dl, leucocitos 4.800, plaquetas 205.000. Coagulación normal, con INR 1,1. NTproBNP en urgencias 1.050 pg/ml.
+En planta de cardiología:
+Se amplía analítica con perfil férrico, TSH y HbA1c: ferritina 250 ug/l con IST 12%. TSH normal.
+HbA1c 5,4%.
+Ecocardiograma transtorácico (vídeo 1): miocardiopatía dilatada isquémica con VI gravemente dilatado. HVI leve. Disfunción grave (FEVI 22%) con hipocinesia global. Insuficiencia mitral (IM) grave por tenting. Movimiento septal asincrónico en relación a BRIHH. Insuficiencia tricuspídea (IT) moderada. VD normofuncionante con hipertensión pulmonar (HP) moderada. Similar a hallazgos ecocardiográficos previos.
+
+
+EVOLUCIÓN CLÍNICA
+El paciente permanece ingresado con buena evolución clínica y excelente respuesta al tratamiento diurético intravenoso, con mejoría clínica notable y resolución completa de la semiología congestiva, que posibilitó la desescalada del tratamiento diurético hasta la dosis oral habitual domiciliaria. Se repite el NT-proBNP previo al alta, con notable mejoría (600 pg/ml).
+El paciente ya se encontraba con tratamiento neurohormonal ambulatorio, que no se modifica (previamente en consultas se había intentado la introducción de ivabradina, con mala tolerancia clínica, por lo que se suspendió).
+Se reinterroga al paciente, y refiere episodios de mayor disnea durante los últimos 4 meses. Se decide plantear el caso con la sección de electrofisiología de nuestro servicio para la implantación de un DAI-TRC en prevención primaria, que es aceptado. El implante ocurre sin incidencias, consiguiéndose una corrección parcial de la asincronía interventricular.
+A nivel analítico, cabe destacar datos de ferropenia, sin anemización asociada. Al tratarse de un paciente con insuficiencia cardiaca con fracción de eyección reducida y síntomas (NYHA III-IV al ingreso), y ante los datos de mejoría en la capacidad de ejercicio, calidad de vida y capacidad funcional que ha demostrado la ferroterapia intravenosa en estos pacientes, se decide la administración de hierro carboximaltosa en una única dosis de 500 mg.
+El paciente recibió de nuevo educación en medidas higiénico-dietéticas, fue dado de alta y siguió controles habituales en consulta de insuficiencia cardiaca.
+A los 8 meses del alta, se encontraba clínicamente estable, asintomático, con NYHA basal I/IV, sin nuevos episodios de descompensación de IC. Se repitió ecocardiograma, donde se objetivaba una mejoría de la FEVI hasta 33%, con insuficiencia mitral leve-moderada. En la analítica de control se objetivó de nuevo un perfil ferropénico (ferritina 80 ug/l con IST 10%), con datos de anemia microcítica asociada (Hb 11 g/l, con VCM 80 fl), que no presentaba al ingreso. En este caso nuestro paciente se encontraba clínicamente asintomático para su insuficiencia cardiaca (NYHA I), pero con datos de anemización asociados, por lo que se decidió nueva administración de ferroterapia IV (1000 mg de carboximaltosa férrica en una sola dosis, con nueva administración de otros 500 mg a la semana siguiente en el hospital de día).
+Se solicitó test de sangre oculta en heces, que resultó positiva, por lo que se derivó al paciente a consultas de aparato digestivo para completar evaluación con los estudios pertinentes.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca crónica descompensada, con FEVI gravemente reducida.
+Miocardiopatía dilatada isquémica.
+Síndrome coronario crónico con enfermedad arterial coronaria trivaso con múltiples revascularizaciones quirúrgicas y percutáneas.
+Anemia microcítica de perfil ferropénico pendiente de estudio digestivo.
+Procedimientos realizados: primoimplante de desfibrilador automático impantable con terapia de resincronización cardiaca (DAI-TRC) en prevención primaria y ferroterapia intravenosa.

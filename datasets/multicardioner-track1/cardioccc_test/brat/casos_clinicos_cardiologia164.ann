@@ -1,0 +1,35 @@
+T39	ENFERMEDAD 439 449	tabaquismo
+T40	ENFERMEDAD 467 492	diabetes mellitus tipo II
+T41	ENFERMEDAD 525 538	hiperuricemia
+T42	ENFERMEDAD 2382 2407	trombosis venosa profunda
+T43	ENFERMEDAD 2941 2973	Ateromatosis aórtica calcificada
+T45	ENFERMEDAD 3257 3276	derrame pericárdico
+T46	ENFERMEDAD 3867 3888	hipertensión pulmonar
+T47	ENFERMEDAD 3893 3912	derrame pericárdico
+T48	ENFERMEDAD 3972 4125	Cardiopatía isquémica con estenosis grave de obtusa marginal ostioproximal de gran calibre (arteria responsable infarto) por placa gravemente calcificada
+T49	ENFERMEDAD 4128 4167	estenosis grave de descendente anterior
+T50	ENFERMEDAD 4228 4252	estenosis grave de CX-MO
+T51	ENFERMEDAD 6328 6377	estenosis grave en un ramo marginal ostioproximal
+T52	ENFERMEDAD 6420 6438	lesión grave en DA
+T53	ENFERMEDAD 6851 6877	síndrome de Kounis tipo II
+T54	ENFERMEDAD 7243 7261	lesión grave de DA
+T55	ENFERMEDAD 7867 7931	Infarto alérgico no Q Killip I en contexto de shock anafiláctico
+T56	ENFERMEDAD 7913 7931	shock anafiláctico
+T57	ENFERMEDAD 7933 7959	síndrome de Kounis tipo II
+T58	ENFERMEDAD 8108 8126	Shock anafiláctico
+T59	ENFERMEDAD 8203 8228	Diabetes mellitus tipo II
+T60	ENFERMEDAD 5343 5351	alergias
+T61	ENFERMEDAD 339 362	alergias medicamentosas
+T62	ENFERMEDAD 5866 5885	necrosis miocárdica
+T63	ENFERMEDAD 7061 7080	necrosis miocárdica
+T64	ENFERMEDAD 959 1025	exantema pruriginoso de inicio en brazos, rápidamente generalizado
+T65	ENFERMEDAD 1966 1984	exantema en tronco
+T66	ENFERMEDAD 3334 3380	Válvula mitral fina, leve calcificación anular
+T67	ENFERMEDAD 4594 4641	placa calcificada larga en descendente anterior
+T68	ENFERMEDAD 6262 6284	reacción anafilactoide
+T69	ENFERMEDAD 6472 6487	lesión de Cx-MO
+T70	ENFERMEDAD 8167 8201	Sensibilización a veneno de avispa
+T71	ENFERMEDAD 7961 8050	Enfermedad coronaria de 2 vasos principales (descendente anterios [DA], circunfleja [Cx])
+T133	ENFERMEDAD 818 840	picadura de un insecto
+T147	ENFERMEDAD 5518 5521	IAM
+T17	ENFERMEDAD 1374 1394	clínica anafiláctica

@@ -1,0 +1,28 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Presentamos el caso de un varón de 42 años que ingresa en cardiología por un primer episodio de insuficiencia cardiaca, con diagnóstico de miocardiopatía dilatada.
+Como antecedentes personales, destaca un consumo abusivo de varios tóxicos (GHB [ácido gamma-hidroxibutírico], mefedrona y metaanfetaminas de forma habitual; cocaína puntualmente; fumador de 10 cigarrillos al día; ciclos de testosterona puntuales). Es VIH positivo con buen control inmunovirológico bajo tratamiento con dolutegravir/rilpivirina, y padeció sífilis que fue correctamente tratada.
+Acude a urgencias por un cuadro de una semana de evolución de disnea progresiva hasta hacerse de reposo, asociando ortopnea y episodios de disnea paroxística nocturna. Asocia clínica neurológica consistente en discromatopsia y cefalea retroocular. No ha padecido dolor torácico, palpitaciones ni otra clínica cardiovascular.
+A la exploración física destaca la presencia de ingurgitación venosa yugular, con ritmo de galope por tercer tono y crepitantes hasta campos medios a la auscultación pulmonar.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): taquicardia sinusal a 125 latidos por minuto. QRS estrecho, eje desviado a la izquierda. Pobre crecimiento de R en precordiales. Ondas T aplanadas con intervalo QTc normal.
+Radiografía de tórax: índice cardiotorácico aumentado. Signos de congestión pulmonar.
+Ecocardiograma transtorácico al ingreso: ventrículo izquierdo muy dilatado, con disfunción sistólica grave. FEVI 12%. Imágenes móviles en ápex, al menos 3, de máximo 1,8 x 1,0 cm, hipermóviles, compatibles con trombos. Ventrículo derecho dilatado, con disfunción sistólica grave. Signos de elevación de presiones de llenado. Insuficiencia mitral moderada. Hipertensión pulmonar moderada.
+Analítica al ingreso: NT-proBNP 15678 ng/dl. Carga VIH indetectable.
+
+
+Tomografía axial computarizada (TAC) craneal: aparición de hipodensidad cortico- subcortical en territorio de ACP derecha, en probable relación con evento isquémico de evolución incierta.
+Resonancia magnética nuclear (RMN) craneal: lesiones corticales con captación de contraste y tenue restricción en difusión que sugieren infartos en fase subaguda, el mayor occipital basal derecho con transformación hemorrágica. Existen además tres lesiones corticales milimétricas con intensa restricción (frontal derecha, frontal izquierda y parietal derecha) que sugieren también infartos pero de menor tiempo de evolución.
+RMN cardiaca: función sistólica biventricular gravemente deprimida (FEVI 12 %, FEVD 14 %). Insuficiencia mitral leve-moderada. Dilatación grave de aurícula izquierda. No se aprecian trombos intracavitarios. Realce tardío patológico en la región de inserción de la pared libre del ventrículo derecho y captación lineal intramiocárdica en el septo basal de etiología no isquémica.
+Coronariografía diagnóstica: arterias coronarias sin lesiones significativas. Estudio genético: negativo.
+
+EVOLUCIÓN CLÍNICA
+Desde el punto de vista de la insuficiencia cardiaca, el paciente evolucionó favorablemente con tratamiento diurético hasta la resolución completa de la clínica congestiva. Se inició tratamiento modificador de la enfermedad con sacubritrilo/valsartán, bisoprolol a dosis bajas por tolerancia subóptima, espironolactona e ivabradina. Se detectaron en la monitorización rachas de fibrilación auricular paroxística, así como episodios de taquicardia ventricular monomorfa no sostenida. Por tanto, y ante el remodelado negativo ventricular y la presencia de realce tardío en la RMN, se decidió implantar un desfibrilador automático implantable (DAI) en prevención primaria.
+Como estudio de la disfunción ventricular, se descartó la etiología isquémica mediante coronariografía y la familiar mediante estudio genético; quedando como posibilidades una miocardiopatía por tóxicos o asociada al VIH.
+Respecto al tratamiento antitrombótico, se inició tratamiento anticoagulante al ingreso con heparinas de bajo peso molecular por la presencia de trombos intracavitarios y de fibrilación auricular paroxística. Se suspendió durante el ingreso tras evidenciarse en RMN cerebral una transformación hemorrágica del infarto cerebral. Al alta, en ausencia de nuevos sangrados y una vez comprobada la ausencia de interacciones con el tratamiento antirretroviral, se inició anticoagulación oral con rivaroxabán.
+
+DIAGNÓSTICO
+Primer episodio de insuficiencia cardiaca. Disfunción biventricular grave.
+Arterias coronarias sin lesiones significativas. Taquicardia ventricular monomorfa no sostenida. Fibrilación auricular paroxística.
+Trombo intracavitario (ventrículo izquierdo), que no se aprecia en RMN cardiaca tras inicio de anticoagulación.
+Ictus isquémico subagudo en territorio de la ACP derecha de probable etiología cardioembólica, con transformación hemorrágica posterior. Infección por VIH en tratamiento con buen control. Consumo de tóxicos.

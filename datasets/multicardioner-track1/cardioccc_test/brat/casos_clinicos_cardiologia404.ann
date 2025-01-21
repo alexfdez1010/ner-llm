@@ -1,0 +1,37 @@
+T29	ENFERMEDAD 121 144	alergias medicamentosas
+T30	ENFERMEDAD 198 207	exfumador
+T31	ENFERMEDAD 271 285	metabolopatías
+T32	ENFERMEDAD 307 331	síndrome antifosfolípico
+T33	ENFERMEDAD 333 336	SAF
+T34	ENFERMEDAD 356 383	lupus eritematoso sistémico
+T35	ENFERMEDAD 385 388	LES
+T36	ENFERMEDAD 391 431	Tromboembolia pulmonar (TEP) segmentaria
+T37	ENFERMEDAD 415 418	TEP
+T38	ENFERMEDAD 536 592	infarto agudo de miocardio sin elevación del segmento ST
+T39	ENFERMEDAD 607 649	enfermedad coronaria de 2 vasos (DAm y DP)
+T40	ENFERMEDAD 757 801	hipertrofia ventricular izquierda (HVI) leve
+T41	ENFERMEDAD 792 795	HVI
+T42	ENFERMEDAD 806 819	valvulopatías
+T43	ENFERMEDAD 956 969	muerte súbita
+T44	ENFERMEDAD 1644 1687	taquicardia ventricular monoforma sostenida
+T45	ENFERMEDAD 1689 1693	TVMS
+T47	ENFERMEDAD 3432 3440	HVI leve
+T48	ENFERMEDAD 3506 3508	TV
+T49	ENFERMEDAD 3613 3630	escara miocárdica
+T50	ENFERMEDAD 3862 3864	TV
+T51	ENFERMEDAD 4217 4219	TV
+T52	ENFERMEDAD 4312 4341	displasia arritmogénica de VD
+T53	ENFERMEDAD 4384 4427	displasia arritmogénica ventricular derecha
+T54	ENFERMEDAD 4429 4433	DAVD
+T55	ENFERMEDAD 4449 4481	TVMS de cara anterolateral de VD
+T56	ENFERMEDAD 4557 4588	Enfermedad coronaria de 2 vasos
+T57	ENFERMEDAD 4651 4680	displasia arritmogénica de VD
+T58	ENFERMEDAD 594 601	IAMSEST
+T59	ENFERMEDAD 1413 1420	IAMSEST
+T60	ENFERMEDAD 2742 2803	TV con morfología de bloqueo de rama izquierda del haz de His
+T61	ENFERMEDAD 4123 4141	eventos arrítmicos
+T62	ENFERMEDAD 2805 2810	BRIHH
+T121	ENFERMEDAD 250 259	Exbebedor
+T46	ENFERMEDAD 1480 1499	episodios anginosos
+T112	ENFERMEDAD 3236 3287	VI de tamaño normal con hipertrofia del septo basal
+T116	ENFERMEDAD 3883 3888	BRIHH

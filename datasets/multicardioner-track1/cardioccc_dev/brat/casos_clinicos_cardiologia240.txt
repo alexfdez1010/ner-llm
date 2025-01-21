@@ -1,0 +1,44 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Presentamos a un paciente varón de 78 años, no fumador, sin factores de riesgo cardiovascular (FRCV) conocidos ni otros hábitos tóxicos. En 2013 presentó un episodio de fibrilación auricular paroxística, sin evidenciarse alteraciones en el ecocardiograma ni en la ergometría, por lo que fue dado de alta. No se anticoaguló al paciente ya que presentaba un CHA2DS2-Vasc de 1 punto en aquel momento. Desde entonces el único tratamiento que tomaba el paciente era lorazepam de manera ocasional.
+
+Historia oncológica:
+En octubre de 2016, el paciente comenzó con disfonía intermitente. En la tomografía axial computarizada (TC) se objetivó una masa pulmonar en el hemitórax derecho de 33 mm aproximadamente y múltiples adenopatías hiliares homolaterales y mediastínicas. También se vio un derrame pleural derecho con múltiples imágenes pseudonodulares y una atelectasia segmentaria en el lóbulo medio.
+Debido a estos hallazgos, el paciente fue derivado al neumólogo, quien le realizó una broncoscopia con aspiración y una tomografía por emisión de positrones (PET), la que confirmó una masa hipermetabólica en el lóbulo superior derecho compatible con una neoplasia primaria pulmonar. El paciente también presentaba adenopatías hipermetabólicas a diferentes niveles, incluyendo una adenopatía supraclavicuar derecha, un derrame pleural derecho y lesiones hipermetabólicas en el sexto arco costal.
+El estudio anatomo-patológico reveló un adenocarcinoma (ADC) de pulmón, y el análisis genético identificó la translocación de ALK, la cual se ha visto fuertemente asociada a la génesis en este tipo de tumores.
+Finalmente, el paciente fue diagnosticado de adenocarcinoma de pulmón estadio IV (T2aN2M1) con translocación de ALK, y se inició tratamiento paliativo de primera línea con crizotinib, un inhibidor de la tirosina kinasa.
+Después de dos ciclos de quimioterapia, la TC de control mostró una respuesta parcial con reducción de la masa pulmonar (20 mm), reducción del tamaño de las adenopatías paratraqueales y desaparición del derrame pleural. Desde enero de 2017 hasta junio de 2017, recibió un total de 6 ciclos de crizotinib (500 mg/24 horas) y el paciente alcanzó la enfermedad estable. Durante dicho periodo el paciente no presentó efectos adversos relevantes.
+Desde entonces, el paciente fue monitorizado clínicamente cada mes y se le realizaba una TC de control cada seis meses. No presentó ningún efecto adverso relacionado con el tratamiento oncológico y la enfermedad se mantuvo estable según los criterios RECIST.
+
+Enfermedad actual
+En noviembre de 2019, durante una consulta de control de oncología, el paciente refirió aparición lenta pero progresiva de edemas en extremidades inferiores y aumento de peso de hasta 5 kg en los últimos meses. También refirió notar una frecuencia cardiaca aun más lenta de la que solía presentar, en torno a 30 a 40 latidos por minutos sin mareo ni síncope, y disnea leve sin clara ortopnea.
+La TC de control mostró que la masa pulmonar continuaba estable, pero se objetivó la aparición de un derrame pleural leve, un derrame pericárdico laminar y una hipodensidad periportal compatible con edema.
+Se decidió suspender crizotinib de manera temporal, se inició tratamiento con un diurético del asa y se derivó al paciente a la consulta de cardio-oncología para descartar insuficiencia cardiaca congestiva.
+
+Exploración física
+En la primera visita a la consulta de cardio-oncología, el paciente se encontraba hipertenso (187/91 mmHg) y la saturación de oxígeno era normal. En la exploración física no se evidenció plétora yugular pero si reflejo hepatoyugular y edemas con fóvea en ambas extremidades inferiores. La auscultación cardiaca era rítmica a unos 40 latidos por minutos, sin evidenciarse soplos.
+
+PRUEBAS COMPLEMENTARIAS
+El electrocardiograma mostró un ritmo sinusal a 43 latidos por minutos, con un bloqueo auriculoventricular de primer grado y un QT normal (QTc 422 ms).
+No se evidenciaron alteraciones significativas en la analítica de sangre realizada: glucosa 82 mg/dl, urea 38 mg/dl, creatinina 1,15 mg/dl, tasa de filtración glomerular (CKD-EPI) 60 ml/min/1,73 m , sodio 145 mEq/l, potasio 4.6 mEq/l, magnesio 2,2 mg/dl, albúmina 3,8 g/dl, colesterol 177 mg/dl, hemoglobina 14 g/dl, leucocitos 4.41 x 103/ml, plaquetas 149 x 103/ml.
+El NT-proBNP se determinó una vez se había iniciado el tratamiento diurético y la situación clínica del paciente había mejorado, y su valor resultó de 115 pg/ml (rango normal 0 a 300 pg/ml).
+También se realizó un ecocardiograma y se objetivó una hipertrofia septal leve- moderada con fracción de eyección del ventrículo izquierdo (FEVI) conservada (FEVI estimada del 58%). La raíz de aorta estaba levemente dilatada (aorta ascendente de 42 mm) con regurgitación leve de válvula aórtica y mitral.
+La aurícula izquierda estaba levemente dilatada. El ventrículo derecho era normal en tamaño y función. Se objetivó una insuficiencia tricuspidea leve sin hipertensión pulmonar significativa, y un derrame pericárdico leve.
+
+EVOLUCIÓN CLÍNICA
+Tras la primera visita, se sospechó que el cuadro del paciente correspondía a una insuficiencia cardiaca secundaria a una bradicardia. La bradicardia es un efecto adverso cardiovascular común del crizotinib, el cual, también puede causar insuficiencia cardiaca.
+Según los criterios de Framingham para insuficiencia cardiaca, el paciente cumplía dos criterios mayores y tres criterios menores. El diagnóstico, además, se apoyaba en los hallazgos del ecocardiograma; una hipertrofia septal leve-moderada con FEVI conservada y un derrame pericárdico leve.
+Se realizó diagnóstico diferencial con otras entidades que podían causar congestión sistémica:
+La congestión sistémica puede estar causada tanto por alteraciones renales como por un síndrome nefrótico. La asociación entre el cáncer de pulmón y los síndromes paraneoplásicos es frecuente, entre los que se encuentra el síndrome nefrótico. Como podemos ver en los resultados analíticos, la función renal del paciente era normal y la albúmina y el colesterol se encontraban dentro de los rangos de la normalidad.
+El fallo hepático también puede ser causa de edema, pero el paciente no tenía antecedentes de etilismo, y tanto la bilirrubina como las enzimas hepáticas eran normales.
+También se debería tener en cuenta que la compresión venosa debida a la progresión del tumor podría causar edemas en las extremidades inferiores. Sin embargo, no se objetivaron adenopatías abdomino-pélvicas ni inguinales en la TC de control de octubre de 2019.
+Algunas medicaciones que forman parte de los diferentes tratamientos oncológicos pueden causar congestión sistémica (por ejemplo, corticoides, analgésicos como el ibruprofeno, naproxeno...). Nuestro paciente, sin embargo, no estaba recibiendo tratamiento con ninguno de ellos.
+Para cuando el paciente fue remitido a la consulta de cardio-oncología, el crizonitib ya se había suspendido y el diurético del asa estaba iniciado. Desde ese momento, el paciente presentó una evolución favorable, perdiendo hasta 2-3 kilogramos. Además, se inició enalapril 5 mg/24 horas a diario debido a la hipertensión objetivada en la consulta.
+El paciente fue finalmente diagnosticado de bradicardia sintomática secundaria a crizotinib e insuficiencia cardiaca congestiva con FEVI conservada.
+Después de una semana de tratamiento el paciente perdió 5 kg y no presentaba signos congestivos. También refirió notar una mayor frecuencia cardiaca. En el Holter de tensión arterial se objetivó que el paciente tenía una hipertensión grado 1, y se ajustó el tratamiento.
+El diurético de asa pudo ser retirado debido a que el paciente evolucionó favorablemente, se resolvieron los signos congestivos, no se objetivó cardiopatía grave en las pruebas realizadas, y su frecuencia cardiaca se encontraba en torno a 60 latidos por minuto. Tras una consulta multidisciplinar, y considerando la espectacular respuesta que había presentado previamente, se decidió reiniciar crizotinib con una monitorización estrecha.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca con FEVI conservada secundaria a bradicardia sinusal. Bradicardia sinusal secundaria a crizotinib.
+Adenocarcinoma de pulmón estadio IV con traslocación de ALK.

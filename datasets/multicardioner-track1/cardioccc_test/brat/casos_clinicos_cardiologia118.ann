@@ -1,0 +1,35 @@
+T32	ENFERMEDAD 44 56	hipertensión
+T33	ENFERMEDAD 59 69	dislipemia
+T34	ENFERMEDAD 378 390	hipertensión
+T35	ENFERMEDAD 393 403	dislipemia
+T36	ENFERMEDAD 1172 1200	hemiparesia derecha braquial
+T37	ENFERMEDAD 1422 1471	ictus isquémico en territorio de la ACM izquierda
+T38	ENFERMEDAD 1666 1683	isquemia cerebral
+T39	ENFERMEDAD 1833 1898	lesión isquémica aguda en territorio de la arteria cerebral media
+T40	ENFERMEDAD 2239 2252	cardiomegalia
+T41	ENFERMEDAD 2286 2301	derrame pleural
+T43	ENFERMEDAD 2552 2606	endocarditis como foco etiológico del infarto cerebral
+T44	ENFERMEDAD 2959 2981	vegetación endocárdica
+T45	ENFERMEDAD 3061 3091	hipertensión pulmonar moderada
+T46	ENFERMEDAD 3094 3126	insuficiencia tricuspídea ligera
+T47	ENFERMEDAD 3358 3377	absceso periaórtico
+T48	ENFERMEDAD 3778 3781	HTA
+T49	ENFERMEDAD 3783 3785	DM
+T50	ENFERMEDAD 3857 3879	trastorno del lenguaje
+T51	ENFERMEDAD 3882 3950	hemiparesia derecha en relación a ACV isquémico en territorio de CMI
+T52	ENFERMEDAD 4065 4077	endocarditis
+T53	ENFERMEDAD 4144 4188	vegetación endocárdica sobre válvula aórtica
+T54	ENFERMEDAD 4510 4523	cuadro gripal
+T55	ENFERMEDAD 4592 4632	vegetación y absceso periaórtico abierto
+T56	ENFERMEDAD 5021 5043	insuficiencia cardiaca
+T57	ENFERMEDAD 5047 5056	arritmias
+T58	ENFERMEDAD 5137 5190	endocarditis protésica tardía por Staphylococcus epid
+T59	ENFERMEDAD 5207 5222	ictus isquémico
+T60	ENFERMEDAD 5225 5244	absceso periaórtico
+T61	ENFERMEDAD 187 206	hemiparesia derecha
+T62	ENFERMEDAD 615 634	hemiparesia derecha
+T63	ENFERMEDAD 2640 2675	dilatación de la aurícula izquierda
+T119	ENFERMEDAD 3020 3026	trombo
+T30	ENFERMEDAD 701 707	gripal
+T92	ENFERMEDAD 2771 2802	prótesis aórtica disfuncionante
+T94	ENFERMEDAD 3300 3347	vegetación de unos 20 mm en el tracto de salida

@@ -1,0 +1,26 @@
+T43	ENFERMEDAD 112 136	hipotiroidismo yatrógeno
+T44	ENFERMEDAD 160 178	cáncer de tiroides
+T45	ENFERMEDAD 1092 1110	trombosis profunda
+T46	ENFERMEDAD 1198 1209	anemia leve
+T47	ENFERMEDAD 1930 1945	derrame pleural
+T48	ENFERMEDAD 2425 2445	dilatación auricular
+T49	ENFERMEDAD 2626 2651	insuficiencia tricuspídea
+T50	ENFERMEDAD 2713 2732	derrame pericárdico
+T51	ENFERMEDAD 3295 3332	extrasistolia ventricular polimórfica
+T52	ENFERMEDAD 3335 3394	taquicardias ventriculares polimórficas (TVP) no sostenidas
+T53	ENFERMEDAD 3376 3379	TVP
+T54	ENFERMEDAD 3627 3685	taquicardia ventricular sostenida tipo torsades de pointes
+T55	ENFERMEDAD 3803 3820	TVP no sostenidas
+T56	ENFERMEDAD 3921 3942	hipertensión arterial
+T57	ENFERMEDAD 4189 4208	bradicardia sinusal
+T58	ENFERMEDAD 4441 4471	síndrome de QT largo congénito
+T59	ENFERMEDAD 4893 4964	síndrome de QT largo tipo 1 con patrón de herencia autosómico dominante
+T60	ENFERMEDAD 5025 5052	Síndrome de QT Largo tipo 1
+T61	ENFERMEDAD 5161 5184	cardiopatía estructural
+T62	ENFERMEDAD 5113 5147	Parada cardiaca reanimada por TVPS
+T63	ENFERMEDAD 5091 5099	Síncopes
+T64	ENFERMEDAD 4088 4097	arrítmica
+T65	ENFERMEDAD 4474 4528	parada cardiorrespiratoria reanimada por TVP sostenida
+T66	ENFERMEDAD 995 1004	ascitisis
+T160	ENFERMEDAD 2886 2905	torsades de pointes
+T2	ENFERMEDAD 2787 2823	tripletes ventriculares polimórficos

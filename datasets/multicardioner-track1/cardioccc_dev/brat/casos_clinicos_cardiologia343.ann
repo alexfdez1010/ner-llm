@@ -1,0 +1,68 @@
+T56	ENFERMEDAD 157 180	alergias medicamentosas
+T57	ENFERMEDAD 195 203	fumadora
+T58	ENFERMEDAD 207 215	bebedora
+T59	ENFERMEDAD 220 241	hipertensión arterial
+T60	ENFERMEDAD 243 246	HTA
+T61	ENFERMEDAD 252 269	diabetes mellitus
+T62	ENFERMEDAD 271 273	DM
+T63	ENFERMEDAD 279 289	dislipemia
+T64	ENFERMEDAD 304 315	cardiopatía
+T65	ENFERMEDAD 319 330	broncopatía
+T66	ENFERMEDAD 1647 1672	trombosis venosa profunda
+T67	ENFERMEDAD 1674 1677	TVP
+T68	ENFERMEDAD 2409 2430	fibrilación auricular
+T69	ENFERMEDAD 2432 2434	FA
+T70	ENFERMEDAD 2449 2474	extrasistolia ventricular
+T71	ENFERMEDAD 2642 2689	bloqueo completo de rama derecha del haz de His
+T72	ENFERMEDAD 3116 3130	isquemia aguda
+T73	ENFERMEDAD 3404 3429	derrame pleural bilateral
+T74	ENFERMEDAD 3431 3444	Hepatomegalia
+T75	ENFERMEDAD 3725 3812	VI de tamaño normal con marcada hipocontractilidad global y disfunción sistólica severa
+T76	ENFERMEDAD 3845 3897	Insuficiencia mitral que impresiona de leve-moderada
+T77	ENFERMEDAD 4096 4140	trastornos segmentarios de la contractilidad
+T78	ENFERMEDAD 4251 4312	Válvula mitral anatómicamente normal con jet de insuficiencia
+T79	ENFERMEDAD 4632 4637	shock
+T81	ENFERMEDAD 5245 5250	shock
+T82	ENFERMEDAD 5426 5466	taquicardia supraventricular persistente
+T83	ENFERMEDAD 5605 5623	shock cardiogénico
+T84	ENFERMEDAD 5804 5823	fallo multiorgánico
+T85	ENFERMEDAD 5825 5868	insuficiencia hepático y renal oligoanúrica
+T86	ENFERMEDAD 6227 6250	taquicardia ventricular
+T87	ENFERMEDAD 6718 6743	preexcitación ventricular
+T88	ENFERMEDAD 6805 6823	shock cardiogénico
+T89	ENFERMEDAD 6845 6864	fallo multiorgánico
+T90	ENFERMEDAD 7251 7286	flutter auricular con conducción AV
+T91	ENFERMEDAD 7354 7377	flutter 2:1 preexcitado
+T92	ENFERMEDAD 7407 7430	taquicardia ortodrómica
+T93	ENFERMEDAD 7618 7632	FA preexcitada
+T94	ENFERMEDAD 7950 7971	fibrilación auricular
+T95	ENFERMEDAD 7974 7991	flutter auricular
+T96	ENFERMEDAD 8625 8659	insuficiencia mitral leve-moderada
+T97	ENFERMEDAD 8672 8693	disfunción diastólica
+T98	ENFERMEDAD 8779 8802	taquicardia ortodrómica
+T99	ENFERMEDAD 8804 8825	fibrilación auricular
+T100	ENFERMEDAD 8828 8848	flutter preexcitados
+T101	ENFERMEDAD 8850 8869	Taquimiocardiopatía
+T102	ENFERMEDAD 8897 8923	disfunción sistólica grave
+T103	ENFERMEDAD 8967 9009	Shock cardiogénico con fallo multiorgánico
+T104	ENFERMEDAD 2691 2697	BCRDHH
+T105	ENFERMEDAD 6138 6144	BCRDHH
+T106	ENFERMEDAD 7321 7327	BCRDHH
+T107	ENFERMEDAD 4142 4163	Disfunción diastólica
+T108	ENFERMEDAD 5533 5573	FA con frecuencia ventricular controlada
+T109	ENFERMEDAD 8353 8355	FA
+T110	ENFERMEDAD 1426 1439	Hepatomegalia
+T111	ENFERMEDAD 7018 7036	eventos arrítmicos
+T113	ENFERMEDAD 1145 1169	hipoperfusión periférica
+T114	ENFERMEDAD 1455 1501	Extremidades superiores: mala perfusión distal
+T115	ENFERMEDAD 1555 1601	Extremidades superiores: mala perfusión distal
+T117	ENFERMEDAD 4018 4071	ventrículo izquierdo (VI) no dilatado con hipertrofia
+T119	ENFERMEDAD 8358 8365	flutter
+T120	ENFERMEDAD 8708 8741	Síndrome de Wolff-Parkinson-White
+T196	ENFERMEDAD 6007 6034	taquicardia de QRS estrecho
+T197	ENFERMEDAD 6077 6103	taquicardia rítmica de QRS
+T199	ENFERMEDAD 6394 6418	taquicardia de QRS ancho
+T1	ENFERMEDAD 716 740	hipoperfusión periférica
+T112	ENFERMEDAD 7218 7227	QRS ancho
+T118	ENFERMEDAD 7293 7302	QRS ancho
+T170	ENFERMEDAD 7330 7338	HV corto

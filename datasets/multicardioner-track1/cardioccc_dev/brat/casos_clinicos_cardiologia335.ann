@@ -1,0 +1,88 @@
+T86	ENFERMEDAD 292 313	hipertensión arterial
+T87	ENFERMEDAD 344 352	Obesidad
+T88	ENFERMEDAD 377 415	Fibrilación auricular (FA) paroxística
+T89	ENFERMEDAD 400 402	FA
+T90	ENFERMEDAD 557 600	bloqueo auriculoventricular de primer grado
+T91	ENFERMEDAD 1016 1036	valvulopatía aórtica
+T92	ENFERMEDAD 1166 1191	Insuficiencia mitral leve
+T93	ENFERMEDAD 1193 1222	Insuficiencia tricúspide leve
+T94	ENFERMEDAD 1454 1462	Artrosis
+T95	ENFERMEDAD 1464 1482	Síndrome depresivo
+T96	ENFERMEDAD 2880 2901	edema agudo de pulmón
+T97	ENFERMEDAD 2983 3011	fibrilación auricular rápida
+T98	ENFERMEDAD 5392 5417	VI moderadamente dilatado
+T99	ENFERMEDAD 5648 5711	Insuficiencia mitral leve-moderada de origen mixto degenerativa
+T100	ENFERMEDAD 5855 5876	Insuficiencia aórtica
+T101	ENFERMEDAD 5878 5881	IAo
+T102	ENFERMEDAD 5891 5925	Insuficiencia tricuspídea moderada
+T103	ENFERMEDAD 7937 7983	Bloqueo auriculoventricular (BAV) primer grado
+T106	ENFERMEDAD 8517 8565	taquicardia ventricular polimórfica no sostenida
+T107	ENFERMEDAD 8739 8764	VI moderadamente dilatado
+T108	ENFERMEDAD 8996 9059	Insuficiencia mitral leve-moderada de origen mixto degenerativa
+T109	ENFERMEDAD 9238 9272	Insuficiencia tricuspídea moderada
+T110	ENFERMEDAD 9753 9793	Insuficiencia mitral leve-moderada mixta
+T111	ENFERMEDAD 9940 9965	Insuficiencia tricuspídea
+T112	ENFERMEDAD 10030 10050	insuficiencia mitral
+T113	ENFERMEDAD 10382 10401	taquicardiomiopatía
+T114	ENFERMEDAD 10464 10479	hernia de hiato
+T115	ENFERMEDAD 10525 10544	taquicardiomiopatía
+T116	ENFERMEDAD 10707 10742	FA con respuesta ventricular rápida
+T117	ENFERMEDAD 11220 11243	arritmias ventriculares
+T118	ENFERMEDAD 11546 11565	hepatitis isquémica
+T119	ENFERMEDAD 11661 11689	insuficiencia cardiaca aguda
+T120	ENFERMEDAD 11972 12000	disfunción ventricular grave
+T121	ENFERMEDAD 12094 12096	FA
+T122	ENFERMEDAD 12348 12380	disfunción ventricular izquierda
+T123	ENFERMEDAD 12417 12436	taquimiocardiopatía
+T124	ENFERMEDAD 12501 12522	vasoespasmo coronario
+T125	ENFERMEDAD 12582 12630	taquicardias ventriculares polimorfas sostenidas
+T126	ENFERMEDAD 13053 13077	episodios vasoespásticos
+T127	ENFERMEDAD 13463 13502	Insuficiencia cardiaca aguda congestiva
+T128	ENFERMEDAD 13519 13540	edema agudo de pulmón
+T129	ENFERMEDAD 13542 13589	FA persistente con respuesta ventricular rápida
+T130	ENFERMEDAD 13630 13649	Taquimiocardiopatía
+T131	ENFERMEDAD 13704 13749	Taquicardia ventricular polimórfica sostenida
+T132	ENFERMEDAD 13751 13769	torsade de pointes
+T133	ENFERMEDAD 13798 13819	Vasoespasmo coronario
+T134	ENFERMEDAD 13872 13888	Bronquitis aguda
+T135	ENFERMEDAD 13903 13925	infección respiratoria
+T136	ENFERMEDAD 13927 13946	Hepatitis isquémica
+T137	ENFERMEDAD 13948 13960	Colelitiasis
+T138	ENFERMEDAD 14104 14154	Contraindicación a betabloqueantes por vasoespasmo
+T139	ENFERMEDAD 1118 1164	Dilatación de aurícula izquierda (AI) moderada
+T140	ENFERMEDAD 4878 4880	FA
+T141	ENFERMEDAD 8082 8084	FA
+T142	ENFERMEDAD 9456 9458	FA
+T143	ENFERMEDAD 13962 14011	Trastorno depresivo mayor con síntomas psicóticos
+T144	ENFERMEDAD 5745 5822	Válvula aórtica trivalva con ligera calcificación de borde libre de los velos
+T145	ENFERMEDAD 9093 9170	Válvula aórtica trivalva con ligera calcificación de borde libre de los velos
+T146	ENFERMEDAD 9795 9872	Válvula aórtica trivalva con ligera calcificación de borde libre de los velos
+T147	ENFERMEDAD 3420 3429	arrítmica
+T148	ENFERMEDAD 5227 5240	cardiomegalia
+T149	ENFERMEDAD 13165 13180	depresión mayor
+T150	ENFERMEDAD 5601 5633	VD con disfunción sistólica leve
+T151	ENFERMEDAD 8948 8975	VD con disfunción sistólica
+T152	ENFERMEDAD 10109 10167	VI de tamaño normal con disfunción sistólica moderadagrave
+T153	ENFERMEDAD 11012 11051	taquicardias ventriculares polimórficas
+T154	ENFERMEDAD 754 824	ventrículo izquierdo (VI) no dilatado con hipertrofia concéntrica leve
+T155	ENFERMEDAD 9203 9206	IAo
+T156	ENFERMEDAD 9215 9236	AI dilatada levemente
+T157	ENFERMEDAD 9678 9703	Disfunción moderada de VI
+T158	ENFERMEDAD 9905 9908	IAo
+T159	ENFERMEDAD 9917 9938	AI dilatada levemente
+T160	ENFERMEDAD 13821 13841	angina de Prinzmetal
+T161	ENFERMEDAD 14013 14095	Intolerancia tensional a inhibidores de la enzima de conversión de la angiotensina
+T162	ENFERMEDAD 13847 13870	arritmias ventriculares
+T62	ENFERMEDAD 13772 13780	QT largo
+T80	ENFERMEDAD 5422 5444	disfunción de VI grave
+T82	ENFERMEDAD 5727 5743	dilatación de VI
+T33	ENFERMEDAD 8663 8665	EV
+T42	ENFERMEDAD 8769 8791	disfunción de VI grave
+T104	ENFERMEDAD 9075 9091	dilatación de VI
+T105	ENFERMEDAD 10672 10693	edema agudo de pulmón
+T239	ENFERMEDAD 10950 10958	QT largo
+T240	ENFERMEDAD 10976 10995	prolongación del QT
+T243	ENFERMEDAD 13654 13685	disfunción ventricular moderada
+#1	AnnotatorNotes T89	  fibrilación auricular
+#2	AnnotatorNotes T140	  fibrilación auricular
+#3	AnnotatorNotes T155	  insuficiencia aortica

@@ -1,0 +1,54 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Varón de 56 años, natural de Colombia y sin alergias medicamentosas conocidas.
+No refiere antecedentes familiares de cardiopatía o muerte súbita.
+Como hábitos tóxicos, destaca consumo moderado de alcohol hasta hace varios años. No fumador.
+Como factores de riesgo cardiovascular destacan hipertensión arterial y dislipemia, ambos sin tratamiento farmacológico ni control por parte de ningún facultativo, y obesidad mórbida (IMC 57 kg/m2).
+Otros antecedentes de interés: síndrome de apnea del sueño grave sin tratamiento e hipotiroidismo.
+Niega tratamiento habitual para ninguna de sus comorbilidades.
+
+ENFERMEDAD ACTUAL
+Acude a urgencias por disnea progresiva de 15 días de evolución hasta hacerse de reposo, junto con ortopnea, aumento del perímetro abdominal y edemas en extremidades. No refiere dolor torácico, palpitaciones, ni mareo o síncopes en las semanas previas al momento de consulta.
+
+EXPLORACIÓN FÍSICA
+Peso 171 kg; talla 173 cm; índice de masa corporal (IMC) 57 kg/m2.
+Afebril; tensión arterial (TA) 100/60 mmHg; frecuencia cardiaca (FC) 132 lpm; SatO2 basal 98%.
+Consciente y orientado, normohidratado, eupneico en reposo, ingurgitación yugular presente a 45 ̊.
+Auscultación cardiaca: ruidos cardiacos arrítmicos a 132 lpm sin soplos.
+Auscultación pulmonar: crepitantes bibasales.
+Abdomen: blando, depresible, muy globuloso, no doloroso a la palpación profunda ni superficial, peristaltismo presente, sin peritonismo.
+Extremidades inferiores: edemas bilaterales con fóvea hasta la rodilla.
+
+PRUEBAS COMPLEMENTARIAS
+ECG al ingreso: fibrilación auricular (FA) con respuesta ventricular a 132 lpm.
+Onda Q en DIII. Voltajes bajos.
+Radiografía de tórax: cardiomegalia radiológica. Edema intersticial.
+Analítica sanguínea: bioquímica: glucosa 93 mg/dl; HbA1c 6,2%; urea 0,44 gr/l; creatinina 1,19 mg/dl; filtrado glomerular 67 ml/min; colesterol total 223 mg/dl; colesterol LDL 150 mg/dl; colesterol HDL 23 mg/dl; triglicéridos 250 mg/dl; sodio 145 mEq/l; potasio 4,8 mEq/l. TSH 2,01 mcU/ml. Pruebas de función hepaticas normales.
+Hemograma: hemoglobina 14,8 gr/dl; hematocrito 45,7%; leucocitos 8.100/mm3; plaquetas 198.000/mm3.
+Ecocardiograma transtorácico (con ecocontraste Sonovue): aurícula izquierda gravemente dilatada (A4C: 60 cm2). Válvula mitral de velos finos con movilidad y apertura conservadas; ligera regurgitación grado I/IV. Presiones de llenado elevadas. Ventrículo izquierdo moderadamente dilatado (VTDVI biplano indexado: 93 cm3/m2) con función sistólica gravemente deprimida (FEVI 32%) por afectación global. Válvula aórtica fina con buena apertura y movilidad; sin regurgitación. Raíz aórtica ligeramente dilatada. Aurícula derecha ligeramente dilatada (A4C: 26 cm2). Ventrículo derecho dilatado (diámetro basal: 53 mm; medio 37 mm); con contractilidad ligeramente deprimida (TAPSE 15 mm). Válvula tricúspide con buena apertura y movilidad; insuficiencia grado II/IV. Vena cava inferior dilatada con colapso inspiratorio. Presión sistólica arterial pulmonar estimada 51 mmHg.
+No se aprecia derrame pericárdico.
+Cateterismo cardiaco izquierdo: ventriculografía: ventrículo izquierdo dilatado con disfunción sistólica grave. Sin regurgitación mitral. Coronariografía: dominancia izquierda. No se observan lesiones angiográficamente significativas en las arterias coronarias epicárdicas.
+Pruebas de función respiratoria: espirometría: moderada disminución de la función ventilatoria de tipo obstructivo. FEV1 2,12 l (59%); FVC 3,38 l (73%); FEV1/FVC 62,67%.
+Prueba broncodilatadora: positiva; mejoría significativa en FEV1 (+18% = 320 ml).
+Electrocardiograma al alta: fibrilación auricular con respuesta ventricular a 80 lpm. Onda Q en III. Voltajes bajos.
+
+EVOLUCIÓN CLÍNICA
+En la valoración cardiológica inicial en urgencias se constata la presencia de signos clínicos de insuficiencia cardiaca congestiva, una fibrilación auricular con respuesta ventricular rápida a 132 lpm y en la ecocardioscopia una disfunción sistólica izquierda, por lo que ingresa para tratamiento oportuno y completar estudios etiológicos.
+El paciente presentó una mejoría clínica significativa durante los primeros días de ingreso con tratamiento deplectivo con diurético intravenoso, hasta alcanzar un peso seco de 156 kg respecto a los 171 kg iniciales. Se realizó un ecocardiograma reglado con ecocontraste por mala ventana ecocardiográfica, que confirmó los hallazgos de la ecocardioscopia, mostrando además elevadas presiones de llenado con hipertensión pulmonar significativa y disfunción derecha asociada. Además, se completó el estudio etiológico con una coronariografía para descartar la etiología isquémica de la miocardiopatía dilatada, no mostrando lesiones angiográficamente significativas en las arterias coronarias epicárdicas. Por ello se interpretó el cuadro como insuficiencia cardiaca con fracción de eyección reducida en el contexto de miocardiopatía dilatada no isquémica, sin poder descartar un origen tóxico (enólica) junto con cierto componente de taquimiocardiopatía asociada.
+Durante el ingreso se iniciaron con éxito los tratamientos con valor pronóstico en insuficiencia cardiaca con función sistólica deprimida, con buena tolerancia a los mismos, consiguiendo un buen control de la frecuencia cardiaca con betabloqueantes a dosis medias y estando al alta con IECA, betabloqueantes y antialdosterónicos a dosis máximas toleradas por tensión arterial.
+Además, durante su hospitalización el paciente recibió educación nutricional para cambios en los hábitos alimenticios, así como instrucciones para comenzar a realizar ejercicio físico. Ante paciente con prediabetes y obesidad mórbida con LDL 150 mg/dl, se iniciaron estatinas para conseguir cifras objetivo de LDL < 100 mg/dl.
+En colaboración con el servicio de neumología, se inició durante el ingreso tratamiento con CPAP para su apnea del sueño, con buena tolerancia.
+Respecto a su fibrilación auricular de inicio incierto, con puntuación CHADS-VASc de 2 y HASBLED de 0, fue anticoagulado al ingreso con HBPM ajustada al peso. Se planteó estrategia inicial de control de frecuencia para, tras estabilización clínica y un mes de anticoagulación, realizar cardioversión eléctrica programada con fines de control del ritmo.
+En lo que respecta a la elección del tratamiento anticoagulante al alta, el paciente se negó a la toma de AVK por motivos personales, lo que sumado a su elevado peso e IMC planteó un dilema importante. De acuerdo con el servicio de hematología, se decidió inicio de rivaroxabán 20 mg y se realizaron medidas en laboratorio de sus niveles pico y valle, para comprobar que se encontraban en rango terapéutico. Tras ello, fue dado de alta con dicho tratamiento de forma mantenida.
+En el seguimiento ambulatorio en consultas externas, el paciente ha mejorado clínicamente, ha reducido su peso hasta 130 kg (IMC 43 kg/m2) y se encuentra en grado funcional II. Se ha continuado con la titulación de fármacos pronósticos en insuficiencia cardiaca, sustituyendo el IECA por sacubitrilo-valsartán. Se han realizado dos intentos fallidos de cardioversión eléctrica, optándose por continuar con control de frecuencia cardiaca, que estaba siendo adecuado. En la ecocardiografía de control tras 3 meses de tratamiento médico optimizado, se observa mejoría de la FEVI hasta el 50%.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca con fracción de eyección de ventrículo izquierdo deprimida.
+Miocardiopatía dilatada no isquémica (posible daño tóxico por enolismo y taquimiocardipatía asociada).
+Fibrilación auricular (FA) de inicio indeterminado (CHADSVASc 2, HASBLED 0).
+Arterias coronarias sin lesiones significativas.
+Síndrome de apnea del sueño muy grave.
+Obesidad mórbida.
+Hipertensión arterial con buen control al alta.
+Prediabetes.

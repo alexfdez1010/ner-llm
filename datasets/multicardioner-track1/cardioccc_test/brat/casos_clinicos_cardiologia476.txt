@@ -1,0 +1,28 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Se trata de una mujer de 61 años, exfumadora, recientemente diagnosticada de diabetes mellitus tipo 1 autoinmune tipo LADA, dislipémica, con antecedentes de ataxia espinocerebelosa, que consulta en Urgencias por cuadro de tos no productiva y sensación distérmica de días de evolución.
+Se encuentra hemodinámicamente estable, hipertensa (TA 189/114 mmHg ), taquicardia sinusal a 130 lpm, taquipnéica con frecuencia respiratoria de 30 rpm en reposo, sin tiraje, y saturación de oxígeno del 94 % con Ventimask 40 %, flapping y afebril. ECG con ritmo sinusal sin alteraciones de la repolarización. En la exploración física destaca a la auscultación respiratoria evidencia de broncoespasmo severo y cardiaca con tornos rítmicos sin soplos. Resto sin hallazgos patológicos.
+
+PRUEBAS COMPLEMENTARIAS
+ECG en Urgencias: ritmo sinusal a 70 lpm, PR 140 ms, QRS estrecho QTc 448 ms sin alteraciones de la repolarización. ECG en UCI: ritmo sinusal a 78 lpm, PR 140 ms, QRS estrecho, QTc 579 ms ondas T negativas simétricas difusas.
+GSA en Urgencias: pH 7,18; PCO2 79,9 mmHg; PO2 142,3 mmHg; bicarbonato 29,6 mmol/l; EB 1,4; SaO2 98 %.
+Seriación de troponina I: 0,12- 1,45-2,51- 3,4- 2,8 ng/ml.
+Analítica de sangre de Urgencias: destaca creatinina 0,73 mg/dl; urea 54 mg/dl; hemoglobina 13,2 g/dl; hematocrito 42,3 %; leucocitos 23.000/μl; PCR 2,4 mg/dl.
+Analítica de sangre durante el ingreso en Cardiología: destaca: HbA1C 7,1 mg/dl, colesterol total 172 mg/dl, HDL 49mg/dl, LDL 91,58 mg/dl. Perfil tiroideo normal; D-Dímero 571 ng/Ml.
+Radiografía de tórax en UCI: engrosamiento hiliar. Redistribución apical.
+Ecocardiografía transtorácica: VI que parece de dimensión normal, grosor parietal ligeramente aumentado, contractilidad simétrica hiperdinámica. FEVI normal.
+AI de dimensión normal. VD de dimensión y función normal. AD de dimensión normal. VCI de tamaño normal con colapso inspiratorio superior al 50 %. No derrame pericárdico. Raíz aórtica de dimensión normal. VAo trivalva, parece que abre de forma correcta. VM con velos finos, correcta cinética. Competente. No se detecta IT. VP visualizada por subcostal, parece de ecoestructura y flujo normal.
+Conclusiones VI de dimensión y función normal. AI normal. VD de dimensión y función normal. AD de dimensión normal. No se aprecian valvulopatías significativas por esta vía de estudio. Signos de PVC normal. No derrame pericárdico.
+Resonancia magnética cardiaca: VI de dimensión normal, paredes normales, contractilidad simétrica. FEVI normal. AI de dimensión normal. VD de dimensión y función normal. AD de dimensión normal. Sin valvulopatías significativas.
+Derrame pericárdico leve. No se evidencia edema ni anormalidades en la captación de gadolinio.
+Cateterismo: dominancia derecha. Arterias coronarias sin lesiones angiográficas con flujo normal.
+
+
+EVOLUCIÓN
+Evoluciona con insuficiencia respiratoria progresiva y crisis hipertensiva, iniciándose tratamiento diurético endovenoso, ventilación mecánica no invasiva, tratamiento antibiótico, broncodilatadores y corticoides endovenosos e ingresa en Unidad de Cuidados Intensivos, con mejoría precoz pudiéndose retirar soporte ventilatorio precozmente. Durante su estancia con mejoría precoz y retirada de soporte ventilatorio, se evidencia en dicho contexto ECG con T negativas simétricas difusas con QTc alargado junto a pico troponina 3,4 ng/ml. Se realiza ecocardiograma que muestra VI ligeramente hipertrófico con FE conservada sin claros segmentarismos y se orienta inicialmente con IAMSEST Killip II iniciándose doble antiagregación y anticoagulación. Se consulta con Cardiología, y dado posible IAM tipo 2 secundario a crisis hipertensiva y broncoespasmo en paciente con factores de riesgo cardiovasculares frente a IAM tipo 1 sin claras alteraciones en ecocardiograma, pasa a cargo de Cardiología y se decide realizar coronariografía que evidenció ausencia de lesiones coronarias. En planta se realiza ecocardiograma con función ventricular conservada y para descartar otras causas de necrosis miocárdica sin lesiones coronarias, se solicita resonancia magnética cardiaca, siendo compatible con la normalidad.
+Dado que no se pudo demostrar afectación de la función ventricular global o segmentaria transitoria, se decidió retirar doble antiagregación y se orientó como diagnóstico más probable el infarto de miocardio tipo 2 en contexto de infección respiratoria con broncoespasmo severo.
+Tras varios días de ingreso hospitalario fue dada de alta a su domicilio sin incidencias.
+
+DIAGNÓSTICO
+Infección respiratoria con broncoespasmo severo.
+Infarto de miocardio tipo 2.
+Ausencia de lesiones coronarias.

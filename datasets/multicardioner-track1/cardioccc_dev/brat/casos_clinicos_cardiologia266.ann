@@ -1,0 +1,44 @@
+T39	ENFERMEDAD 375 416	reacciones alérgicas conocidas a fármacos
+T40	ENFERMEDAD 548 567	hipercolesterolemia
+T41	ENFERMEDAD 600 621	cardiopatía isquémica
+T42	ENFERMEDAD 1410 1501	necrosis crónica de 4 segmentos del territorio perteneciente a la arteria coronaria derecha
+T43	ENFERMEDAD 1826 1848	insuficiencia cardiaca
+T44	ENFERMEDAD 1865 1886	embolismos sistémicos
+T45	ENFERMEDAD 2972 3015	pseudoaneurisma contenido por el pericardio
+T46	ENFERMEDAD 3071 3088	trombosis parcial
+T47	ENFERMEDAD 3130 3146	edema miocárdico
+T48	ENFERMEDAD 3479 3610	necrosis transmural en segmento medio de cara inferior y subendocárdica en segmentos basales inferoseptal, inferior e inferolateral
+T49	ENFERMEDAD 3624 3665	necrosis crónica de 4 segmentos de la ACD
+T50	ENFERMEDAD 3968 3983	derrame pleural
+T51	ENFERMEDAD 5176 5195	derrame pericárdico
+T52	ENFERMEDAD 5602 5678	Arteria coronaria derecha (ACD) dominante, con oclusión total crónica ostial
+T53	ENFERMEDAD 5912 5945	enfermedad coronaria de dos vasos
+T54	ENFERMEDAD 6417 6436	derrame pericárdico
+T55	ENFERMEDAD 6713 6746	enfermedad coronaria de dos vasos
+T56	ENFERMEDAD 6919 6973	pseudoaneurisma ventricular izquierdo en cara inferior
+T57	ENFERMEDAD 7283 7298	pseudoaneurisma
+T58	ENFERMEDAD 8246 8274	Infarto de miocardio silente
+T59	ENFERMEDAD 8290 8336	pseudoaneurisma ventricular izquierdo inferior
+T60	ENFERMEDAD 8338 8414	Enfermedad arterial coronaria de 2 vasos (ADA proximal y media y ACD ostial)
+T61	ENFERMEDAD 8416 8457	Disfunción ventricular izquierda moderada
+T62	ENFERMEDAD 8484 8493	aneurisma
+T63	ENFERMEDAD 8531 8550	Hipercolesterolemia
+T64	ENFERMEDAD 8552 8562	Tabaquismo
+T65	ENFERMEDAD 4914 4952	Aurícula izquierda gravemente dilatada
+T66	ENFERMEDAD 418 433	Hábitos tóxicos
+T67	ENFERMEDAD 7988 8018	complicaciones postquirúrgicas
+T68	ENFERMEDAD 435 442	fumador
+T69	ENFERMEDAD 3667 3714	pseudoaneurisma en cara inferior segmento medio
+T70	ENFERMEDAD 3942 3964	consolidación alveolar
+T71	ENFERMEDAD 5295 5370	Arteria descendente anterior (ADA) larga, de buen calibre, con lesión grave
+T110	ENFERMEDAD 1507 1542	pseudoaneurisma en la cara inferior
+T34	ENFERMEDAD 4954 5010	Válvula mitral con buena apertura y mínima regurgitación
+T111	ENFERMEDAD 6766 6794	lesión grave en ADA proximal
+T112	ENFERMEDAD 6832 6865	oclusión crónica ostial de la ACD
+T117	ENFERMEDAD 2912 2959	segmento medio inferior, con rotura de la pared
+T121	ENFERMEDAD 4682 4705	pseudoaneurisma sacular
+T129	ENFERMEDAD 5950 5969	lesión grave en ADA
+T132	ENFERMEDAD 6003 6039	oclusión total crónica de ACD ostial
+T135	ENFERMEDAD 6237 6264	cavidad pseudoaneurismática
+T136	ENFERMEDAD 7053 7073	contenido trombótico
+T100	ENFERMEDAD 7945 7972	cavidad pseudoaneurismática

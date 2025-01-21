@@ -1,0 +1,51 @@
+T27	ENFERMEDAD 80 89	exfumador
+T28	ENFERMEDAD 182 203	hipertensión arterial
+T29	ENFERMEDAD 205 208	HTA
+T30	ENFERMEDAD 271 281	dislipemia
+T31	ENFERMEDAD 288 313	diabetes mellitus tipo II
+T32	ENFERMEDAD 315 317	DM
+T33	ENFERMEDAD 348 377	cardiopatía isquémica crónica
+T34	ENFERMEDAD 390 422	oclusión de descendente anterior
+T35	ENFERMEDAD 457 476	ateromatosis difusa
+T36	ENFERMEDAD 612 633	artropatía psoriásica
+T37	ENFERMEDAD 692 713	infección por gripe A
+T38	ENFERMEDAD 716 742	insuficiencia respiratoria
+T39	ENFERMEDAD 2069 2121	extrasistolia ventricular frecuente (en bigeminismo)
+T40	ENFERMEDAD 2242 2261	bradicardia sinusal
+T41	ENFERMEDAD 3899 3926	Insuficiencia mitral ligera
+T42	ENFERMEDAD 4043 4087	Válvula aórtica trivalva, esclerocalcificada
+T43	ENFERMEDAD 4175 4196	Insuficiencia aórtica
+T44	ENFERMEDAD 4473 4500	Insuficiencia pulmonar leve
+T45	ENFERMEDAD 4505 4532	estenosis valvular pulmonar
+T46	ENFERMEDAD 4595 4640	Válvula tricúspide fina, insuficiencia ligera
+T47	ENFERMEDAD 4772 4791	derrame pericárdico
+T48	ENFERMEDAD 4822 4896	tronco común izquierdo (TCI) ateromatoso con lesión excéntrica calcificada
+T49	ENFERMEDAD 4931 4979	estenosis significativa a nivel distal en TCI-Cx
+T50	ENFERMEDAD 5134 5226	Circunfleja (CX) difusamente calcificada, con lesión grave a nivel ostial (TCI-CX) y proxima
+T51	ENFERMEDAD 5386 5418	lesiones sangrantes de la mucosa
+T52	ENFERMEDAD 5891 5907	angina inestable
+T53	ENFERMEDAD 6013 6026	valvulopatías
+T54	ENFERMEDAD 6079 6121	oclusión de la descendente anterior ostial
+T55	ENFERMEDAD 6137 6212	lesión significativa en el tronco distal afectando al ostium de circunfleja
+T56	ENFERMEDAD 6263 6286	anemia ferropénica leve
+T57	ENFERMEDAD 6376 6382	anemia
+T58	ENFERMEDAD 6478 6501	bigeminismo ventricular
+T59	ENFERMEDAD 6542 6565	arritmias ventriculares
+T60	ENFERMEDAD 283 285	DL
+T61	ENFERMEDAD 550 564	FA paroxística
+T62	ENFERMEDAD 63 78	Hábitos tóxicos
+T63	ENFERMEDAD 28 51	alergias medicamentosas
+T64	ENFERMEDAD 6865 6876	anemización
+T65	ENFERMEDAD 2272 2305	extrasistolia ventricular aislada
+T66	ENFERMEDAD 3159 3178	necrosis miocárdica
+T67	ENFERMEDAD 1484 1491	síncope
+T68	ENFERMEDAD 4198 4237	Aurícula izquierda ligeramente dilatada
+T69	ENFERMEDAD 4396 4433	Aurícula derecha ligeramente dilatada
+T70	ENFERMEDAD 5035 5045	DA ocluida
+T71	ENFERMEDAD 5229 5286	Coronaria derecha (CD) dominante con calcificacion difusa
+T72	ENFERMEDAD 5515 5531	lesión de TCI-Cx
+T73	ENFERMEDAD 5696 5708	lesión de CX
+T15	ENFERMEDAD 3720 3779	ventrículo izquierdo no dilatado, ligeramente hipertrofiado
+T186	ENFERMEDAD 109 113	fumó
+#1	AnnotatorNotes T60	 DL dislipemia
+#2	AnnotatorNotes T61	 FA fibrilación auricular

@@ -1,0 +1,20 @@
+T1	ENFERMEDAD 1057 1065	catarata
+T2	ENFERMEDAD 729 776	perforación escleral con intrusión del cerclaje
+T5	ENFERMEDAD 127 152	desprendimiento de retina
+T6	ENFERMEDAD 154 156	DR
+T8	ENFERMEDAD 857 880	atrofia coriorretiniana
+T11	ENFERMEDAD 1278 1280	HV
+T12	ENFERMEDAD 943 966	atrofia coriorretiniana
+T13	ENFERMEDAD 277 295	desgarro retiniano
+T15	ENFERMEDAD 1311 1313	HV
+T17	ENFERMEDAD 1334 1336	DR
+T18	ENFERMEDAD 1342 1364	intrusión del cerclaje
+T20	ENFERMEDAD 1400 1402	HV
+T24	ENFERMEDAD 515 537	degeneración retiniana
+T25	ENFERMEDAD 366 381	recidiva del DR
+#1	AnnotatorNotes T6	   DR: desprendimiento de retina
+#4	AnnotatorNotes T11	   HV: hemorragias vítreas
+#5	AnnotatorNotes T15	   HV: hemorragias vítreas
+#3	AnnotatorNotes T17	   DR: desprendimiento de retina
+#6	AnnotatorNotes T20	   HV: hemorragias vítreas
+#2	AnnotatorNotes T25	   DR: desprendimiento de retina

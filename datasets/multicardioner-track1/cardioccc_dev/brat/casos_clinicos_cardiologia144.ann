@@ -1,0 +1,53 @@
+T32	ENFERMEDAD 169 190	hipertensión arterial
+T33	ENFERMEDAD 241 251	dislipemia
+T34	ENFERMEDAD 253 264	amigdalitis
+T35	ENFERMEDAD 294 319	hipoacusia bilateral leve
+T36	ENFERMEDAD 347 369	herpes zoster torácico
+T37	ENFERMEDAD 398 425	insuficiencia renal crónica
+T38	ENFERMEDAD 538 559	edema agudo de pulmón
+T39	ENFERMEDAD 575 594	insuficiencia renal
+T40	ENFERMEDAD 802 854	ventrículo izquierdo (VI) con hipertrofia excéntrica
+T41	ENFERMEDAD 1118 1142	dilatación biventricular
+T42	ENFERMEDAD 1145 1183	disfunción severa de ambos ventrículos
+T43	ENFERMEDAD 1289 1339	extremidad superior derecha, fístula arteriovenosa
+T44	ENFERMEDAD 1542 1564	insuficiencia cardiaca
+T45	ENFERMEDAD 1998 2004	anemia
+T46	ENFERMEDAD 2199 2219	cardiomegalia severa
+T47	ENFERMEDAD 2317 2325	varicela
+T48	ENFERMEDAD 2690 2724	Insuficiencia mitral (IM) moderada
+T49	ENFERMEDAD 2726 2762	Insuficiencia tricúspide (IT) severa
+T50	ENFERMEDAD 2896 2922	Derrame pericárdico severo
+T51	ENFERMEDAD 3408 3415	ascitis
+T52	ENFERMEDAD 3418 3435	hígado de estasis
+T53	ENFERMEDAD 3463 3485	insuficiencia cardiaca
+T54	ENFERMEDAD 3983 3994	hipovolemia
+T55	ENFERMEDAD 4547 4560	cardiomegalia
+T56	ENFERMEDAD 5592 5611	derrame pericárdico
+T57	ENFERMEDAD 5628 5649	Síndrome cardiorrenal
+T58	ENFERMEDAD 5698 5720	disfunción ventricular
+T59	ENFERMEDAD 1720 1733	Hepatomegalia
+T60	ENFERMEDAD 5547 5549	IM
+T61	ENFERMEDAD 4716 4718	IT
+T62	ENFERMEDAD 5551 5553	IT
+T63	ENFERMEDAD 4268 4281	cardiomegalia
+T64	ENFERMEDAD 2247 2272	derrame pleural bilateral
+T65	ENFERMEDAD 3368 3406	derrame pleural bilateral, pericárdico
+T66	ENFERMEDAD 3999 4010	hipotensión
+T67	ENFERMEDAD 1845 1869	hipoperfusión periférica
+T68	ENFERMEDAD 2304 2315	hepatitis A
+T69	ENFERMEDAD 2334 2347	herpes simple
+T70	ENFERMEDAD 2427 2450	VI severamente dilatado
+T71	ENFERMEDAD 2613 2659	Ventrículo derecho (VD) moderadamente dilatado
+T72	ENFERMEDAD 2752 2754	IT
+T73	ENFERMEDAD 2712 2714	IM
+T74	ENFERMEDAD 2764 2815	Venas suprahepáticas y vena cava inferior dilatadas
+T75	ENFERMEDAD 3068 3091	VI severamente dilatado
+T76	ENFERMEDAD 3756 3792	dilatación y disfunción severa de VD
+T77	ENFERMEDAD 4148 4165	episodio catarral
+T122	ENFERMEDAD 5032 5064	hipertrofia concéntrica moderada
+T23	ENFERMEDAD 5081 5101	VD ligera dilatación
+#1	AnnotatorNotes T60	 insuficiencia mitral
+#2	AnnotatorNotes T61	 insuficiencia tricuspide
+#3	AnnotatorNotes T62	 insuficiencia tricuspide
+#4	AnnotatorNotes T72	 insuficiencia tricuspide
+#5	AnnotatorNotes T73	 insuficiencia mitral

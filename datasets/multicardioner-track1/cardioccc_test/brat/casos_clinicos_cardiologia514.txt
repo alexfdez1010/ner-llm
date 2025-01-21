@@ -1,0 +1,14 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 70 años, hipertenso sin otros antecedentes personales ni familiares de interés, trasladado en helicóptero por el Servicio de Emergencias con sospecha de síndrome coronario agudo. El paciente se encontraba en una zona de difícil acceso por carretera y llamó a los Servicios de Emergencias refiriendo dolor torácico intenso y sensación nauseosa.
+En el momento de la valoración por parte de Cardiología el paciente se encuentra obnubilado, hemodinámicamente inestable (TA 70/40), mal perfundido y con intenso dolor torácico. A la auscultación cardiaca no se auscultan soplos y los tonos están apagados. A la auscultación pulmonar no se detectan ruidos sobreañadidos. No se palpan pulsos periféricos.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal con descenso de ST de 5 mm V2-V6, I, aVL, II, III y aVF con ascenso de ST en V1 y aVR. Ecocardiograma transtorácico: VI sin aparentes alteraciones de la contractilidad. Se observa en cavidad ventricular un flap procedente de la aorta, con insuficiencia aórtica moderada, sin poder visualizarse adecuadamente la aorta ascendente. Las cavidades derechas son normales y no se observa derrame pericárdico. Angio-TAC: en la fase sin contraste se identifica formación cálcica lineal en la luz del cayado aórtico, así como calcificaciones en la luz de la aorta abdominal craneal a los vasos renales y ambas arterias ilíacas comunes, compatibles con placas de ateroma con desplazamiento de la íntima y por tanto compatible con la sospecha de disección. Aneurisma de aorta ascendente de 5 cm. Los parénquimas pulmonares presentan engrosamiento intersticial, infiltrados bilaterales de predominio en regiones posteriores y pequeños derrames pleurales, sugestivos de edema.
+
+EVOLUCIÓN
+Dados los hallazgos del ecocardiograma se solicita angio-TAC emergente y se avisa a Cirugía Cardiaca para posible intervención. Se inicia perfusión de noradrenalina y se traslada al paciente inmediatamente a radiología. Allí presenta desaturación que precisa IOT y posteriormente bradicardia extrema que impide la realización de angio-TAC válido. Se adquieren solo imágenes sin contraste en fase arterial que resultan compatibles con la sospecha de disección sobre un aneurisma de aorta ascendente de 5 cm, junto con edema pulmonar. El paciente evoluciona rápidamente de forma desfavorable, persistiendo bradicardia extrema a pesar de maniobras de reanimación avanzada, que degenera en asistolia y éxitus.
+
+DIAGNÓSTICO
+Aneurisma de aorta ascendente.
+Síndrome aórtico agudo con sospecha de afectación coronaria y valvular aórtica.
+Evolución a shock cardiogénico y éxitus.

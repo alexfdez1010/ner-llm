@@ -1,0 +1,43 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 62 años procedente de León, que se encuentra en nuestra área sanitaria de vacaciones. Actualmente jubilado, trabajó como calderero.
+
+ANTECEDENTES:
+Factores de riesgo cardiovascular (FRCV): hipertensión arterial, diabetes mellitus en tratamiento con antidiabéticos orales con buen control. Exfumador desde hace 3 años de medio paquete/día desde la juventud (40 paquetes-año). No otros hábitos tóxicos.
+Historia cardiológica previa: refiere realización de coronariografía a raíz de angor de esfuerzo en otro hospital con implante de al menos un stent (se desconoce anatomía coronaria en el momento de la anamnesis inicial).
+Tratamiento crónico: ranolazina, acovil, metoprolol, pantoprazol, metformina/vildagliptina, repaglinida, acido acetilsalicílico, pravastatina/fenofibrato.
+
+ENFERMEDAD ACTUAL:
+Solicitan valoración en urgencias de paciente varón de 62 años de edad, con los antecedentes antes descritos, por elevación de marcadores de daño miocárdico. El paciente consulta por clínica de mareos, malestar general e inestabilidad en las 24 horas previas. Además, refería un dolor torácico atípico durante todo el día coincidiendo con el resto de la clínica, que diferenciaba de su angina previa. Acude acompañado de su mujer que sufre síntomas de cefalea y mareos similar a los de nuestro paciente.
+
+EXPLORACIÓN FÍSICA:
+Consciente, orientado, colaborador. Tensión arterial (TA) 110/55 mmHg. Frecuencia cardiaca 77 lpm. Bien perfundido. Eupneico en reposo sin oxígeno. Ruidos cardiacos rítmicos, sin soplos.
+Murmullo vesicular conservado. Exploración abdominal normal. Miembros inferiores sin edemas.
+Pedios positivos bilateralmente. Sin focalidad neurológica.
+
+PRUEBAS COMPLEMENTARIAS
+HEMOGRAMA: hematíes 4,76 x10E6/μl, hemoglobina 13,6 g/dl, hematocrito 38,8%. VCM 81,5 fl.
+HCM 28,6 pg. CHCM 35,1 g/dl. Leucocitos 14,73 x10E3/μl. Neutrófilos (sangre-%) 74,9%.
+Neutrófilos 11,03 x10E3/μl. Linfocitos (%) 15,8%. Linfocitos 2,33 x10E3/μl. Monocitos (sangre-%) 9%. Monocitos 1,33 x10E3/μl. Eosinófilos (sangre-%) 0,1%. Eosinófilos 0,01 x10E3/μl bajo (a).
+Basófilos (sangre-%) 0,2%. Basófilos 0,03 x10E3/μl. Plaquetas UPLAQ 214 x10E3/μl. VPM 12,6 fl.
+SR RDW Coeficiente de variación 14,5%.
+BIOQUÍMICA: glucosa 449 mg/dl. Urea 94 mg/dl. Creatinina1,4 mg/dl. Ion sodio 135 mmol/l. Ion potasio en plasma 4,6 mmol/l.
+GASOMETRÍA ARTERIAL: pH (gas arterial) 7,41, pCO2 (gas arterial) 31 mmHg bajo, pO2 (gas arterial) 71 mmHg bajo. Bicarbonato (gas arterial) 21,4 mmol/l. CO2 total (gas arterial) 21 mmol/l. Exceso de bases (gas arterial) -4,5 mmol/l bajo. Saturación oxihemoglobina (gas arterial) 93% bajo. Carboxihemoglobina al ingreso 14%. Carboxihemoglobina tras cámara hiperbárica normal.
+MARCADORES DE DAÑO MIOCÁRDICO: CK (U/L) 1985->2508 (a las 24 horas)->441 (a las 48 horas). TnT (ng/l, normal hasta 35) 1836->3828 (a las 24 horas)->6000 (a las 48 horas).
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal a 75 lpm. Signos de crecimiento auricular izquierdo e imagen de bloqueo de rama izquierda del haz de His (BRIHH).
+RADIOGRAFÍA DE TÓRAX: índice cardiotorácico normal. Sin condensaciones ni signos de insuficiencia cardiaca.
+ECOCARDIOGRAFÍA TRANSTORÁCICA (ETT) (urgente): ventrículo izquierdo levemente dilatado con disfunción sistólica grave a expensas de aquinesia de segmento medio y apical del septo e hipocinesia global del resto de segmentos, más marcada en pared inferolateral e inferior. Ventrículo derecho de tamaño y función sistólica normales. Aurícula izquierda de tamaño normal. Válvula aórtica con buena apertura, levemente calcificada.
+Insuficiencia mitral trivial. Sin signos indirectos de hipertensión pulmonar. Vena cava inferior no dilatada. Sin derrame pericárdico.
+CORONARIOGRAFÍA: arterias coronarias con irregularidades, sin lesiones significativas. Buen aspecto del stent implantado en coronaria derecha (CD), que no muestra reestenosis significativa.
+
+EVOLUCIÓN CLÍNICA
+Se sospechó intoxicación por monóxido de carbono (cocina de leña en el domicilio) solicitándose carboxihemoglobina, que resultó ser del 14%, confirmándose el diagnóstico. Se indicó tratamiento con cámara hiperbárica con una sesión a 2,3 ATA, con lo que el paciente queda asintomático y se normalizan las cifras de carboxihemoglobina a las 24 horas.
+
+Dada la marcada elevación de biomarcadores se solicitó valoración cardiológica tras la sesión de cámara hiperbárica. En ese momento el paciente se encontraba asintomático en la anamnesis por sistemas, aunque el ECG mostraba bloqueo completo de rama izquierda del haz de His (BCRIHH), que desconocíamos si ya era conocido. Se realizó un ecocardiograma urgente que mostró un ventrículo izquierdo dilatado con alteraciones de la contractilidad y disfunción sistólica grave.
+El paciente se diagnostica de síndrome coronario agudo sin elevación del segmento ST (SCASEST) de alto riesgo secundario a intoxicación por monóxido de carbono e ingresa en la unidad coronaria, bajo tratamiento y manejo habitual. A las 24 horas del ingreso se realiza coronariografía donde se objetivan arterias coronarias sin lesiones significativas con buen resultado del stent implantado previamente en la arteria coronaria derecha.
+Posteriormente, se pudo contactar con el cardiólogo habitual del paciente, quien nos informó de la ya existencia del BCRIHH y alteraciones de la contractilidad.
+
+DIAGNÓSTICO
+Intoxicación por monóxido de carbono tratada mediante cámara hiperbárica.
+SCASEST de alto riesgo en el contexto de lo señalado anteriormente.
+Ventrículo izquierdo dilatado con FEVI gravemente deprimida. BCRIHH.
+Cardiopatía isquémica con enfermedad de 1 vaso (CD) con implante de stent farmacoactivo en CD, sin datos de trombosis ni reestenosis.

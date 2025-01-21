@@ -1,0 +1,42 @@
+T44	ENFERMEDAD 86 112	parada cardiorrespiratoria
+T45	ENFERMEDAD 157 179	Alérgico a rifampicina
+T46	ENFERMEDAD 181 202	Hipertensión arterial
+T47	ENFERMEDAD 235 250	hábitos tóxicos
+T48	ENFERMEDAD 323 334	cardiopatía
+T50	ENFERMEDAD 955 978	fibrilación ventricular
+T51	ENFERMEDAD 1303 1329	parada cardiorrespiratoria
+T52	ENFERMEDAD 1342 1365	taquicardia ventricular
+T53	ENFERMEDAD 1810 1836	parada cardiorrespiratoria
+T54	ENFERMEDAD 1852 1875	hemorragia intracraneal
+T55	ENFERMEDAD 1877 1901	tromboembolismo pulmonar
+T56	ENFERMEDAD 1904 1926	síndrome aórtico agudo
+T57	ENFERMEDAD 2673 2696	fibrilación ventricular
+T58	ENFERMEDAD 2770 2810	trastorno de conducción intraventricular
+T59	ENFERMEDAD 4160 4177	disección aórtica
+T60	ENFERMEDAD 4242 4266	tromboembolismo pulmonar
+T61	ENFERMEDAD 4346 4376	derrame pericárdico ni pleural
+T62	ENFERMEDAD 4378 4395	Adenopatía hiliar
+T63	ENFERMEDAD 4429 4497	Adenopatías calcificadas prevasculares lateroaórticas e interlobares
+T64	ENFERMEDAD 4869 4880	atelectasia
+T65	ENFERMEDAD 4955 4971	broncoaspiración
+T66	ENFERMEDAD 4973 5037	Calcificación subpleural lineal en subsegmento posterior del LSI
+T67	ENFERMEDAD 5512 5540	insuficiencia mitral trivial
+T68	ENFERMEDAD 5925 5968	taquicardia ventricular monomorfa sostenida
+T69	ENFERMEDAD 5985 6008	fibrilación ventricular
+T70	ENFERMEDAD 6624 6644	insuficiencia mitral
+T71	ENFERMEDAD 6652 6677	insuficiencia tricuspídea
+T72	ENFERMEDAD 6679 6681	IT
+T73	ENFERMEDAD 6844 6870	parada cardiorrespiratoria
+T74	ENFERMEDAD 6970 6994	síndrome coronario agudo
+T75	ENFERMEDAD 7616 7649	taquicardia ventricular sostenida
+T76	ENFERMEDAD 7666 7689	fibrilación ventricular
+T77	ENFERMEDAD 7818 7829	vasoespasmo
+T78	ENFERMEDAD 8140 8149	infección
+T79	ENFERMEDAD 8617 8640	cardiopatía estructural
+T80	ENFERMEDAD 8937 9032	Síndrome coronario agudo con elevación no persistente del segmento ST por vasoespasmo coronario
+T81	ENFERMEDAD 9088 9140	Infección respiratoria secundaria a broncoaspiración
+T82	ENFERMEDAD 8819 8902	Parada cardiorrespiratoria extrahospitalaria recuperada por fibrilación ventricular
+T83	ENFERMEDAD 581 598	episodio sincopal
+T84	ENFERMEDAD 6646 6648	IM
+T175	ENFERMEDAD 342 355	muerte súbita
+T140	ENFERMEDAD 3851 3884	arterias coronarias sin estenosis

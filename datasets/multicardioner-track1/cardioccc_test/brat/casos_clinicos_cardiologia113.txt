@@ -1,0 +1,32 @@
+Paciente masculino de 16 años, futbolista de categorías inferiores. Realiza actividad deportiva de competición, con antecedentes personales de varicela, sin alergias conocidas ni antecedentes quirúrgicos. Buen estado de salud y sin toma habitual de fármacos ni hábitos tóxicos. 
+
+Antecedentes, enfermedad actual y exploración física
+Cuadro clínico caracterizado por dolor centrotorácico de carácter opresivo, referido en ocasiones como punzante, no irradiado, que aparece en reposo y que no se modifica con el esfuerzo y de una hora de duración. El dolor aumentaba con la inspiración y con la sedestación. Niega cortejo vegetativo, disnea, palpitaciones o síncope. Es remitido por su médico de Atención Primaria a Urgencias de nuestro hospital, donde llega asintomático. Al realizar la anamnesis refiere que hace dos días presentó episodio autolimitado de dolor abdominal difuso y vómitos alimenticios, en el contexto de nueve días de evolución de deposiciones diarréicas, sin productos patológicos, en todo momento afebril.
+
+Exploración Física:
+TA: 120/60 mmHg FC 80x" FR: 18x". Alerta, consciente, orientado, hidratado y afebril. Cabeza y cuello: Orofaríngeo: Sin hallazgos patológicos. No ingurgitación yugular a 45°. AC: Ruidos cardiacos rítmicos a 80x ́. No roce pericárdico. AP: Ruidos respiratorios normales. Abdomen: Blando, no doloroso, sin masas ni visceromegalias y con peristaltismo presente. EEII: No edemas y pulsos normales.
+
+Pruebas complementarias
+• ECG: Al ingreso.
+• Ritmo sinusal a 72 x". Eje QRS: 90° con supradesnivelación del ST de 2-3 mm en II, III y aVF y de 1,5 mm en V5, V6 cóncavo hacia arriba y descenso de PR en dichas derivaciones. QT normal.
+• Rx de tórax: Silueta cardiaca normal. Sin alteraciones pleuroparenquimatosas de evolución aguda. 
+• Analítica en Urgencias: Troponina I: 2,58 ng/ml. Creatinina sérica: 1 mg/dL Iones: Normales. Hemograma: Hb: 15,8 g/dL Leucocitos: 9.500/mm3 N: 79%.
+• Analítica en planta de Cardiología: Hemograma: Hb 16,4 g/dl; Hcto 46%; leucocitos 9,2 mil/mm3 (fórmula normal); plaquetas 217 mil/mm3.
+• Bioquímica: Glucosa basal 84 mg/dl; HbA1c 5,1 %; urea 0,29 g/L; creatinina 1,0 mg/dl; colesterol total 82 mg/dl; triglicéridos 110 mg/dl; HDL-c 25 mg/dL; LDL-c 35 mg/dL; AST 16 U/L; ALT 14 U/L; GGT 16 U/L; LDH 223 U/L; sodio 143 mEq/L; potasio 4,3 mEq/L.
+• Marcadores de daño miocárdico: Troponina I máxima 25 ng/ml. CK máxima (en 1a determinación en Urgencias 346 U/L, normal hasta 270), CK-MB máxima 36 U/L.
+• Serologías: Negativas para VHB, VHC, VEB, CMV, VHS, VVZ, enterovirus y parvovirus B19.
+• Ecocardiograma transtorácico (inicial): Aurícula izquierda no dilatada. Válvula mitral de velos finos con movilidad y apertura conservadas; flujo diastólico de características normales. Ventrículo izquierdo no dilatado ni hipertrofiado con función sistólica conservada y sin asimetrías segmentarias; falsos tendones y músculos papilares muy evidentes. Válvula aórtica trivalva, fina con apertura, movilidad y flujo normales. Raíz aórtica no dilatada. Cavidades derechas no dilatadas; contractilidad ventricular derecha conservada. Válvula tricúspide correctamente implantada, fina con buena movilidad y apertura. Válvula pulmonar fina con apertura y flujo normales. No se aprecia derrame pericárdico. FEVI 64% Conclusiones: Sin alteraciones patológicas.
+• ECG al alta: Ritmo sinusal a 65 lpm. PR normal. Sin bloqueos de la conducción intraventricular. Ligera supradesnivelación del ST cóncavo hacia arriba de 1 mm en II, III y aVF. QT normal.
+• Resonancia magnética cardiaca: Diámetro y volúmenes de VI dentro de límites normales para sexo, edad y superficie corporal. Función global de VI conservada, sin alteraciones segmentarias. Masa VI normal. Volúmenes y función de VD normal. Sin alteraciones segmentarias.
+• Secuencias T2 spin-echo: No edema significativo.
+• Gadolinio con secuencias inversión-recuperación: Realce tardío subepicárdico lineal a nivel desepto anterior basal e inferobasal.
+• Conclusiones: Miopericarditis subaguda
+• Estudio holter ECG (consulta de Cardiología): Ritmo sinusal durante todo el registro. Sin detectarse alteraciones del ritmo significativas.
+• Prueba de esfuerzo (consulta de Cardiología): Asintomático durante toda la prueba. Tiempo de esfuerzo 12 minutos de protocolo de Bruce. Se detiene la prueba al completar el 4o estadio alcanzando el 93% de la frecuencia cardiaca máxima teórica y un doble producto de 2,9. No alteraciones agudas de la repolarización. Taquicardia sinusal basal. No se detecta arritmias ventriculares.
+
+Evolución clínica
+Ingresa en planta de Cardiología con el diagnóstico de miopericarditis. Se mantiene bajo monitorización electrocardiográfica continua sin apreciarse trastornos de la conducción ni arritmias supra o ventriculares. Durante el ingreso se mantiene asintomático desde el punto de vista cardiovascular, sin signos de insuficiencia cardiaca. Se realizan ecocardiogramas seriados durante el ingreso sin evidenciar deterioro de la función sistólica. Dada la buena evolución se da alta a domicilio, indicando limitación en la actividad física y se cita en las consultas externas de Cardiología.
+En la primera cita de seguimiento, el paciente se encuentra asintomático y se recibe informe de resonancia magnética cardiaca que confirma el diagnóstico. Adicionalmente, al cabo de tres meses, se le realiza un holter ECG, que se informa sin alteraciones, además de una ergometría convencional donde completa el 4° estadio de Bruce, sin alteraciones. En sucesivos controles posteriores no hay incidencias. Actualmente, y tras haber transcurrido más de doce meses desde el diagnóstico, el paciente se encuentra asintomático y realiza actividad física de competición. 
+
+Diagnóstico
+Miopericarditis aguda.

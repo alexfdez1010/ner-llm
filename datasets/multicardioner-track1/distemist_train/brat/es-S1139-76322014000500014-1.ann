@@ -1,0 +1,9 @@
+T3	ENFERMEDAD 1046 1096	QA de gran tamaño en la fosa craneal media derecha
+T6	ENFERMEDAD 617 627	QA frontal
+T12	ENFERMEDAD 1587 1620	hipertensión intracraneal crónica
+T26	ENFERMEDAD 505 517	macrocefalia
+T28	ENFERMEDAD 82 122	deformidad craneal frontoparietotemporal
+T1	ENFERMEDAD 1684 1686	QA
+#2	AnnotatorNotes T3	  QA: quiste aracnoideo
+#1	AnnotatorNotes T6	  QA: quiste aracnoideo
+#3	AnnotatorNotes T1	  QA: quiste aracnoideo

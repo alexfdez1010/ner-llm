@@ -1,0 +1,22 @@
+ANTECEDENTES PERSONALES
+Mujer de 79 años, alérgica a penicilina y metamizol. Testigo de Jehová, por lo que rechaza formalmente las trasfusiones sanguíneas. Antecedentes cardiológicos: hipertensión arterial, fibrilación auricular crónica y portadora de prótesis valvular metálica mitral Omnicarbon no 29 (implantada hace 30 años) por estenosis valvular mitral reumática grave. En seguimiento anual en consultas externas de cardiología. Medicación en domicilio: acenocumarol, furosemida 20 mg/24 horas, losartán 50 mg/12 horas, omeprazol 20 mg/24 horas, digoxina 0,25 mg/24 horas (5 días a la semana).
+
+
+ENFERMEDAD ACTUAL
+La paciente presentó en los últimos 9 meses clínica progresiva de astenia y disnea de moderados esfuerzos, con ictericia de la piel y mucosas. Ingresó en el servicio de digestivo para estudio de anemia, descartando afectación biliar, pancreática u otra patología digestiva que lo justificara.
+ Debido al perfil hemolítico de la anemia (elevación de bilirrubina a expensas de la fracción indirecta, elevación de reticulocitos, haptoglobina indetectable...) en paciente portadora de prótesis valvular, se traslada al servicio de cardiología para descartar una posible disfunción valvular protésica.
+ 
+EXPLORACIÓN FÍSICA
+Consciente, orientada y bien hidratada. Ictericia cutáneo-mucosa. Marcado aumento de presión venosa yugular (PVC estimada de 16 cmH2O).
+Auscultación cardiaca: ruidos cardiacos arrítmicos a 84 lpm con soplo sistólico II/VI en foco mitral. Auscultación pulmonar: murmullo vesicular conservado. Abdomen: sin alteraciones. Edemas con fóvea hasta tercio medio de extremidades inferiores, además de signos de insuficiencia venosa crónica.
+
+PRUEBAS COMPLEMENTARIAS
+Bioquímica: creatinina 1,25 mg/dl, iones y transaminasas normales, glucosa basal 91 mg/ dl, colesterol total 145 mg/dl, LDH 1.308 U/l, haptoglobina ausente, reticulocitos aumentados (7%), aumento de bilirrubina total 2,1 mg/dl y directa 0,6 mg/dl. Test de Coombs directo e indirecto negativos. Vitamina B12 y ácido fólico normales. Leve ferropenia (IST 15%). Hemograma: hemoglobina 8 gr/dl, hematocrito 24%, plaquetas 71.000/mm3.
+Ecocardiografía transesofágica: prótesis mitral normofuncionante con leak periprotésico moderado (en la pared posterior; a las 5-6 horas) de 9 x 5 mm con regurgitación que no alcanza el techo auricular. Orejuela libre. Ventrículo izquierdo (VI) de tamaño normal, con hipertrofia leve concéntrica y función sistólica conservada (FE 67%). Dilatación y discreta disfunción del ventrículo derecho (VD). PET-TAC No 1: incremento de fijación del radiotrazador periprotésico (en forma de anillo incompleto) sugestivo de endocarditis sobre prótesis mitral. PET-TAC No 2: se observa resolución de la captación periprotésica.
+
+EVOLUCIÓN CLÍNICA
+Ante una anemia hemolítica grave en una paciente portadora de prótesis valvular metálica sin otra causa que la justifique, se solicitó un ecocardiograma transesofágico que confirmó una fuga perivalvular de novo con insuficiencia mitral moderada asociada. Debido a la aparición de un nuevo leak paravalvular se realizó un PET-TAC en busca de una etiología, mostrando captación perivalvular sugerente de endocarditis infecciosa. Aunque se encontró afebril durante todo el ingreso y todos los hemocultivos resultaron negativos sin haber recibido tratamiento antibiótico previo, presentaba títulos altos de Coxiella IgG, por lo que se inició tratamiento antibiótico con ceftriaxona durante 6 semanas y doxiciclina durante 18 meses. A las 6 semanas de comenzar la pauta antibiótica se realizó un nuevo PET-TAC, que ya no mostraba captación a nivel mitral. A su vez se instauró tratamiento con eritropoyetina y ácido fólico como tratamiento de la anemia hemolítica. A pesar de la resolución del cuadro infeccioso persistía la astenia y la anemia en el contexto de disfunción valvular, por lo que se decidió intervenir sobre dicha válvula. Debido al alto riesgo quirúrgico de una cirugía abierta, incrementado por el rechazo de la paciente al uso de trasfusiones de sangre y hemoderivados, finalmente se decidió proceder con un cierre percutáneo del leak paravalvular. Se realizó una ecocardiografía transesofágica (ETE) posoperatorio que mostró un aceptable resultado.
+
+DIAGNÓSTICO
+Endocarditis infecciosa tardía sobre prótesis mitral por Coxiella burnetii.
+Anemia hemolítica por disfunción protésica. Cierre percutáneo de fuga periprotésica.

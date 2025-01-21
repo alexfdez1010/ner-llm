@@ -1,0 +1,21 @@
+T4	ENFERMEDAD 1391 1394	SXF
+T7	ENFERMEDAD 241 257	amenaza de parto
+T9	ENFERMEDAD 297 332	retraso en el desarrollo psicomotor
+T10	ENFERMEDAD 356 375	crisis de ausencias
+T11	ENFERMEDAD 380 398	crisis epilépticas
+T12	ENFERMEDAD 461 484	retraso mental moderado
+T13	ENFERMEDAD 518 551	alteraciones conductuales severas
+T15	ENFERMEDAD 558 578	espectro del autismo
+T16	ENFERMEDAD 580 615	déficit en el control de esfínteres
+T17	ENFERMEDAD 618 669	trastorno de hiperactividad con déficit de atención
+T23	ENFERMEDAD 817 832	ansiedad social
+T30	ENFERMEDAD 1040 1051	pies valgos
+T31	ENFERMEDAD 1112 1132	alteración del sueño
+T1	ENFERMEDAD 486 516	dificultades en el aprendizaje
+T6	ENFERMEDAD 835 870	fobias extremas a ruidos y animales
+T2	ENFERMEDAD 94 117	dilatación estacionaria
+T3	ENFERMEDAD 994 1016	hipotonía generalizada
+T5	ENFERMEDAD 1018 1038	articulaciones laxas
+T8	ENFERMEDAD 1169 1195	alteraciones cardiológicas
+T14	ENFERMEDAD 1219 1250	rasgos faciales característicos
+#1	AnnotatorNotes T4	  SXF: Síndrome del X frágil

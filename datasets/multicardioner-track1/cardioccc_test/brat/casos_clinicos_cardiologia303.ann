@@ -1,0 +1,30 @@
+T34	ENFERMEDAD 687 717	insuficiencia aórtica moderada
+T35	ENFERMEDAD 1658 1673	derrame pleural
+T36	ENFERMEDAD 1985 2067	Válvula aórtica (VAo) aparentemente tricúspide con velo no coronariano hipoplásico
+T37	ENFERMEDAD 2070 2106	insuficiencia aórtica moderada-grave
+T38	ENFERMEDAD 2158 2178	Insuficiencia mitral
+T39	ENFERMEDAD 2410 2429	derrame pericárdico
+T40	ENFERMEDAD 2469 2486	disección aórtica
+T41	ENFERMEDAD 2479 2505	aórtica, úlcera penetrante
+T42	ENFERMEDAD 2479 2528	aórtica, úlcera penetrante ni hematoma intramural
+T43	ENFERMEDAD 2544 2574	derrame pericárdico ni pleural
+T44	ENFERMEDAD 2576 2589	Cardiomegalia
+T45	ENFERMEDAD 2629 2685	tromboembolismo pulmonar en arterias pulmonares, lobares
+T46	ENFERMEDAD 2962 3009	adenopatías mediastínicas, hiliares ni axilares
+T48	ENFERMEDAD 3676 3727	infarto de miocardio sin elevanción del segmento ST
+T49	ENFERMEDAD 4717 4755	hematoma intramural en la raíz aórtica
+T50	ENFERMEDAD 5076 5123	insuficiencia valvular que se calificó de grave
+T52	ENFERMEDAD 5758 5766	aortitis
+T53	ENFERMEDAD 5802 5829	úlcera en la pared de aorta
+T54	ENFERMEDAD 5836 5910	VAo trivalva, con velos engrosados y descolgamiento de velo no coronariano
+T55	ENFERMEDAD 5945 5978	insuficiencia aórtica (IAo) grave
+T56	ENFERMEDAD 6971 6979	aortitis
+T57	ENFERMEDAD 7170 7198	Aortitis aguda no infecciosa
+T58	ENFERMEDAD 7262 7289	Insuficiencia aórtica grave
+T59	ENFERMEDAD 3729 3736	IAMSEST
+T60	ENFERMEDAD 2345 2347	IT
+T61	ENFERMEDAD 3045 3060	daño miocárdico
+T62	ENFERMEDAD 2201 2223	dilatación biauricular
+T63	ENFERMEDAD 5685 5730	pared de la raíz aórtica gravemente engrosada
+T64	ENFERMEDAD 6001 6045	oclusión completa de ACDp y subtotal del TCI
+T110	ENFERMEDAD 7203 7260	IAMSEST secundario al compromiso de los ostium coronarios

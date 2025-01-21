@@ -1,0 +1,14 @@
+T1	ENFERMEDAD 545 548	NET
+T2	ENFERMEDAD 46 67	tuberculosis pulmonar
+T3	ENFERMEDAD 562 609	erupción eritematosa maculopapulosa y ampollosa
+T4	ENFERMEDAD 78 95	carcinoma vesical
+T7	ENFERMEDAD 675 701	insuficiencia respiratoria
+T9	ENFERMEDAD 184 201	diabetes mellitus
+T10	ENFERMEDAD 710 734	insuficiencia renal leve
+T11	ENFERMEDAD 203 224	hipertensión arterial
+T12	ENFERMEDAD 227 240	hiperuricemia
+T13	ENFERMEDAD 749 760	hipotensión
+T18	ENFERMEDAD 361 377	crisis de disnea
+T19	ENFERMEDAD 388 404	erupción cutánea
+T21	ENFERMEDAD 896 913	lesiones cutáneas
+#1	AnnotatorNotes T1	   NET: Necrolisis epidérmica tóxica

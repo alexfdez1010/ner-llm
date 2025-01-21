@@ -1,0 +1,30 @@
+T23	ENFERMEDAD 3334 3381	Válvula mitral con velos ligeramente engrosados
+T109	ENFERMEDAD 372 382	Dislipemia
+T112	ENFERMEDAD 3792 3813	Insuficiencia aórtica
+T113	ENFERMEDAD 4763 4783	Insuficiencia mitral
+T114	ENFERMEDAD 3935 3959	Insuficiencia tricúspide
+T116	ENFERMEDAD 3471 3500	Ventrículo izquierdo dilatado
+T117	ENFERMEDAD 3267 3294	aurícula izquierda dilatada
+T118	ENFERMEDAD 2730 2743	cardiomegalia
+T119	ENFERMEDAD 1140 1163	cardiopatía estructural
+T121	ENFERMEDAD 4072 4091	derrame pericárdico
+T122	ENFERMEDAD 387 404	diabetes mellitus
+T123	ENFERMEDAD 5368 5407	disfunción ventricular izquierda severa
+T124	ENFERMEDAD 6295 6327	disfunción ventricular izquierda
+T125	ENFERMEDAD 5493 5522	enfermedad arterial coronaria
+T127	ENFERMEDAD 4578 4604	fibrosis/escara miocárdica
+T129	ENFERMEDAD 349 370	hipertensión arterial
+T130	ENFERMEDAD 418 433	hábitos tóxicos
+T131	ENFERMEDAD 5723 5745	insuficiencia cardiaca
+T132	ENFERMEDAD 4483 4503	insuficiencia mitral
+T133	ENFERMEDAD 5541 5565	miocarditis aguda tóxica
+T134	ENFERMEDAD 267 302	reacciones alérgicas medicamentosas
+T135	ENFERMEDAD 2552 2571	taquicardia sinusal
+T91	ENFERMEDAD 84 101	carcinoma de mama
+T92	ENFERMEDAD 435 464	Carcinoma de mama infiltrante
+T24	ENFERMEDAD 4008 4035	Vena cava inferior dilatada
+T95	ENFERMEDAD 4917 4934	carcinoma de mama
+T96	ENFERMEDAD 6484 6513	Carcinoma de mama infiltrante
+T162	ENFERMEDAD 3174 3192	eventos arrítmicos
+T100	ENFERMEDAD 6090 6105	cardiotoxicidad
+T101	ENFERMEDAD 6276 6411	Miocardiopatía con disfunción ventricular izquierda severa inducida por cardiotoxicidad aguda tras inicio de tratamiento quimioterápico

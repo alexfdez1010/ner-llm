@@ -1,0 +1,15 @@
+T5	ENFERMEDAD 179 200	carcinoma de próstata
+T10	ENFERMEDAD 2415 2434	progresión hepática
+T14	ENFERMEDAD 2121 2152	progresión radiológica hepática
+T20	ENFERMEDAD 452 468	catarata nuclear
+T22	ENFERMEDAD 575 585	hemovítreo
+T24	ENFERMEDAD 613 661	lesión lobulada que ocupaba 4/5 de cámara vítrea
+T25	ENFERMEDAD 690 692	MC
+T26	ENFERMEDAD 695 713	lesión metastática
+T29	ENFERMEDAD 853 867	lesión maligna
+T33	ENFERMEDAD 1051 1069	lesiones hepáticas
+T38	ENFERMEDAD 1643 1645	MC
+T43	ENFERMEDAD 753 768	lesión primaria
+T1	ENFERMEDAD 59 93	pérdida de visión de ojo izquierdo
+#1	AnnotatorNotes T25	  MC: melanoma coroideo
+#2	AnnotatorNotes T38	  MC: melanoma coroideo

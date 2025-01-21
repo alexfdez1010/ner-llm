@@ -1,0 +1,29 @@
+T1	ENFERMEDAD 405 418	cardiomegalia
+T2	ENFERMEDAD 421 448	alteración del arco aórtico
+T12	ENFERMEDAD 1412 1425	Cardiomegalia
+T14	ENFERMEDAD 1491 1536	alteración en la disposición del arco aórtico
+T34	ENFERMEDAD 71 94	alergias medicamentosas
+T35	ENFERMEDAD 318 336	traumatismo costal
+T36	ENFERMEDAD 339 367	fractura de varias costillas
+T37	ENFERMEDAD 1056 1067	acropaquias
+T38	ENFERMEDAD 1262 1295	fractura de octavo arco posterior
+T39	ENFERMEDAD 1347 1354	derrame
+T40	ENFERMEDAD 1372 1381	hemotórax
+T41	ENFERMEDAD 1392 1410	fracturas costales
+T42	ENFERMEDAD 1596 1615	derrame pericárdico
+T43	ENFERMEDAD 1644 1665	cardiopatía congénita
+T44	ENFERMEDAD 1802 1835	Bloqueo completo por rama derecha
+T45	ENFERMEDAD 1847 1880	hipertrofia de ventrículo derecho
+T46	ENFERMEDAD 2191 2237	comunicación interauricular tipo ostium primum
+T47	ENFERMEDAD 2305 2334	insuficiencia mitral moderada
+T48	ENFERMEDAD 2382 2422	insuficiencia tricuspídea moderada grave
+T49	ENFERMEDAD 2501 2528	Insuficiencia pulmonar leve
+T52	ENFERMEDAD 2654 2678	Derrame pericárdico leve
+T54	ENFERMEDAD 3100 3136	Canal auriculoventricular incompleto
+T55	ENFERMEDAD 3171 3201	hipertensión arterial pulmonar
+T56	ENFERMEDAD 3213 3234	cardiopatía congénita
+T9	ENFERMEDAD 1882 1923	Hemibloqueo anterior de la rama izquierda
+T57	ENFERMEDAD 2021 2099	Ventrículo derecho gravemente dilatado (64 mm de diámetro basal), hipertrófico
+T19	ENFERMEDAD 2125 2147	Dilatación biauricular
+T58	ENFERMEDAD 2348 2377	Válvula tricúspide displásica
+T51	ENFERMEDAD 2278 2302	Válvula mitral con cleft

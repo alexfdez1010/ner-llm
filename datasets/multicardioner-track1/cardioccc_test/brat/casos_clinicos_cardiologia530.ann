@@ -1,0 +1,63 @@
+T21	ENFERMEDAD 5338 5378	Aurícula izquierda ligeramente dilatadal
+T23	ENFERMEDAD 5409 5468	Válvula aórtica trivalva, con engrosamiento y calcificación
+T25	ENFERMEDAD 5579 5678	Válvula mitral de velos ligeramente engrosados, con apertura conservada, insuficiencia central leve
+T89	ENFERMEDAD 129 152	alergias medicamentosas
+T90	ENFERMEDAD 170 185	hábitos tóxicos
+T91	ENFERMEDAD 229 250	hipertensión arterial
+T92	ENFERMEDAD 253 263	dislipemia
+T93	ENFERMEDAD 331 345	Hipotiroidismo
+T94	ENFERMEDAD 383 466	Ictus isquémico (2015) en territorio de ACM izquierda, de etiología aterotrombótica
+T95	ENFERMEDAD 548 570	tumor benigno cerebral
+T96	ENFERMEDAD 580 590	meningioma
+T97	ENFERMEDAD 593 628	Atrofia del nervio óptico izquierdo
+T98	ENFERMEDAD 698 727	cardiopatía isquémica crónica
+T99	ENFERMEDAD 742 787	angor en 2003, con enfermedad de TC y 3 vasos
+T100	ENFERMEDAD 999 1005	angina
+T101	ENFERMEDAD 1236 1252	angina inestable
+T102	ENFERMEDAD 1417 1450	lesión severa en TC distal y DAp,
+T103	ENFERMEDAD 1451 1485	suboclusión crónica en CF proximal
+T104	ENFERMEDAD 1487 1527	oclusión completa crónica en CD proximal
+T106	ENFERMEDAD 2422 2428	angina
+T107	ENFERMEDAD 2451 2471	enfermedad coronaria
+T108	ENFERMEDAD 2797 2799	FA
+T109	ENFERMEDAD 3954 3975	fibrilación auricular
+T110	ENFERMEDAD 4043 4068	extrasístoles auriculares
+T111	ENFERMEDAD 4247 4291	lesión severa a nivel de tronco común distal
+T112	ENFERMEDAD 4537 4557	CX con lesión severa
+T113	ENFERMEDAD 4669 4702	CD dominante con oclusión crónica
+T114	ENFERMEDAD 5004 5031	hipertrofia septal moderada
+T118	ENFERMEDAD 5860 5879	derrame pericárdico
+T119	ENFERMEDAD 6231 6250	derrame pericárdico
+T120	ENFERMEDAD 6404 6411	SCASEST
+T121	ENFERMEDAD 6418 6432	FA paroxística
+T123	ENFERMEDAD 6598 6628	extrasistolia supraventricular
+T124	ENFERMEDAD 6770 6801	lesión/oclusión de bypass de VS
+T126	ENFERMEDAD 7066 7106	Hematoma en relación a la punción radial
+T127	ENFERMEDAD 7233 7240	infarto
+T128	ENFERMEDAD 7282 7315	fibrilación auricular paroxística
+T129	ENFERMEDAD 7842 7852	meningioma
+T130	ENFERMEDAD 7858 7876	hematoma del brazo
+T131	ENFERMEDAD 8206 8212	angina
+T132	ENFERMEDAD 8340 8373	Fibrilación auricular paroxística
+T133	ENFERMEDAD 8425 8454	Cardiopatía isquémica crónica
+T134	ENFERMEDAD 8456 8493	Enfermedad coronaria de TCI y 3 vasos
+T135	ENFERMEDAD 8559 8580	Cardiopatía isquémica
+T136	ENFERMEDAD 8633 8648	ictus isquémico
+T137	ENFERMEDAD 8650 8671	Hipertensión arterial
+T138	ENFERMEDAD 8673 8683	Dislipemia
+T139	ENFERMEDAD 8685 8709	Diabetes mellitus tipo 2
+T140	ENFERMEDAD 264 288	Diabetes mellitus tipo 2
+T58	ENFERMEDAD 1529 1551	injerto AMI-DA ocluido
+T142	ENFERMEDAD 2848 2853	BRIHH
+T143	ENFERMEDAD 4107 4112	BRIHH
+T144	ENFERMEDAD 4036 4041	BRIHH
+T24	ENFERMEDAD 6270 6272	FA
+T26	ENFERMEDAD 6590 6595	BRIHH
+T122	ENFERMEDAD 8374 8415	Infarto de miocardio sin elevación del ST
+T145	ENFERMEDAD 8710 8724	Hipotiroidismo
+T164	ENFERMEDAD 5705 5746	Válvula tricúspide con insuficiencia leve
+T193	ENFERMEDAD 6199 6212	valvulopatías
+T45	ENFERMEDAD 3995 4000	BRIHH
+T67	ENFERMEDAD 4345 4375	DA con lesiones significativas
+T105	ENFERMEDAD 4433 4503	Lesión significativa a nivel de tercio medio- distal de ramo bisectriz
+T148	ENFERMEDAD 4586 4635	Lesión crítica a nivel de la bifurcación CX-1a OM

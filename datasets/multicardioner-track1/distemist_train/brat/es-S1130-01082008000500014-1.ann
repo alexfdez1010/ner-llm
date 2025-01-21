@@ -1,0 +1,22 @@
+T1	ENFERMEDAD 792 795	HDB
+T2	ENFERMEDAD 1529 1532	HDB
+T3	ENFERMEDAD 77 80	HTA
+T4	ENFERMEDAD 82 114	insuficiencia renal crónica leve
+T7	ENFERMEDAD 392 414	deposiciones melénicas
+T9	ENFERMEDAD 116 145	fibrilación auricular crónica
+T12	ENFERMEDAD 147 174	déficit de antitrombina III
+T14	ENFERMEDAD 187 239	isquemia intestinal por trombosis venosa mesentérica
+T16	ENFERMEDAD 211 239	trombosis venosa mesentérica
+T17	ENFERMEDAD 990 1025	angiodisplasia de intestino delgado
+T20	ENFERMEDAD 1982 1985	HDB
+T21	ENFERMEDAD 583 609	lesiones teleangiectásicas
+T24	ENFERMEDAD 1134 1155	fístula arteriovenosa
+T29	ENFERMEDAD 1228 1241	abdomen agudo
+T32	ENFERMEDAD 2262 2275	TEP bilateral
+T33	ENFERMEDAD 1310 1336	isquemia de la anastomosis
+T36	ENFERMEDAD 2346 2373	déficit de antitrombina III
+T38	ENFERMEDAD 2395 2406	trombofilia
+T41	ENFERMEDAD 22 45	alergias medicamentosas
+#1	AnnotatorNotes T1	  HDB: hemorragia digestiva baja
+#2	AnnotatorNotes T2	  HDB: hemorragia digestiva baja
+#3	AnnotatorNotes T20	  HDB: hemorragia digestiva baja

@@ -1,0 +1,23 @@
+T6	ENFERMEDAD 911 932	ritmo de escape nodal
+T50	ENFERMEDAD 75 98	alergias medicamentosas
+T51	ENFERMEDAD 110 119	Exfumador
+T52	ENFERMEDAD 178 199	hipertensión arterial
+T53	ENFERMEDAD 665 711	trastorno de la conducción auriculoventricular
+T54	ENFERMEDAD 871 898	bloqueo auriculoventricular
+T55	ENFERMEDAD 900 903	BAV
+T56	ENFERMEDAD 1073 1085	BAV completo
+T57	ENFERMEDAD 1743 1768	trombosis venosa profunda
+T58	ENFERMEDAD 1854 1866	BAV completo
+T59	ENFERMEDAD 3051 3100	Dilatación de ambas aurículas, grave de izquierda
+T60	ENFERMEDAD 3131 3144	valvulopatías
+T61	ENFERMEDAD 3776 3805	disfunción sistólica moderada
+T62	ENFERMEDAD 3927 3953	paroxismos de BAV completo
+T63	ENFERMEDAD 4258 4270	BAV completo
+T64	ENFERMEDAD 4947 4969	síndrome de tako-tsubo
+T65	ENFERMEDAD 5336 5384	Bloqueo auriculoventricular completo paroxístico
+T66	ENFERMEDAD 5426 5465	Síndrome de tako-tsubo posprocedimiento
+T67	ENFERMEDAD 5585 5620	Disfunción sistólica de VI moderada
+T68	ENFERMEDAD 4633 4653	lesión subepicárdica
+T69	ENFERMEDAD 2775 2827	VI de tamaño normal con hipertrofia concéntrica leve
+T5	ENFERMEDAD 716 756	bloqueo de segundo grado tipo Wenckebach
+T139	ENFERMEDAD 5218 5235	herida quirúrgica

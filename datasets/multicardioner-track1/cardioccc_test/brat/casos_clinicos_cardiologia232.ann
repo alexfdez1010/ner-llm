@@ -1,0 +1,54 @@
+T35	ENFERMEDAD 74 109	reacciones alérgicas medicamentosas
+T37	ENFERMEDAD 326 353	miocardiopatía hipertrófica
+T38	ENFERMEDAD 404 419	hábitos tóxicos
+T39	ENFERMEDAD 424 445	hipertensión arterial
+T40	ENFERMEDAD 447 450	HTA
+T41	ENFERMEDAD 456 464	diabetes
+T42	ENFERMEDAD 469 479	dislipemia
+T43	ENFERMEDAD 481 523	Miocardiopatía hipertrófica no obstructiva
+T44	ENFERMEDAD 914 944	extrasistolia supraventricular
+T45	ENFERMEDAD 991 1016	extrasistolia ventricular
+T46	ENFERMEDAD 1449 1469	síndrome de QT largo
+T47	ENFERMEDAD 1471 1475	SQTL
+T48	ENFERMEDAD 1582 1609	miocardiopatía hipertrófica
+T49	ENFERMEDAD 1690 1701	SQTL tipo 1
+T50	ENFERMEDAD 1741 1753	fibromialgia
+T51	ENFERMEDAD 1755 1772	lumbalgia crónica
+T52	ENFERMEDAD 1840 1851	metrorragia
+T53	ENFERMEDAD 2156 2170	espasmo tónico
+T54	ENFERMEDAD 2318 2339	fibrilación auricular
+T55	ENFERMEDAD 2397 2416	bradicardia sinusal
+T56	ENFERMEDAD 2984 3009	trombosis venosa profunda
+T57	ENFERMEDAD 3078 3097	bradicardia sinusal
+T58	ENFERMEDAD 3622 3699	ventrículo izquierdo de tamaño normal con hipertrofia septal grave asimétrica
+T59	ENFERMEDAD 4127 4147	insuficiencia mitral
+T60	ENFERMEDAD 4327 4352	insuficiencia tricuspídea
+T61	ENFERMEDAD 4354 4356	IT
+T62	ENFERMEDAD 4451 4472	hipertensión pulmonar
+T63	ENFERMEDAD 4474 4477	HTP
+T64	ENFERMEDAD 4668 4687	derrame pericárdico
+T65	ENFERMEDAD 4930 4940	neumotórax
+T66	ENFERMEDAD 5196 5238	miocardiopatía hipertrófica no obstructiva
+T67	ENFERMEDAD 5252 5279	síndrome de QT largo tipo 1
+T68	ENFERMEDAD 5301 5331	síncope de perfil cardiogénico
+T69	ENFERMEDAD 5467 5474	síncope
+T71	ENFERMEDAD 5560 5575	evento sincopal
+T72	ENFERMEDAD 5600 5627	síndrome de QT largo tipo 1
+T73	ENFERMEDAD 5643 5670	miocardiopatía hipertrófica
+T74	ENFERMEDAD 5693 5713	síncope cardiogénico
+T75	ENFERMEDAD 5810 5837	miocardiopatía hipertrófica
+T76	ENFERMEDAD 5860 5893	fibrilación auricular paroxística
+T77	ENFERMEDAD 6108 6138	Síncope de perfil cardiogénico
+T78	ENFERMEDAD 6140 6182	Miocardiopatía hipertrófica no obstructiva
+T79	ENFERMEDAD 6196 6223	síndrome de QT largo tipo 1
+T80	ENFERMEDAD 6270 6303	Fibrilación auricular paroxística
+T81	ENFERMEDAD 6317 6335	angor hemodinámico
+T82	ENFERMEDAD 4017 4058	Aurícula izquierda moderadamente dilatada
+T83	ENFERMEDAD 4149 4151	IM
+T84	ENFERMEDAD 4587 4617	dilatación de aorta ascendente
+T85	ENFERMEDAD 747 767	fibrosis mesocárdica
+T86	ENFERMEDAD 617 646	hipertrofia asimétrica septal
+T119	ENFERMEDAD 5523 5525	MS
+T125	ENFERMEDAD 973 976	TSV
+T139	ENFERMEDAD 160 173	muerte súbita
+T140	ENFERMEDAD 5508 5535	muerte súbita (MS) nocturna

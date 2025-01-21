@@ -1,0 +1,16 @@
+T10	ENFERMEDAD 1217 1264	crisis epilépticas sintomáticas fotosensoriales
+T11	ENFERMEDAD 358 508	nidos malformativos, uno, en la cara medial del lóbulo temporal derecho, de 7,5 cc de volumen, y otro más posterior, localizado en el lóbulo occipital
+T20	ENFERMEDAD 1066 1069	MAV
+T22	ENFERMEDAD 188 198	papiledema
+T24	ENFERMEDAD 2193 2201	exoforia
+T28	ENFERMEDAD 244 276	hemorragia occipital parasagital
+T30	ENFERMEDAD 561 584	angiogénesis periférica
+T31	ENFERMEDAD 1880 1898	crisis epilépticas
+T32	ENFERMEDAD 627 630	MAV
+T33	ENFERMEDAD 2329 2335	miopía
+T37	ENFERMEDAD 2455 2484	defecto hemianópsico homónimo
+T38	ENFERMEDAD 1789 1797	diplopía
+T40	ENFERMEDAD 749 769	hemianopsia homónima
+T1	ENFERMEDAD 1436 1485	afectación cerebral estructural parieto-occipital
+T2	ENFERMEDAD 2722 2727	foria
+#1	AnnotatorNotes T32	   MAV: malformación arterio venosa

@@ -1,0 +1,55 @@
+T53	ENFERMEDAD 61 84	alergias medicamentosas
+T54	ENFERMEDAD 86 110	Diabetes mellitus tipo 2
+T55	ENFERMEDAD 246 264	Síndrome depresivo
+T56	ENFERMEDAD 461 475	esplenomegalia
+T57	ENFERMEDAD 594 614	Esclerosis sistémica
+T58	ENFERMEDAD 1431 1497	bloqueo auriculoventricular (BAV) completo con escape de QRS ancho
+T59	ENFERMEDAD 1460 1463	BAV
+T60	ENFERMEDAD 1649 1671	insuficiencia cardiaca
+T61	ENFERMEDAD 1763 1799	BAV completo con escape de QRS ancho
+T62	ENFERMEDAD 1909 1969	taquicardia ventricular polimórfica tipo torsades de pointes
+T63	ENFERMEDAD 2358 2368	calcinosis
+T64	ENFERMEDAD 2814 2839	trombosis venosa profunda
+T65	ENFERMEDAD 4686 4746	bloqueo auriculoventricular completo con escape de QRS ancho
+T66	ENFERMEDAD 4774 4810	BAV completo con escape de QRS ancho
+T67	ENFERMEDAD 4929 4989	taquicardia ventricular polimórfica tipo torsades de pointes
+T68	ENFERMEDAD 5526 5529	EAP
+T69	ENFERMEDAD 6156 6218	Válvula Mitral de velos engrosados, con insuficiencia moderada
+T70	ENFERMEDAD 6220 6261	Válvula tricúspide con insuficiencia leve
+T71	ENFERMEDAD 6324 6343	derrame pericárdico
+T72	ENFERMEDAD 6468 6481	Cardiomegalia
+T73	ENFERMEDAD 6540 6561	hipertensión pulmonar
+T74	ENFERMEDAD 6686 6700	edema pulmonar
+T75	ENFERMEDAD 6707 6724	fibrosis pulmonar
+T76	ENFERMEDAD 6737 6798	Adenopatías calcificadas mediastínicas e hiliares bilaterales
+T77	ENFERMEDAD 7892 7964	nefropatía tubulointersticial con afectación severa y cambios vasculares
+T78	ENFERMEDAD 8631 8651	insuficiencia mitral
+T79	ENFERMEDAD 8954 8974	hipertensión crónica
+T80	ENFERMEDAD 9208 9241	insuficiencia respiratoria global
+T81	ENFERMEDAD 9461 9477	disfunción renal
+T82	ENFERMEDAD 10000 10026	anemia con reticulocitosis
+T83	ENFERMEDAD 10070 10073	EAP
+T84	ENFERMEDAD 10117 10136	crisis hipertensiva
+T85	ENFERMEDAD 10755 10806	nefropatía tubulointersticial y afectación vascular
+T86	ENFERMEDAD 10841 10857	enfermedad renal
+T87	ENFERMEDAD 11270 11297	Esclerosis sistémica difusa
+T88	ENFERMEDAD 11331 11407	Fibrosis pulmonar 2o a afectación pulmonar de la esclerosis sistémica difusa
+T89	ENFERMEDAD 11447 11466	fibrosis miocárdica
+T90	ENFERMEDAD 11469 11555	disfunción ventricular leve 2o a afectación cardiaca de la esclerosis sistémica difusa
+T91	ENFERMEDAD 11409 11445	Bloqueo auriculoventricular completo
+T93	ENFERMEDAD 9155 9180	derrame pleural bilateral
+T94	ENFERMEDAD 2692 2706	esplenomegalia
+T95	ENFERMEDAD 6361 6375	esplenomegalia
+T96	ENFERMEDAD 4588 4618	hemibloqueo anterior izquierdo
+T97	ENFERMEDAD 2259 2270	microstomía
+T98	ENFERMEDAD 2334 2341	úlceras
+T99	ENFERMEDAD 2272 2309	piel esclerodérmica en tronco y manos
+T100	ENFERMEDAD 4621 4655	bloqueo incompleto de rama derecha
+T101	ENFERMEDAD 6997 7025	renal: fibrosis intersticial
+T102	ENFERMEDAD 9135 9138	EAP
+T184	ENFERMEDAD 2314 2329	telangiectasias
+T224	ENFERMEDAD 9182 9203	acidosis respiratoria
+T92	ENFERMEDAD 11302 11329	crisis renal esclerodérmica
+#1	AnnotatorNotes T68	 EAP edema agudo de pulmón
+#2	AnnotatorNotes T83	 EAP edema agudo de pulmón
+#3	AnnotatorNotes T102	 EAP edema agudo de pulmón

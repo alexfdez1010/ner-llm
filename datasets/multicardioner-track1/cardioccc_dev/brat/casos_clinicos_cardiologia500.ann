@@ -1,0 +1,28 @@
+T28	ENFERMEDAD 122 130	fumadora
+T29	ENFERMEDAD 177 194	hipoacusia severa
+T30	ENFERMEDAD 196 229	fibrilación auricular paroxística
+T31	ENFERMEDAD 268 307	síndrome de apnea obstructiva del sueño
+T32	ENFERMEDAD 1018 1043	trombosis venosa profunda
+T33	ENFERMEDAD 1090 1144	fibrilación auricular con respuesta ventricular rápida
+T34	ENFERMEDAD 1215 1237	insuficiencia cardiaca
+T35	ENFERMEDAD 1273 1292	insuficiencia renal
+T36	ENFERMEDAD 1302 1313	anemia leve
+T37	ENFERMEDAD 2086 2101	derrame pleural
+T38	ENFERMEDAD 2349 2369	Insuficiencia mitral
+T39	ENFERMEDAD 2381 2408	dilatación ligera auricular
+T40	ENFERMEDAD 2489 2519	insuficiencia tricuspídea leve
+T41	ENFERMEDAD 2613 2632	derrame pericárdico
+T42	ENFERMEDAD 2701 2745	dilatación moderada del ventrículo izquierdo
+T43	ENFERMEDAD 2758 2778	insuficiencia mitral
+T44	ENFERMEDAD 2793 2832	dilatación ligera de aurícula izquierda
+T45	ENFERMEDAD 3009 3029	Insuficiencia mitral
+T46	ENFERMEDAD 3304 3340	insuficiencia mitral ligera-moderada
+T47	ENFERMEDAD 3441 3496	insuficiencia respiratoria secundaria a edema de pulmón
+T48	ENFERMEDAD 3797 3852	dilatación y disfunción severa del ventrículo izquierdo
+T49	ENFERMEDAD 3857 3903	insuficiencia mitral funcional moderada-severa
+T50	ENFERMEDAD 4323 4344	fibrilación auricular
+T51	ENFERMEDAD 4397 4416	taquimiocardiopatía
+T52	ENFERMEDAD 4492 4579	Taquimiocardiopatía secundaria a fibrilación auricular con respuesta ventricular rápida
+T53	ENFERMEDAD 1146 1152	FA-RVR
+T54	ENFERMEDAD 2165 2213	ventrículo izquierdo no dilatado con hipertrofia
+#1	AnnotatorNotes T53	 fibrilación auricular con respuesta ventricular rápida

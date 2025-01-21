@@ -1,0 +1,37 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 86 años que acude a Urgencias por disnea.
+
+Antecedentes
+Sin alergias medicamentosas. Factores de riesgo cardiovascular: hipertensión arterial controlada. Diabetes Mellitus tipo 2 de cinco años de evolución en tratamiento con antidiabéticos orales. Dislipemia.
+
+Historia cardiológica previa: cardiopatía isquémica crónica que debutó en el año 2.000 en forma de angina estable. Angiografía coronaria en el año 2005 por angina Clase III/IV CCS y ecocardiografía de estrés positiva por inducción de isquemia en territorio de DA. Enfermedad de tres vasos revascularizada parcialmente mediante stents farmacoactivos a DA proximal, CD media y OM1. En 2008, de nuevo clínica de angina II/IV CCS, con ecocardiografía de esfuerzo positiva para isquemia en territorio de CX, optándose por manejo conservador. Fibrilación auricular no valvular permanente diagnosticada en 2010, anticoagulada con acenocumarol; ecocardiografía en esa consulta que descarta valvulopatías significativas e informa de FEVI conservada. Sin estudios ni seguimiento por parte de Cardiología desde entonces. Clase funcional II NYHA.
+Otras patologías: claudicación intermitente de la marcha en estadío IIa de Fontaine.
+Síndrome del túnel del carpo bilateral.
+Tratamiento previo: acenocumarol, bisoprolol 2,5 mg/24 h, ranolazina 750 mg/12 h, mononitrato de isosorbida 50 mg/24 h, rosuvastatina 10 mg/24 h, metformina 1.000 mg/12 h, sitagliptina 50 mg/12 h.
+Situación basal: parcialmente dependiente para ABVD (Katz B). Camina con andador.
+Cognitivo conservado.
+
+Enfermedad actual
+Acude a Urgencias por clínica de disnea progresiva de una semana de evolución acompañada de palpitaciones, ganancia ponderal no cuantificada, ortopnea y episodios de DPN en las últimas noches. Asegura adecuado cumplimiento terapéutico y niega transgresiones dietéticas. La semana anterior se había notado algo más "acatarrado", con tos, expectoración mucosa y sensación distérmica en domicilio no termometrada. Consultó por este motivo en su centro de salud pautándose tratamiento con apiréticos y mucolíticos, con respuesta parcial al mismo.
+
+Exploración física
+TA: 105/45 mmHg, FC: 110 lpm, Ta 36,7°C, Sat O2 96 %. Peso 70 kg. Auscultación cardiaca: arrítmica, con soplo sistólico eyectivo de predominio en foco aórtico, II/VI, con R2 abolido. Auscultación pulmonar: crepitantes en ambas bases pulmonares con roncus dispersos diseminados. Abdomen: blando y depresible, no masas ni visceromegalias, sin signos de irritación peritoneal. Extremidades: edemas pretibiales con fóvea ++/+++; pulsos pedios presentes aunque asimétricos, no flebitis.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica: glucosa: 130 mg/dl, urea 58 mg/dl, creatinina 1,38 mg/dl, CrCl (Cockcroft-Gault): 38 ml/min/, sodio: 138 mEq/l, potasio: 5,2 mEq/l, NT-proBNP: 10.055pg/ml; TnT US: 89 ng/l (valor de normalidad < 15 ng/l); hemoglobina: 10 g/dl, hematocrito: 30,8 %; VCM: 87,5 fl, plaquetas: 277.000/uL; INR: 1,5.
+Electrocardiograma en Urgencias: fibrilación auricular a 120 lpm; QRS estrecho con eje normal; transición precoz en V2 y patrón de sobrecarga de VI por descenso del segmento ST en V2-V5 y derivaciones inferiores.
+Radiografía de tórax: cardiomegalia, congestión hiliar con redistribución vascular hacia vértices, líquido en cisuras y discreto pinzamiento del seno costofrénico derecho.
+Ecocardiograma transtorácico: dilatación biauricular marcada.
+Hipertrofia ventricular izquierda concéntrica severa con fracción de eyección en el límite inferior de la normalidad (FEVI global por Simpson 52 %). Válvula aórtica engrosada con restricción significativa a su apertura y estenosis valvular severa por área estimada (área 0,65 cm2) aunque con gradientes bajos (gradiente transvalvular aórtico pico 25 mmHg). Patrón de llenado mitral con onda E única por FA y datos de aumento de las presiones de llenado: relación E/e" 17 y tiempo de desaceleración acortado (TD 115 ms). Insuficiencia valvular mitral leve. Estudio de deformación miocárdica con los siguientes hallazgos: SGL disminuido (-11 %) con parámetros de deformación conservados en segmentos apicales y patológicos en segmentos basales y medios (apical sparing).
+Gammagrafía ósea con 99mTc-DPD: estudio con captación cardiaca de notable intensidad, muy superior a la captación ósea, que en SPECT-TC es de distribución difusa y coincidente con VI, siendo estos hallazgos sugestivos de amiloidosis por depósito de transtirretina. En el resto del estudio, discreta hipercaptación en las articulaciones esternoclaviculares y grandes articulaciones de carácter bilateral (hombros, codos, muñecas, caderas y rodillas) que sugiere patología inflamatoria/degenerativa.
+
+EVOLUCIÓN
+El paciente ingresó en planta de Cardiología con el diagnóstico de insuficiencia cardiaca en el contexto de infección respiratoria de vías bajas. Presentó una adecuada evolución durante las 72 horas sucesivas al ingreso, lográndose diuresis copiosas con el tratamiento con furosemida intravenosa y control de frecuencia cardiaca con digoxina. Tras mejoría de los síntomas congestivos persistió cierta tendencia a la hipotensión, así como a la bradicardia, a pesar de haberse pautado mínima dosis de betabloqueante (bisoprolol 2,5 mg/24 h), pero sin repercusión clínica significativa salvo ligero mareo de perfil ortostático coincidiendo con los cambios bruscos posturales.
+Dada la naturaleza del cuadro y la semiología se decidió actualizar estudio ecocardiográfico objetivándose hallazgos sugestivos de miocardiopatía infiltrativa y valvulopatía aórtica severa por estenosis de bajo flujo paradójica previamente no conocidos. Ante dichos resultados se optó por completar el estudio con técnicas de inmunofijación dirigidas a descartar la presencia de un componente monoclonal en sangre y orina, hallazgo característico del subtipo más frecuente de amiloidosis cardiaca, la secundaria a depósito de cadenas ligeras (amiloidosis AL).
+Tras descartarse la presencia de proteinuria de Bence Jones o elevación de cadenas ligeras en plasma, se solicitó un estudio de gammagrafía ósea con 99mTc-DPD en la cual se objetivó la presencia de una intensa captación ventricular izquierda, significativamente superior a la captación ósea, hallazgo altamente sugestivo de amiloidosis cardiaca por depósito de transtirretina. Finalmente, se completó el estudio con una biopsia de grasa abdominal en la cual se confirmó el diagnóstico de amiloidosis senil por depósito de transtirretina libre.
+Tras consensuarse con el paciente una actitud conservadora en lo que respecta al manejo de su valvulopatía aórtica y dada la estabilidad clínica alcanzada, se procedió al alta a domicilio previo ajuste farmacológico para seguimiento clínico ambulatorio en consultas de Cardiología.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca descompensada en el contexto de infección respiratoria de vías bajas. FEVI conservada.
+Amiloidosis cardiaca senil por depósito de transtirretina anómala.
+Estenosis valvular aórtica severa de bajo flujo "paradójica".

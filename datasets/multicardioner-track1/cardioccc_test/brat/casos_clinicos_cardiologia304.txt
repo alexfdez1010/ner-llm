@@ -1,0 +1,45 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Sin alergias medicamentosas conocidas.
+Sin hábitos tóxicos.
+Hipertensión arterial esencial en tratamiento con dos fármacos.
+Dislipemia.
+Tratamiento habitual: amlodipino 5 mg (1 comprimido al día), ramipril 5 mg (1 comprimido al día), atorvastatina 40 mg (1 comprimido al día).
+
+ENFERMEDAD ACTUAL
+El paciente ingresa en la unidad de ictus por un cuadro de 40 minutos de duración de cefalea y pérdida de visión transitoria en mitad izquierda del campo visual. Niega clínica infecciosa.
+
+EXPLORACIÓN FÍSICA
+Constantes vitales: presión arterial 130/72 mmHg. Saturación de oxígeno basal 98%, temperatura 36,8  ̊C.
+Paciente consciente, orientado, alerta. Normoperfundido, normohidratado.
+Cabeza y cuello: sin ingurgitación yugular, sin rigidez nucal.
+Auscultación cardiaca: rítmica, sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado, sin ruidos sobreañadidos.
+Extremidades inferiores: pulsos presentes, simétricos. No edema ni signos de trombosis venosa profunda.
+Exploración neurológica: nominación y repetición conservadas. Sin alteraciones en pares craneales. Fuerza y sensibilidad conservadas. No dismetrías ni disdiadococinesias. Sin presencia de signos meníngeos.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica sanguínea: glucosa 84 mg/dl. Creatinina 1,17 mg/dl. Tasa filtrado glomerular 66,82 ml/min. Sodio 145 mm/l. Potasio 4,0 mm/l. AST 23 U/l. ALT 38 U/l. LDH 214 U/l.
+Fostasa alcalina 43 U/l. Hemoglobina 15,8 g/dl. Plaquetas 245.000/μl. Leucocitos 7.800/μl.
+INR 0,99. HbA1c 5,5%. Anticuerpos antinucleares (ANA), Beta-2 glicoproteína (IgM, IgG) cardiolipina (IgM, IgG): negativos. VIH (Elisa): negativo. Sífilis IgG, IgM: negativo.
+Electrocardiograma: RS, 70 lpm, PR 180 mseg, QRS estrecho, rectificación ST cara lateral.
+Radiografía de tórax: índice cardiotorácico dentro de la normalidad. Sin infiltrado ni condensación. No derrame pleural.
+Tomografía computarizada (TC) multimodal: TC craneal sin CIV: No se observan signos precoces de isquemia aguda. No se identifican focos de hemorragia intra/extraaxial. ASPECTS (10/10). TC-perfusión (imagen 4): aumento de los tiempos en región occipital derecha. Angio-TC: extracraneal: troncos supraórticos permeables, sin evidencia de estenosis significativas. Intracraneal: circulación anterior y posterior permeables. Grado de colateralidad leptomeningea: bueno (3/3 CS Collateral Score).
+Resonancia magnética cerebral: pequeñas lesiones isquémicas córticosubcorticales temporoccipitales derechas en fase subaguda en territorio de arteria cerebral posterior derecha, hiperintensas en Flair/T2, hipointensasen T1 y que restrigen en difusión (característico de lesiones subagudas: 5 días).
+Ecocardiograma transtorácico: ventrículo izquierdo no dilatado con función sistólica conservada. Cámaras derechas normales. Aurículas de tamaño normal. Sin valvulopatías significativas ni derrame pericárdico. Septo auricular hipermóvil. Se administra suero salino agitado, observándose paso de burbujas desde el primer latido compatible con foramen oval permeable (FOP).
+Ecocardiograma transesofágico: septo interauricular aneurismático. FOP tanto anatómicamente como por paso de burbujas abundantes desde el primer latido.
+Ventrículo izquierdo no dilatado con función conservada. Cámaras derechas normales.
+Aurículas de tamaño normal. Sin valvulopatías significativas ni derrame pericárdico.
+Orejuela auricular libre de trombos. Sin ateromatosis aórtica significativa.
+
+EVOLUCIÓN CLÍNICA
+El paciente presenta buena evolución desde el punto de vista neurológico, con recuperación ad integrum del defecto visual. Es dado de alta y remitido a consultas externas de cardiología para valorar cierre percutáneo del FOP.
+Tras valoración conjunta por parte de neurología y cardiología, se programa para cierre percutáneo del defecto. Con anestesia general y bajo control ecocardiográfico, se procede a cierre del foramen. Se accede a través de vena femoral derecha. Se pasa a aurícula izquierda a través del FOP con catéter MP y se pasa guía de soporte a vena pulmonar superior izquierda.
+Se avanza vaina liberadora Occlutech 9 F y a través de la misma se progresa dispositivo de cierre Figulla Flex II de 30-27 mm de Occlutech que se posiciona a nivel del septo interauricular.
+Tras comprobar el adecuado anclaje en imagen de ecocardiografía transesofágica y se libera el dispositivo con éxito.
+
+DIAGNÓSTICO
+Ictus isquémico temporo-occipital derecho criptogénico.
+FOP.
+Cierre del FOP con dispositivo Figulla Flex 30-27 mm.

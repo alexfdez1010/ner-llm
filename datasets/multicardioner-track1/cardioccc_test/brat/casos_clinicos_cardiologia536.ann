@@ -1,0 +1,31 @@
+T52	ENFERMEDAD 1010 1028	esclerosis aórtica
+T53	ENFERMEDAD 1166 1187	Fibrilación auricular
+T54	ENFERMEDAD 1487 1521	hemiparesia de miembros izquierdos
+T55	ENFERMEDAD 1717 1738	fibrilación auricular
+T56	ENFERMEDAD 1877 1898	sangrado intracraneal
+T57	ENFERMEDAD 1918 1947	encefalopatía de pequeño vaso
+T58	ENFERMEDAD 1975 1993	infartos lacunares
+T59	ENFERMEDAD 2011 2042	infarto isquémico extenso agudo
+T60	ENFERMEDAD 2219 2238	derrame pericárdico
+T61	ENFERMEDAD 2665 2681	SCACEST inferior
+T62	ENFERMEDAD 2704 2706	FA
+T63	ENFERMEDAD 2761 2816	hemiparesia izquierda 3/5, afectación del nervio facial
+T64	ENFERMEDAD 2892 2924	ACV isquémico de origen embólico
+T65	ENFERMEDAD 3127 3157	naturaleza isquémica del ictus
+T66	ENFERMEDAD 3171 3194	hemorragia intracraneal
+T67	ENFERMEDAD 3206 3261	anomalías de los troncos supraaórticos (tipo disección)
+T69	ENFERMEDAD 4091 4110	embolismo coronario
+T70	ENFERMEDAD 4205 4228	estenosis angiográficas
+T71	ENFERMEDAD 4243 4269	enfermedad aterosclerótica
+T72	ENFERMEDAD 4346 4357	FA embólica
+T74	ENFERMEDAD 4471 4490	embolismo coronario
+T75	ENFERMEDAD 4506 4532	infarto agudo de miocardio
+T76	ENFERMEDAD 4743 4764	ictus isquémico agudo
+T77	ENFERMEDAD 4807 4833	transformación hemorrágica
+T78	ENFERMEDAD 4848 4869	Fibrilación auricular
+T79	ENFERMEDAD 4888 4974	ACV isquémico de origen embólico, dependiente de la arteria cerebral posterior derecha
+T80	ENFERMEDAD 4976 4983	IAMCEST
+T11	ENFERMEDAD 1949 1972	envejecimiento cerebral
+T16	ENFERMEDAD 2244 2270	dilatación de raíz aórtica
+T22	ENFERMEDAD 4985 5036	Embolismo coronario en territorio de la circunfleja
+T105	ENFERMEDAD 2068 2113	ventrículo izquierdo no dilatado. Hipertrofia

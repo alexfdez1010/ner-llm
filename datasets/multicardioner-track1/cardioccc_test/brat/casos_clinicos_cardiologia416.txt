@@ -1,0 +1,15 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 81 años hipertensa, diabética tipo 2, dislipémica, exfumadora, e hipotiroidea, con antecedentes de rectorragias y un accidente cerebrovascular transitorio en el territorio de la arteria cerebral media hace 10 años, que acude a urgencias por dolor torácico y disnea. Refiere desde hace 5 horas episodios intermitentes de unos 10 minutos de duración, dolor centrotorácico opresivo, no irradiado, no claramente relacionado con los esfuerzos, con disnea asociada y sin cortejo vegetativo.
+En la primera valoración, la paciente se encontraba hemodinámicamente estable (tensión arterial [TA] 105/65 mmHg, frecuencia cardiaca [FC] 75 lpm), bien perfundida, saturando basalmente al 94%, eupneica, con buen estado general, consciente y orientada. Los pulsos carotídeos eran rítmicos y simétricos, sin presentar ingurgitación yugular. A la auscultación cardiopulmonar destacaba un soplo sistólico aórtico que respetaba segundo tono, con una auscultación pulmonar normal. No presentaba edemas en miembros inferiores estando los pulsos conservados.
+
+PRUEBAS COMPLEMENTARIAS
+ELECTROCARDIOGRAMA (ECG): FA a 120 lpm, QRS estrecho, eje izquierdo, hemibloqueo anterior izquierdo, trastorno de conducción por rama derecha, sin datos de isquemia aguda.
+ANALÍTICA: creatinina 0,86 mg/dl, sin alteraciones iónicas, perfil hepático dentro de la normalidad, primera troponina T 100 ng/dl segunda troponina T 60 ng/dl, Hb 10 mg/dl, plaquetas 140.000, no leucocitosis ni neutrofilia, sin coagulopatía.
+ECOCARDIOGRAMA TRANSTORÁCICO (ETT): ventrículo izquierdo (VI) no dilatado con hipertrofia grave del septo basal (17 mm). Fracción eyección del ventrículo izquierdo (FEVI) conservada (65%) con contractilidad segmentaria normal y alteración de la relajación. Ventrículo derecho (VD) normal. Estenosis aórtica leve sin otras valvulopatías. No derrame pericárdico.
+CORONARIOGRAFÍA: lesión grave en el ostium de la coronaria derecha (CD) que se revasculariza con un stent farmacoactivo (DES) de biolimus sin polímero. Lesión moderada en la primera diagonal, sin lesiones en el resto de arterias coronarias.
+
+EVOLUCIÓN CLÍNICA
+Ante dichos hallazgos, se ingresa a la paciente en la unidad coronaria iniciándose, tras dosis de carga, doble antiagregación con ácido acetilsalicílico (AAS) 100 mg/24 horas vo y ticagrelor 90 mg/24 horas vo. Al cuarto día de ingreso, presenta un episodio de FA con respuesta ventricular rápida que es cardiovertida farmacológicamente con amiodarona. Al tratarse de una paciente con alto riesgo embólico (CHA2DS2-VASc 7) y antecedentes de hemorragia previa (HASBLED de 5) se plantea el problema de la triple terapia y se decide optar por estrategia Redual-PCI, continuando tratamiento con ticagrelor 90 mg/12 horas vo, durante un año, y dabigatrán 110 mg/12 horas vo indefinidamente. A día de hoy, no se han documentado eventos trombóticos ni hemorrágicos en la paciente.
+DIAGNÓSTICO
+Infarto agudo de miocardio sin elevación del segmento ST (IAMSEST). Lesión crítica en CD ostial revascularizada con DES.
+FA de reciente diagnóstico CHA2DS2-VASc 7+ HASBLED 5.

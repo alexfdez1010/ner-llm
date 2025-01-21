@@ -1,0 +1,44 @@
+T37	ENFERMEDAD 77 102	reacciones medicamentosas
+T38	ENFERMEDAD 177 188	cardiopatía
+T39	ENFERMEDAD 216 225	Exfumador
+T40	ENFERMEDAD 298 319	hipertensión arterial
+T41	ENFERMEDAD 321 324	HTA
+T42	ENFERMEDAD 330 354	diabetes mellitus tipo 2
+T43	ENFERMEDAD 356 359	DM2
+T44	ENFERMEDAD 365 375	dislipemia
+T45	ENFERMEDAD 377 389	Tuberculosis
+T46	ENFERMEDAD 406 437	Hiperplasia benigna de próstata
+T47	ENFERMEDAD 3128 3143	derrame pleural
+T48	ENFERMEDAD 3579 3582	HTP
+T49	ENFERMEDAD 4366 4374	fibrosis
+T50	ENFERMEDAD 4377 4396	necrosis miocárdica
+T51	ENFERMEDAD 5097 5106	arritmias
+T52	ENFERMEDAD 5415 5424	asistolia
+T53	ENFERMEDAD 5438 5471	taquicardia ventricular polimorfa
+T54	ENFERMEDAD 5490 5514	extrasístole ventricular
+T56	ENFERMEDAD 5982 6004	síncopes de repetición
+T57	ENFERMEDAD 6606 6613	síncope
+T58	ENFERMEDAD 6929 6952	fibrilación ventricular
+T60	ENFERMEDAD 7377 7403	taquicardias ventriculares
+T61	ENFERMEDAD 7515 7528	muerte súbita
+T63	ENFERMEDAD 7618 7637	síndrome de Brugada
+T64	ENFERMEDAD 7640 7681	taquicardia ventricular catecolaminérgica
+T65	ENFERMEDAD 7752 7774	síncopes de repetición
+T66	ENFERMEDAD 7796 7831	taquicardia ventricular polimórfica
+T67	ENFERMEDAD 7834 7857	fibrilación ventricular
+T69	ENFERMEDAD 8197 8216	síndrome de Brugada
+T70	ENFERMEDAD 8222 8246	muerte súbita recuperada
+T71	ENFERMEDAD 8364 8387	fibrilación ventricular
+T72	ENFERMEDAD 8401 8420	síndrome de Brugada
+T73	ENFERMEDAD 2913 2919	BCRDHH
+T74	ENFERMEDAD 8309 8331	Síncopes cardiogénicos
+T75	ENFERMEDAD 6965 7017	asistolia desencadenada por extrasístole ventricular
+T76	ENFERMEDAD 2865 2911	bloqueo completo de rama derecha de has de His
+T77	ENFERMEDAD 6418 6450	bloqueo completo de rama derecha
+T78	ENFERMEDAD 7090 7107	episodio sincopal
+T79	ENFERMEDAD 6280 6298	eventos arrítmicos
+T80	ENFERMEDAD 3587 3662	cerebral: leve atrofia corticosubcortical con aumento de tamaño ventricular
+T129	ENFERMEDAD 265 283	Consumo de alcohol
+T170	ENFERMEDAD 5191 5199	bloqueos
+T68	ENFERMEDAD 7361 7374	muerte súbita
+T82	ENFERMEDAD 8113 8126	muerte súbita

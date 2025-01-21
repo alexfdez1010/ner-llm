@@ -1,0 +1,58 @@
+T1	ENFERMEDAD 1652 1697	ventrículo izquierdo (VI) gravemente dilatado
+T2	ENFERMEDAD 2596 2636	ventrículo izquierdo gravemente dilatado
+T24	ENFERMEDAD 5533 5578	ventrículo izquierdo está gravemente dilatado
+T26	ENFERMEDAD 6304 6344	Válvula mitral con cambios degenerativos
+T76	ENFERMEDAD 89 124	reacciones alérgicas a medicamentos
+T77	ENFERMEDAD 171 192	hipertensión arterial
+T78	ENFERMEDAD 194 202	Obesidad
+T79	ENFERMEDAD 253 270	diabetes mellitus
+T80	ENFERMEDAD 274 284	dislipemia
+T81	ENFERMEDAD 292 307	hábitos tóxicos
+T82	ENFERMEDAD 351 371	fractura trimaleolar
+T83	ENFERMEDAD 565 611	Enfermedad obstructiva crónica (EPOC) moderada
+T84	ENFERMEDAD 597 601	EPOC
+T85	ENFERMEDAD 695 733	Síndrome de apneas-hipopneas del sueño
+T86	ENFERMEDAD 735 739	SAHS
+T87	ENFERMEDAD 833 859	Adenocarcinoma de próstata
+T88	ENFERMEDAD 1367 1403	miocardiopatía dilatada no isquémica
+T89	ENFERMEDAD 1431 1472	disfunción grave del ventrículo izquierdo
+T90	ENFERMEDAD 2046 2059	muerte súbita
+T91	ENFERMEDAD 2100 2146	taquicardia ventricular monomorfa no sostenida
+T92	ENFERMEDAD 2148 2153	TVMNS
+T93	ENFERMEDAD 2234 2277	taquicardia ventricular monomorfa sostenida
+T94	ENFERMEDAD 2386 2409	taquicardia ventricular
+T95	ENFERMEDAD 2411 2413	TV
+T97	ENFERMEDAD 2806 2827	Disfunción diastólica
+T98	ENFERMEDAD 3033 3054	insuficiencia aórtica
+T99	ENFERMEDAD 3056 3080	Insuficiencia tricúspide
+T100	ENFERMEDAD 3281 3300	derrame pericárdico
+T101	ENFERMEDAD 3904 3935	insuficiencia cardiaca avanzada
+T102	ENFERMEDAD 4037 4106	miocardiopatía dilatada con disfunción grave del ventrículo izquierdo
+T106	ENFERMEDAD 4768 4776	obesidad
+T107	ENFERMEDAD 5070 5095	trombosis venosa profunda
+T108	ENFERMEDAD 5097 5100	TVP
+T109	ENFERMEDAD 5178 5197	bradicardia sinusal
+T111	ENFERMEDAD 5520 5528	obesidad
+T112	ENFERMEDAD 6202 6237	Dilatación auricular izquierda leve
+T113	ENFERMEDAD 6361 6397	insuficiencia mitral leve a moderada
+T114	ENFERMEDAD 6704 6728	insuficiencia tricúspide
+T115	ENFERMEDAD 6766 6787	hipertensión pulmonar
+T116	ENFERMEDAD 6789 6792	HTP
+T117	ENFERMEDAD 7046 7065	derrame pericárdico
+T118	ENFERMEDAD 8368 8388	neoplasia prostática
+T119	ENFERMEDAD 8535 8552	diabetes mellitus
+T120	ENFERMEDAD 8889 8911	insuficiencia cardiaca
+T121	ENFERMEDAD 9820 9829	sobrepeso
+T122	ENFERMEDAD 10357 10365	obesidad
+T123	ENFERMEDAD 10486 10495	sobrepeso
+T124	ENFERMEDAD 10695 10706	cardiopatía
+T125	ENFERMEDAD 10924 10955	insuficiencia cardiaca avanzada
+T126	ENFERMEDAD 11085 11107	Insuficiencia cardiaca
+T127	ENFERMEDAD 11179 11215	Miocardiopatía dilatada no isquémica
+T128	ENFERMEDAD 11238 11246	Obesidad
+T129	ENFERMEDAD 11256 11280	Diabetes mellitus tipo 2
+T136	ENFERMEDAD 2279 2283	TVMS
+T96	ENFERMEDAD 2768 2795	Aurícula izquierda dilatada
+T4	ENFERMEDAD 2897 2962	Válvula mitral con regurgitación ligera por dilatación del anillo
+T137	ENFERMEDAD 3189 3216	Ventrículo derecho dilatado
+T143	ENFERMEDAD 1227 1256	infiltración grasa perirrenal

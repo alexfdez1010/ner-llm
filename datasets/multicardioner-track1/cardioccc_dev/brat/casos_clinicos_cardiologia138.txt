@@ -1,0 +1,23 @@
+Historia clínica y enfermedad actual
+Mujer de 22 años con antecedentes personales de fibromialgia, exfumadora de 6-8 cigarros al día y cesárea electiva el mes previo al ingreso actual, con posterior reingreso por síndrome febril secundario a posible infección de herida quirúrgica. No se obtuvo aislamiento microbiológico del exudado de la herida y fue dada de alta de nuevo a domicilio. Persiste febrícula asociada a cuadro catarral de vías respiratorias altas, sumándose posteriormente disnea de esfuerzo progresiva hasta hacerse de reposo, dolor torácico de características pleuríticas y edemas en miembros inferiores. 
+
+Exploración física:
+• A su ingreso regular estado general, taquipneica en reposo y con ligera ingurgitación yugular. • Presión arterial: 110/80 mmHg.
+• No se detectó descenso anormal de la presión sistólica y de la amplitud de pulso durante la inspiración (pulso paradójico).
+• Afebril.
+• Auscultación cardiorrespiratoria rítmica, sin soplos, taquicárdica a 140 latidos por minuto (lpm), buen murmullo vesicular bilateral con ligeros crepitantes bibasales e hipofonesis basal izquierda.
+• Abdomen blando y depresible, no doloroso a la palpación y sin visceromegalias.
+• Miembros inferiores con ligeros edemas pretibiales.
+• Resto de exploración anodina.
+
+Pruebas complementarias
+• Electrocardiograma (ECG): taquicardia sinusal a 146 lpm, bajo voltaje y escasa onda R de V1 a V3.
+• Analítica: bioquímica con iones y función renal normales. Hemograma con anemia normocítica, normocrómica (hemoglobina de 8 g/dl), ligera linfopenia. Coagulación normal.
+• Radiografía de tórax: cardiomegalia, derrame pleural izquierdo ligero.
+• Ecocardiografía transtorácica: ventrículo izquierdo (VI) no dilatado con diámetro telediastólico (DTD) de 42 mm, hipertrofia concéntrica ligera (12-13 mm). Hipoquinesia generalizada con fracción de eyección (FEVI) severamente deprimida menor al 30% medida por método Simpson en apical cuatro cámaras. Insuficiencia mitral ligera. Derrame pericárdico (DP) moderado-severo, circunferencial, 1,9 - 2 cm, de predominio inferior, posterior y lateral de VI. Extensión a pared libre de ventrículo derecho (VD) y aurícula derecha (AD), con colapso parcial de las mismas. En cara diafragmática se objetiva cámara de 1,3 cm. Sin variaciones respiratorias de los flujos valvulares. Vena cava inferior con diámetro de 20 mm, sin colapso inspiratorio.
+
+Evolución clínica
+Inicialmente manejo conservador, con administración de sueroterapia, transfusión de 2 concentrados de hematíes (relacionamos en principio la anemia con cesárea reciente) y antiinflamatorios no esteroideos (AINES) pautados vía oral. Se realiza pericardiocentesis electiva por vía paraesternal izquierda, drenándose 490 ml de líquido seroso con características bioquímicas de exudado y débito total de 790 ml. Se inician betabloqueante a dosis bajas e inhibidor del enzima conversor de angiotensina, con buena tolerancia inicial. Posteriormente comienza con aumento del trabajo respiratorio y signos de congestión pulmonar que obligan a iniciar diuréticos intravenosos. Asimismo en Rx de tórax se objetiva aumento de cuantía del derrame pleural izquierdo, realizándose toracocentesis diagnóstico-terapéutica, obteniéndose líquido seroso. Mala evolución clínica iniciándose incluso protocolo de estudio pretrasplante. Se realiza ecocardiografía transtorácica de control, mostrando VI con disfunción sistólica severa (FEVI 20-25%), sumándose disfunción sistólica severa de VD, regurgitación tricúspide (RT) grado II sobre IV y presión sistólica pulmonar estimada (PAPs) de 40 mmHg. DP mínimo. Tras reinterrogar de forma dirigida a la paciente, y ante la necesidad de realizar un diagnóstico diferencial, refiere aparición de lesiones cutáneas en relación a la exposición solar de varios años de evolución. Ello, sumado a los datos analíticos de anemia normocítica normocrómica, linfopenia, síndrome febril y serositis pleuropericárdica, nos condujo a sospechar como etiología un posible brote de lupus eritematoso sistémico (LES) con afectación miocárdica. Tras nuevas determinaciones analíticas, se obtienen anticuerpos antinucleares (ANA) positivos, anti-DNA positivos, hipocomplementemia, anticuerpos anticardiolipina en niveles moderados, hipergammagrobulinemia, LDH elevada y test de Coombs positivo (signo de anemia hemolítica), con lo que se estableció el diagnóstico definitivo de brote lúpico con expresión de pancarditis y disfunción sistólica severa biventricular.
+
+Diagnóstico
+Brote lúpico con expresión de pancarditis, taponamiento cardiaco y disfunción sistólica severa biventricular.

@@ -1,0 +1,18 @@
+T14	ENFERMEDAD 1499 1540	destrucción del tabique intersinuso-nasal
+T20	ENFERMEDAD 505 523	caries en pieza 23
+T21	ENFERMEDAD 571 594	ausencia de la pieza 25
+T30	ENFERMEDAD 526 568	obturaciones en piezas 21, 22, 24, 26 y 27
+T31	ENFERMEDAD 1757 1760	LCG
+T32	ENFERMEDAD 2813 2816	LCG
+T34	ENFERMEDAD 740 746	lesión
+T35	ENFERMEDAD 2460 2466	lesión
+T36	ENFERMEDAD 2637 2643	lesión
+T37	ENFERMEDAD 2663 2669	lesión
+T38	ENFERMEDAD 2880 2886	lesión
+T39	ENFERMEDAD 3161 3167	lesión
+T40	ENFERMEDAD 3268 3274	lesión
+T1	ENFERMEDAD 77 101	asimetría y dolor facial
+T2	ENFERMEDAD 349 380	desviación de la pirámide nasal
+T3	ENFERMEDAD 390 424	obstrucción subjetiva de la narina
+#1	AnnotatorNotes T31	  LCG: lesiones de células gigantes
+#2	AnnotatorNotes T32	  LCG: lesiones de células gigantes

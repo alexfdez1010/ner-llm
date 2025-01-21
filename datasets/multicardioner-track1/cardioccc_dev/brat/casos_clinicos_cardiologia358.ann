@@ -1,0 +1,58 @@
+T42	ENFERMEDAD 81 104	alergias medicamentosas
+T43	ENFERMEDAD 249 260	cardiopatía
+T45	ENFERMEDAD 320 334	metabolopatías
+T46	ENFERMEDAD 454 484	Consumo esporádico de cannabis
+T47	ENFERMEDAD 561 626	Displasia arritmogénica biventricular con mutación en el gen LMNA
+T48	ENFERMEDAD 694 727	insuficiencia cardiaca congestiva
+T49	ENFERMEDAD 729 732	ICC
+T50	ENFERMEDAD 829 859	disfunción biventricular grave
+T51	ENFERMEDAD 954 1021	miocardiopatía arritmogénica por mutación en el exón 3 del gen LMNA
+T52	ENFERMEDAD 1123 1145	descompensación de ICC
+T53	ENFERMEDAD 1199 1230	insuficiencia cardiaca avanzada
+T54	ENFERMEDAD 1470 1515	taquicardia ventricular monomórfica sostenida
+T55	ENFERMEDAD 1517 1521	TVMS
+T56	ENFERMEDAD 1568 1594	Trombo en orejuela derecha
+T57	ENFERMEDAD 2191 2222	Insuficiencia tricuspídea grave
+T58	ENFERMEDAD 2400 2413	valvulopatías
+T59	ENFERMEDAD 2484 2503	derrame pericárdico
+T60	ENFERMEDAD 2510 2575	miocardiopatía dilatada con disfunción grave de ambos ventrículos
+T61	ENFERMEDAD 2609 2633	Dilatación aneurismática
+T62	ENFERMEDAD 2773 2818	Trombos en la orejuela de la aurícula derecha
+T63	ENFERMEDAD 3334 3354	déficit de FV y FVII
+T64	ENFERMEDAD 3380 3401	déficit de vitamina K
+T65	ENFERMEDAD 3843 3865	infección respiratoria
+T66	ENFERMEDAD 4179 4212	taquicardia ventricular sostenida
+T67	ENFERMEDAD 4316 4320	TVMS
+T68	ENFERMEDAD 4323 4346	fibrilación ventricular
+T69	ENFERMEDAD 4776 4794	shock cardiogénico
+T70	ENFERMEDAD 6557 6600	taquicardia ventricular monomorfa sostenida
+T71	ENFERMEDAD 6619 6680	bloqueo de rama izquierda, eje inferior y transición en V3-V4
+T72	ENFERMEDAD 6760 6798	Bloqueo de rama derecha del haz de His
+T73	ENFERMEDAD 7207 7237	shock cardiogénico refractario
+T74	ENFERMEDAD 7243 7261	tormenta arrítmica
+T75	ENFERMEDAD 7413 7417	TVMS
+T76	ENFERMEDAD 7420 7422	FV
+T77	ENFERMEDAD 7822 7827	shock
+T78	ENFERMEDAD 7906 7925	acidosis metabólica
+T79	ENFERMEDAD 7975 8030	disfunción multiorgánica con fracaso renal oligoanúrico
+T80	ENFERMEDAD 8033 8055	insuficiencia hepática
+T81	ENFERMEDAD 8067 8080	hipoglucemias
+T82	ENFERMEDAD 8083 8095	coagulopatía
+T83	ENFERMEDAD 8433 8450	shock refractario
+T84	ENFERMEDAD 8452 8471	fallo multiorgánico
+T85	ENFERMEDAD 8730 8783	miocardiopatía arritmogénica con mutación en gen LMNA
+T86	ENFERMEDAD 8786 8816	disfunción biventricular grave
+T87	ENFERMEDAD 8818 8880	Shock cardiogénico refractario secundario a tormenta arrítmica
+T88	ENFERMEDAD 8882 8914	Encefalopatía difusa postanóxica
+T89	ENFERMEDAD 8916 8937	Fracaso multiorgánico
+T90	ENFERMEDAD 346 361	Hábitos tóxicos
+T91	ENFERMEDAD 8695 8713	Tormenta arrítmica
+T92	ENFERMEDAD 4502 4529	disociación electromecánica
+T93	ENFERMEDAD 363 377	fumador activo
+T94	ENFERMEDAD 492 510	ingesta de alcohol
+T95	ENFERMEDAD 1798 1844	ventrículo izquierdo (VI) ligeramente dilatado
+T96	ENFERMEDAD 2037 2103	Ventrículo derecho (VD) dilatado, con función gravemente deprimida
+T97	ENFERMEDAD 2415 2448	Vena cava inferior (VCI) dilatada
+T98	ENFERMEDAD 2578 2607	dilatación de ambas aurículas
+T191	ENFERMEDAD 267 280	muerte súbita
+T149	ENFERMEDAD 2889 2938	anomalías en el origen de las arterias coronarias

@@ -1,0 +1,53 @@
+T18	ENFERMEDAD 3215 3247	taquicardia regular de QRS ancho
+T27	ENFERMEDAD 5184 5209	taquicardia con QRS ancho
+T38	ENFERMEDAD 6810 6862	vía accesoria en porción posterior del anillo mitral
+T88	ENFERMEDAD 128 149	hipertensión arterial
+T89	ENFERMEDAD 238 255	diabetes mellitus
+T90	ENFERMEDAD 276 291	hábitos tóxicos
+T91	ENFERMEDAD 293 317	Enfermedad renal crónica
+T94	ENFERMEDAD 614 669	fístulas arterio-venosas (FAV) (estenosis, obstrucción)
+T96	ENFERMEDAD 725 746	Anemia multifactorial
+T97	ENFERMEDAD 797 838	Hiperparatiroidismo secundario resistente
+T98	ENFERMEDAD 866 905	adenoma paratiroideo en lóbulo inferior
+T99	ENFERMEDAD 918 941	cardiopatía estructural
+T100	ENFERMEDAD 962 994	hipertrofia ventricular moderada
+T101	ENFERMEDAD 1559 1602	taquicardia ventricular monomorfa sostenida
+T102	ENFERMEDAD 1742 1763	taquicardia auricular
+T103	ENFERMEDAD 3276 3308	bloqueo completo de rama derecha
+T104	ENFERMEDAD 3569 3592	trastornos segmentarios
+T105	ENFERMEDAD 3706 3729	Esclerosis mitroaórtica
+T106	ENFERMEDAD 3747 3767	insuficiencia mitral
+T107	ENFERMEDAD 3825 3861	Derrame pericárdico mínimo posterior
+T108	ENFERMEDAD 4276 4300	taquicardias auriculares
+T109	ENFERMEDAD 4817 4838	fibrilación auricular
+T112	ENFERMEDAD 5243 5266	taquicardia ventricular
+T113	ENFERMEDAD 5483 5508	taquicardia con QRS ancho
+T114	ENFERMEDAD 5821 5844	hipertrofia ventricular
+T115	ENFERMEDAD 6010 6042	extrasístoles supraventriculares
+T116	ENFERMEDAD 6083 6107	taquicardia de QRS ancho
+T117	ENFERMEDAD 6175 6198	hipertrofia ventricular
+T119	ENFERMEDAD 6700 6713	preexcitación
+T121	ENFERMEDAD 6961 7062	Taquicardia auricular preexcitada por vía accesoria localizada en porción posterior del anillo mitral
+T122	ENFERMEDAD 7099 7123	Cardiopatía hipertensiva
+T123	ENFERMEDAD 7128 7149	disfunción diastólica
+T124	ENFERMEDAD 7151 7175	Enfermedad renal crónica
+T125	ENFERMEDAD 260 271	dislipemias
+T95	ENFERMEDAD 692 715	FAV en miembro superior
+T57	ENFERMEDAD 843 863	osteodistrofia renal
+T127	ENFERMEDAD 1421 1445	taquicardia de QRS ancho
+T128	ENFERMEDAD 1604 1608	TVMS
+T130	ENFERMEDAD 1686 1713	taquicardia de QRS estrecho
+T16	ENFERMEDAD 3139 3156	Aorta calcificada
+T131	ENFERMEDAD 3310 3316	BCRDHH
+T133	ENFERMEDAD 3595 3639	urícula izquierda dilatada de forma moderada
+T24	ENFERMEDAD 5332 5338	BCRDHH
+T26	ENFERMEDAD 5697 5703	HBAIHH
+T28	ENFERMEDAD 5665 5695	hemibloqueo anterior izquierdo
+T29	ENFERMEDAD 6113 6117	TVMS
+T164	ENFERMEDAD 3457 3526	ventrículo izquierdo no dilatado con hipertrofia concéntrica moderada
+T39	ENFERMEDAD 331 381	nefropatía intersticial por reflujo vesicoureteral
+T110	ENFERMEDAD 434 508	doble trasplante renal en 1992 y 2015, ambos disfuncionantes y embolizados
+T118	ENFERMEDAD 5620 5643	crecimiento ventricular
+T137	ENFERMEDAD 6238 6251	preexcitación
+T31	ENFERMEDAD 6595 6626	vía accesoria lateral izquierda
+T138	ENFERMEDAD 6911 6924	preexcitación

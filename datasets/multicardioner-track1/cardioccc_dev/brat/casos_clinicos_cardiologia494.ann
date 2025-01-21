@@ -1,0 +1,47 @@
+T26	ENFERMEDAD 94 97	HTA
+T27	ENFERMEDAD 99 109	dislipemia
+T28	ENFERMEDAD 111 115	EPOC
+T29	ENFERMEDAD 117 158	ictus isquémico temporoparietal izquierdo
+T30	ENFERMEDAD 185 225	cardiopatía dilatada de origen isquémico
+T31	ENFERMEDAD 250 267	IAM inferolateral
+T33	ENFERMEDAD 493 513	insuficiencia mitral
+T34	ENFERMEDAD 532 545	valvulopatías
+T35	ENFERMEDAD 1517 1534	proceso neumónico
+T36	ENFERMEDAD 1623 1645	infección respiratoria
+T37	ENFERMEDAD 1648 1689	descompensación de insuficiencia cardiaca
+T38	ENFERMEDAD 1706 1752	cardiopatía isquémica crónica en fase dilatada
+T39	ENFERMEDAD 1953 1970	proceso neumónico
+T40	ENFERMEDAD 2081 2143	Insuficiencia mitral severa con restricción del velo posterior
+T41	ENFERMEDAD 2183 2258	Severa dilatación de ventrículo izquierdo ligera-moderadamente hipertrófico
+T42	ENFERMEDAD 2484 2509	Insuficiencia tricuspídea
+T43	ENFERMEDAD 2555 2574	derrame pericárdico
+T44	ENFERMEDAD 2607 2689	insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior
+T45	ENFERMEDAD 2692 2731	prolapso de velo anterior a nivel de A2
+T46	ENFERMEDAD 3020 3046	coronaria derecha: ocluida
+T47	ENFERMEDAD 3460 3482	insuficiencia cardiaca
+T48	ENFERMEDAD 3496 3514	shock cardiogénico
+T49	ENFERMEDAD 3635 3743	insuficiencia mitral severa, con restricción del velo posterior y posible prolapso también del velo anterior
+T51	ENFERMEDAD 3787 3807	insuficiencia mitral
+T52	ENFERMEDAD 3862 3972	insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior y prolapso de velo anterior
+T53	ENFERMEDAD 3947 3986	prolapso de velo anterior a nivel de A2
+T54	ENFERMEDAD 4108 4145	oclusión crónica de coronaria derecha
+T55	ENFERMEDAD 4232 4262	shock cardiogénico refractario
+T56	ENFERMEDAD 5282 5304	insuficiencia cardiaca
+T57	ENFERMEDAD 5597 5624	descompensaciones cardiacas
+T58	ENFERMEDAD 5639 5698	Neumonía derecha del lóbulo medio adquirida en la comunidad
+T59	ENFERMEDAD 5700 5751	Insuficiencia cardiaca con disfunción biventricular
+T60	ENFERMEDAD 5753 5771	Shock cardiogénico
+T61	ENFERMEDAD 5773 5883	Insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior y prolapso de velo anterior
+T64	ENFERMEDAD 5931 5977	Cardiopatía isquémica crónica en fase dilatada
+T65	ENFERMEDAD 5025 5027	IM
+T66	ENFERMEDAD 2352 2393	Moderada dilatación de aurícula izquierda
+T67	ENFERMEDAD 2956 2984	circunfleja: muy calcificada
+T68	ENFERMEDAD 2858 2913	descendente anterior: largo desarrollo, muy calcificada
+T69	ENFERMEDAD 4001 4018	rotura de cuerdas
+T70	ENFERMEDAD 2746 2763	rotura de cuerdas
+T71	ENFERMEDAD 4059 4103	lesiones moderadas de la coronaria izquierda
+T151	ENFERMEDAD 2002 2019	ritmo ventricular
+T22	ENFERMEDAD 2818 2832	Tronco: lesión
+T16	ENFERMEDAD 5426 5489	válvula mitral con dispositivos bien posicionados con fuga leve
+T24	ENFERMEDAD 5895 5929	A2 con imagen de rotura de cuerdas
+#1	AnnotatorNotes T65	 insuficiencia mitral

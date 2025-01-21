@@ -1,0 +1,36 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+Paciente de 73 años edad. Alergia a la penicilina. Factores de riesgo cardiovascular (FRCV): hipertensión arterial (HTA), diabetes mellitus (DM) tipo 2. Dislipemia. Obesidad. Neoplasia de mama derecha en 2004, con intervención quirúrgica, radioterapia, quimioterapia y hormonoterapia.
+Historia cardiológica: en estudio por clínica de dolor torácico de esfuerzo de características anginosas. En 2015 se realizó ecocardiograma de estrés sin ser concluyente debido a la baja capacidad funcional obtenida sin alcanzar frecuencia submáxima teórica. La paciente rechazó someterse a cateterismo cardiaco. Se inició tratamiento con ácido acetilsalicílico (AAS) y nitroglicerina 5 mg en parche.
+
+ENFERMEDAD ACTUAL:
+Ingresa en cardiología por presentar de nuevo clínica sugestiva de angor de esfuerzo progresivo.
+Clase funcional II habitual de la New York Heart Association (NYHA). No síncope ni palpitaciones.
+No edematización de extremidades. Buena adherencia al tratamiento.
+Debido a la ecocardiografía de estrés previa no concluyente, se decide realizar SPECT de reposo y de esfuerzo que es compatible con isquemia inducible leve en territorio inferior. Se decide solicitar cateterismo cardiaco que la paciente finalmente acepta.
+
+EXPLORACIÓN FÍSICA:
+Eupneica en reposo. Tensión arterial (TA) 135/85 mmHg. Frecuencia cardiaca (FC) 70 lpm.
+Saturación de oxígeno 98% basal. Auscultación cardiaca: ruidos cardiacos rítimicos sin soplos.
+Auscultación pulmorar: normoventilación. Extremidades inferiores: sin edemas, pulsos distales presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal a 80 lpm, bloqueo auriculoventocular (BAV) de primer grado, bloqueo incompleto de rama izquierda del haz de His (BIRIHH). Sin cambios en ECG seriados.
+ANALÍTICA: TnI 0,03, mioglobina 31,6. Glucosa 106 mg/dl, urea 61 mg/dl, creatinina 1,03 mg/dl, ácido úrico 8,1 mg/dl, triglicéridos 221 mg/dl, colesterol total 143 mg/dl, HDL 33 mg/dl, LDL 66 mg/dl, sodio 140 mEq/l, potasio 3,6 mEq/l, AST 35 U/L, ALT 31 U/L, GGT 47 U/L, FA 117 U/L, CK 40 U/L. Bi 0,48 mg/dl. Función tiroidea: TSH 0,91 mUI/l, T4 1,02 ng/dl. Hemoglobina 13,4 g/dl, hematocrito 41%, VCM 90 fl, leucocitos 8900/mm3 (46% N), plaquetas 124000/mm3. HBa1C 7,9%.
+RADIOGRAFÍA DE TÓRAX: ateromatosis calcificada de la aorta. Cardiomegalia.
+Engrosamiento hiliar de aspecto vascular. No se observan alteraciones pleuroparenquimatosas de evolución aguda. Espondilosis dorsal.
+ECOCARDIOGRAFÍA TRANSTORÁCICA: ventrículo izquierdo (VI) de dimensión normal.
+Hipertrofia ventricular izquierda (HVI) moderada de predominio septal. Función sistólica global normal, sin asimetrías segmentarias de la contractilidad. Aceleración de flujo en tracto de salida del ventrículo izquierdo (TSVI) sin registrar gradiente dinámico significativo (máximo 10 mmHg) ni de forma basal ni tras maniobras de Valsalva. Disfunción diastólica ligera sin datos actuales de presión telediastólica del ventrículo izquierdo (PTDVI) elevada. Aurícula izquierda ligeramente dilatada. Cavidades derechas normales; ventrículo derecho (VD) normocontráctil (TAPSE 19 mm Onda S ́13). Válvula mitral (VM): calcio en anillo posterio medial, velos finos, no limitada en su apertura, competente. Vávula aórtica (VAo): trivalva, leve esclerosis de velos, no limitada en su apertura, competente. Raíz aórtica y porción visualizada de aorta ascendente proximal normales. Insuficiencia tricuspídea (IT) mínima telesistólica que permite estimar presión arterial pulmonar sistólica (PAPS) normal. Vena cava inferior (VCI) no dilatada con normocolapso inspiratorio. PAPS estimada normal. Ausencia de derrame pericárdico y de masas intracavitarias por esta vía de acceso.
+SPECT de perfusión miocárdica de esfuerzo y SPECT sincronizado de perfusión miocárdica de reposo: radiofármaco: 99mTc-tetrofosmina. Dosis: esfuerzo: 7.2mCi. Reposo: 21.3mCi.
+Gammacámara 3. Ergometría en protocolo de Bruce de 3,30 minutos de duración finalizada por incapacidad para mantener el ritmo de la cinta, alcanzando un 86% de la frecuencia cardiaca predicha para la edad y TA max=130/80140/70. No dolor torácico. Capacidad funcional disminuida (carga máxima alcanzada 5 MET). Ausencia de arritmias. En el estudio de SPECT/TC de baja dosis se observa en la fase de esfuerzo, hipoperfusión de intensidad leve en segmento inferior basal que se normaliza parcialmente en la fase de reposo y que es compatible con isquemia inducible leve.
+CORONARIOGRAFÍA: punción de arteria radial derecha 6F. Dominancia derecha.
+Arterias coronarias epicárdicas sin estenosis angiográficas significativas. Múltiples fístulas coronarias a VI desde todos los territorios coronarios principales.
+
+EVOLUCIÓN CLÍNICA
+Tras el resultado del cateterismo cardiaco se inició tratamiento con bisoprolol a dosis bajas que toleró y se mantuvo nitroglicerina y ácido acetilsalicílico (AAS). La paciente fue dada de alta hospitalaria.
+Tras 6 meses de seguimiento ambulatorio, la paciente ha presentado mejoría clínica con disminución de la clínica anginosa presentando dos episodios aislados con grandes esfuerzos.
+
+DIAGNÓSTICO
+Angor de esfuerzo progresivo.
+Múltiples fístulas conorario-ventriculares.

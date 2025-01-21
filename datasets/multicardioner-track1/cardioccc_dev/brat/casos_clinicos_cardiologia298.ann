@@ -1,0 +1,35 @@
+T30	ENFERMEDAD 98 133	reacciones alérgicas a medicamentos
+T31	ENFERMEDAD 180 201	hipertensión arterial
+T32	ENFERMEDAD 203 213	dislipemia
+T33	ENFERMEDAD 215 254	Enfermedad pulmonar obstructiva crónica
+T34	ENFERMEDAD 256 260	EPOC
+T35	ENFERMEDAD 413 501	Accidente cerebrovascular isquémico en territorio de la arteria cerebral media izquierda
+T36	ENFERMEDAD 524 548	Enfermedad renal crónica
+T37	ENFERMEDAD 561 587	Estenosis de canal medular
+T38	ENFERMEDAD 1707 1714	ascitis
+T39	ENFERMEDAD 3076 3119	bloqueo auriculoventricular de primer grado
+T40	ENFERMEDAD 3670 3697	Insuficiencia mitral ligera
+T41	ENFERMEDAD 3846 3868	insuficiencia pulmonar
+T42	ENFERMEDAD 4082 4107	insuficiencia tricuspídea
+T43	ENFERMEDAD 4109 4141	Pericardio con derrame posterior
+T44	ENFERMEDAD 4805 4850	VI con hipertrofia concéntrica moderada-grave
+T45	ENFERMEDAD 5676 5705	amiloidosis por transtiretina
+T46	ENFERMEDAD 5805 5825	amiloidosis cardiaca
+T47	ENFERMEDAD 5920 5934	EPOC agudizado
+T48	ENFERMEDAD 6160 6179	derrame pericárdico
+T49	ENFERMEDAD 6192 6214	insuficiencia cardiaca
+T50	ENFERMEDAD 6333 6353	amiloidosis cardiaca
+T51	ENFERMEDAD 6493 6513	amiloidosis cardiaca
+T52	ENFERMEDAD 6927 6965	amiloidosis cardiaca por transtiretina
+T53	ENFERMEDAD 7332 7346	hiperpotasemia
+T54	ENFERMEDAD 7484 7504	disfunción sistólica
+T56	ENFERMEDAD 7652 7664	disautonomía
+T58	ENFERMEDAD 8294 8316	Insuficiencia cardiaca
+T59	ENFERMEDAD 8337 8388	Amiloidosis cardiaca por transtiretina, forma senil
+T60	ENFERMEDAD 3768 3795	Aurícula izquierda dilatada
+T61	ENFERMEDAD 3958 3997	Ventrículo derecho ligeramente dilatado
+T63	ENFERMEDAD 393 411	Cor pulmonale leve
+T64	ENFERMEDAD 3195 3222	Hemibloqueo posteroinferior
+T65	ENFERMEDAD 3441 3499	Ventrículo izquierdo no dilatado, gravemente hipertrofiado
+T20	ENFERMEDAD 5087 5105	VD con hipertrofia
+T55	ENFERMEDAD 275 311	paquipleuritis calcificada bilateral

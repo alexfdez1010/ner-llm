@@ -1,0 +1,30 @@
+T13	ENFERMEDAD 80 87	fumador
+T14	ENFERMEDAD 606 622	parálisis facial
+T15	ENFERMEDAD 1023 1053	patología estructural cardiaca
+T16	ENFERMEDAD 1153 1184	accidente isquémico transitorio
+T17	ENFERMEDAD 1186 1189	AIT
+T18	ENFERMEDAD 1324 1351	pseudoaneurisma ventricular
+T19	ENFERMEDAD 1366 1372	trombo
+T20	ENFERMEDAD 1469 1548	lesión grave del tronco coronario izquierdo (TCI) medio-distal y de los 3 vasos
+T21	ENFERMEDAD 1787 1823	aneurisma inferobasal e inferoseptal
+T22	ENFERMEDAD 1946 1952	trombo
+T23	ENFERMEDAD 2005 2018	cardiomegalia
+T24	ENFERMEDAD 2516 2543	pseudoaneurisma ventricular
+T25	ENFERMEDAD 2559 2565	trombo
+T26	ENFERMEDAD 2672 2701	disfunción sistólica moderada
+T27	ENFERMEDAD 2720 2787	tronco coronario izquierdo: con lesión grave en tercio medio distal
+T28	ENFERMEDAD 2847 2888	Descendente anterior: con estenosis grave
+T29	ENFERMEDAD 2927 2970	Circunfleja: estenosis significativa ostial
+T30	ENFERMEDAD 3508 3637	déficit motor en territorio de arteria cerebral media (ACM) izquierda y arteria cerebral anterior derecha de causa cardioembólica
+T31	ENFERMEDAD 3760 3790	estenosis significativa en ACM
+T32	ENFERMEDAD 4006 4029	trombo intraventricular
+T33	ENFERMEDAD 4558 4588	shock cardiogénico refractario
+T34	ENFERMEDAD 4603 4618	Infarto silente
+T35	ENFERMEDAD 4634 4670	pseudoaneurisma ventricular inferior
+T36	ENFERMEDAD 4676 4688	trombo mural
+T37	ENFERMEDAD 4706 4755	Enfermedad arterial coronaria de TCI y tres vasos
+T38	ENFERMEDAD 4757 4798	Disfunción ventricular izquierda moderada
+T39	ENFERMEDAD 3358 3376	eventos arrítmicos
+T40	ENFERMEDAD 1606 1696	ventrículo izquierdo (VI) moderadamente dilatado, con disfunción sistólica global moderada
+T41	ENFERMEDAD 3127 3171	Coronaria derecha: dominante, ocluida ostial
+T4	ENFERMEDAD 2752 2845	lesión grave en tercio medio distal afectando el ostium de descendente anterior y circunfleja

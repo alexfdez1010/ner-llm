@@ -1,0 +1,32 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 74 años. Sin alergias medicamentosas conocidas. Exfumador de un paquete al día hasta hace 12 años. Diagnosticado de hipertensión arterial, actualmente a tratamiento con olmesartán 20 mg, con buen control de cifras tensionales.
+El paciente consulta con su médico de atención primaria por disnea de moderados esfuerzos.
+Además, últimamente nota episodios frecuentes de mareo y visión borrosa al caminar, de duración muy breve y que desaparecen inmediatamente con el cese de la actividad. No ha tenido pérdida de consciencia ni otra clínica cardiovascular. Se realiza electrocardiograma (ECG) que objetiva trastorno de la conducción auriculoventricular con bloqueo de segundo grado tipo Wenckebach, por lo que se deriva a nuestra consulta.
+Se decide ampliar estudio con Holter de 24 horas que objetiva rachas de bloqueo auriculoventricular (BAV) 2:1 y ritmo de escape nodal. Además, se realiza ecocardiografía transtorácica que resulta compatible con la normalidad. Durante la realización de la prueba se objetiva BAV completo, por lo que ingresa en cardiología con monitorización.
+Tensión arterial: 150/53 mmHg. Frecuencia cardiaca: 32 latidos por minuto. Saturación de oxígeno con aire ambiente: 98%. Buen estado general, consciente, orientado, colaborador, eupneico y afebril. Presión venosa yugular no elevada. Auscultación cardiaca rítmica con soplo sistólico en foco mitral y aórtico II/VI. Auscultación pulmonar con murmullo vesicular normal, sin ruidos sobreañadidos. Abdomen blando, depresible, no doloroso a la palpación profunda, sin masas ni visceromegalias. Pulsos periféricos positivos y simétricos en las cuatro extremidades.
+Miembros inferiores sin edema ni signos de trombosis venosa profunda.
+
+PRUEBAS COMPLEMENTARIAS
+ECG al ingreso: actividad sinusal a 60 latidos por minuto. BAV completo con ritmo de escape ventricular a 40 latidos por minuto, QRS estrecho, sin alteraciones de la repolarización.
+ECG con dolor: ritmo sinusal a 60 lpm. PR 220 ms. QRS estimulado por marcapasos.
+Elevación cóncava del ST de V2 a V6 y en derivaciones inferiores, con un máximo de 4 mm en V4.
+ECG al alta: ritmo sinusal a 60 lpm. PR normal. QRS estimulado por marcapasos.
+ANALÍTICA urgente: hemograma: hemoglobina 13,6 g/dl, hematocrito 40,1%, plaquetas 136.000/mm3, leucocitos 5.970/mm3 (fórmula normal). Coagulación: tasa de protrombina 91%, INR 1,06, ratio TTPA 0,90. Bioquímica: glucosa 91 mg/dl, urea 65 mg/dl, creatinina 1,16 mg/dl, sodio 138 mEq/l, potasio 5,1 mEq/l. Troponina I 3,37 ng/l, pico máximo 6,37 ng/ml (normal hasta 0,06).
+RADIOGRAFÍA DE TÓRAX: normal. Al alta, generador en región infraclavicular izquierda.
+Electrodos en aurícula y ventrículo derechos.
+ECOCARDIOGRAMA TRANSTORÁCICO al ingreso: VI de tamaño normal con hipertrofia concéntrica leve (SIV 13 mm, DTD 53 mm, PP 11 mm). Función sistólica global normal, sin alteraciones de la contractilidad segmentaria. Patrón de llenado normal para su edad con relación E/E" de 9. VD de tamaño y función sistólica normales. Dilatación de ambas aurículas, grave de izquierda (volumen de AI 67 ml/m2). Sin valvulopatías significativas. Vena cava inferior de tamaño normal con colapso inspiratorio adecuado. Grandes vasos de calibre normal.
+Pericardio normal.
+ECOCARDIOGRAMA TRANSTORÁCICO durante el ingreso: acinesia de todos los segmentos medios y apicales, con contractilidad preservada en segmentos basales, lo que condiciona una función sistólica moderadamente deprimida (FEVI biplano 35%).
+ECOCARDIOGRAMA TRANSTORÁCICO de control: función sistólica normal (FEVI biplano 66%), sin alteraciones de la contractilidad segmentaria.
+CATETERISMO CARDIACO: arterias coronarias sin lesiones significativas. Ventrículo izquierdo con acinesia medioapical y disfunción sistólica moderada.
+
+EVOLUCIÓN CLÍNICA
+Acude a realizar un ecocardiograma ambulatorio, remitido desde consulta externa. Ante el hallazgo de paroxismos de BAV completo, que explican la clínica de mareo y disnea de esfuerzo por la que consultó, se le informa y se procede a ingreso urgente en planta de hospitalización con monitorización electrocardiográfica. Muy nervioso y preocupado.
+Durante su estancia en planta se encuentra asintomático cardiovascular en reposo, con BAV completo y frecuencias por debajo de 30 lpm, por lo que se inicia tratamiento con isoproterenol.
+A la mañana siguiente, se implanta marcapasos definitivo bicameral, sin complicaciones.
+Esa misma tarde, tras el implante, avisan al cardiólogo de guardia por dolor centrotorácico opresivo intenso con cortejo vegetativo asociado. Se realiza ECG en el que se observa onda de lesión subepicárdica anterolateral y ecocardiograma que muestra alteraciones de la contractilidad en segmentos medioapicales con función sistólica moderadamente deprimida. Se realiza coronariografía emergente, en el que se observan arterias coronarias sin lesiones significativas y ventriculografía compatible con síndrome de tako-tsubo. Tras control del dolor, presenta buena evolución clínica, con mejoría de las alteraciones de la contractilidad segmentaria por lo que es dado de alta en situación estable.
+Tres meses después del alta permanece asintomático, con buen aspecto de la herida quirúrgica y completa normalización de las alteraciones segmentarias y de la función ventricular.
+
+DIAGNÓSTICO
+Bloqueo auriculoventricular completo paroxístico. Implante de marcapasos definitivo DDDR.
+Síndrome de tako-tsubo posprocedimiento. Estrés psicológico por el ingreso hospitalario imprevisto y administración de isoproterenol como posibles inductores. Disfunción sistólica de VI moderada transitoria, a expensas de acinesia de segmentos medios y apicales. Arterias coronarias sin lesiones significativas.

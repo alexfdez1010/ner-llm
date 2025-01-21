@@ -1,0 +1,28 @@
+T24	ENFERMEDAD 2040 2055	consolidaciones
+T39	ENFERMEDAD 81 104	alergias medicamentosas
+T40	ENFERMEDAD 172 187	hábitos tóxicos
+T41	ENFERMEDAD 189 207	Síndrome depresivo
+T42	ENFERMEDAD 246 265	síncope situacional
+T43	ENFERMEDAD 311 328	miocarditis aguda
+T44	ENFERMEDAD 1742 1761	bradicardia sinusal
+T45	ENFERMEDAD 2025 2035	neumotórax
+T46	ENFERMEDAD 3403 3436	Insuficiencia tricuspídea trivial
+T47	ENFERMEDAD 3452 3474	Insuficiencia pulmonar
+T48	ENFERMEDAD 3591 3610	derrame pericárdico
+T49	ENFERMEDAD 5688 5703	miopericarditis
+T50	ENFERMEDAD 5907 5922	miopericarditis
+T51	ENFERMEDAD 6302 6310	isquemia
+T52	ENFERMEDAD 6349 6369	enfermedad coronaria
+T53	ENFERMEDAD 6849 6869	isquemia transitoria
+T54	ENFERMEDAD 7525 7586	Infarto de miocardio con coronarias sin lesiones obstructivas
+T55	ENFERMEDAD 1991 2010	congestión pulmonar
+T56	ENFERMEDAD 6711 6724	síncope vagal
+T57	ENFERMEDAD 5587 5595	isquemia
+T59	ENFERMEDAD 7588 7594	MINOCA
+T126	ENFERMEDAD 2816 2829	insuficiencia
+T127	ENFERMEDAD 3261 3274	insuficiencia
+T87	ENFERMEDAD 5158 5180	puente intramiocárdico
+T88	ENFERMEDAD 6139 6190	fermentos cardiacos, con ascenso y caída muy rápida
+T89	ENFERMEDAD 6445 6513	trayecto intramiocárdico de longitud significativa en la rama de OM1
+T90	ENFERMEDAD 6781 6805	trayecto intramiocárdico
+T92	ENFERMEDAD 7609 7674	trayecto intramiocárdico importante de la arteria obtusa marginal

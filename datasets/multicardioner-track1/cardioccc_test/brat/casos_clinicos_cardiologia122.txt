@@ -1,0 +1,23 @@
+Antecedentes, enfermedad actual y exploración física
+Niño de 12 años que ingresa en UCIP trasladado en ambulancia medicalizada por parada cardio-respiratoria en domicilio. Presenta un cuadro de 12 horas de evolución de odinofagia con fiebre máximo de 38 °C. Tras administrarle antitérmico, la madre refiere notarle ruidos respiratorios patológicos y pérdida de conciencia, por lo que avisa al 112. A la llegada de la ambulancia de soporte básico, se conecta DAI confirmándose fibrilación ventricular, por lo que se realiza desfibrilación y reanimación cardiopulmonar, consiguiéndose ritmo organizado con pulso a los 4 minutos (tras dos choques de 360 J). La ambulancia medicalizada llega a domicilio, siendo intubado, sedado y trasladado. Tiempo estimado de parada cardiaca (desde llamada a 112 hasta ritmo con pulso): 16 minutos. Entre los antecedentes destaca embarazo y parto normal. Bronquitis sibilante en periodo de lactante. No ingresos previos. Vacunación según calendario. No alergias conocidas. Pendiente de consulta externa en Cardiología Infantil por soplo diagnosticado por su pediatra hace un mes.
+Antecedentes familiares con tío, abuelo y primo paterno con patología cardiaca adquirida.
+
+La exploración física muestra peso estimado 45 kg. FC: 100 lpm, FR: 20 rpm, TA. 112/57, Sat. 02 100% (FiO2 de 0,3). Sedado, conectado a ventilación mecánica. Palidez cutánea. No edemas. No petequias. ACP: Buena entrada de aire bilateral. Tonos cardiacos rítmicos. Abdomen: Blando y depresible, no masas ni megalias.
+
+Pruebas complementarias
+• ECG: Crecimiento de cavidades izdas y descenso marcado de ST (sobre todo en I, II, aVR y precordiales izquierdas. QTC: 400ms.
+• Pico enzimático: CPK: 1.722, CKMB: 42,7. Troponina T: 360,8, ProBNP: 3.788.
+• Ecocardiografía: Situs solitus, concordancia AV-VA. SIA y SIV íntegros. Ligera dilatación de ventrículo izquierdo (DTD 50 mm) con buena función sistólica (FE 55-60). Válvulas normofuncionantes. Aorta y A. pulmonar normales. No derrame pericárdico. Coronaria derecha dilatada de 6 mm. No se observa coronaria izquierda en su origen normal. Flujo a arteria pulmonar fundamentalmente sistólico (aunque parece continuo), probablemente por origen anómalo de la arteria coronaria izquierda.
+• Angio TAC arterias coronarias: Origen anómalo de coronaria izquierda de arteria pulmonar principal con pase de contraste desde la coronaria izquierda a la arteria pulmonar. Arteria coronaria derecha dilatada con origen en seno coronario derecho con circulación colateral hacia la coronaria izquierda.
+
+Evolución clínica
+Al ingreso, se inicia monitorización, conexión a ventilación mecánica, hipotermia y sueroterapia. Respiratoriamente se conecta a ventilación mecánica convencional con adecuada oxigenación. Empeoramiento respiratorio a partir del 4o día de ingreso con empeoramiento de la oxigenación observándose condensación neumónica. Mejoría progresiva posterior con retirada lenta de FiO2 y PEEP. Hemodinámicamente al ingreso se inicia perfusión continua de dopamina hasta 20 mcg/ kg/min para TAM 70. Tendencia a bradicardia durante la hipotermia con alargamiento de QTc hasta 0,55 que se normaliza tras su retirada. No se han producido arritmias durante todo el ingreso. 
+Neurológico: Al ingreso, se conecta a perfusión continua de sedoanalgesia profunda con midazolam y fentanilo. Se aplica protocolo de hipotermia terapéutica, manteniéndose temperatura central 33-34 °C durante 48 horas. Se mantiene con monitorización continua con EEG integrado por amplitud sin aparición de episodios convulsivos y con oximetría cerebral estable y simétrica. Recalentamiento según protocolo sin complicaciones. Retirada progresiva de sedoanalgesia con aparición de movilidad espontánea coordinada sin focalidad. Renal/Hidrometabólico: Se mantiene durante todo el ingreso con diuresis adecuada precisando puntualmente dosis aislada de furosemida para balances adecuados. Función renal normal.
+Ante los hallazgos del ecocardiograma se realizó TAC coronario que confirmó origen anómalo de coronaria izquierda en arteria pulmonar. Con estos datos se derivó a nuestro centro de referencia de cirugía cardiaca infantil donde se realizó cateterismo cardiaco con los mismos hallazgos que el TAC coronario. Se intervino con reimplantación de arteria coronaria izquierda en aorta sin complicaciones significativas.
+
+Diagnóstico
+• Parada cardio-respiratoria por fibrilación ventricular reanimada.
+• Síndrome de ALCAPA (origen anómalo de coronaria izquierda en arteria pulmonar).
+• Función ventricular izquierda conservada.
+• Reimplantación de arteria coronaria izquierda en aorta.
+• Neumonía nosocomial lid asociada a ventilación mecánica.

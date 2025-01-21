@@ -1,0 +1,20 @@
+T1	ENFERMEDAD 1963 2000	desnutrición calórico-proteica severa
+T2	ENFERMEDAD 51 75	diabetes mellitus tipo 2
+T4	ENFERMEDAD 1093 1115	hipoalbuminemia severa
+T5	ENFERMEDAD 127 177	trombofilia por mutación del gen de la protrombina
+T6	ENFERMEDAD 1183 1185	CU
+T7	ENFERMEDAD 179 200	obesidad supermórbida
+T8	ENFERMEDAD 1871 1877	anemia
+T14	ENFERMEDAD 1243 1269	intolerancias alimentarias
+T15	ENFERMEDAD 244 260	Colitis Ulcerosa
+T16	ENFERMEDAD 262 264	CU
+T19	ENFERMEDAD 358 366	diabetes
+T20	ENFERMEDAD 1381 1389	Diabetes
+T39	ENFERMEDAD 754 756	CU
+T41	ENFERMEDAD 933 954	desnutrición proteica
+T42	ENFERMEDAD 983 1004	gastroenteritis aguda
+T45	ENFERMEDAD 103 125	mal control metabólico
+T3	ENFERMEDAD 1882 1892	ferropenia
+#2	AnnotatorNotes T6	   CU: colitis ulcerosa
+#1	AnnotatorNotes T16	   CU: colitis ulcerosa
+#3	AnnotatorNotes T39	   CU: colitis ulcerosa

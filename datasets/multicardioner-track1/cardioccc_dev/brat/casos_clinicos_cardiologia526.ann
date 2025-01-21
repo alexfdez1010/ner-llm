@@ -1,0 +1,30 @@
+T32	ENFERMEDAD 2679 2725	ventrículo izquierdo no dilatado, hipertrófico
+T70	ENFERMEDAD 89 112	alergias medicamentosas
+T71	ENFERMEDAD 117 132	hábitos tóxicos
+T72	ENFERMEDAD 134 155	Hipertensión arterial
+T73	ENFERMEDAD 177 194	diabetes mellitus
+T74	ENFERMEDAD 197 207	dislipemia
+T75	ENFERMEDAD 209 227	Neoplasia de riñón
+T76	ENFERMEDAD 263 290	Insuficiencia renal crónica
+T77	ENFERMEDAD 352 370	Anemia ferropénica
+T78	ENFERMEDAD 388 411	neuralgia del trigémino
+T79	ENFERMEDAD 413 425	Osteoporosis
+T80	ENFERMEDAD 470 522	adenoma tubular con displasia de bajo grado en colón
+T81	ENFERMEDAD 524 540	Síndrome ansioso
+T82	ENFERMEDAD 634 646	hipernefroma
+T83	ENFERMEDAD 691 724	fibrilación auricular paroxística
+T84	ENFERMEDAD 817 831	fractura fémur
+T85	ENFERMEDAD 2084 2087	TVP
+T86	ENFERMEDAD 2402 2415	cardiomegalia
+T87	ENFERMEDAD 3049 3090	Válvula tricúspide con insuficiencia leve
+T88	ENFERMEDAD 3172 3191	derrame pericárdico
+T89	ENFERMEDAD 4013 4067	síndrome de tako-tsubo con afectación medioventricular
+T90	ENFERMEDAD 4390 4415	miocardiopatía por estrés
+T91	ENFERMEDAD 4475 4514	síndrome de tako-tsubo medioventricular
+T92	ENFERMEDAD 4688 4742	Síndrome de tako-tsubo con afectación medioventricular
+T93	ENFERMEDAD 444 459	colon irritable
+T23	ENFERMEDAD 3020 3047	Aurícula izquierda dilatada
+T26	ENFERMEDAD 3628 3639	VI dilatado
+T98	ENFERMEDAD 3824 3835	AI dilatada
+T99	ENFERMEDAD 4131 4192	VI hipertrófico con función sistólica moderadamente deprimida
+T38	ENFERMEDAD 4320 4339	lesiones coronarias

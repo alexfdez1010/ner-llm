@@ -1,0 +1,27 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Paciente de 57 años con FRCV y antecedentes de IAM anterior y apical en 1997 con revascularización quirúrgica con bypass VSF-DA y VSF-CD. El paciente se encuentra en seguimiento por Cardiología de área con CF NYHA I-II. Tras objetivar en Holter de control TVNS se decide realización de EEF con inducción de TV polimórfica. Se implanta en 2003 DAI monocameral programado con zona de terapia a partir 200 lpm. En último ecocardiograma de control: VI severamente dilatado, con función sistólica severamente deprimida (25 %) y aquinesia anteroseptal y apical.
+Dado la presencia de FEVI < 35 %, CF NYHA II, QRS 160 ms (BRD+HBAS) con un adecuado tratamiento médico, se decide upgrade a DAI con terapia de resincronización cardiaca (DAI-TRC) de forma ambulatoria.
+El paciente ingresa en nuestro Servicio para realización de dicha intervención. Se lleva a cabo el procedimiento con implante de electrodo tetrapolar en vena lateral izquierda (acceso muy dificultoso por válvula ostimum en seno coronario) y electrodo en orejuela derecha. Se realiza optimización de programación quedando finalmente programado DDDR 45, Biv +30 ms con estimulación anillo 3-carcasa quedando finalmente un QRS estimulado de 128 ms.
+A las pocas horas tras implante, el paciente presenta taquicardia ventricular monomórfica sostenida a 160 lpm con eje inferior y morfología QS en derivaciones precordiales con buena tolerancia hemodinámica. Se inicia tratamiento con amioradona y betabloqueante intravenoso, reprogramando el dispositivo a terapia a partir 140 lpm (previamente programado a partir de 200 lpm). Se realiza intento de ATP y previa sedación con midazolam y etomidato, dos intentos de CV interna con DAI y 2 intentos más con desfibrilador externo que no fueron efectivos. Finalmente es durante la inducción anestésica con propofol cuando el paciente revierte a ritmo sinusal.
+
+Exploración física: TA 110/57 mmHg, FC 160 lpm, T 36,4 oC, SatO2 basal 95 %. Paciente consciente y orientado, normohidratado y normocoloreado. Taquipnea leve. Auscultación cardiaca: ruidos cardiacos rítmicos sin soplos. Auscultación pulmonar: normoventilación. Abdomen blando, depresible, no doloroso a la palpación, no se palpan masas ni megalias. Peristaltismo conservado. Ingurgitación yugular-, reflujo hepatoyugular -. No edemas en EEII ni signos de TVP.
+
+PRUEBAS COMPLEMENTARIAS
+Ecocardiograma transtorácico: VI severamente dilatado (DTDVI 74 mm). FEVI severamente deprimida (estimada por Simpson 25 %). Aquinesia con hiperrefrigencia septal y apical que impresiona de escara. Aurículas de tamaño normal. VM: Leve calcificación de anillo posterior mitral con IM ligera. VAo: trivalva con leve esclerosis de sigmoideas sin generar restricción a su apertura. VD de tamaño y función normal. IT ligera con gradiente VD-AD de 25 mmHg. VCI no dilatada con normocolapso inspiratorio.
+PAPs estimuada de 30 mmHg. No derrame pericárdico.
+Radiografía de tórax: cardiomegalia. Sin signos de IC aguda. Electrodos de DAITRC en posición normal.
+
+
+ECG: taquicardia QRS ancho 160 lpm con eje inferior y morfología QS en derivaciones precordiales sugestivo de TV de origen apical anterior.
+Analítica sanguínea: marcadores cardiacos: TnI 0,09, mioglobina 160, ProBNP 2400.
+Bioquímica: glucemia 139 mg/dL, creatinina 0,97 mg/dL, Na 135 mEq/l, Cl 98 mEq/l, K 4,1 mEq/l, Ca 9,2 mg/dL. Mg 2 mEq/l. Función tiroidea normal con TSH 4,7 y T4 0,88.
+Hemograma: leucocitos 8.800/mL con 77 % neutrófilos. Hb 13,4 g/dl, plaquetas 225.000/ mcL. Coagulación: normal.
+
+EVOLUCIÓN
+Tras el paso a ritmo sinusal, el paciente queda ingresado en la Unidad Coronaria para monitorización y tratamiento. Se comenta el caso con la Unidad de Arritmias de nuestro hospital y se decide ablación de TV. Mediante sistema de navegación CARTO 3 se realiza reconstrucción anatómica y mapa de voltaje de VI identificando una cicatriz densa anteroseptal y apical con potenciales tardíos (LP) en los bordes de la misma. El pacemapping fue muy similar a la TV clínica. Destaca tras diferentes proyecciones radiológicas que dicha zona se encontraba próximo a la localización del anillo 3 del electrodo de estimulación de VI, que se encontraba programado con estimulación anillo 3-carcasa. Se abolieron los LP mediante aplicación de radiofrecuencia (RF). Posteriormente, se realizaron maniobras de estimulación desde VD y VI, sin inducción de taquicardia.
+Finalmente se reprograma estimulación VI en bipolar desde anillo 1-2 (zona más alejada de cicatriz). Con estos datos, se llegó a la conclusión de que nos encontrábamos ante un posible caso de proarritmia tras resincronización cardiaca.
+El paciente fue dado de alta hospitalaria, encontrándose estable y asintomático sin nuevos eventos arrítmicos. Se encuentra en seguimiento por Unidad de Arritmias y Unidad de Insuficiencia Cardiaca de nuestro Servicio.
+
+DIAGNÓSTICO
+Taquicardia ventricular monomórfica sostenida posiblemente inducida tras terapia de resincronización cardiaca en paciente con miocardiopatía dilatada isquémica con función sistólica severamente deprimida.
+Ablación mediante radiofrecuencia de sustrato de TV isquémica.

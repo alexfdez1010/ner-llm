@@ -1,0 +1,45 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 60 años que acude al servicio de urgencias de nuestro centro por dolor torácico.
+
+Antecedentes
+El paciente presentaba los siguientes antecedentes médicos:
+Factores de riesgo cardiovascular: diabetes mellitus tipo 2, no insulinodependiente, en tratamiento con dos fármacos, con buen control metabólico (HbA1c 6,8%); hipertensión arterial bien controlada (tensión arterial (TA) domiciliaria < 140/80 mmHg) con dos fármacos.
+Sin antecedentes cardiológicos previos.
+Otros antecedentes médicos relevantes: vasculopatía periférica, con estenosis en arteria femoral superficial derecha y ausencia de pulso pedio derecho, tratadas mediante angioplastia con balón farmacoactivo con buen resultado.
+
+Tratamiento habitual:
+Sitagliptina + metformina 50/1.000 mg, 1 comprimido cada 12 horas. Valsartán + amlodipino 40/10 mg, 1 comprimido al día. Omeprazol 20 mg, 1 cápsula al día. Ácido acetilsalicílico (AAS) 100 mg, 1 comprimido al día.
+
+Enfermedad actual
+A su llegada al servicio de urgencias, el paciente presentaba dolor centrotorácico opresivo irradiado a cuello y ambos brazos, de 2 horas de duración desde su inicio en reposo, asociado a sudoración fría. No episodios similares previos. Sin clínica sugestiva de angina de esfuerzo con la actividad física habitual.
+
+Exploración física
+TA 105/70 mmHg, frecuencia cardiaca (FC) 100 lpm, saturación de oxígeno 95% con aire ambiente. Presión venosa yugular normal. Auscultación cardiaca: rítmica, sin soplos ni ruidos patológicos. Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos. Abdomen: blando y depresible, no doloroso a la palpación profunda, no masas ni megalias, Blumberg y Murphy negativos. Extremidades: sin edemas en partes declives, pulsos periféricos conservados y simétricos, no signos de flebitis
+Se realiza electrocardiograma (ECG) en menos de 10 minutos que objetiva la presencia de corriente de lesión subepicárdica en cara inferior, por lo que se activa alerta de hemodinámica.
+
+PRUEBAS COMPLEMENTARIAS
+ECG a su llegada a urgencias: ritmo sinusal a 100 lpm. PR normal. QRS 90 ms. qS en V1. Supradesnivel del segmento ST de hasta 3 mm en DII, DIII y aVF con descenso especular en DI y aVL.
+Radiografía de tórax portátil: índice cardiotorácico ligeramente aumentado en esta proyección anteroposterior. No derrame pleural, ni signos de redistribución vascular. No condensaciones.
+Coronariografía emergente: dominancia derecha. Tronco coronario izquierdo (TCI) sin lesiones. Descendente anterior (DA) con lesión grave del 90% en segmento medio. Circunfleja con lesión del 40% en segmento distal. Coronaria derecha (CD) con lesión larga del 90% que se inicia en segmento proximal y se extiende a segmento medio. Buen lecho distal. Se decide intervencionismo coronario percutáneo (ICP) sobre lesión de CD. Tras predilatar con balón semicompliante de 2,5 x 20 mm se implanta stent farmacoactivo liberador de sirolimus de 2,75 x 30 mm con buen resultado angiográfico final.
+Ecocardiograma en la unidad coronaria: hipertrofia ligera del ventrículo izquierdo (VI), con diámetros conservados y FEVI ligeramente deprimida (Simpson BP 50%) secundaria a hipocinesia inferolateral e inferior mediobasal. Ausencia de valvulopatías significativas. Llenado transmitral normal, se estima presión telediastólica de VI normal (E/E' = 7). VD de diámetros normales y función conservada. Ausencia de insuficiencia tricuspídea (IT) que permita estimar presión sistólica de la arteria pulmonar (PSAP). Vena cava inferior (VCI) normal. Ausencia de derrame pericárdico.
+
+Analítica ordinaria:
+Hemograma: hemoglobina 13,9 g/dl, sin leucocitosis ni desviación izquierda. Plaquetas 241 x 10^9/l.
+Hemostasia: INR 0,99, TTPa 29,3 s.
+Bioquímica: glucosa en ayunas 118 mg/dl, sodio 139 mEq/l, potasio 4 mEq/l, creatinina 0,49 mg/dl (FG > 90 ml/min/1,72 m2), NT-proBNP 266 pg/ml, proteína C reactiva 0,7 mg/dl, HbA1c 6,8%, colesterol total 176 mg/dl, triglicéridos 102 mg/dl, colesterol HDL 37 mg/dl, colesterol LDL 119 mg/dl.
+Curva de biomarcadores de daño miocárdico (hsTnI, normal < 19,8 ng/l): 53 - 24.900 (superior al límite de detección) - 15.000 - 4.408 - 2.977 ng/l.
+ECG al alta (imagen 3): ritmo sinusal a 65 lpm. PR normal. QRS 90 ms con eje a 60o. Onda T negativa en DII, DIII y aVF.
+Coronariografía electiva (vídeo 4): buen resultado de stent implantado en CD. ICP sobre DA: se predilata lesión con balon SC 2,5 x 20 mm y NC 3 x 20 mm, implantandostent farmacoactivo liberador de zotarolimus de 3 x 26 mm, con buen resultado angiográfico final.
+
+EVOLUCIÓN CLÍNICA
+Tras objetivar elevación del segmento ST en cara inferior en paciente con dolor torácico anginoso se administró dosis de carga de prasugrel (el paciente ya recibía tratamiento crónico con AAS 100 mg) y se activó código infarto, realizándose coronariografía emergente que objetivó enfermedad de tres vasos, con dos lesiones graves (en DAm y CDm) y una lesión moderada en circunfleja (Cx) distal. Se decidió ICP constent farmacoactivo sobre la CD media, arteria responsable del infarto (ARI), que se realizó sin incidencias.
+Tras la angioplastia, ingresó en la unidad coronaria, donde se inició tratamiento betabloqueante e hipolipemiante, manteniéndose asintomático y hemodinámicamente estable. Tras permanecer 48 horas sin eventos arrítmicos se decidió alta a planta de cardiología y tras movilización sin incidencias, a domicilio.
+El tratamiento médico al alta fue:
+Ácido acetilsalicílico 100 mg, 1 comprimido al día. Prasugrel 10 mg, 1 comprimido al día. Rosuvastatina 20 mg, 1 comprimido por la noche. Dapagliflozina + metformina 5/1000 mg, 1 comprimido cada 12 horas. Nebivolol 2,5 mg, 1 comprimido al día. Omeprazol 20 mg, 1 cápsula al día. Valsartán + amlodipino 40/10 mg, 1 comprimido al día.
+Tras el alta, fue citado a las 3 semanas de manera ambulatoria para angioplastia electiva sobre la lesión grave de la descendente anterior media, que se realizó sin complicaciones.
+Tras este segundo procedimiento se incluyó al paciente en el programa de rehabilitación cardiovascular de nuestro centro.
+
+DIAGNÓSTICO
+Infarto agudo de miocardio con elevación del segmento ST de localización inferior. Killip I. Enfermedad coronaria de tres vasos: CD media (ARI) 90%, DA media 90%, Cx distal 40%. ICP primaria con stentliberador de fármaco sobre CD media. ICP electiva ambulatoria en segundo tiempo sobre lesión grave en DA media. Disfunción ventricular izquierda ligera (FEVI 50%).
+Enfermedad arterial periférica.
+Diabetes mellitus tipo 2 con buen control metabólico. Colesterol LDL por encima de cifras objetivo (< 50 mg/dl). Hipertensión arterial.

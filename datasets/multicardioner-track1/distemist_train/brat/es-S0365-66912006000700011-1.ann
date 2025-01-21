@@ -1,0 +1,13 @@
+T1	ENFERMEDAD 53 65	hiperlipemia
+T3	ENFERMEDAD 193 220	angina a pequeños esfuerzos
+T5	ENFERMEDAD 316 425	enfermedad coronaria de tres vasos con obstrucción no revascularizable del puente de safena a obtusa marginal
+T7	ENFERMEDAD 547 575	insuficiencia renal moderada
+T9	ENFERMEDAD 918 977	insuficiencia renal aguda por CES tras cateterismo cardíaco
+T13	ENFERMEDAD 1426 1525	ojo derecho (OD) se observó una microhemorragia por encima de papila y cuatro émbolos de colesterol
+T14	ENFERMEDAD 1655 1677	insuficiencia cardíaca
+T15	ENFERMEDAD 1714 1739	isquemia aguda periférica
+T19	ENFERMEDAD 1904 2010	émbolos de colesterol en las estructuras vasculares de tiroides, páncreas, corazón, bazo, hígado y riñones
+T31	ENFERMEDAD 21 30	exfumador
+T2	ENFERMEDAD 1544 1617	ojo izquierdo (OI) otros dos émbolos localizados en rama temporal y nasal
+T4	ENFERMEDAD 1130 1148	lívido reticularis
+#1	AnnotatorNotes T9	   CES: síndrome de embolismo por cristales de colesterol

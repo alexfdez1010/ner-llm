@@ -1,0 +1,27 @@
+Antecedentes, enfermedad actual y exploración física
+Antecedentes personales: varón de 88 años con antecedentes personales de hipertensión arterial, portador de marcapasos VDD por bloqueo AV completo implantado hace 4 meses complicado con taponamiento cardiaco postimplante e ingreso reciente en el Servicio de Geriatría por neumonía en lóbulo superior derecho. Situación basal: independiente para actividades básicas de la vida diaria, sin deterioro cognitivo. Disnea de moderados esfuerzos.
+
+Tratamiento habitual: enalapril 5 mg al día y torasemida 10 mg al día. Enfermedad actual: acude al servicio de urgencias por edemas generalizados y oligoanuria de tres días de evolución, con intensa astenia y anorexia. Refiere además cuadro catarral, con rinorrea y tos seca, sin fiebre termometrada.
+En la exploración física: TA 190/80 mmHg, FC 95 lpm, temperatura 37,7 oC, saturación con gafas nasales a 2 litros de 94%. Regular estado general, palidez mucocutánea, eupneico en reposo. En la auscultación destacaba un soplo mesosistólico en borde esternal izquierdo inferior y roncus en base pulmonar derecha. Resto sin alteraciones.
+
+Pruebas complementarias
+Analítica: Hb 10,3 g/dl, VCM 100, creatinina 3,49 mg/dl (previa de 1,4 mg/dl), Na 144, K 5,5 y hematuria moderada en el sedimento de orina.
+Radiografía de tórax: cardiomegalia, signos de congestión pulmonar e infiltrado en lóbulo pulmonar inferior derecho.
+ECG: ritmo sinusal a 94 lpm con respuesta ventricular electroestimulada.
+Ecocardiograma transtorácico: ventrículo izquierdo con hipertrofia concéntrica severa y disfunción sistólica moderada. Estenosis aórtica degenerativa. Ventrículo derecho no dilatado. Cable de marcapasos normoposicionado, con una verruga de dimensiones aproximadas de 1,8 cm2, próxima a los velos tricuspídeos y movimiento sincrónico con los mismos, con insuficiencia tricuspídea ligera. Presión sistólica de arteria pulmonar estimada de 31 mmHg. Ligero derrame pericárdico y severo derrame pleural izquierdo.
+
+Evolución clínica
+El paciente ingresa en estado de gravedad con intensa astenia y en oligoanuria con empeoramiento de la función renal. Ante los resultados ecocardiográficos y el diagnóstico de endocarditis sobre el cable del marcapasos, se inició tratamiento antibiótico con rifampicina y daptomicina.
+Se decidió la extracción de todo el sistema del MCP y el reimplante de un nuevo dispositivo dado que el paciente estaba en BAV completo pero la evolución clínica fue muy tórpida con intensa sintomatología negativa del ánimo y escasa reserva funcional, falleciendo el paciente a los pocos días el ingreso sin poder retirar el marcapasos.
+
+Diagnóstico
+Presentamos el caso de un paciente octogenario con endocarditis sobre cable de marcapasos con evolución muy tórpida.
+
+Los mecanismos patogénicos que se han postulado son:
+Contaminación local del marcapasos. Se trata del mecanismo más frecuente. Habitualmente ocurre durante la implantación del dispositivo. A menudo la infección comienza en la bolsa del generador y se extiende al cable. El curso clínico puede ser agudo o larvado, manifestándose incluso años después. La duración del procedimiento, una asepsia inadecuada y la inexperiencia del operador son los factores responsables.
+Erosión cutánea o necrosis de la bolsa del generador o de la piel adyacente al electrodo, que actúan como puerta de entrada de microorganismos. Entre los factores involucrados en este mecanismo se encuentran una técnica y lugar de implantación inadecuados, tamaño del generador y desnutrición del paciente.
+Infección por vía hematógena. Llegada del microorganismo por la sangre desde otro foco infeccioso a distancia. La fuente de bacteriemia puede ser un catéter venoso central, una prótesis valvular o procedimientos terapéuticos invasivos.
+
+Los microorganismos aislados con más frecuencia son los estafilococos. El S. aureus es la bacteria que predomina en los casos de infección aguda, mientras que los estafilococos coagulasa negativos son los microorganismos responsables de la mayoría de las infecciones tardías.
+
+Otros microorganismos implicados son Pseudomonas aeruginosa, enterobacterias, Propionibacterium acnes y Corynebacterium sp., y se ha descrito infecciones polimicrobianas, sobre todo en pacientes diabéticos o que toman corticoides. Cuando la infección del marcapaso es secundaria a una endocarditis izquierda el perfil microbiológico es diferente, acorde con los microorganismos causales de la infección valvular.

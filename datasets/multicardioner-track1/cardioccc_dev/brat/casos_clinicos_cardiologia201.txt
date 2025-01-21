@@ -1,0 +1,43 @@
+Varón de 77 años sin alergias medicamentosas, hipertenso como único factor de riesgo cardiovascular, en tratamiento con lisinopril. Como otros antecedentes había presentado cólicos nefríticos, litiasis biliar y una prostatitis.
+Encontrándose previamente asintomático, el paciente consulta en urgencias por presentar diaforesis y sensación distérmica de 24 h de evolución, asociados a vómitos alimenticios, sin fiebre termometrada, ni dolor abdominal. Asintomático desde el punto de vista cardiovascular.
+A su llegada presenta temperatura 37,8 oC, tensión arterial 98/56 mmHg, FC 112 lpm y SatO2 94% con aire ambiente. Glasgow 14 con tendencia a la somnolencia. Palidez cutánea con livideces como signo de mala perfusión periférica. Tonos cardiacos rítmicos, sin soplos audibles. Auscultación pulmonar con murmullo vesicular conservado, sin estertores. El abdomen en ese momento es depresible, con dolor generalizado a la palpación, sin claros signos de irritación peritoneal. Sin edema en extremidades inferiores.
+Ante la sospecha de abdomen agudo, se realiza una analítica que muestra fracaso renal agudo con creatinina 3,45 mg/dl y FG 18 ml/min, acidosis metabólica (pH 7,3, lactato 5 mmol/l) y aumento de reactantes de fase aguda (PCR > 170 mg/l, procalcitonina > 100 ng/ml, leucocitosis de 14.000/μl). Encontrándose en urgencias en espera de otras pruebas, presenta disnea brusca con importante trabajo respiratorio y leve disminución del nivel de conciencia (somnolencia), auscultación pulmonar compatible con edema agudo de pulmón y electrocardiograma en taquicardia sinusal con necrosis y corriente de lesión subepicárdica inferoposterior. En este momento se inicia oxigenoterapia y se consulta al servicio de cardiología. Se inicia perfusión de bicarbonato y ventilación mecánica no invasiva con mejoría de los datos de mala perfusión y se realiza ecocardiograma a pie de cama que evidencia disfunción ventricular izquierda moderada por hipocontractilidad global con hipoquinesia inferior, sin derrame pericárdico. Ante la sospecha de IAMEST inferoposterior Killip IV, se administra doble antiagregación plaquetaria y se realiza coronariografía emergente que muestra enfermedad de 2 vasos con oclusión de la coronaria derecha a nivel distal, sobre la que se realiza ICP con implante de stent farmacoactivo. Durante el procedimiento presenta deterioro hemodinámico progresivo, por lo que se inicia perfusión endovenosa de dobutamina. A pesar de ello el paciente continúa empeorando con hipotensión franca y taquicardia, se decide asociar noradrenalina y el implante de un balón de contrapulsación intraaórtico. Tras esto, ingresa en la unidad de críticos cardiológicos.
+
+PRUEBAS COMPLEMENTARIAS
+
+En urgencias:
+
+Analítica sanguínea:
+Glucosa 214 mg/dl, urea 84 mg/dl, creatinina 3,45 mg/dl, bilirrubina 1,35 mg/dl, GOT 113 U/l, GPT 45 U/l, Na 135,6 mEq/l, K 5'17 mEq/l, Cl 99 mEq/l, PCR 178 mg/l, procalcitonina > 100 mg/l. Hemograma: leucocitos 14.590/μl (77% de neutrófilos), hemoglobina 18,8 g/dl, hematocrito 55,2%, plaquetas 311.000/μl. INR 1,19. DD 3.443 ng/ml.
+Marcadores de necrosis miocárdica: troponina I US 11.955 pg/ml (normal < 25 pg/ml), CK 1.265 U/l.
+Gasometría: pH 7,01, bicarbonato 17,4 mmol/l, lactato 15,5 mmol/l.
+
+Radiografía de tórax, paucisintomático: silueta cardiaca de tamaño normal, senos costofrénicos libres. Parénquima pulmonar normal.
+ECG: taquicardia sinusal a 138 lpm. PR normal. QRS estrecho. Patrón qR en DII, DIII y aVF con elevación del segmento ST de 4-5 mm. Descenso del ST de 1 mm en DI, 2 mm en aVL por cambios recíprocos. Descenso del ST plano de hasta 4 mm en V1-V3.
+Ecocardioscopia: función sistólica de VI al menos moderadamente deprimida por hipocontractilidad global e hipoquinesia severa inferior. Ausencia de derrame pericárdico.
+
+Coronariografía emergente: enfermedad arterial coronaria de 2 vasos:
+Descendente anterior: con ateromatosis difusa, zona ectásica a nivel medio con estenosis del 40%, en DA distal lesión del 70%.
+Coronaria derecha: vaso ectásico con oclusión en segmento medio. Se realiza intervencionismo coronario percutáneo con implante de 1 stent farmacoactivo.
+En la unidad de críticos cardiológicos:
+Radiografía abdominal: niveles sugestivos de obstrucción intestinal alta en hipocondrio izquierdo.
+Radiografía de tórax: aumento de densidad perihiliar con redistribución vascular bilateral.
+TC de abdomen: hallazgos compatibles con íleo intestinal obstructivo de origen biliar.
+
+Microbiología:
+Sedimento urinario: eritrocitos 51-80/campo, leucocitos 3-5/campo. Hemocultivos: Bacteroides vulgatus.
+Urocultivo: negativo.
+Aspirado traqueal: negativo.
+
+EVOLUCIÓN CLÍNICA
+Al ingreso en la unidad de críticos cardiológicos, persiste inestabilidad hemodinámica bajo perfusión con noradrenalina, dobutamina y balón de contrapulsación intraaórtico. Debido a empeoramiento respiratorio progresivo se decide intubación orotraqueal y ventilación mecánica.
+Se implanta catéter de Swan-Ganz y se obtienen los siguientes parámetros, compatibles con shock distributivo: presión arterial media 70 mmHg, FC 125 lpm, presión venosa central 6 mmHg, presión arteria pulmonar 32/18 mmHg, presión capilar pulmonar 12 mmHg, gasto cardiaco 6,8 l/min, índice cardiaco 3,47 l/min/m, resistencias vasculares sistémicas 752 dyn/s/cm .
+Tras estos hallazgos se inicia fluidoterapia intensiva, se aumenta la dosis de noradrenalina y se reduce la de dobutamina. Se disminuye el soporte del balón de contrapulsación intraaórtico a 1:2 y se retira a las pocas horas junto con la dobutamina.
+Ante la sospecha de cuadro oclusivo intestinal, se coloca sonda nasogástrica con débito de 1 litro de contenido fecaloideo. Buena evolución desde el punto de vista hemodinámico mediante ajuste de tratamiento vasoactivo guiado por la información del catéter de Swan-Ganz objetivándose en ecocardiografía de control función ventricular preservada. Se realiza TC toracoabdominal que muestra hallazgos compatibles con íleo intestinal obstructivo de origen biliar.
+Se consensúa en un equipo multidisciplinar (cardiología, cirugía, anestesia y unidad de cuidados intensivos) la indicación quirúrgica y se decide demorarla hasta estabilización hemodinámica. A nivel infeccioso persiste febrícula. Se extraen hemocultivos y se pauta antibioterapia empírica con piperacilina-tazobactam. El rastreo microbiológico muestraBacteroides vulgatus en hemocultivos, compatible con sepsis de origen abdominal.
+Finalmente, a las 48 horas, se procede a laparotomía supra-infraumbilical optando por mantener el tratamiento de doble antiagregación plaquetaria con ácido acetilsalicílico y clopidogrel durante la intervención debido al alto riesgo trombótico tras el implante reciente de stent en un vaso ectásico que presentaba abundante cantidad de material trombótico. En la cirugía se encuentra líquido libre seropurulento e íleo biliar que ha condicionado perforación puntiforme de yeyuno-íleon realizándose resección y anastomosis.
+Tras la cirugía pasa a cargo del servicio de medicina intensiva, con lenta pero correcta evolución posterior, pudiendo finalmente ser alta a domicilio tras 15 días de ingreso. El ecocardiograma al alta muestra disfunción sistólica leve de VI por hipocinesia inferior (FEVI 49%). El tratamiento al alta consta de doble antiagregación con ácido acetilsalicílico 100 mg/24 h y clopidogrel 75 mg/24 h, tratamiento neurohormonal con bisoprolol 2,5 mg/24 h y ramipril 2,5 mg/24 h y tratamiento con estatina de alta potencia atorvastatina 80 mg/24 h.
+
+DIAGNÓSTICO
+Shock séptico con disfunción multiorgánica, secundario a peritonitis por perforación intestinal provocada por íleo biliar. Bacteriemia por Bacteroides vulgatus.
+Infarto agudo de miocardio infero-posterior en el contexto previo. Revascularización percutánea urgente sobre arteria coronaria derecha media. Disfunción sistólica moderada en fase aguda, leve al alta.

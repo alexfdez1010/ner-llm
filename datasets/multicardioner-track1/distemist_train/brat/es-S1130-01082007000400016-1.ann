@@ -1,0 +1,24 @@
+T5	ENFERMEDAD 1765 1778	MTS hepáticas
+T7	ENFERMEDAD 1792 1806	tumor primario
+T10	ENFERMEDAD 562 566	coma
+T11	ENFERMEDAD 1814 1834	adenocarcinoma cecal
+T13	ENFERMEDAD 1081 1096	hepatitis aguda
+T17	ENFERMEDAD 182 195	hepatomegalia
+T18	ENFERMEDAD 657 696	lesiones hepáticas ocupantes de espacio
+T19	ENFERMEDAD 1913 1956	infiltración de serosa y grasa perivascular
+T20	ENFERMEDAD 1189 1211	insuficiencia hepática
+T25	ENFERMEDAD 1993 2044	MTS en ganglios locorregionales infradiafragmáticos
+T26	ENFERMEDAD 1993 2069	MTS en ganglios locorregionales infradiafragmáticos y en parénquima pulmonar
+T27	ENFERMEDAD 1542 1561	fallo multiorgánico
+T29	ENFERMEDAD 809 812	MTS
+T30	ENFERMEDAD 1610 1628	lesiones hepáticas
+T31	ENFERMEDAD 2104 2123	hepatitis isquémica
+T33	ENFERMEDAD 2135 2148	colangiolitis
+T37	ENFERMEDAD 446 468	insuficiencia hepática
+T38	ENFERMEDAD 943 962	lesiones cerebrales
+T1	ENFERMEDAD 1959 1991	infiltración linfática y venular
+T2	ENFERMEDAD 2159 2198	autolisis pancreática y peripancreática
+#2	AnnotatorNotes T5	  MTS: metástasis
+#3	AnnotatorNotes T25	  MTS: metástasis
+#4	AnnotatorNotes T26	  MTS: metástasis
+#1	AnnotatorNotes T29	  MTS: metástasis

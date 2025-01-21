@@ -1,0 +1,64 @@
+T39	ENFERMEDAD 6911 6938	Aurícula izquierda dilatada
+T46	ENFERMEDAD 136 159	alergias medicamentosas
+T47	ENFERMEDAD 171 180	Exfumador
+T48	ENFERMEDAD 193 225	Hiperuricemia con crisis gotosas
+T49	ENFERMEDAD 227 230	HTA
+T50	ENFERMEDAD 232 242	Dislipemia
+T51	ENFERMEDAD 244 268	Diabetes mellitus tipo 2
+T52	ENFERMEDAD 360 384	Enfermedad renal crónica
+T53	ENFERMEDAD 433 463	colecitistitis aguda litiásica
+T54	ENFERMEDAD 554 580	Síndrome ansioso-depresivo
+T55	ENFERMEDAD 831 842	sarcoidosis
+T56	ENFERMEDAD 948 973	adenopatías mediastínicas
+T57	ENFERMEDAD 1265 1288	miocardiopatía dilatada
+T58	ENFERMEDAD 1382 1402	estenosis coronarias
+T59	ENFERMEDAD 1525 1536	cardiopatía
+T60	ENFERMEDAD 1619 1633	hábito enólico
+T61	ENFERMEDAD 1811 1860	bloqueo completo de rama izquierda del haz de His
+T62	ENFERMEDAD 1862 1868	BCRIHH
+T63	ENFERMEDAD 2244 2277	fibrilación auricular paroxística
+T64	ENFERMEDAD 2280 2296	flúter auricular
+T65	ENFERMEDAD 2649 2671	insuficiencia cardiaca
+T66	ENFERMEDAD 2893 2940	bloqueo completo de rama derecha del haz de His
+T67	ENFERMEDAD 2996 3052	trastorno inespecífico de la conducción intraventricular
+T69	ENFERMEDAD 5509 5565	trastorno inespecífico de la conducción intraventricular
+T70	ENFERMEDAD 5614 5673	Bloqueo de la subdivisión anterior izquierda del haz de His
+T71	ENFERMEDAD 5682 5712	Extrasistolia supraventricular
+T72	ENFERMEDAD 6099 6112	valvulopatías
+T73	ENFERMEDAD 6132 6151	derrame pericárdico
+T74	ENFERMEDAD 6167 6192	insuficiencia tricuspídea
+T75	ENFERMEDAD 6223 6244	hipertensión pulmonar
+T76	ENFERMEDAD 6323 6352	cortocircuitos intracardiacos
+T77	ENFERMEDAD 6399 6433	dilatación de ventrículo izquierdo
+T78	ENFERMEDAD 6622 6637	bloqueo de rama
+T79	ENFERMEDAD 7080 7102	insuficiencia cardiaca
+T80	ENFERMEDAD 7435 7457	insuficiencia cardiaca
+T81	ENFERMEDAD 7682 7707	adenopatías mediastínicas
+T82	ENFERMEDAD 7746 7766	sarcoidosis cardiaca
+T83	ENFERMEDAD 7801 7824	miocardiopatía dilatada
+T84	ENFERMEDAD 7902 7908	BCRIHH
+T85	ENFERMEDAD 7911 7967	trastorno inespecífico de la conducción intraventricular
+T86	ENFERMEDAD 8005 8042	arritmias ventriculares no sostenidas
+T87	ENFERMEDAD 8092 8162	miocardiopatía dilatada no isquémica con disfunción ventricular severa
+T88	ENFERMEDAD 8258 8283	bloqueo de rama izquierda
+T89	ENFERMEDAD 8463 8485	insuficiencia cardiaca
+T90	ENFERMEDAD 9005 9026	taquicardia auricular
+T91	ENFERMEDAD 9201 9237	insuficiencia cardiaca descompensada
+T92	ENFERMEDAD 9562 9593	Sarcoidosis cardiaca y pulmonar
+T93	ENFERMEDAD 9595 9674	Miocardiopatía dilatada con disfunción sistólica severa de ventrículo izquierdo
+T94	ENFERMEDAD 9676 9698	Insuficiencia cardiaca
+T95	ENFERMEDAD 2942 2948	BCRDHH
+T96	ENFERMEDAD 2109 2176	ventrículo izquierdo ligeramente dilatado, con disfunción sistólica
+T97	ENFERMEDAD 182 191	Exbebedor
+T98	ENFERMEDAD 2019 2065	estenosis significativas en el árbol coronario
+T99	ENFERMEDAD 5606 5612	BCRDHH
+T100	ENFERMEDAD 5675 5679	BSAI
+T101	ENFERMEDAD 5768 5809	ventrículo izquierdo severamente dilatado
+T102	ENFERMEDAD 7160 7206	edema alvéolo-intersticial en bases pulmonares
+T103	ENFERMEDAD 7859 7896	alteraciones severas de la conducción
+T104	ENFERMEDAD 7968 7974	BCRDHH
+T105	ENFERMEDAD 9028 9044	flúter auricular
+T176	ENFERMEDAD 465 483	Cólicos nefríticos
+T41	ENFERMEDAD 1442 1486	consumo de unos 40 gramos de alcohol diarios
+T45	ENFERMEDAD 1293 1320	disfunción sistólica severa
+#1	AnnotatorNotes T100	 bloqueo de la subdivisión anterior izquierda del haz de his

@@ -1,0 +1,53 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Mujer de 48 años.
+Factores de riesgo cardiovascular: hipertensión arterial a tratamiento médico. Exfumadora (acumulado 20 paquetes/año). Sobrepeso (índice de masa corporal: 29 kg/m2). Consumidora habitual de etanol (20 gramos/día).
+
+Historia cardiológica:
+Válvula aórtica bicúspide diagnosticada en la infancia por soplo, con evolución hacia una estenosis aórtica severa.
+En 2005 recambio valvular aórtico (prótesis St Jude Regent No19) e injerto de aorta ascendente de 30 mm.
+Seguimiento posterior en consultas externas de cardiología con buena clase funcional (NYHA: I-II) y refiriendo palpitaciones ocasionales.
+El último ecocardiograma data del año 2016, presentando fracción de eyección del ventrículo izquierdo (FEVI) conservada y una prótesis normofuncionante aunque con gradientes levemente elevados (gradiente máximo de 47 y medio de 24, área valvular aórtica [AVA] estimada de 1,5 cm2).
+
+Otros antecedentes:
+Trastorno de ansiedad-depresión a seguimiento por salud mental desde 2016.
+Valorada en neurología en 2015 por fenómenos visuales, objetivándose en resonancia magnética (RMN) craneal pequeños infartos lacunares y microembolismos.
+Asma bronquial. Psoriasis.
+
+Intervenciones quirúrgicas:
+Bypass gástrico (Y de Roux) y eventroplastia como tratamiento de obesidad mórbida en 2008.
+Colecistectomía e histerectomía en 2009.
+
+Medicación domiciliaria:
+Acenocumarol según pauta, amiodarona 200 mg/24 h, enalapril 20 mg/24 h, diltiazem 60 mg/8 h, furosemida 40 mg/24 h, almotriptan 12,5 mg/24 h, escitalopram 20 mg/24 h, ketazolam 15 mg/24 h, omeprazol 20 mg/24 h, formoterol/budesonida/24 h, 5 mg ácido fólico/24 h, lorazepam 1 mg/24 h, salbutamol si precisa.
+
+Enfermedad actual
+Mujer de 48 años acude al servicio de urgencias de nuestro centro por sensación de disnea brusca en las últimas horas, acompañada de mareo, malestar general y palpitaciones. Refiere buena adherencia al tratamiento médico, aunque un consumo de etanol mayor del habitual en los últimos meses y un regular control de los niveles de anticoagulación con importantes fluctuaciones.
+
+Exploración física
+Constantes vitales: presión arterial 80/40 mmHg, frecuencia cardiaca 110 lpm, saturación 90%.
+Regular estado general, sudorosa y con trabajo respiratorio. Auscultación cardiaca: ruidos cardiacos rítmicos, soplo sistólico piante en foco aórtico, no se ausculta click protésico. Auscultación pulmonar: crepitantes y roncus dispersos. Ingurgitación yugular. Ausencia de edemas en miembros inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica:
+Hemograma: hemoglobina 14,1 g/dl, leucocitos 6.55 x10E3/μl, plaquetas 128 x10E3/μl. Bioquímica: Na 138 mmol/l, K 4,5 mmol/l, Cr 0,93 mg/dl, troponina T ultrasensible 158 ng/l, NTproBNP 13000.
+Coagulación: INR 1.10.
+Gasometría arterial: pH 7,45, pO2 51 mmHg, pCO2 33 mmHg, HCO3 23,5 mmHg.
+Electrocardiograma (ECG): taquicardia sinusal a 100 lpm con alteraciones difusas en la repolarización.
+Radiografía de tórax: índice cardiotorácico normal. Alambres de esternotomía media y anillo aórtico. Sin datos de patología aguda.
+Angio-TC de arterias pulmonares: sin evidencia de TEPA. Sin signos de congestión.
+Ecocardiograma transtorácico: ventrículo izquierdo no dilatado con hipertrofia leve y función sistólica levemente afecta. Presiones de llenado elevadas. Ventrículo derecho de tamaño y función normales. Aurícula izquierda levemente dilatada. Prótesis aórtica mecánica con doble lesión severa, gradientes muy elevados (gradiente máximo de 100 y medio de 75 mmHg). Insuficiencia mitral moderada. Insuficiencia tricúspide moderada que permite estimar una PSAP de 55. No derrame pericárdico.
+Fluoroscopia: ausencia de movimiento de uno de los discos protésicos.
+Ecocardiograma transesofágico: imagen compatible con trombo en cara ventricular del disco más posterior y otra imagen en la cara aórtica del disco más anterior que condiciona una estenosis aórtica muy severa e insuficiencia aórtica severa en el contexto de trombosis protésica.
+
+EVOLUCIÓN CLÍNICA
+A su llegada a urgencias presenta una importante disnea asociada a trabajo respiratorio. Inicialmente, dada la situación clínica y normalidad de la radiografía de tórax y previa a la llegada de los resultados analíticos se realiza un angio-TC de arterias pulmonares en el que se descarta tromboembolismo pulmonar y en el que no se muestran datos de sobrecarga hídrica.
+Se solicita valoración urgente a cardiología, realizándose ecocardiograma transtorácico (arriba descrito) en el que se objetiva una doble lesión aórtica severa con gradientes muy elevados.
+Ante la sospecha de trombosis protésica aguda se realiza fluoroscopia que confirma el diagnóstico. No obstante, para mejor filiación etiológica se realiza ecocardiograma transesofágico en el que se objetivan imágenes sugestivas de trombo en ambos discos.
+La paciente es trasladada a la unidad de cuidados intensivos cardiológicos manteniéndose en una mala situación hemodinámica, hipotensa y taquicárdica y con escasa respuesta al tratamiento diurético. Se solicita valoración urgente a cirugía cardiaca que decide realizar sustitución valvular aórtica emergente.
+En la pieza intraoperatoria se objetiva un bloqueo de los discos protésicos por la presencia de trombo organizado en ambas charnelas. Finalmente se implanta una prótesis mecánica ATS del No 18, ante la imposibilidad de implantación de una prótesis biológica por el tamaño del anillo, sin complicaciones.
+El posoperatorio transcurre sin complicaciones permitiendo un alta precoz a la planta. En el ecocardiograma de control presenta una prótesis mecánica normofuncionante (gradiente máximo 27,5 y medio 14,6 mmHg) por lo que se decide alta hospitalaria.
+
+DIAGNÓSTICO
+Trombosis protésica mecánica aórtica aguda. Shock cardiogénico secundario al mismo. Implante de prótesis mecánica aórtica ATS No18. FEVI conservada al alta.

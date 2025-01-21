@@ -1,0 +1,62 @@
+T50	ENFERMEDAD 88 111	alergias medicamentosas
+T52	ENFERMEDAD 311 332	cardiopatía isquémica
+T53	ENFERMEDAD 344 351	fumador
+T54	ENFERMEDAD 397 418	hipertensión arterial
+T55	ENFERMEDAD 420 423	HTA
+T56	ENFERMEDAD 503 514	cardiopatía
+T57	ENFERMEDAD 584 605	trastorno de ansiedad
+T58	ENFERMEDAD 1416 1437	fibrilación auricular
+T59	ENFERMEDAD 1900 1926	parada cardiorrespiratoria
+T60	ENFERMEDAD 2508 2551	trombosis venosa en extremidades inferiores
+T61	ENFERMEDAD 2624 2658	parada por fibrilación ventricular
+T63	ENFERMEDAD 3613 3626	valvulopatías
+T64	ENFERMEDAD 3680 3699	derrame pericárdico
+T65	ENFERMEDAD 4396 4437	Válvula tricúspide con insuficiencia leve
+T66	ENFERMEDAD 4575 4594	derrame pericárdico
+T67	ENFERMEDAD 4779 4816	Hipertrofia concéntrica leve-moderada
+T68	ENFERMEDAD 5027 5051	cardiopatía hipertensiva
+T69	ENFERMEDAD 5141 5161	síndrome de QT largo
+T70	ENFERMEDAD 5389 5442	taquicardia ventricular polimórfica catecolaminérgica
+T71	ENFERMEDAD 5473 5492	síndrome de Brugada
+T72	ENFERMEDAD 5797 5832	extrasistolia ventricular monomorfa
+T73	ENFERMEDAD 5851 5874	bloqueo de rama derecha
+T74	ENFERMEDAD 6573 6585	canalopatías
+T75	ENFERMEDAD 6588 6609	vasoespasmo coronario
+T76	ENFERMEDAD 6981 6996	parada cardiaca
+T77	ENFERMEDAD 7172 7196	tromboembolismo pulmonar
+T78	ENFERMEDAD 7198 7201	TEP
+T79	ENFERMEDAD 7206 7227	taponamiento cardiaco
+T80	ENFERMEDAD 7281 7295	miocardiopatía
+T81	ENFERMEDAD 7436 7466	síndromes de QT largo, Brugada
+T82	ENFERMEDAD 7470 7523	taquicardia ventricular polimórfica catecolaminérgica
+T83	ENFERMEDAD 7617 7638	Vasoespasmo coronario
+T85	ENFERMEDAD 7820 7848	cardiopatía isquémica precoz
+T86	ENFERMEDAD 7869 7901	fibrilación auricular permanente
+T87	ENFERMEDAD 7918 7951	fibrilación auricular paroxística
+T88	ENFERMEDAD 8048 8060	cardiopatías
+T89	ENFERMEDAD 8172 8206	fibrilación ventricular idiopática
+T90	ENFERMEDAD 8450 8484	Fibrilación ventricular idiopática
+T91	ENFERMEDAD 8529 8552	cardiopatía estructural
+T92	ENFERMEDAD 8622 8633	canalopatía
+T93	ENFERMEDAD 7001 7009	Isquemia
+T94	ENFERMEDAD 254 259	angor
+T95	ENFERMEDAD 3291 3306	daño miocárdico
+T96	ENFERMEDAD 5350 5368	eventos arrítmicos
+T97	ENFERMEDAD 6381 6399	eventos arrítmicos
+T98	ENFERMEDAD 6800 6818	eventos arrítmicos
+T99	ENFERMEDAD 1256 1259	PCR
+T100	ENFERMEDAD 1439 1441	FA
+T101	ENFERMEDAD 1680 1683	PCR
+T102	ENFERMEDAD 5876 5881	BRDHH
+T103	ENFERMEDAD 7384 7396	Canalopatías
+T104	ENFERMEDAD 8392 8413	PCR extrahospitalaria
+T105	ENFERMEDAD 8636 8647	vasoespasmo
+T28	ENFERMEDAD 5626 5656	conducción auriculoventricular
+T189	ENFERMEDAD 4337 4394	Válvula mitral de aspecto normal con mínima insuficiencia
+T204	ENFERMEDAD 2696 2717	fibrilación auricular
+T211	ENFERMEDAD 291 304	muerte súbita
+T212	ENFERMEDAD 7803 7816	muerte súbita
+T42	ENFERMEDAD 1084 1087	PCR
+T174	ENFERMEDAD 3086 3089	PCR
+T193	ENFERMEDAD 6017 6023	parada
+T196	ENFERMEDAD 7568 7577	QTc corto

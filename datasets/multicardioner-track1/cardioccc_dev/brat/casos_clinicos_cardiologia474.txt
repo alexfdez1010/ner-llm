@@ -1,0 +1,39 @@
+Mujer de 57 años que acude por disnea y fiebre, diagnosticándose de endocarditis infecciosa sobre válvula nativa por Lactobacillus rhamnosus (una bacteria poco común, usada ampliamente como probiótico).
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+No alergias conocidas a medicamentos. Hábitos tóxicos: fumadora de 1 paq/día.
+Intervenida por neumotórax hace más de 15 años. Ingresada hasta 11 días antes en el Servicio de Respiratorio con los diagnósticos de probable EPOC moderado e infección respiratoria tratada con levofloxacino durante 7 días con buena evolución.
+Hemocultivos durante dicho ingreso, positivos para Lactobacillus rhamnosus, en el laboratorio se interpretan como posible contaminación. Tratamiento actual: citalopram 20 mg, glicopirronio inhalado y paracetamol. Situación funcional basal: funciones superiores conservadas, trabaja como dependienta de una tienda de ropa. Vive con su marido e hijos.
+
+Enfermedad actual
+Disnea progresiva de 3 días de evolución. Hoy disnea de reposo. Refiere hace 4 días, pico febril de hasta 37,8°C y dolor en cadera derecha que remitió solo, por lo que no consultó.
+
+Exploración física
+TA 110/62, FC 115 lpm, Ta 37,7°C, Sat O2 (Ventimask 40 %) 95 %. Taquipnea de 18 rpm. A la inspección, la paciente se encuentra normocoloreada, con buena hidratación de piel y mucosas. En la auscultación cardiaca, el corazón es rítmico, con soplo sistólico foco mitral. En la auscultación pulmonar, se escuchan crepitantes en campos medios e inferiores y sibilancias dispersas.
+El abdomen es blando y depresible, sin dolor a la palpación con ruidos presentes.
+Las extremidades inferiores no presentan edemas y los pulsos pedios se encuentran presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: taquicardia sinusal a 115 lpm.
+Radiografía de tórax: silueta cardiaca en el límite superior de la normalidad.
+Analítica: PO2 80 mmHg; PCO2 34 mmHg; pH 7,49; HCO3 25,9 mmol/l; lactato 10 mg/dl. Glucosa 112 mg/dl; creatinina 0,63 mg/dl; GPT 15 U/l; Na 137 mmol/l; K 3,99 mmol/l; CK 16 U/l; LDH 194 U/l; PCR 11,29 mg/dl; PCT 0,18 ng/ml. Hb 10,3 g/dl; plaquetas 207.000/μL; leucocitos 9.200/μL (N 78,5 %). IP 100 %; INR 1.
+Ecocardiograma transtorácico y transesofágico: el ventrículo izquierdo no se encuentra dilatado, ni hipertrófico, con buena función sistólica global e hiperdinámico.
+La válvula mitral presenta varias imágenes, la mayor de 19 x 6 mm, compatibles con vegetaciones endocardíticas. La valva posterior presenta una importante perforación que condiciona una regurgitación de carácter masivo.
+La válvula aórtica presenta una imagen en el TSVI dependiente del velo no coronariano (13 x 6 mm), este parece perforado y existe una defecto de coaptación importante que condiciona una regurgitación severa en relación a afectación del coronariano derecho. El ventrículo derecho no se está dilatado, con buena función sistólica. No se objetiva derrame pericárdico
+Coronariografía: red coronaria sin lesiones.
+
+EVOLUCIÓN
+Ante los hallazgos descritos, la paciente es ingresada en la Unidad Coronaria, donde se realiza el ETE comentado. Se comienza tratamiento con ampicilina y gentamicina intravenosos.
+Dado que ingresa en insuficiencia cardiaca, se interviene antes de 24 horas de doble sustitución valvular, aórtica (Carbomedics Top Hat no 21) y mitral (Bicarbon Fitline no 27). La cirugía cardiaca transcurre sin incidencias, con un tiempo de isquemia 102 min y tiempo de CEC 123 min. El cirujano describe, como hallazgos intraoperatorios: verrugas en valva posterior de válvula mitral, verrugas en valva no coronaria de válvula aórtica con los anillos de ambas válvulas bien preservados.
+Se envía a la pieza a anatomía patológica y a microbiología para cultivo, confirmándose posteriormente la infección por Lactobacillus rhamnosus.
+Llega a la Unidad Coronaria, desde quirófano, hemodinámicamente inestable con noradrenalina a 0,2 μg/kg/min, en taquicardia sinusal 135 lpm con PA 80/50 mmHg.
+Se realiza ecocardioscopia (V-Scan) en la que se objetiva disfunción biventricular severa (FEVI estimada 10 %), sin derrame pericárdico. Se confirman los hallazgos, así como la normofunción de ambas prótesis mediante ETE. Por tanto, se comienza con sueroterapia intensiva y se asocian de manera progresiva y en dosis crecientes noradrenalia (hasta 2 μg/kg/min), dopamina (hasta 20 μg/kg/min) y adrenalina (hasta 0,4 μg/kg/min). Con ello, conseguimos una TAM 65-70 mmHg, PVC 18 mmHg, FC 110 lpm, GC 3,2 L/min e IC 2,3 L/min/m2. Pero persiste en oliguria y con livideces crecientes en pabellones auriculares y extremidades inferiores de manera ascendente.
+Se opta por implantación de balón de contrapulsación intraaórtico. A pesar de la contrapulsación (1:1) y de la "estabilidad" de los parámetros hemodinámicos, los datos de shock cardiogénico con hipoperfusión periférica van en aumento (láctico 10 --> 145 mg/dl; creatinina 0,63 --> 2,19 mg/dl; GPT 15 --> 3.068 U/l). Por tanto, se indica implantación de ECMO veno-arterial con acceso periférico, guiada por ETE, que se lleva a cabo con éxito.
+Posteriormente, evoluciona favorablemente, disminuyendo progresivamente los parámetros analíticos de hipoperfusión periférica, pudiendo disminuir paulatinamente las dosis de drogas inovasoactivas. Finalmente, a los 14 días, se retira el BCIAo y 24 horas después, la ECMO, con buena tolerancia hemodinámica. Tras 30 días de ingreso en la Unidad de Intensivos, es dada de alta a planta de hospitalización.
+
+DIAGNÓSTICO
+Endocarditis infecciosa sobre válvulas nativas mitral y aórtica por Lactobacillus rhamnosus, complicada con insuficiencia cardiaca.
+Cirugía de recambio valvular mitral y aórtico.
+Shock cardiogénico poscirugía cardiaca que requiere asistencia con balón de contrapulsación intraaórtico y ECMO, con buena evolución.

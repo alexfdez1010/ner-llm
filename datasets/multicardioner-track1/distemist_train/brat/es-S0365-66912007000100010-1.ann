@@ -1,0 +1,14 @@
+T5	ENFERMEDAD 1039 1051	oftalmopatía
+T8	ENFERMEDAD 74 87	conjuntivitis
+T9	ENFERMEDAD 228 244	hábito tabáquico
+T10	ENFERMEDAD 90 103	epiescleritis
+T14	ENFERMEDAD 2089 2119	epiteliopatía corneal inferior
+T15	ENFERMEDAD 860 876	OG leve-moderada
+T18	ENFERMEDAD 495 526	queratitis punteada superficial
+T24	ENFERMEDAD 575 585	exoftalmos
+T35	ENFERMEDAD 2252 2264	hipertensión
+T38	ENFERMEDAD 437 457	quemosis conjuntival
+T1	ENFERMEDAD 551 571	retracción palpebral
+T2	ENFERMEDAD 1149 1200	retracción palpebral superior de 3 mm en ambos ojos
+T3	ENFERMEDAD 2359 2407	retracción palpebral superior de 2 mm e inferior
+#1	AnnotatorNotes T15	   OG: oftalmopatía de Graves

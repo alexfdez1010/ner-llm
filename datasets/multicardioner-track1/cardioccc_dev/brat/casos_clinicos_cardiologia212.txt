@@ -1,0 +1,36 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Mujer de 65 años. Alergia a metimazol. Sin factores de riesgo cardiovascular conocidos. Sin antecedentes de cardiopatía conocida.
+Hipertiroidismo primario por enfermedad de Graves-Basedow, tratado con yodo radiactivo (I-131). Situación actual de hipotiroidismo bajo tratamiento sustitutivo.
+Nódulo mamario izquierdo con histología compatible de carcinoma de patrón sólido con diferenciación neuroendocrina multifocal (receptores de somatostatina y cromogranina positivos), sometiéndose a cirugía conservadora en 2011 y biopsia de ganglio centinela, que resultó negativa.
+Seguimiento posterior por oncología, con estabilidad de la enfermedad hasta 2014, cuando en contexto de síndrome diarreico, se establece el diagnóstico de síndrome carcinoide por enfermedad metastásica hepática con captación gammagráfica positiva para análogos de la somatostatina. Estabilidad por estudios de imagen desde el inicio del tratamiento con análogos de somatostatina, aunque aumento de biomarcadores analíticos que motivaron cambios en el tratamiento habitual.
+
+Tratamiento habitual: levotiroxina sódica 75 mcg vía oral cada 24 horas, lanreótido autogel 120 mg inyectable cada 21 días.
+
+Enfermeda actual
+Acude a urgencias hospitalarias por marcada edematización de miembros inferiores y aumento de peso (5 kg) en el último mes, aunque sin mayor disnea de la habitual (a grandes esfuerzos).
+
+Asimismo, refiere aumento de frecuencia de episodios diarreicos los últimos 6 meses, desde la última revisión en oncología. Niega otros síntomas.
+
+Exploración física
+Consciente y orientada en tiempo, espacio y persona. Rubicundez facial. Presión arterial 125/68 mmHg. Eupneica en reposo, con saturación por pulsioximetría 99% sin aportes. Auscultación pulmonar: murmullo vesicular fisiológico. Auscultación cardiaca: tonos rítmicos a 78 lpm, con soplo pansistólico (intensidad III/VI) predominante en borde paraesternal izquierdo, que aumenta coincidiendo con la inspiración. Exploración abdominal: no doloroso a la palpación, con discreta hepatomegalia, sin signos de ascitis. Exploración de extremidades: edemas con fóvea hasta tercio medio de miembros inferiores, con pulsos distales conservados y simétricos. Sin datos inflamatorios agudos.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma: ritmo sinusal a 72 lpm. Eje QRS 60o. Intervalo PR 160 mseg. QRS de voltaje y amplitud normales. Mínima infradesnivelación no significativa del segmento ST en derivaciones de cara inferior. Intervalo QT corregido (Bazett) 460 mseg.
+Radiografía torácica: índice cardiotorácico discretamente aumentado. No pinzamiento de senos costofrénicos. No infiltrados ni condensaciones. No imágenes sugerentes de masas.
+Analítica (en urgencias): leve hiperbilirrubinemia (bilirrubina total 1,5 mg/dl) e hiponatremia (Na+ 133 mmol/l). Hemograma, coagulación, parámetros de función renal y resto de ionograma en rangos de normalidad.
+Analítica en planta de hospitalización): perfil hormonal tiroideo normal. Perfil férrico normal. Ácido 5-hidroxiindolacético 355 μmol/orina 24 h (valores de normalidad: 10-40 μmol/orina 24 h). Cromogranina A (suero) 1697 ng/ml (valores de normalidad: hasta 100 ng/ml). NT-proBNP 767 ng/ml.
+Ecocardiograma transtorácico: ventrículo izquierdo (VI) no dilatado ni hipertrófico, con función sistólica global conservada (FEVI 60%), sin alteraciones en la contractilidad segmentaria. Patrón de llenado transmitral tipo alteración de la relajación (E: A 0,7). Aurícula izquierda ligeramente dilatada (32 ml/m2). Válvula mitral morfológicamente normal, sin afectación orgánica de interés ni alteraciones funcionales significativas. Válvula aórtica tricúspide, sin afectación orgánica de interés, con jet de regurgitación aórtica de origen y dirección central que condiciona insuficiencia aórtica ligera. Raíz aórtica de dimensiones normales (26 mm). Aorta ascendente proximal y cayado aórtico de dimensiones dentro de la normalidad (28 mm y 26 mm, respectivamente). Ventrículo derecho ligeramente dilatado a nivel medio-basal (dimensiones: diámetro basal 43 mm, diámetro medio 37 mm, longitud 68 mm, diámetro proximal de tracto de salida 33 mm, diámetro distal de tracto de salida 24 mm), con parámetros de función longitudinal disminuidos (TAPSE 15 mm, onda S" 9 cm/seg). Aurícula derecha ligeramente dilatada (área 20 cm2). Válvula tricúspide con fibrosis a nivel de velos y con movimiento restringido de los mismos que ocasiona un déficit de coaptación central y unjet de regurgitación tricuspídea que condiciona insuficiencia tricuspídea grave, con gradiente máximo (posible infraestimación por gravedad de la regurgitación) de 50 mmHg. Válvula pulmonar adecuadamente visualizada, de aspecto normal. Sin datos de shuntintracardiaco. Vena cava inferior de dimensiones en rango superior de la normalidad (20 mm) y con colapso inspiratorio superior al 50%. Derrame pericárdico trivial.
+
+Estudio gammagráfico de cuerpo entero de receptores de somatostatina: en comparación con estudio previo (18 meses antes), se aprecia aparición de múltiples lesiones hepáticas bilobulares. En la lesión de mayor tamaño (segmento VII) se aprecia aumento de volumen (136 x 94 x 136 mm de diámetros anteroposterior-transversal-craneocaudal, respecto a 110 x 70 x 115 mm del estudio previo). No otras lesiones de nueva aparición respecto a estudio previo. Conclusión: estudio gammagráfico compatible con progresión de la enfermedad.
+
+EVOLUCIÓN CLÍNICA
+Se ingresa a la paciente para estudio completo, confirmándose mediante estudio gammagráfico de receptores de somatostatina la progresión de la enfermedad. Ante la sospecha clínica de afectación cardiaca por el síndrome carcinoide (clínica y soplo de nueva aparición) se solicita estudio ecocardiográfico transtorácico, que evidencia una insuficiencia tricuspídea grave, confirmándose el diagnóstico de cardiopatía carcinoide.
+Tras inicio de tratamiento deplectivo con diuréticos e intensificación del tratamiento con análogos de somatostatina, la paciente presenta evolución favorable, con mejoría sintomática (disminución de edemas en miembros inferiores, reducción del número de deposiciones, no episodios de sofoco). Se debate el caso en sesión clínica con participación de oncología médica y cardiología, estimándose un pronóstico vital inferior a 12 meses, decidiéndose alta hospitalaria con aumento de dosis de análogos de la somatostatina.
+A pesar de ello, la paciente presenta evolución tórpida posterior, con varios reingresos en meses siguientes por episodios similares al descrito, produciéndose finalmente su fallecimiento.
+
+DIAGNÓSTICO
+Neoplasia neuroendocrina mamaria estadio IV.
+Síndrome carcinoide con afectación cardiaca (insuficiencia tricuspídea grave). Insuficiencia cardiaca de predominio derecho.
+Exitus.

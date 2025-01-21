@@ -1,0 +1,34 @@
+T36	ENFERMEDAD 103 113	hipertensa
+T37	ENFERMEDAD 115 124	diabética
+T38	ENFERMEDAD 179 208	carcinoma infiltrante de mama
+T39	ENFERMEDAD 336 347	Hepatitis B
+T40	ENFERMEDAD 356 375	Bocio intratorácico
+T41	ENFERMEDAD 510 533	estenosis aórtica grave
+T42	ENFERMEDAD 1064 1082	infección de orina
+T43	ENFERMEDAD 1537 1555	infección urinaria
+T44	ENFERMEDAD 2181 2197	trombosis venosa
+T45	ENFERMEDAD 2281 2293	endocarditis
+T46	ENFERMEDAD 2340 2361	fibrilación auricular
+T47	ENFERMEDAD 2489 2502	cardiomegalia
+T48	ENFERMEDAD 2590 2612	insuficiencia cardiaca
+T49	ENFERMEDAD 2667 2685	bocio endotorácico
+T51	ENFERMEDAD 4010 4064	Insuficiencia mitral e insuficiencia tricuspídea leves
+T52	ENFERMEDAD 4070 4091	hipertensión pulmonar
+T53	ENFERMEDAD 4148 4160	endocarditis
+T54	ENFERMEDAD 4449 4461	endocarditis
+T55	ENFERMEDAD 4586 4599	pielonefritis
+T56	ENFERMEDAD 4680 4692	endocarditis
+T57	ENFERMEDAD 4889 4912	endocarditis sobre TAVI
+T58	ENFERMEDAD 5259 5272	shock séptico
+T59	ENFERMEDAD 5323 5335	coagulopatía
+T60	ENFERMEDAD 5573 5623	shock séptico secundario a endocarditis sobre TAVI
+T61	ENFERMEDAD 5638 5718	Endocarditis tardía sobre bioprótesis aórtica por TAVI por Staphylococcus aureus
+T62	ENFERMEDAD 5768 5805	Shock séptico con fallo multiorgánico
+T63	ENFERMEDAD 5720 5766	Fracaso renal agudo en contexto de gentamicina
+T64	ENFERMEDAD 1840 1849	arrítmica
+T65	ENFERMEDAD 420 452	fibrilación auricular permanente
+T66	ENFERMEDAD 1427 1434	síncope
+T67	ENFERMEDAD 3863 3884	Disfunción diastólica
+T68	ENFERMEDAD 3886 3925	Dilatación ligera de aurícula izquierda
+T32	ENFERMEDAD 147 161	hiperuricémica
+T50	ENFERMEDAD 3927 3988	Prótesis biológica aórtica normofuncionante con insuficiencia

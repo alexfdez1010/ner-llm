@@ -1,0 +1,30 @@
+T1	ENFERMEDAD 498 521	VI severamente dilatado
+T19	ENFERMEDAD 2426 2449	VI severamente dilatado
+T91	ENFERMEDAD 100 121	IAM anterior y apical
+T92	ENFERMEDAD 2996 3004	IC aguda
+T93	ENFERMEDAD 2676 2678	IM
+T94	ENFERMEDAD 2805 2807	IT
+T96	ENFERMEDAD 360 374	TV polimórfica
+T97	ENFERMEDAD 3159 3187	TV de origen apical anterior
+T99	ENFERMEDAD 4018 4020	TV
+T101	ENFERMEDAD 309 313	TVNS
+T103	ENFERMEDAD 4883 4928	Taquicardia ventricular monomórfica sostenida
+T104	ENFERMEDAD 2967 2980	cardiomegalia
+T105	ENFERMEDAD 3889 3897	cicatriz
+T106	ENFERMEDAD 4505 4513	cicatriz
+T107	ENFERMEDAD 2924 2943	derrame pericárdico
+T108	ENFERMEDAD 4742 4760	eventos arrítmicos
+T112	ENFERMEDAD 5009 5042	miocardiopatía dilatada isquémica
+T114	ENFERMEDAD 1310 1355	taquicardia ventricular monomórfica sostenida
+T70	ENFERMEDAD 2626 2671	Leve calcificación de anillo posterior mitral
+T71	ENFERMEDAD 2687 2734	VAo: trivalva con leve esclerosis de sigmoideas
+T74	ENFERMEDAD 4607 4649	proarritmia tras resincronización cardiaca
+T75	ENFERMEDAD 5137 5149	TV isquémica
+#91	AnnotatorNotes T91	Infarto Agudo de Miocardio
+#92	AnnotatorNotes T92	insuficiencia cardíaca
+#93	AnnotatorNotes T93	IM insuficiencia mitral
+#94	AnnotatorNotes T94	IT: insuficiencia tricuspidea
+#96	AnnotatorNotes T96	TV taquicardia ventricular
+#97	AnnotatorNotes T97	TV taquicardia ventricular
+#99	AnnotatorNotes T99	TV taquicardia ventricular
+#101	AnnotatorNotes T101	tquicardia ventricular no sostenida

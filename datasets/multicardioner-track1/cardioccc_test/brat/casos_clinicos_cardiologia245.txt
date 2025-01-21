@@ -1,0 +1,46 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Varón de 50 años, sin alergias medicamentosas conocidas. Sin hábitos tóxicos. Sin factores de riesgo cardiovascular. Sin antecedentes familiares relevantes. Sin antecedentes médicos ni quirúrgicos. No tratamientos crónicos.
+
+Primera consulta:
+Derivado a consulta de cardiología desde el servicio de urgencias. Había consultado por episodio de palpitaciones y se identificó una taquicardia supraventricular (TSV) que se enlenteció con maniobras vagales pero revirtió con atenolol IV. Presentaba exploración física sin alteraciones.
+En la consulta se estableció el diagnóstico de taquicardia supraventricular paroxística y se decidió iniciar tratamiento con betabloqueante (bisoprolol 2,5 mg al desayuno), solicitar Holter de 24 horas y ecocardiograma transtorácico (ETT).
+
+Segunda consulta (a los 5 meses):
+En el tiempo entre consultas acudió en tres ocasiones a urgencias por clínica de palpitaciones en relación con episodios de TSV que en ocasiones revertían con maniobras vagales. Varios cambios de medicación por intolerancia o ineficacia. En el momento de la segunda valoración se encontraba con atenolol 50 mg c/24 horas.
+Previa a la consulta se realizó un ETT en el que se evidenció dilatación de cavidades derechas con función sistólica de VD normal y PSAP 26 + PVC. Se realizó test de suero agitado sin evidencia de paso de burbujas entre cavidades, lo cual se interpretó como dato de existencia improbable de shunt.
+Holter de 24 horas en ritmo sinusal con frecuencia cardiaca (FC) adecuadas y un episodio de TSV no sostenido (< 30 segundos).
+
+Ante la frecuencia de los episodios taquiarrítmicos se derivó al paciente a consulta de electrofisiología para valoración de ablación. Y ante los hallazgos ecocardiográficos se solicitó resonancia magnética (RM) cardiaca con el fin de intentar filiar la etiología de la dilatación de cavidades derechas.
+Consulta de electrofisiología:
+Se decide solicitar estudio electrofisiológico y ablación ante TPSV de un año de evolución, sintomática y recidivante a pesar de betabloqueante y que se suprimen con maniobras vagales.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG) en urgencias: ritmo supraventricular a 120 lpm, un latido sinusal y en el resto con intervalos RP-PR variables y RP > 70ms. QRS estrecho con eje 60o. Descenso de 1mm de segmento ST de V3-V5.
+ECG basal: ritmo sinusal. Sin datos de preexcitación. No otras alteraciones específicas.
+Analítica: glucosa 108 mg/dl, urea 48 mg/dl, creatinina 0,86 mg/dl, sodio 137 mEq/l, potasio 4,2 mEq/l, TSH 1,83 mU/l, hemoglobina 16,6 g/dl, leucocitos 9250/microL, plaquetas 331000/microL.
+Holter de 24 horas: registro electrocardiográfico de 24 horas. Ritmo sinusal durante todo el trazado, FC media 85 lpm. Sin bloqueos ni pausas significativas. Racha de taquicardia supraventricular no sostenida.
+ETT: dilatación de ventrículo derecho (ratio VD/VI 1.1, DTD basal de 55 mm y tracto de salida de VD de 43 mm), con función sistólica conservada. Insuficiencia tricuspídea leve funcional. PSAP estimada de 26 mmHg (+PVC). Ventrículo izquierdo no dilatado con grosor parietal normal. Función sistólica conservada. Relajación prolongada. Sin valvulopatías significativas.
+ETT con suero agitado: se procede a la inyección de suero salino agitado sin observar paso de burbujas a cavidades izquierdas ni en situación basal ni tras maniobra de Valsalva. Es improbable la existencia de shunt intra o extracardiaco.
+
+RM corazón:
+Conclusión: VI de tamaño y función sistólica normales. No se observan áreas de hipertrofia, no compactación ni realce tardío. VD dilatado con función sistólica normal. Shunt izquierda-derecha extracardiaco por drenaje venoso anómalo de la vena pulmonar superior derecha a la vena cava superior con Qp/Qs de 1,7.
+
+Datos más relevantes:
+VD: dilatado, sin alteraciones morfológicas, con VTD de 125 ml/m2 (rango 55-105 ml/m2) y VTS de 51 ml/m2 (rango 15-43 ml/m2). FE de 59%, gasto cardiaco de 7,9 l/min y volumen/latido de 149 ml. Contractilidad normal.
+Drenaje venoso anómalo de la vena pulmonar superior derecha a la vena cava superior.
+AI: área de 21 cm2, levemente dilatada. AD: área de 29 cm2, levemente dilatada. Cuantificación de flujo en raíz aórtica (codificación de velocidad en contraste de fase). Volumen anterógrado 80 ml y retrógrado de 4,7 ml. Fracción de regurgitación: 5,9%.
+Cuantificación de flujo en arteria pulmonar principal (codificación de velocidad en contraste de fase). Volumen anterógrado 139 ml y retrógrado de 4 ml. Fracción de regurgitación: 3%.
+Qp/Qs: 1,7.
+
+EVOLUCIÓN CLÍNICA
+En el tiempo hasta la siguiente consulta se realizó el estudio electrofisiológico con hallazgo de taquicardia auricular focal, con mayores precocidades a nivel de la desembocadura de la vena cava superior a AD. Se realizó ablación con radiofrecuencia del foco que resultó efectiva.
+Como se puede ver en el resultado de la RM cardiaca destacó el hallazgo de una conexión venosa pulmonar anómala (CVPA) por drenaje de la vena pulmonar superior derecha a la vena cava superior que provocaba una sobrecarga de volumen de cavidades derechas que explicaba la dilatación, conshunt izquierda-derecha significativo (Qp/Qs 1,7). Sin evidencia de otros defectos asociados.
+Tras la ablación cesaron los episodios de taquicardia supraventricular y el paciente se encontraba en muy buena clase funcional.
+En este momento, si atendemos a las guías de cardiopatías congénitas del adulto (AHA/ACC 2018), nos encontramos que la reparación quirúrgica en nuestro paciente tiene un grado de recomendación IIA: «la cirugía puede ser útil para conexiones anómalas parciales de venas pulmonares tanto izquierdas como derechas, en adultos asintomáticos con sobrecarga de volumen de VD,shunt izquierda-derecha suficientemente grande como para causar secuelas fisiológicas (ej. QP/QS >o= 1,5), en presencia de presiones pulmonares que sean 50% menores que las sistémicas y resistencias pulmonares menores de un tercio de las sistémicas».
+Se decidió remitir al paciente a la consulta de cardiopatías congénitas del adulto en la que se valorará la necesidad de solicitar un cateterismo derecho para completar el estudio hemodinámico antes de remitir a cirugía cardiaca para proceder a la reparación.
+
+DIAGNÓSTICO
+Conexión venosa pulmonar anómala: drenaje de vena pulmonar superior derecha a vena cava superior.
+Shunt izquierda-derecha significativo con sobrecarga de volumen de ventrículo derecho. Función sistólica de VD normal.
+Taquicardia auricular focal. Ablación con radiofrecuencia efectiva.

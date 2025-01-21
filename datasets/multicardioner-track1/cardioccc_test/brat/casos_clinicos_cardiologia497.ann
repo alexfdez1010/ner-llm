@@ -1,0 +1,40 @@
+T45	ENFERMEDAD 86 109	alergias farmacológicas
+T46	ENFERMEDAD 201 212	cardiopatía
+T48	ENFERMEDAD 285 300	hábitos tóxicos
+T49	ENFERMEDAD 1189 1222	taquicardia ventricular sostenida
+T50	ENFERMEDAD 1744 1769	trombosis venosa profunda
+T51	ENFERMEDAD 2980 2999	derrame pericárdico
+T52	ENFERMEDAD 3243 3251	fibrosis
+T53	ENFERMEDAD 3418 3461	lesiones en arterias coronarias epicárdicas
+T54	ENFERMEDAD 3494 3530	taquicardia ventricular autolimitado
+T55	ENFERMEDAD 3637 3680	isquemia miocárdica en la cara anteroseptal
+T56	ENFERMEDAD 3923 3947	síndrome coronario agudo
+T57	ENFERMEDAD 4155 4164	arritmias
+T58	ENFERMEDAD 4257 4277	arritmia ventricular
+T59	ENFERMEDAD 4300 4322	evento coronario agudo
+T60	ENFERMEDAD 4413 4427	miocardiopatía
+T61	ENFERMEDAD 4482 4511	enfermedad arterial coronaria
+T62	ENFERMEDAD 4543 4566	cardiopatía estructural
+T63	ENFERMEDAD 4691 4714	arritmias ventriculares
+T64	ENFERMEDAD 4779 4802	cardiopatía estructural
+T65	ENFERMEDAD 4818 4827	arritmias
+T66	ENFERMEDAD 4881 4904	taquicardia ventricular
+T67	ENFERMEDAD 4945 4971	evento isquémico coronario
+T69	ENFERMEDAD 5236 5259	taquicardia ventricular
+T70	ENFERMEDAD 5322 5345	taquicardia ventricular
+T71	ENFERMEDAD 5377 5396	isquemia miocárdica
+T72	ENFERMEDAD 5497 5505	isquemia
+T73	ENFERMEDAD 5572 5593	vasoespasmo coronario
+T74	ENFERMEDAD 5809 5815	angina
+T75	ENFERMEDAD 5878 5899	vasoespasmo coronario
+T76	ENFERMEDAD 6131 6152	vasoespasmo coronario
+T77	ENFERMEDAD 6271 6294	taquicardia ventricular
+T78	ENFERMEDAD 6319 6383	vasoespasmo coronario secundario a la administración de atropina
+T79	ENFERMEDAD 6528 6589	Taquicardia ventricular secundaria a vasoespasmo por atropina
+T81	ENFERMEDAD 3315 3317	IM
+T82	ENFERMEDAD 3253 3275	Leve dilatación del VD
+T83	ENFERMEDAD 3326 3333	IT leve
+T84	ENFERMEDAD 4148 4153	ángor
+T131	ENFERMEDAD 2888 2890	IT
+T163	ENFERMEDAD 228 241	muerte súbita
+T136	ENFERMEDAD 2356 2443	VI de dimensión y grosor parietal normales, con hipertrofia de ambos músculos papilares

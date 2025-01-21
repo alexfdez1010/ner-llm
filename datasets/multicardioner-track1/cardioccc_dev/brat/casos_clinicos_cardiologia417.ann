@@ -1,0 +1,46 @@
+T30	ENFERMEDAD 107 128	fibrilación auricular
+T31	ENFERMEDAD 130 132	FA
+T32	ENFERMEDAD 147 168	trombo intracavitario
+T33	ENFERMEDAD 291 314	alergias medicamentosas
+T34	ENFERMEDAD 368 389	Hipertensión arterial
+T35	ENFERMEDAD 392 402	dislipemia
+T36	ENFERMEDAD 407 415	diabetes
+T37	ENFERMEDAD 443 494	cardiopatía hipertensiva con datos de isquemia leve
+T38	ENFERMEDAD 656 670	FA paroxística
+T39	ENFERMEDAD 755 797	Enfermedad cerebrovascular de pequeño vaso
+T40	ENFERMEDAD 852 865	Hernia hiatal
+T41	ENFERMEDAD 867 887	Síndrome hemorroidal
+T42	ENFERMEDAD 1763 1807	hematoma intraparenquimatoso frontal derecho
+T43	ENFERMEDAD 2166 2185	angiopatía amiloide
+T45	ENFERMEDAD 2526 2528	FA
+T46	ENFERMEDAD 3107 3110	TVP
+T47	ENFERMEDAD 3254 3303	bloqueo completo de rama izquierda del haz de His
+T48	ENFERMEDAD 3305 3311	BCRIHH
+T49	ENFERMEDAD 3948 3968	insuficiencia mitral
+T50	ENFERMEDAD 4121 4146	Insuficiencia tricuspídea
+T51	ENFERMEDAD 4347 4366	derrame pericárdico
+T52	ENFERMEDAD 4418 4462	hematoma intraparenquimatoso frontal derecho
+T53	ENFERMEDAD 4526 4558	hemorragia lobar frontal derecha
+T54	ENFERMEDAD 4561 4589	vasculopatía de pequeño vaso
+T55	ENFERMEDAD 4617 4636	angiopatía amiloide
+T56	ENFERMEDAD 5241 5287	trombo en el interior de la orejuela izquierda
+T57	ENFERMEDAD 5504 5532	trombo en orejuela izquierda
+T58	ENFERMEDAD 5753 5759	trombo
+T59	ENFERMEDAD 6002 6008	trombo
+T60	ENFERMEDAD 6613 6627	miocardiopatía
+T61	ENFERMEDAD 6653 6681	disfunción ventricular grave
+T62	ENFERMEDAD 6964 6977	FA permanente
+T63	ENFERMEDAD 7022 7041	Angiopatía amiloide
+T64	ENFERMEDAD 7066 7108	hematoma intraparenquimatoso lobar derecho
+T65	ENFERMEDAD 7110 7148	Trombo en orejuela auricular izquierda
+T66	ENFERMEDAD 3212 3214	FA
+T67	ENFERMEDAD 3970 3972	IM
+T68	ENFERMEDAD 4148 4150	IT
+T69	ENFERMEDAD 6895 6951	Miocardiopatía dilatada con disfunción ventricular grave
+T70	ENFERMEDAD 3495 3508	cardiomegalia
+T71	ENFERMEDAD 3555 3574	congestión pulmonar
+T72	ENFERMEDAD 601 620	lesiones coronarias
+T74	ENFERMEDAD 6581 6588	trombos
+T76	ENFERMEDAD 3670 3704	Ventrículo izquierdo (VI) dilatado
+T77	ENFERMEDAD 5012 5023	VI dilatado
+T25	ENFERMEDAD 4951 4970	material trombótico

@@ -1,0 +1,26 @@
+T37	ENFERMEDAD 106 132	Síndrome ansioso-depresivo
+T38	ENFERMEDAD 605 623	clínica infecciosa
+T39	ENFERMEDAD 1638 1653	derrame pleural
+T40	ENFERMEDAD 2033 2078	oclusión trombótica de la arteria circunfleja
+T41	ENFERMEDAD 2149 2166	lesión trombótica
+T42	ENFERMEDAD 2327 2348	trombo intracoronario
+T43	ENFERMEDAD 2917 2948	disfunción ventricular moderada
+T44	ENFERMEDAD 3014 3027	valvulopatías
+T45	ENFERMEDAD 3044 3069	Insuficiencia tricuspídea
+T46	ENFERMEDAD 3558 3580	insuficiencia cardiaca
+T47	ENFERMEDAD 3621 3644	arritmias ventriculares
+T48	ENFERMEDAD 4087 4115	Disfunción ventricular grave
+T49	ENFERMEDAD 4499 4524	Derrame pericárdico grave
+T50	ENFERMEDAD 5154 5234	Infarto agudo de miocardio con elevación del segmento ST (IAMCEST) inferolateral
+T51	ENFERMEDAD 5245 5329	Enfermedad grave de un vaso: arteria circunfleja con aneurisma y oclusión trombótica
+T52	ENFERMEDAD 5358 5386	Disfunción ventricular grave
+T53	ENFERMEDAD 5388 5416	Pericarditis epistenocárdica
+T54	ENFERMEDAD 5418 5469	Derrame pericárdico grave con taponamiento cardiaco
+T55	ENFERMEDAD 24 39	Hábitos tóxicos
+T56	ENFERMEDAD 5212 5219	IAMCEST
+T58	ENFERMEDAD 41 48	fumador
+T59	ENFERMEDAD 2423 2429	trombo
+T2	ENFERMEDAD 2059 2135	arteria circunfleja (ACx), inmediatamente distal a un segmento aneurismático
+T91	ENFERMEDAD 2594 2619	alto contenido trombótico
+T98	ENFERMEDAD 3155 3195	Leve despegamiento de hojas pericárdicas
+T99	ENFERMEDAD 4205 4270	Ventrículo derecho (VD) de tamaño normal con disfunción sistólica

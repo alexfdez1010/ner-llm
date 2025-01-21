@@ -1,0 +1,35 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 26 años sin antecedentes relevantes salvo asma extrínseca bien controlada, que acude a urgencias por síndrome febril de 2 semanas de evolución que se acompaña de malestar general, artromialgias generalizadas, cefalea y epigastralgia. Refiere haber comenzado con esta. clínica tras regresar de viaje del sudeste asiático. Una semana antes de la consulta comienza con diarrea sin productos patológicos. Además, unas 72 horas antes del ingreso presenta dolor torácico de tipo continuo y de características pleuropericárdicas, que se mantiene en el momento de la valoración. Refiere correcta vacunación para la realización del viaje y ha seguido las recomendaciones sanitarias.
+A su llegada presenta febrícula (temperatura 37,5 oC). Destaca palidez cutánea y regular estado general, con una taquicardia rítmica a 140 latidos por minuto y cifras de tensión arterial de 90/60 mmHg. Adecuada saturación basal. Sin soplos cardiacos, crepitantes pulmonares o edemas en miembros inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+Entre las pruebas complementarias realizadas en la valoración inicial destacamos:
+Electrocardiograma: taquicardia sinusal a 122 lpm con bloqueo completo de rama derecha (no conocido) y elevación del ST en cara antero-septal.
+Radiografía de tórax portátil: ICT normal. Discreta redistribución vascular, ausencia de derrame pleural o infiltrados.
+Analítica urgente (con valores normales del laboratorio de referencia): pH 7,42 (7,35-7,45), creatinina 0,55 mg/dl (0,5-0,9), potasio 4,20 mmol/l (3,5-5,0), troponina I 30,52 μg/l (0,0 – 0,06), CK 871 UI/l. Proteína c reactiva 119,90 mg/l (0,1-10,0), NT-proBNP 13114 pg/ml (10-125). Lactato 2,2 mmol/l. Leucocitos 14,26 x10E3/μl (4,0-11,5) con neutrófilos 10,27 x10E3/μl. Hemolobina 12,8 g/dl. INR 1,02.
+Ecocardiograma transtorácico urgente: ventrículo izquierdo moderadamente hipertrófico de aspecto edematoso con función sistólica moderadamente deprimida (FEVI subjetiva 35-40%). Ventrículo derecho normal en tamaño y función. Insuficiencia mitral levemoderada.
+Insuficiencia tricúspide mínima. No presenta derrame pericárdico, vena cava inferior normal.
+Durante el ingreso se realiza:
+Serologías: sin hallazgos relevantes.
+Hemocultivos: negativos.
+Urocultivos: negativos.
+Frotis faríngeo y exudado traqueal: negativo. ASLO: negativo.
+Biopsia endomiocárdica: biopsia endomiocárdica (3 fragmentos) con infiltrados linfohistiocitarios intersticiales con daño miofibrilar, compatible con miocarditis.
+ECG al alta: ritmo sinsual a 70 lpm. QRS ancho (150 ms) con morfología de bloqueo completo de rama derecha de has de His (BCRDHH). Bajo voltaje generalizado.
+Ecocardiografía al alta: ventrículo izquierdo de dimensiones normales, con disfunción sistólica moderada e hipoquinesia global, aunque más pronunciada a nivel septal. Strain global longitudinal 12,8%. Ventrículo derecho normal. Insuficiencia mitral mínima. No insuficiencia tricuspídea. No derrame pericárdico. VCI normal.
+RMN cardiaca: hallazgos compatibles con miocarditis. Contractilidad global levemente reducida (FEVI 47%). Adelgazamiento, hipoquinesia y aumento de señal en secuencias STIR y realce medioventricular anteroseptal basal. Realce tardío de pared lateral del ventrículo derecho. Derrame pericárdico ligero.
+Función renal, hepática y biomarcadores de daño miocárdico al alta: creatinina 1,3 mg/dl.
+Bilirrubina total 1,4 mg/dl. GGT 51 U/l. Troponina I máxima de 102 μg/l. NT-proBNP máximo de 110000 pg/ml, al alta 4259 pg/ml.
+
+EVOLUCIÓN CLÍNICA
+Tras ser valorada por el equipo de cardiología se decide traslado a la unidad de cuidados agudos cardiológicos para monitorización estrecha, donde presenta mala evolución inicial con criterios de shock cardiogénico tanto clínicos como analíticos por lo que se inicia tratamiento de soporte inotrópico y vasoactivo. Se realiza biopsia endomiocárdica que confirma diagnóstico de miocarditis linfocítica, y se decide administrar corticoides intravenosos (tres dosis de metilprednisolona).
+En las primeras horas del ingreso la paciente comienza con una taquicardia ventricular lenta con inestabilidad hemodinámica y de comportamiento incesante, pese al tratamiento con antiarrítmicos intravenosos y varios intentos de cardioversión eléctrica. Se decide de manera consensuada con el shock team implantar un balón de contrapulsación intraaórtico (BCIAo), con posterior canulación de ECMO (oxigenación por membrana extracorpórea) veno-arterial periférico. La paciente requiere además terapia de sustitución renal en los primeros días de ingreso por fracaso renal agudo.
+
+Tras 5 días de soporte mecánico circulatorio y, ante evolución favorable, se retira escalonadamente ECMO y BCIAo. La paciente se traslada a planta de cardiología para continuar evolución e iniciar de titulación de medicación neurohormonal para insuficiencia cardiaca con fracción de eyección reducida. La ecocardiografía de control al alta muestra mejoría de la función ventricular con disfunción moderada y la resonancia magnética muestra hallazgos compatibles con miocarditis.
+La paciente es dada de alta tras tres semanas de ingreso bajo el diagnóstico de shock cardiogénico secundario a miocarditis linfocítica (diagnóstico histopatológico) fulminante, pero ninguna de las serologías, múltiples cultivos u otras muestras consiguió identificar un agente etiológico concreto.
+En la valoración en consulta más de un año después, la paciente había recuperado la función ventricular y estaba en clase funcional I de la NYHA. Se ha mantenido tratamiento neurohormonal para disfunción sistólica.
+
+DIAGNÓSTICO
+Shock cardiogénico refractario (INTERMACS 1, SCAI E) con necesidad de soporte mecánico circulatorio (ECMO + BCIAo).
+Miocarditis linfocítica fulminante. Insuficiencia cardiaca con fracción de eyección deprimida, recuperada al año de evolución con tratamiento neurohormonal. CF I NYHA.
+Insuficiencia renal aguda (síndrome Cardiorrenal tipo I), resuelta.

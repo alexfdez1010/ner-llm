@@ -1,0 +1,48 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 59 años.
+
+Antecedentes
+Factores de riesgo cardiovascular: exfumador, hipertensión arterial (HTA), hipercolesterolemia, diabetes mellitus tipo 2 insulinizado.
+Síndrome de apnea-hipopnea sgrave en tratamiento con presión positiva continua en la vía aérea (CPAP).
+Arteriopatía periférica.
+Implantación de prótesis aórtica mecánica por estenosis aórtica grave hace 18 días.
+Ecocardiograma al alta: función biventricular conservada y prótesis aórtica normofuncionante.
+Tratamiento: ivabradina 5 mg /12 horas, furosemida 40 mg/24 horas, bisoprolol 10 mg/ 24 horas, atorvastatina 40 mg/24 horas, metformina 850 mg/12 horas, Lantus 38UI en la cena, novorapid 10 UI en el deayuno, ácido acetilsalicílico 100 mg/24 horas, acenocumarol.
+
+Enfermedad actual
+El paciente acude a urgencias el viernes por la tarde por malestar general, fiebre con tiritona y disnea de mínimos esfuerzos de 24 horas de evolución. Tos con expectoración hace 5 días, actualmente en remisión, sin otra focalidad. Niega dolor torácico. Dados los antecedentes de cirugía sobre válvula aórtica hace 18 días es valorado por cardiología durante su estancia en urgencias. Se realiza ecocardioscopia que muestra una hipertrofia de ventrículo izquierdo (HVI) concéntrica leve con función sistólica global y segmentaria conservadas, prótesis aórtica normofuncionante, insuficiencia mitral leve-moderada central ya conocida, AI dilatada, cavidades derechas normales, ausencia de derrame pericárdico. El paciente ingresa en la unidad de enfermedades infecciosas en tratamiento empírico con ceftriaxona.
+
+Exploración física
+Presión arterial (PA) 135/70 mmHg a su llegada a triaje, a la valoración del médico 85/60 mmHG, que aumenta a 100/60 mmHG tras sueroterapia (500 ml suero fisiológico). Frecuencia cardiaca (FC) 80 lpm. Temperatura 39,5oC. SatO2 91% con aire ambiente. Sudoroso, bien perfundido, eupneico.
+Leve ingurgitación yugular. Auscultación cardiaca: rítmico, soplo sistólico aórtico II/VI, ruidos protésicos. Auscultación pulmonar: mínimos crepitantes en bases. Abdomen normal. Sin edemas en extremidades inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG) en urgencias: ritmo sinusal a 75 lpm, bloqueo auriculoventricular de 1o con PR 220 ms. Signos de hipertrofia de VI.
+Analítica en urgencias: glucosa: 242 mg/dl. Creatinina 0,53 mg/dl. Urea 19 mg/dl. GPT 29 U/l.
+Bilirrubina 0,8 mg/dl. Sodio 137 mEq/l. Potasio 4,4 mEq/l. Calcio 8,6 mg/dl. Albumina 3,1 g/dl. CK 399 U/l. LDH 250 U/l. PCR 46,5 mg/l. PCT 0,36 ng/ml. Hemoglobina 9,7 g/dl. Hematocrito 31,0%.
+Plaquetas 211 *10^3/μl. Leucocitos: 7,9 *10^3/μl. Neutrófilos 72,7%. Neutrófilos 5,7 *10^3/μl.
+Linfocitos 17,3%. Linfocitos 1,4 *10^3/μl. Tiempo de protrombina 49%. INR1,7. TTPA 53 sg.
+Fibrinógeno 503 mg/dl.
+Radiografía de tórax en urgencias: sin datos de IC.
+ECG en planta: ritmo sinusal con bloqueo auriculoventricular 2:1, eje del QRS a 60o.
+Elevación del ST en cara inferior (II,III, y aVF) y descenso del ST en I-aVL.
+Ecocardiograma transtorácico reglado: ventrículo izquierdo no dilatado con HVI leve con fracción de eyección (FEVI) 50%. Hipocinesia de cara inferior, posterior y basal de septo posterior, del segmento apical del septo anterior, apical de cara anterior y ápex estricto. Válvula mitral engrosada y esclerosa con regurgitación mitral de carácter grave, mecanismo no aclarado: no se visualiza claro tenting, ni rigidez del velo posterior. Prótesis mecánica aórtica con imágenes excrecentes y móviles en trato de salida de ventrículo izquierdo (TSVI) compatibles con injertos endocardíticos. No presenta regurgitación aórtica. Gradiente transprotésico máximo de 35 mmHg. Ventrículo derecho ligeramente dilatado, hipocinético, con disfunción global leve. Insuficiencia tricuspídea (IT) grave. Gradiente Vd-Ad de 45 mmHg. No derrame pericárdico. Diagnóstico: imágenes compatibles con endocarditis aórtica. Acinesia inferior y apical. Regurgitación mitral y tricúspide graves.
+Cateterismo: dominancia izquierda. Enfermedad arterial coronaria grave de dos vasos: oclusión de descendente anterior (DA) medio-distal, lesión suboclusiva en circunfleja (Cx) distal, oclusión de descendente posterior. Se realiza aspiración y angioplastia con balón en DA y Cx distal con buen resultado, salvo la descendente posterior que queda ocluida.
+Ecocardiograma transesofágico: se aprecia injerto endocardítico hipermóvil que protruye a TSVI sobre prótesis aórtica con engrosamiento periaórtico sugestivo de absceso.
+Además imagen móvil en aurícula derecha en continuidad con el absceso mitraórtico y muy cercana a la valva septal tricuspídea con IT grave. Se explora la válvula mitral sin apreciarse verrugas endocardíticas en la misma, pero presenta insuficiencia mitral moderada-grave en relación con tenting y déficit de coaptación central. La FEVI global está en el límite bajo de la normalidad con hipociesia de la cara inferior, posterior y septo posterior.
+
+EVOLUCIÓN CLÍNICA
+Tras ingreso en Infecciosas persiste la fiebre de 38,5 oC y la tiritona a lo largo del fin de semana.
+Los hemocultivos extraídos en urgencias se habían extraviado, por lo que se extraen nuevos hemocultivos (HC) el sábado y se escala antibioterapia a vancomicina- levofloxacino como tratamiento empírico de fiebre sin claro foco. El domingo persiste fiebre mantenida, con ligero empeoramiento del estado general. El lunes presenta un empeoramiento clínico evidente con hipotensión mantenida a pesar de fluidoterapia, bradicardia y aumento de la disnea. Avisan de laboratorio por crecimiento de S. epidermidis en 4 de 4 frascos.
+Con estos datos se contacta nuevamente con el servicio de cardiología para realización de nuevo ecocardiograma y valoración clínica. Se realiza ECG donde se visualiza bloqueo auriculoventricular (BAV) de 2o grado 2:1 junto con elevación del ST en derivaciones inferiores con descenso del ST en cara lateral. Reinterrogando al paciente refiere cierta molestia precordial intermitente asociado a disnea desde esa mañana. El ecocardiograma transtorácico muestra endocarditis sobre prótesis aórtica y alteraciones de la contractilidad segmentaria. Ante los hallazgos clínicos, electrocardiográficos y ecocardiográficos se realiza cateterismo emergente.
+Tras la revascularización, persiste empeoramiento clínico con disnea junto con datos de inestabilidad hemodinámica (hipotensión) por lo que se traslada a la unidad de cuidados intensivos para realización de ecocardiograma transesofágico (ETE) y estabilización. Ante disnea progresiva e imposibilidad de tolerancia de ETE se procede a intubación orotraqueal y conexión a ventilación mecánica invasiva, así como inicio de perfusión de noradrenalina y dobutamina a dosis bajas, a pesar de lo cual persiste inestabilidad con importante bradicardia por lo que se implanta marcapasos transyugular transitorio.
+Con todos los datos y con el diagnóstico de endocarditis infecciosa sobre válvula aórtica protésica complicada con absceso mitroaórtico, extensión a válvula tricúspide, BAV, embolismos coronarios sépticos y shock cardiogénico/séptico se decide cirugía cardiaca emergente donde se realiza recambio valvular aórtico por prótesis biológica, recambio valvular tricúspide por prótesis biológica y colocación de anillo mitral. Tras 66 días de estancia en UCI y múltiples complicaciones entre las que destacan fracaso renal agudo que precisa hemodiafiltración venovenosa continua, insuficiencia respiratoria aguda, neumonía asociada a ventilación mecánica por bacilo gram negativo, traqueobronquitis aguda por A. fumigatus, BAV completo persistente, bacteriemia por C. parapsilopsis asociada a catéter venoso central, hepatitis isquémica, íleo paralítico, encefalopatía multifactorial con componente importante de hipoxia y daño tronco-diencefálico significativo con coma persistente, finalmente fallece.
+
+DIAGNÓSTICO
+Endocarditis precoz sobre válvula aórtica protésica mecánica por Staphylococcus epidermidis.
+Absceso de unión mitroaórtica con extensión a válvula tricúspide. Insuficiencia mitral y tricúspide graves.
+Bloqueo auriculoventricular 2:1.
+Infarto agudo de miocardio con elevación del ST inferior. Embolismos coronarios sépticos en circunfleja dominante y descendente anterior. Tromboaspiración y angioplastia con balón sobre DA y Cx.
+Shock mixto cardiogénico/séptico.
+Cirugía emergente de recambio valvular aórtico, tricúspide y anillo mitral.
+Muerte.

@@ -1,0 +1,52 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Mujer de 73 que acude al servicio de urgencias de nuestro centro por disnea.
+
+Antecedentes
+La paciente presentaba los siguientes antecedentes médicos:
+Factores de riesgo cardiovascular: dislipémica en tratamiento con un hipolipemiante en monoterapia, con último cLDL de 80 mg/dl.
+Antecedentes cardiológicos: consta en historia clínica detección hace más de 20 años de soplo cardiaco en revisiones por médico de atención primaria, nunca estudiado.
+Otros antecedentes médicos relevantes: adenocarcinoma de mama izquierda localmente avanzado a los 38 años, tratada con mastectomía radical, linfadenectomia y quimioradioterapia, libre de enfermedad desde entonces sin recurrencias.
+Tratamiento habitual: simvastatina 20 mg cada 24 horas.
+
+Enfermedad actual
+A su llegada al servicio de urgencias, la paciente refería cuadro clínico de aproximadamente 4 semanas de evolución de deterioro progresivo de clase funcional hasta presentar disnea en reposo (NYHA IV), así como ortopnea que la obligaba a dormir en sedestación. Refería además disminución subjetiva del volumen de diuresis, sin edematización asociada de MMII. No presentaba dolor torácico anginoso ni en reposo ni con los esfuerzos habituales. Negaba clínica infecciosa al interrogatorio por aparatos.
+
+Exploración física
+Tensión arterial (TA) 122/70 mmHg, frecuencia cardiaca (FC) 100 lpm, Sat O2 95% con FiO2 35%. Presión venosa yugular aumentada (15 cm). Auscultación cardiaca: rítmica, con soplo sistólico en foco aórtico irradiado a carótidas IV/VI, con abolición del segundo ruido. Soplo sistólico en foco mitral irradiado a axila III/VI. Auscultación pulmonar: crepitantes mediobasales. Abdomen: blando y depresible, no doloroso a la palpación profunda, no masas ni megalias, Blumberg y Murphy negativos. Reflujo hepatoyugular positivo. Extremidades: sin edemas en partes declives, pulsos periféricos conservados y simétricos, no signos de flebitis.
+Se realizó ecoscopia a pie de cama en servicio de urgencias que objetivó calcificación de la válvula aórtica con apertura gravemente limitada, así como calcificación del aparato valvular mitral con regurgitación significativa, por lo que se decidió ingreso en sala de cardiología para estabilización, completar estudio y valoración de opciones terapéuticas.
+
+PRUEBAS COMPLEMENTARIAS
+Radiografía de tórax portátil a su ingreso: silueta cardiomediastínica no valorable. Pinzamiento de seno costofrénico izquierdo. Hilios pulmonares prominentes de aspecto vascular. Signos de redistribución vascular.
+Electrocardiograma: taquicardia sinusal a 110 lpm. PR normal. Eje normal. Criterios de voltaje de hipertrofia ventricular izquierda. QRS 120 ms con trastorno de la conducción intraventricular tipo BRI. Signos de sobrecarga sistólica.
+
+Analítica al ingreso:
+Hemograma: hemoglobina 16,2 g/dl, sin leucocitosis ni desviación izquierda, plaquetas 232 x 10^9/l.
+Hemostasia: INR 1.2, TTPA 30,1 s.
+Bioquímica: glucosa 127 mg/dl, creatinina 1,00 mg/dl, FG 55,8 ml/min/1,72 m , sodio 137 mEq/l, potasio 3,5 mEq/l, bilirrubina total 1,2 mg/dl, GOT 45 UI/l, GPT 35 UI/l, proteína C reactiva 0,1 mg/dl.
+Analítica tras deterioro clínico:
+Hemograma: hemoglobina 15,4 g/dl, sin leucocitosis ni desviación izquierda, plaquetas 195 x 10^9/l.
+Hemostasia: INR 1,9, TTPA 40 s.
+Bioquímica: glucosa 150 mg/dl, creatinina 1,94 mg/dl, FG 25,1 ml/min/1,72 m , sodio 143 mEq/l, potasio 4,2 mEq/l, bilirrubina total 2,7 mg/dl, GOT 150 UI/l, GPT 263 UI/l, proteína C reactiva 2,3 mg/dl.
+Ecocardiograma: ventrículo izquierdo (VI) no dilatado con hipertrofia concéntrica ligera. Hipocinesia global de predominio septal y anterior con FGS gravemente deprimida (FEVI 25%). Aurícula izquierda dilatada. Doble lesión aórtica sobre válvula gravemente calcificada: estenosis grave (planimetría 0,5 c,mGm 52 mmHg). Regurgitación moderada (THP 260 ms). Regurgitación mitral moderada (II-III/VI) sobre válvula esclerodegenerativa (ORE por PISA 0,25 cm2). VD de diámetros no aumentados y FGS conservada (TAPSE 18 mm). Regurgitación tricuspídea moderada que permite estimar PsAP en 70 mmHg. Vena cava inferior (VCI) pletórica.
+Coronariografía 1: calcificación de aorta ascendente, sigmoideas intensamente calcificadas con apertura reducida, estenosis grave (gradiente pico 55 mmHg). Arterias coronarias: tronco normal. Descendente anterior con lesión del 80% en segmento medio. Arteria circunfleja con irregularidades sin estenosis. Arteria coronaria derecha con lesión del 90% en segmento proximal.
+TAC torácico sin contraste: marcada ateromatosis calcificada en aorta torácica, especialmente en localización de botón aórtico. Calcificación de válvula aórtica, válvula tricúspide y arteria coronaria derecha.
+Coronariografía 2: se realiza angioplastia coronaria transluminal percutánea (ACTP) sobre las lesiones de DA y CD con implante de sendosstents farmacoactivos liberadores de everolimus, con buen resultado angiográfico.
+Implante de TAVI: tras valvuloplastia con balón, se realiza implante de prótesis SAPIEN ULTRA 23 mm. Tras el mismo, disociación electromecánica sin identificarse oclusión coronaria, extravasación de contraste a pericardio, rotura aórtica, ni embolización protésica.
+
+EVOLUCIÓN CLÍNICA
+Tras ingreso en sala de cardiología la paciente evolucionó inicialmente de forma favorable, presentando posteriormente un deterioro clínico por nuevo aumento de disnea asociado a disminución franca del volumen de diuresis (< 10 ml/kg/h) así como hipotensión (TA 73/35 mmHg), por lo que ante situación de shock cardiogénico se decidió ingreso en unidad coronaria para estabilización.
+Se inició soporte vasoactivo con noradrenalina a 12 mcg/min e inotrópico con dobutamina a 10 mcg/kg/min, así como terapia diurética intensiva con perfusión iv de furosemida de 20 mg/h, con respuesta inicial favorable que permitió mantener balances negativos sin necesidad de inicio de terapia de ultrafiltración.
+En el estudio ecocardiográfico reglado se confirmó la presencia disfunción ventricular grave y de estenosis aórtica grave (y regurgitación aórtica moderada) y en la coronariografía diagnóstica se detectó enfermedad coronaria grave de dos vasos, así como importante calcificación de aorta ascendente que se confirmó con TAC torácico sin contraste.
+Con estos hallazgos, se presentó el caso en sesión médico-quirúrgica, desestimándose el recambio valvular quirúrgico por el HEART Team dada la situación clínica de la paciente, con un riesgo quirúrgico desmesurado (EuroSCORE II 80,35%), así como sus características anatómicas, con muy marcada calcificación aórtica que limitaba de manera inasumible las posibilidades de canulación para entrada en circulación extracorpórea.
+Además, dada la presencia de regurgitación aórtica al menos moderada, se desestimó la realización de valvuloplastia aórtica con balón como puente a TAVI y se decidió estabilización médica inicial en UCO y, según la evolución, valorar tratamiento en dos tiempos con revascularización percutánea de las lesiones coronarias y posterior recambio valvular aórtico percutáneo.
+Durante su estancia en UCO la evolución fue lentamente favorable y, tras tratamiento con levosinmendán i.v. se pudo retirar el soporte inotrópico requiriendo únicamente necesidad de soporte vasopresor con dosis bajas (0,1 - 0,2 mcg/kg/min) de NA. Se realizó revascularización percutánea de las lesiones en DA y CD.
+Finalmente, se intentó recambio valvular percutáneo por vía femoral de derecha, presentando la paciente, tras la expansión de la bioprótesis, parada cardiaca por disociación electromecánica, sin objetivarse complicaciones inmediatas derivadas de la técnica (oclusión coronaria, extravasación de contraste pericardio, rotura aórtica, o embolización protésica) por lo que se iniciaron maniobras de reanimación cardiopulmonar avanzada, resultando exitus tras 40 min sin lograr recuperación de circulación espontánea.
+
+DIAGNÓSTICO
+Doble lesión aórtica esclerodegenerativa: estenosis grave y regurgitación moderada. Regurgitación mitral moderada sobre válvula esclerodegenerativa.
+Disfunción ventricular grave (FEVI 25%).
+Cardiopatía isquémica: enfermedad de dos vasos: CDp 90%, DAm 80%. ICP con implante de sendos stents farmacoactivos liberadores de everolimus.
+Aorta en porcelana.
+Shock cardiogénico.
+Implante de percutáneo de bioprótesis aórtica fallido por muerte durante el procedimiento.

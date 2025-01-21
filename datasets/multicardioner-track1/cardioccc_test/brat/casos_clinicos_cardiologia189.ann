@@ -1,0 +1,35 @@
+T17	ENFERMEDAD 58 82	enfermedad con coronaria
+T18	ENFERMEDAD 104 123	hipercolesterolemia
+T19	ENFERMEDAD 140 161	hipertensión arterial
+T20	ENFERMEDAD 163 166	HTA
+T21	ENFERMEDAD 171 188	diabetes mellitus
+T22	ENFERMEDAD 190 192	DM
+T23	ENFERMEDAD 272 300	hipercolesterolemia familiar
+T24	ENFERMEDAD 2193 2206	valvulopatías
+T25	ENFERMEDAD 2226 2245	derrame pericárdico
+T26	ENFERMEDAD 3321 3341	enfermedad coronaria
+T27	ENFERMEDAD 3363 3391	hipercolesterolemia familiar
+T28	ENFERMEDAD 3492 3510	angina de esfuerzo
+T29	ENFERMEDAD 3695 3708	daño hepático
+T30	ENFERMEDAD 4136 4156	enfermedad coronaria
+T31	ENFERMEDAD 4196 4215	hipercolesterolemia
+T32	ENFERMEDAD 4709 4737	hipercolesterolemia familiar
+T33	ENFERMEDAD 4851 4871	enfermedad coronaria
+T34	ENFERMEDAD 4964 4992	hipercolesterolemia familiar
+T35	ENFERMEDAD 5025 5043	Angina de esfuerzo
+T36	ENFERMEDAD 5045 5074	Enfermedad arterial coronaria
+T37	ENFERMEDAD 195 202	Bebedor
+T38	ENFERMEDAD 1416 1465	bloqueo incompleto de rama derecha del haz de His
+T39	ENFERMEDAD 128 135	fumador
+T40	ENFERMEDAD 690 702	Hígado graso
+T41	ENFERMEDAD 4994 4996	HF
+T1	ENFERMEDAD 1320 1332	arco corneal
+T74	ENFERMEDAD 1334 1342	xantomas
+T75	ENFERMEDAD 1346 1357	xantelasmas
+T11	ENFERMEDAD 4999 5024	Intolerancia a estatinas.
+T80	ENFERMEDAD 499 527	Intolerancia a atorvastatina
+T88	ENFERMEDAD 2837 2876	estenosis moderada (50-75%) concéntrica
+T90	ENFERMEDAD 4308 4357	estenosis no significativas en el árbol coronario
+T85	ENFERMEDAD 2937 2968	Arteria circunfleja hipoplásica
+T87	ENFERMEDAD 2937 3017	Arteria circunfleja hipoplásica, con una lesión leve no calcificada en su origen
+T15	ENFERMEDAD 5056 5088	arterial coronaria con estenosis

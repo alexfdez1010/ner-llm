@@ -1,0 +1,12 @@
+Antecedentes, enfermedad actual y exploración física
+Mujer de 79 años en seguimiento por palpitaciones frecuentes sin cardiopatía estructural asociada, que es remitida desde consultas para estudio electrofisiológico y eventual ablación de taquicardia auricular. Como antecedentes presentaba hipertensión arterial y dislipemia.
+La exploración física era normal. El ecocardiograma mostraba un ventrículo izquierdo no dilatado con FSVI conservada y sin alteraciones valvulares significativas. En un estudio Holter se evidenciaron rachas de taquicardia auricular no sostenida. La analítica habitual era normal y en la radiografía de tórax no se evidenció enfermedad pleuropulmonar ni alteraciones significativas de la silueta cardiopericárdica. Se encontraba en tratamiento antiarrítmico con atenolol 50 mg/12h. Resto de tratamiento cardiológico: eprosartán, hidroclorotiazida, amlodipino, furosemida, pitavastatina, ezetimibe.
+
+Pruebas complementarias
+Electrocardiograma basal: ritmo sinusal a 101 lpm. PR 173 ms, QRS: 99 ms. Sobrecarga sistólica del ventrículo izquierdo. Taquicardia auricular no sostenida.
+
+Evolución clínica
+Mediante abordaje femoral se introducen electrocatéteres para estudio electrofisiológico en AD, VD y His, en seno coronario, así como catéter de ablación. Basalmente se observa taquicardia auricular no sostenida con onda P negativa en cara inferior, positiva en D1 y aVL. Bajo administración de isoproterenol se hace sostenida. AH: 120 ms y HV: 48 ms. Se realiza mapa electroanatómico de AD con mayor precocidad en región perihisiana. Foramen oval permeable. Se mapea por vía retrógrada aórtica objetivando mayor precocidad en seno aórtico posterior en proximidad de seno aórtico derecho. En dicha zona se obtiene una precocidad de 39 ms respecto a onda P. Se aplica energía de RF con interrupción de la taquicardia en primer segundo. A continuación se aplican 3 minutos de seguridad alrededor de zona primero con 20 wattios y posteriormente con 30 wattios. Al término del procedimiento se objetiva ritmo sinusal con 75 lpm y BRDHH de etiología mecánica. No hubo complicaciones reseñables y la paciente fue dada de alta al día siguiente del procedimiento.
+
+Diagnóstico
+Taquicardia auricular con origen en la región del seno aórtico posterior. Ablación por radiofrecuencia de la taquicardia por vía retrógrada aórtica con criterios de eficacia.

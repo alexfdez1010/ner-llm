@@ -1,0 +1,47 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Hermano y sobrino diagnosticados de MCH.
+No presenta antecedentes de muerte súbita en familiares de primer grado.
+Niega alergias medicamentosas conocidas.
+Trabajador en distribución de prensa.
+Fumador de 30 cigarrillos diarios, con un índice acumulado de 48 paquetes-año.
+Factores de riesgo cardiovascular: obesidad grado I (índice de masa corporal [IMC] 32 kg/m2). Niega hipertensión, diabetes o dislipemia.
+En seguimiento en consultas de cardiología por MCH obstructiva asimétrica con estudio genético no concluyente. Al diagnóstico no presentaba obstrucción significativa. Sin embargo, en el seguimiento posterior y coincidiendo con un claro empeoramiento de su clase funcional, se objetiva por ecocardiograma transtorácico (ETT) un aumento progresivo de la hipertrofia septal que ocasiona un gradiente dinámico obstructivo y un movimiento sistólico anterior (SAM) en la valva anterior de la mitral que provoca una insuficiencia mitral de grado moderado. Síncope cardiogénico en 2019, por el que se decide implante de desfibrilador automático implantable (DAI) DDDR en prevención primaria, dado que el riesgo de muerte súbita a 5 años era del 7,1%. En sucesivas revisiones, se realizó seguimiento estrecho para control de sintomatología y titulación de fármacos, a pesar de ello, persiste disnea y angor de esfuerzo.
+Situación basal: independiente para las actividades básicas de la vida diaria. Funciones superiores conservadas. Vida activa. Actualmente presenta disnea a esfuerzos habituales, encontrándose en clase funcional III de la NYHA.
+Tratamiento habitual: omeprazol 20 mg/24 horas, disopriramida 100 mg/ 8 horas, verapamilo 120 mg/12 horas.
+
+Enfermedad actual
+Paciente de 52 años de edad que acude de nuevo al servicio de urgencias de nuestro hospital por dolor torácico y aumento de su disnea basal hasta hacerse de mínimos esfuerzos. No presentaba ortopnea, crisis de disnea paroxística nocturna, recorte de diuresis ni aparición de edemas en miembros inferiores.
+A su llegada a urgencias el paciente se encuentra estable hemodinámicamente, con ligera taquipnea de reposo, manteniendo saturación de oxígeno 98%. Se realizó electrocardiograma (ECG), sin cambios respecto a los descritos previamente, así como seriación de marcadores de daño miocárdico que resultaron normales. Se decide ingreso en cardiología.
+
+Exploración física
+Buen estado general. Consciente y orientado. Normocoloreado, bien hidratado y perfundido. Afebril. Estable hemodinámicamente (tensiçon arterial [TA] 127/84 mmHg, frecuencia cardiaca [FC] 70 lpm). Eupneico en reposo. Saturación de oxígeno 99% sin oxigenoterapia. Auscultación cardiorrespiratoria: tonos rítmicos a buena frecuencia, con soplo sistólico panfocal que aumenta con maniobra de Valsalva. Buena ventilación en ambos campos pulmonares sin ruidos patológicos sobreañadidos. Abdomen blando y depresible. No se palpan masas ni megalias. No doloroso. Sin signos de irritación peritoneal ni peritonismos. Miembros inferiores sin edemas ni signos de trombosis venosa profunda. Pulsos pedios presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica:
+Bioquímica: glucosa 106 mg/dl, urea 35 mg/dl, Cr 0,92 mg/dl, ácido úrico 6 mg/dl, FG > 90 ml/min. Ionograma normal. Perfil abdominal: bilirrubina total 2,31 mg/dl, a expensas de indirecta (1,69 mg/dl), resto normal. Proteínas totales 6,9 g/dl. NT-proBNP 869 pg/ml. Marcadores de daño miocárdico seriadas: normales.
+Perfil lipídico: colesterol total 206 mg/dl, LDL 140 mg/dl, HDL 42 mg/dl, triglicéridos 122 mg/dl.
+PSA 0,16 ng/ml.
+HbA1c 5,6%.
+Hemograma: hemoglobina 14,4 g/dl, plaquetas 181x109/l, leucocitos 1073 x109/l con fórmula normal.
+Electrocardiogramas (ECG): ECG en urgencias: estimulación de marcapasos a 60 lpm, datos de hipertrofia ventricular izquierda. QTc 440 ms.
+ECG en planta: en ritmo sinusal 71 lpm. PR normal. Criterios de Sokolow positivos con datos de sobrecarga y ondas T negativas de V4 a V6, I y aVL.
+ETT: hipertrofia ventricular grave y asimétrica con máximo grosor miocárdico a nivel septal (26-27 mm) con claro SAM que genera una insuficiencia mitral de grado moderada. Gradiente dinámico obstructivo a nivel del TSVI con un gradiente de 50 mmHg, que con las maniobras de Valsalva alcanza 82 mmHg. Función sistólica del ventrículo izquierdo conservada con fracción de eyección del 70%. Baja probabilidad ecocardiográfica de hipertensión pulmonar.
+Ecocardiograma transesofágico (ETE) (vídeos 3 y 4): válvula mitral sin alteraciones estructurales a destacar. No presenta elongación de velos o aparato subvalvular. Ligero engrosamiento del velo anterior a nivel de su festón A2. Presenta una alteración de la dinámica consistente en retracción de ambos velos en cierre por mecanismo de gradientes dinámico intraventricular a nivel del TSVI izquierdo con SAM tanto del velo anterior como el posterior. Esta alteración de la dinámica genera un jet de insuficiencia mitral de cuantía al menos, moderada. No se aprecian otras alteraciones más allá de las encontradas de su MCH mecanismo secundario a SAM con afectación de todo el aparato valvular.
+Coronariografía: arterias coronarias angiográficamente normales. Se canaliza selectivamente la segunda rama septal (de mayor calibre y desarrollo) ya que además la primera rama fistuliza al ventrículo izquierdo en la imagen angiográfica. Tras oclusión selectiva de este ramo e inyección de contraste ultrasónico se visualiza mediante ETT una correcta opacificación basal del septo, pero con drenaje casi completo del contraste a ventrículo izquierdo.
+Resonancia magnética cardiaca: ventrículo izquierdo no dilatado, con aumento concéntrico de su masa e hipertrófia asimétrica grave de predominio septal. Máximo grosor miocárdico en los segmentos anteroseptal basal (26 mm) e inferoseptal medio (24 mm). Grosores en segmentos septal apical 16 mm, inferoseptal basal 16 mm y anteroseptal medio 15 mm. Resto de segmentos con grosores máximos de 13 mm. Contractilidad segmentaria normal y colpaso telesistólico de la cavidad ventricular que conlleva una función sistólica hiperdinámica.
+A nivel del TSVI se objetiva aceleración del flujo sistólico y SAM de la valva anterior mitral que conlleva una insuficiencia mitral conjet dirigido a la pared lateral de la aurícula izquierda. En el segmento medio de la cara inferior se objetiva una cripta intramiocárdica. La fracción de eyección medida con el método Simpson de 81%. VTDVI de 144 ml, indexado por superficie corporal de 72 ml/m, VTSVI de 27 ml, indexado por superficie corporal de 13,5 ml./m
+Gasto cardiaco de 6,8 l/min. Masa miocárdica 285 g, indexada por superficie corporal de 142 .g/m
+Ventrículo derecho no dilatado ni hipertrófico, con movilidad global y segmentaria conservada.
+La Fracción de eyección medida con el método Simpson de 81 % VTDVD de 104 ml, indexado por superficie corporal de 52 ml/m. VTSVD de 19 ml, indexado por superficie corporal de 9,5 ml/m . Aurícula izquierda dilatada con área de 41 cm , indexada de 20 cm /m . Aurícula derecha normal (21 cm , indexada de 10,5 cm /m ). En la secuencia de perfusión de primer paso no se objetivan defectos de perfusión basal. En la secuencia de realce tardío/viabilidad no presenta fibrosis ni necrosis. Conclusión: MCH asimétrica obstructiva sin fibrosis. Ventrículo izquierdo no dilatado con función sistólica conservada.
+
+EVOLUCIÓN CLÍNICA
+Paciente diagnosticado de MCH asimétrica en 2009 a raíz de consultar por palpitaciones, sin correlacionarse en ese momento con taquiarritmias. En el momento del diagnóstico no presentaba una obstrucción significativa del TSVI. Desde entonces, en seguimiento en consultas externas de cardiología, encontrándose asintomático tras inicio de betabloqueantes a dosis bajas. En revisiones posteriores se constata empeoramiento de su clase funcional hasta presentar disnea y angina a mínimos esfuerzos.
+De manera ambulatoria se titulan betabloqueantes hasta dosis máximas y aprovechando que el paciente era portador de un DAI DDDR, se optimizan los parámetros de este para conseguir una estimulación del ventrículo izquierdo mayor del 90%. A pesar de ello, el paciente continuaba sintomático y con un gradiente obstructivo significativo, superior a 50 mmHg. Se decide iniciar tratamiento con dosis altas de antagonistas del calcio asociados a disopiramida e ir titulando dosis y se plantea la posibilidad de ablación septal con alcohol o cirugía de Morrow en caso de que no haya una adecuada respuesta clínica.
+Sin embargo, el paciente finalmente ingresa a nuestro cargo debido a empeoramiento de su sintomatología. Durante el ingreso, se decide iniciar el estudio previo para valorar si era candidato a ablación septal con alcohol o miomectomía quirúrgica mientras se continúa con la titulación del tratamiento médico sin poder alcanzar dosis mayores ante la presencia de síntomas anticolinérgicos asociados a la disopiramida.
+Finalmente, ante el grado de hipertrofia ventricular y la ausencia de un ramo septal adecuado para la realización de una ablación septal con alcohol, se optó por la realización de una miomectomía quirúrgica.
+
+DIAGNÓSTICO
+MCH septal con obstrucción severa del TSVI. Insuficiencia mitral moderada por SAM.
+Angor de esfuerzo y disnea en clase funcional III de la NYHA secundaria a lo anterior. Portador DAI DDDR en prevención primaria (riesgo de muerte súbita a los 5 años por el score de la Sociedad Europea de Cardiología: 7,1%).

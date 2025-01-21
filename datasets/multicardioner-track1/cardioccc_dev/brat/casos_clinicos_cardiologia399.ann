@@ -1,0 +1,53 @@
+T1	ENFERMEDAD 196 203	fumador
+T18	ENFERMEDAD 3302 3325	VI ligeramente dilatado
+T90	ENFERMEDAD 1409 1421	BAV 1o grado
+T91	ENFERMEDAD 4090 4109	BAV de primer grado
+T92	ENFERMEDAD 6145 6148	BAV
+T93	ENFERMEDAD 1285 1290	BRDHH
+T96	ENFERMEDAD 3225 3233	HTP leve
+T97	ENFERMEDAD 1115 1117	IC
+T98	ENFERMEDAD 1526 1528	TV
+T99	ENFERMEDAD 4491 4493	TV
+T100	ENFERMEDAD 4570 4572	TV
+T101	ENFERMEDAD 4723 4725	TV
+T102	ENFERMEDAD 5291 5293	TV
+T103	ENFERMEDAD 6731 6758	TV monomorfas no sostenidas
+T105	ENFERMEDAD 7113 7115	TV
+T106	ENFERMEDAD 7394 7396	TV
+T107	ENFERMEDAD 8067 8100	Taquicardia ventricular sostenida
+T109	ENFERMEDAD 6346 6378	adenopatías a nivel mediastínico
+T110	ENFERMEDAD 7932 7940	arritmia
+T111	ENFERMEDAD 206 222	bebedor moderado
+T112	ENFERMEDAD 5325 5346	cardiopatía isquémica
+T113	ENFERMEDAD 5509 5530	cardiopatía isquémica
+T114	ENFERMEDAD 131 141	dislipemia
+T115	ENFERMEDAD 6026 6046	enfermedad de Chagas
+T116	ENFERMEDAD 5093 5107	fallo cardiaco
+T118	ENFERMEDAD 5878 5889	miocarditis
+T119	ENFERMEDAD 6515 6532	miocarditis aguda
+T120	ENFERMEDAD 8125 8142	miocarditis aguda
+T121	ENFERMEDAD 6012 6023	sarcoidosis
+T122	ENFERMEDAD 6078 6089	sarcoidosis
+T123	ENFERMEDAD 6277 6297	sarcoidosis cardiaca
+T124	ENFERMEDAD 3923 3968	taquicardia ventricular monomórfica sostenida
+T125	ENFERMEDAD 3157 3170	valvulopatías
+T75	ENFERMEDAD 2964 3020	ventrículo izquierdo no dilatado, levemente hipertrófico
+T77	ENFERMEDAD 4765 4783	flúter ventricular
+T79	ENFERMEDAD 7155 7173	flúter ventricular
+T80	ENFERMEDAD 8017 8022	TVMNS
+T132	ENFERMEDAD 1461 1463	EV
+T133	ENFERMEDAD 6642 6644	EV
+T71	ENFERMEDAD 622 654	taquicardia regular de QRS ancho
+T7	ENFERMEDAD 1232 1264	taquicardia regular de QRS ancho
+T117	ENFERMEDAD 7030 7032	TV
+T127	ENFERMEDAD 7445 7463	flúter ventricular
+#96	AnnotatorNotes T96	HTP hipertensión pulmonar
+#97	AnnotatorNotes T97	insuficiencia cardíaca
+#98	AnnotatorNotes T98	TV taquicardia ventricular
+#99	AnnotatorNotes T99	TV taquicardia ventricular
+#100	AnnotatorNotes T100	TV taquicardia ventricular
+#101	AnnotatorNotes T101	TV taquicardia ventricular
+#102	AnnotatorNotes T102	TV taquicardia ventricular
+#103	AnnotatorNotes T103	TV taquicardia ventricular
+#105	AnnotatorNotes T105	TV taquicardia ventricular
+#106	AnnotatorNotes T106	TV taquicardia ventricular

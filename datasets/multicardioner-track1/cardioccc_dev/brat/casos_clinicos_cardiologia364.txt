@@ -1,0 +1,29 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 68 años, sin antecedentes médico-quirúrgicos de interés, que es remitida al servicio de urgencias de nuestro hospital por dolor centrotorácico opresivo.
+La paciente niega alergias medicamentosas conocidas. Como factores de riesgo cardiovascular destacan obesidad y diabetes mellitus tipo 2 en tratamiento con metformina. Niega antecedentes familiares de cardiopatía isquémica precoz, ni muerte súbita cardiovascular.
+Previamente asintomática desde el punto de vista cardiovascular, refiere el día del ingreso, durante una discusión intensa vecinal, inicio de dolor centrotorácico opresivo, irradiado a espalda y miembro superior izquierdo, de aproximadamente 45 minutos de duración, por lo que avisa a emergencias sanitarias, que la traslada al servicio de urgencias de nuestro hospital.
+A nuestra valoración, persiste dolor centrotorácico, de similar intensidad, sin mejoría significativa tras nitratos. La paciente niega otros síntomas acompañantes (ni cortejo vegetativo asociado, mareo o disnea).
+A la exploración física, la paciente se encuentra con relativo buen estado general, eupneica en reposo (satO2 basal 100%), bien perfundida, con una tensión arterial en torno a 180/83 mmHg, frecuencia cardiaca 45 lpm. La auscultación cardiaca es rítmica, sin soplos audibles. Sin datos de congestión (presión venosa yugular normal, murmullo vesicular conservado sin ruidos sobreañadidos, extremidades inferiores sin edema), y con pulsos conservados a todos los niveles.
+
+PRUEBAS COMPLEMENTARIAS
+ECG al ingreso: bloqueo auriculoventricular (BAV) completo con escape de QRS ancho con morfología de bloqueo de rama izquierda de has de His (BRIHH) a 50 lpm.
+Repolarización concordante con BRIHH.
+Radiografía de tórax: índice cardiotorácico normal, sin datos de congestión pulmonar ni otros hallazgos patológicos.
+Analítica al ingreso: hemograma: leucocitos 6.600/μl, hemoglobina 12,2 g/dl, plaquetas 227.000/μl. Coagulación: INR 1, TP 100%. Bioquímica: glucosa 164 mg/dl, urea 31 mg/dl, creatinina 0,89 mg/dl, filtrado glomerular 67 ml/min/1,73 m2, sodio 143 mEq/dl, potasio 3,5 mEq/dl, proBNP 3.664 pg/ml (al alta 314 pg/ml). Marcadores de daño miocárdico pico: CK 193 (10-195 UI/l), troponina US 194,8 (0-13 ng/l).
+Ecocardiograma transtorácico (ETT) (vídeos 1-5): ventrículo izquierdo no hipertrófico y de tamaño en el límite alto de la normalidad (DTDVI 52 mm, SIV 11 mm, PP 9 mm). Acinesia septal medio-apical, lateral medio-apical, anterior medio-apical y el resto de segmentos apicales, con hipercontractilidad de las bases y función sistólica global moderadamente deprimida (FE 35%). Ventrículo derecho de tamaño y función normal (TAPSE 21 mm, onda S 0.14 m/s). Válvula mitral con velos esclerosados e insuficiencia ligera. Conclusión: alteraciones segmentarias compatibles con síndrome de discinesia apical transitoria, con disfunción sistólica moderadamente deprimida.
+Estudio hemodinámico emergente: enfermedad coronaria de 1 vaso por una estenosis grave de pequeña 1a diagonal, con resto de vasos sin lesiones significativas (estenosis moderada en tercio medio de descendente anterior). Se realiza ventriculografía, en la que se observa una cámara ventricular dilatada, con acinesia de segmentos apicales e hipercontractilidad de segmentos basales, sugestivo de síndrome de tako-tsubo.
+Resonancia magnética nuclear (RMN) cardiaca: ventrículo izquierdo de tamaño normal (53 mm) con acinesia de la pared anterior apical, pared inferior apical y septo apical. Hipocinesia de la pared inferior basal y medio. Edema del septo medio, anterior medio, segmentos apicales excepto pared lateral y ápex de VI. No se identifican áreas de hipoperfusión ni zonas de realce tardío. FEVI 52%. VTD-VI: 91mL. VTS-VI: 44mL.
+VL-VI: 47 mL. Ventrículo derecho de tamaño normal sin anomalías en la contractilidad y morfología conservada. Aurículas de tamaño normal. Conclusión: estudio compatible con sospecha clínica de síndrome de tako-tsubo.
+
+EVOLUCIÓN CLÍNICA
+Ante la clínica y las alteraciones en el electrocardiograma, se procede al ingreso de la paciente en la unidad coronaria de nuestro servicio para completar estudios e iniciar medidas terapéuticas.
+Se realiza un ecocardiograma que demuestra alteraciones segmentarias compatibles con síndrome de discinesia apical transitoria, con disfunción sistólica moderadamente deprimida (FEVI 35%), y se decide realizar estudio hemodinámico emergente en el que se describe enfermedad coronaria de 1 vaso por una estenosis grave de pequeña 1a diagonal, con resto de vasos sin lesiones significativas (estenosis moderada en tercio medio de descendente anterior).
+Se realiza ventriculografía, en la que se observa una cámara ventricular dilatada, con acinesia de segmentos apicales e hipercontractilidad de segmentos basales, sugestivo de síndrome de tako-tsubo.
+En los siguientes días se completan los estudios con una RMN cardiaca consistente con el diagnóstico de discinesia apical transitoria, en la que ya se objetiva mejoría de la fracción de eyección del VI.
+Sin embargo, la paciente persiste en BAV completo tras 1 semana del debut, por lo que se decide implante de marcapasos definitivo DDDR.
+
+DIAGNÓSTICO
+Síndrome de discinesia apical transitoria. FEVI 52% al alta.
+BAV completo con ritmo de escape de QRS ancho.
+Implante de marcapasos DDDR.
+Enfermedad coronaria de 1 vaso: estenosis significativa de D1 (vaso de escaso calibre).

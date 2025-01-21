@@ -1,0 +1,49 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+No alergias medicamentosas conocidas.
+Factores de riesgo cardiovascular: tabaquismo y consumo de alcohol ocasional (muy baja carga). Niega otro consumo de tóxicos. No hipertensión arterial (HTA), no dislipemia, no diabetes mellitus.
+Antecedentes cardiológicos: sin historia cardiológica conocida, ni antecedentes de cardiopatía familiar ni muerte súbita en la familia.
+Intervenciones quirúrgicas: amigdalectomía.
+Sin tratamiento habitual.
+
+Enfermedad actual
+Paciente varón de 36 años de edad que acude a urgencias remitido desde su centro de salud por palpitaciones y síncope, objetivándose en electrocardiograma (ECG) taquicardia irregular de QRS ancho.
+El paciente refiere tras levantarse rápidamente del sofá, sensación de palpitaciones de inicio brusco, sin mareo inicial. Posteriormente, tras un minuto aproximadamente, acude al baño a orinar y tras la micción, refiere rápida sensación de mareo y caída al suelo, con recuperación espontánea de la consciencia (refiere 10 minutos aproximadamente de pérdida de consciencia, se encontraba solo en domicilio, sin testigos). Tras el episodio relata únicamente palpitaciones, negando dolor torácico, disnea u otra sintomatología. Ante la persistencia de las palpitaciones y tras recuperarse del síncope, decide consultar en su centro de salud, siendo remitido a nuestro centro. El paciente niega consumo de tóxicos. Refiere 4 episodios semejantes de palpitaciones relacionado con los esfuerzos físicos por los que nunca había consultado, autolimitados, sin presentar síncope.
+
+Exploración física
+A su llegada a Urgencias, buen estado general, normocoloreado y normohidratado, eupneico en reposo.
+Tensión arterial (TA) 147/68 mmHg. Frecuencia cardiaca (FC) 180-210 lpm. SpO2 (FiO2 21%) 99%.
+Exploración neurológica: consciente y orientado, alerta, colaborador. Sin focalidad neurológica.
+Auscultación cardiaca y pulmonar: ruidos irregulares taquicárdicos, sin soplos. Murmullo vesicular conservado (MVC), sin ruidos sobreañadidos.
+Abdomen blando, depresible, sin masas ni megalias. No doloroso a la palpación. No signos de irritación peritoneal.
+Miembros inferiores: sin edemas, sin signos de trombosis venosa profunda (TVP).
+
+
+PRUEBAS COMPLEMENTARIAS
+
+ECG:
+ECG inicial a su llegada a urgencias: taquicardia irregular de QRS ancho con respuesta ventricular aproximada entre 180-210 lpm. Ocasionalmente se aprecian latidos con QRS estrecho.
+ECG tras CVE: ritmo sinusal a 95 lpm, PR 100 ms, eje 60o, QRS 120 ms con onda delta positiva en cara inferior y de V3 a V5. Sin alteraciones de la repolarización. ECG al alta: ritmo sinusal 80 lpm. PR 150 msg. QRS estrecho sin alteraciones de la repolarización.
+
+Radiografía de tórax: índice cardiotorácico (ICT) dentro de la normalidad, no condensaciones ni derrame pleural, no signos de neumotórax.
+
+Analítica:
+Hemograma: hematíes 5.08 10*12/l, hemoglobina 15,6 g/dl, hematocrito 47%, leucocitos * 11,6 10*9/l, neutrófilos 50,5%, linfocitos 38,3 %, plaquetas 295 10*9/l.
+Bioquímica: glucosa * 111 mg/dl, sodio 139 mEq/l, potasio 3,6 mEq/l, cloro 102 mEq/l, GPT 39 U/l, urea 23,1 mg/dl, creatinina 0,87 mg/dl, proteína C reactiva 0,06 mg/dl.
+Hemostasia basal: tiempo de protrombina 10,3 seg; I. Quick 99; INR 1,02; TTPA 25,9 seg.
+Ecocardiograma: ventrículo izquierdo de diámetros y función global sistólica conservada. Ausencia de alteraciones de la contractilidad segmentaria en reposo. Insuficiencia mitral trivial. Raíz aórtica 36 mm, sin valvulopatías. Ventrículo derecho de tamaño y función conservados. Insuficiencia tricuspídea mínima que permite estimar PAPs aproximada de 30 mmHg. Vena cava inferior normal.
+Estudio electrofisiológico (EEF): ante sospecha por ECG de posible vía accesoria lateral izquierda, se accede por vía aórtica retrógrada y se localiza catéter de ablación en anillo mitral lateral, obteniéndose precocidades de hasta -10 ms con respecto onda delta y QS en unipolar, realizándose 3 aplicaciones de RF alcanzando hasta 56 oC de temperatura con cese de la conducción anterógrada y retrógrada de la vía. Con est. A programada (600/260) se induce taquicardia ortodrómica por otra vía accesoria posterior izquierda realizándose ablación durante taquicardia observándose cese de la misma con un V sin subir a A. Tras ello no se observa conducción retrógrada excéntrica ni se consigue inducir la taquicardia. El resultado se mantiene tras 20 min de espera por lo que se da por finalizado el procedimiento.
+
+
+EVOLUCIÓN CLÍNICA
+A su llegada a urgencias de nuestro centro, dada la clínica y el ECG del centro de salud, se traslada directamente a box de críticos. Se realiza ECG con persistencia de taquicardia irregular de QRS ancho y ante estabilidad hemodinámica y buena tolerancia clínica a la taquicardia, se decide cardioversión farmacológica con procainamida 200 mg i.v. sin cese de la taquicardia. Por lo que posteriormente se realiza sedación con 2 mg de midazolam y 6 mg de etomidato, y se lleva a cabo cardioversión eléctrica (CVE) con una descarga de 200 J, pasando a ritmo sinusal a 75 lpm. En ECG post-CVE se objetiva ritmo sinusal con PR corto con onda delta + en derivaciones inferiores y laterales.
+A la luz de los ECG se etiqueta el cuadro de fibrilación auricular preexcitada sincopal por lo que se decide ingreso en cardiología con monitorización continua para completar estudio y tratamiento.
+Durante su estancia en cardiología el paciente permanece asintomático y sin eventos arrítmicos en la monitorización. Se completaron estudios morfológicos con ecocardiograma transtorácico (ETT) que no mostró alteraciones significativas. Y se le explica al paciente la conveniencia de realizar ablación de la vía accesoria así como los riesgos de no hacerla aceptando dicho procedimiento. En el EEF se localizan 2 vías accesorias (lateral izquierda y posterior izquierda) y se realiza ablación efectiva de ambas.
+Ante la ausencia de complicaciones a las 24 horas tras el procedimiento, se procede al alta a domicilio con ECG sin signos de preexcitación.
+En los posteriores controles ambulatorios, el paciente ha permanecido asintomático y sin apreciarse preexcitación en los ECG de control.
+
+DIAGNÓSTICO
+Fibrilación auricular (FA) preexcitada sincopal.
+Ablación de vía accesoria lateral izquierda y posterior izquierda.
+Fracción de eyección del ventrículo izquierdo (FEVI) normal con insuficiencia mitral (IM) trivial.

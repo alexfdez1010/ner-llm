@@ -1,0 +1,24 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Factores de riesgo cardiovascular (FRCV): diabetes mellitus, exfumador, dislipemia. Linfoma difuso de células grandes B, tratado con quimioterapia hace 10 años, en remisión completa. Insuficiencia cardiaca crónica: miocardiopatía dilatada (MCD) no isquémica, FEVI 33%, hipocinesia generalizada.
+
+Enfermedad actual
+Varón de 63 años en seguimiento por la unidad de insuficiencia cardiaca de nuestro hospital por miocardiopatía dilata de etiología no isquémica. El paciente se encuentra en NYHA II, sin signos de congestión periférica.
+
+En los controles analíticos sucesivos desde la consulta, se evidencia ferropenia absoluta (ferritina 84 ng/ml y STAT 13%) y Hb de 13 g/dl. Función renal normal: creatinina 0,84 mg/dl, TFG 85,94 ml/min/1,73 m2, y Nt-proBNP 3.657 pg/ml. Se incluye al paciente en protocolo de estudio de ferropenia en pacientes con IC y FEVI reducida.
+
+Tratamiento crónico: insulina Toujeo 50 UI /día, metformina/empagliflozina 1000/12,5 mg/12 h, sacubitrilo/valsartán 49/51 mg/12 h, bisoprolol 5 mg/día, furosemida 40 mg/día y eplerenona 12,5 mg/día.
+
+PRUEBAS COMPLEMENTARIAS
+Como parte del protocolo del estudio, se realizaron las siguientes pruebas: Ecocardiograma basal: ventrículo izquierdo de diámetros normales (DTDVI 48 mm), sin hipertrofia de sus paredes y con severa depresión de la función global sistólica (FE 35%) secundaria a hipocinesia generalizada. Raíz aórtica de diámetro normal con sigmoideas de grosor y apertura normal. No se objetiva disfunción valvular. Válvula mitral con valvas de grosor y movilidad normal. Insuficiencia mitral trivial. Patrón diastólico de VI sugestivo de alteración de la relajación (E/A 0,7) con presiones de llenado estimadas normales (E/e' 9). Aurículas de tamaño normal. Ventrículo derecho no dilatado con función sistólica ligeramente deprimida. No se objetiva Insuficiencia tricuspídea (IT). Ausencia de derrame pericárdico. Strain global longitudinal (SGL) de -12,2%. Resonancia magnética cardiaca basal (RMC): ventrículo izquierdo con grosor de sus paredes conservado, volumen diastólico ligeramente aumentado (IVTDVI 97 ml/m2; IVTSVI 64 ml/m2) y función sistólica global severamente deprimida (FEVI 34%), secundario a hipoquinesia generalizada. Ventrículo derecho de morfología y volúmenes conservados (IVTDVD 75 ml/m2; IVTSVD 38 ml/m2) y función sistólica ligeramente deprimida (FEVD 49%). Aurícula izquierda de tamaño en el limite alto: 39 mm, 26 cm2, 15 cm2/m2. Aorta y grandes vasos de diámetros y morfología normales. Derrame pleural bilateral. T1 miocardio: 1082 ms. T2* miocardio: 35 ms. Electrocardiograma (ECG): ritmo sinusal a 95 lpm, PR 160 ms, QRS estrecho, eje normal. Extrasistolia auricular.
+
+EVOLUCIÓN CLÍNICA
+Se administró, según protocolo, 1.000 mg de hierro carboximaltosa intravenoso semanal (Ferinject ®) durante 2 semanas, y tras confirmar con analítica normalización del perfil férrico, se realizó nueva valoración estructural. RMC tras 4 semanas del tratamiento con hierro: ventrículo izquierdo con grosor de sus paredes y volumen diastólico conservado (IVTDVI 84 ml/m2; IVTSVI 48 ml/m2). Función sistólica global moderadamente deprimida (FEVI 43%), secundaria a hipoquinesia generalizada. Ventrículo derecho de morfología y volúmenes conservados (IVTDVD 65 ml/m2; IVTSVD 30 ml/m2) y función sistólica limite (FEVD 54%). Aurícula izquierda de tamaño normal: 34 mm, 23 cm2, 13 cm2/m2. Aorta y grandes vasos de diámetros y morfología normales. T1 miocardio: 1037 ms T2* miocardio: 38 ms. Se evidenció mejoría significativa de la fracción de eyección del VI estimada mediante RMC (FEVI 43 % a los 30 días), con disminución del T1 mapping hasta 1037 ms, indicando repleción miocárdica de hierro.
+
+Adicionalmente, se evidenció aumento del SGL hasta -19,1%. Estos cambios se acompañaron de mejoría en la calidad de vida, test de los 6 minutos y otros subrogados de la insuficiencia cardiaca.
+
+DIAGNÓSTICO
+Miocardiopatía dilatada con FEVI gravemente deprimida.
+Ferropenia absoluta.
+Repleción miocárdica de hierro tras tratamiento con hierro carboximaltosa (Ferinject).

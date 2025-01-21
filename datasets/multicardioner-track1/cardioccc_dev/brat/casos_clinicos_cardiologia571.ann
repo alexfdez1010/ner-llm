@@ -1,0 +1,47 @@
+T41	ENFERMEDAD 3710 3745	Válvula mitral con velos engrosados
+T87	ENFERMEDAD 110 133	alergias medicamentosas
+T88	ENFERMEDAD 145 155	exfumadora
+T89	ENFERMEDAD 201 244	obstrucción de la vena central de la retina
+T91	ENFERMEDAD 268 285	hemorragia vítrea
+T92	ENFERMEDAD 349 373	síndrome antifosfolípido
+T93	ENFERMEDAD 641 696	insuficiencia aórtica (IAo) moderada con estenosis leve
+T95	ENFERMEDAD 824 845	hipertensión pulmonar
+T96	ENFERMEDAD 1040 1067	descompensaciones cardiacas
+T97	ENFERMEDAD 1338 1380	insuficiencia mitral (IM) y aórtica graves
+T98	ENFERMEDAD 1395 1416	hipertensión pulmonar
+T99	ENFERMEDAD 1532 1553	hipertensión arterial
+T100	ENFERMEDAD 1555 1558	HTA
+T101	ENFERMEDAD 1596 1609	plaquetopenia
+T102	ENFERMEDAD 1707 1710	HTA
+T103	ENFERMEDAD 1795 1808	plaquetopenia
+T104	ENFERMEDAD 1903 1915	preeclampsia
+T105	ENFERMEDAD 1951 1975	síndrome antifosfolípido
+T108	ENFERMEDAD 3130 3154	insuficiencia renal leve
+T109	ENFERMEDAD 3678 3687	IAo grave
+T110	ENFERMEDAD 3694 3708	estenosis leve
+T111	ENFERMEDAD 4050 4075	insuficiencia tricuspídea
+T112	ENFERMEDAD 4090 4111	hipertensión pulmonar
+T113	ENFERMEDAD 4117 4136	derrame pericárdico
+T114	ENFERMEDAD 4448 4466	neumonía bilateral
+T115	ENFERMEDAD 4468 4498	Leve derrame pleural bilateral
+T116	ENFERMEDAD 4624 4648	tromboembolismo pulmonar
+T117	ENFERMEDAD 4969 4987	neumonía bilateral
+T118	ENFERMEDAD 5352 5385	insuficiencia cardiaca (IC) aguda
+T119	ENFERMEDAD 5376 5378	IC
+T120	ENFERMEDAD 5797 5819	insuficiencia cardiaca
+T121	ENFERMEDAD 6039 6066	insuficiencia aórtica grave
+T122	ENFERMEDAD 6071 6106	insuficiencia mitral moderada-grave
+T125	ENFERMEDAD 6413 6425	Preeclampsia
+T126	ENFERMEDAD 6427 6451	hipertensión gestacional
+T127	ENFERMEDAD 6491 6512	Edema agudo de pulmón
+T128	ENFERMEDAD 6529 6566	insuficiencia mitral y aórtica graves
+T129	ENFERMEDAD 6589 6613	Síndrome antifosfolípido
+T130	ENFERMEDAD 6674 6695	episodios trombóticos
+T90	ENFERMEDAD 664 667	IAo
+T131	ENFERMEDAD 847 849	HP
+T62	ENFERMEDAD 1360 1362	IM
+T12	ENFERMEDAD 3864 3881	IM moderada-grave
+T45	ENFERMEDAD 6477 6488	trombopenia
+T139	ENFERMEDAD 3527 3573	Válvula aórtica trivalva, con velos engrosados
+T152	ENFERMEDAD 6146 6195	descompensación que presentó durante el puerperio
+T175	ENFERMEDAD 4654 4696	sobrecarga de cavidades cardiacas derechas

@@ -1,0 +1,62 @@
+T36	ENFERMEDAD 4479 4508	ventrículo izquierdo dilatado
+T46	ENFERMEDAD 75 83	alergias
+T47	ENFERMEDAD 204 212	obesidad
+T48	ENFERMEDAD 291 301	Hipertenso
+T49	ENFERMEDAD 329 339	Dislipemia
+T50	ENFERMEDAD 368 397	Diabetes mellitus (DM) tipo 2
+T51	ENFERMEDAD 505 526	retinopatía diabética
+T52	ENFERMEDAD 529 549	nefropatía diabética
+T53	ENFERMEDAD 551 590	Enfermedad pulmonar obstructiva crónica
+T54	ENFERMEDAD 592 596	EPOC
+T55	ENFERMEDAD 607 643	síndrome de apnea hipopnea del sueño
+T56	ENFERMEDAD 645 649	SAHS
+T57	ENFERMEDAD 811 844	fibrilación auricular persistente
+T58	ENFERMEDAD 856 875	taquicardiomiopatía
+T59	ENFERMEDAD 2526 2551	trombosis venosa profunda
+T60	ENFERMEDAD 2553 2556	TVP
+T61	ENFERMEDAD 3893 3914	fibrilación auricular
+T62	ENFERMEDAD 3944 3987	trastornos secundarios de la repolarización
+T63	ENFERMEDAD 4084 4105	crecimiento auricular
+T64	ENFERMEDAD 4147 4190	Trastorno de la conducción intraventricular
+T65	ENFERMEDAD 4391 4413	insuficiencia cardiaca
+T66	ENFERMEDAD 4830 4843	valvulopatías
+T67	ENFERMEDAD 4864 4883	derrame pericárdico
+T68	ENFERMEDAD 4902 4945	arterias coronarias con ateromatosis difusa
+T69	ENFERMEDAD 6286 6314	fibrilación auricular rápida
+T70	ENFERMEDAD 6326 6345	taquicardiomiopatía
+T71	ENFERMEDAD 6718 6727	diabético
+T72	ENFERMEDAD 6759 6778	síndrome metabólico
+T73	ENFERMEDAD 6780 6788	obesidad
+T74	ENFERMEDAD 6808 6833	enfermedad cardiovascular
+T75	ENFERMEDAD 7529 7551	insuficiencia cardiaca
+T76	ENFERMEDAD 7609 7638	ventrículo izquierdo dilatado
+T77	ENFERMEDAD 7944 7957	valvulopatías
+T78	ENFERMEDAD 7978 7997	derrame pericárdico
+T79	ENFERMEDAD 8019 8062	arterias coronarias con ateromatosis difusa
+T80	ENFERMEDAD 8138 8161	miocardiopatía dilatada
+T81	ENFERMEDAD 8404 8425	fibrilación auricular
+T82	ENFERMEDAD 8546 8565	síndrome metabólico
+T83	ENFERMEDAD 8572 8589	diabetes mellitus
+T84	ENFERMEDAD 9529 9532	ERC
+T85	ENFERMEDAD 9643 9663	nefropatía diabética
+T86	ENFERMEDAD 10088 10112	Diabetes mellitus tipo 2
+T87	ENFERMEDAD 10133 10152	Síndrome metabólico
+T88	ENFERMEDAD 10154 10176	Insuficiencia cardiaca
+T89	ENFERMEDAD 10196 10219	Miocardiopatía dilatada
+T90	ENFERMEDAD 10276 10295	taquicardiomiopatía
+T91	ENFERMEDAD 10307 10340	Fibrilación auricular persistente
+T92	ENFERMEDAD 10419 10459	Enfermedad renal crónica estadio IIIb A2
+T93	ENFERMEDAD 4802 4824	Dilatación biauricular
+T94	ENFERMEDAD 7916 7938	Dilatación biauricular
+T95	ENFERMEDAD 235 249	Fumador activo
+T96	ENFERMEDAD 4479 4508	ventrículo izquierdo dilatado
+T97	ENFERMEDAD 387 389	DM
+T161	ENFERMEDAD 9425 9438	función renal
+T210	ENFERMEDAD 9571 9581	diabéticos
+T34	ENFERMEDAD 4565 4613	disfunción sistólica ventricular izquierda grave
+T40	ENFERMEDAD 7679 7727	disfunción sistólica ventricular izquierda grave
+T101	ENFERMEDAD 8202 8204	FA
+T129	ENFERMEDAD 10251 10253	FA
+#1	AnnotatorNotes T56	 síndrome de apnea hipopnea del sueño
+#2	AnnotatorNotes T84	 enfermedad renal crónica
+#3	AnnotatorNotes T97	 diabetes mellitus

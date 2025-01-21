@@ -1,0 +1,29 @@
+T28	ENFERMEDAD 125 161	Miocardiopatía dilatada no isquémica
+T29	ENFERMEDAD 166 196	disfunción biventricular grave
+T30	ENFERMEDAD 256 287	insuficiencia cardiaca avanzada
+T31	ENFERMEDAD 2208 2233	trombosis venosa profunda
+T32	ENFERMEDAD 2696 2717	aneurisma ventricular
+T33	ENFERMEDAD 4087 4107	esteatosis parcheada
+T34	ENFERMEDAD 6881 6904	miocardiopatía dilatada
+T35	ENFERMEDAD 6922 6952	disfunción biventricular grave
+T36	ENFERMEDAD 17 40	alergias medicamentosas
+T37	ENFERMEDAD 625 660	FA con respuesta ventricular rápida
+T38	ENFERMEDAD 352 354	FA
+T39	ENFERMEDAD 2314 2316	FA
+T40	ENFERMEDAD 2412 2425	cardiomegalia
+T41	ENFERMEDAD 2772 2810	aurícula izquierda gravemente dilatada
+T42	ENFERMEDAD 3072 3131	Válvula mitral fina con buena movilidad y con regurgitación
+T43	ENFERMEDAD 3183 3230	Válvula aórtica fina trivalva con regurgitación
+T44	ENFERMEDAD 3275 3302	Ventrículo derecho dilatado
+T45	ENFERMEDAD 3443 3476	Regurgitación tricúspide moderada
+T46	ENFERMEDAD 4274 4285	hepatitis C
+T47	ENFERMEDAD 4300 4311	hepatitis A
+T48	ENFERMEDAD 4337 4348	hepatitis B
+T49	ENFERMEDAD 4451 4462	parotiditis
+T50	ENFERMEDAD 4464 4471	rubeola
+T51	ENFERMEDAD 4473 4482	sarampión
+T52	ENFERMEDAD 4691 4698	sífilis
+T53	ENFERMEDAD 6968 6982	FA persistente
+T110	ENFERMEDAD 108 123	hábitos tóxicos
+T12	ENFERMEDAD 2358 2388	hemibloqueo anterior izquierdo
+T120	ENFERMEDAD 4505 4514	varicella

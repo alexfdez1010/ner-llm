@@ -1,0 +1,23 @@
+Nos encontramos ante un varón de 26 años que acude al Servicio de Urgencias por disnea. 
+
+Antecedentes, enfermedad actual y exploración física
+Antecedentes personales: Alérgico a AAS (desarrollo de urticaria y angioedema). Fumador de 1 paq/día, ocasionalmente marihuana. No otros hábitos tóxicos. Miocarditis vírica hace unos diez años, diagnosticada en Colombia. Ingreso el mes previo en Cardiología por disnea, siendo diagnosticado de ACFA rápida e IC, solicitando el alta voluntaria sin completar estudio.
+
+Tratamiento habitual: Digoxina (1.0.0), Acovil 5 (1.0.0), Seguril (1.1.0) que el paciente refiere no tomar. Enfermedad actual: Cuadro de disnea progresiva de 3-4 semanas de evolución, que en los últimos días se ha hecho de mínimos esfuerzos junto con ortopnea, tos y sensación distérmica no termometrada. Niega dolor torácico, palpitaciones u otra sintomatología organotópica acompañante. 
+
+Exploración general: TA 104/72 mm Hg, FC 176 lpm, Ta 36,7 oC, Sat02 basal 94%. El paciente está consciente, orientado, bien hidratado y perfundido, normocloreado y eupneico en reposo. C y C: No IY. AC: Arrítmica, soplo pansistólico en foco mitral, con 3er ruido. AP: Crepitantes bibasales. Abdomen: Blando, depresible, no doloroso a la palpación, ruidos presentes. No hepato ni esplenomegalia. No peritonismo. EEII: No edemas ni signos de TVP. Pulsos pedios presentes y simétricos.
+
+Pruebas complementarias
+• ECG: ACFA de onda gruesa a 170-180 lpm. Eje a-60o. Resto del trazado normal.
+• Rx de tórax: Cardiomegalia ++, con AI aneurismática. No condensaciones evidentes. Patrón intersticial.
+• Analítica: Bioquímica y hematimetría normales. INR 1,07. Serología de Chagas: Negativa. Tóxicos en orina: Positivo a Cannabis.
+• Ecocardiografía: VI severamente dilatado, con aumento de los espesores parietales, y aumento de la trabeculación, sobre todo de los segmentos medioapicales de todo el ventrículo, respetando los segmentos basales, siendo muy severa la trabeculación en todo el ápex (se confirman los hallazgos tras la administración de contraste ecocardiográfico). Disfunción sistólica severa (FE por Simpson biplano 27%). DTD: 66; DTS: 55. AI aneurismática (80 mm). Válvula mitral fibrosa y engrosada con IM severa dirigida hacia pared posterolateral de VI, secundaria a dilatación anular y tenting con pseudoprolapso de velo anterior. Válvula aórtica trivalva normofuncionante. Cavidades derechas ligeramente dilatadas. VD con disfunción moderada-severa (TAPSE de 14 mm y onda S de anillo tricuspide de 6 cm/s). IT leve con gradiente VD-AD de 40 (PSAP estimada de 60 ya que la vena cava inferior es de 26 mm, sin colapso inspiratorio). Ligero derrame pericárdico.
+• Resonancia magnética: VI severamente dilatado con disfunción sistólica global y segmentaria severamente deprimida con hipocinesia difusa conservada. FE: 29%. Ausencia de compactación excepto en segmentos basales y septo medial con una relación de miocardio no compactado/ miocardio compactado superior a 3:1 A nivel de la cara apical lateral, hallazgos compatible con miocardiopatía no compactada. No se demuestra afectación de VD. No se visualizan trombos. Adelgazamiento del miocardio compactado en los segmentos afectados especialmente en cara anterior media con un espesor en fase telediastólica de 4 mm. Severa dilatación de aurícula izquierda. Insuficiencia mitral que parece significativa. Pequeño derrame pericárdico. VD no dilatado con disfunción moderada. FE 31%. En la secuencias de realce tardío no se aprecian captaciones patológicas.
+
+Evolución clínica
+El paciente es diagnosticado de miocardiopatía no compactada con disfunción severa de VI. Se inicia tratamiento médico con diuréticos, IECAs, betabloqueantes, inhibidores de la aldosterona y anticoagulantes orales, con rápida mejoría clínica. Tras completar estudio, se decide alta domiciliaria con el tratamiento arriba descrito, con citas posteriores en consultas de Insuficiencia Cardiaca de nuestro hospital. Se contacta con los familiares de primer grado para realizar estudio estructural, mediante ecocardiografía y genético.
+
+Diagnóstico
+• Miocardiopatía no compactada con disfunción sistólica severa de ventrículo izquierdo
+• Insuficiencia mitral severa
+• Fibrilación auricular con respuesta ventricular rápida

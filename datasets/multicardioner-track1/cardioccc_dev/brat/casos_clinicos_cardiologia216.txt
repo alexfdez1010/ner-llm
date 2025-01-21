@@ -1,0 +1,71 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Factores de riesgo cardiovascular (FRCV): dislipidemia sin tratamiento, sobrepeso grado 2.
+Antecedentes cardiológicos: hace 11 años se realizó un ecocardiograma que no mostró alteraciones durante un ingreso por neumonía.
+
+Otros antecedentes:
+Hepatopatía crónica por virus hepatitis C genotipo 1, no respondedora a terapia con interferón y ribavirina.
+Se inició tratamiento con ledipasvir y sofosbuvir con previa retirada de omeprazol de su tratamiento habitual para evitar interacción.
+Hace 2 meses terminó tratamiento, totalmente asintomática, con respuesta viral sostenida.
+Sarcoidosis sistémica secundaria a tratamiento con interferón, que fue tratada con corticoides e interrupción de la terapia con interferón, sin actividad actualmente.
+Tratamiento habitual: omeprazol 20 mg 1, comprimido al día.
+
+Enfermedad actual
+Paciente mujer de 74 años en seguimiento por consultas externas de hepatología por infección por VHC crónica.
+En un control en consultas externas de hepatología (a los 2 meses de terminar tratamiento con antiVHC), la paciente refiere deterioro de clase funcional hasta disnea de esfuerzos moderados, con ortopnea de dos almohadas, edematización periférica y disminución subjetiva de volumen de diuresis diario, motivo por el cual se realiza interconsulta a cardiología.
+No refiere dolor torácico en reposo ni con esfuerzos, no episodios presincopales ni clínica infecciosa por aparatos.
+En consultas externas de cardiología se realiza anamnesis, acorde a la anterior; y se solicita NT- proBNP y ecocardiograma transtorácico que evidencia miocardiopatía dilatada con disfunción ventricular izquierda grave.
+Se inicia tratamiento con sacubitrilo/valsartán 24/26 mg cada 12 horas, bisoprolol 2,5 mg al día, furosemida 40 mg 1 comprimido cada 12 horas y atorvastatina/ezetimiba 80/10 mg al día.
+Debido a datos de anemia ferropénica estando en situación de insuficiencia cardiaca (IC) descompensada, se inicia tratamiento con hierro carboximaltosa IV en 15 minutos cada dosis (1.500 mg en total; 1.000 mg en la primera semana y 500 mg en la siguiente semana).
+Se solicita resonancia magnética (RM) cardiaca y se cita de nuevo en un mes.
+
+Exploración física
+Consciente y orientada en las tres esferas, normohidratada, palidez cutáneo-mucosa, buen estado general.
+Tensión arterial 107/65 mmHg, frecuencia cardiaca 75 lpm, Saturación O2 98% aire ambiente, temperatura 36,3 oC.
+Auscultación cardiaca: regular, tercer ruido, sin soplos. Auscultación pulmonar: murmullo vesicular conservado (MVC), crepitantes húmedos bibasales.
+Extremidades: edemas tibiomaleolares con fóvea, sin signos de trombosis venosa profunda (TVP).
+
+PRUEBAS COMPLEMENTARIAS
+Radiografía de tórax AP: signos de congestión venosa, con infiltrado intersticial perihiliar, no pinzamiento de senos costofrénicos, índice cardiotorácico (ICT) no valorable por proyección.
+Electrocardiograma (ECG): RS a 75 lpm, PR 160 ms, QRS 100 ms, Eje 0o, criterios de HVI (Sokolov-Lyon), ondas T aplanadas en V5-V6, aVL
+
+Analítica sanguínea:
+Hemograma: hematíes 4,52 10*12/l. Hemoglobina 9,6 g/dl. Hematocrito 32,8%. VCM 77,3 fl. HCM 22,1 pg. CHCM 26,4 g/dl. ADE 14%. Leucocitos 6,8 10*9/l. Neutrófilos 3,3 10*9/l. Linfocitos 2,9 10*9/l. Monocitos 0,4 10*9/l. Eosinófilos 0,2 10*9/l. Basófilos 0,1 10*9/l. Plaquetas 280 10*9/l.
+Hemostasia: tiempo de protrombina (TP) 11,1 seg. Índice de Quick 100%. INR 0,97. TTPA 26,9 seg. Ratio (TTPA) 0,9. Fibrinógeno derivado 311 mg/dl.
+Bioquímica: glucosa 105 mg/d. Sodio 141 mEq/l. Potasio 5 mEq/l. Cloro 103 mEq/l. Birrubina total 0,54 mg/dl. Aspartato aminotransferasa GOT 26 U/l. Alanina aminotranferasa GPT 13 U/l. Fosfatasa alcalina 73 U/. Gammaglutamil transferasa 13 U/l.
+Creatinina 0,94 mg/dl. FG estimado CKD-EPI 60,8 ml/min/1,73 m. Ácido úrico 4,8 mg/dl.
+Proteínas 7,2 g/dl. Creatin fosfokinasa 119 U/l.
+Perfil férrico: ferritina 54 μg/l. Hierro 94 μg/dl. Capacidad total fijación Fe 371 ug/dl. Índice saturación transferrina 12,3%. Capacidad latente fijación Fe 277 ug/dl.
+Marcadores inmunológicos: factor reumatoide 9 U/ml. Proteína C reactiva 0,0 mg/dl. Lactato deshidrogenasa 374 U/l. Enzima conversora angiotensina 60 U/l.
+Marcadores de congestión: NT-proBNP 3407 pg/ml. Ag. Carbohidrato 125 (CA125) 107 UI/ml.
+Perfil lipídico: colesterol total 319 mg/dl. Triglicéridos 90 mg/dl. Colesterol HDL 72 mg/dl. Colesterol LDL 229 mg/dl. Colesterol total/HDL 4,4.
+Hormonas: tirotropina (TSH) 1,77 uUI/ml.
+Calciuria 24 horas: en límites de la normalidad.
+
+Ecocardiografía transtorácica (ETT): ventrículo izquierdo (VI) gravemente dilatado con disfución sistólica grave (FEVI 30%) por hipocinesia global. Aurículas de tamaño normal. Insuficiencia mitral ligera central funcional. Válvula aórtica sin hallazgos de interés. Ventrículo derecho (VD) ligeramente dilatado a nivel basal con contractilidad conservada. IT trivial con PAPs 25 mmHg. Vena cava inferior no dilatada.
+
+RM cardiaca (vídeos 2, 3, 4 y 5): volúmenes del VI en el límite superior de la normalidad (IVTDVI = 93 l/m; IVTSVI = 52 ml/m) con hipertrofia excéntrica (IMVI = 84 g/m) y función sistólica moderadamente deprimida (FEVI = 44%). Hipoquinesia ligera generalizada. Ausencia de edema miocárdico. Volúmenes VD normales (IVTDVD = 69 ml/m2; IVTSVD = 26 ml/m2) con función sistólica normal (FEVD = 62%). Aurículas y grandes vasos de tamaño normal. Resistencias pulmonares dentro de valoras normales (2,6 U. Wood). Perfusión de primer paso en reposo con gadolinio e.v. - gadoterato de meglumina 0,15 mmol/kg - sin complicaciones. Ausencia de defectos de perfusión significativos. Realce tardío de gadolinio focal en el septo inferior medial en la intersección con el ventrículo derecho. Aunque no se puede descartar que sea una pequeña necrosis puesto que también afecta al subendocardio, también podría tratarse de una lesión focal sarcoidea. En resumen: hallazgos de miocardiopatía dilatada (MCD) de origen incierto, probablemente no isquémica aunque presenta una lesión focal compatible con necrosis vs lesión sarcoidea.
+
+Cateterismo: dominancia derecha. Árbol coronario sin lesiones angiográficamente significativas.
+
+TC pulmonar de alta resolución: estructuras mediastínicas centradas con pequeño ganglio paratraqueal derecho que no supera el centímetro diámetro máximo, sin apreciar crecimientos ganglionares reseñables en los hilios ni en huecos axilares. No derrames pleural o pericárdico. No se evidencian nódulos, masas o infiltrados intraparenquimatosos pulmonares. Árbol traqueobronquial principal libre.
+RM cardiaca (control en 6 meses): VI de volúmenes normales (VTD 70 ml/m , VTS 34 ml/m , IMVI 74 g/m2) sin hipertrofia significativa de sus paredes ni alteraciones de la contractilidad segmentaria en reposo y con función global sistólica levemente deprimida (FEVI 51%).
+Movimiento anómalo septal. VD no dilatado (VTD 66 ml/m, VTS 25 ml/m ) con función global sistólica conservada (FEVD 62%). Aorta y grandes vasos de diámetros y morfología normales. Aurículas de dimensiones normales. Resistencias vasculares pulmonares normales (vel. media pulmonar 14,3 cm/seg). Se compara con exploración de agosto 2017 y destaca mejoría de los volúmenes de VI, así como de la FEVI.
+
+EVOLUCIÓN CLÍNICA
+Siguiendo con el estudio de la disfunción ventricular izquierda detectada a nivel ambulatorio, se realiza RM cardiaca 3 semanas después de la consulta evidenciándose mejoría de la función ventricular, siendo la disfunción moderada y se realiza cateterismo (por la imagen de realce tardío de gadolinio sugestiva de necrosis) que no muestra lesiones angiográficas significativas.
+La paciente no refiere clínica catarral ni de otro tipo, previa al proceso actual sugerente de pródromos de miocarditis. Únicamente ha coincidido en el tiempo la introducción y finalización de antivirales contra el VHC.
+Ante los hallazgos de realce tardío de gadolinio que pudieran explicarse parcialmente por sarcoidosis en una paciente con antecedentes de sarcoidosis iatrogénica secundaria a uso de interferón, se realiza TC pulmonar de alta resolución que no evidencia datos sugestivos de sarcoidosis pulmonar o adenopática, ni datos analíticos de actividad (ECA, calciuria o elevación de reactantes de fase aguda).
+Se realiza búsqueda bibliográfica acerca de cardiotoxicidad por antivirales directos contra el VHC. Aunque en la ficha técnica no se hace referencia a miocarditis tóxica, se encuentran artículos en referencia a toxicidad por fármacos que actúan en las mismas dianas y que fueron retirados de ensayos clínicos, empeoramiento destrain longitudinal global reversible tras sofosbuvir y exclusión de pacientes cardiópatas y sin controles adecuados (con ecocardiografía) de seguridad cardiovascular en los ensayos pivotales de fármacos antivirales contra el VHC. Debido a ello se atribuye la disfunción ventricular izquierda al uso de antivirales contra el VHC.
+Tras iniciar el tratamiento la paciente se encuentra asintomática, sin disnea para actividades de la vida diaria.
+Se solicita RM cardiaca de control a los 6 meses, mostrando normalización de volúmenes del ventrículo izquierdo sin hipertrofia y mejoría de la función del ventrículo izquierdo, quedando una leve disfunción.
+Posteriormente, en controles ecocardiográficos hasta la actualidad se ha normalizado la FEVI y presenta diámetros en el límite superior de la normalidad.
+El estudio de la anemia ferropénica mostró en la colonoscopia tres pólipos en colon derecho que se extirparon sin hallazgos histopatológicos significativos.
+En resumen, se trata del caso de una disfunción ventricular izquierda grave secundaria a miocardiopatía dilatada reversible. Aunque los hallazgos podrían explicarse por una miocarditis pasada asintomática, consideramos más probable la posibilidad de que se trate de una miocarditis tóxica relacionada con antivirales directos contra el VHC, patología poco estudiada en nuestro medio, y con fármacos de amplio uso en nuestro sistema sanitario.
+
+DIAGNÓSTICO
+Miocardiopatía dilatada no isquémica con disfunción ventricular izquierda grave, recuperada.
+Sospecha de miocarditis tóxica por antivirales VHC.
+Anemia ferropénica secundaria a pólipos colónicos.
+Dislipidemia.

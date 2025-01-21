@@ -1,0 +1,37 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 53 años sin reacciones alérgicas medicamentosas conocidas.
+
+Antecedentes
+Antecedentes familiares: muerte súbita durante el sueño de abuelo materno a los 70 años y de un tío materno a los 50 años, también durante el sueño. Hija con QT largo en ECG basal e hijo con miocardiopatía hipertrófica fenotipo incipiente.
+
+Antecedentes personales:
+No hábitos tóxicos, ni hipertensión arterial (HTA), ni diabetes, ni dislipemia.
+Miocardiopatía hipertrófica no obstructiva: diagnóstico casual en otro centro a raíz de iniciar estudio por palpitaciones. Fenotipo con hipertrofia asimétrica septal, con espesor máximo de 18 mm en septo anterior basal, gradiente máximo de 15 mmHg, FEVI 65% y tenue fibrosis mesocárdica en zonas de hipertrofia y en punto de inserción inferior de VD en RM cardiaca. Holter: ritmo sinusal con una frecuencia cardiaca media de 60 lpm, extrasistolia supraventricular anecdótica con una salva de TSV de 4 latidos, extrasistolia ventricular anecdótica con un triplete nocturno a 90 lpm, sin otros eventos. Ergometría en la que realiza 8.8 METS, clínicamente negativa, electrocardiográficamente positiva desde el minuto 5 (descenso del ST de pendiente ascendente en II, III, aVF, V5 y V6 de hasta 1,5 mm, que persiste al minuto 2 de la recuperación, cediendo espontáneamente), con descenso de la tensión arterial en el máximo esfuerzo, aunque asintomática.
+Solapamiento con síndrome de QT largo (SQTL).
+Estudio genético: no se identifica ninguna variante patogénica/probablemente patogénica relacionada con miocardiopatía hipertrófica. Sí se identifica una variante probablemente patogénica en KCNQ1 compatible con SQTL tipo 1, confirmada también en su hija.
+Otros: fibromialgia, lumbalgia crónica.
+Intervenciones quirúrgicas: histerectomía y doble anexectomía por metrorragia.
+Tratamiento habitual: propanolol 10 mg cada 8 horas, duloxetina 60 mg cada 24 horas.
+
+Enfermedad actual
+La paciente es remitida desde otro centro por presentar, la noche anterior, episodio de pérdida de consciencia, estando en la cama, presenciado por su marido, que refiere ronquido, eversión ocular y espasmo tónico que dura unos segundos, por el que no consulta. A la mañana siguiente presenta opresión precordial por lo que acude a urgencias, donde se objetiva fibrilación auricular con respuesta controlada, que revierte espontáneamente a bradicardia sinusal con cese completo de la opresión precordial. Refiere palpitaciones casi diarias de pocos minutos de duración, sin relación con los esfuerzos, desde hace 2 años, así como disnea de moderados esfuerzos.
+
+Exploración física
+Tensión arterial (TA) 120/80 mmHg; frecuencia cardiaca (FC) 55 lpm. Buen estado general. Consciente y orientada, eupneica, bien perfundida.
+Auscultación cardiaca: rítmica, sin soplos en reposo ni con maniobras de Valsalva. Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos. Miembros inferiores: no edemas ni signos de trombosis venosa profunda, pulsos presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+ECG basal: bradicardia sinusal a 50 lpm, PR normal, QRS estrecho con eje normal, onda T bifásica (con predominio del componente negativo) en III, aVF, V4 y V5, mellada en V2 y V3. QTc 511 ms.
+Analítica: hemoglobina 12,9 g/dl, leucocitos 6.370/μl, plaquetas 191.000 /μl, HbA1C 5,5%, colesterol total 190 mg/dl, HDL 40 mg/dl, LDL 110 mg/dl, triglicéridos 130 mg/dl, creatinina 0,63 mg/dl, filtrado glomerular > 90 ml/min, sodio 142 mmol/l, potasio 4,8 mmol/l, PCR 1,1 mg/l, TSH 2,13 μUI/ml, troponina I (hs-TnI) 10, CK 50 U/l.
+Ecocardiograma transtorácico: ventrículo izquierdo de tamaño normal con hipertrofia septal grave asimétrica (SIVd 18 mm; PPd 13 mm) que genera aceleración en tracto de salida de VI sin obstrucción significativa ni basal ni con Valsalva (gradiente máximo 15 mmHg). Función sistólica global conservada sin alteraciones segmentarias de la contractilidad (FEVI 65%). Patrón diastólico compatible con alteración de la relajación. Aurícula izquierda moderadamente dilatada (área 30 cm2). FEVD conservada. Válvula mitral con buena apertura e insuficiencia mitral (IM) ligera. No se aprecia SAM. Válvula aórtica mal visualizada que impresiona de trivalva sin flujos patológicos. Válvula tricúspide mal visualizada que impresiona de normal sin insuficiencia tricuspídea (IT) que permita estimar presión sistólica de la arteria pulmonar (PSAP). Sin datos indirectos de hipertensión pulmonar (HTP). Vena cava inferior no dilatada con adecuado colapso inspiratorio. Raíz aórtica de tamaño normal con ligera dilatación de aorta ascendente tubular (40 mm), con arco aórtico no dilatado. No derrame pericárdico.
+Radiografía de tórax posimplante: desfibrilador automático implantable (DAI) bicameral (electrodos AD y VD normoinsertos), grapas quirúrgicas, índice cardiotorácico dentro de la normalidad, parénquima pulmonar sin alteraciones, no signos de neumotórax.
+Electrocardiograma (ECG) al alta: actividad auricular estimulada por marcapasos a 60 lpm, QRS estrecho con eje normal, onda T bifásica en III, aVF, V4 y V5, mellada en V2. QTc 480 ms.
+
+EVOLUCIÓN CLÍNICA
+Se trata de una paciente con diagnóstico previo de miocardiopatía hipertrófica no obstructiva solapada con síndrome de QT largo tipo 1 que ha presentado un síncope de perfil cardiogénico bajo tratamiento betabloqueante. Dado que la paciente presenta un HCM Risk-SCD de 3,52% (bajo riesgo a 5 años), el perfil nocturno del síncope y los antecedentes familiares de muerte súbita (MS) nocturna, parece probable que el evento sincopal esté en relación con el síndrome de QT largo tipo 1 más que con su miocardiopatía hipertrófica. Ante la presencia de síncope cardiogénico bajo tratamiento betabloqueante se decide implante de DAI. Teniendo en cuenta el diagnóstico de miocardiopatía hipertrófica y ante el hallazgo de fibrilación auricular paroxística no documentada previamente se inicia tratamiento anticoagulante. Se realiza implante de DAI bicameral sin incidencias, quedando programado en modo DAI DDDR, a una frecuencia de estimulación de 60 lpm.
+
+DIAGNÓSTICO
+Síncope de perfil cardiogénico.
+Miocardiopatía hipertrófica no obstructiva solapada con síndrome de QT largo tipo 1 (variante probablemente patogénica en KCNQ1).
+Fibrilación auricular paroxística sintomática (angor hemodinámico en relación a respuesta ventricular rápida).
+Implante de DAI bicameral.

@@ -1,0 +1,25 @@
+T83	ENFERMEDAD 128 136	obesidad
+T84	ENFERMEDAD 148 175	insuficiencia aórtica grave
+T85	ENFERMEDAD 605 619	hipotiroidismo
+T86	ENFERMEDAD 1769 1794	trombosis venosa profunda
+T88	ENFERMEDAD 2464 2473	trombosis
+T89	ENFERMEDAD 2569 2623	síndrome coronario agudo sin elevación del segmento ST
+T90	ENFERMEDAD 2625 2632	SCASEST
+T91	ENFERMEDAD 4064 4083	valvulopatía mitral
+T92	ENFERMEDAD 4254 4263	estenosis
+T93	ENFERMEDAD 4335 4360	insuficiencia tricuspídea
+T94	ENFERMEDAD 4362 4364	IT
+T95	ENFERMEDAD 4426 4445	derrame pericárdico
+T96	ENFERMEDAD 4514 4552	trombosis de prótesis mecánica aórtica
+T97	ENFERMEDAD 4577 4583	trombo
+T98	ENFERMEDAD 6158 6201	embolismo en coronaria descendente anterior
+T99	ENFERMEDAD 6364 6422	disección aórtica y/o de tronco braquiocefálico y carótida
+T100	ENFERMEDAD 6925 6932	SCASEST
+T101	ENFERMEDAD 6936 6955	embolismo coronario
+T102	ENFERMEDAD 7701 7748	Infarto agudo de miocardio sin elevación del ST
+T103	ENFERMEDAD 7781 7835	embolismo a nivel de la coronaria descendente anterior
+T104	ENFERMEDAD 7856 7887	accidente isquémico transitorio
+T110	ENFERMEDAD 4619 4625	trombo
+T112	ENFERMEDAD 5495 5541	disección a lo largo de la aorta ni de sus TSA
+T141	ENFERMEDAD 5079 5104	lesiones ateroscleróticas
+T70	ENFERMEDAD 7027 7083	liberar un pequeño émbolo hasta la circulación coronaria

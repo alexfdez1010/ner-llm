@@ -1,0 +1,34 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Presentamos el caso de una paciente de 80 años, autónoma y sin deterioro cognitivo. Tenía antecedentes de hipertensión en tratamiento con lisinopril/hidroclorotiazida 20/12,5 mg diarios; diabética tipo 2 con buen control metabólico y sin complicaciones micro ni macrovasculares bajo tratamiento con metformina 1.000 mg/sitagliptina 50 mg en desayuno y cena; y dislipemia en tratamiento con simvastatina 20 mg en la cena.
+Además, padece un adenocarcinoma colorrectal estadio IV con metástasis pulmonares (debut metastásico en 2015) en tratamiento de tercera línea con binimetanib y nivolumab desde septiembre de 2018.
+
+Historia actual
+Consultó en Urgencias a las tres semanas del inicio de la inmunoterapia por un cuadro progresivo de disnea de esfuerzo y ortopnea de dos almohadas junto con anorexia, astenia y mareo. Negó angina, síncope, así como focalidad infecciosa o fiebre. Tampoco refería palpitaciones u otro síntoma típicamente cardiológico.
+
+EXPLORACIÓN FÍSICA
+Tensión arterial (TA) 95/63 mmHg. Frecuencia cardiaca (FC) 85 lpm. Ingurgitación yugular externa en tercio medio, eupneica en decúbito a 45 ̊ con saturación O2 94% aire ambiente.
+Auscultación cardiaca rítmica sin soplos. Auscultación pulmonar con buena ventilación bilateral, crepitantes húmedos en bases. Edemas con fóvea pretibiales bilaterales.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG) a su llegada a urgencias: ritmo sinusal a 80 lpm, PR normal. QRS ancho de 120 ms con morfología de BRD y alteraciones secundarias de la repolarización. QTc 465ms.
+Radiografía de tórax PA y lateral al ingreso: índice cardiotorácico no aumentado, engrosamiento perihiliar bilateral con redistribución vascular sin ocupación de senos costofrénicos.
+Analítica en urgencias: hemoglobina 9,9 g/dl, VCM 89,4 fl, leucocitos 5880/μl con fórmula normal, plaquetas 132000/μl. INR 0,93, APTT 29,2 seg. Glucosa 178 mg/dl, ALT 42 U/l, GGT 50 U/l, fosfatasa alcalina 101 U/l, bilirrubina 0,3 mg/dl, albúmina 4 g/dl, creatinina 1,45 mg/dl, sodio 142 mmol/l, potasio 4,6 mmol/l, proteína C reactiva 7,8 mg/dl, CK 2423 U/l, troponina I ultrasensible 640,4 ng/l (VN < 21 ng/l), NT-proBNP 1509 ng/l.
+Ecocardiograma transtorácico: ventrículo izquierdo no dilatado ni hipertrófico, normofuncionante con hipocinesia de segmentos inferolaterales basal y medio. Patrón de llenado mitral tipo alteración de la relajación. Aurícula izquierda no dilatada. Cavidades derechas normales. Válvula mitral normal. Válvula aórtica trivalva, con leve esclerosis y gradientes ligeramente elevados (pico 20 mmHg). Sin datos de hipertensión pulmonar. IVT en tracto de salida de VD=23 cm (normal). Sin derrame pericárdico. Cava inferior no dilatada, colapsa fisiológicamente.
+Resonancia magnética cardiaca con contraste: ventrículo izquierdo de tamaño normal, con espesores parietales ligeramente aumentados. No presenta alteraciones de la contracción segmentaria. Práctico colapso sistólico de la cavidad distal, hiperdinámica, con fracción de eyección del ventrículo izquierdo (FEVI) 72%. En secuencias STIR, hiperintensidad de señal de predominio medio-distal. Datos sugerentes de inflamación difusa en mapas T2. Realce tardío sin alteraciones.
+Biopsia de músculo tríceps: con H-E se observan varias fibras necróticas con miofagocitosis y escasa agrupación de núcleos. Con técnica de HE se identifica ligero infiltrado inflamatorio compuesto fundamentalmente por histiocitos. Con estudio inmunohistoquímico se aprecia CD68 positivo y HLA-1 positivo parcheado de predominio perifascicular. CD3 negativo. Hallazgos globalmente compatibles con el diagnóstico de miopatía inflamatoria necrotizante.
+ECG al alta (imagen 6): ritmo sinusal a 70 lpm con PR normal y QRS estrecho normoposicionado con adecuada progresión en precordiales sin alteraciones de la repolarización.
+Analítica al alta: hemoglobina 10,4 g/dl, VCM 91,2 fl, leucocitos 7200/μl con fórmula normal, plaquetas 225000/μl. INR 0,81, APTT 27,7 seg. Glucosa 101 mg/dl, ALT 42 U/l, GGT 19 U/l, fosfatasa alcalina 76 U/l, bilirrubina 0,3 mg/dl, albúmina 3,8 g/dl, creatinina 0,97 mg/dl, sodio 141 mmol/l, potasio 3,7 mmol/l, proteína C reactiva 0,4 mg/dl, CK 67 U/l, troponina I ultrasensible 11 ng/l (VN < 21 ng/l), NT-proBNP 149 ng/l.
+Anticuerpos antimúsculo estriado (inmunofluorescencia): positivos.
+
+EVOLUCIÓN CLÍNICA
+A su llegada, y dado el diagnóstico de sospecha, se instauró tratamiento empírico con altas dosis corticoides (metilprednisolona 2 mg/kg/día), diurético oral a dosis medias y monitorización con telemetría.
+Durante el ingreso se evidenció una progresiva normalización de las alteraciones electrocardiográficas y los marcadores de daño miocárdico, así como una evidente mejoría clínica paralela, tolerando pauta descendente posterior de corticoides sistémicos. El ecocardiograma transtorácico y resonancia magnética mostraron función biventricular preservada, sin valvulopatías ni realce tardío. A destacar edema difuso de predominio mediodistal en las secuencias de T2-STIR compatible con un proceso inflamatorio tipo miocarditis sin aparentes secuelas. Además, el resultado positivo de los anticuerpos antimúsculo estriado y biopsia de tríceps braquial concordante con el diagnóstico de miositis.
+Cabe mencionar que no fue necesaria la realización de coronariografía ni biopsia endomiocárdica en este caso puesto que las alteraciones clínicas, analíticas y ECG completamente reversibles con antiinflamatorios junto con la autoinmunidad, la biopsia muscular y los datos de las secuencias T2-STIR y mapas son de suficiente entidad como para establecer el diagnóstico de miocarditis por inmunoterapia (nivolumab).
+Meses después continúa en seguimiento ambulatorio en consultas externas de cardio-oncología, asintomática, con ECG y troponinas normales. No se ha reiniciado el nivolumab, suspendido tras el ingreso.
+
+DIAGNÓSTICO
+Miocarditis y miositis por nivolumab.
+Adenocarcinoma colorrectal metastásico.
+Hipertensión arterial esencial. Diabetes mellitus tipo 2.

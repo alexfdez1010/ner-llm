@@ -1,0 +1,40 @@
+T36	ENFERMEDAD 279 302	Tuberculosis ganglionar
+T37	ENFERMEDAD 337 398	linfadenitis granulomatosa necrotizante de perfil tuberculoso
+T38	ENFERMEDAD 400 407	Sífilis
+T39	ENFERMEDAD 409 441	Trombosis venosa profunda de EID
+T40	ENFERMEDAD 444 470	trombosis portomesentérica
+T41	ENFERMEDAD 750 762	IAM anterior
+T42	ENFERMEDAD 1055 1058	IAM
+T43	ENFERMEDAD 1489 1502	Hepatomegalia
+T44	ENFERMEDAD 1532 1535	TVP
+T45	ENFERMEDAD 1889 1905	aneurisma apical
+T46	ENFERMEDAD 2136 2159	trombo adherido al ápex
+T47	ENFERMEDAD 2500 2519	derrame pericárdico
+T48	ENFERMEDAD 2536 2549	Cardiomegalia
+T49	ENFERMEDAD 2662 2665	IAM
+T50	ENFERMEDAD 2740 2756	aneurisma apical
+T51	ENFERMEDAD 2762 2783	trombo intracavitario
+T52	ENFERMEDAD 3362 3379	Ateromatosis leve
+T53	ENFERMEDAD 3411 3473	Enfermedad coronaria severa monovaso por oclusión distal de DA
+T54	ENFERMEDAD 3489 3532	VI dilatado con disfunción sistólica severa
+T55	ENFERMEDAD 4140 4162	insuficiencia cardiaca
+T56	ENFERMEDAD 4304 4374	IAM anterior evolucionado con aneurisma apical y trombo en su interior
+T57	ENFERMEDAD 4429 4448	derrame pericárdico
+T58	ENFERMEDAD 4588 4619	aneurisma ventricular izquierdo
+T59	ENFERMEDAD 4707 4734	rotura de pared libre de VI
+T60	ENFERMEDAD 5061 5135	Infarto anterior evolucionado Killip II/IV con disfunción sistólica severa
+T61	ENFERMEDAD 5139 5186	Aneurisma apical con trombosis intraventricular
+T62	ENFERMEDAD 5232 5247	aneurisma de VI
+T63	ENFERMEDAD 5264 5287	trombo intraventricular
+T64	ENFERMEDAD 249 256	Fumador
+T65	ENFERMEDAD 2428 2461	Regurgitación tricúspide moderada
+T66	ENFERMEDAD 259 266	bebedor
+T67	ENFERMEDAD 224 247	Exconsumidor de cocaína
+T68	ENFERMEDAD 472 484	IAM anterior
+T69	ENFERMEDAD 1759 1782	VI ligeramente dilatado
+T70	ENFERMEDAD 2198 2259	Válvula mitral con regurgitación central de carácter moderado
+T71	ENFERMEDAD 2354 2383	Ligera dilatación biauricular
+T72	ENFERMEDAD 4393 4417	rotura de la pared de VI
+T3	ENFERMEDAD 3545 3579	Dilatación sacular a nivel de ápex
+T123	ENFERMEDAD 4183 4205	embolización sistémica
+T133	ENFERMEDAD 2705 2713	necrosis

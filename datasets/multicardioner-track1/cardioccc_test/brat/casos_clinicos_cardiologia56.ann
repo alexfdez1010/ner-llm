@@ -1,0 +1,50 @@
+T20	ENFERMEDAD 5357 5395	regurgitación excéntrica periprotésica
+T21	ENFERMEDAD 5556 5588	engrosamiento perianular aórtico
+T33	ENFERMEDAD 133 136	HTA
+T34	ENFERMEDAD 169 179	Dislipemia
+T35	ENFERMEDAD 181 218	Estenosis aórtica severa degenerativa
+T36	ENFERMEDAD 279 296	litiasis ureteral
+T37	ENFERMEDAD 308 320	Poliartrosis
+T38	ENFERMEDAD 449 471	insuficiencia cardiaca
+T39	ENFERMEDAD 512 522	EAo severa
+T40	ENFERMEDAD 713 760	FA paroxística con respuesta ventricular rápida
+T41	ENFERMEDAD 938 944	BCRIHH
+T42	ENFERMEDAD 1110 1128	faringoamigdalitis
+T43	ENFERMEDAD 1471 1502	accidente isquémico transitorio
+T44	ENFERMEDAD 1796 1818	infección respiratoria
+T45	ENFERMEDAD 2227 2242	síndrome febril
+T46	ENFERMEDAD 2359 2365	BCRIHH
+T47	ENFERMEDAD 2419 2451	severa microangiopatía isquémica
+T48	ENFERMEDAD 2453 2524	Secuela de infarto isquémico crónico del territorio de la ACP izquierda
+T49	ENFERMEDAD 2526 2570	Infarto lacunar crónico lenticular izquierdo
+T50	ENFERMEDAD 2945 2951	BCRIHH
+T51	ENFERMEDAD 3377 3387	HAP severa
+T52	ENFERMEDAD 4202 4231	BAV completo con FC de escape
+T53	ENFERMEDAD 4373 4396	endocarditis infecciosa
+T54	ENFERMEDAD 4899 4922	endocarditis infecciosa
+T55	ENFERMEDAD 5243 5289	Calcificación extensa severa del anillo mitral
+T56	ENFERMEDAD 5679 5744	absceso-pseudoaneurisma perianular, con microperforación hacia AD
+T57	ENFERMEDAD 6105 6117	BAV completo
+T58	ENFERMEDAD 6129 6148	BAV de primer grado
+T59	ENFERMEDAD 6548 6582	infección local del MP transitorio
+T60	ENFERMEDAD 6630 6649	neumonía nosocomial
+T61	ENFERMEDAD 6652 6663	bicitopenia
+T62	ENFERMEDAD 7001 7107	ictus isquémico embólico (embolia séptica como primera posibilidad) de la arteria cerebral media izquierda
+T63	ENFERMEDAD 7027 7042	embolia séptica
+T65	ENFERMEDAD 7321 7354	Endocarditis infecciosa protésica
+T66	ENFERMEDAD 7483 7564	Absceso/pseudoaneurisma perianular con microperforación hacia la aurícula derecha
+T67	ENFERMEDAD 7580 7616	bloqueo auriculoventricular completo
+T68	ENFERMEDAD 7714 7785	ictus isquémico embólico (embolia séptica) de la arteria cerebral media
+T69	ENFERMEDAD 7740 7755	embolia séptica
+T70	ENFERMEDAD 7884 7903	neumonía nosocomial
+T71	ENFERMEDAD 7930 7972	Infección local del marcapasos transitorio
+T72	ENFERMEDAD 8023 8072	endocarditis asociada sobre electrodo ventricular
+T73	ENFERMEDAD 138 142	DM-2
+T74	ENFERMEDAD 2572 2607	Moderada atrofia corticosubcortical
+T75	ENFERMEDAD 3364 3375	IT moderada
+T76	ENFERMEDAD 3560 3595	FA con respuesta ventricular rápida
+T77	ENFERMEDAD 5168 5186	Hipertrofia septal
+T78	ENFERMEDAD 5746 5748	IT
+T79	ENFERMEDAD 5924 5970	vegetación filiforme en velo coronario derecho
+T11	ENFERMEDAD 5972 5999	Regurgitación periprotésica
+T83	ENFERMEDAD 5457 5467	vegetación

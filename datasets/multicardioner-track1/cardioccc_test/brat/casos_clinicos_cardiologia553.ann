@@ -1,0 +1,38 @@
+T102	ENFERMEDAD 9004 9077	Vasoespasmo coronario en el territorio de la arteria descendente anterior
+T104	ENFERMEDAD 94 115	cardiopatía isquémica
+T105	ENFERMEDAD 206 229	alergias medicamentosas
+T106	ENFERMEDAD 279 300	hipertensión arterial
+T107	ENFERMEDAD 305 313	diabetes
+T108	ENFERMEDAD 318 328	dislipemia
+T109	ENFERMEDAD 330 338	Obesidad
+T110	ENFERMEDAD 378 393	hábitos tóxicos
+T111	ENFERMEDAD 1501 1511	síndrome X
+T112	ENFERMEDAD 2927 2976	isquemia miocárdica inducible en la cara anterior
+T113	ENFERMEDAD 3150 3158	isquemia
+T114	ENFERMEDAD 3960 3979	derrame pericárdico
+T115	ENFERMEDAD 4234 4258	disfunción microvascular
+T116	ENFERMEDAD 5255 5268	valvulopatías
+T117	ENFERMEDAD 5288 5307	derrame pericárdico
+T118	ENFERMEDAD 5552 5565	valvulopatías
+T119	ENFERMEDAD 5592 5613	hipertensión pulmonar
+T120	ENFERMEDAD 5615 5618	HTP
+T121	ENFERMEDAD 5657 5676	derrame pericárdico
+T122	ENFERMEDAD 5955 6042	isquemia miocárdica inducida en territorio de la arteria coronaria descendente anterior
+T123	ENFERMEDAD 6253 6277	disfunción microvascular
+T124	ENFERMEDAD 6396 6426	disfunción microvascular grave
+T125	ENFERMEDAD 6669 6699	disfunción microvascular grave
+T126	ENFERMEDAD 6702 6781	espasmo coronario en el territorio de la arteria coronaria descendente anterior
+T127	ENFERMEDAD 7135 7148	valvulopatías
+T128	ENFERMEDAD 7606 7636	disfunción microvascular grave
+T129	ENFERMEDAD 8105 8135	disfunción microvascular grave
+T130	ENFERMEDAD 8138 8159	vasoespasmo coronario
+T132	ENFERMEDAD 8817 8868	Angina con isquemia documentada en territorio de DA
+T134	ENFERMEDAD 8922 8927	INOCA
+T135	ENFERMEDAD 8930 8960	Disfunción microvascular grave
+T136	ENFERMEDAD 445 462	ángor de esfuerzo
+T137	ENFERMEDAD 918 935	ángor de esfuerzo
+T11	ENFERMEDAD 3927 3940	valvulopatías
+T138	ENFERMEDAD 4205 4226	vasoespasmo coronario
+T141	ENFERMEDAD 6649 6654	ángor
+T142	ENFERMEDAD 8042 8047	ángor
+T146	ENFERMEDAD 6587 6635	alteraciones isquémicas en el electrocardiograma

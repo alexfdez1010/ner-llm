@@ -1,0 +1,21 @@
+T1	ENFERMEDAD 39 96	alérgico al ácido acetilsalicílico (AAS) y al diclofenaco
+T6	ENFERMEDAD 165 214	púrpura palpable en ambas extremidades inferiores
+T8	ENFERMEDAD 288 304	crioglobulinemia
+T11	ENFERMEDAD 612 659	púrpura palpable en las extremidades inferiores
+T13	ENFERMEDAD 784 795	adenopatías
+T15	ENFERMEDAD 842 860	vasculitis cutánea
+T20	ENFERMEDAD 1180 1198	síndrome nefrítico
+T25	ENFERMEDAD 1894 1897	LLP
+T27	ENFERMEDAD 2018 2082	síndrome linfoproliferativo crónico de célula pequeña de línea B
+T28	ENFERMEDAD 2099 2113	LLP quiescente
+T32	ENFERMEDAD 2357 2392	glomerulonefritis crioglobulinémica
+T33	ENFERMEDAD 2467 2490	linfoma B de bajo grado
+T34	ENFERMEDAD 2511 2531	renal por el linfoma
+T37	ENFERMEDAD 2737 2764	síndrome linfoproliferativo
+T44	ENFERMEDAD 1619 1663	glomerulonefritis con patrón mesangiocapilar
+T46	ENFERMEDAD 22 37	hábitos tóxicos
+T47	ENFERMEDAD 799 814	visceromegalias
+T48	ENFERMEDAD 984 992	lesiones
+T2	ENFERMEDAD 1119 1128	petequias
+#1	AnnotatorNotes T25	   LLP: Linfoma linfoplasmocitoide
+#2	AnnotatorNotes T28	   LLP: Linfoma linfoplasmocitoide

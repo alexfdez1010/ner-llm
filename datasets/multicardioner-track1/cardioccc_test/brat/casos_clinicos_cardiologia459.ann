@@ -1,0 +1,46 @@
+T19	ENFERMEDAD 89 101	hipertensión
+T20	ENFERMEDAD 103 113	dislipemia
+T21	ENFERMEDAD 117 125	obesidad
+T22	ENFERMEDAD 211 235	diabetes mellitus tipo 2
+T23	ENFERMEDAD 357 366	exfumador
+T24	ENFERMEDAD 458 526	cardiopatía isquémica crónica con enfermedad coronaria de tres vasos
+T25	ENFERMEDAD 597 613	infarto inferior
+T26	ENFERMEDAD 690 746	infarto agudo de miocardio sin elevación del segmento ST
+T27	ENFERMEDAD 1189 1242	reestenosis del stent implantado previamente en la Cx
+T28	ENFERMEDAD 1304 1322	angina de esfuerzo
+T29	ENFERMEDAD 1547 1561	polineuropatía
+T30	ENFERMEDAD 1563 1587	enfermedad renal crónica
+T31	ENFERMEDAD 1608 1685	isquemia crónica de miembros inferiores con oclusión femoropoplitea bilateral
+T32	ENFERMEDAD 1766 1779	EPOC moderado
+T33	ENFERMEDAD 1810 1820	SAHS grave
+T34	ENFERMEDAD 2055 2068	pie diabético
+T35	ENFERMEDAD 2631 2674	3er dedo tenía también una lesión necrótica
+T36	ENFERMEDAD 2749 2764	BAV de 1o grado
+T37	ENFERMEDAD 3483 3496	valvulopatías
+T38	ENFERMEDAD 3586 3605	derrame pericárdico
+T39	ENFERMEDAD 3693 3723	Enfermedad coronaria multivaso
+T40	ENFERMEDAD 3874 3887	pie diabético
+T41	ENFERMEDAD 4319 4344	angina de esfuerzos leves
+T42	ENFERMEDAD 4674 4680	angina
+T43	ENFERMEDAD 4683 4717	pie diabético con isquemia crónica
+T44	ENFERMEDAD 5017 5075	Cardiopatía isquémica crónica con enfermedad de tres vasos
+T45	ENFERMEDAD 5132 5169	Enfermedad difusa de vasos terciarios
+T46	ENFERMEDAD 5171 5189	Angina refractaria
+T47	ENFERMEDAD 5191 5230	Isquemia crónica de miembros inferiores
+T48	ENFERMEDAD 5232 5245	Pie diabético
+T49	ENFERMEDAD 5247 5271	Enfermedad renal crónica
+T50	ENFERMEDAD 5273 5277	EPOC
+T51	ENFERMEDAD 5312 5316	SAHS
+T52	ENFERMEDAD 5327 5362	Diabetes tipo 2 insulinodependiente
+T53	ENFERMEDAD 5364 5367	HTA
+T54	ENFERMEDAD 5369 5379	Dislipemia
+T55	ENFERMEDAD 5381 5389	Obesidad
+T56	ENFERMEDAD 5436 5450	angina estable
+T57	ENFERMEDAD 748 755	IAMSEST
+T58	ENFERMEDAD 2154 2170	angina de reposo
+T59	ENFERMEDAD 4938 4944	angina
+T106	ENFERMEDAD 2781 2785	HBAI
+T107	ENFERMEDAD 996 1028	malos lechos vasculares distales
+T109	ENFERMEDAD 1492 1538	afectación metadiabética micro y macrovascular
+T110	ENFERMEDAD 2494 2614	miembros inferiores y el 1er y 2o dedos izquierdos presentaban eritrocianosis establecida, junto con lesiones necróticas
+T14	ENFERMEDAD 3728 3749	malos lechos distales

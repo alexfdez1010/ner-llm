@@ -1,0 +1,38 @@
+T38	ENFERMEDAD 103 126	alergias medicamentosas
+T39	ENFERMEDAD 268 277	exfumador
+T40	ENFERMEDAD 290 301	dislipémico
+T41	ENFERMEDAD 334 343	sobrepeso
+T42	ENFERMEDAD 345 374	Cardiopatía isquémica crónica
+T43	ENFERMEDAD 376 419	infarto agudo de miocardio (IAM) q inferior
+T44	ENFERMEDAD 482 510	Pericarditis epistenocárdica
+T45	ENFERMEDAD 553 584	enfermedad coronaria de 2 vasos
+T46	ENFERMEDAD 636 639	IAM
+T47	ENFERMEDAD 707 755	Descendente anterior (DA) con estenosis moderada
+T48	ENFERMEDAD 978 986	isquemia
+T49	ENFERMEDAD 1340 1348	isquemia
+T50	ENFERMEDAD 2758 2783	trombosis venosa profunda
+T51	ENFERMEDAD 2836 2839	IAM
+T52	ENFERMEDAD 3294 3323	CD: estenosis grave por placa
+T53	ENFERMEDAD 3398 3401	IAM
+T54	ENFERMEDAD 3587 3609	DA: estenosis moderada
+T55	ENFERMEDAD 3937 3974	Leves insuficiencias mitral y aórtica
+T56	ENFERMEDAD 3983 4028	derrame pericárdico de 3 mm en saco posterior
+T57	ENFERMEDAD 4656 4664	isquemia
+T58	ENFERMEDAD 5183 5211	hipercolesterolemia familiar
+T59	ENFERMEDAD 5340 5368	hipercolesterolemia familiar
+T60	ENFERMEDAD 5717 5722	obeso
+T61	ENFERMEDAD 5725 5736	dislipémico
+T62	ENFERMEDAD 5803 5815	IAM inferior
+T63	ENFERMEDAD 6109 6165	isquemia inducible en territorio de descendente anterior
+T64	ENFERMEDAD 6958 6986	hipercolesterolemia familiar
+T65	ENFERMEDAD 7251 7280	Cardiopatía isquémica crónica
+T66	ENFERMEDAD 7282 7296	IAM Q inferior
+T67	ENFERMEDAD 7314 7369	Enfermedad coronaria de 2 vasos (CD [responsable] y DA)
+T68	ENFERMEDAD 7470 7505	isquemia inducible en territorio DA
+T69	ENFERMEDAD 7524 7569	Hipercolesterolemia familiar en heterocigosis
+T70	ENFERMEDAD 7571 7599	Intolerancia a atorvastatina
+T71	ENFERMEDAD 4053 4056	IAM
+T72	ENFERMEDAD 3261 3292	enfermedad coronaria de 2 vasos
+T73	ENFERMEDAD 5696 5703	fumador
+T74	ENFERMEDAD 1545 1556	hipotensión
+T164	ENFERMEDAD 6389 6417	intolerancia a atorvastatina

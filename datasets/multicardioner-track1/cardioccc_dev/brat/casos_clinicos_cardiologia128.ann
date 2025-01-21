@@ -1,0 +1,50 @@
+T34	ENFERMEDAD 68 92	síndrome coronario agudo
+T35	ENFERMEDAD 291 294	HTA
+T36	ENFERMEDAD 322 358	Insuficiencia aórtica moderadasevera
+T37	ENFERMEDAD 582 601	infección bronquial
+T38	ENFERMEDAD 857 868	bacteriemia
+T39	ENFERMEDAD 914 938	tromboembolismo pulmonar
+T40	ENFERMEDAD 941 968	aneurisma de aorta discante
+T41	ENFERMEDAD 1175 1199	síndrome coronario agudo
+T42	ENFERMEDAD 1411 1436	trombosis venosa profunda
+T44	ENFERMEDAD 2215 2256	Trastorno de conducción intra-ventricular
+T45	ENFERMEDAD 2439 2461	insuficiencia cardiaca
+T46	ENFERMEDAD 2858 2895	Insuficiencia aórtica de grado severo
+T47	ENFERMEDAD 2903 2991	válvula mitral, perforación del velo anterior con insuficiencia de grado moderado-severo
+T48	ENFERMEDAD 3091 3132	insuficiencia tricuspídea de grado ligero
+T49	ENFERMEDAD 3134 3164	Hipertensión pulmonar moderada
+T50	ENFERMEDAD 3269 3291	insuficiencia cardiaca
+T51	ENFERMEDAD 3374 3386	endocarditis
+T52	ENFERMEDAD 3402 3424	insuficiencia cardiaca
+T53	ENFERMEDAD 3426 3441	rotura valvular
+T54	ENFERMEDAD 3453 3481	absceso en el anillo aórtico
+T55	ENFERMEDAD 3689 3729	trastorno de conducción intraventricular
+T56	ENFERMEDAD 3816 3849	absceso en la unión mitro-aórtica
+T57	ENFERMEDAD 4047 4066	lesiones coronarias
+T58	ENFERMEDAD 4096 4119	fístula de TSVI a la AD
+T59	ENFERMEDAD 4829 4858	derrame pleural y pericárdico
+T60	ENFERMEDAD 4963 4982	derrame pericárdico
+T61	ENFERMEDAD 5411 5430	derrame pericárdico
+T62	ENFERMEDAD 5805 5863	Derrame pericárdico de predominio inferoposterior moderado
+T63	ENFERMEDAD 6114 6142	derrame pericárdico anterior
+T64	ENFERMEDAD 6503 6537	Endocarditis de la válvula aórtica
+T65	ENFERMEDAD 6583 6611	Insuficiencia aórtica severa
+T66	ENFERMEDAD 6614 6684	Insuficiencia mitral por perforación de la valva anterior de la mitral
+T67	ENFERMEDAD 6687 6720	Insuficiencia cardiaca secundaria
+T68	ENFERMEDAD 6723 6742	Absceso periaórtico
+T69	ENFERMEDAD 6745 6803	Bloqueo aurículo ventricular completo secundario a absceso
+T70	ENFERMEDAD 6806 6897	Fístula tracto de salida del ventrículo izquierdo a aurícula izquierda secundario a absceso
+T71	ENFERMEDAD 412 431	Bloqueo AV 1° grado
+T72	ENFERMEDAD 230 253	alergias medicamentosas
+T73	ENFERMEDAD 4669 4706	bloqueo aurículo-ventricular avanzado
+T74	ENFERMEDAD 2400 2413	cardiomegalia
+T75	ENFERMEDAD 6204 6212	hematoma
+T76	ENFERMEDAD 6004 6015	hipotensión
+T77	ENFERMEDAD 211 226	hábitos tóxicos
+T78	ENFERMEDAD 4163 4296	vegetaciones en velos coronario derecho y no coronario de válvula aórtica, con extensión al velo mitral anterior de la válvula mitral
+T79	ENFERMEDAD 2811 2856	vegetación 10 mm en válvula aórtica bicúspide
+T80	ENFERMEDAD 4708 4714	B.A.V.
+T164	ENFERMEDAD 6055 6067	taponamiento
+T131	ENFERMEDAD 2624 2638	foco neumónico
+T130	ENFERMEDAD 3916 3955	fistulización hacia la aurícula derecha
+#1	AnnotatorNotes T80	 bloqueo aurículo-ventricular

@@ -1,0 +1,38 @@
+T22	ENFERMEDAD 96 123	Alergia a la estreptomicina
+T23	ENFERMEDAD 156 177	cardiopatía isquémica
+T24	ENFERMEDAD 328 347	consumo de cannabis
+T25	ENFERMEDAD 424 445	hipertensión arterial
+T26	ENFERMEDAD 447 450	HTA
+T27	ENFERMEDAD 468 484	Dislipemia mixta
+T28	ENFERMEDAD 552 607	infarto agudo de miocardio sin elevación el segmento ST
+T29	ENFERMEDAD 685 788	enfermedad arterial coronaria (EAC) grave de tres vasos con obstrucción aguda de la arteria cincunfleja
+T30	ENFERMEDAD 902 973	coronaria derecha (CD) y descendente anterior (DA) presentaban lesiones
+T31	ENFERMEDAD 1448 1461	valvulopatías
+T32	ENFERMEDAD 1830 1847	Infección por VIH
+T33	ENFERMEDAD 1923 1944	hemangiomas hepáticos
+T34	ENFERMEDAD 1947 1964	hipovitaminosis D
+T35	ENFERMEDAD 3572 3580	isquemia
+T36	ENFERMEDAD 3756 3777	reacción hipertensiva
+T37	ENFERMEDAD 4820 4853	insuficiencia mitral levemoderada
+T38	ENFERMEDAD 6355 6364	arritmias
+T39	ENFERMEDAD 6501 6512	anemización
+T40	ENFERMEDAD 6662 6697	dislipemia mixta con no-HDL elevado
+T41	ENFERMEDAD 6700 6729	hipertrigliceridemia moderada
+T42	ENFERMEDAD 8572 8628	Infarto agudo de miocardio sin elevación del segmento ST
+T43	ENFERMEDAD 8852 8869	Infección por VIH
+T44	ENFERMEDAD 9033 9055	Dislipemia mixta grave
+T45	ENFERMEDAD 9115 9118	HTA
+T46	ENFERMEDAD 9137 9144	Fumador
+T47	ENFERMEDAD 9181 9190	Sobrepeso
+T48	ENFERMEDAD 9192 9216	Insuficiencia renal leve
+T49	ENFERMEDAD 9253 9265	Rectorragias
+T50	ENFERMEDAD 276 291	Consumo alcohol
+T51	ENFERMEDAD 8668 8685	EAC de tres vasos
+T52	ENFERMEDAD 179 194	Hábitos tóxicos
+T53	ENFERMEDAD 609 616	IAMSEST
+T54	ENFERMEDAD 8630 8637	IAMSEST
+T55	ENFERMEDAD 196 203	fumador
+T56	ENFERMEDAD 6446 6458	rectorragias
+T58	ENFERMEDAD 716 719	EAC
+T8	ENFERMEDAD 4620 4661	ventrículo izquierdo ligeramente dilatado
+T131	ENFERMEDAD 3280 3301	reacción hipertensiva

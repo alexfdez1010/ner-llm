@@ -1,0 +1,29 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Nos encontramos ante un paciente de 70 años sin alergias medicamentosas conocidas ni hábitos tóxicos; sin diabetes mellitus conocida pero hipertenso y dislipémico.
+Presenta antecedentes familiares de cardiopatía isquémica.
+Respecto a los antecedentes cardiológicos del paciente, debuta en julio de 2012, cuando se solicitó Holter tras presentar bradicardia sintomática que precisó de cronotropos durante la realización de una artroscopia. En el registro 24 horas se evidenciaron rachas de fibrilación auricular con FVM 100 lpm (máx 150) que alternaba con el ritmo basal del paciente que era bradicardia sinusal (45 lpm).
+Se completó estudio ecocardiográfico, sin alteraciones. En noviembre de 2012 se implanta por vía subclavia marcapasos bicameral y se inicia anticoagulación con acenocumarol. Por persistencia de fibrilación auricular con mal control clínico se realiza cardioversión eléctrica y se da de alta con amiodarona 200 mg/24 h y bisoprolol 2,5 mg/24 h, además de la anticoagulación.
+En enero de 2014 acude a consultas externas de Cardiología remitido por disnea y opresión torácica en relación con el esfuerzo de 2 meses de evolución. Se realiza ecocardiograma que muestra VI con FE moderadamente deprimida. Se inicia tratamiento deplectivo (furosemida y eplerenona) y se solicita estudio analítico y coronariografía.
+En la angiografía coronaria se evidencia estenosis de la arteria descendente anterior proximal (DAp) 80 %, circunfleja a nivel de la salida de la primera obtusa marginal (Cx- OM1) 100 % y coronaria derecha proximal (CDp) 90 %, y media (CDm) 60 %, optándose por revascularización quirúrgica. La intervención se lleva a cabo en septiembre de 2014, con triple pontaje coronario a DA media con arteria mamaria interna (AMI) y secuencia con vena safena (VSF) a 1a OM y ramas posterolaterales. Evolución postoperatoria tórpida con múltiples ingresos por disnea y descompensación cardiaca. Se realizó SPECT que mostraba leve isquemia lateral por lo que se solicitó nueva coronariografía que mostraba permeabilidad de todos los bypass realizados. Se revisó MCP evidenciando disfunción del mismo que se corrigió al modificar la programación. Desde entonces, asintomático en clase funcional II. Se retiró tratamiento con amiodarona y se sustituyó por dronedarona por hipotiroidismo.
+En repetidas ocasiones ha consultado por dolores musculares en relación a estatinas (simvastatina 10 mg y atorvastatina 10 mg), por lo que fue derivado a la unidad de Lipidología de referencia, a pesar de ello, siempre recidivaban las mialgias con la reintroducción de estatinas. Finalmente dado el alto riesgo cardiovascular, la intolerancia a los hipolipemiantes y una dislipemia severa se inició tratamiento con IPCSK9 con buena tolerancia y reducción de las cifras de LDL a 88 mg/dl partiendo de un nivel inicial de 218 mg/dl.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica sanguínea 12-07-16 (basal del paciente): creatinina 0,98 mg/dl, urea 38,8 mg/dl, colesterol total 289 mg/dl, HDL 44 mg/dl, LDL 218 mg/dl, TG 240 mg/dl, AST 22U/l, ALT 23 U/l, GGT 52 U/l, FA 72 U/l, sodio 143 mEq/l, potasio 4,3 mEq/l, TSH 2,27 uUI/ml, T4L 1,14 ng/dl. Hb 16.4 g/dl, Hto 50,5 %, leucocitos 7,11 x 10^9/L, plaquetas 164x10^9/L.
+Analítica sanguínea 15-11-16 (tras 3 meses con IPCSK9): creatinina 0.93mg/dl, urea 49,6 mg/dl, colesterol total 201,6 mg/dl, HDL 44 mg/dl, LDL 109,6mg/dl, AST 26U/l, ALT 24 U/l, GGT 56 U/l, FA 77 U/l, sodio 143 mEq/l, potasio 4,5 mEq/l, TSH 2,47 uUI/ml, T4L 1,3 ng/dl. Hb 17 g/dl, Hto 52,6 %, leucocitos 6.24 x 10^9/l, plaquetas 172x10^9/l.
+Tras este resultado analítico, decide aumentarse la dosis de 75 mg a 150 mg quincenal del IPCSK9.
+Analítica sanguínea 06-04-17 (control a los 6 meses de iniciado el tratamiento): creatinina 0,76 mg/dl, urea 53,6 mg/dl, colesterol total 162 mg/dl, HDL 45 mg/dl, LDL 88,40 mg/dl, TG 143 mg/dl, AST 24U/l, ALT 25 U/l, GGT 44 U/l, FA 77 U/l, sodio 143 mEq/l, potasio 5,1 mEq/l, TSH 2,59 uUI/ml, T4L 1,28 ng/dl. Hb 17,3 g/dl, Hto 53,5 %, leucocitos 6,11x 10^9/L, plaquetas 142x10^9/L.
+
+EVOLUCIÓN
+El paciente actualmente se encuentra en clase estable de su cardiopatía. Con clase funcional II, asintomático para dolor torácico y tolerando la medicación sin incidencias.
+En el último ecocardiograma se objetivó recuperación de la fracción de eyección, calificándose como preservada en el último ecocardiograma.
+Por estudio de lumbalgia de meses de evolución se realizó TAC abdominal que evidenció aneurisma de aorta abdominal, que está pendiente de intervención para colocación de endoprótesis.
+Se trata por tanto de un paciente de muy alto riesgo cardiovascular por la cardiopatía isquémica, vasculopatía aórtica y dislipemia en el que no se podía realizar tratamiento con estatinas por intolerancia, en el que la introducción de IPCSK9 ha conseguido reducir en más de un 50 % sus niveles de LDL-c, encontrándose cada vez más cerca de alcanzar el nivel deseado para su alto riesgo cardiovascular, que recordemos es menor de 70 mg/dL.
+
+DIAGNÓSTICO
+Cardiopatía isquémica crónica con enfermedad de 3 vasos.
+Antecedente de triple bypass aorto-coronario con AMI a DA y SFN secuencia a MO1 y DP.
+Disfunción ventricular izquierda transitoria (actualmente FEVI normal).
+Aneurisma aorta abdominal pendiente de reparación endovascular.
+Insuficiencia cardiaca estable en clase funcional II.
+Disfunción sinusal con FA paroxística. Portador de MCP DDD normofuncionante en el momento actual.
+Dislipemia severa. Intolerancia a estatinas. Tratamiento con IPCSK9 con buena evolución.

@@ -1,0 +1,50 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Presentamos el caso de una mujer con antecedentes de fibrilación auricular (FA), hallazgo de trombo intracavitario y contraindicación absoluta para tratamiento anticoagulante a largo plazo por comorbilidades asociadas.
+
+ANTECEDENTES:
+No alergias medicamentosas conocidas.
+Factores de riesgo cardiovascular (FRCV): Hipertensión arterial y dislipemia. No diabetes conocida.
+Diagnosticada de cardiopatía hipertensiva con datos de isquemia leve en segmentos latero-apicales e ingreso en julio de 2014 por elevación transitoria del ST sin evidenciarse lesiones coronarias significativas en coronariografía.
+FA paroxística de cronología incierta diagnosticada en febrero de 2014, anticoagulada con sintrom.
+Enfermedad cerebrovascular de pequeño vaso en seguimiento por neurología. Doppler de
+TSA normal.
+Hernia hiatal. Síndrome hemorroidal.
+Intervenciones quirúrgicas previas: apendicectomía.
+Tratamiento habitual: sintrom según pauta establecida en base a controles periódicos de INR, diltiazem 120 mg cada 12 horas, carvedilol 25 mg cada 12 horas. Torasemida 5mg cada 24 horas, atorvastatina 40 mg cada 24 horas. Omeprazol 20 mg cada 24 horas.
+Lorazepam 1 mg por la noche.
+
+ENFERMEDAD ACTUAL:
+Ingresa en cardiología por empeoramiento de clase funcional de meses de evolución con clara aparición de disnea a moderados esfuerzos, episodios ocasionales de palpitaciones y disnea paroxística nocturna en los días previos a su consulta en urgencias.
+Durante el ingreso, presenta fiebre de hasta 38 oC mantenida durante 3 días sin foco objetivable, realizándose despistaje microbiológico que resulta negativo. El cuadro evoluciona a deterioro del nivel de conciencia por lo que se solicita TC craneal, donde se observa hematoma intraparenquimatoso frontal derecho que no desplaza línea media, ni está abierto a ventrículos, no siendo subsidiario de drenaje quirúrgico. Por ello, se suspende anticoagulación con heparina de bajo peso molecular (iniciada al ingreso hospitalario en lugar del sintrom) y se contacta con neurología para valoración del caso. Se realiza resonancia magnética (RM) del cráneo y se diagnostica de angiopatía amiloide probable.
+Una vez estabilizado el foco hemorrágico y dado que presenta un alto riesgo embólico (CHA2DS2 VASc 4) y alto riesgo hemorrágico (HAS-BLED 3 puntos), se propone a la paciente como candidata a cierre de orejuela izquierda de forma programada (indicación clase IIb-B según las guías ESC 2016 sobre el diagnóstico y tratamiento de la FA), derivándose al alta con monoantiagregación (ácido acetilsalicílico (AAS) 100 mg cada 24 horas).
+
+EXPLORACIÓN FÍSICA:
+Buen estado general. Consciente, orientada y colaboradora. Afebril al ingreso.
+Estable hemodinámicamente con cifras de tensión arterial (TA) 110/70 mmHg y frecuencia cardiaca (FC) 85 lpm. Eupneica en reposo y al habla con cabecero a 30o. No ingurgitación yugular ni reflujo hepato-yugular.
+A la auscultación, tonos cardiacos arrítmicos sin soplos audibles. Murmullo vesicular conservado con crepitantes bibasales.
+Miembros inferiores sin edemas, ni signos de TVP. Sin otros hallazgos reseñables a la exploración.
+
+PRUEBAS COMPLEMENTARIAS
+ELECTROCARDIOGRAMA (ECG): FA a 130 lpm. QRS ancho con morfología de bloqueo completo de rama izquierda del haz de His (BCRIHH), conocido previamente.
+ANALÍTICA: sin movilización de biomarcadores cardiacos (troponina T ultrasensible [TnTus] pico 16 ng/l). Resto sin hallazgos reseñables.
+RADIOGRAFÍA DE TÓRAX: cardiomegalia, sin otros hallazgos patológicos. Ausencia de congestión pulmonar.
+ECOCARDIOGRAFÍA TRANSTORÁCICA: AI diámetro AP 31mm. Área en apical 24 cm2 y volumen de 79 ml. Ventrículo izquierdo (VI) dilatado (DTDVI 57 mm), morfología globulosa. Fracción de eyección del ventrículo izquierdo (FEVI) gravemente deprimida, por Simpson FEVI 17%, con hipoquinesia global. Patrón de llenado con E monofásica. Válvula mitral con cierre en tenting que genera insuficiencia mitral (IM) funcional de grado ligero. Válvula aórtica con apertura y función conservada. Ventrículo derecho (VD) no dilatado (DTDVD 22,6 mm) con TAPSE 14 mm.
+Insuficiencia tricuspídea (IT) grado II con gradiente pico VD-AD 29 mmHg, que permite estimar una presión arterial pulmonar sistólica (PAPs) 35-40 mmHg. Vena cava inferior (VCI) no dilatada con colapso inspiratorio normal. No derrame pericárdico.
+UROCULTIVOS y HEMOCULTIVOS: negativos.
+TC cráneo: hematoma intraparenquimatoso frontal derecho que no desplaza línea media, ni abre a ventrículos.
+RM cráneo: hemorragia lobar frontal derecha y vasculopatía de pequeño vaso, hallazgos compatibles con angiopatía amiloide probable.
+ANGIO-TC tórax: drenaje de venas pulmonares izquierdas en aurícula izquierda normal, a través de dos ostium independientes. La orejuela auricular izquierda tiene morfología digitiforme y una base de implantación con cuello amplio, de aproximadamente 2 x 2 cm. En el fondo de saco de la misma se reconoce material trombótico adherido, de probable evolución crónica. VI dilatado (diámetro transverso de unos 55 mm). Aurícula derecha (AD) 55 mm. Aurícula izquierda (AI) 47 mm.
+ECOCARDIOGRAFÍA TRANSESOFÁGICA: orejuela izquierda con boca de entrada de 17 x 19 mm, profundidad de 30 mm, se objetiva trombo en el interior de la orejuela izquierda.
+
+EVOLUCIÓN CLÍNICA
+Tras el alta, se citó a la paciente para realización de angio-TC de tórax y ecocardiografía transesofágica como estudio previo al cierre de orejuela. En ambas pruebas se objetivó la existencia de trombo en orejuela izquierda, situación que contraindica el cierre de la misma. Por ello, se valora el caso en sesión médica (heart team) y se decide inicio de anticoagulación con dabigatrán 110 mg cada 12 horas durante 3 meses, para resolución del trombo y control ecocardiográfico posterior.
+Durante estos 3 meses de tratamiento con dabigatrán, evolucionó sin incidencias, encontrándose asintomática y sin complicaciones hemorrágicas. Tras control ecocardiográfico que confirmó la resolución del trombo (vídeo 3), se realizó de forma programada el cierre de orejuela izquierda con dispositivo Amplatzer Amulet, sin complicaciones durante el procedimiento y buen resultado final.
+Posteriormente, se mantuvo anticoagulación con dabigatrán 110 mg cada 12 horas durante 45 días más, sin complicaciones hemorrágicas asociadas, manteniendo a la paciente tras su retirada con monoantiagregación de forma indefinida con AAS 100 mg cada 24 horas.
+En subsiguientes controles ecocardiográficos se ha comprobado el dispositivo Amulet correctamente colocado y orejuela izquierda libre de trombos. Así mismo, debido a la miocardiopatía basal de la paciente con disfunción ventricular grave, se decide implante de desfibrilador automático implantable (DAI) en prevención primaria. Actualmente, mantiene buena clase funcional, encontrándose asintomática desde el punto de vista cardiológico.
+
+DIAGNÓSTICO
+Miocardiopatía dilatada con disfunción ventricular grave (FEVI 17%).
+FA permanente (CHA2DS2-VASc 4 puntos, HAS-BLED 3 puntos).
+Angiopatía amiloide probable que condiciona hematoma intraparenquimatoso lobar derecho.
+Trombo en orejuela auricular izquierda.

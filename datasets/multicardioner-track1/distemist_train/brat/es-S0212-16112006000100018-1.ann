@@ -1,0 +1,11 @@
+T3	ENFERMEDAD 1717 1729	osteoporosis
+T4	ENFERMEDAD 149 165	Colitis Ulcerosa
+T5	ENFERMEDAD 167 169	CU
+T9	ENFERMEDAD 964 997	osteoporosis en la columna lumbar
+T11	ENFERMEDAD 1017 1048	osteopenia en el cuello femoral
+T14	ENFERMEDAD 1121 1162	NA de grado II en ambas cabezas femorales
+T17	ENFERMEDAD 1231 1294	lesión osteocondral en el cóndilo femoral interno de la rodilla
+T19	ENFERMEDAD 1398 1509	lesiones de necrosis en ambas cabezas femorales y en ambas rodillas, tanto en su cara tibial como en la femoral
+T21	ENFERMEDAD 1598 1622	hundimiento en la cadera
+#1	AnnotatorNotes T5	   CU: colitis ulcerosa
+#2	AnnotatorNotes T14	   NA: necrosis avascular

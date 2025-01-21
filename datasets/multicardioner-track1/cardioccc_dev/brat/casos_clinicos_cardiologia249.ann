@@ -1,0 +1,47 @@
+T42	ENFERMEDAD 187 208	hipertensión arterial
+T43	ENFERMEDAD 213 230	diabetes mellitus
+T44	ENFERMEDAD 235 245	dislipemia
+T45	ENFERMEDAD 319 327	Obesidad
+T46	ENFERMEDAD 419 491	Enfermedad pulmonar obstructiva crónica tipo bronquitis crónica moderada
+T47	ENFERMEDAD 585 608	Adenocarcinoma de colon
+T48	ENFERMEDAD 855 886	Hipertrofia benigna de próstata
+T49	ENFERMEDAD 1149 1160	broncopatía
+T50	ENFERMEDAD 1895 1903	flebitis
+T51	ENFERMEDAD 1989 2027	dilatación y disfunción biventricular,
+T52	ENFERMEDAD 2037 2057	regurgitación mitral
+T53	ENFERMEDAD 3312 3341	Regurgitación mitral moderada
+T54	ENFERMEDAD 3497 3526	disfunción ventricular ligera
+T55	ENFERMEDAD 3542 3574	Insuficiencia tricuspídea ligera
+T56	ENFERMEDAD 3774 3828	DA con enfermedad grave proximal y media con estenosis
+T57	ENFERMEDAD 4363 4379	edema miocárdico
+T58	ENFERMEDAD 5045 5076	fibrosis lineal intramiocárdica
+T59	ENFERMEDAD 5610 5643	lesión en primera obtusa marginal
+T60	ENFERMEDAD 6339 6377	disfunción ventricular izquierda grave
+T61	ENFERMEDAD 6562 6584	disfunción ventricular
+T62	ENFERMEDAD 6634 6655	enfermedad de 3 vasos
+T63	ENFERMEDAD 6844 6905	enfermedad pulmonar obstructiva crónica [EPOC] moderada-grave
+T64	ENFERMEDAD 6885 6889	EPOC
+T65	ENFERMEDAD 6907 6915	obesidad
+T66	ENFERMEDAD 6917 6945	disfunción ventricular grave
+T67	ENFERMEDAD 7767 7783	hábito tabáquico
+T68	ENFERMEDAD 7924 7957	fibrilación auricular paroxística
+T69	ENFERMEDAD 8848 8870	insuficiencia cardiaca
+T70	ENFERMEDAD 9051 9117	Insuficiencia cardiaca aguda por miocardiopatía dilatada isquémica
+T71	ENFERMEDAD 9122 9160	disfunción ventricular izquierda grave
+T72	ENFERMEDAD 9190 9224	Enfermedad coronaria de tres vasos
+T73	ENFERMEDAD 9256 9289	Fibrilación auricular paroxística
+T74	ENFERMEDAD 9487 9528	EPOC moderada fenotipo bronquitis crónica
+T75	ENFERMEDAD 9530 9540	Tabaquismo
+T76	ENFERMEDAD 9553 9561	Obesidad
+T77	ENFERMEDAD 3272 3310	Aurícula izquierda gravemente dilatada
+T78	ENFERMEDAD 247 254	Fumador
+T79	ENFERMEDAD 3381 3408	Válvula aórtica esclerosada
+T80	ENFERMEDAD 2944 2959	daño miocárdico
+T81	ENFERMEDAD 3030 3073	ventrículo izquierdo moderadamente dilatado
+T82	ENFERMEDAD 3693 3746	tronco coronario izquierdo calcificado, con estenosis
+T83	ENFERMEDAD 3846 3912	Lesión en límite de la significación en arteria circunfleja ostial
+T84	ENFERMEDAD 3967 4003	Arteria coronaria derecha con lesión
+T85	ENFERMEDAD 4713 4750	Aurícula izquierda levemente dilatada
+T181	ENFERMEDAD 9021 9036	descompensación
+T167	ENFERMEDAD 5357 5378	lesiones graves de DA
+T171	ENFERMEDAD 3921 3965	lesión significativa en primer ramo marginal

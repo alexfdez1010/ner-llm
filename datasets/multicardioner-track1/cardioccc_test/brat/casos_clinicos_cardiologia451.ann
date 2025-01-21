@@ -1,0 +1,47 @@
+T29	ENFERMEDAD 182 220	Intolerancia a amoxicilina-clavulánico
+T30	ENFERMEDAD 222 243	Hipertensión arterial
+T31	ENFERMEDAD 290 300	Dislipemia
+T32	ENFERMEDAD 331 347	Síndrome ansioso
+T33	ENFERMEDAD 378 411	fibrilación auricular paroxística
+T34	ENFERMEDAD 580 596	Estenosis mitral
+T35	ENFERMEDAD 617 644	insuficiencia cardiaca leve
+T36	ENFERMEDAD 660 695	FA con respuesta ventricular rápida
+T37	ENFERMEDAD 1399 1453	fibrilación auricular con respuesta ventricular rápida
+T38	ENFERMEDAD 2050 2088	isquemia arterial de MID por trombosis
+T39	ENFERMEDAD 2303 2340	isquemia arterial en arteria poplítea
+T40	ENFERMEDAD 2386 2473	ictus isquémico agudo en territorio de la ACM izquierda secundario a oclusión carotídea
+T41	ENFERMEDAD 2559 2600	trombo flotante a nivel de cayado aórtico
+T42	ENFERMEDAD 2704 2729	estenosis mitral moderada
+T43	ENFERMEDAD 2804 2822	Esclerosis aórtica
+T44	ENFERMEDAD 2976 3062	isquemia arterial aguda por oclusión trombótica a nivel de arteria femoral superficial
+T45	ENFERMEDAD 3292 3328	isquemia aguda de toda la extremidad
+T46	ENFERMEDAD 3871 3886	evento embólico
+T47	ENFERMEDAD 4317 4354	isquemia arterial en arteria poplítea
+T48	ENFERMEDAD 4669 4704	hemiplejia de extremidades derechas
+T49	ENFERMEDAD 4726 4747	sangrado intracraneal
+T50	ENFERMEDAD 4840 4861	sangrado intracraneal
+T51	ENFERMEDAD 5027 5082	ictus en territorio de arteria cerebral media izquierda
+T53	ENFERMEDAD 5217 5301	ictus isquémico agudo en territorio de ACM izquierda secundario a oclusión carotídea
+T54	ENFERMEDAD 5344 5386	trombo flotante a nivel del cayado aórtico
+T55	ENFERMEDAD 5662 5677	trombo cervical
+T56	ENFERMEDAD 5887 5905	hemiplejia derecha
+T57	ENFERMEDAD 5947 5964	isquemia arterial
+T58	ENFERMEDAD 6403 6439	insuficiencia cardiaca descompensada
+T59	ENFERMEDAD 6531 6566	estenosis mitral reumática moderada
+T60	ENFERMEDAD 6769 6824	Ictus isquémico en territorio de arteria cerebral media
+T61	ENFERMEDAD 6894 6981	Trombo flotante a nivel de cayado con oclusión de origen de arteria subclavia izquierda
+T62	ENFERMEDAD 6983 7013	Isquemia arterial aguda de MSI
+T63	ENFERMEDAD 7041 7071	Isquemia arterial aguda de MII
+T64	ENFERMEDAD 7131 7161	Isquemia arterial aguda de MID
+T65	ENFERMEDAD 7221 7256	Estenosis mitral reumática moderada
+T66	ENFERMEDAD 7274 7306	Fibrilación auricular permanente
+T67	ENFERMEDAD 7410 7431	Hipertensión arterial
+T68	ENFERMEDAD 2752 2791	Severa dilatación de aurícula izquierda
+T69	ENFERMEDAD 1580 1593	cardiomegalia
+T70	ENFERMEDAD 562 578	Dilatación de AI
+T71	ENFERMEDAD 5456 5483	ocluye la arteria subclavia
+T135	ENFERMEDAD 5740 5747	infarto
+T128	ENFERMEDAD 2635 2685	ocluye el origen de la arteria subclavia izquierda
+T52	ENFERMEDAD 6444 6453	FA rápida
+T116	ENFERMEDAD 6571 6610	dilatación severa de aurícula izquierda
+T129	ENFERMEDAD 6838 6892	oclusión en tándem de ACI-ACM de perfil cardioembólico

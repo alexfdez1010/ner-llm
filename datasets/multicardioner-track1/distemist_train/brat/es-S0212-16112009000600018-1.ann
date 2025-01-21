@@ -1,0 +1,16 @@
+T1	ENFERMEDAD 64 79	ascitis quilosa
+T3	ENFERMEDAD 142 160	cólicos nefríticos
+T4	ENFERMEDAD 240 303	seminoma testicular izquierdo con adenopatías retroperitoneales
+T5	ENFERMEDAD 274 303	adenopatías retroperitoneales
+T20	ENFERMEDAD 1067 1074	ascitis
+T22	ENFERMEDAD 1125 1132	ascitis
+T28	ENFERMEDAD 1572 1583	adenopatías
+T39	ENFERMEDAD 2174 2189	derrame pleural
+T42	ENFERMEDAD 3353 3387	malnutrición proteicocalórica leve
+T43	ENFERMEDAD 3406 3466	ascitis quilosa secundaria a linfadenectomía retroperitoneal
+T58	ENFERMEDAD 839 874	complicaciones en el postoperatorio
+T60	ENFERMEDAD 739 750	adenopatías
+T64	ENFERMEDAD 129 139	tabaquismo
+T66	ENFERMEDAD 1369 1385	líquido ascítico
+T73	ENFERMEDAD 1273 1302	líquido libre intra-abdominal
+T2	ENFERMEDAD 626 642	masa adenopática

@@ -1,0 +1,13 @@
+T3	ENFERMEDAD 1462 1490	glomerulonefritis (GN) aguda
+T4	ENFERMEDAD 35 38	SSp
+T7	ENFERMEDAD 65 78	síndrome seco
+T11	ENFERMEDAD 2379 2425	glomerulopatía crioglobulinémica asociada a SS
+T14	ENFERMEDAD 1545 1574	proceso infeccioso mandibular
+T18	ENFERMEDAD 114 126	poliartritis
+T23	ENFERMEDAD 646 690	infección activa en arcada dentaria inferior
+T26	ENFERMEDAD 725 742	lesiones cutáneas
+T30	ENFERMEDAD 1162 1165	SSp
+T62	ENFERMEDAD 1481 1483	GN
+T1	ENFERMEDAD 2299 2364	Glomérulos con masivos trombos intracapilares de inmunoglobulinas
+#1	AnnotatorNotes T4	   SSP: Síndrome de Sjögren primario
+#2	AnnotatorNotes T62	   GN: glomerulo-nefritis

@@ -1,0 +1,44 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Mujer de 71 años, sin alergias medicamentosas conocidas, hipertensa, obesa, dislipémica y diabética; con antecedentes de hipotiroidismo en tratamiento sustitutivo e intervenida de prótesis de rodilla izquierda hace 5 años. Sin antecedentes personales ni familiares de cardiopatía ni muerte súbita.
+Sigue tratamiento habitual con: omeprazol 20 mg/24h, simvastatina 20 mg/24h, olmesartán/amlodipino/hidroclorotiazida 40/10/12,5 mg/24h, levotiroxina 175 mcg/24h e insulina.
+
+ENFERMEDAD ACTUAL
+La paciente consulta porque desde hace 3 días presenta disnea progresiva hasta hacerse de mínimos esfuerzos, junto con episodios de ortopnea y disnea paroxística nocturna; no refiere episodios de angina ni otra clínica asociada. Presenta importante trabajo respiratorio, por lo que avisa a los servicios de emergencia sanitarios y es trasladada a nuestro centro. Previo al ingreso, la paciente se encontraba en clase funcional I/IV de la New York Heart Association (NYHA).
+
+EXPLORACIÓN FÍSICA
+Regular estado general. Tensión arterial (TA) 140/70 mmHg. Frecuencia cardiaca (FC) 110 lpm. PVY no valorable. Saturación de O2 con reservorio (FiO2 50%): 80%.
+Taquipneica, con importante trabajo respiratorio. Consciente y orientada.
+Auscultación cardiaca: ruidos cardiacos rítmicos. Soplo sistólico en foco mitral III/VI.
+Auscultación pulmonar: crepitantes finos hasta campos pulmonares superiores y silencio auscultatorio en hemitórax derecho.
+Abdomen: globuloso, no doloroso. No se palpan masas ni megalias. Sin ascitis.
+Miembros inferiores: pulsos presentes con ligero edema pretibial bilateral.
+
+PRUEBAS COMPLEMENTARIAS
+ECG al ingreso: ritmo sinusal a 70 lpm, PR 220ms, QRS estrecho. Onda Q inferior. Pobre progresión de onda R en precordiales. QTc de 520 ms.
+Radiografía de tórax portátil al ingreso: cardiomegalia. Edema alveolar bilateral. Derrame pleural derecho.
+Analítica durante ingreso:
+Hemograma: 11.100 leucocitos (76% neutrófilos), hemoglobina 12,5 g/dl, hematocrito 43%, 388.000 plaquetas,
+Bioquímica: creatinina 1,02 mg/dl (índice de filtrado glomerular 52 ml/min/m2), urea 46 mg/dl, iones normales. Marcadores de daño miocárdico pico: CK 316 U/l (CK MB40), TnUS 332 ng/dl. Hb1AC 6,8%. Colesterol total 143 g/dl, HDL 41 mg/dl,
+Triglicéridos 76 mg/dl.
+Coagulación: INR 1,06; tasa de protrombina 91%. proBNP al ingreso: 17680 pg/ml.
+Ecocardiograma transtorácico: ventrículo izquierdo dilatado (DTd 61 mm), con acinesia postero-basal e infero-basal. FEVI calculada por Simpson biplano del 35%.
+Disfunción ventricular derecha (TAPSE 11 mm). Insuficiencia mitral grave por mecanismo IIIb de Carpentier. Regurgitación tricuspídea ligera con hipertensión pulmonar en reposo (50 mmHg).
+Ecocardiograma transesofágico: válvula mitral con calcificación del anillo, fibrosis de los velos con restricción del movimiento del velo posterior que condiciona una regurgitación de grado grave. Velo posterior de 10-11mm. Regurgitación tricuspídea ligera. Disfunción ventricular derecha. Orejuela izquierda libre de trombos.
+Estudio hemodinámico: enfermedad coronaria de tres vasos. Dominancia derecha. Anomalía coronaria consistente en nacimiento de todas las arterias coronarias en el seno de Valsalva derecho, con ostium independiente. Estenosis grave de la arteria descendente anterior (ADA) media, estenosis grave en la primera obtusa marginal (OM1) y oclusión de aspecto crónico en coronaria derecha (CD) distal, cuyo vaso distal se rellena por circulación heterocoronaria.
+Ventriculografía: ventrículo izquierdo (VI) gravemente dilatado, con depresión grave de la FEVI (31%) a expensas de acinesia inferior y posterolateral e hipoquinesia del resto de segmentos.
+Angioplastia: se predilata la lesión de la OM1 y posteriormente se implanta un stent farmacoactivo 2,75 x 15 mm cubriendo la lesión con buen resultado angiográfico. A continuación se predilata con balón la lesión de la ADA media y se implanta un stent farmacoactivo 2,25 x 38 mm con buen resultado angiográfico final.
+
+EVOLUCIÓN CLÍNICA
+A su llegada al servicio de urgencias la paciente se encuentra en situación de edema agudo de pulmón, por lo que ingresa en la unidad coronaria iniciándose soporte ventilatorio con ventilación mecánica no invasiva y tratamiento diurético y vasodilatador con buena respuesta, consiguiéndose en pocas horas estabilización del cuadro clínico.
+Se realiza un ecocardiograma que muestra regurgitación mitral grave por restricción de la movilidad del velo posterior (mecanismo IIIb de la clasificación de Carpentier). Posteriormente se realiza un estudio hemodinámico donde se evidencia una anomalía coronaria consistente en el nacimiento del árbol coronario izquierdo en el seno de Valsalva derecho y una enfermedad coronaria grave de tres vasos. Tras discutir el caso con el servicio de cirugía cardiaca de nuestro centro se decide revascularización percutánea de OM1 y ADA, con posterior reevaluación de la insuficiencia mitral (IM).
+
+Tras la revascularización percutánea, la paciente presenta buena evolución clínica, aunque con persistencia de los datos de insuficiencia cardiaca a pesar de tratamiento diurético, por lo que tras discutir en el heart team las alternativas terapéuticas y de acuerdo con la paciente, se decide tratamiento percutáneo de su patología valvular mitral mediante dispositivo MitraClip; procedimiento que se realiza un mes después del alta hospitalaria de manera exitosa, con un implante de un único clip en posición mitral, guiado por fluoroscopia y ecocardiograma transesofágico con reducción de la regurgitación de grado 4+ a 1+, sin estenosis mitral residual posimplante.
+Tras el procedimiento la paciente presenta buena evolución clínica, pudiendo ser dada de alta a los dos días del procedimiento.
+
+DIAGNÓSTICO
+Miocardiopatía dilatada de etiología isquémica con disfunción ventricular izquierda moderada (35%). Infarto de miocardio inferior antiguo.
+Anomalía coronaria (nacimiento de todas las arterias coronarias en el seno de Valsalva derecho, con ostium independiente).
+Enfermedad coronaria grave de tres vasos. Revascularización percutánea parcial (descendente anterior [DA] y circunfleja [Cx]).
+Insuficiencia mitral grave por mecanismo IIIb de Carpentier. Reparación percutánea mitral mediante dispositivo MitraClip exitosa y sin complicaciones.

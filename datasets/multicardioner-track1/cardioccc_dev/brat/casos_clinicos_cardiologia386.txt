@@ -1,0 +1,30 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+ANTECEDENTES:
+Paciente de 44 años de edad, sin alergias medicamentosas ni antecedentes médicos de interés.
+No consumo de tóxicos. No antecedentes de cardiopatía isquémica precoz ni muerte súbita en familiares de primer grado.
+
+ENFERMEDAD ACTUAL:
+La paciente acudió a urgencias por presentar un dolor retroesternal asociado a vómitos alimenticios, seguido de cuadro presincopal. Se realizó electrocardiograma (ECG) en el que se observó supradesnivelación del segmento ST en cara anterior por lo que, previa administración de ácido acetilsalicílico (AAS) 300 mg y ticagrelor 180 mg como dosis de carga de doble antiagregación, se activa el código infarto para la realización de una coronariografía urgente.
+Esta no se pudo realizar por la imposibilidad de canalizar un acceso arterial periférico (oclusión crónica de ambas arterias radiales y ambas arterias ilíacas) por lo que, ante la imposibilidad de realización de intervencionismo percutáneo, se procede a la realización de fibrinólisis con tenecteplasa 6000 U iv.
+La paciente no presentó datos electrocardiográficos de reperfusión tras la fibrinolisis, aunque quedó asintomática. Mantenía cifras bajas de tensión arterial por monitorización no invasiva y periférica durante su ingreso. En el ecocardiograma se observa una disfunción ventricular izquierda (FEVI 27%) con acinesia de todos los segmentos apicales e hipocinesia grave de segmentos anterior basal y medio y anteroseptal basal y medio. Tras la realización de angio-TC y localizar el nivel de las oclusiones vasculares, finalmente se consigue mediante radiología intervencionista acceso vascular a nivel de tronco braquicefálico derecho. Se realiza coronariografía que muestra estenosis grave a nivel próximo-medial de descendente anterior, donde se implanta un stent farmacoactivo.
+Ante el caso de paciente joven sin factores de riesgo cardiovascular con múltiples oclusiones de troncos arteriales se sospechó una vasculitis de grandes vasos (posiblemente enfermedad de Takayasu) por lo que se comenzó tratamiento con metilprednisona 60 mg/24 horas y ciclofosfamida 120 mg/24 horas.
+
+EXPLORACIÓN FISICA:
+Tensión arterial (brazo derecho) 75/45 mmHg; tensión arterial (brazo izquierdo) 92/57 mmHg.
+Frecuencia cardiaca (FC) 80 lpm. Auscultación cardiaca: rítmica con soplo sistólico II/VI en foco mitral. También se ausculta soplo a nivel de arteria subclavia derecha. Extremidades inferiores: no edemas. No se palpan pulsos pedios ni tibiales.
+
+PRUEBAS COMPLEMENTARIAS
+ESTUDIO DE AUTOINMUNIDAD: VSG 88 mm; proteína C reactiva 14,1 mg/dl. ANAs, ENAs, antiDNA, factor reumatoide, anticardiolipina, anticoagulante lúpico, ANCAs: negativos. También resultaron negativas las principales serologías.
+MARCADORES DE DAÑO MIOCÁRDICO pico: troponina T HS pico: > 10.000 ng/l. CK 8294 U/l; CKMB 1261 U/l.
+ECG al ingreso: RS a 90. Supradesnivelación del ST 6-7 mm en V2-V6, I y aVL. Descenso del ST en cara inferior
+ECG al alta: RS a 70 lpm. Onda Q en V1-V3, I y aVL. Onda T negativa en V2-V6, I y aVL.
+ECOCARDIOGRAMA al alta: moderada depresión de la fracción de eyección (FEVI 41%) por aneurisma anterior y septal medio y de todos los segmentos apicales con patrón de llenado restrictivo y presiones diastólicas elevadas. Leve insuficiencia mitral.
+ANGIO-TC de aorta y troncos supraaórticos: estenosis de tronco braquiocefálico derecho en un 70%. Estenosis de la arteria subclavia derecha en su tramo proximal en un 90%. Variante anatómica con un tronco común izquierdo que se encuentra obstruido al 100% en el tramo inicial de 2,5 mm de longitud. Ateromatosis en cayado aórtico y arteria torácica descendente. Obstrucción completa de luz vascular en aorta abdominal infrarrenal en situación proximal a las arterias renales y recanalización en arterias iliacas primitivas.
+CORONARIOGRAFÍA: estenosis grave en descendente anterior media en bifurcación con rama diagonal. También presenta ateromatosis difusa a nivel medio y distal con placa moderada en ese nivel. Coronaria derecha y circunfleja sin lesiones.
+
+EVOLUCIÓN CLÍNICA
+Presenta buena evolución posteriormente, siendo dada de alta en buena clase funcional y con disfunción sistólica moderadamente deprimida (FEVI 41%) a expensas de segmentos apicales.
+
+DIAGNÓSTICO
+Infarto agudo de miocardio (IAM) Q anterior.
+Enfermedad de Takayasu.

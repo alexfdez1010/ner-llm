@@ -1,0 +1,33 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+Distrofia miotónica de Steinert.
+Trabaja en una fábrica de piezas para coches.
+Intervenida 8 años antes de una CIA tipo OS por cirugía mínimamente invasiva (minitoracotomía derecha tipo Heart Port modificado). Posoperatorio sin complicaciones aparentes.
+
+Enfermedad actual
+Mujer de 45 años que acude a urgencias por presentar disnea de esfuerzo de unos 5 años de evolución (clase funcional de la NYHA I-II/IV), que progresa a mínimos esfuerzos (NYHA III/IV) con aparición de cianosis los últimos meses.
+
+Exploración física
+Peso 50 kg, talla 1,60 m. Índice de masa corporal (IMC) 19,5 kg/m .
+Tensión arterial (TA) 104/82 mmHg. Frecuencia cardiaca (FC) 80 lpm. Saturación de O2 (SatO2) 75% con aire ambiente.
+Eupneica en reposo, sin ortopnea ni platipnea. Cianosis generalizada.
+Presión venosa yugular normal. Reflejo hepatoyugular negativo. Ausencia de acropaquias. Auscultación cardiaca: regular, sin soplos. Auscultación pulmonar: murmullo vesicular conservado. Sin agregados. Extremidades: Sin edemas. Pulsos periféricos conservados y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): ritmo sinusal a 93 lpm. PR 120 ms. QRS 60 ms. QTc 398ms. Sin alteraciones de la repolarización.
+Analítica: hemoglobina 20 g/dl, hematocrito 62%, plaquetas 144.000 /μl, leucocitos 7400/μl. Eritropoyetina 7,71 mlU/ml (2,59-18,5). Razón internacional normalizada (INR) 1,05. Glucemia basal 82 mg/dl. Urea 36 mg/dl, creatinina 0,81 mg/dl, sodio 137 mEq/l, potasio 4,1 mEq/l.
+Gasometría arterial: pH 7,42, pCO2 35 mmHg, pO2 41 mmHg, HCO3 22,7, SpO2 70,7%, lactato 1 mmol/l.
+Radiografía de tórax: silueta cardiomediastínica centrada. Índice cardiotorácico (ICT) menor a 0,5. Campos pulmonares traslúcidos sin derrame pleural o condensación.
+Ecocardiograma transtorácico y transesofágico: exploración transesofágica (sin sedación por hipoxemia basal): comunicación interauricular intervenida sin cortocircuito residual significativo (se aprecia mínimo cortocircuito a nivel del parche de pericardio sin ninguna repercusión funcional). Ventrículo izquierdo con diámetros, volúmenes y función global sistólica conservada. No se aprecian alteraciones de la contractilidad segmentaria. No valvulopatías significativas. Patrón diastólico de ventrículo izquierdo dentro de la normalidad. Ventrículo derecho de diámetros normales con función global sistólica conservada. Insuficiencia tricúspide ligera que permite cuantificar PAPs 20-25 mmHg. Vena cava inferior normal. Ritmo sinusal. La inyección de gelafundina no muestra paso de burbujas a cavidades izquierdas al administrarse en ambos miembros superiores.
+Angio-TAC: no se evidencian defectos de repleción en arterias pulmonares principales, lobares, segmentarias ni subsegmentarias que sugieran tromboembolismo pulmonar (TEP). No signos de hipertensión pulmonar ni infartos pulmonares. No se evidencian nódulos ni consolidaciones pulmonares. Ausencia de derrame pleural o pericárdico. No se observan lesiones óseas sugestivas de malignidad. No se evidencian otros hallazgos relevantes mediante esta técnica.
+Gammagrafía ventilación/perfusión: estudio gammagráfico sin defectos perfusión ni ventilación.
+Espirometría: discreta restricción pulmonar, con difusión normal.
+Resonancia magnética cardiaca: ventrículo izquierdo (VI) de volúmenes pequeños (VTD 38 ml/m, VTS 13 ml/m, IMVI 35 g/m) sin hipertrofia significativa de sus paredes ni alteraciones de la contractilidad segmentaria en reposo y con función global sistólica (FGS) conservada (FEVI 66%). Ventrículo derecho (VD) no dilatado (VTD 14 ml/m, VTS 5 ml/m ) con función global sistólica conservada (FEVD 62%). Aorta y grandes vasos de diámetros y morfología normales. Aurículas de dimensiones normales. QP/QS (1,4/4,1)= 0,34, indicativo de shunt derecha izquierda. Se administra ácido gadotérico (0,15 mM/kg) para estudio vascular 3D: aorta y tronco pulmonar de diámetros y morfología normal. Se observa drenaje sistémico anormal con drenaje de vena cava inferior en aurícula izquierda (AI). Drenaje de venas pulmonares normales. Estudio de detección de necrosis y viabilidad: ausencia de RTG miocárdico sugestivo de necrosis/fibrosis. Conclusión: drenaje sistémico anómalo con vena cava inferior drenando en AI con QP/QS de 0,34 (indicativo de shunt derecha izquierda) con VI y VD de volúmenes y FGS conservada.
+
+EVOLUCIÓN CLÍNICA
+Ante la sospecha clínica de un shunt residual de derecha a izquierda, se solicitó inicialmente una ecocardiografía transtorácica (ETT) y una ecocardiografía transesofágica (ETE) para tratar de confirmar el diagnóstico. Ambos estudios demostraron una función biventricular normal sin hipertensión pulmonar asociada. Se administró contraste a través de ambos miembros superiores sin objetivar paso de burbujas a cavidades izquierdas. Continuando con el proceso diagnóstico se realizaron una tomografía pulmonar y una gammagrafía de ventilación/perfusión ambas con resultados dentro de la normalidad. Sin embargo, ante la alta sospecha clínica se decidió concluir el estudio con una resonancia magnética cardiaca (RMC) en la que se objetivó un drenaje anómalo de la vena cava inferior (VCI) hacia la aurícula izquierda.
+Ante estos hallazgos se lleva a cabo una corrección anatómica del drenaje anómalo de VCI. Durante la intervención se objetiva una comunicación interauricular (CIA) reparada localizada en la porción inferior del septo interauricular, con una válvula de Eustaquio prominente y una sutura errónea ocasionando el drenaje de la VCI en la aurícula izquierda (AI). En ausencia de complicaciones posquirúrgicas, la paciente es dada de alta, permaneciendo posteriormente asintomática y con gasometrías arteriales y ecocardiografía de control normales.
+
+DIAGNÓSTICO
+Drenaje anómalo de vena cava inferior en aurícula izquierda tras reparación quirúrgica de comunicación interauricular.

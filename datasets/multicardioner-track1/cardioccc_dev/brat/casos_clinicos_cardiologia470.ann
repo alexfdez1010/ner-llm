@@ -1,0 +1,20 @@
+T27	ENFERMEDAD 163 189	parada cardiorrespiratoria
+T28	ENFERMEDAD 234 255	Hipertensión arterial
+T29	ENFERMEDAD 292 316	Diabetes mellitus tipo 2
+T30	ENFERMEDAD 348 361	Hiperuricemia
+T31	ENFERMEDAD 385 400	artritis gotosa
+T32	ENFERMEDAD 2510 2523	valvulopatías
+T33	ENFERMEDAD 2802 2823	sangrado intracraneal
+T34	ENFERMEDAD 2891 2932	disfunción ventricular izquierda moderada
+T35	ENFERMEDAD 3052 3069	miocarditis aguda
+T36	ENFERMEDAD 3303 3323	hipotensión arterial
+T37	ENFERMEDAD 3725 3742	status convulsivo
+T38	ENFERMEDAD 4123 4148	extrasistolia ventricular
+T39	ENFERMEDAD 4153 4162	arritmias
+T40	ENFERMEDAD 4467 4478	miocarditis
+T41	ENFERMEDAD 4667 4724	muerte súbita secundaria a miocardiopatía por miocarditis
+T42	ENFERMEDAD 4778 4797	Neumonía aspirativa
+T43	ENFERMEDAD 4799 4838	Miocardiopatía secundaria a miocarditis
+T44	ENFERMEDAD 4739 4776	Parada cardiorrespiratoria recuperada
+T45	ENFERMEDAD 2280 2325	ventrículo izquierdo ligeramente hipertrófico
+T122	ENFERMEDAD 3899 3926	aspiración en la intubación

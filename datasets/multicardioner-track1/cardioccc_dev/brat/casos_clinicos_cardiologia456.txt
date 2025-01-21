@@ -1,0 +1,28 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 45 años diabética tipo 2. En el año 2007 fue diagnosticada de una miocardiopatía hipertrófica no obstructiva, inicialmente con función ventricular normal aunque ya desde 2012 presentaba disfunción severa del ventrículo izquierdo y moderada del ventrículo derecho. Además se había sometido a ablación de 3 vías accesorias por síndrome de Wolff-Parkinson-White y en 2012 requirió implante de marcapasos por bloqueo AV de alto grado. Como otros antecedentes destaca implante coclear en oído derecho en 2004 por sordera neurosensorial. Situación basal: independiente para las actividades de la vida diaria, en clase funcional III NYHA, sin angina. Tratamiento habitual: bisoprolol 1,25 mg, eplerenona 25 mg, sitagliptina 25 mg, paracetamol a demanda.
+Ingresa en nuestro hospital en enero de 2016 por empeoramiento de clase funcional, presentando disnea de reposo y bendopnea, sin ortopnea ni DPN.
+
+En la exploración cabe reseñar: TA 80/50 mmHg, FC 77 lpm, saturación de O2 96 % con aire ambiente, sin datos de congestión en la auscultación pulmonar, ni edemas en miembros inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica: Hb 13,9 g/dl; leucocitos 8.240/ul; plaquetas 147.000/ul; urea 89 mg/dl; creatinina 0,96 mg/dl; Na 143 mEq/l; K 4,0 mEq/l; glucosa 76 mg/dl, HbA1c 7,1 %. Colesterol total 138 mg/dl; HDL 30 mg/dl; LDL 93 mg/dl; TG 75 mg/dl. INR 1,3. NT-proBNP 6.903 ng/dl. Perfil hepático y perfil férrico normales.
+Radiografía de tórax: portadora de marcapasos bicameral. Cardiomegalia.
+Senos costofrénicos libres, sin signos de congestión pulmonar.
+ECG: ritmo sinusal a 60 lpm con estimulación ventricular mediada por marcapasos.
+Ecocardiograma: VI no dilatado, con hipertrofia severa asimétrica, sin datos de obstrucción dinámica a nivel del tracto de salida. Función sistólica global severamente deprimida (FEVI por Simpson biplano: 21 %). Patrón de llenado pseudonormal. VD hipertrófico, con disfunción sistólica de grado moderado (fracción de acortamiento: 29 %). IM ligera. IAo ligera. IT ligera, que permite estimar una PSAP de 32 mmHg. Sin derrame pericárdico.
+
+EVOLUCIÓN
+Durante el ingreso se ajusta tratamiento diurético y se procede al alta hospitalaria a los 7 días. Se interroga a la paciente sobre los antecedentes familiares y llama la atención que tres de sus siete hermanas eran diabéticas y portadoras de un implante coclear. Por lo tanto, se trata de una paciente con hipoacusia y diabetes (ambas a edad temprana y con antecedentes familiares) y miocardiopatía hipertrófica.
+Se sospecha que podría tratarse de una enfermedad mitocondrial, por lo que se solicita un estudio genético que posteriormente confirma la existencia de la mutación 3243A>G, estableciéndose el diagnóstico de síndrome MELAS (Mitochondrial
+Encephalomyopathy with Lactic Acidosis and Stroke-like episodes).
+A los dos meses la paciente presenta mejoría clínica subjetiva, ha comenzado programa de rehabilitación cardiaca y continúa con tendencia a hipotensión arterial.
+
+A los cuatro meses del alta hospitalaria se realiza upgrade a DAI-TRC tricameral sin complicaciones. Mejor tolerancia a la actividad física desde que inició rehabilitación cardiaca, pero está en clase funcional de la NYHA II-III. Es valorada por Neurología, quienes consideran que la afectación neurológica parece poco importante, y que los casos de ictus son más frecuentes a edades tempranas y en los varones afectos de la enfermedad, por lo que el pronóstico neurológico no parece limitante en esta paciente. De acuerdo con la mala clase funcional que presenta y la naturaleza progresiva de la afectación cardiaca, así como la escasa comorbilidad significativa asociada, se realiza canalización a otro hospital para valoración de trasplante cardiaco. Se realizan serologías de virus, pruebas de función respiratoria y ecografía abdominal, con resultados normales. Sin embargo, la paciente no entra en lista de espera para trasplante por trastorno depresivo grave.
+
+DIAGNÓSTICO
+Síndrome MELAS:
+Miocardiopatía hipertrófica no obstructiva en fase dilatada. Afectación biventricular con disfunción sistólica de VI severa y de VD moderada. Insuficiencia cardiaca en clase funcional II-III NYHA.
+Síndrome de Wolff-Parkinson-White con ablación de 3 vías accesorias.
+Bloqueo AV de alto grado, portadora de marcapasos bicameral con upgrade a DAI-CRT.
+Sordera neurosensorial, portadora de implante coclear.
+Diabetes mellitus tipo 2.

@@ -1,0 +1,43 @@
+Anamnesis
+Sexo masculino, 79 años. Autoválido. Procedente de Salto.
+Antecedentes patológicos: –Hipertensión arterial crónica. Ex-tabaquista. –Diabetes  mellitus  tipo  2  con  repercusiones  macro  y microvasculares (cardiopatía isquémica, arteriopatía de MMII con amputación  de  ambos hallux,  enfermedad  renal  crónica, retinopatía diabética). –Cirugía  de  sustitución  valvular  aórtica  (SVAo)  por  estenosis aórtica severa sintomática en marzo 2015 junto con cirugía de revascularización miocárdica. Enfermedad actual: 8/11/16 Infección de segundo dedo de pie derecho (signos fluxivos y fiebre) que motivan la consulta en Salto, se indica antibioticoterapia oral que cumple por siete días (se desconoce  cuál  antibiótico)  con  remisión  transitoria  de  la sintomatología.
+
+15/11/16 Instala síndrome confusional, fiebre 40o C axilar y disnea. Reconsulta en hospital de Salto.
+
+Al examen se destaca: GCS 12, FR 26 rpm, PA 100/60mmHg, Ta x 38,5o. Normocoloreado. Hemorragias en astilla y nódulos de Osler en manos. PP: estertores crepitantes bibasales. CV: RR 110 cpm, Soplo holosistólicoeyectivo 2/6 en mesocardio, IY y RHY discreto. Abdomen: blando e indoloro, no visceromegalias. PNM conciencia descrita, sector meníngeo normal, sin alteraciones de pares craneanos ni a nivel espinal. MMII amputación de ambos hallux, segundo dedo de pie derecho con necrosis húmeda.
+
+Exámenes diagnósticos relevantes
+• RxTx Redistribución de flujo a ambos vértices. Hilios congestivos.
+• Hemoglobina 10 g/dL, glóbulos blancos 10000/mL, plaquetas 49000/mL. VES 74 mm/h.
+• Creatininemia 3 mg/dL, azoemia 153 mg/dL.
+• Gasometría: acidosis metabólica, ionograma normal.
+• ECG: bloqueo aurículo-ventricular (BAV) de primer grado
+• Hemocultivos  (2): desarrollan Staphylococcusaureusmeticilino-sensible (SAMS)
+• Ecocardiograma transesofágico(ETE)  18/11:  prótesis  biológica aórtica normofuncionante, área valvular aórtica 1,7 cm2 sin fugas. Masa redondeada de 7x7 mm que se adhiere al borde libre de valva izquierda y se proyecta hacia la aorta en sístole. Válvula mitral con calcificación del anillo e insuficiencia mitral moderada.
+
+
+Valoración de complicaciones:
+TC abdomen: imágenes compatibles con Infartos esplénicos
+ECG: BAV de segundo grado
+Agravación de insuficiencia renal con Requerimiento dialítico
+
+Diagnóstico I
+Endocarditis  infecciosa  (EI)  sobre  válvula  aórtica  protésica,  tardía.
+Etiología: Staphylococcusaureusmeticilino sensible (SAMS). Complicada con insuficiencia cardíaca, absceso valvular, infartos esplénicos e injuria renal.
+
+Tratamiento:
+Cefazolina2g  c/8 hs iv; gentamicina 3mg/kg/día iv; rifampicina 600 mg c/12 hsvo. Se plantea tratamiento quirúrgico precoz.
+
+Evolución
+72 horas de iniciado tratamiento (20/11): febril/aumenta edema pulmonar.
+• Amputación de segundo dedo pie.
+• Evoluciona a BAV completo requiere marcapasos transitorio.
+• Persiste en ETE masa muy móvil de 7x7 mm adherida a valva en posición izquierda. Engrosamiento mitroaórtico compatible con absceso. Válvula mitral con anillo calcificado, pequeñas masas sobre valva anterior del lado auricular, móviles.
+
+Diagnóstico II:
+EI a SAMS aórtica protésica tardía y mitral nativa complicada.
+• Cirugía cardíaca el 23/11. Profilaxis preQ: amikacina 1g y vancomicina 1g.
+• Recambio valvular aórtico y vegectomía de válvula mitral
+• Cultivo de material protésico aórtico: sin desarrollo.
+
+En apirexia, sin elementos de insuficiencia cardíaca. Remisión de síndrome confusional. Se retiró marcapasos, no reinstala bradiarritmias en la evolución. Mejoría de cifras de función renal. Creatininemia estable con cifras de 2 mg/dl. Se completan 6 semanas de tratamiento antibiótico luego de la cirugía  con cefazolina  y rifampicina,  habiendo  completado  dos semanas de gentamicina iv. Alta el 9/12. 

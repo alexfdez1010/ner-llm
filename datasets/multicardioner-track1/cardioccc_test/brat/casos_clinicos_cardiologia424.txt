@@ -1,0 +1,21 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 50 años, exfumador sin otros antecedentes de interés que sufre una PCR extrahospitalaria. A la llegada de los servicios de emergencias se inician maniobras de reanimación cardiopulmonar (RCP) avanzada, objetivándose FV, precisando cinco descargas para recuperar el ritmo sinusal. El tiempo total de PCR fue de 40 minutos. Se traslada a la unidad de cuidados intensivos para soporte y tratamiento.
+La exploración física no arroja hallazgos significativos, mantiéndose hemodinámicamente estable sin signos de insuficiencia cardiaca (IC) ni soplos audibles.
+
+PRUEBAS COMPLEMENTARIAS
+TROPONINA I 0,33 --> 5,39 mcg/l.
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal con evolución hacia necrosis inferior: onda Q en II, III y aVf con R acompañante y repolarización aplanada.
+RADIOGRAFÍA DE TÓRAX: sin alteraciones.
+TAC CRANEAL: sin alteraciones significativas.
+CORONARIOGRAFÍA: arterias coronarias sin estenosis significativas.
+ECOCARDIOGRAMA TRANSTORÁCICO: ventrículo izquierdo (VI) no dilatado ni hipertrófico, FEVI limítrofe (50-52%), acinesia de cara inferior y septo inferior basal. Patrón diastólico normal para la edad. Ventrículo derecho (VD) no dilatado ni hipertrófico, función sistólica conservada (TAPSE 20 mm, onda S ́12 cm/seg). Aurículas de tamaño normal. Válvula aórtica trivalva, velos finos normofuncionante. Válvula mitral de velos finos con insuficiencia leve central. Válvula tricúspide estructuralmente normal sin insuficiencia que permita estimar presión sistólica arterial pulmonar (PSAP). No datos indirectos de hipertensión pulmonar. Vena cava inferior (VCI) ligeramente dilatada (23 mm) con colapso inspiratorio > 50%. Raíz aórtica no dilatada (senos de Valsalva de 34 mm). No derrame pericárdico.
+RESONANCIA MAGNÉTICA RM9 CARDIACA en la que se objetiva: VI levemente dilatado con función sistólica conservada. Adelgazamiento e hipocontractilidad en segmentos inferoseptal, inferior e inferolateral a nivel basal y medio con edema, hipoperfusión y realce tardío subendocárdico mayor de 50% en estos segmentos. VD de tamaño y función normales. Estos hallazgos son compatibles con infarto en fase aguda.
+
+EVOLUCIÓN CLÍNICA
+Dada la alta sospecha de infarto agudo de miocardio (IAM) como causa de la PCR, y de que se tratase de una FV primaria se solicita RM cardiaca en la que se objetivan signos compatibles con infarto en fase aguda. El paciente evoluciona de forma favorable, con extubación precoz, sin secuelas neurológicas y manteniendo la estabilidad hemodinámica.
+Días más tarde es dado de alta bajo doble antiagregación, betabloqueante, estatina de alta potencia e inhibidores de la bomba de protones (IBP). Hasta el momento actual mantiene la buena evolución.
+
+DIAGNÓSTICO
+PCR en FV en el contexto de IAM inferior.
+Coronarias sin lesiones significativas.
+Función sistólica del VI conservada.

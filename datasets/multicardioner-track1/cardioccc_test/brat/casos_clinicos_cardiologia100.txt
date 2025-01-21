@@ -1,0 +1,21 @@
+Paciente que es derivado a consultas de Cardiología desde Neurología para valoración. 
+
+Antecedentes, enfermedad actual y exploración física
+
+Antecedentes familiares: Madre con lengua plicata sin parálisis facial. Dos hermanos y dos sobrinos con síndrome de Steinert. Dos hijos sanos.
+
+Historia actual: El paciente presenta nuevas alteraciones en el electrocardiograma (ECG) consistentes en PR de 280 milisegundos (msg), QRS de 150 msg, con imagen de bloqueo completo de rama izquierda (BCRI).
+Electrocardiograma dos años antes sin alteraciones de la conducción. Es valorado ambulatoriamente en consultas de Cardiología, se solicita implante de marcapasos. El paciente niega síncope, presíncope, palpitaciones u otra sintomatología.
+
+Pruebas complementarias
+• ECG a su ingreso: Ritmo sinusal a 75 lpm. PR 240-280 msg. QRS de 150 msg. BCRI.
+• ECG en consultas de Neurología del año 2010: Ritmo sinusal a 70 lpm. PR 180-200 msg. QRS de 80 msg. No alteraciones de la conducción intraventricular.
+• Analítica: Glucosa, iones y función renal normal. No anemia ni leucopenia. Plaquetopenia de 84.000 plaquetas mm3.
+• Ecocardiografía transtorácica: Ventrículo izquierdo no dilatado ni hipertrófico. Aurícula izquierda no dilatada. Válvula mitral de velos finos no engrosados con jet de insuficiencia ligera central. Patrón de llenado mitral con onda E>A. Válvula aórtica trivalva con adecuada apertura y cierre. Raíz aórtica y aorta ascendente de tamaño normal. Fracción de eyección de ventrículo izquierdo conservada sin defectos segmentarios de la contractilidad. Cavidades derechas normales en tamaño y función. Insuficiencia tricuspídea ligera dirigida a nivel medial con gradiente auriculoventricular de 17 mmHg, que permite estimar una presión arterial pulmonar de 30 mmHg. Insuficiencia pulmonar trivial. Vena cava no dilatada que no colapsa. No derrame pericárdico.
+• Rx de tórax: Silueta cardiaca en el límite de la normalidad sin alteraciones a nivel de parénquima pulmonar. No derrame pleural.
+
+Evolución clínica
+El paciente ingresa de forma programada para implante de marcapasos por aparición en el ECG de alteraciones de la conducción que previamente no estaban presentes sin asociarse estas a cardiopatía estructural.
+
+Diagnóstico
+Enfermedad de Steinert con alteraciones de la conducción, subsidiarias de estimulación definitiva.

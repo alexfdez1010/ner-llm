@@ -1,0 +1,82 @@
+T58	ENFERMEDAD 89 112	alergias medicamentosas
+T59	ENFERMEDAD 141 149	fumadora
+T60	ENFERMEDAD 285 306	hipertensión arterial
+T61	ENFERMEDAD 308 318	dislipemia
+T62	ENFERMEDAD 320 345	diabetes mellitus tipo II
+T63	ENFERMEDAD 419 440	retinopatía diabética
+T64	ENFERMEDAD 442 458	Obesidad mórbida
+T65	ENFERMEDAD 533 559	Síndrome coronario crónico
+T66	ENFERMEDAD 586 603	angor de esfuerzo
+T67	ENFERMEDAD 763 831	estenosis significativa en arteria descendente anterior media-distal
+T68	ENFERMEDAD 895 912	ateromatosis leve
+T69	ENFERMEDAD 971 1003	estenosis aórtica moderada-grave
+T70	ENFERMEDAD 1300 1335	Insuficiencia aórtica leve-moderada
+T71	ENFERMEDAD 1543 1575	Insuficiencia tricuspídea ligera
+T72	ENFERMEDAD 1656 1675	derrame pericárdico
+T73	ENFERMEDAD 1733 1778	Infecciones del tracto urinario de repetición
+T74	ENFERMEDAD 1780 1799	Esteatosis hepática
+T75	ENFERMEDAD 1829 1845	hernia umbilical
+T76	ENFERMEDAD 2352 2378	síndrome coronario crónico
+T77	ENFERMEDAD 2468 2500	estenosis aórtica moderada-grave
+T78	ENFERMEDAD 2680 2688	síncopes
+T79	ENFERMEDAD 2948 2962	Obesidad grave
+T80	ENFERMEDAD 3140 3148	obesidad
+T81	ENFERMEDAD 3259 3321	Trastornos tróficos cutáneos crónicos en extremidad inferiores
+T82	ENFERMEDAD 3467 3500	Hipertrofia ventricular izquierda
+T83	ENFERMEDAD 4205 4240	Insuficiencia aórtica leve-moderada
+T84	ENFERMEDAD 4417 4442	insuficiencia tricuspídea
+T85	ENFERMEDAD 4525 4546	hipertensión pulmonar
+T86	ENFERMEDAD 4613 4632	derrame pericárdico
+T87	ENFERMEDAD 5961 6021	Placas calcificadas en aorta abdominal infrarrenal e iliacas
+T88	ENFERMEDAD 6702 6742	ateromatosis calcificada difusa moderada
+T89	ENFERMEDAD 6794 6835	ateromatosis coronaria calcificada difusa
+T90	ENFERMEDAD 7244 7265	insuficiencia aórtica
+T91	ENFERMEDAD 7481 7505	insuficiencia tricúspide
+T92	ENFERMEDAD 7629 7648	derrame pericárdico
+T93	ENFERMEDAD 7764 7790	síndrome coronario crónico
+T94	ENFERMEDAD 7804 7878	doble lesión aórtica con estenosis predominante de carácter moderado-grave
+T95	ENFERMEDAD 8157 8222	doble lesión aórtica con estenosis predominante de carácter grave
+T96	ENFERMEDAD 8284 8322	valvulopatía aórtica de carácter grave
+T97	ENFERMEDAD 8622 8635	obesa mórbida
+T98	ENFERMEDAD 8730 8738	obesidad
+T99	ENFERMEDAD 9055 9063	diabetes
+T100	ENFERMEDAD 9337 9345	diabetes
+T101	ENFERMEDAD 9528 9563	infecciones urinarias de repetición
+T102	ENFERMEDAD 10267 10301	bloqueo completo de rama izquierda
+T103	ENFERMEDAD 10306 10333	bloqueo auriculoventricular
+T104	ENFERMEDAD 10345 10366	insuficiencia aórtica
+T105	ENFERMEDAD 10827 10848	hipertensión arterial
+T106	ENFERMEDAD 11107 11132	bloqueo de rama izquierda
+T107	ENFERMEDAD 11163 11190	bloqueo auriculoventricular
+T108	ENFERMEDAD 11286 11334	trastorno restrictivo extrapulmonar por obesidad
+T109	ENFERMEDAD 11354 11373	congestión pulmonar
+T110	ENFERMEDAD 11547 11556	infección
+T111	ENFERMEDAD 12288 12301	valvulopatías
+T112	ENFERMEDAD 12346 12351	angor
+T113	ENFERMEDAD 12668 12691	estenosis aórtica grave
+T114	ENFERMEDAD 12705 12731	Síndrome coronario crónico
+T115	ENFERMEDAD 12836 12857	hipertensión arterial
+T116	ENFERMEDAD 12859 12884	diabetes mellitus tipo II
+T117	ENFERMEDAD 12886 12896	dislipemia
+T118	ENFERMEDAD 12898 12906	obesidad
+T119	ENFERMEDAD 1453 1494	Aurícula izquierda dilatada moderadamente
+T120	ENFERMEDAD 4242 4279	Aurícula izquierda dilatada levemente
+T121	ENFERMEDAD 7383 7420	Aurícula izquierda dilatada levemente
+T122	ENFERMEDAD 124 139	Hábitos tóxicos
+T123	ENFERMEDAD 1173 1236	Válvula aórtica esclerocalcificada con estenosis moderada-grave
+T124	ENFERMEDAD 4028 4078	Válvula aórtica trivalva, esclerocalcificada grave
+T125	ENFERMEDAD 11751 11760	hematomas
+T126	ENFERMEDAD 1337 1379	Válvula mitral esclerosa con insuficiencia
+T127	ENFERMEDAD 7038 7092	hipertrofia concéntrica moderada ventricular izquierda
+T128	ENFERMEDAD 2630 2635	ángor
+T129	ENFERMEDAD 1612 1651	Aurícula derecha dilatada moderadamente
+T130	ENFERMEDAD 3959 3997	Válvula mitral esclerocalcificada leve
+T131	ENFERMEDAD 7267 7300	Válvula mitral esclerocalcificada
+T204	ENFERMEDAD 210 232	consumidora de alcohol
+T205	ENFERMEDAD 1067 1122	ventrículo izquierdo no dilatado, hipertrófico moderado
+T2	ENFERMEDAD 1680 1707	dilatación de raíz de aorta
+T7	ENFERMEDAD 3740 3823	Ventrículo izquierdo no dilatado (DVItd 44mm), con hipertrofia concéntrica moderada
+T21	ENFERMEDAD 6430 6500	arteria descendente anterior presenta una densa calcificación parietal
+T42	ENFERMEDAD 1580 1610	hipertensión pulmonar moderada
+T32	ENFERMEDAD 5317 5393	Aorta torácica de calibre y morfología normal con leves cambios ateromatosos
+T51	ENFERMEDAD 5395 5483	Aorta abdominal e iliaca de calibre y morfología normal con escasos cambios ateromatosos

@@ -1,0 +1,36 @@
+T1	ENFERMEDAD 61 66	ictus
+T17	ENFERMEDAD 868 891	foramen ovale permeable
+T18	ENFERMEDAD 893 908	prolapso mitral
+T19	ENFERMEDAD 915 976	verruga de 15 milimetros sobre el velo posterior de la mitral
+T20	ENFERMEDAD 985 1005	insuficiencia mitral
+T21	ENFERMEDAD 1038 1070	endocarditis bacteriana subaguda
+T29	ENFERMEDAD 1445 1456	adenopatías
+T33	ENFERMEDAD 1874 1886	endocarditis
+T37	ENFERMEDAD 2158 2175	embolia esplénica
+T39	ENFERMEDAD 2270 2301	accidente isquémico transitorio
+T40	ENFERMEDAD 2416 2515	cuadro ictal con afectación total de la circulación anterior de la arteria cerebral media izquierda
+T43	ENFERMEDAD 3030 3033	CID
+T46	ENFERMEDAD 2842 2856	adenocarcinoma
+T47	ENFERMEDAD 3420 3460	adenocarcinoma primario en mama y ovario
+T48	ENFERMEDAD 3637 3661	adenocarcinoma de pulmón
+T50	ENFERMEDAD 2992 3028	coagulación intravascular diseminada
+T52	ENFERMEDAD 196 204	embólico
+T66	ENFERMEDAD 2781 2785	ETNB
+T67	ENFERMEDAD 2934 2938	ETNB
+T68	ENFERMEDAD 2941 2960	hipercoagulabilidad
+T70	ENFERMEDAD 1007 1009	IM
+T72	ENFERMEDAD 1475 1500	linfangitis carcinomatosa
+T73	ENFERMEDAD 1515 1533	proceso neoplásico
+T78	ENFERMEDAD 2659 2700	verruga en la cara auricular de la mitral
+T45	ENFERMEDAD 3680 3733	fenómenos embolígenos en el contexto de paraneoplasia
+T80	ENFERMEDAD 2233 2248	cuadro sincopal
+T83	ENFERMEDAD 3124 3140	crioglobulinemia
+T84	ENFERMEDAD 2634 2642	lesiones
+T2	ENFERMEDAD 359 381	facial central derecho
+T3	ENFERMEDAD 386 422	déficit motor braquio-crural derecho
+T4	ENFERMEDAD 2552 2570	hemiplejía derecha
+T86	ENFERMEDAD 510 559	petequias en región tibial de extremidad inferior
+T5	ENFERMEDAD 570 623	hemorragias en astilla en varios dedos de ambas manos
+#3	AnnotatorNotes T66	   ETNB: Endocarditis trombótica no bacteriana
+#2	AnnotatorNotes T67	   ETNB: Endocarditis trombótica no bacteriana
+#1	AnnotatorNotes T70	   IM: insuficiencia mitral

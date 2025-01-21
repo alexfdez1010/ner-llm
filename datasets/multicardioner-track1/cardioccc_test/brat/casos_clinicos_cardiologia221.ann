@@ -1,0 +1,29 @@
+T39	ENFERMEDAD 252 300	diabetes mellitus tipo 2, no insulinodependiente
+T40	ENFERMEDAD 377 398	hipertensión arterial
+T41	ENFERMEDAD 563 640	vasculopatía periférica, con estenosis en arteria femoral superficial derecha
+T42	ENFERMEDAD 1269 1287	angina de esfuerzo
+T43	ENFERMEDAD 1834 1842	flebitis
+T44	ENFERMEDAD 1944 1981	lesión subepicárdica en cara inferior
+T45	ENFERMEDAD 2353 2368	derrame pleural
+T46	ENFERMEDAD 3055 3098	hipertrofia ligera del ventrículo izquierdo
+T47	ENFERMEDAD 3251 3264	valvulopatías
+T48	ENFERMEDAD 3426 3451	insuficiencia tricuspídea
+T49	ENFERMEDAD 3453 3455	IT
+T50	ENFERMEDAD 3571 3590	derrame pericárdico
+T51	ENFERMEDAD 4808 4815	infarto
+T52	ENFERMEDAD 4869 4982	enfermedad de tres vasos, con dos lesiones graves (en DAm y CDm) y una lesión moderada en circunfleja (Cx) distal
+T53	ENFERMEDAD 5065 5072	infarto
+T54	ENFERMEDAD 5888 5933	lesión grave de la descendente anterior media
+T55	ENFERMEDAD 6105 6186	Infarto agudo de miocardio con elevación del segmento ST de localización inferior
+T56	ENFERMEDAD 6198 6277	Enfermedad coronaria de tres vasos: CD media (ARI) 90%, DA media 90%, Cx distal
+T57	ENFERMEDAD 6391 6415	lesión grave en DA media
+T58	ENFERMEDAD 6417 6456	Disfunción ventricular izquierda ligera
+T59	ENFERMEDAD 6469 6499	Enfermedad arterial periférica
+T60	ENFERMEDAD 6501 6525	Diabetes mellitus tipo 2
+T61	ENFERMEDAD 6614 6635	Hipertensión arterial
+T62	ENFERMEDAD 4066 4081	daño miocárdico
+T63	ENFERMEDAD 5312 5330	eventos arrítmicos
+T64	ENFERMEDAD 2521 2563	Descendente anterior (DA) con lesión grave
+T65	ENFERMEDAD 2591 2613	Circunfleja con lesión
+T66	ENFERMEDAD 2642 2675	Coronaria derecha (CD) con lesión
+T67	ENFERMEDAD 2836 2848	lesión de CD

@@ -1,0 +1,34 @@
+T35	ENFERMEDAD 113 134	hipertensión arterial
+T36	ENFERMEDAD 136 139	HTA
+T37	ENFERMEDAD 142 150	fumadora
+T38	ENFERMEDAD 155 172	diabetes mellitus
+T39	ENFERMEDAD 174 176	DM
+T40	ENFERMEDAD 182 192	dislipemia
+T41	ENFERMEDAD 194 196	DL
+T42	ENFERMEDAD 229 290	parada cardiorrespiratoria (PCR) extrahospitalaria recuperada
+T43	ENFERMEDAD 317 340	fibrilación ventricular
+T44	ENFERMEDAD 626 647	vasoespasmo coronario
+T45	ENFERMEDAD 891 945	síndrome coronario agudo sin elevación del segmento ST
+T46	ENFERMEDAD 947 954	SCASEST
+T47	ENFERMEDAD 1937 1960	fibrilación ventricular
+T48	ENFERMEDAD 2754 2775	fibrilación auricular
+T49	ENFERMEDAD 3235 3250	derrame pleural
+T50	ENFERMEDAD 3780 3793	valvulopatías
+T51	ENFERMEDAD 3824 3843	derrame pericárdico
+T52	ENFERMEDAD 4525 4548	fibrilación ventricular
+T53	ENFERMEDAD 4677 4686	asistolia
+T54	ENFERMEDAD 5116 5143	extrasístoles ventriculares
+T55	ENFERMEDAD 5312 5335	fibrilación ventricular
+T56	ENFERMEDAD 5454 5460	MINOCA
+T57	ENFERMEDAD 5462 5529	infarto agudo de miocardio con coronarias sin lesiones obstructivas
+T58	ENFERMEDAD 5569 5590	vasoespasmo coronario
+T59	ENFERMEDAD 5703 5726	fibrilación ventricular
+T60	ENFERMEDAD 3023 3041	Elongación aórtica
+T61	ENFERMEDAD 257 260	PCR
+T62	ENFERMEDAD 1610 1642	PCR extrahospitalaria recuperada
+T63	ENFERMEDAD 1768 1771	PCR
+T64	ENFERMEDAD 5350 5435	Parada cardiorrespiratoria extrahospitalaria con primer ritmo fibrilación ventricular
+T65	ENFERMEDAD 5592 5618	Parada cardiorrespiratoria
+T125	ENFERMEDAD 5251 5289	extrasístole con fenómeno de R sobre T
+#1	AnnotatorNotes T56	  Infarto de miocardio sin lesiones coronarias obstructivas
+#2	AnnotatorNotes T63	  parada cardiorespiratoria

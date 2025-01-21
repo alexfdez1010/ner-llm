@@ -1,0 +1,9 @@
+T1	ENFERMEDAD 313 325	proctorragia
+T4	ENFERMEDAD 185 224	aneurisma aórtico abdominal infrarrenal
+T9	ENFERMEDAD 1050 1074	paro cardiorrespiratorio
+T10	ENFERMEDAD 675 678	FAE
+T11	ENFERMEDAD 986 1000	FAE con yeyuno
+T12	ENFERMEDAD 926 950	hematoma retroperitoneal
+T15	ENFERMEDAD 769 787	cicatriz umbilical
+T2	ENFERMEDAD 366 394	descompensación hemodinámica
+#1	AnnotatorNotes T10	   FAE: fístula aorto-entérica

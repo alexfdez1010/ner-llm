@@ -1,0 +1,27 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 53 años dislipémico y exfumador, asintomático desde el punto de vista cardiovascular, que es remitido a consultas de cardiología por un hallazgo casual en electrocardiograma.
+En cuanto a sus antecedentes familiares, dentro de su familia paterna existen múltiples antecedentes de cardiopatía a edades precoces: padre del paciente trasplantado cardiaco en 1995 por miocardiopatía dilatada no isquémica, abuelo paterno fallecido a los 60 años por problema cardiaco no especificado y dos hermanos de su padre (un varón y una mujer) padecen de miocardiopatía dilatada, portadores de desfibrilador automático implantable (DAI-TRC) terapia de resincronización cardiaca. Entre los hermanos del paciente, se documenta el caso de una mujer que padece de una miocardiopatía dilatada que asocia una comunicación interauricular. El resto de sus hermanos, así como sus hijas, se encuentran asintomáticos desde el punto de vista cardiovascular.
+La exploración física no presenta hallazgos patológicos.
+
+PRUEBAS COMPLEMENTARIAS
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal a 72 lPM. Trastorno de la conducción intraventricular, con QRS 116 mseg. Alteraciones de la repolarización consistente enT negativa de V3 a V6.
+ANALÍTICA: LDL (estimación Friedewald) 138 mg/dl, sin otras alteraciones reseñables.
+ECOCARDIOGRAMA TRANSTORÁCICO (diciembre 2014): ventrículo izquierdo no dilatado ni hipertrofiado. Fracción de eyección del ventrículo izquierdo (FEVI) moderada-gravemente deprimida (36% por Simpson biplano) de forma global. Presenta leve aumento de trabeculación a nivel del ápex, sin criterios de miocardiopatía no compactada (administrado ecopotenciador).
+Ventrículo derecho no dilatado, aumento de trabeculación con hipocinesia ligera en segmentos apicales, basales con contractilidad conservada. Dilatación leve biauricular (aurícula izquierda 22 cm2, aurícula derecha 17 cm2). Vena cava inferior no dilatada. No derrame pericárdico.
+Válvula aórtica levemente engrosada con movilidad conservada, mínima insuficiencia.
+Insuficiencia mitral leve. No insuficiencia tricuspídea que permita estimar presión pulmonar sistólica (PSP). No derrame pericárdico.
+RMN cardiaca (2018): VI no dilatado ni hipertrófico. Contractilidad global y segmentaria normal. Hipertrabeculación apical sin criterios de miocardiopatía no compactada.
+Sin áreas de captación en las secuencias en realce tardío que sugieran la presencia de fibrosis.
+HOLTER: ritmo sinusal estable con buen rango de frecuencia cardiaca. Extrasístoles ventriculares de baja-media intensidad con morfología de tracto de salida de ventrículo derecho.
+No pausas patológicas ni bloqueos.
+CORONARIOGRAFÍA: arterias coronarias sin lesiones significativas. Dominancia derecha.
+ESTUDIO GENÉTICO: se envía la muestra para realización de estudio de NGS (panel de 81 genes). En el estudio se encuentra una variante probablemente patogénica: mutación p.Arg5902* en heterocigosis en el gen TTN: NP_003310.4: p.Arg5902*, M_003319.4: c.17704C>T, NC_000002.11g.179487411G>A). La sustitución del nucleótido G>A en la posición cromosómica g.179487411 da lugar a la sustitución de una arginina por un codón de parada prematuro que afecta a la mayoría de las isoformas de TTN.
+
+EVOLUCIÓN CLÍNICA
+Tras los hallazgos ecocardiográficos de función sistólica moderada-gravemente deprimida, se inició tratamiento con bisoprolol y ramipril a dosis bajas con buena tolerancia. Desde su diagnóstico, el paciente ha permanecido asintomático, sin episodios de descompensación de insuficiencia cardiaca y con una clase funcional I de la New York Heart Association (NYHA).
+Realiza seguimiento en consultas de cardiología con ecocardiograma anual de control, habiendo recuperado en el último hasta una FEVI del 53%. Se realizó estudio genético a familiares, encontrándose mutaciones en el gen TTN en una de sus tías paternas y en una de sus hermanas, ambas afectas de miocardiopatía dilatada, lo que demuestra cosegregación y confirma la patogenicidad de la mutación encontrada.
+
+DIAGNÓSTICO
+Miocardiopatía dilatada familiar no isquémica.
+Portador de mutación p.Arg5902* en heterocigosis en el gen TTN, probablemente asociada con la enfermedad.
+FEVI actual 53%.

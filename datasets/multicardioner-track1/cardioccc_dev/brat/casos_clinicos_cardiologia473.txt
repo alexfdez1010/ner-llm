@@ -1,0 +1,38 @@
+Varón de 44 años remitido a Urgencias tras acudir a una clínica privada a realizar el reconocimiento médico anual de empresa, porque le detectan una alteración en el ECG que reportan como "conducción arrítmica de las ondas P, con sospecha de bloqueo aurículo-ventricular de 2o grado".
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales y familiares
+No presenta factores de riesgo cardiovascular conocidos. Nunca ha fumado, bebe ocasionalmente algo de vino o cerveza con las comidas. Deportista con fines recreativos: va en bicicleta al trabajo y hace salidas más largas los fines de semana, también practica senderismo y en ocasiones juega al futbol o al pádel. No se le conoce ninguna cardiopatía, ni otros antecedentes médico-quirúrgicos de interés.
+Madre con miocardiopatía dilatada no isquémica, actualmente con disfunción sistólica moderada, portadora de marcapasos desde los 55 años y con ablación por radiofrecuencia de taquicardia ventricular monomorfica sostenida (TVMS) a los 61 años.
+
+Enfermedad actual
+El paciente acude a una clínica privada a realizarse reconocimiento de empresa anual y en ECG evidencian lo que describen como "conducción arrítmica de las ondas P, sospecha de BAV de 2o grado" por lo que remiten a su centro de salud. Su médico de familia le realiza nuevo ECG y lo remite a Urgencias. El paciente niega cualquier tipo de sintomatología relacionada (no mareo, ni astenia, ni síncope).
+No entiende porque está aquí.
+
+Exploración física
+TA 119/73 mmHg. FC 57 lpm. Ta 36°C. Buen estado general. Auscultación cardiaca arrítmica por extratonos, sin soplos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen y extremidades normales, sin edemas y con pulsos normales.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal a unos 90 lpm con bloqueo aurículo-ventricular completo y ritmo de escape a unos 45-50 lpm. EV monomórficos, con morfología de BCRDHH y eje inferior (aislados, con algún duplete).
+Analítica: glucosa 89 mg/dl, urea 34 mg/dl, creatinina 0,87 mg/dl, colesterol total 167 mg/dl, triglicéridos 88 mg/dl, colesterol HDL 32 mg/dl, colesterol LDL 117 mg/dl, sodio 144 mEq/l, potasio 5,4 mEq/l, troponina I 0,044 (normal, < 0,01μg/l), CK 7,3, CK-MB 4,40. Hemograma: hemoglobina 14,8 g/dl, hematocrito 43,9 %, VCM 83,9 fl, plaquetas 239.000, leucocitos 7.520.
+Ecocardiograma: VI ligeramente dilatado (DTDVI 59 mm, VTDVI 183 cc) con grosor parietal normal. Dilatación leve de AI. Marcada asincronía de la contracción a nivel del septo interventricular, con leve hipocinesia global y FEVI por volumetría del 43 % (disfunción sistólica ligera). Válvula aórtica trivalva, normal. Válvulas mitral, tricúspide y pulmonar de morfología y movilidad normales. Patrón de llenado mitral con onda E>>A sin datos que sugieran aumento de presiones de llenado del VI. Ventrículo derecho no dilatado, de grosor normal, sin alteraciones de la contractilidad regional y con función sistólica global preservada. IT leve con PSAP estimada en 26 mmHg. Vena cava inferior y suprahepáticas no dilatadas, con adecuado colapso inspiratorio, lo que excluye la presencia de hipertensión venosa sistémica significativa.
+Cardio RMN: VI de grosores normales, ligeramente dilatado (VTD 248 ml; 115 ml/m2 de SC) con fracción de eyección levemente reducida (FE 48 %), contractilidad segmentaria normal. VD de dimensiones y contractilidad global y segmentaria normal. Se identifica realce lineal mesocárdico en septo basal, con extensión a segmento medio. Conclusiones: dilatación y disfunción sistólica ligeras del VI, con fibrosis lineal mesoseptal basal con extensión a segmento medio (zona del haz de His).
+Radiografía de tórax (posimplante): índice cardiotorácico normal, sin imágenes de neumotórax ni otras complicaciones. Electrodo auricular y ventricular bien posicionados y generador a nivel subclavicular izquierdo.
+Ecocardiograma de esfuerzo: alcanza 9,30 min de ejercicio del protocolo de Bruce.
+Se detiene la prueba por cansancio al 93 % de su frecuencia cardiaca máxima teórica. Basalmente y hasta el minuto 7, ritmo sinusal conducido mediante estimulación ventricular por el marcapasos; en el minuto 7 se produce alternancia de ritmo del marcapasos con ritmo propio y extrasístoles ventriculares, originando una irregularidad marcada en el ritmo cardiaco; a partir de 130 lpm queda en ritmo propio con posterior aparición de nuevo del ritmo de marcapasos en el posesfuerzo inmediato. Respuesta tensional normal. Contractilidad levemente deprimida de forma basal con hipocinesia global y FEVI estimada del 40-45 %, con mejoría de la misma de en torno a 10 puntos con el ejercicio. La prueba resulta clínica y ecocardiográficamente negativa para isquemia, con patrón de mejoría de la contractilidad con el esfuerzo (reserva contráctil) que sugiere miocardiopatía. ECG no valorable por ritmo de marcapasos de base.
+
+EVOLUCIÓN
+Pese a que el paciente se encuentra completamente asintomático y el bloqueo se ha detectado casualmente, se decide ingreso hospitalario con monitorización ECG continua, permaneciendo en todo momento en BAV completo aunque con adecuado ritmo de escape y totalmente asintomático. Se decide implante de marcapasos definitivo bicameral, realizando previamente una RMN cardiaca. A las 24 horas del procedimiento, una vez descartadas complicaciones relacionadas con el mismo, se procede al alta hospitalaria. Ante la sospecha de miocardiopatía dilatada familiar asociada a trastornos de la conducción aurículo-ventricular, se remite a la Unidad de Cardiopatías Familiares (UCF) de referencia para estudio genético.
+Así mismo, se programa un plan de visitas para revisión del dispositivo y seguimiento en consultas de Cardiología.
+En las revisiones sucesivas, el paciente refiere encontrarse bien. Tras el implante del marcapasos ha moderado mucho su práctica deportiva siguiendo las recomendaciones médicas. Se realiza un ecocardiograma de esfuerzo con el resultado descrito, por lo que no se contraindica la práctica de ejercicio físico moderado. En las revisiones periódicas del dispositivo se detectan varios episodios TVNS (unos 10 en un año, de corta duración).
+Se insiste en los antecedentes familiares y el paciente comenta que a su abuela materna, que falleció de forma súbita a los 69 años, se le había planteado en vida un implante de marcapasos que no llegó a realizarse. Tiene 3 hermanos, a uno de los cuales (un varón de 47 años) le acaban de diagnosticar un bloqueo aurículo- ventricular de 2o grado (reside en otra Comunidad; durante el seguimiento se acaba implantando un marcapasos definitivo). Tiene otras dos hermanas y dos hijos de 12 y 8 años, sin evidencia de cardiopatía tras el screening a familiares.
+Finalmente, y tras más de un año del implante del marcapasos, se reciben los resultados del análisis genético, en el que se evaluaron 34 genes implicados en enfermedades del sistema de conducción, informando que el paciente es portador en heterozigosis del truncamiento Glu444*, considerado como patogénico o asociado a enfermedad. Se le propone el implante de un desfibrilador, que el paciente acepta.
+
+DIAGNÓSTICO
+Bloqueo aurículo-ventricular completo asintomático.
+Portador de marcapasos definitivo bicameral.
+Miocardiopatía dilatada familiar con trastorno de la conducción AV asociado por laminopatía A/C.
+Disfunción sistólica ligera del VI (FEVI 45-50 %).
+TVNS de repetición, asintomáticas (detectadas por el marcapasos).
+Implante de desfibrilador en prevención primaria.

@@ -1,0 +1,54 @@
+T37	ENFERMEDAD 75 98	alergias medicamentosas
+T38	ENFERMEDAD 130 151	hipertensión arterial
+T39	ENFERMEDAD 186 196	dislipemia
+T40	ENFERMEDAD 243 254	cardiopatía
+T41	ENFERMEDAD 256 278	insuficiencia cardiaca
+T42	ENFERMEDAD 283 296	muerte súbita
+T43	ENFERMEDAD 1248 1251	IAM
+T44	ENFERMEDAD 1704 1744	enfermedad arterial coronaria de 3 vasos
+T45	ENFERMEDAD 2030 2065	oclusión proximal coronaria derecha
+T46	ENFERMEDAD 2286 2315	comunicación interventricular
+T47	ENFERMEDAD 3051 3063	BAV Mobitz I
+T48	ENFERMEDAD 4493 4514	Enfermedad de 3 vasos
+T49	ENFERMEDAD 4586 4615	comunicación interventricular
+T50	ENFERMEDAD 5044 5072	insuficiencia aórtica ligera
+T51	ENFERMEDAD 5075 5111	insuficiencia mitral moderada-severa
+T52	ENFERMEDAD 5215 5240	Insuficiencia tricuspídea
+T53	ENFERMEDAD 5346 5404	shock cardiogénico refractario a tratamiento farmacológico
+T54	ENFERMEDAD 5426 5440	CIV posinfarto
+T55	ENFERMEDAD 5658 5687	comunicación interventricular
+T56	ENFERMEDAD 6440 6493	Ventrículo derecho no dilatado, con disfunción severa
+T57	ENFERMEDAD 6495 6520	Insuficiencia tricuspídea
+T58	ENFERMEDAD 6586 6615	comunicación interventricular
+T59	ENFERMEDAD 7110 7143	fibrilación auricular paroxística
+T60	ENFERMEDAD 7264 7323	insuficiencia respiratoria secundaria a hemorragia alveolar
+T61	ENFERMEDAD 7326 7365	síndrome de distress respiratorio agudo
+T62	ENFERMEDAD 7367 7456	neumonía nosocomial en lóbulo inferior derecho (Enterobacter cloacae y Citrobacter koseri
+T63	ENFERMEDAD 7460 7513	infección del tracto urinario por Serratia marcescens
+T64	ENFERMEDAD 7989 8010	insuficiencia aórtica
+T65	ENFERMEDAD 8020 8056	insuficiencia mitral moderada-severa
+T66	ENFERMEDAD 8153 8209	Infarto agudo de miocardio con elevación del ST inferior
+T67	ENFERMEDAD 8229 8254	Oclusión trombótica de CD
+T68	ENFERMEDAD 8291 8344	Enfermedad coronaria de 3 vasos (DA media, 1a OM y CD
+T69	ENFERMEDAD 8346 8382	comunicación interventricular septal
+T70	ENFERMEDAD 8468 8527	Miocardiopatía isquémica con disfunción sistólica VI severa
+T71	ENFERMEDAD 8529 8565	Insuficiencia mitral moderada-severa
+T72	ENFERMEDAD 996 1015	bloqueo AV Mobitz I
+T73	ENFERMEDAD 4541 4544	CIV
+T74	ENFERMEDAD 4140 4175	coronaria derecha: ocluida proximal
+T75	ENFERMEDAD 4304 4310	trombo
+T76	ENFERMEDAD 1750 1807	lesiones severas (90 %) en tándem en descendente anterior
+T77	ENFERMEDAD 2317 2320	CIV
+T78	ENFERMEDAD 3994 4051	circunfleja: ocluida a nivel de la primera marginal media
+T79	ENFERMEDAD 4781 4839	ventrículo izquierdo no hipertrófico, ligeramente dilatado
+T80	ENFERMEDAD 5123 5162	Ventrículo derecho ligeramente dilatado
+T81	ENFERMEDAD 5599 5626	ventrículo derecho dilatado
+T82	ENFERMEDAD 6107 6110	CIV
+T83	ENFERMEDAD 7743 7784	ventrículo izquierdo ligeramente dilatado
+T84	ENFERMEDAD 8068 8107	Ventrículo derecho ligeramente dilatado
+T85	ENFERMEDAD 8109 8138	Disfunción ventrículo derecho
+T149	ENFERMEDAD 3544 3574	arterias coronarias: estenosis
+T137	ENFERMEDAD 1949 1974	oclusión primera marginal
+#1	AnnotatorNotes T73	 comunicación interventricular
+#2	AnnotatorNotes T77	 comunicación interventricular
+#3	AnnotatorNotes T82	 comunicación interventricular

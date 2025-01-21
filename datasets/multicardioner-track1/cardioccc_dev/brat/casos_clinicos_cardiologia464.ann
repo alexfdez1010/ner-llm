@@ -1,0 +1,34 @@
+T27	ENFERMEDAD 80 101	hipertensión arterial
+T28	ENFERMEDAD 103 119	diabetes tipo II
+T29	ENFERMEDAD 153 163	dislipemia
+T30	ENFERMEDAD 195 228	miocardiopatía dilatada isquémica
+T31	ENFERMEDAD 292 332	enfermedad coronaria de tronco y 3 vasos
+T32	ENFERMEDAD 517 549	fibrilación auricular permanente
+T33	ENFERMEDAD 599 625	estenosis aórtica moderada
+T34	ENFERMEDAD 777 838	hipertiroidismo por tiroiditis tipo 2 inducida por amiodarona
+T35	ENFERMEDAD 891 929	complicaciones trombóticas o embólicas
+T36	ENFERMEDAD 1053 1065	hipertensión
+T37	ENFERMEDAD 1154 1170	enfermedad renal
+T38	ENFERMEDAD 2415 2473	fibrilación auricular con respuesta ventricular controlada
+T39	ENFERMEDAD 2598 2613	derrame pleural
+T40	ENFERMEDAD 3631 3654	trombo intraventricular
+T41	ENFERMEDAD 3769 3800	trombos en TSVI ni raíz aórtica
+T42	ENFERMEDAD 4469 4488	derrame pericárdico
+T43	ENFERMEDAD 5968 5991	trombos intracavitarios
+T44	ENFERMEDAD 6127 6141	lesión tumoral
+T45	ENFERMEDAD 6144 6168	consolidación infecciosa
+T46	ENFERMEDAD 6174 6213	atelectasia pasiva del pulmón izquierdo
+T47	ENFERMEDAD 6259 6268	trombosis
+T48	ENFERMEDAD 6354 6390	insuficiencia cardiaca de alto gasto
+T49	ENFERMEDAD 7070 7107	Insuficiencia cardiaca por alto gasto
+T50	ENFERMEDAD 7109 7135	Derrame pleural secundario
+T51	ENFERMEDAD 7224 7253	Disfunción ventricular severa
+T52	ENFERMEDAD 7311 7344	Miocardiopatía dilatada isquémica
+T53	ENFERMEDAD 7346 7377	Enfermedad coronaria de 3 vasos
+T54	ENFERMEDAD 3889 3923	Válvula aórtica esclerocalcificada
+T55	ENFERMEDAD 3830 3837	trombos
+T56	ENFERMEDAD 1953 1966	hepatomegalia
+T84	ENFERMEDAD 483 495	flúter común
+T95	ENFERMEDAD 2530 2533	BRD
+T91	ENFERMEDAD 233 266	disfunción ventricular muy severa
+T21	ENFERMEDAD 6197 6228	pulmón izquierdo por el derrame

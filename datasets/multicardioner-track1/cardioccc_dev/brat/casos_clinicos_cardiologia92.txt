@@ -1,0 +1,46 @@
+Paciente varón de 75 años, remitido al servicio de urgencias desde las consultas externas de cardiología por presentar un deterioro clínico importante, con disnea de mínimos esfuerzos, ortopnea, disnea paroxística nocturna y palpitaciones.
+
+Antecedentes, enfermedad actual y exploración física
+
+Antecedentes
+No alergias medicamentosas conocidas.
+Factores de riesgo: diabetes mellitus 2, hipertensión arterial, dislipemia. Exfumador desde hace 7 años de 50 paquetes/año.
+Antecedentes médicos: EPOC. ACV isquémico de arteria cerebral media en marzo 2008. Intervenciones quirúrgicas: hemorroides, hernia epigástrica, polipectomía colónica. Tumor vesical tratado con RTU en 2011 y 2013.
+Cardiopatía previa: miocardiopatía dilatada diagnosticada en 2002 con función sistólica severamente deprimida (FEVI 20%), y arterias coronarias normales en cateterismo cardiaco. Seguimiento en consultas externas de cardiología, con mejoría importante de la función ventricular con tratamiento médico (FEVI 50% en ecocardiograma de 2008, 2010 y 2012). En noviembre de 2013 debuta con fibrilación auricular con respuesta ventricular rápida, se realizó cardioversión eléctrica en urgencias que fue efectiva y se dio de alta. Una semana más tarde acude de nuevo a urgencias por fibrilación auricular, donde se realiza de nuevo cardioversión eléctrica, pasando a ritmo sinusal y dado de alta. En revisión en consultas externas en enero de 2014 el paciente se encontraba de nuevo en fibrilación auricular.
+
+Tratamiento habitual: dabigatran 110 mg/12h, bisoprolol 10 mg/24h, ramipril 2,5 mg/24h, rosuvastatina 20 mg/24h, omeprazol 40 mg/24h, furosemida 20 mg/12h (manejo según necesidad), bromuro tiotropio inhalado, repaglinida 0,5 mg, fluoxetina 20 mg, alprazolam 0,5 mg/24h. 
+
+Enfermedad actual: paciente varón de 75 años, remitido al servicio de urgencias desde las consultas externas de cardiología por presentar en las últimas semanas un deterioro clínico importante, con disnea de mínimos esfuerzos, ortopnea, disnea paroxística nocturna, y palpitaciones en los últimos días. No refiere clínica de infección respiratoria ni otra clínica acompañante. En el momento del ingreso presentaba fibrilación auricular con respuesta ventricular a 130-150 lpm a pesar de tratamiento a máximas dosis de betabloqueante, por lo que se remite para ingreso en cardiología, para intentar control de frecuencia o cardioversión.
+
+Exploración física
+TA 120/65 mmHg. FC 155 lpm, Ta 36,5 oC. Sat. O2 96% con FiO2 de 0,21.
+Paciente consciente, normocoloreado y normohidratado.
+Auscultación cardiaca: tonos cardiacos arrítmicos, sin que se ausculten soplos.
+Auscultación pulmonar: disminución generalizada murmullo vesicular, con crepitantes bibasales. ʟʟ Miembros inferiores: no edemas, no signos de trombosis venosa profunda.
+Abdomen: blando, no doloroso a la palpación.
+
+Pruebas complementarias
+ECG: fibrilación auricular con respuesta ventricular rápida, QRS estrecho, no presenta alteraciones de la conducción intraventricular. Signos de sobrecarga ventrículo izquierdo en V5-V6 y DI y aVL.
+Radiografía de tórax: infiltrados alveolo-intersticiales bibasales sugestivos de insuficiencia cardiaca. Senos costofrénicos libres. Índice cardiotorácico menor de 0,5.
+Analítica realizada en la planta de cardiología: ʟʟ Leucocitos: 12,4x10e9/L, Hb17,5 g/dl, plaquetas 262x10e9/L.
+Coagulación: TPT 15s, IQ: 76%, APTT 35,3s.
+Glucosa: 140 mg/dl, urea 64 mg/dl, creatinina 1,21 mg/dl, K 5 MM/L, Na 143 MM/L, AST 31 U/L, ALT 41 MM/L, LDH 244 U/L, PCR 0,2 mg/dl, pro-BNP 16727 pg/ml.
+Hemoglobina glicosilada: 6,9%.
+
+Ecocardiograma:
+Mala ventana ecocardiográfica.
+Ventrículo izquierdo ligeramente dilatado, no hipertrófico, con contracción global severamente deprimida (20-25%), hipoquinesia severa ápex.
+Aurícula izquierda moderadamente dilatada.
+Válvula mitral engrosada, con insuficiencia ligera.
+Válvula aórtica esclerosada, con buena apertura, sin insuficiencia.
+Cavidades derechas con aurícula moderadamente dilatada. FEVD conservada.
+Vena cava inferior no dilatada, con buen colapso inspiratorio.
+No presenta derrame pericárdico.
+
+Evolución clínica
+Paciente ingresa en planta de cardiología con fibrilación auricular con respuesta ventricular a 140-150 lpm sin que se consiga controlar a pesar de aumentar bisoprolol hasta dosis de 15 mg/24h y añadir digoxina y amiodarona, permaneciendo con frecuencia ventricular de 130-140 lpm durante los siguientes 3 días. Ante el fracaso de control de ritmo de episodios anteriores y un difícil control de la frecuencia cardiaca se decide conjuntamente entre el equipo clínico, los electrofisiólogos y la familia, realizar ablación del nodo auriculoventricular y colocación de marcapasos. Se procedió a la colocación de marcapasos definitivo, con la intención de colocar electrodo también en VI para terapia de resincronización cardiaca (TRC), pero no se pudo ya que se produjo disección del seno coronario. Se colocó finalmente marcapasos DDD. Cinco días más tarde se realizó ablación del nodo auriculoventricular sin que hubiera incidencias. El paciente se dio de alta con mejor control clínico, y manteniendo el mismo tratamiento anticoagulante, retirándose del tratamiento la digoxina, amiodarona y las dosis tan altas de bisoprolol con las que se había intentado reducir la frecuencia cardiaca. Se mantuvo la medicación para manejo de insuficiencia cardiaca.
+
+Diagnóstico
+Fibrilación auricular con respuesta ventricular rápida de difícil control.
+Estrategia de control de frecuencia mediante ablación del nodo AV e implante de marcapasos. 
+Taquimiocardiopatía con disfunción ventricular severa.

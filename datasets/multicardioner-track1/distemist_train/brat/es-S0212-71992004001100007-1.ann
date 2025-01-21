@@ -1,0 +1,19 @@
+T2	ENFERMEDAD 128 150	valvulopatía reumática
+T3	ENFERMEDAD 152 181	fibrilación auricular crónica
+T5	ENFERMEDAD 189 192	HTA
+T6	ENFERMEDAD 194 227	insuficiencia cardiaca congestiva
+T7	ENFERMEDAD 229 232	ICC
+T16	ENFERMEDAD 493 496	ICC
+T24	ENFERMEDAD 943 946	ICC
+T34	ENFERMEDAD 1490 1513	Endocarditis Infecciosa
+T46	ENFERMEDAD 2297 2322	hematoma occipitoparietal
+T50	ENFERMEDAD 2681 2698	hematoma cerebral
+T29	ENFERMEDAD 1423 1445	fenómenos vasculíticos
+T33	ENFERMEDAD 1685 1697	vegetaciones
+T53	ENFERMEDAD 616 629	hepatomegalia
+T57	ENFERMEDAD 1334 1342	lesiones
+T1	ENFERMEDAD 183 186	FAC
+#2	AnnotatorNotes T7	   ICC: insuficiencia cardíaca congestiva
+#3	AnnotatorNotes T16	   ICC: insuficiencia cardíaca congestiva
+#4	AnnotatorNotes T24	   ICC: insuficiencia cardíaca congestiva
+#1	AnnotatorNotes T1	   FAC: fibrilación auricular crónica

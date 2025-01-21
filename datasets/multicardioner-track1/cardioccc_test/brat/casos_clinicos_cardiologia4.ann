@@ -1,0 +1,112 @@
+T21	ENFERMEDAD 4221 4234	excoriaciones
+T41	ENFERMEDAD 6918 7015	Engrosamiento de la zona posterior del anillo protésico, con extensión hacia fibrosa mitroaórtica
+T42	ENFERMEDAD 7147 7196	Válvula mitral con engrosamiento de velo anterior
+T43	ENFERMEDAD 7350 7459	engrosamiento a nivel posterior de anillo aórtico, fibrosa mitroaórtica y de la base del velo anterior mitral
+T47	ENFERMEDAD 8955 9064	engrosamiento a nivel posterior de anillo aórtico, fibrosa mitroaórtica y de la base del velo anterior mitral
+T52	ENFERMEDAD 117 129	Hipertensión
+T53	ENFERMEDAD 134 151	diabetes mellitus
+T54	ENFERMEDAD 156 167	dislipemias
+T55	ENFERMEDAD 355 379	pseudoaneurisma de aorta
+T56	ENFERMEDAD 425 446	fístula aorto cutánea
+T57	ENFERMEDAD 485 508	fístula a nivel aórtico
+T58	ENFERMEDAD 739 751	coagulopatía
+T59	ENFERMEDAD 891 912	fracaso multiorgánico
+T60	ENFERMEDAD 1048 1071	Pseudoaneurisma femoral
+T61	ENFERMEDAD 1108 1146	Úlcera duodenal con sangrado digestivo
+T62	ENFERMEDAD 1158 1182	Hematoma retroperitoneal
+T63	ENFERMEDAD 1280 1310	síncope de perfil cardiogénico
+T64	ENFERMEDAD 1534 1581	hipertrofia ventricular izquierda leve-moderada
+T65	ENFERMEDAD 1713 1759	Otitis media aguda a repetición en ambos oídos
+T66	ENFERMEDAD 1794 1825	Hiperplasia benigna de próstata
+T67	ENFERMEDAD 2073 2101	traumatismo craneoencefálico
+T68	ENFERMEDAD 2103 2106	TCE
+T69	ENFERMEDAD 2203 2232	traumatismo en región frontal
+T70	ENFERMEDAD 2472 2505	hematoma subdural en hoz cerebral
+T71	ENFERMEDAD 2615 2634	bradicardia sinusal
+T73	ENFERMEDAD 2857 2874	hematoma subdural
+T74	ENFERMEDAD 2886 2910	hemorragia subaracnoidea
+T75	ENFERMEDAD 2964 2983	hemiparesia derecha
+T76	ENFERMEDAD 2986 3003	crisis comiciales
+T77	ENFERMEDAD 3214 3221	síncope
+T80	ENFERMEDAD 3383 3425	bloqueo auriculoventricular (BAV) completo
+T81	ENFERMEDAD 3412 3415	BAV
+T82	ENFERMEDAD 3618 3663	herida de partes blandes en la región frontal
+T83	ENFERMEDAD 4371 4400	parálisis de miembro inferior
+T84	ENFERMEDAD 4851 4882	anemia normocítica normocrómica
+T85	ENFERMEDAD 5431 5464	hematoma subdural en hoz cerebral
+T86	ENFERMEDAD 6018 6071	Válvula mitral: engrosamiento de velos, insuficiencia
+T87	ENFERMEDAD 6213 6234	hipertensión pulmonar
+T88	ENFERMEDAD 6438 6457	shunt intracardiaco
+T89	ENFERMEDAD 6739 6767	insuficiencia intraprotésica
+T90	ENFERMEDAD 7241 7261	insuficiencia mitral
+T91	ENFERMEDAD 7473 7479	flemón
+T92	ENFERMEDAD 7659 7661	EI
+T93	ENFERMEDAD 7870 7890	Insuficiencia mitral
+T94	ENFERMEDAD 7932 8002	microinfartos corticales agudos de localización supra e infratentorial
+T95	ENFERMEDAD 8096 8144	contusiones parenquimatosas frontales izquierdas
+T96	ENFERMEDAD 8151 8168	hematoma subdural
+T97	ENFERMEDAD 8236 8261	infartos focales en riñón
+T98	ENFERMEDAD 8346 8348	EI
+T99	ENFERMEDAD 8925 8937	endocarditis
+T100	ENFERMEDAD 9078 9085	absceso
+T101	ENFERMEDAD 9203 9215	endocarditis
+T102	ENFERMEDAD 9257 9276	embolismos sépticos
+T103	ENFERMEDAD 9337 9408	micro infartos corticales agudos de localización supra e infratentorial
+T104	ENFERMEDAD 9472 9492	embolias periféricas
+T105	ENFERMEDAD 9833 9858	leak perivalvular aórtico
+T106	ENFERMEDAD 9878 9899	insuficiencia aórtica
+T107	ENFERMEDAD 9927 9942	verruga aórtica
+T108	ENFERMEDAD 9962 9984	verruga a nivel mitral
+T109	ENFERMEDAD 10303 10319	infartos renales
+T110	ENFERMEDAD 10461 10547	lesiones valvulares con abscesificación a nivel de anillo aórtico/fibrosa mitroaórtica
+T111	ENFERMEDAD 10743 10765	insuficiencia cardiaca
+T112	ENFERMEDAD 10767 10774	síncope
+T113	ENFERMEDAD 11697 11721	BAV completo paroxístico
+T114	ENFERMEDAD 11785 11797	endocarditis
+T115	ENFERMEDAD 11982 12006	enfermedades infecciosas
+T116	ENFERMEDAD 12112 12172	EI por Enterococcus faecalis sobre prótesis aórtica mecánica
+T117	ENFERMEDAD 12210 12221	bacteriemia
+T118	ENFERMEDAD 12285 12305	Absceso mitroaórtico
+T119	ENFERMEDAD 12310 12358	insuficiencia aórtica ligera-moderada secundaria
+T120	ENFERMEDAD 12370 12405	microinfartos cerebrales corticales
+T121	ENFERMEDAD 12408 12448	infarto renal izquierdo secundarios a EI
+T122	ENFERMEDAD 12450 12456	Anemia
+T123	ENFERMEDAD 12478 12480	EI
+T124	ENFERMEDAD 12482 12510	Hematoma subdural traumático
+T125	ENFERMEDAD 12513 12561	contusiones parenquimatosas frontales izquierdas
+T126	ENFERMEDAD 12580 12608	traumatismo craneoencefálico
+T127	ENFERMEDAD 12637 12648	hemiparesia
+T128	ENFERMEDAD 12651 12682	crisis comiciales en fase aguda
+T129	ENFERMEDAD 12684 12699	BAV paroxístico
+T130	ENFERMEDAD 12701 12754	Infección de tracto urinario por Citrobacter freundii
+T131	ENFERMEDAD 104 113	exfumador
+T132	ENFERMEDAD 38 73	reacciones alérgicas medicamentosas
+T133	ENFERMEDAD 193 226	valvular aórtica por doble lesión
+T134	ENFERMEDAD 1374 1419	hemibloqueo anterior izquierdo del haz de His
+T135	ENFERMEDAD 1421 1427	HARIHH
+T136	ENFERMEDAD 3749 3758	hematomas
+T137	ENFERMEDAD 3800 3809	hematomas
+T138	ENFERMEDAD 4132 4140	hematoma
+T140	ENFERMEDAD 5340 5346	HARIHH
+T143	ENFERMEDAD 7481 7575	Verruga endocardítica de pequeñas dimensiones, visualizada en cara aórtica de prótesis aórtica
+T144	ENFERMEDAD 7777 7833	velo anterior mitral con imagen de verruga endocardítica
+T146	ENFERMEDAD 984 1002	leak periprotésico
+T147	ENFERMEDAD 8417 8477	prótesis aórtica con gradientes normales, fuga periprotesica
+T148	ENFERMEDAD 10613 10627	verruga mitral
+T149	ENFERMEDAD 12614 12631	episodio sincopal
+T241	ENFERMEDAD 87 102	Hábitos tóxicos
+T242	ENFERMEDAD 956 982	dehiscencia de la prótesis
+T243	ENFERMEDAD 2135 2152	episodio sincopal
+T247	ENFERMEDAD 3763 3775	deformidades
+T18	ENFERMEDAD 4190 4202	deformidades
+T139	ENFERMEDAD 4239 4251	deformidades
+T256	ENFERMEDAD 7017 7056	velo anterior mitral que está engrosado
+T257	ENFERMEDAD 7346 7348	EI
+T260	ENFERMEDAD 8353 8415	abscesificación a nivel de anillo aórtico/fibrosa mitroaórtica
+T261	ENFERMEDAD 9122 9176	verruga de pequeñas dimensiones en la prótesis aórtica
+T239	ENFERMEDAD 451 470	osteolisis esternal
+T230	ENFERMEDAD 3740 3747	heridas
+T38	ENFERMEDAD 6909 6916	verruga
+T141	ENFERMEDAD 7310 7320	vegetación
+T142	ENFERMEDAD 8505 8523	zona abscesificada
+T216	ENFERMEDAD 10527 10588	fibrosa mitroaórtica, que previamente se encontraba flemonosa

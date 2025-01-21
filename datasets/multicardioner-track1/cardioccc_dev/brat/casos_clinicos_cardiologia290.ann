@@ -1,0 +1,48 @@
+T2	ENFERMEDAD 899 968	movimiento sistólico anterior (SAM) en la valva anterior de la mitral
+T54	ENFERMEDAD 103 106	MCH
+T56	ENFERMEDAD 187 210	alergias medicamentosas
+T57	ENFERMEDAD 260 267	Fumador
+T58	ENFERMEDAD 374 382	obesidad
+T59	ENFERMEDAD 439 451	hipertensión
+T60	ENFERMEDAD 453 461	diabetes
+T61	ENFERMEDAD 464 474	dislipemia
+T62	ENFERMEDAD 523 549	MCH obstructiva asimétrica
+T63	ENFERMEDAD 985 1023	insuficiencia mitral de grado moderado
+T64	ENFERMEDAD 1025 1045	Síncope cardiogénico
+T66	ENFERMEDAD 1368 1385	angor de esfuerzo
+T67	ENFERMEDAD 3064 3089	trombosis venosa profunda
+T68	ENFERMEDAD 3796 3829	hipertrofia ventricular izquierda
+T69	ENFERMEDAD 3995 4024	hipertrofia ventricular grave
+T70	ENFERMEDAD 4122 4160	insuficiencia mitral de grado moderada
+T71	ENFERMEDAD 4416 4437	hipertensión pulmonar
+T72	ENFERMEDAD 4938 4958	insuficiencia mitral
+T73	ENFERMEDAD 5058 5131	MCH mecanismo secundario a SAM con afectación de todo el aparato valvular
+T74	ENFERMEDAD 6228 6248	insuficiencia mitral
+T75	ENFERMEDAD 7264 7290	MCH asimétrica obstructiva
+T76	ENFERMEDAD 7295 7303	fibrosis
+T77	ENFERMEDAD 7417 7431	MCH asimétrica
+T78	ENFERMEDAD 7518 7532	taquiarritmias
+T79	ENFERMEDAD 7582 7616	obstrucción significativa del TSVI
+T80	ENFERMEDAD 8941 8964	hipertrofia ventricular
+T81	ENFERMEDAD 9133 9175	MCH septal con obstrucción severa del TSVI
+T82	ENFERMEDAD 9177 9214	Insuficiencia mitral moderada por SAM
+T84	ENFERMEDAD 6955 6982	Aurícula izquierda dilatada
+T85	ENFERMEDAD 7859 7885	angina a mínimos esfuerzos
+T88	ENFERMEDAD 7230 7238	fibrosis
+T89	ENFERMEDAD 828 846	hipertrofia septal
+T90	ENFERMEDAD 4103 4106	SAM
+T91	ENFERMEDAD 4843 4846	SAM
+T92	ENFERMEDAD 6179 6210	SAM de la valva anterior mitral
+T93	ENFERMEDAD 9216 9233	Angor de esfuerzo
+T204	ENFERMEDAD 136 149	muerte súbita
+T205	ENFERMEDAD 1182 1195	muerte súbita
+T206	ENFERMEDAD 9355 9368	muerte súbita
+T51	ENFERMEDAD 5236 5343	rama septal (de mayor calibre y desarrollo) ya que además la primera rama fistuliza al ventrículo izquierdo
+T83	ENFERMEDAD 6367 6389	cripta intramiocárdica
+T87	ENFERMEDAD 5686 5714	hipertrófia asimétrica grave
+T140	ENFERMEDAD 7242 7250	necrosis
+#1	AnnotatorNotes T54	 miocardiopatía hipertrófica
+#2	AnnotatorNotes T73	 MCH: miocardiopatía hipertrófica, SAM: Movimiento sistólico anterior
+#3	AnnotatorNotes T90	 movimiento sistólico anterior
+#4	AnnotatorNotes T91	 movimiento anterior sistólico
+#5	AnnotatorNotes T92	 SAM : movimiento sistólico anterior

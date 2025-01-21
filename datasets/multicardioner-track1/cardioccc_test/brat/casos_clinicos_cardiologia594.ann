@@ -1,0 +1,30 @@
+T18	ENFERMEDAD 1515 1546	disociación auriculoventricular
+T34	ENFERMEDAD 2993 3080	ventrículo izquierdo dilatado con remodelado excéntrico y disfunción sistólica moderada
+T78	ENFERMEDAD 194 217	alergias medicamentosas
+T79	ENFERMEDAD 267 288	hipertensión arterial
+T80	ENFERMEDAD 290 298	diabetes
+T81	ENFERMEDAD 302 312	dislipemia
+T82	ENFERMEDAD 317 332	hábitos tóxicos
+T84	ENFERMEDAD 1368 1393	trombosis venosa profunda
+T85	ENFERMEDAD 1395 1398	TVP
+T86	ENFERMEDAD 1589 1612	taquicardia ventricular
+T87	ENFERMEDAD 1990 2021	disociación auriculoventricular
+T88	ENFERMEDAD 2059 2071	TV monomorfa
+T89	ENFERMEDAD 2152 2155	BRD
+T90	ENFERMEDAD 2639 2652	valvulopatías
+T91	ENFERMEDAD 2718 2737	derrame pericárdico
+T92	ENFERMEDAD 3330 3358	miocardiopatía arritmogénica
+T93	ENFERMEDAD 3386 3409	miopericarditis crónica
+T95	ENFERMEDAD 3580 3612	disfunción ventricular izquierda
+T96	ENFERMEDAD 3855 3878	taquicardia ventricular
+T98	ENFERMEDAD 4297 4317	disfunción sistólica
+T99	ENFERMEDAD 4331 4400	trastornos segmentarios de la contractilidad del ventrículo izquierdo
+T100	ENFERMEDAD 4501 4519	isquemia coronaria
+T101	ENFERMEDAD 5008 5061	miocardiopatía arritmogénica del ventrículo izquierdo
+T103	ENFERMEDAD 5502 5514	taquicardias
+T104	ENFERMEDAD 5517 5545	descargas apropiadas del DAI
+T105	ENFERMEDAD 5560 5613	Miocardiopatía arritmogénica del ventrículo izquierdo
+T106	ENFERMEDAD 5635 5680	Taquicardia ventricular monomórfica sostenida
+T24	ENFERMEDAD 2367 2440	ventrículo izquierdo no dilatado ni hipertrófico con disfunción sistólica
+T94	ENFERMEDAD 5682 5734	Disfunción sistólica ligera del ventrículo izquierdo
+T131	ENFERMEDAD 5349 5362	muerte súbita

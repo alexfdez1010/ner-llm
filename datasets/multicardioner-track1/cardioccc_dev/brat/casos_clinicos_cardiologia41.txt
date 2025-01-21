@@ -1,0 +1,14 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 75 años con antecedentes de hipertensión arterial, dislipemia, ictus isquémico, cardiopatía isquémica crónica y portador de prótesis biológica aórtica por estenosis aórtica severa hace 2 años, requirió implante de marcapasos DDD por bloqueo aurículo-ventricular avanzado posquirúrgico. Ingresa por fiebre y ligero aumento de su disnea habitual en las últimas 2 semanas, con ortopnea y disnea paroxística nocturna. A la anamnesis niega clínica infecciosa respiratoria asociada.
+
+Exploración física:
+TA 145/62 mmHg, FC 92 lpm, SatO2 98 % con aire ambiente, Ta 38,2°C. Consciente y orientado. Ingurgitación yugular. Auscultación cardiaca: rítmica sin soplos. Auscultación pulmonar: crepitantes bibasales. Abdomen: blando, depresible, no doloroso a la palpación, sin visceromegalias. Miembros inferiores: edema con fóvea pretibial ++.
+
+PRUEBAS COMPLEMENTARIAS
+Hemocultivos: 4 muestras positivas para Streptococcus anginosus. Ecocardiograma transtorácico y transesofágico: múltiples vegetaciones a nivel aórtico (siendo la mayor de 10 x 8 mm) y un engrosamiento no homogéneo, perivalvular y con aspecto ecodenso que se corresponde con un absceso del anillo aórtico de 3,6 x 2,3 cm. TAC cardiaco: a parte de lo mencionado, se observaron dos pequeños pseudoaneurismas a nivel subvalvular. 18F-FDG PET/TAC: depósito patológico de actividad alrededor de la prótesis aórtica con mayor intensidad en la región posterior y ausencia de captación en el sistema de estimulación cardiaca.
+
+EVOLUCIÓN
+Dada la presencia de una infección incontrolada (absceso aórtico) el paciente fue sometido a una cirugía de reemplazo valvular. Previo al procedimiento se realizó un PET/TAC para valorar la afectación del generador y los cables del marcapasos y decidir la sustitución o no del sistema de estimulación. Dado los resultados de la prueba, finalmente se optó por no extraer el marcapasos. La evolución postoperatoria fue satisfactoria, el tratamiento antibiótico con ceftriaxona se continuó 20 días más y las ecocardiografías de control no mostraron ninguna complicación evolutiva. Durante las visitas clínicas posteriores, el paciente no ha referido fiebre ni disnea.
+
+DIAGNÓSTICO
+Endocarditis infecciosa tardía sobre prótesis aórtica biológica, por Streptococcus anginosus, complicada con absceso perivalvular aórtico. Cirugía de recambio valvular. Portador de marcapasos bicameral por bloqueo aurículo-ventricular avanzado, sin evidencias de infección del dispositivo.

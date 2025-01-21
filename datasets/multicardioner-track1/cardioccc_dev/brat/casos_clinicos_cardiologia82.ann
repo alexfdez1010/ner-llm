@@ -1,0 +1,32 @@
+T37	ENFERMEDAD 194 218	Tromboembolismo pulmonar
+T38	ENFERMEDAD 261 290	neuropatía isquémica anterior
+T39	ENFERMEDAD 292 330	Conectivopatía indiferenciada con ANA+
+T40	ENFERMEDAD 361 391	Hiperparatiroidismo secundario
+T41	ENFERMEDAD 393 407	Litiasis renal
+T42	ENFERMEDAD 417 435	Síndrome depresivo
+T43	ENFERMEDAD 1585 1588	TVP
+T44	ENFERMEDAD 2514 2517	TEP
+T45	ENFERMEDAD 2686 2711	Derrame pleural bilateral
+T46	ENFERMEDAD 2762 2792	insuficiencia cardiaca derecha
+T47	ENFERMEDAD 3139 3214	Prolapso de velo posterior de válvula mitral por rotura de cuerda tendinosa
+T48	ENFERMEDAD 3379 3398	derrame pericárdico
+T49	ENFERMEDAD 3463 3547	arteria descendente anterior muestra irregularidades difusas con una lesión moderada
+T50	ENFERMEDAD 3700 3746	ramas obtusas marginales con ateromatosis leve
+T51	ENFERMEDAD 4142 4199	insuficiencia mitral severa por prolapso posterior mitral
+T52	ENFERMEDAD 4210 4238	rotura de cuerdas tendinosas
+T53	ENFERMEDAD 4973 5034	aurícula izquierda, observando rotura de una cuerda tendinosa
+T54	ENFERMEDAD 5597 5633	bloqueo auriculoventricular completo
+T55	ENFERMEDAD 5670 5691	fibrilación auricular
+T56	ENFERMEDAD 5822 5836	cuadro séptico
+T57	ENFERMEDAD 6219 6284	Insuficiencia mitral severa por rotura parcial de músculo papilar
+T58	ENFERMEDAD 6285 6348	Cardiopatía isquémica con enfermedad severa de 1 vaso: CD media
+T59	ENFERMEDAD 6197 6218	Edema agudo de pulmón
+T60	ENFERMEDAD 107 115	alergias
+T61	ENFERMEDAD 4016 4037	edema agudo de pulmón
+T62	ENFERMEDAD 138 153	hábitos tóxicos
+T63	ENFERMEDAD 3336 3374	VD no dilatado con disfunción moderada
+T64	ENFERMEDAD 5110 5154	válvula mitral moderadamente desestructurada
+T21	ENFERMEDAD 5384 5405	fallo de bomba severo
+T27	ENFERMEDAD 6046 6070	pérdida de masa muscular
+#1	AnnotatorNotes T43	 TVP: trombosis venosa profunda
+#2	AnnotatorNotes T44	 TEP: tromboembolia pulmonar

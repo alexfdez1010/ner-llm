@@ -1,0 +1,36 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 41 años, natural de Rumanía. Hipertenso y fumador. Historia de síncopes:
+1999 en Rumanía: atribuido según el paciente a un primer episodio ICC (no disponemos de informes).
+2012: cuadro inespecífico del que se sospechó etiología vasovagal.
+2015: nuevo episodio con pródromos y periodo poscrítico, por lo que se realiza un estudio neurológico con tomografía axial computarizada (TAC) craneal que resulta normal.
+2016: dos episodios, de perfil cardiogénico. Ingreso en planta de cardiología.
+Acude a urgencias por dos episodios sincopales consecutivos, el primero de ellos no presenciado, mientras caminaba, sin pródromos, con caída al suelo y traumatismo en mandíbula y boca. Mientras se está recuperando de este (se levanta, va a beber agua), presenta nuevo episodio, esta vez precedido de calor intenso y mareo, con pérdida de conciencia de segundos de duración. Recuperación total posterior. No movimientos tonicoclónicos ni relajación de esfínteres. Posteriormente asintomático. No clínica de dolor torácico ni palpitaciones. No disnea ni clínica de insuficiencia cardiaca.
+
+Exploración física
+Tensión arterial (TA) 144/91 mmHg, Spo2 99%, frecuencia cardiaca (FC) 72 lpm. Consciente y orientado. Eupneico.
+Auscultación cardiopulmonar normal.
+Miembros inferiores: no edemas. Pulsos palpables y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): ritmo sinusal a 52 lpm, eje 90o, QRS estrecho, T negativa asimétrica en III y hasta V2, en V3 bifásica. QRS con muesca en V3. Repolarización precoz en V6.
+Radiografía de tórax: desplazamiento cardiaco a la izquierda. Borramiento de borde cardiaco derecho (superposición columna vertebral). Pectus excavatum.
+Analítica: troponina T ultrasensible 4 pg/ml. Glucosa 85 mg/dl, urea 35 mg/dl, creatinina 0,95 mg/dl. Sodio 137 mmol/l. Potasio 4,2 mmol/l. CK 279 U/l. Hemoglobina 14.5 x10^3/mcl, plaquetas 304x10^3/mcl, leucocitos 13.29x10^3/mcl (N 86%). Dímero D 198 μg/ml.
+TAC protocolo TEP: no defectos de replección en arterias pulmonares principales, lobares ni segmentarias. No adenopatías mediastínicas ni hiliares de tamaño significativo. No imágenes compatibles con infiltrados, nódulos ni derrame pleural.
+Ecocardiograma: ventrículo izquierdo (VI) no dilatado ni hipertrófico con FEVI conservada y sin alteraciones en la contractilidad segmentaria excepto aplanamiento septal y movimiento anómalo del mismo en relación con dilatación ventricular derecha. Aurícula izquierda (AI) no dilatada con diámetro AP de 26 mm y área de 14 cm . Ventrículo derecho (VD) dilatado con diámetros de 45 mm a nivel basal, 40 mm a nivel medio y 59 mm a nivel longitudinal con FEVD límite (TAPSE 16, S DTI 14) con hipocinesia de pared libre y aquinesia- disquinesia en el ápex. Raíz aórtica y aorta ascendente no dilatadas. Válvula aórtica tricomisural con apertura conservada. Mitral y tricúspide de morfología normal. Vena cava inferior (VCI) no dilatada. Aneurisma del septo interauricular (SIA) que impresiona de íntegro. No se visualiza derrame pericárdico. Función diastólica normal. Insuficiencia mitral (IM) trivial. Insuficiencia tricuspídea (IT) ligera.
+ECG promediado de señales: duración QRS filtrado: 108 ms, RMS40: 37 mcV, SAB: 23 ms. No presenta ningún criterio de positividad. Estudio de promediado de señales negativo.
+Resonancia magnética nuclear (RMN) cardiaca: en las secuencias morfológicas y funcionales se aprecia VI no dilatado con grosor de pared normal y FE global y regional normales. AI normal. AD no dilatada. VD no dilatado, con FEVD estimada 47%. A nivel del tracto de salida de VD zona hipoquinética muy localizada, sin otras alteraciones de la contractilidad segmentaria significativas, ni zonas aneurismáticas. Llama la atención desplazamiento cardiaco hacia hemitórax izquierdo, con importante horizontalización de eje cardiaco. En las secuencias T2 no se visualiza edema. En las secuencias de perfusión no se observan defectos de primer paso. En las secuencias de viabilidad no se observa realce que indique sustrato patológico. Hallazgos extracardiacos: pulmones de vascularización normal, aunque existe pérdida de volumen en segmentos lingulares asociados al desplazamiento cardiaco.
+
+Conclusión:
+VI normal. VD no dilatado, con FE límite (47%), sin datos concluyentes para diagnóstico de displasia.
+Estudio electrofisiológico: estudio negativo, no datos de canalopatía. Finalizado el estudio y para completar el estudio se implanta Holter subcutáneo marca SJM modelo Confirm DM2100.
+TAC coronario (imagen 4): cavidades cardiacas de características normales. Aurículas no dilatadas. Válvula aórtica: tricúspide, morfológicamente normal. Válvula mitral: morfológicamente normal. Árbol coronario: Agatston 0. Dominancia: derecha. Anatomía coronaria normal. Sin anomalías ni estenosis. Rotación de la silueta cardiaca a la izquierda y posterior y ausencia prácticamente del pericardio, con algunos tractos residuales en el margen anterior de ventrículo derecho.
+
+EVOLUCIÓN CLÍNICA
+Se decide ingreso en la planta de cardiología para estudio. En urgencias, se descarta TEP en angio-TAC. Inicialmente se sospecha displasia de ventrículo derecho (ECG con T negativa V1-V2, ecocardiograma con dudosa imagen aneurismática en ventrículo derecho) por lo que se completa estudio con RMN y posteriormente se repite nuevo ecocardiograma: el ventrículo derecho es de tamaño normal, sin dilatación ni claros criterios de displasia.
+Durante el ingreso se ha mantenido asintomático y estable, sin mareos ni síncopes y con telemetría que no ha registrado ningún evento (no extrasistolia ventricular ni supraventricular ni arritmias de ningún tipo). Se ha completado estudio de síncope con ECG promediado de señales, test de flecainida y estudio electrofisiológico sin inducibilidad de taquicardia ventricular ni hallazgos que justifiquen mecanismo arrítmico. Se implanta Holter subcutáneo.
+Se ha realizado también TAC coronario que descarta anomalías coronarias, con probable agenesia prácticamente total de pericardio izquierda (radiografía de tórax también compatible con este diagnóstico), que no justifica la clínica actual.
+
+DIAGNÓSTICO
+Síncopes de repetición de origen no filiado (probable neuromediados). Estudio electrofisiológico negativo. Holter implantable.
+TAC coronario sin lesiones ni anomalías coronarias.
+Agenesia prácticamente total de pericardio.

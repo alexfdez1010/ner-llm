@@ -1,0 +1,76 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 75 años.
+
+Antecedentes
+Factores de riesgo cardiovascular (FRCV): hipertensión arterial (HTA). DM tipo 2 con hemoglobina glicosilada (HbA1c) basal en torno a 8,5%. Dislipemia. Exfumador. Obesidad (índice de masa corporal [IMC] 34 kg/m2).
+
+Antecedentes cardiológicos:
+Cardiopatía isquémica crónica: ingreso por infarto agudo de miocardio (IAM) no Q inferior 4 años antes.
+*** Cateterismo: tronco coronario izquierdo normal. Descendente anterior (DA) con lesión significativa gravemente calcificada en segmento proximal y medio. Coronaria derecha (CD) con lesión significativa en segmento proximal. Conclusiones: enfermedad de dos vasos. Se realiza intervencionismo coronario percutáneo (ICP) con balón e implante de 2 stents en CD proximal y DA proximal-media.
+Implante marcapasos (MCP) definitivo bicameral hace 2 años por síncopes y bloqueo aurículo-ventricular Mobitz II y 2:1 (programado en DDD).
+Último ecocardiograma hace 1 año: función sistólica del ventrículo izquierdo (VI) conservada, sin alteraciones de la contractilidad segmentaria. Sin valvulopatías significativas.
+
+Otros: cólicos renales. Intervenciones quirúrgicas: apendicectomía, colecistectomía.
+
+Tratamiento habitual:
+Empagliflozina 10 mg, 1 comprimido cada día. Metformina 850 mg, 1 comprimido cada 12 horas. Bisoprolol 2,5 mg, 1 comprimido cada día. Ranolazina 500 mg, 1 comprimido cada 12 horas. Nitroglicerina 15 mg, 1 parche transdérmico cada día. Clopidogrel 75 mg, 1 comprimido cada día. Omeprazol 20 mg, 1 cápsula cada día. Atorvastatina + ácido acetilsalicílico (AAS) + ramipril 20/100/5 mg, 1 cápsula cada día.
+
+Enfermedad actual
+Angina crónica estable (CCS II/IV) con empeoramiento en el último mes, hasta aparecer clínica anginosa con esfuerzos leves (deambular 10 metros), asociando disnea progresiva hasta hacerse de leves esfuerzos, ortopnea y edemas en miembros inferiores (MMII). Refiere mal control tensional en domicilio (en torno a 150-160/100 mmHg).
+
+Exploración física
+A su llegada al hospital el paciente presenta buen estado general, eupneico en reposo.
+Presión arterial (PA) 170/95 mmHg, frecuencia cardiaca (FC) 84 lpm, saturación de oxígeno (SatO2) 96% con aire ambiente, afebril.
+Presencia de ingurgitación yugular. Auscultación cardiaca: tonos rítmicos, soplo sistolico II/VI en foco aórtico. Auscultación pulmonar: crepitantes leves bibasales. Miembros inferiores: edemas perimaleolares ligeros, no signos trombosis venosa profunda, pulsos conservados.
+
+PRUEBAS COMPLEMENTARIAS
+Pruebas complementarias durante el ingreso:
+
+Electrocardiograma (ECG): ritmo estimulado por marcapasos bicameral a 60 lpm.
+Radiografía de tórax: cardiomegalia, pinzamiento de seno costofrénico derecho y redistribución vascular a campos superiores.
+
+Analítica:
+Hemograma: hemoglobina 11 g/dl. Hematocrito 30%. Leucocitos, fórmula leucocitaria y plaquetas sin alteraciones.
+Coagulación: sin alteraciones.
+Bioquísmica: glucosa 161 mg/dl. HbA1c 8,3%. Urea 50 mg/dl. Creatinina 1,2 mg/dl. Iones en rango normal, función hepática sin alteraciones. PCR 1,1 mg/dl. Estudio de lípidos: colesterol total153 mg/dl, triglicéridos 77 mg/dl, HDL 44 mg/dl, LDL 94 mg/dl. Metabolismo férrico: ferritina 59 μg/l. Hierro 48 μg/l. IST 13,9%.
+Biomarcadores de daño miocárdico: hsTnI 80 ng/l --> 170 ng/l --> 60 ng/l (normal < 19,8 ng/l).
+Marcadores de insuficiencia cardiaca: NT-proBNP máximo 6.290 pg/ml, CA125 30 UI/ml.
+Ecocardiograma: ventrículo izquierdo levemente dilatado, con hipocinesia generalizada de todos sus segmentos y función sistólica global gravemente deprimida (FEVI por Simpson 28%). Insuficiencia mitral ligera. Válvula aórtica esclerosa, con normal apertura y gradientes trasvalvulares normales. Aurícula izquierda dilatada. Patrón diastólico normal, sin incremento de las presiones de llenado del VI. Ventrículo derecho ligeramente dilatado con función sistólica en el límite (TAPSE 17 mm). Insuficiencia tricuspídea (IT) ligera que permite estimar una PAPs de 46 mmHg. Vena cava inferior (VCI) no dilatada con colapso inspiratorio menor del 50%.
+Coronariografía, vía arteria radial izquierda: stents en CD y DA permeables y sin reestenosis.
+Estenosis significativa en rama diagonal de reducido calibre, no susceptible revascularización.
+
+Pruebas complementarias a los 3 meses:
+
+Analítica:
+Hemograma y coagulación: hemoglobina 14 g/dl. Hematocrito 44%. Fórmula leucocitaria, plaquetas y coagulación sin alteraciones.
+Bioquímica: glucosa 150 mg/dl, HbA1c 7,5%. Urea 47 mg/dl. Creatinina 1,22 mg/dl. FG
+Estimado CKD-EPI 59 ml/min/1,73 m . Iones en rango. Función hepática sin alteraciones.
+Estudio de lípidos: colesterol total 182 mg/dl, triglicéridos 200 mg/dl, HDL 45 mg/dl, LDL 85 mg/dl. Metabolismo férrico: ferritina 190 μg/l. Hierro 70 μg/L. IST 35%.
+Marcadores de insuficiencia cardiaca: NT-proBNP 2.503 pg/ml, CA125 17 UI/ml.
+Ecocardiograma: ventrículo izquierdo levemente dilatado, con hipocinesia generalizada de todos sus segmentos y función sistólica global moderamente deprimida (FEVI 32%), con asincronía por estimulación de VD. Ausencia de valvulopatías significativas. Patrón diastólico normal. Ventrículo derecho con función conservada. VCI no dilatada con adecuado colapso inspiratorio.
+
+Pruebas complementarias a los 6 meses:
+
+Analítica:
+Hemograma y coagulación: sin alteraciones.
+Bioquímica: glucosa 140 mg/dl, HbA1c 6,7%. Urea 42 mg/dl. Creatinina 1,17 mg/dl. FG
+Estimado CKD-EPI 60 ml/min/1,73 m . Iones en rango. Función hepática sin alteraciones.
+Estudio de lípidos: colesterol total 162 mg/dl, triglicéridos 225 mg/dl, HDL 46 mg/dl, LDL 70 mg/dl. Metabolismo férrico: ferritina 180 μg/l, Hierro 68 μg/l, IST 32%.
+Marcadores de insuficiencia cardiaca: NT-proBNP 1.153 pg/ml, CA125 14 UI/ml.
+Ecocardiograma (vídeos 3 y 4): ventrículo izquierdo no dilatado con FEVI conservada (FEVI por Simpson 61%). Diámetros y volúmenes conservados, hipocinesia septal anterior basal. Regurgitación mitral ligera. Patrón diastólico de alteración de la relajación sin aumento de presiones telediastólicas. VD normofuncionante con IT trivial y presión arterial pulmonar sistólica (PAPs) 40 mmHg. VCI 15 mm. Ausencia de derrame pericárdico.
+
+EVOLUCIÓN CLÍNICA
+Se trata de un paciente con cardiopatía isquémica crónica y portador de MCP bicameral, que presenta progresión de su angina hasta hacerse de mínimos esfuerzos, así como deterioro de clase funcional, asociado a aparición de disfunción ventricular izquierda grave (previamente FEVI conservada), por lo que se decide ingreso en cardiología para estudio y tratamiento.
+Durante su estancia en la sala de cardiología se administró tratamiento deplectivo y antianginoso, con progresiva disminución de la disnea, sin nuevos episodios de dolor torácico, tolerando la deambulación. Se realizó coronariografia objetivando progresión de la enfermedad coronaria no revascularizable, por lo que se decidió optimizar el tratamiento médico antianginoso y de insuficiencia cardiaca. Se inició espironolactona y sacubitrilo/valsartán sin incidencias. Ante la presencia de diabetes mal controlada asociada a obesidad e HTA de difícil control en paciente con cardiopatía isquémica e insuficiencia cardiaca, se decidió añadir al tratamiento liraglutide 0,6 mg diarios y se incrementó la dosis de estatina. Dada la anemia ferropénica se asoció tratamiento con ferroterapia endovenosa, con buena respuesta. Al alta hospitalaria presentaba PA 100/66 mmHg, FC 84 lpm, SatO2 99%, en situación de euvolemia. Se incluyó en la unidad de insuficiencia cardiaca para un estrecho control ambulatorio.
+A los 3 meses persistía disfunción ventricular grave por lo que se decidió terapia de resincronizacion cardiaca (TRC) dada lacontribución a la disfunción de la estimulación continua de VD (paciente marcapasos dependiente).
+Tras 6 meses con tratamiento médico óptimo titulado a dosis máximas toleradas y 3 meses del implante de TRC, se revaluó al paciente clínica, analítica y ecocardiográficamente. El paciente presentaba NYHA I sin síntomas de insuficiencia cardiaca ni signos de congestión pulmonar ni periférica,normalización de la función ventricular, ausencia de dolor torácico y adecuado control tensional en domicilio. Se confirmó además pérdida significativa de peso (IMC 28) y marcada mejoría del control glucémico, alcanzando HbA1c objetivo.
+El paciente no ha presentado nuevas descompensaciones ni ingresos durante un seguimiento actual de 2 años.
+
+DIAGNÓSTICO
+Diagnóstico principal:
+Cardiopatía isquémica crónica. Clínica de angor inestable Ib con daño miocárdico en rango de IAM. Enfermedad coronaria de 2 vasos con stents permeables y nueva lesión no revascularizable en rama diagonal.
+Insuficiencia cardiaca con fracción de eyección gravemente deprimida de origen multifactorial (miocardiopatia diabética, isquémica y posestimulación de VD).
+Otros diagnósticos:
+Anemia ferropénica.
+Hipertensión arterial.
+Diabetes mellitus tipo 2 mal controlada. Dislipemia sin cumplir objetivos de LDL. Obesidad.

@@ -1,0 +1,21 @@
+T27	ENFERMEDAD 1423 1452	ventrículo izquierdo dilatado
+T29	ENFERMEDAD 1674 1697	VD ligeramente dilatado
+T30	ENFERMEDAD 1876 1905	ventrículo izquierdo dilatado
+T74	ENFERMEDAD 1718 1720	IT
+T75	ENFERMEDAD 1766 1784	Derrame pericardio
+T78	ENFERMEDAD 2447 2466	fibrosis miocárdica
+T79	ENFERMEDAD 2762 2778	edema miocárdico
+T80	ENFERMEDAD 2790 2798	fibrosis
+T81	ENFERMEDAD 2902 2913	miocarditis
+T82	ENFERMEDAD 3195 3217	insuficiencia cardiaca
+T83	ENFERMEDAD 3268 3292	hipoperfusión periférica
+T84	ENFERMEDAD 3955 3968	valvulopatías
+T85	ENFERMEDAD 3978 3997	derrame pericárdico
+T87	ENFERMEDAD 4389 4405	MCD no isquémica
+T89	ENFERMEDAD 4461 4479	Shock cardiogénico
+T90	ENFERMEDAD 1575 1586	IM moderada
+T31	ENFERMEDAD 2377 2380	MCD
+T36	ENFERMEDAD 3385 3389	TVMS
+T97	ENFERMEDAD 2023 2078	Ventrículo derecho con volúmenes ligeramente aumentados
+T99	ENFERMEDAD 4367 4374	rechazo
+#1	AnnotatorNotes T31	miocardiopatia dilatada

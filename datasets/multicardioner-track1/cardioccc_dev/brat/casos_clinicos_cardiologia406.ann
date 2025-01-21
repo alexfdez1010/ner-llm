@@ -1,0 +1,48 @@
+T16	ENFERMEDAD 2467 2528	Válvula tricuspídea estructuralmente normal con regurgitación
+T21	ENFERMEDAD 86 107	Hipertensión arterial
+T22	ENFERMEDAD 109 119	Dislipemia
+T23	ENFERMEDAD 121 200	Miocardiopatía dilatada de origen isquémico con disfunción ventricular moderada
+T24	ENFERMEDAD 202 231	cardiopatía isquémica crónica
+T25	ENFERMEDAD 252 289	Fibrilación auricular (FA) permanente
+T26	ENFERMEDAD 275 277	FA
+T27	ENFERMEDAD 322 351	Valvulopatía mitral reumática
+T28	ENFERMEDAD 978 999	edema agudo de pulmón
+T29	ENFERMEDAD 1824 1826	FA
+T30	ENFERMEDAD 1864 1870	BCRIHH
+T31	ENFERMEDAD 2583 2602	derrame pericárdico
+T33	ENFERMEDAD 2728 2763	regurgitación mitral moderada-grave
+T34	ENFERMEDAD 3028 3061	Lesión larga en circunfleja media
+T35	ENFERMEDAD 3063 3100	Lesiones del 90% en coronaria derecha
+T36	ENFERMEDAD 3321 3359	dehiscencia paravalvular periprotésica
+T37	ENFERMEDAD 3393 3427	regurgitación mitral moderadagrave
+T38	ENFERMEDAD 3820 3838	fuga periprotésica
+T39	ENFERMEDAD 4016 4034	fuga periprotésica
+T40	ENFERMEDAD 4120 4145	fuga periprotésica mitral
+T41	ENFERMEDAD 4174 4200	regurgitación mitral grave
+T42	ENFERMEDAD 4230 4251	enfermedad de 3 vasos
+T43	ENFERMEDAD 4567 4608	insuficiencia cardiaca (IC) descompensada
+T44	ENFERMEDAD 4591 4593	IC
+T45	ENFERMEDAD 4611 4628	anemia hemolítica
+T46	ENFERMEDAD 4745 4783	dehiscencia paravalvular periprotésica
+T47	ENFERMEDAD 4817 4852	regurgitación mitral moderada-grave
+T48	ENFERMEDAD 5203 5220	fuga paravalvular
+T49	ENFERMEDAD 5542 5558	IC descompensada
+T50	ENFERMEDAD 5600 5672	dehiscencia periprotésica cercana a dispositivo Amplatzer de grado grave
+T51	ENFERMEDAD 5744 5783	dehiscencias paravalvulares recurrentes
+T52	ENFERMEDAD 6205 6222	fuga paravalvular
+T53	ENFERMEDAD 6454 6475	Cardiopatía isquémica
+T54	ENFERMEDAD 6477 6508	Enfermedad coronaria de 3 vasos
+T55	ENFERMEDAD 6543 6606	Disfunción sistólica leve y dilatación del ventrículo izquierdo
+T56	ENFERMEDAD 6613 6657	Valvulopatía reumática con afectación mitral
+T57	ENFERMEDAD 2374 2411	Aorta ascendente ligeramente dilatada
+T58	ENFERMEDAD 2300 2365	Válvula aórtica trivalva, ligeramente engrosada con regurgitación
+T60	ENFERMEDAD 3581 3599	leak periprotésico
+T61	ENFERMEDAD 5072 5090	leak periprotésico
+T62	ENFERMEDAD 5238 5274	regurgitación mitral ligera-moderada
+T63	ENFERMEDAD 1968 2054	aurícula y ventrículo izquierdos dilatados con hipertrofia ventricular ligera-moderada
+T64	ENFERMEDAD 2189 2245	Prótesis mecánica mitral con obstrucción ligera-moderada
+T65	ENFERMEDAD 2538 2569	Vena cava inferior muy dilatada
+T66	ENFERMEDAD 2953 2997	Lesión del 90% en descendente anterior media
+T67	ENFERMEDAD 6727 6768	fugas periprotésicas mitrales recurrentes
+T17	ENFERMEDAD 2649 2685	dehiscencia periprotésica paraseptal
+T18	ENFERMEDAD 2999 3026	Lesión del 90% en bisectriz

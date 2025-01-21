@@ -1,0 +1,37 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 46 años, funcionaria, sin enfermedades de interés ni medicación habitual. Nunca fumadora. Sin factores de riesgo cardiovascular ni consumo de alcohol u otros tóxicos. Sin antecedentes familiares de cardiopatía o muerte súbita. Intervenida de amigdalectomía en la infancia, cesárea e histerectomía.
+Asintomática cardiovascular hasta las 2 semanas previas, que comienza con disnea de moderados esfuerzos que le impide realizar su vida normal, junto con ortopnea, oliguria y aparición de edemas progresivos en miembros inferiores. Niega en todo momento dolor torácico, palpitaciones, mareo o síncope. Tampoco presenta síndrome febril o cuadro infeccioso.
+En la exploración física presenta una tensión arterial de 130/60 mmHg, una frecuencia cardiaca de 90 lpm, está afebril y eupneica con gafas nasales a 2 lpm. En la auscultación destacan crepitantes bibasales y un soplo diastólico II/IV a nivel mitral con un "plop" ocasional. Abdomen sin hallazgos y extremidades inferiores con edema con fóvea distal, sin datos de trombosis venosa.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): ritmo sinusal a 90 lpm, PR normal (152 ms) con P bimodal en relación con crecimiento auricular izquierdo. QRS estrecho con eje normal sin alteraciones repolarización.
+Radiografía de tórax: índice cardiotorácico normal con discreta redistribución vascular.
+
+
+
+Análisis:
+Bioquímica: glucosa 98 mg/dl (70-110), urea 16 mg/dl [10-50], creatinina 0,78 mg/dl (0,7-1,2), filtrado glomerular > 60 ml/min (MDRD-4) (> 60), Na 144 mmol/l (135-145), K 3,9 mmol/l [3,5-5,1]. ProBNP 2110 pg/ml (10-125). Pruebas de función hepática normales.
+Hormonas tiroideas normales.
+Hemograma: leucocitos 9.400/cc (fórmula normal) (4.500-11.400), Hb 14,8 g/dl (13,2-16,8), plaquetas 211.000 (157.000-334.000).
+Coagulación: INR 1,13 (0,8-1,3), TP 82% (70-120), TTPA 24,4s (24,8-40,3).
+
+TAC protocolo TEP: no se objetivan defectos de repleción en tronco de la pulmonar ni ramas principales ni segmentarias sugestivas de la existencia de tromboembolismo. Llama la atención una masa hipodensa de 5 x 4 cm y bien delimitada localizada a nivel del aurícula izquierda, que atraviesa la válvula hacia el ventrículo izquierdo a descartar mixoma o trombo de gran tamaño. Se acompaña de derrames pleurales bilaterales y un patrón intersticial lineal, con engrosamiento de septos interlobulillares compatible con fallo cardiaco.
+
+Ecocardiograma transtorácico: ventrículo izquierdo (VI) de dimensiones y grosor normal, con FEVI conservada (> 60 %) y sin anomalías segmentarias de la contractilidad.
+Ventrículo derecho (VD) de tamaño y función normal (TAPSE 20 mm). Dilatación aurícula izquierda moderada con gran masa redonda heterogénea de 5 x 3 cm, adherida a septo interauricular que en diástole se introduce por el anillo mitral produciendo una estenosis moderada-grave (gradiente máximo de 24 mmHg y medio de 14 mmHg, área estimada de 1,4 cm2), sin insuficiencia. Válvula aortica y tricúspide sin disfunción significativa.
+
+Ecocardiograma transesofágico: masa intraauricular redondeada de 5 x 3,5 cm, heterogénea, con pedículo ancho de 2,7 x 1 cm que se adhiere al septo interauricular inferior por debajo de la fosa oval, a la que respeta, que en diástole se introduce en el anillo mitral produciendo una estenosis significativa (área efectiva de 1,4 cm2), con válvula mitral de velos finos sin alteraciones. Dicha masa es compatible con un mixoma auricular. Orejuela libre de trombos.
+Estudio hemodinámico: arterias coronarias sin estenosis significativas.
+
+
+EVOLUCIÓN CLÍNICA
+Acude al servicio de urgencias donde ante la presencia de disnea en paciente sin cardiopatía conocida, se decide realizar un TAC protocolo TEP, que descarta la presencia de tromboembolismo pulmonar pero objetiva una masa llamativa en aurícula izquierda, por lo que se consulta a cardiología ingresando a su cargo como debut de insuficiencia cardiaca.
+Con los hallazgos del TAC y la auscultación patológica, con una sospecha clínica clara, se realiza un ecocardiograma transtorácico y transesofágico que muestra la presencia de una masa gigante pediculada en la aurícula izquierda compatible con un mixoma que, en diástole, protruye hacia ventrículo izquierdo causando una estenosis mitral significativa. Se presenta el caso a cirugía cardiaca decidiéndose extirpación de dicha masa. Intraoperatoriamente se objetiva una tumoración con base de implantación inferior a fosa oval en continuidad con anillo mitral posterior y realiza exéresis completa incluyendo parte de septo interauricular, con cierre posterior del defecto con parche de pericardio autólogo. La válvula mitral es morfológicamente normal, con velos finos, y mediante ecocardiograma transesofágico intraoperatorio se objetiva su normofunción tras la extirpación de la masa.
+
+Es extubada a las pocas horas sin incidencias y, tras unos días, es dada de alta. El resultado de anatomía patológica confirma la presencia de mixoma auricular, sin datos de malignidad. Actualmente se encuentra seguida de manera ambulatoria por cardiología. Se realiza ecocardiograma de control al año que no muestra alteraciones, sin presentar recidiva del mixoma, estando desde entonces estable y asintomática.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca congestiva. Primer episodio.
+Mixoma auricular gigante.
+Estenosis mitral dinámica moderada-grave.
+Exéresis de la masa y reparación de septo con parche de pericardio.

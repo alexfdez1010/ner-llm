@@ -1,0 +1,32 @@
+T19	ENFERMEDAD 76 99	alergias medicamentosas
+T20	ENFERMEDAD 115 130	hábitos tóxicos
+T21	ENFERMEDAD 431 459	taquicardia supraventricular
+T22	ENFERMEDAD 461 464	TSV
+T23	ENFERMEDAD 632 672	taquicardia supraventricular paroxística
+T24	ENFERMEDAD 984 987	TSV
+T25	ENFERMEDAD 1572 1588	TSV no sostenido
+T26	ENFERMEDAD 2815 2856	taquicardia supraventricular no sostenida
+T27	ENFERMEDAD 2863 2895	dilatación de ventrículo derecho
+T28	ENFERMEDAD 3003 3033	Insuficiencia tricuspídea leve
+T29	ENFERMEDAD 3196 3209	valvulopatías
+T30	ENFERMEDAD 3435 3462	shunt intra o extracardiaco
+T31	ENFERMEDAD 4679 4790	taquicardia auricular focal, con mayores precocidades a nivel de la desembocadura de la vena cava superior a AD
+T32	ENFERMEDAD 5285 5313	taquicardia supraventricular
+T35	ENFERMEDAD 6482 6509	Taquicardia auricular focal
+T36	ENFERMEDAD 3603 3614	VD dilatado
+T37	ENFERMEDAD 3645 3770	Shunt izquierda-derecha extracardiaco por drenaje venoso anómalo de la vena pulmonar superior derecha a la vena cava superior
+T38	ENFERMEDAD 3812 3824	VD: dilatado
+T39	ENFERMEDAD 4028 4111	Drenaje venoso anómalo de la vena pulmonar superior derecha a la vena cava superior
+T40	ENFERMEDAD 4942 5054	conexión venosa pulmonar anómala (CVPA) por drenaje de la vena pulmonar superior derecha a la vena cava superior
+T41	ENFERMEDAD 5149 5172	shunt izquierda-derecha
+T42	ENFERMEDAD 5741 5764	shunt izquierda-derecha
+T43	ENFERMEDAD 6265 6361	Conexión venosa pulmonar anómala: drenaje de vena pulmonar superior derecha a vena cava superior
+T44	ENFERMEDAD 6363 6448	Shunt izquierda-derecha significativo con sobrecarga de volumen de ventrículo derecho
+T87	ENFERMEDAD 1633 1658	episodios taquiarrítmicos
+T16	ENFERMEDAD 4976 4980	CVPA
+T95	ENFERMEDAD 2771 2779	bloqueos
+T101	ENFERMEDAD 1244 1276	dilatación de cavidades derechas
+T102	ENFERMEDAD 1877 1909	dilatación de cavidades derechas
+T113	ENFERMEDAD 2407 2420	preexcitación
+T93	ENFERMEDAD 4113 4151	AI: área de 21 cm2, levemente dilatada
+T94	ENFERMEDAD 4153 4191	AD: área de 29 cm2, levemente dilatada

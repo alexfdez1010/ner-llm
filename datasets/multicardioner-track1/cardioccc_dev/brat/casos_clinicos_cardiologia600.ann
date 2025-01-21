@@ -1,0 +1,39 @@
+T14	ENFERMEDAD 4456 4513	ventrículo izquierdo no dilatado con hipertrofia moderada
+T20	ENFERMEDAD 6306 6363	ventrículo izquierdo no dilatado con hipertrofia moderada
+T58	ENFERMEDAD 129 150	Hipertensión arterial
+T59	ENFERMEDAD 184 197	Flutter común
+T60	ENFERMEDAD 291 311	síncope cardiogénico
+T61	ENFERMEDAD 335 380	Síndrome coronario agudo sin elevación del ST
+T62	ENFERMEDAD 732 751	deterioro cognitivo
+T63	ENFERMEDAD 815 856	estenosis aórtica, de origen degenerativo
+T64	ENFERMEDAD 1003 1026	estenosis aórtica grave
+T65	ENFERMEDAD 1559 1587	insuficiencia cardiaca aguda
+T66	ENFERMEDAD 1603 1626	neumonía por SARS-CoV-2
+T67	ENFERMEDAD 2745 2768	estenosis aórtica grave
+T69	ENFERMEDAD 3324 3339	derrame pleural
+T70	ENFERMEDAD 4642 4668	disfunción sistólica grave
+T71	ENFERMEDAD 4684 4754	válvula aórtica se encontraba gravemente calcificada y desestructurada
+T72	ENFERMEDAD 4968 4999	estenosis aórtica grave-crítica
+T73	ENFERMEDAD 5012 5056	válvula tricúspide exhibía una insuficiencia
+T74	ENFERMEDAD 5165 5198	calcificación del árbol coronario
+T75	ENFERMEDAD 5200 5260	Tronco coronario izquierdo de buen calibre, con ateromatosis
+T76	ENFERMEDAD 5325 5353	DA proximal con ateromatosis
+T77	ENFERMEDAD 5362 5390	DA media con lesión moderada
+T78	ENFERMEDAD 5490 5541	Circunfleja no dominante, con ateromatosis moderada
+T79	ENFERMEDAD 5550 5601	Coronaria derecha dominante con ateromatosis ligera
+T80	ENFERMEDAD 5773 5814	descompensación de insuficiencia cardiaca
+T81	ENFERMEDAD 5985 6007	disfunción ventricular
+T83	ENFERMEDAD 6116 6150	taquicardia mediada por marcapasos
+T84	ENFERMEDAD 6546 6598	válvula aórtica se encontraba gravemente calcificada
+T85	ENFERMEDAD 6800 6823	estenosis aórtica grave
+T86	ENFERMEDAD 6844 6888	válvula tricúspide exhibía una insuficiencia
+T87	ENFERMEDAD 7493 7528	Estenosis aórtica grave sintomática
+T88	ENFERMEDAD 7566 7618	Descompensación de insuficiencia cardiaca secundaria
+T89	ENFERMEDAD 7632 7679	Infarto agudo de miocardio sin elevación del ST
+T90	ENFERMEDAD 7713 7764	Disfunción sistólica grave del ventrículo izquierdo
+T91	ENFERMEDAD 7766 7793	Hipertensión pulmonar grave
+T92	ENFERMEDAD 7795 7814	Fracaso renal agudo
+T93	ENFERMEDAD 7816 7828	Hiponatremia
+T98	ENFERMEDAD 7530 7564	Taquicardia mediada por marcapasos
+T99	ENFERMEDAD 7837 7870	Sobredosificación de acenocumarol
+T101	ENFERMEDAD 7040 7059	lesiones coronarias

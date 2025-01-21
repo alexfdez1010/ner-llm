@@ -1,0 +1,56 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+
+Varón de 73 años, independiente, con vida activa. Sin alergias medicamentosas conocidas.
+Factores de riesgo cardiovascular: exfumador hasta hace 30 años de unos 30 paquetes/año. Hipertensión arterial (HTA) a tratamiento farmacológico con buen control. Diabetes mellitus (DM) tipo 2 a tratamiento con fármacos orales con buen control. Dislipemia a tratamiento farmacológico. No hábito enólico.
+Historia cardiológica previa: diagnosticado en octubre de 2017 por episodio de dolor torácico opresivo de cardiopatía valvular aórtica degenerativa con doble lesión (estenosis aórtica grave e insuficiencia aórtica moderada), aneurisma de aorta ascendente (52 mm) y enfermedad coronaria de 1 vaso (CD difusamente enferma con mal lecho distal). En febrero de 2018 se realiza recambio valvular, colocándose una prótesis aórtica biológica Magna Ease del número 21 y tubo supracoronario Hemashield no 28.
+
+Otros antecedentes:
+Ulcus duodenal que requirió gastrectomía tipo Billroth II.
+Neoplasia de recto inferior y pulmonar sincrónica en 2016. Recibió radio y quimioterapia; posteriormente lobectomía pulmonar y resección rectal.
+Isquemia crónica de miembros inferiores (MMII) grado II por obstrucción femoropoplitea en MID y estenosis distal a poplítea en MMII.
+Neurinoma del acústico izquierdo que produce hipoacusia en oído izquierdo, pendiente de decidir actitud terapéutica.
+
+Tratamiento habitual: rosuvastatina 10 mg (0-0-1), clopidogrel 75 mg (0-1-0), omeprazol 20 mg (1-0-0), oxicodona 5 mg 1 cp c/4h sp, paracetamol sp y lactulosa sp.
+
+Enfermedad actual
+Paciente de 73 años que ingresa en neurología en abril de 2019 por diplopia e inestabilidad para la marcha. Ha presentado en el mes previo síndrome general con pérdida de peso y astenia, acompañado de febrícula.
+A las 24 horas de ingresar en neurología para completar estudios, encontrándose previamente asintomático desde el punto de vista cardiológico, comienza con dolor centrotorácico opresivo con cambios electrocardiográficos: bloqueo de rama derecha de has de His (BRDHH) no presentado previamente y elevación de ST en cara anterolateral. Se activa código infarto, se administran dosis de carga de tratamiento antitrombótico.
+A los pocos minutos, presenta bloqueo auriculoventricular completo con rachas de asistolia prolongada e inestabilidad hemodinámica, por lo que se procede a intubación orotraqueal y conexión a ventilación mecánica. Precisa de noradrenalina para mantener la tensión arterial.
+A su llegada a la sala de hemodinámica se procede a colocación de marcapasos transitorio vía vena femoral derecha y se realiza coronariografía en la que se observa una estenosis del 100% de la arteria descendente anterior como vaso responsable del infarto. Se procede a angioplastia primaria e implante destent farmacoactivo con buen resultado angiográfico. Tras ello, ingresa en la unidad de cuidados intensivos cardiológicos.
+
+Exploración física
+Al ingreso en neurología:
+Exploración neurológica: presenta marcha inestable con lateropulsión hacia la derecha, ptosis palpebral derecha y diplopia en varias posiciones de la mirada.
+Tensión arterial (TA) 135/73 mmHg. Saturación de oxígeno (SatO2) 97% basal. Temperatura 37,4 oC. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos sobreañadidos. Auscultación cardiaca: rítmico con soplo sistólico II/VI en foco aórtico. Abdomen blando, depresible y no doloroso. No edemas en miembros inferiores.
+
+Al ingreso en UCI-cardiaca:
+SAPS-3 (Simplified Acute Physiology Score-3): 76 puntos (67,4% probabilidad de muerte en el ingreso). TA 115/56 mmHg con perfusión de noradrenalina a 0,7 μg/kg/min. Frecuencia cardiaca (FC) 70 lpm. Temperatura 36o C. SatO2 100% (FiO2 0,5). Frecuencia respiratoria (FR) 19 rpm.
+Bajo efectos de sedoanalgesia, pupilas medias reactivas. Flexión de miembros superiores (MMSS) al estímulo algésico. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos sobreañadidos. Auscultación cardiaca: rítmico con soplo sistólico II/VI en foco aórtico. Abdomen blando, y depresible, no doloroso a la palpación con peristalsis conservada, sin signos de irritación peritoneal. No se palpan masas ni megalias. Extremidades inferiores bien perfundidas, con pulsos pedios conservados y simétricos, sin signos de trombosis venosa profunda.
+
+
+PRUEBAS COMPLEMENTARIAS
+TC craneal sin contraste: no se aprecian signos de sangrado, compresiones, ni desplazamientos en las estructuras endocraneales visualizadas. Lesiones hipodensas en sustancia blanca periventricular de aspecto isquémico subagudo.
+Analítica: bioquímica de sangre: glucosa 255 mg/dl, urea 49 mg/dL, creatinina 0,95 mg/dl, CK 5.955 U/l, TnT 14.890 ng/l. Hemograma: hemoglobina 9,3 g/dl, hematocrito 27,4%, leucocitos 14.550/mm (neutrófilos 91,9%), Plaquetas 149.000/mm. Coagulación: TP 61%, TTPa 15,9 s, fibrinógeno 432 mg/dl.
+Electrocardiograma (ECG) con dolor torácico: ritmo sinusal a 97 lpm. BRDHH. Elevación del ST en cara anterolateral.
+Coronariografía emergente:
+Se realiza implante de marcapasos transitorio de balón por vía venosa femoral derecha.
+Tronco coronario izquierdo: sin estenosis. Descendente anterior: estenosis del 100%, flujo TIMI 0 en segmento proximal. Circunfleja: sin estenosis. Coronaria derecha: estenosis grave del 99% en su segmento distal y estenosis del 100% en su segmento medio, impresiona de oclusión crónica, con lecho distal malo.
+Angioplastia primaria: por vía arterial femoral derecha, con JL4 guía se avanza guíafloppy a DA distal recuperando flujo arterial. Posteriormente se realiza implante directo destent farmacoativo Resolute Onyx 3.5 x 22 mm en segmento proximal con éxito y sin complicaciones. Buen resultado angiográfico y flujo TIMI 3 final.
+Ecocardiografía transesofágica:
+Estudio realizado en UCI con paciente en ventilación mecánica.
+Prótesis biológica en posición aórtica con verruga de gran tamaño (unos 24 mm), multilobulada e irregular, que se desplaza de TSVI a aorta con el ciclo cardiaco. Insuficiencia valvular leve. Gradiente máximo de 43 y medio de 30 mmHg (previos de 14 y 6 mmHg) con relación de ITVs 0,26. Absceso perivalvular aórtico que se extiende a unión mitro-aórtica.
+Insuficiencia mitral moderada-grave por desestructuración del anillo valvular en relación con absceso en unión mitroaórtica.
+Disfunción sistólica grave por acinesia extensa de todos los segmentos apicales, cara anterior y segmento medio septales y basales de septo anterior.
+Sin derrame pericárdico.
+Hemocultivos: extraídos al ingreso. Staphylococcus epidermidis multisensible.
+
+EVOLUCIÓN CLÍNICA
+El paciente ingresa en UCI-cardiológica en situación de shock con alta sospecha de endocarditis infecciosa por la febrícula, ser portador de prótesis biológica y por las caracteristicas de la lesión de la arteria descendente anterior que sugieren origen embólico. Se realiza al ingreso ecocardiografía transtorácica y se progresa a ecocardiografía transesofágica que confirma el diagnóstico de endocarditis infecciosa protésica tardía. Además se recibe el resultado de los hemocultivos extraídos a su ingreso, positivos para Staphylococcus epidermidis multisensible.
+Valoración conjunta con cirugía cardiaca. Ante la situación de shock cardiogénico, se desestima la cirugía emergente. Pese a tratamiento antibiótico, inotropos a dosis crecientes e implante de balón de contrapulsación intraórtico, no se consigue superar la situación deshock. Insuficiencia renal aguda, en anuria. Se realiza hemofiltración, sin mejoría. Desarrolla fallo multiorgánico y finalmente fallece.
+
+DIAGNÓSTICO
+Muerte por endocarditis infecciosa protésica tardía por Staphylococcus epidermidis, complicada con:
+SCACEST anterior en situación hemodinámica Killip-Kimball IVs(hock cardiogénico). Enfermedad coronaria de 2 vasos. Oclusión crónica de coronaria derecha media. Oclusión embólica de arteria descendente anterior proximal, angioplastia primaria con implante de stent farmacoactivo. Función sistólica ventricular izquierda gravemente afecta.
+Shock de origen mixto, cardiogénico y séptico.

@@ -1,0 +1,52 @@
+T29	ENFERMEDAD 114 121	fumador
+T30	ENFERMEDAD 187 202	hábitos tóxicos
+T31	ENFERMEDAD 236 269	fibrilación auricular paroxística
+T32	ENFERMEDAD 781 831	adenopatías hiliares homolaterales y mediastínicas
+T33	ENFERMEDAD 851 866	derrame pleural
+T34	ENFERMEDAD 920 962	atelectasia segmentaria en el lóbulo medio
+T35	ENFERMEDAD 1218 1245	neoplasia primaria pulmonar
+T36	ENFERMEDAD 1278 1289	adenopatías
+T37	ENFERMEDAD 1344 1369	adenopatía supraclavicuar
+T38	ENFERMEDAD 1382 1397	derrame pleural
+T40	ENFERMEDAD 1499 1529	adenocarcinoma (ADC) de pulmón
+T41	ENFERMEDAD 1660 1667	tumores
+T42	ENFERMEDAD 1714 1738	adenocarcinoma de pulmón
+T43	ENFERMEDAD 2046 2072	adenopatías paratraqueales
+T44	ENFERMEDAD 2092 2107	derrame pleural
+T45	ENFERMEDAD 2959 2966	síncope
+T46	ENFERMEDAD 3103 3123	derrame pleural leve
+T47	ENFERMEDAD 3128 3155	derrame pericárdico laminar
+T48	ENFERMEDAD 3380 3413	insuficiencia cardiaca congestiva
+T49	ENFERMEDAD 3918 3961	bloqueo auriculoventricular de primer grado
+T50	ENFERMEDAD 4604 4637	hipertrofia septal leve- moderada
+T51	ENFERMEDAD 4806 4852	regurgitación leve de válvula aórtica y mitral
+T52	ENFERMEDAD 4973 5003	insuficiencia tricuspidea leve
+T53	ENFERMEDAD 5008 5029	hipertensión pulmonar
+T54	ENFERMEDAD 5050 5074	derrame pericárdico leve
+T55	ENFERMEDAD 5177 5228	insuficiencia cardiaca secundaria a una bradicardia
+T57	ENFERMEDAD 5333 5355	insuficiencia cardiaca
+T58	ENFERMEDAD 5396 5418	insuficiencia cardiaca
+T59	ENFERMEDAD 5564 5596	hipertrofia septal leve-moderada
+T60	ENFERMEDAD 5622 5646	derrame pericárdico leve
+T61	ENFERMEDAD 5830 5848	síndrome nefrótico
+T62	ENFERMEDAD 5873 5889	cáncer de pulmón
+T63	ENFERMEDAD 5896 5921	síndromes paraneoplásicos
+T64	ENFERMEDAD 5966 5984	síndrome nefrótico
+T65	ENFERMEDAD 6161 6175	fallo hepático
+T66	ENFERMEDAD 6252 6260	etilismo
+T67	ENFERMEDAD 6504 6547	adenopatías abdomino-pélvicas ni inguinales
+T68	ENFERMEDAD 7174 7186	hipertensión
+T69	ENFERMEDAD 7258 7305	bradicardia sintomática secundaria a crizotinib
+T70	ENFERMEDAD 7308 7341	insuficiencia cardiaca congestiva
+T71	ENFERMEDAD 7584 7596	hipertensión
+T72	ENFERMEDAD 7778 7795	cardiopatía grave
+T73	ENFERMEDAD 8085 8107	Insuficiencia cardiaca
+T74	ENFERMEDAD 8141 8160	bradicardia sinusal
+T75	ENFERMEDAD 8162 8205	Bradicardia sinusal secundaria a crizotinib
+T76	ENFERMEDAD 8207 8231	Adenocarcinoma de pulmón
+T78	ENFERMEDAD 6414 6419	tumor
+T79	ENFERMEDAD 4734 4773	raíz de aorta estaba levemente dilatada
+T80	ENFERMEDAD 4857 4901	aurícula izquierda estaba levemente dilatada
+T1	ENFERMEDAD 1515 1518	ADC
+T56	ENFERMEDAD 5233 5301	bradicardia es un efecto adverso cardiovascular común del crizotinib
+#1	AnnotatorNotes T1	adenocarcinoma

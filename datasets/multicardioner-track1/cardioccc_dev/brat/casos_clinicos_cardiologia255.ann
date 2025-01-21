@@ -1,0 +1,24 @@
+T36	ENFERMEDAD 159 180	hipertensión arterial
+T37	ENFERMEDAD 182 185	HTA
+T38	ENFERMEDAD 188 212	diabetes mellitus tipo 2
+T39	ENFERMEDAD 214 217	DM2
+T40	ENFERMEDAD 220 230	dislipemia
+T41	ENFERMEDAD 260 282	insuficiencia cardiaca
+T42	ENFERMEDAD 304 328	Cardiopatía hipertensiva
+T43	ENFERMEDAD 428 467	cólico biliar secundario a colelitiasis
+T45	ENFERMEDAD 2290 2305	Derrame pleural
+T46	ENFERMEDAD 2706 2721	daño miocárdico
+T47	ENFERMEDAD 2803 2825	insuficiencia cardiaca
+T48	ENFERMEDAD 3289 3320	Insuficiencia tricúspide ligera
+T49	ENFERMEDAD 3394 3424	hipertensión pulmonar moderada
+T50	ENFERMEDAD 3503 3581	estenosis leve-moderada en DA próximomedial y segmento proximal de 1a diagonal
+T51	ENFERMEDAD 3981 4036	vasoespasmo difuso de todo el árbol coronario izquierdo
+T52	ENFERMEDAD 4170 4239	estenosis moderadas funcionalmente no significativas en DA y diagonal
+T53	ENFERMEDAD 5012 5034	insuficiencia cardiaca
+T54	ENFERMEDAD 5095 5127	vasoespasmo coronario epicárdico
+T55	ENFERMEDAD 4961 4995	Edema agudo de pulmón hipertensivo
+T56	ENFERMEDAD 3769 3771	IC
+T57	ENFERMEDAD 2901 2957	entrículo izquierdo con hipertrofia concéntrica moderada
+T104	ENFERMEDAD 5129 5150	Disfunción diastólica
+T105	ENFERMEDAD 5069 5090	Disfunción endotelial
+#1	AnnotatorNotes T56	 insuficiencia cardíaca

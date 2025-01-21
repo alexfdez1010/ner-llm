@@ -1,0 +1,54 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Mujer de 72 años, jubilada. Vive sola con buen apoyo familiar. Vida activa.
+No alergias medicamentosas conocidas.
+No fumadora ni bebedora.
+No hipertensión arterial (HTA), ni diabetes mellitus (DM), ni dislipemia conocidas.
+No cardiopatía ni broncopatía conocidas.
+No intervenciones quirúrgicas de interés.
+No tratamientos crónicos.
+
+ENFERMEDAD ACTUAL
+Mujer de 72 años traída a urgencias por los servicios de emergencias ante mal estado general y dolor abdominal inespecífico de días de evolución. A su llegada, mala situación clínica y hemodinámica, con cifras tensionales en torno a 80/40 mmHg y frecuencia cardiaca (FC) en 190 lpm, con hipoperfusión periférica y lividez en las cuatro extremidades junto con bajo nivel de consciencia. Ante la mala situación clínica, se realiza intubación orotraqueal y se decide ingreso en unidad de cuidados intensivos (UCI).
+
+EXPLORACIÓN FÍSICA
+Tensión arterial (TA) 85/42 mmHg, FC 190 lpm, saturación de oxígeno (SatO2) no valorable por hipoperfusión, afebril.
+Mal estado general, bajo nivel de consciencia y frialdad cutánea e hipoperfusión periférica.
+No ingurgitación yugular.
+Auscultación cardiaca: ruidos cardiacos rítmicos a 190x ́ sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado, sin ruidos patológicos sobreañadidos.
+Abdomen: distensión abdominal, con ruidos hidroaéreos preservados. Hepatomegalia de 2 traveses.
+Extremidades superiores: mala perfusión distal, sin palparse pulsos. Lividez en ambas extremidades.
+Extremidades superiores: mala perfusión distal, sin palparse pulsos. No edemas ni signos de trombosis venosa profunda (TVP). Lividez en ambas extremidades.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica de ingreso en UCI:
+Hemograma: leucocitos 16800/μL (80% polimorfonucleares), Hb 12,4 g/dl, plaquetas 335.000/μl.
+Coagulación: INR 1,8, TTPA 28,3 seg.
+Bioquímica: creatinina 1,32 mg/dl, urea 87 mg/dl, sodio 127 mEq/l, potasio 3,7 mEq/l, bilirrubina 1 mg/dl, aspartato-aminotransferasa 696 U/l, alaninaaminotransferasa 629 U/l, gamma-glutamil-transpeptidasa 162 U/l, amilasa 97 mg/dl, troponina T 39 ng/l, proteína C reactiva 13 mg/dl, procalcitonina 0,15 ng/ml.
+TSH normal.
+Electrocardiograma (ECG) al ingreso: taquicardia regular a 200 lpm sin visualización de ondas p, eje normal, QRS estrecho, rectificación del ST en cara inferolateral.
+ECG tras cardioversión: fibrilación auricular (FA) a 90 lpm con extrasistolia ventricular aislada, eje normal, QRS estrecho, rectificación del ST inferolateral, QT normal.
+ECG en UCI: taquicardia regular a 140 lpm, eje inferior, QRS ancho con morfología de bloqueo completo de rama derecha del haz de His (BCRDHH) y alteraciones secundarias de la repolarización.
+ECG tras implante de marcapasos (MP) transitorio: ritmo auricular a 80 lpm estimulado por marcapasos con ondas p negativas en cara inferior con PR corto (100 ms), eje normal, QRS 100 ms (ensanchado respecto a basal) con preexcitación evidente positiva en V2-V5.
+ECG al alta: RS a 60 lpm, eje normal, PR 120 ms, QRS estrecho sin preexcitación, QT 400 ms, sin signos de isquemia aguda ni alteración en la repolarización.
+Radiografía de tórax portátil al ingreso: índice cardiotorácico normal. Hilios congestivos con ligera redistribución vascular. Senos costofrénicos libres. Sin imágenes de condensación.
+TC de abdomen con contraste intravenoso al ingreso: derrame pleural bilateral.
+Hepatomegalia. Marcada reducción del calibre de las ramas principales de la aorta abdominal, sobre todo las ramas distales de la mesentérica superior, que podría justificar una hipoperfusión del territorio tributario de la misma.
+Ecocardioscopia al ingreso (realizada en TQ regular a 190 x ́): VI de tamaño normal con marcada hipocontractilidad global y disfunción sistólica severa. VD de tamaño y función normal. Insuficiencia mitral que impresiona de leve-moderada (difícil cuantificación en TQ a 190x ́), resto sin incidencias relevantes.
+Ecocardiografía transtorácica previa a alta: ventrículo izquierdo (VI) no dilatado con hipertrofia ligera concéntrica. Sin trastornos segmentarios de la contractilidad. Disfunción diastólica grado II. FEVI 65% por Simpson BP. Ventrículo derecho (VD) de tamaño y función normal. Válvula mitral anatómicamente normal con jet de insuficiencia central que alcanza techo de aurícula izquierda (AI) pero con predominio protosistólico, que catalogamos de grado leve-moderado. Resto de válvulas normales sin flujos patológicos.
+Vena cava inferior (VCI) no dilatada y con adecuado colapso inspiratorio.
+
+EVOLUCIÓN CLÍNICA
+La paciente ingresa en la UCI en situación de shock de origen incierto, en VM y con necesidades de noradrenalina para mantener cifras tensionales. Dada la clínica abdominal referida por la familia previa al ingreso, se decide completar estudios con TC de abdomen emergente donde se objetiva reducción del calibre de ramas principales de aorta abdominal con posible hipoperfusión del territorio tributario de la misma, por lo que se realiza laparotomía exploradora emergente, que no muestra hallazgos patológicos.
+De vuelta en UCI, se realiza ecocardioscopia con hallazgo de marcada hipocontractilidad global y disfunción sistólica grave. Dada la situación de shock con aminas vasopresoras y la persistencia de la taquicardia rítmica con QRS estrecho a 200 lpm, se decide realización de cardioversión eléctrica (CVE) a 200J ante sospecha de taquicardia supraventricular persistente, siendo esta efectiva pero presentando inmediatamente la paciente FA con frecuencia ventricular controlada. Se etiqueta el cuadro como de shock cardiogénico y se añade perfusión de dobutamina iv, pero la paciente presenta evolución tórpida con importante inestabilidad hemodinámica a pesar de noradrenalina y dobutamina, evolucionando a fallo multiorgánico (insuficiencia hepático y renal oligoanúrica que precisa iniciar hemofiltración).
+Desde el punto de vista arrítmico, la paciente presenta recidiva posterior en varias ocasiones de la taquicardia de QRS estrecho a 200 lpm, además de rachas frecuentes de taquicardia rítmica de QRS ancho a 140 lpm con morfología de BCRDHH y eje inferior con ligera irregularización ocasional. Se enfoca inicialmente como taquicardia ventricular, por lo que se inicia perfusión de amiodarona que se suspende a las 24 horas por alargamiento del QTc hasta 610 ms. Ante persistencia de dicha taquicardia de QRS ancho que no cede con procainamida, esmolol y múltiples CVE, se realiza implante de marcapasos transitorio para realizar sobreestimulación. De forma incidental, se coloca cable de marcapasos en seno coronario, evidenciándose en el ECG posimplante captura auricular con PR corto y onda delta sugestivos de preexcitación ventricular.
+Durante este periodo, la paciente permanece en situación de shock cardiogénico, con persistencia de fallo multiorgánico y necesidad de aminas vasoactivas. En ecocardioscopias de control se objetiva ligera mejoría de la función ventricular, pero ante la persistencia de los eventos arrítmicos a pesar de tratamiento médico y estimulación, y con la sospecha de posible vía accesoria, se decide realizar estudio electrofisiológico (EEF).
+En el EEF se induce la taquicardia de QRS ancho clínica, constatándose flutter auricular con conducción AV 2:1 y QRS ancho con morfología de BCRDHH y HV corto compatible con flutter 2:1 preexcitado. Se inducen además rachas de taquicardia ortodrómica (regular de QRS estrecho) igual a la clínica con secuencia de activación auricular excéntrica en seno coronario con auriculograma más precoz en S2-S3, que degeneran de forma frecuente en FA preexcitada (irregular de QRS ancho irregular). Se realiza ablación efectiva sobre vía accesoria posterolateral izquierda con desaparición de la preexcitación a los 2 segundos de aplicación, comprobándose ausencia de conducción retrógrada por la vía.
+Tras el procedimiento, la paciente vuelve a UCI, donde se mantiene alternando fibrilación auricular y flutter auricular (QRS estrecho), sin preexcitación y con respuesta ventricular controlada con digoxina. Durante los días posteriores presenta buena evolución tanto hemodinámica como clínica, permitiendo la extubación, retirada de perfusiones y traslado a planta de cardiología tras estabilización, donde persiste en todo momento con FC controlada y alternando en monitorización FA y flutter sin presentar nuevas rachas de taquicardia. Tras 15 días de ingreso hospitalario se decide alta, con realización previa de nueva ecocardiografía, en la que destaca función sistólica biventricular preservada sin alteraciones segmentarias de la contractilidad, insuficiencia mitral leve-moderada funcional y disfunción diastólica.
+
+DIAGNÓSTICO
+Síndrome de Wolff-Parkinson-White por vía posterolateral izquierda con taquicardia ortodrómica, fibrilación auricular y flutter preexcitados.
+Taquimiocardiopatía secundaria a lo previo con disfunción sistólica grave recuperada tras ablación de vía accesoria.
+Shock cardiogénico con fallo multiorgánico secundario a los diagnósticos previos.

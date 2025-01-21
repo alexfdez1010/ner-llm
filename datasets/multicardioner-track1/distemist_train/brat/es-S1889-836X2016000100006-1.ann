@@ -1,0 +1,21 @@
+T5	ENFERMEDAD 189 198	fracturas
+T6	ENFERMEDAD 754 766	osteoporosis
+T7	ENFERMEDAD 43 45	OI
+T10	ENFERMEDAD 1643 1645	OI
+T13	ENFERMEDAD 1037 1062	dentinogénesis imperfecta
+T16	ENFERMEDAD 1078 1100	deformidades torácicas
+T20	ENFERMEDAD 1779 1811	cambios degenerativos en columna
+T21	ENFERMEDAD 385 411	fracturas en codo y hombro
+T27	ENFERMEDAD 1560 1572	osteoporosis
+T29	ENFERMEDAD 1982 1996	litiasis renal
+T30	ENFERMEDAD 572 581	esguinces
+T31	ENFERMEDAD 591 609	roturas musculares
+T32	ENFERMEDAD 628 641	otoesclerosis
+T43	ENFERMEDAD 1707 1724	impresión basilar
+T44	ENFERMEDAD 272 315	traumatismos mínimos, la primera del húmero
+T1	ENFERMEDAD 1006 1021	escleras azules
+T2	ENFERMEDAD 1198 1210	hiperlaxitud
+T3	ENFERMEDAD 1849 1882	dilatación de la aorta ascendente
+T4	ENFERMEDAD 2157 2225	gen COL1A1 una deleción en heterocigosis de una Guanina (c.3524delG)
+#1	AnnotatorNotes T7	  OI: osteogénesis imperfecta
+#2	AnnotatorNotes T10	  OI: osteogénesis imperfecta

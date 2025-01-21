@@ -1,0 +1,43 @@
+T39	ENFERMEDAD 86 107	cardiopatía isquémica
+T40	ENFERMEDAD 110 115	ictus
+T41	ENFERMEDAD 132 160	hipercolesterolemia familiar
+T42	ENFERMEDAD 198 239	hipercolesterolemia familiar heterocigota
+T43	ENFERMEDAD 622 658	infección respiratoria de vías altas
+T44	ENFERMEDAD 729 751	infección odontogénica
+T45	ENFERMEDAD 2611 2624	valvulopatías
+T46	ENFERMEDAD 2655 2674	derrame pericárdico
+T47	ENFERMEDAD 3331 3444	segmento medio, y hasta la salida de la segunda diagonal, se objetiva lesión suboclusiva con contenido trombótico
+T48	ENFERMEDAD 3488 3509	enfermedad trombótica
+T49	ENFERMEDAD 3512 3562	disección espiroidea con trombosis de la falsa luz
+T50	ENFERMEDAD 4357 4415	: lesión ligera en tercio proximal de la coronaria derecha
+T51	ENFERMEDAD 4515 4578	Arteria descendente anterior (DA) con oclusión trombótica aguda
+T52	ENFERMEDAD 5404 5425	miopericarditis aguda
+T53	ENFERMEDAD 5565 5593	hipercolesterolemia familiar
+T54	ENFERMEDAD 5666 5687	cardiopatía isquémica
+T55	ENFERMEDAD 6141 6163	disfunción ventricular
+T56	ENFERMEDAD 6323 6338	miopericarditis
+T57	ENFERMEDAD 6541 6562	cardiopatía isquémica
+T58	ENFERMEDAD 6641 6703	lesión suboclusiva de posible origen trombótico en la DA media
+T59	ENFERMEDAD 6915 6943	oclusión trombótica en la DA
+T60	ENFERMEDAD 7238 7273	infarto agudo de miocardio anterior
+T61	ENFERMEDAD 7301 7324	pericarditis posinfarto
+T62	ENFERMEDAD 7329 7348	derrame pericárdico
+T63	ENFERMEDAD 7691 7715	síndrome coronario agudo
+T64	ENFERMEDAD 8270 8305	Infarto agudo de miocardio anterior
+T65	ENFERMEDAD 8323 8383	oclusión trombótica de la arteria descendente anterior media
+T66	ENFERMEDAD 8429 8480	Disfunción sistólica leve de VI de origen isquémico
+T67	ENFERMEDAD 8482 8511	Pericarditis aguda posinfarto
+T68	ENFERMEDAD 8516 8535	derrame pericárdico
+T69	ENFERMEDAD 8546 8587	Hipercolesterolemia familiar heterocigota
+T70	ENFERMEDAD 317 325	Fumadora
+T71	ENFERMEDAD 8614 8631	Tabaquismo activo
+T72	ENFERMEDAD 27 50	alergias medicamentosas
+T73	ENFERMEDAD 5349 5364	daño miocárdico
+T74	ENFERMEDAD 5889 5907	eventos arrítmicos
+T76	ENFERMEDAD 809 816	síncope
+T77	ENFERMEDAD 5620 5637	tabaquismo activo
+T78	ENFERMEDAD 5126 5187	disfunción sistólica leve de VI con alteraciones segmentarias
+T79	ENFERMEDAD 6745 6764	disección coronaria
+T2	ENFERMEDAD 2316 2394	ventrículo izquierdo no dilatado ni hipertrófico con disfunción sistólica leve
+T155	ENFERMEDAD 7914 7919	fumar
+T158	ENFERMEDAD 7516 7532	hábito tabáquico

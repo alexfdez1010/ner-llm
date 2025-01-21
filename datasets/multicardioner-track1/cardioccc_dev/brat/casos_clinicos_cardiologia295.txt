@@ -1,0 +1,48 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Sin alergias a medicamentos conocidas.
+Hipertensión arterial de larga evolución, aunque en los últimos años ha habido que ir disminuyendo su medicación y actualmente está controlada únicamente con medidas dietéticas.
+Diabetes mellitus tipo 2.
+Fibrilación auricular paroxística.
+Enfermedad renal crónica leve con un filtrado glomerular basal en torno a 48 ml/min.
+Hepatitis C.
+En seguimiento por digestivo por hernia de hiato y antecedentes de úlcera duodenal.
+Estenosis de canal lumbar.
+Antecedentes quirúrgicos: prótesis de rodilla derecha y cirugía de túnel del carpo bilateral.
+Tratamiento habitual: acenocumarol para INR 2-3, metformina 875 mg cada 12 horas, paracetamol 1 g cada 8 horas, omeprazol 20 mg al día y lorazepam 1 mg antes de acostarse.
+
+ENFERMEDAD ACTUAL
+Se trata de una mujer de 85 años que refiere sintomatología de insuficiencia cardiaca biventricular, refiriendo tanto disnea y ortopnea como edemas de intensidad progresiva en el último mes. Además refiere tos con expectoración verdosa y picos de fiebre en los últimos 3 días, por lo que su médico de atención primaria ha pautado amoxicilina-clavulánico durante 7 días. Por otra parte, la paciente refiere sensación de distensión abdominal y de ardor tras las comidas (más intensos en las últimas semanas), dolor a nivel facial sobre todo a la hora de comer y dolores en ambas rodillas de perfil mecánico.
+
+EXPLORACIÓN FÍSICA
+Constantes vitales: tensión arterial 116/69 mmHg, saturación de oxígeno 95% con gafas nasales a 2 l/min, temperatura 36,8  ̊C.
+Peso habitual 48 kg, talla 1,50 m, superficie corporal 1,41 m2. Peso al ingreso 60 kg.
+Cuello: aumento de la presión venosa yugular con reflujo hepatoyugular.
+Auscultación cardiaca: rítmica y con soplo sistólico III/VI en foco aórtico que no borra el segundo tono.
+Auscultación pulmonar: crepitantes hasta campos medios y abolición del murmullo vesicular en ambas bases.
+Abdomen: aumento del perímetro abdominal sin datos de irritación peritoneal.
+Extremidades inferiores: edemas en ambos miembros inferiores hasta las ingles.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica: creatinina 1,2 mg/dl (FGR estimado 32 ml/min), potasio 4,5 mEq/l, sodio 132 mEq/l, BNP 1.890 pg/ml, leucocitos 12.220/μl, hemoglobina 12,3 g/dl, plaquetas 210.000/ μl, INR 2,8.
+Electrocardiograma (ECG): ritmo sinusal. QRS de 120 ms con eje normal.
+Voltajes bajos en derivaciones de los miembros. Onda T negativa milimétrica en V5-V6.
+Ecocardiografía:
+Cavidades: ventrículo izquierdo no dilatado de cavidad pequeña con hipertrofia concéntrica grave. Hipertrofia leve-moderada del ventrículo derecho.
+Válvulas:
+Insuficiencia mitral y tricuspídea leves. Hipertensión pulmonar moderada (40-45 mmHg de presión pulmonar sistólica estimada).
+Estenosis aórtica moderada-grave. El área valvular por ecuación de continuidad es de 0,97 cm2, con un gradiente medio de 30 mmHg y pico de 47 mmHg.
+Función diastólica: llenado mitral restrictivo. Claro aumento de presiones de llenado.
+Otros: derrame pleural bilateral y derrame pericárdico leve, que predomina a nivel retroauricular derecho.
+Se completó el estudio con un análisis de deformación longitudinal.
+Gammagrafía con 99mTc-DPD: captación moderada del radiomarcador a nivel cardiaco, difusa y biventricular.
+Resonancia magnética cardiaca: se adjuntan imágenes correspondientes a secuencias de realce tardío y un mapping de volumen extracelular.
+
+EVOLUCIÓN CLÍNICA
+Tras tratamiento intravenoso con diuréticos, se logró una reducción de peso de 10 kg con franca mejoría de la clínica y de los edemas de la paciente. Episodio autolimitado de fibrilación auricular paroxística a 100-110 lpm durante el ingreso. De nuevo en ritmo sinusal y con buena respuesta a diuréticos orales, es dada de alta con furosemida vía oral (80 mg al día) además de su tratamiento habitual, para continuar estudio y tratamiento ambulatorio. Sin embargo, a los 3 días la paciente vuelve a acudir al servicio de urgencias por presentar un síncope con traumatismo craneoencefálico leve al levantarse de la cama. No recuerda pródromos, pero refiere mayor astenia en los últimos días. Tras monitorización ECG durante 24 horas y reducción del tratamiento con furosemida a 40 mg al día, la paciente fue dada de alta con mejoría de la clínica. Actualmente realiza seguimiento clínico, con persistencia de sus dolencias articulares y molestias abdominales, aunque con gran mejoría de la semiología de insuficiencia cardiaca.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca con función sistólica preservada. Infección respiratoria como probable desencadenante de la agudización.
+Amiloidosis por transtiretina con afectación cardiaca.
+Estenosis aórtica moderada-grave.

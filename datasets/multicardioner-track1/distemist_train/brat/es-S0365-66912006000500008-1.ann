@@ -1,0 +1,12 @@
+T2	ENFERMEDAD 338 347	exotropía
+T7	ENFERMEDAD 757 759	DG
+T8	ENFERMEDAD 943 945	DG
+T9	ENFERMEDAD 1014 1017	AOC
+T10	ENFERMEDAD 1067 1069	DG
+T11	ENFERMEDAD 365 384	nistagmo horizontal
+T1	ENFERMEDAD 751 754	AOC
+#3	AnnotatorNotes T7	   DG: distrofia granular
+#2	AnnotatorNotes T8	   DG: distrofia granular
+#5	AnnotatorNotes T9	   AOC: albinismo oculocutáneo
+#1	AnnotatorNotes T10	   DG: distrofia granular
+#4	AnnotatorNotes T1	   AOC: albinismo oculocutáneo

@@ -1,0 +1,64 @@
+T9	ENFERMEDAD 1815 1830	edema de lengua
+T12	ENFERMEDAD 2085 2100	edema de lengua
+T63	ENFERMEDAD 155 171	anafilaxia grave
+T64	ENFERMEDAD 369 392	alergias medicamentosas
+T65	ENFERMEDAD 439 448	exfumador
+T66	ENFERMEDAD 450 471	hipertensión arterial
+T67	ENFERMEDAD 473 476	HTA
+T68	ENFERMEDAD 479 503	diabetes mellitus tipo 2
+T69	ENFERMEDAD 505 508	DM2
+T70	ENFERMEDAD 511 523	hipeuricemia
+T71	ENFERMEDAD 528 539	cardiopatía
+T72	ENFERMEDAD 543 554	broncopatía
+T73	ENFERMEDAD 566 627	Síndrome de isquemia crónica de ambas extremidades inferiores
+T74	ENFERMEDAD 911 926	catarata de ojo
+T75	ENFERMEDAD 1593 1598	angor
+T76	ENFERMEDAD 2640 2717	síndrome coronario agudo con elevación del segmento ST (SCACEST) anteroseptal
+T77	ENFERMEDAD 2696 2703	SCACEST
+T78	ENFERMEDAD 2749 2756	infarto
+T79	ENFERMEDAD 3060 3080	hipotensión arterial
+T80	ENFERMEDAD 4260 4297	bloqueo de rama derecha de has de His
+T81	ENFERMEDAD 4299 4304	BRDHH
+T83	ENFERMEDAD 5810 5854	DA, con resto del vaso con ateromatosis leve
+T84	ENFERMEDAD 5873 5927	1a y 2a diagonales presentan estenosis moderada ostial
+T85	ENFERMEDAD 5929 6001	Circunfleja (Cx): lesión moderada proximal y ateromatosis larga moderada
+T86	ENFERMEDAD 6045 6128	Ateromatosis leve proximal-media y lesión corta grave a nivel de la cruz-ostium IVP
+T87	ENFERMEDAD 6160 6185	lesión grave de DA ostial
+T88	ENFERMEDAD 6892 6921	insuficiencia mitral moderada
+T89	ENFERMEDAD 7026 7056	insuficiencia mitral (IT) leve
+T90	ENFERMEDAD 7180 7201	hipertensión pulmonar
+T91	ENFERMEDAD 7208 7227	derrame pericárdico
+T92	ENFERMEDAD 7847 7880	enfermedad coronaria grave bivaso
+T93	ENFERMEDAD 8329 8339	anafilaxia
+T94	ENFERMEDAD 8341 8356	edema de lengua
+T95	ENFERMEDAD 9529 9545	hipotensión leve
+T96	ENFERMEDAD 9798 9825	insuficiencia cardiaca leve
+T97	ENFERMEDAD 10067 10076	infección
+T98	ENFERMEDAD 10410 10419	infección
+T99	ENFERMEDAD 10983 10990	SCACEST
+T100	ENFERMEDAD 11002 11028	síndrome de Kounis tipo II
+T101	ENFERMEDAD 11031 11060	Anafilaxia grave por Anisakis
+T102	ENFERMEDAD 11105 11153	Enfermedad coronaria grave de dos vasos: DA y CD
+T103	ENFERMEDAD 11155 11211	Lesión trombótica aguda en DA ostial con estenosis grave
+T104	ENFERMEDAD 11447 11456	exfumador
+T105	ENFERMEDAD 11458 11461	HTA
+T106	ENFERMEDAD 11463 11466	DM2
+T107	ENFERMEDAD 11468 11504	Síndrome de isquemia crónica de EEII
+T108	ENFERMEDAD 7048 7050	IT
+T109	ENFERMEDAD 6743 6768	Válvula aórtica esclerosa
+T110	ENFERMEDAD 9309 9325	hipotensión leve
+T111	ENFERMEDAD 2487 2507	hipotensión arterial
+T112	ENFERMEDAD 6824 6848	Válvula mitral esclerosa
+T113	ENFERMEDAD 7642 7735	IVP, distal al stent, es difusamente ateromatosa con lesiones graves de pequeño vaso distales
+T114	ENFERMEDAD 8636 8651	edema de lengua
+T115	ENFERMEDAD 8614 8629	prurito genital
+T116	ENFERMEDAD 9480 9505	disfunción moderada de VI
+T211	ENFERMEDAD 331 350	bajo gasto cardiaco
+T34	ENFERMEDAD 5784 5812	lesión subtotal ostial en DA
+T233	ENFERMEDAD 7312 7317	BRIHH
+T200	ENFERMEDAD 7320 7325	HAIHH
+T202	ENFERMEDAD 10266 10313	herida quirúrgica reciente de amputación de EID
+T207	ENFERMEDAD 5696 5738	tronco común corto con ateromatosis distal
+T212	ENFERMEDAD 7885 7921	lesión trombótica aguda de DA ostial
+#1	AnnotatorNotes T108	 IT insuficiencia tricuspídea
+#2	AnnotatorNotes T113	IVP: arteria interventricular posterior

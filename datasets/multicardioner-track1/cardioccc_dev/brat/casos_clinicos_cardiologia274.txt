@@ -1,0 +1,45 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Varón de 63 años, intervenido en 1986 de aneurisma de aorta torácica ascendente e insuficiencia aórtica grave secundaria a válvula aórtica bicúspide. Se realizó cirugía de Bentall-
+Bono con implante de prótesis mecánica. Como complicación presentó infarto anteroseptal extenso tras la salida de circulación extracorpórea lo que le condicionó una disfunción sistólica grave con fracción de eyección del ventrículo izquierdo (FEVI) del 30%.
+El paciente ha permanecido asintomático desde entonces.
+Tratamiento: lisinopril 5 mg/24 horas, acenocumarol, atorvastatina 20 mg/24 horas, bisoprolol 2,5 mg/24 horas, espironolactona 25 mg/24 horas.
+
+Enfermedad actual
+El paciente acude a consulta porque desde hace 6 meses presenta disnea de moderados esfuerzos no presente previamente. No refiere dolor torácico ni aumento de edemas en miembros inferiores ni ninguna otra sintomatología compatible con insuficiencia cardiaca.
+También refiere aparición de bultoma en tercio superior del esternón, sin apertura cutánea, sin fiebre ni enrojecimiento de la zona.
+
+Exploración física
+Auscultación cardiaca: rítmico, ruidos protésicos aórticos. Soplo sistólico II/VI en foco mitral.
+Auscultación pulmonar: murmullo vesicular conservado. Sin crepitantes.
+Bultoma a nivel de tercio superior de esternotomía próximo a escotadura esternal, en borde derecho de esternón. Sin enrojecimiento ni aumento de temperatura. Sin claros signos de infección. Contenido líquido al tacto. Llama la atención la presencia de thrill a la auscultación y al tacto. No doloroso.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): ritmo sinusal. Bloqueo de rama izquierda con alteraciones secundarias en la repolarización.
+Ecocardiograma: ventrículo izquierdo (VI) dilatado con FEVI gravemente deprimida. Acinesia extensa de cara anterior, anteroseptal y septal. Insuficiencia mitral (IM) funcional moderada.
+Prótesis aórtica sin datos de disfunción. Ventrículo derecho (VD) de tamaño y función normales.
+Sin insuficiencia tricuspídea (IT) que permita estimar la presión sistólica pulmonar.
+Ecocardiograma transesofágico enfocado a valorar la insuficiencia mitral: insuficiencia mitral (IM) funcional moderada (orificio regurgitante efectivo (ORE) 2D 0,12 cm2, área de vena contracta 3D 0,15 cm2). Anatomía apta para implante de clip mitral. Tubo valvulado aórtico sin datos de disfunción.
+Dados los hallazgos de la exploración física en relación al bultoma, se decide solicitar TC de aorta para descartar complicación vascular a este nivel.
+En el TC se observa: lesión cutánea en región mediastínica anterior, en contacto con aorta torácica ascendente intervenida a través de un defecto óseo en manubrio esternal. No obstante no presenta contraste en su interior por lo que no debería tener flujo en fase arterial. Se aprecian disecciones crónicas en la aorta ascendente intervenida, una de ellas con conexión con la lesión cutánea.
+
+EVOLUCIÓN CLÍNICA
+Dada la presencia de pseudoaneurisma contenido del tubo valvulado se decidió la realización de cirugía de reparación. Previamente a la cirugía se realizó ecocardiograma transeofágico para confirmar la gravedad de la IM, también se realizó cateterismo de arterias coronarias que descartó la presencia de lesiones y se confirmó mediante aortografía la presencia de doble luz en el tubo valvulado. De forma conjunta se decidió que como el paciente se iba a someter a cirugía cardiaca, se beneficiaría de la realización de valvuloplastia mitral con anillo.
+Se realiza cirugía con parada en hipotermia a 18o dado el alto riesgo de ruptura del pseudoaneurisma al realizar la esternotomía. Se confirma el pseudoaneurisma con puerta de entrada en la anastomosis del tubo valvulado con la raíz aórtica. Se retira por completo y se sustituye por tubo valvulado biológico. También se realiza anuloplastia con anillo. Posoperatorio sin incidencias.
+Un año más tarde en ecocardiograma de control muestra: prótesis aórtica sin datos de disfunción, anuloplastia mitral con IM significativa difícil de cuantificar, VI dilatado con FEVI gravemente deprimida (30%) y acinesia de caras anterior, anteroseptal y septal.
+A continuación se solicita ecocardiografía transesofágica para cuantificar la IM, en la que se observa: anuloplastia mitral con IM funcional grave (ORE 2D 0,34 cm2). Dehiscencia del anillo mitral entre las 7 y las 9 en posición quirúrgica, dejando una comunicación entre la parte superior e inferior del anillo de 1,68 cm2. Prótesis aórtica biológica y tubo aórtico sin datos de disfunción. Resto del estudio superponible a previos.
+Dado que por el momento el paciente se encuentra asintomático se decide mantener una actitud expectante respecto a la insuficiencia mitral.
+En marzo de 2020, el paciente es diagnosticado de una neumonía bilateral por coronavirus SARS-CoV-2. Durante su ingreso el paciente presentó síndrome de distrés respiratorio ingresando en unidad de cuidados intensivos (UCI), requiriendo ventilación mecánica invasiva. Tras 12 días de ingreso en UCI el paciente evolucionó correctamente y fue extubado pasando a planta donde evoluciona favorablemente a día de hoy.
+
+DIAGNÓSTICO
+Válvula aórtica bicúspide.
+Aneurisma de aorta ascendente intervenido.
+Cirugía de Bentall-Bono con implante de prótesis aórtica mecánica.
+Infarto de miocardio tipo V en relación a la cirugía.
+Insuficiencia cardiaca con FEVI gravemente deprimida.
+Pseudoaneurisma de tubo aórtico valvulado.
+Insuficiencia mitral funcional grave.
+Nueva cirugía de Bentall-Bono con implante de prótesis aórtica biológica.
+Dehiscencia de anillo de valvuloplastia mitral con IM residual grave.
+Neumonía bilateral grave por SARS-CoV-2.

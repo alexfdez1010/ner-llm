@@ -1,0 +1,51 @@
+T30	ENFERMEDAD 102 135	hipertrofia ventricular izquierda
+T31	ENFERMEDAD 244 253	arritmias
+T32	ENFERMEDAD 456 467	cardiopatía
+T33	ENFERMEDAD 471 491	muerte súbita precoz
+T34	ENFERMEDAD 570 603	Alergia al ácido acetilsalicílico
+T35	ENFERMEDAD 605 614	Exfumador
+T36	ENFERMEDAD 658 665	bebedor
+T37	ENFERMEDAD 667 688	Hipertensión arterial
+T38	ENFERMEDAD 690 693	HTA
+T39	ENFERMEDAD 740 757	diabetes mellitus
+T40	ENFERMEDAD 759 761	DM
+T41	ENFERMEDAD 766 776	dislipemia
+T42	ENFERMEDAD 778 781	DLP
+T43	ENFERMEDAD 888 909	cardiopatía isquémica
+T44	ENFERMEDAD 921 940	crisis hipertensiva
+T45	ENFERMEDAD 1092 1127	hipertrofia ventricular concéntrica
+T46	ENFERMEDAD 1243 1262	isquemia miocárdica
+T47	ENFERMEDAD 1265 1288	arritmias ventriculares
+T48	ENFERMEDAD 1695 1739	flcuotnter auricular antihorario paroxístico
+T49	ENFERMEDAD 2004 2013	arritmias
+T50	ENFERMEDAD 2439 2448	arritmias
+T51	ENFERMEDAD 2708 2741	hipertrofia ventricular izquierda
+T52	ENFERMEDAD 3354 3371	corazón de atleta
+T53	ENFERMEDAD 3404 3431	miocardiopatía hipertrófica
+T54	ENFERMEDAD 3875 3900	trombosis venosa profunda
+T55	ENFERMEDAD 3902 3905	TVP
+T56	ENFERMEDAD 4413 4432	bradicardia sinusal
+T57	ENFERMEDAD 4493 4526	hipertrofia ventricular izquierda
+T58	ENFERMEDAD 5079 5113	miocardiopatía hipertrófica apical
+T59	ENFERMEDAD 5173 5202	Mitral con insuficiencia leve
+T60	ENFERMEDAD 5213 5279	Insuficiencia aórtica ligera por dilatación ligera de raíz aórtica
+T61	ENFERMEDAD 6990 7039	variante apical de la miocardiopatía hipertrófica
+T62	ENFERMEDAD 7041 7044	MCH
+T63	ENFERMEDAD 7251 7260	arritmias
+T64	ENFERMEDAD 7306 7355	Miocardiopatía hipertrófica apical no obstructiva
+T65	ENFERMEDAD 7409 7450	Flutter auricular antihorario paroxístico
+T66	ENFERMEDAD 5149 5171	Dilatación biauricular
+T67	ENFERMEDAD 6126 6134	fibrosis
+T68	ENFERMEDAD 6682 6690	fibrosis
+T69	ENFERMEDAD 2614 2622	síncopes
+T70	ENFERMEDAD 187 204	corazón de atleta
+T71	ENFERMEDAD 276 292	flutterauricular
+T72	ENFERMEDAD 1605 1622	corazón de atleta
+T73	ENFERMEDAD 4740 4805	ventrículo izquierdo no dilatado con hipertrofia concéntrica leve
+T74	ENFERMEDAD 5461 5535	ventrículo izquierdo no dilatado con hipertrofia únicamente a nivel apical
+T75	ENFERMEDAD 6265 6339	ventrículo izquierdo no dilatado con hipertrofia únicamente a nivel apical
+T150	ENFERMEDAD 2875 2912	hipertrofia concéntrica leve-moderada
+T153	ENFERMEDAD 6138 6146	necrosis
+T154	ENFERMEDAD 6694 6702	necrosis
+T19	ENFERMEDAD 2120 2143	hipertrofia concéntrica
+T130	ENFERMEDAD 7361 7369	fibrosis

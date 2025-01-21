@@ -1,0 +1,42 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Factores de riesgo cardiovascular: hipertensión arterial (HTA), fumadora. No diabetes mellitus (DM), no dislipemia (DL).
+
+Historia cardiológica:
+2006: parada cardiorrespiratoria (PCR) extrahospitalaria recuperada. Primer ritmo objetivado: fibrilación ventricular. En el electrocardiograma (ECG) de salida se objetiva elevación del ST en derivaciones precordiales. Cateterismo: lesión no significativa en DAm. Test de acetilcolina positivo. Ecocardiograma transtorácico: FEVI normal, disquinesia septo apical. Es dada de alta bajo el diagnóstico de vasoespasmo coronario y se inicia tratamiento con nitratos y calcio antagonistas.
+Posterior seguimiento en consultas externas de cardiología, manteniéndose estable. No es posible aumentar la dosis de diltiazem a dosis máximas por mala tolerancia.
+2009: ingreso por síndrome coronario agudo sin elevación del segmento ST (SCASEST). A su llegada refiere dolor torácico, en el ECG se objetiva con descenso del ST en V1-V2 y I,aVL; presenta Tn I pico de 0,14. Cateterismo: coronarias sin lesiones. Ecocardiograma transtorácico: FEVI normal. No alteraciones segmentarias.
+Situación basal: independiente para las actividades básicas de la vida diaria. Clase funcional I de la New York Heart Association (NYHA).
+Tratamiento habitual: ácido acetilsalicílico (AAS) 100 mg/d, atorvastatina 20 mg/d, mononitrato de isosorbida 60 mg/d, diltiazem retard 120 mg/12 h, valsartán 320 mg/12 h.
+Pregabalina, tramadol, naproxeno.
+
+ENFERMEDAD ACTUAL
+Mujer de 50 años traída a urgencias por el SUMMA tras PCR extrahospitalaria recuperada. Su hija refiere que esta mañana al despertar aquejaba malestar general y molestias torácicas. A las 8 de la mañana presenta PCR presenciada iniciándose maniobras de RCP básica de inmediato. La policía acude tras escasos minutos y continúa con la RCP básica. A la llegada del SUMMA se objetiva fibrilación ventricular recuperándose ritmo sinusal tras un choque de 200 J. En total las maniobras de RCP básica y avanzada duran 15-20 minutos. Los servicios de emergencias proceden a intubación orotraqueal, sedación y traslado a nuestro centro.
+
+EXPLORACIÓN FÍSICA
+Intubada, sedada bajo perfusión de midazolam.
+Tensión arterial (TA) 113/83 mmHg sin inotrópicos. Frecuencia cardiaca (FC) 74 lpm. Sat 100% con VMI con FiO2 100%, VT 500, FR 17.
+Bien hidratada, nutrida y perfundida. Normocoloreada. No ingurgitación yugular.
+Auscultación cardiaca: rítmica, sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado sin sobreañadidos.
+Sin edemas en miembros inferiores. Pulsos presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+ECG realizado por los servicios de emergencias durante el traslado a nuestro centro: fibrilación auricular a 130 lpm con eje normal (+60) QRS estrecho (100 ms), alteraciones difusas de la repolarización. QTc normal (430 ms).
+Radiografía de tórax a la llegada: placa limitada técnicamente, rotada e inclinada (no se observa el seno costofrénico derecho). Elongación aórtica. Mediastino difícilmente valorable debido a las limitaciones de la radiografía. Índice cardiotorácico dentro de la normalidad. alteraciones inespecíficas del parénquima pulmonar. No se observa derrame pleural izquierdo.
+Analítica y gasometría a la llegada: Hb 13,1 g/dl. Leucocitos 23,1 x 103/ul. Plaquetas 265 000/ul. INR 1. Creatinina 0,97 mg/dl. Na 143 mmol/l. K 3,7 mmol/l. Tn I 3,55 ng/ml. PCR < 2,9 mg/l. pH 7,32, pCO2 49 mm Hg, pO2 87 mm Hg, HCO3 25 mmol/l, lactato 1,8 mmol/l.
+Ecocardiograma transtorácico en el box de reanimación: ventrículo izquierdo no dilatado, no hipertrófico, con función sistólica global normal. Aquinesia apical. Ventrículo derecho de tamaño y función normales. Aurículas de tamaño normal. No se observan valvulopatías significativas. No se observa derrame pericárdico.
+Cateterismo: arterias coronarias epicárdicas sin lesiones significativas.
+Ventriculografía y aortografía normales.
+
+EVOLUCIÓN CLÍNICA
+A las 10:00 horas la paciente ingresa en la unidad coronaria, tras realización de cateterismo en el que se observan arterias coronarias sin lesiones significativas y ecocardiograma transtorácico que destaca función ventricular normal con aquinesia apical. Se monitoriza a la paciente y se inicia protocolo de hipotermia terapéutica. Además, se inicia tratamiento con verapamilo a través de sonda nasogástrica. Alcanza temperatura objetivo de 32 ̊C a las 16:00 horas. Permanece estable hasta las 6:58 horas del día siguiente cuando presenta nueva fibrilación ventricular.
+Se inician maniobras de RCP avanzada recibiendo la paciente múltiples desfibrilaciones sin éxito.
+El ritmo cardiaco pasa a ser asistolia/ritmo agónico sin recuperarse en ningún momento circulación espontánea. Las maniobras se prolongan más de 60 minutos sin éxito, recibiendo la paciente > 10 mg de adrenalina, dos bolos de 300 mg de amiodarona, 2 ampollas de lidocaína y 1 ampolla de magnesio.
+Se certifica fallecimiento a las 8:18 horas.
+Revisando la telemetría de la paciente, se objetiva descenso del ST (derivación aVF) en los minutos previos, con aparición de extrasístoles ventriculares cada vez más frecuentes que deriva progresivamente en elevación del ST en esta derivación y finalmente una extrasístole con fenómeno de R sobre T genera un episodio de fibrilación ventricular.
+
+DIAGNÓSTICO
+Parada cardiorrespiratoria extrahospitalaria con primer ritmo fibrilación ventricular en el contexto de MINOCA (infarto agudo de miocardio con coronarias sin lesiones obstructivas significativas), en posible relación a vasoespasmo coronario.
+Parada cardiorrespiratoria intrahospitalaria y muerte en paciente bajo hipotermia terapéutica con primer ritmo fibrilación ventricular.

@@ -1,0 +1,40 @@
+T37	ENFERMEDAD 83 90	síncope
+T38	ENFERMEDAD 95 122	bloqueo auriculoventricular
+T39	ENFERMEDAD 124 127	BAV
+T40	ENFERMEDAD 243 266	alergias medicamentosas
+T41	ENFERMEDAD 309 321	cardiopatías
+T43	ENFERMEDAD 351 366	hábitos tóxicos
+T44	ENFERMEDAD 447 484	Citopatía mitocondrial fenotipo MELAS
+T45	ENFERMEDAD 528 556	sordera neurosensorial grave
+T46	ENFERMEDAD 589 597	miopatía
+T47	ENFERMEDAD 655 677	crisis comicial tónica
+T48	ENFERMEDAD 724 736	Hiponatremia
+T49	ENFERMEDAD 748 771	Bloqueo de rama derecha
+T50	ENFERMEDAD 1075 1092	hipoacusia severa
+T51	ENFERMEDAD 1401 1404	BAV
+T52	ENFERMEDAD 1445 1470	bloqueo de rama izquierda
+T53	ENFERMEDAD 2254 2257	BAV
+T54	ENFERMEDAD 2755 2777	insuficiencia cardiaca
+T55	ENFERMEDAD 2781 2796	derrame pleural
+T56	ENFERMEDAD 3479 3492	valvulopatías
+T57	ENFERMEDAD 3509 3530	Hipertensión pulmonar
+T58	ENFERMEDAD 3633 3650	síndrome de MELAS
+T59	ENFERMEDAD 3667 3670	BAV
+T60	ENFERMEDAD 3827 3861	vía accesoria fasciculoventricular
+T61	ENFERMEDAD 3945 3973	hipertrofia ventricular leve
+T62	ENFERMEDAD 4179 4202	enfermedad mitocondrial
+T63	ENFERMEDAD 4488 4501	bradiarritmia
+T64	ENFERMEDAD 4814 4882	preexcitación ventricular por una vía accesoria fasciculoventricular
+T65	ENFERMEDAD 4947 4950	BAV
+T66	ENFERMEDAD 4953 4970	Síndrome de MELAS
+T67	ENFERMEDAD 5012 5027	lactic acidosis
+T68	ENFERMEDAD 4732 4742	Bloqueo AV
+T69	ENFERMEDAD 774 804	hemibloqueo anterior izquierdo
+T70	ENFERMEDAD 3357 3416	ventrículo izquierdo no dilatado, ligeramente hipertrofiado
+T71	ENFERMEDAD 4972 4994	mitochondrial myopathy
+T72	ENFERMEDAD 4996 5010	encephalopathy
+T73	ENFERMEDAD 5033 5039	stroke
+T125	ENFERMEDAD 325 338	muerte súbita
+T132	ENFERMEDAD 3765 3788	trastorno de conducción
+T15	ENFERMEDAD 2558 2571	preexcitación
+T30	ENFERMEDAD 3726 3739	preexcitación

@@ -1,0 +1,65 @@
+T80	ENFERMEDAD 68 93	Hipotiroidismo subclínico
+T81	ENFERMEDAD 96 112	migraña con aura
+T82	ENFERMEDAD 157 168	cardiopatía
+T83	ENFERMEDAD 223 241	linfoma de Hodgkin
+T84	ENFERMEDAD 748 755	síncope
+T85	ENFERMEDAD 1722 1747	trombosis venosa profunda
+T86	ENFERMEDAD 1749 1752	TVP
+T87	ENFERMEDAD 1846 1892	dilatación de raíz aórtica y aorta ascendentes
+T88	ENFERMEDAD 1895 1922	insuficiencia aórtica grave
+T89	ENFERMEDAD 1928 1963	dilatación del ventrículo izquierdo
+T90	ENFERMEDAD 1943 2006	ventrículo izquierdo (VI) y disfunción sistólica moderada-grave
+T91	ENFERMEDAD 2194 2219	bloqueo de rama izquierda
+T92	ENFERMEDAD 2247 2288	trastorno secundario de la repolarización
+T93	ENFERMEDAD 2396 2399	ICC
+T94	ENFERMEDAD 3374 3401	Insuficiencia aórtica grave
+T95	ENFERMEDAD 3824 3842	Ventrículo derecho
+T96	ENFERMEDAD 4858 4871	ectasia dural
+T97	ENFERMEDAD 4914 4959	dilatación de raíz aórtica y aorta ascendente
+T98	ENFERMEDAD 5088 5101	ectasia dural
+T99	ENFERMEDAD 5159 5211	Quistes aracnoideos (meningoceles) sacros anteriores
+T100	ENFERMEDAD 5750 5776	insuficiencia aórtica leve
+T101	ENFERMEDAD 6202 6262	Válvula tricúspide de aspecto normal, con insuficiencia leve
+T102	ENFERMEDAD 6420 6439	derrame pericárdico
+T103	ENFERMEDAD 7007 7033	Insuficiencia levemoderada
+T104	ENFERMEDAD 7076 7135	Válvula mitral velo anterior elongado, mínima insuficiencia
+T105	ENFERMEDAD 7400 7419	derrame pericárdico
+T106	ENFERMEDAD 7521 7543	insuficiencia cardiaca
+T107	ENFERMEDAD 7699 7748	dilatación aneurismática de los senos de Valsalva
+T108	ENFERMEDAD 7750 7777	insuficiencia aórtica grave
+T109	ENFERMEDAD 7779 7835	VI gravemente dilatado con disfunción sistólica moderada
+T110	ENFERMEDAD 7891 7936	dilatación de raíz aórtica y aorta ascendente
+T111	ENFERMEDAD 8125 8163	vasculitis de grandes vasos (Takayasu)
+T112	ENFERMEDAD 8154 8162	Takayasu
+T113	ENFERMEDAD 8280 8294	conectivopatía
+T114	ENFERMEDAD 8367 8385	síndrome de Marfan
+T115	ENFERMEDAD 8449 8485	ectasia dural a nivel lumbar y sacro
+T116	ENFERMEDAD 8529 8543	ectopia lentis
+T117	ENFERMEDAD 8557 8563	miopía
+T118	ENFERMEDAD 8762 8822	dilatación aneurismática de la raíz aorta y aorta ascendente
+T119	ENFERMEDAD 8977 9013	aneurisma de raíz y aorta ascendente
+T120	ENFERMEDAD 9521 9584	válvula aórtica con cambios posquirúrgicos e insuficiencia leve
+T122	ENFERMEDAD 9586 9611	insuficiencia mitral leve
+T123	ENFERMEDAD 9614 9638	derrame pericárdico leve
+T124	ENFERMEDAD 10029 10058	Aneurisma de aorta ascendente
+T125	ENFERMEDAD 10061 10088	insuficiencia aórtica grave
+T126	ENFERMEDAD 6830 6867	Aurícula izquierda levemente dilatada
+T127	ENFERMEDAD 10146 10180	Dilatación de ventrículo izquierdo
+T128	ENFERMEDAD 4736 4776	Ventrículo izquierdo gravemente dilatado
+T129	ENFERMEDAD 2371 2384	cardiomegalia
+T131	ENFERMEDAD 5596 5657	Ventrículo derecho no dilatado, con disfunción sistólica leve
+T132	ENFERMEDAD 9468 9508	disfunción sistólica y diastólica graves
+T133	ENFERMEDAD 10183 10215	disfunción sistólica secundarias
+T134	ENFERMEDAD 7137 7185	Válvula tricúspide buena apertura, insuficiencia
+T135	ENFERMEDAD 5340 5380	ventrículo izquierdo gravemente dilatado
+T136	ENFERMEDAD 2808 2830	VI gravemente dilatado
+T137	ENFERMEDAD 3992 4036	Dilatación a nivel de los senos coronarianos
+T138	ENFERMEDAD 4872 4900	quistes aracnoideos en sacro
+T139	ENFERMEDAD 5180 5192	meningoceles
+T140	ENFERMEDAD 6343 6370	Vena cava inferior dilatada
+T141	ENFERMEDAD 9444 9466	VI gravemente dilatado
+T25	ENFERMEDAD 3795 3822	Insuficiencia mitral ligera
+T202	ENFERMEDAD 9967 9970	SMF
+T26	ENFERMEDAD 2230 2244	crecimiento VI
+T63	ENFERMEDAD 6570 6581	VI dilatado
+T121	ENFERMEDAD 8827 8848	insuficiencia aórtica

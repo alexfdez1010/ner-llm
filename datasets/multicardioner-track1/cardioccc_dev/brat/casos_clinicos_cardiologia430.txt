@@ -1,0 +1,31 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Paciente varón de 58 años, fumador de un paquete de tabaco/día, sin otros antecedentes médicos de interés, que es remitido a consulta de cardiología por un ECG rutinario solicitado por su médico de atención primaria, que resulta ser patológico.
+En la anamnesis detallada, el paciente no relata ningún episodio de dolor torácico previo, aunque sí refiere disnea de moderados esfuerzos, sin progresión en las últimas semanas.
+Asimismo, refiere que unos días antes del ingreso presentó un episodio súbito de pérdida de fuerza en miembro superior derecho y parálisis facial, con recuperación completa posterior, acudiendo a su centro de salud desde donde fue dado de alta, aduciendo origen cervical de la clínica.
+A la exploración física no se encontraron hallazgos de interés.
+Se realizó un ecocardiograma en la consulta y, ante los hallazgos, se decidió ingreso en planta para completar el estudio diagnóstico con resonancia magnética cardiaca (RMC). Inicialmente dada la patología estructural cardiaca que presenta el enfermo y la clínica neurológica que presentó días previos al ingreso, se sospecha accidente isquémico transitorio (AIT), por lo que se realizó TAC cerebral, que resultó normal. Estando el paciente en planta se realizó RMC que confirmó el diagnóstico de pseudoaneurisma ventricular con abundante trombo.
+Se consideró candidato para cirugía por lo que se realizó angiografía coronaria, encontrándose lesión grave del tronco coronario izquierdo (TCI) medio-distal y de los 3 vasos.
+
+PRUEBAS COMPLEMENTARIAS
+ECOCARDIOGRAFÍA TRANSTORÁCICA: ventrículo izquierdo (VI) moderadamente dilatado, con disfunción sistólica global moderada (FEVI por Simpson biplanar 35%) adelgazamiento y acinesia inferolateral e inferior y gran aneurisma inferobasal e inferoseptal basal, de 44 mm de cuello y 40 mm de profundidad, con masa ovalada de 8 x 7 mm hiperecogénica en su interior sugestiva de trombo.
+RADIOGRAFÍA DE TÓRAX: en el que se objetiva ligera cardiomegalia.
+ECG: destaca ondas Q y ondas T negativas en derivaciones inferiores.
+ANALÍTICA completa:
+Hemograma: 14,1 g/dl. Leucocitos 13.500 10^3/μl. Plaquetas 207.000 10^3/μl.
+Bioquímica: glucosa 134 mg/dl. Creatinina 0,86 mg/dl. Na 139 mM/l. K 4,7 mM/l.
+Perfil lipídico: colesterol total 149 mg/dl. HDL 33,7 mg/dl. LDL 208U/l. Triglicéridos 82 mg/dl.
+Perfil hepático: bilirrubina 0,42 mg/dl. GOT 17,7 U/l. GPT 29,3 U/l. GGT 29,3 U/l. GGT 49,6 U/l. Fosfatasa alcalina 128 U/l.
+Hb glicada 6,1.
+RMN cardiaca: pseudoaneurisma ventricular, con imagen de trombo abundante en el fondo de saco, sin compromiso de la función valvular mitral, con remodelado ventricular y disfunción sistólica moderada.
+CORONARIOGRAFÍA: tronco coronario izquierdo: con lesión grave en tercio medio distal afectando el ostium de descendente anterior y circunfleja. Descendente anterior: con estenosis grave en tercio proximal, buen vaso distal. Circunfleja: estenosis significativa ostial, ocluida a nivel de bifurcación con primera obtusa marginal que tiene estenosis grave a nivel de bifurcación con subdivisión, ambos vasos de buen diámetro. Coronaria derecha: dominante, ocluida ostial, relleno por circulación colateral heterocoronaria, regular vaso distal.
+
+EVOLUCIÓN CLÍNICA
+El paciente permaneció durante su estancia en planta asintomático, deambulando, sin presentar eventos arrítmicos en la telemetría.
+Posteriormente, y a pesar de mantenerse al paciente con correctos niveles de anticoagulación, volvió a presentar déficit motor en territorio de arteria cerebral media (ACM) izquierda y arteria cerebral anterior derecha de causa cardioembólica y con recuperación sin déficit posterior, sin secuelas en TC de control realizado. El estudio Doppler transcraneal mostró estenosis significativa en ACM I.
+Finalmente es trasladado al hospital de referencia para intervención quirúrgica: mediante esternotomía media y con ayuda de circulación extracorpórea, se realizó resección de la zona aneurismática, se extrajo el trombo intraventricular y se reconstruyó la pared inferior con parche de Dacrón. Posteriormente se realizó bypass aortocoronario secuencial AMI-DA y AMI-OM. Pese a que se realizó protección miocárdica con cardioplegia anterógrada y retrógrada, resultó difícil la retirada de la circulación extracorpórea, precisando dosis altas de aminas vasoactivas (dobutamina + noradrenalina). Ingresó posteriormente en la unidad de medicina intensiva, donde mantuvo una evolución tórpida, produciéndose el fallecimiento del paciente tras 24 horas de su ingreso por shock cardiogénico refractario.
+
+DIAGNÓSTICO
+Infarto silente complicado con pseudoaneurisma ventricular inferior (con trombo mural en su interior).
+Enfermedad arterial coronaria de TCI y tres vasos.
+Disfunción ventricular izquierda moderada.
+Cirugía de resección de zona aneurismática + bypass AMI-DA y AMI-OM, con posoperatorio tórpido y fallecimiento.

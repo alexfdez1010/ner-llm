@@ -1,0 +1,47 @@
+T28	ENFERMEDAD 3247 3313	ventrículo izquierdo de diámetros normales, con ligera hipertrofia
+T40	ENFERMEDAD 81 122	reacciones alérgicas conocidas a fármacos
+T41	ENFERMEDAD 130 145	hábitos tóxicos
+T42	ENFERMEDAD 178 199	cardiopatía isquémica
+T43	ENFERMEDAD 250 271	hipertensión arterial
+T44	ENFERMEDAD 273 276	HTA
+T45	ENFERMEDAD 309 319	dislipemia
+T46	ENFERMEDAD 321 323	DL
+T47	ENFERMEDAD 374 391	diabetes mellitus
+T48	ENFERMEDAD 393 395	DM
+T49	ENFERMEDAD 398 424	Adenocarcinoma de próstata
+T50	ENFERMEDAD 606 639	adenocarcinoma acinar infiltrante
+T51	ENFERMEDAD 674 691	Gastritis crónica
+T52	ENFERMEDAD 693 719	Síndrome ansioso-depresivo
+T53	ENFERMEDAD 1203 1248	calcificación en las tres arterias coronarias
+T54	ENFERMEDAD 1310 1336	adenocarcinoma de próstata
+T56	ENFERMEDAD 3015 3030	derrame pleural
+T57	ENFERMEDAD 3125 3177	ateromatosis coronaria calcificada de los tres vasos
+T58	ENFERMEDAD 3180 3215	leve calcificación valvular aórtica
+T59	ENFERMEDAD 3516 3537	Disfunción diastólica
+T60	ENFERMEDAD 3726 3783	Válvula mitral de aspecto normal con mínima insuficiencia
+T61	ENFERMEDAD 3797 3822	insuficiencia tricuspídea
+T62	ENFERMEDAD 3861 3890	leve cardiopatía hipertensiva
+T63	ENFERMEDAD 4460 4469	arritmias
+T64	ENFERMEDAD 4622 4673	Arteria descendente anterior (ADA): estenosis grave
+T65	ENFERMEDAD 6074 6090	isquemia silente
+T66	ENFERMEDAD 6262 6287	enfermedad cardiovascular
+T67	ENFERMEDAD 6320 6343	calcificación coronaria
+T68	ENFERMEDAD 6798 6817	isquemia miocárdica
+T69	ENFERMEDAD 7129 7152	calcificación coronaria
+T70	ENFERMEDAD 7168 7176	isquemia
+T71	ENFERMEDAD 7306 7332	adenocarcinoma de próstata
+T72	ENFERMEDAD 7461 7544	estenosis graves en la ADA a niveles proximal y medio y en la primera rama diagonal
+T73	ENFERMEDAD 7908 7928	patología prostática
+T74	ENFERMEDAD 7962 7981	trombosis del stent
+T75	ENFERMEDAD 8676 8696	Enfermedad coronaria
+T76	ENFERMEDAD 8727 8743	isquemia silente
+T77	ENFERMEDAD 8745 8766	Enfermedad de un vaso
+T78	ENFERMEDAD 8768 8831	estenosis grave en ADA proximal y media y primera rama diagonal
+T79	ENFERMEDAD 8992 9002	Dislipemia
+T80	ENFERMEDAD 9004 9025	Hipertensión arterial
+T81	ENFERMEDAD 9027 9053	Adenocarcinoma de próstata
+T82	ENFERMEDAD 3584 3623	Aurícula izquierda ligeramente dilatada
+T83	ENFERMEDAD 5676 5686	colestasis
+T9	ENFERMEDAD 2781 2817	hemibloqueo superoanterior izquierdo
+T10	ENFERMEDAD 2819 2823	HSAI
+T159	ENFERMEDAD 4756 4829	Primera diagonal de buen calibre con bifurcación precoz y estenosis grave

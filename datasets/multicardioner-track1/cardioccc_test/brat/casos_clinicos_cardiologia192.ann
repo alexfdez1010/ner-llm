@@ -1,0 +1,30 @@
+T26	ENFERMEDAD 100 115	linfoma Hodgkin
+T27	ENFERMEDAD 349 366	adenoma folicular
+T28	ENFERMEDAD 1324 1336	sepsis grave
+T29	ENFERMEDAD 1790 1823	insuficiencia tricúspide moderada
+T30	ENFERMEDAD 1825 1850	insuficiencia mitral leve
+T31	ENFERMEDAD 2061 2084	endocarditis infecciosa
+T32	ENFERMEDAD 2367 2379	pericarditis
+T33	ENFERMEDAD 2433 2452	derrame pericárdico
+T34	ENFERMEDAD 2479 2590	endocarditis con vegetaciones sobre el velo anterior mitral, velo septal de la tricúspide y unión mitro-aórtica
+T35	ENFERMEDAD 2691 2814	aneurisma de probable origen micótico en la cara anterior de la aorta ascendente así como aorta torácica y arteria pulmonar
+T36	ENFERMEDAD 3163 3259	cara anterior de la aorta y de la grasa epicárdica del ventrículo derecho se apreció un hematoma
+T37	ENFERMEDAD 3409 3427	aneurisma micótico
+T38	ENFERMEDAD 3592 3610	aneurisma micótico
+T39	ENFERMEDAD 4043 4061	aneurisma micótico
+T40	ENFERMEDAD 5412 5425	shock séptico
+T41	ENFERMEDAD 5428 5449	fracaso multiorgánico
+T42	ENFERMEDAD 5528 5567	candidiasis invasiva en hígado y pulmón
+T43	ENFERMEDAD 1664 1687	bloqueo AV de 2.o grado
+T44	ENFERMEDAD 1702 1721	bloqueo AV completo
+T45	ENFERMEDAD 1508 1522	edema pulmonar
+T46	ENFERMEDAD 3315 3323	hematoma
+T47	ENFERMEDAD 940 951	hipotensión
+T48	ENFERMEDAD 5268 5279	hipotensión
+T49	ENFERMEDAD 3520 3579	aorta ascendente, observándose abundantes placas de ateroma
+T50	ENFERMEDAD 3744 3785	válvula aórtica se observó una vegetación
+T51	ENFERMEDAD 4196 4256	vegetación en la comisura entre el velo anterior y el septal
+T52	ENFERMEDAD 4507 4547	vegetación sobre el velo anterior mitral
+T99	ENFERMEDAD 1927 1967	vegetación sobre el velo anterior mitral
+T113	ENFERMEDAD 2595 2620	insuficiencias valvulares
+T104	ENFERMEDAD 4285 4337	vegetación resecada en la cara ventricular izquierda

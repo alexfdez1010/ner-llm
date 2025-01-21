@@ -1,0 +1,52 @@
+T10	ENFERMEDAD 2211 2221	presíncope
+T53	ENFERMEDAD 37 60	alergias medicamentosas
+T54	ENFERMEDAD 111 114	HTA
+T55	ENFERMEDAD 116 126	dislipemia
+T56	ENFERMEDAD 128 136	obesidad
+T57	ENFERMEDAD 156 165	epilepsia
+T58	ENFERMEDAD 167 205	hipotiroidismo secundario a tiroiditis
+T59	ENFERMEDAD 208 235	insuficiencia renal crónica
+T60	ENFERMEDAD 329 362	insuficiencia cardiaca congestiva
+T61	ENFERMEDAD 388 447	válvula aórtica bicúspide con insuficiencia de grado severo
+T62	ENFERMEDAD 450 475	disfunción moderada de VI
+T63	ENFERMEDAD 588 607	lesiones coronarias
+T64	ENFERMEDAD 865 878	fracaso renal
+T65	ENFERMEDAD 1065 1120	hematoma retroperitoneal en cabeza y cuerpo de páncreas
+T66	ENFERMEDAD 3329 3334	BRDHH
+T67	ENFERMEDAD 3416 3449	ateromatosis y elongación aórtica
+T68	ENFERMEDAD 3469 3482	cardiomegalia
+T69	ENFERMEDAD 3881 3899	colecistitis aguda
+T70	ENFERMEDAD 4022 4044	insuficiencia cardiaca
+T71	ENFERMEDAD 4047 4070	colecistitis alitiásica
+T72	ENFERMEDAD 4078 4087	diabético
+T73	ENFERMEDAD 4456 4474	colecistitis aguda
+T74	ENFERMEDAD 5006 5018	BAV completo
+T75	ENFERMEDAD 5354 5387	endocarditis sobre válvula mitral
+T76	ENFERMEDAD 5751 5774	fístula aorto-auricular
+T77	ENFERMEDAD 5926 5945	derrame pericárdico
+T78	ENFERMEDAD 6350 6368	hemiplejía derecha
+T79	ENFERMEDAD 6430 6482	hematoma cerebral en región parieto-temporal derecha
+T80	ENFERMEDAD 6626 6647	ACV agudo hemorrágico
+T81	ENFERMEDAD 6753 6767	cuadro séptico
+T82	ENFERMEDAD 6985 7006	fracaso multiorgánico
+T83	ENFERMEDAD 7022 7040	Colecistitis aguda
+T84	ENFERMEDAD 7085 7104	bloqueo AV completo
+T85	ENFERMEDAD 7106 7169	Endocarditis por Streptococcus gallolyticus sobre VAo protésica
+T86	ENFERMEDAD 7185 7229	fístula aorto-cavitaria a aurícula izquierda
+T87	ENFERMEDAD 7231 7252	ACV hemorrágico agudo
+T88	ENFERMEDAD 7286 7299	Shock séptico
+T89	ENFERMEDAD 7345 7364	fallo multiorgánico
+T90	ENFERMEDAD 794 844	flúter auricular con respuesta ventricular elevada
+T91	ENFERMEDAD 1293 1316	VI ligeramente dilatado
+T92	ENFERMEDAD 1359 1376	IM ligera central
+T93	ENFERMEDAD 1416 1421	BRDHH
+T94	ENFERMEDAD 2877 2880	TVP
+T95	ENFERMEDAD 3279 3298	bloqueo AV completo
+T97	ENFERMEDAD 3988 4006	vesícula de estrés
+T98	ENFERMEDAD 5234 5294	VM: velos ligeramente fibrosados con calcio en anillo mitral
+T99	ENFERMEDAD 5296 5306	IM central
+T100	ENFERMEDAD 5652 5673	proceso endocardítico
+T101	ENFERMEDAD 5842 5844	IT
+T102	ENFERMEDAD 6596 6619	sangre intraventricular
+T142	ENFERMEDAD 953 987	episodio convulsivo tónico-clónico
+T144	ENFERMEDAD 2200 2207	síncope

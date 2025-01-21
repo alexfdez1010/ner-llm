@@ -1,0 +1,29 @@
+T21	ENFERMEDAD 122 149	Insuficiencia renal crónica
+T22	ENFERMEDAD 174 189	displasia renal
+T23	ENFERMEDAD 202 217	quistes renales
+T24	ENFERMEDAD 257 293	Hiperparatiroidismo secundario a IRC
+T25	ENFERMEDAD 295 317	carcinoma renoureteral
+T26	ENFERMEDAD 347 366	Colestasis hepática
+T27	ENFERMEDAD 368 412	estenosis de arterias pulmonares principales
+T28	ENFERMEDAD 414 435	hipertensión arterial
+T29	ENFERMEDAD 437 447	dislipemia
+T30	ENFERMEDAD 449 466	tabaquismo activo
+T31	ENFERMEDAD 1902 1948	Válvula aórtica bicúspide con estenosis severa
+T32	ENFERMEDAD 2184 2252	Estenosis proximal de ambas ramas principales de la arteria pulmonar
+T33	ENFERMEDAD 2624 2648	Estenosis aórtica severa
+T34	ENFERMEDAD 2672 2719	Estenosis proximal de ambas arterias pulmonares
+T35	ENFERMEDAD 2958 2979	edema agudo de pulmón
+T36	ENFERMEDAD 3113 3178	estenosis aórtica severa en válvula aórtica bicúspide calcificada
+T37	ENFERMEDAD 3266 3298	estenosis de arterias pulmonares
+T38	ENFERMEDAD 3726 3771	Estenosis aórtica severa en válvula bicúspide
+T39	ENFERMEDAD 3774 3794	Síndrome de Alagille
+T40	ENFERMEDAD 2789 2837	cardiomegalia a expensas de cavidades izquierdas
+T41	ENFERMEDAD 554 575	edema agudo de pulmón
+T42	ENFERMEDAD 1334 1355	edema agudo de pulmón
+T43	ENFERMEDAD 151 154	IRC
+T44	ENFERMEDAD 1820 1859	VI con hipertrofia concéntrica moderada
+T45	ENFERMEDAD 1877 1900	Calcio en anillo mitral
+T72	ENFERMEDAD 1481 1484	HVI
+T80	ENFERMEDAD 2031 2051	insuficiencia ligera
+#1	AnnotatorNotes T24	 IRC: Insuficiencia renal crónica
+#2	AnnotatorNotes T43	 Insuficiencia renal crónica

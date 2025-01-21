@@ -1,0 +1,51 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 52 años que consulta por dolor torácico.
+
+Antecedentes
+Sin alergias medicamentosas conocidas.
+Hábitos tóxicos: exfumador, 30 paquetes/año, abandono en 2013. Bebedor de > 100 g al día de alcohol hasta 2012. Exadicto a drogas por vía parenteral entre 1987 y 1990.
+Actualmente abstinente.
+Sin factores de riesgos cardiovascular conocidos.
+Infección por virus de hepatitis C genotipo 1a, curada con triple terapia con boceprevir en 2012. Serología VIH negativa. Cirrosis hepática secundaria, CHILD-PUGH A.
+Ingreso en 2016 por neumonía adquirida en comunidad, CURB65 =1, FINE IV e insuficiencia respiratoria parcial secundaria.
+Tratamiento habitual domiciliario: no realiza.
+Situación funcional basal: vida activa, clase funcional I de la New York Heart Association
+(NYHA).
+
+Enfermedad actual
+Consulta por episodios de dolor centrotorácico opresivo no irradiado, de un mes de evolución, sin relación con los esfuerzos y que ceden de manera espontánea en aproximadamente 5 minutos. Se asocian a disnea y diaforesis ocasional. Así mismo, refiere síncopes de perfil clínico neuromediado de años de evolución. En el último episodio, a diferencia de los previos, presentó dolor torácico en la recuperación.
+En el servicio de urgencias hospitalario se realiza valoración inicial, con electrocardiograma (ECG) y seriación de marcadores de daño miocárdico que resultan normales. Se cursa ingreso en cardiología para completar el estudio.
+
+Exploración física
+Presión arterial (PA) 80/40 mmHg, saturación de oxígeno 97% sin oxigenoterapia. Consciente y orientado. Aceptable estado general, caquéctico (45 kg al ingreso), normocoloreado. Eupneico en reposo, sin datos congestivos. Auscultación cardiaca: rítmica, a unos 65 lpm, sin soplos ni extratonos. Auscultación pulmonar: murmullo vesicular conservados sin ruidos patológicos sobreañadidos. Exploración abdominal anodina. Extremidades inferiores sin edemas, ni signos de trombosis venosa profunda.
+
+PRUEBAS COMPLEMENTARIAS
+ECG en urgencias: ritmo sinusal a 60 latidos por minuto. QRS estrecho, morfología de bloqueo incompleto de rama derecha. No alteraciones de la conducción o de la repolarización.
+QTc normal. A las pocas horas de ingreso: bradicardia sinusal a 50 lpm. PR 220 ms.
+QRS 120 ms. Elevación del segmento ST de 2 mm en cara inferior. Descenso del ST de V1-V4, aVR y aVL, máximo en V3 (5 mm) con ondas T negativas profundas en V1-V3.
+Analítica: hemograma y estudio de coagulación normal. Bioquímica: función renal e iones normales. Perfil hepatobiliar sin hallazgos patológicos. Autoinmunidad negativa. Test de tóxicos: positivo para benzodiacepinas, negativo para el resto de tóxicos. Destaca proteinograma con banda monoclonal IgM/Kappa (componente M: 0,24 g/dl). Cortisol basal: 0,7 g/dl. Test de
+Synacthen: cortisol 13 g/dl (respuesta intermedia).
+Radiografía de tórax: índice cardiotorácico normal. Senos costofrénicos libres. No consolidaciones o infiltrados parenquimatosos.
+Cateterismo cardiaca emergente: espasmo grave de tronco coronario izquierdo (TCI), arteria coronaria derecha (ACD) y arteria circunfleja (ACx), con calibre fino de todo el árbol coronario, que se resuelve con nitroglicerina intracoronaria.
+Ecocardiograma transtorácico: cavidades cardiacas de tamaño y morfología normales. Válvula mitral con velo anterior muy redundante, sin prolapso asociado. Presenta una insuficiencia de grado moderado (volumen regurgitante 23 ml y ORE por PISA 0,12 cm2). Contractilidad segmentaria del ventrículo izquierdo normal con FEVI 60% por Simpson biplano. Disfunción diastólica leve sin datos de aumento de presiones de llenado. Función del ventrículo derecho normal. Pericardio normal, sin derrame pericárdico.
+ECG de 12 derivaciones realizado en planta de cardiología tras parada cardiorrespiratoria: ritmo sinusal a 65 lpm. QRS estrecho. Ondas T negativas profundas V2-V6. Ondas T negativas de menor magnitud en cara inferior, I y aVL.
+Resonancia magnética nuclear (RMN) cerebral: sin evidencia de lesión ocupante de espacio, hemorragia o infarto agudo o subagudo reciente.
+TC de tórax y abdomen con contraste: engrosamiento de papila duodenal. Adenopatías de aspecto inespecífico en saco menor, mesenterio y retroperitoneo. Derrame pleural bilateral con colapso pasivo de subsegmentos basales posteriores. Micronódulo inespecífico en lóbulo inferior derecho.
+
+
+EVOLUCIÓN CLÍNICA
+Tras ser valorado en el servicio de urgencias con pruebas complementarias normales, ingresa en planta de cardiología para completar el estudio. A las pocas horas de ingreso, comienza con dolor torácico y en el ECG se objetiva elevación del ST en cara inferior. Se realiza coronariografía urgente que muestra un espasmo grave de tronco coronario izquierdo, arteria coronaria derecha y arteria circunfleja, con calibre fino de todo el árbol coronario, que se resuelve con nitroglicerina intracoronaria. Tras la administración de nitroglicerina intravenosa no se detectan lesiones angiográficamente significativas. Posteriormente, ingresa en la unidad de cuidados intensivos (UCI) donde se realizó seriación de marcadores de daño miocárdico que fueron normales y tras permanecer estable durante 48 horas pasa nuevamente a planta de cardiología.
+Una vez en planta se inicia tratamiento con antagonistas del calcio (ACA) y nitratos que se titulan hasta alcanzar la máximas dosis toleradas. A pesar de ello, presenta nuevo episodio de dolor precordial seguido de parada cardiorrespiratoria (PCR) en disociación electromecánica.
+Tras maniobras de reanimación cardiopulmonar avanzada durante 10 minutos con necesidad de intubación orotraqueal; recupera pulso en taquicardia sinusal durante 1 minuto y posteriormente presenta taquicardia ventricular polimórfica que precisa cardioversión eléctrica urgente.
+Se traslada a la UCI donde vuelve a registrarse taquicardia ventricular polimórfica por lo que requiere nueva cardioversión eléctrica, con salida en ritmo sinusal. Tras la PCR se realiza seriación de marcadores de daño miocárdico presentado curva enzimática compatible con infarto agudo de miocardio y cambios electrocardiográficos compatibles con isquemia subendocárdica. Se realiza nuevo ecocardiograma urgente sin cambios respecto al previo. En la analítica de control que se había extraído justo antes de la PCR, la función renal y los iones, incluidos el potasio y el magnesio, eran normales. Posteriormente, precisó ingreso prolongado en la UCI por inestabilidad hemodinámica con necesidad de tratamiento con aminas vasoactivas.
+Tras alcanzar estabilidad hemodinámica, regresa a planta de cardiología, donde se optimiza el tratamiento, añadiendo fluvastatina y alcanzando dosis altas de antagonistas del calcio y nitratos, mal toleradas por presentar hipotensión. A pesar de ello, el paciente presenta crisis recurrentes de vasoespasmo (con confirmación electrocardiográfica).
+Ante el cuadro de vasoespasmo grave refractario al tratamiento, se realizó un amplio estudio con el fin de detectar patologías subyacentes que se pudieran asociar o justificaran el vasoespamo recurrente (metabólica, tumoral, autoinmune, etc.). Como únicos hallazgos durante el ingreso, el servicio de endocrinología diagnosticó una insuficiencia suprarrenal parcial de origen hipofisario a raíz de una hiponatremia moderada hipoosmolar con repercusión clínica (somnolencia) que se corrigió con hidrocortisona. Asimismo, se detectó en el proteinograma banda monoclonal IgM Kappa.
+Finalmente, tras descartar una causa corregible asociada a las crisis recurrentes de vasoespasmo y ante la ausencia de respuesta y la mala tolerancia de nitratos, se decide retirar estos últimos y asociar a los ACA de manera empírica cilostazol (inhibidor de la fosfodiesterasa 3). Tras el inicio de este tratamiento, el paciente permaneció asintomático, sin nuevos episodios de dolor torácico o vasoespasmo.
+Una vez descartadas otras posibles causas de PCR, se determinó que existía una elevada posibilidad de que la PCR se produjera en el contexto de un vasoespasmo prolongado. Por todo ello, se decidió implantar un desfibrilador automático implantable (DAI) en prevención secundaria.
+Una vez implantado el DAI y controladas las crisis de vasoespasmo, redujimos progresivamente el cilostazol hasta la retirada completa de dicho fármaco, tras lo que el paciente asintomático y hemodinámicamente estable. Al alta se mantuvo el tratamiento con ACA y fluvastatina con excelente respuesta, sin haber presentado nuevos eventos en el primer año de seguimiento.
+
+DIAGNÓSTICO
+Angina vasoespástica recurrente y refractaria a tratamiento.
+Parada cardiorrespiratoria intrahospitalaria en relación con infarto agudo de miocardio secundario a angina vasoespástica.
+Implante de desfibrilador automático implantable (DAI VR) en prevención secundaria.
+Insuficiencia suprarrenal parcial de origen hipofisario.

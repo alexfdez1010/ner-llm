@@ -1,0 +1,36 @@
+T25	ENFERMEDAD 32 53	Hipertensión arterial
+T26	ENFERMEDAD 55 95	diabetes mellitus no insulinodependiente
+T27	ENFERMEDAD 97 106	exfumador
+T28	ENFERMEDAD 109 119	dislipemia
+T29	ENFERMEDAD 271 316	estenosis aórtica severa en válvula bicúspide
+T30	ENFERMEDAD 1461 1464	TVP
+T31	ENFERMEDAD 2091 2113	lesión isquémica aguda
+T32	ENFERMEDAD 2329 2363	enfermedad crónica de pequeño vaso
+T33	ENFERMEDAD 3644 3692	oclusión del segmento M1 distal de ACM izquierda
+T34	ENFERMEDAD 4085 4129	endocarditis sobre válvula aórtica protésica
+T35	ENFERMEDAD 4131 4160	Aneurisma de aorta ascendente
+T36	ENFERMEDAD 4436 4443	absceso
+T37	ENFERMEDAD 4458 4483	VM con insuficiencia leve
+T38	ENFERMEDAD 4666 4685	derrame pericárdico
+T39	ENFERMEDAD 4741 4746	ictus
+T40	ENFERMEDAD 4874 4934	oclusión del segmento M1 distal de la arteria cerebral media
+T41	ENFERMEDAD 5295 5307	endocarditis
+T42	ENFERMEDAD 6541 6570	aneurisma de aorta ascendente
+T43	ENFERMEDAD 6670 6673	BAV
+T44	ENFERMEDAD 6737 6745	abscesos
+T45	ENFERMEDAD 6927 6955	evento isquémico neurológico
+T46	ENFERMEDAD 6970 7023	Endocarditis protésica tardía por Enterococo faecalis
+T47	ENFERMEDAD 7025 7100	Ictus isquémico por oclusión trombótica en arteria cerebral media izquierda
+T48	ENFERMEDAD 7301 7330	Aneurisma de aorta ascendente
+T49	ENFERMEDAD 1521 1551	Hemibloqueo anterior izquierdo
+T50	ENFERMEDAD 1606 1608	IC
+T51	ENFERMEDAD 3916 4020	émbolos: uno en la región parietal posterior distal (émbolo no oclusivo) y el otro en la región silviana
+T52	ENFERMEDAD 4334 4365	vegetación visualizadas en TSVI
+T53	ENFERMEDAD 4593 4604	IT moderada
+T54	ENFERMEDAD 5913 5950	bloqueo aurículo-ventricular completo
+T56	ENFERMEDAD 7136 7173	Bloqueo aurículo-ventricular completo
+T102	ENFERMEDAD 752 772	leve cuadro catarral
+T15	ENFERMEDAD 2142 2175	hemorragias intra ni extraaxiales
+T16	ENFERMEDAD 3715 3752	bucle proximal en la carótida interna
+T115	ENFERMEDAD 2653 2742	opérculo frontal izquierdo se observa una disminución del volumen, compatible con infarto
+T17	ENFERMEDAD 3110 3136	formaciones aneurismáticas

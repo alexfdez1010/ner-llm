@@ -1,0 +1,30 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 59 años sin factores de riesgo cardiovascular con hipotiroidismo yatrógeno tras tiroidectomía por cáncer de tiroides en tratamiento habitual con levotiroxina 75 mcg al día. No tenía antecedentes familiares destacables.
+La paciente acudió al Servicio de Urgencias porque sufrió pérdida de conocimiento cuando hablaba por teléfono con su hermana mientras discutían, sin pródromos y con recuperación espontánea en pocos segundos. No refería cortejo vegetativo y tuvo un episodio similar al bajar escaleras meses atrás. No presentaba disnea ni palpitaciones ni dolor torácico.
+A la exploración física la paciente estaba consciente, orientada, normocoloreada, eupneica, sin ingurgitación yugular, PA de 120/70 mmHg, 60 latidos-minuto, saturación periférica de O2 del 96 % basal, afebril. A la auscultación cardiopulmonar presentaba murmullo vesicular conservado con tonos rítmicos sin soplos. En el abdomen no había megalias ni signos de ascitisis y en miembros inferiores no había edemas con pulsos distales conservados sin signos de trombosis profunda.
+La exploración neurológica fue normal.
+En Urgencias, se realizó analítica que detectó anemia leve sin otros datos destacables, radiografía de tórax portátil y electrocardiograma.
+Con estos datos se interconsultó con Cardiología, se realizó ecocardiograma trastorácico urgente en el que no se observaron anomalías destacables y se ingresó en planta de hospitalización con monitorización.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica: leucocitos 11.500 / mm3, hemoglobina 10,57 g/dl, VCM 87 mm3 , HCM 24/cel, plaquetas 210.000 / mm3, coagulación normal, creatinina 0,57 mg/dl, urea 34 mg/dl, filtrado glomerular 98 ml/min/1,73 m2, Na 138 mEq/L, K 4,1 mEq/L, Mg 2,6, CPK 140 UI/L, troponina I 0,04 ng/ml. Tóxicos en orina negativos y perfil tiroideo normal.
+Radiografía de tórax portátil: índice cardiotorácico poco valorable, sin derrame pleural ni infiltrados.
+ECG: ritmo sinusal a 72 latidos-minuto, eje normal, intervalo PR y complejo
+QRS normales e intervalo QTc de 650 ms aproximadamente.
+Ecocardiograma transtorácico urgente: ventrículo izquierdo no dilatado con DDVI de 40 mm sin hipertrofia significativa, FEVI conservada sin alteraciones segmentarias de la contractilidad y función diastólica normal con patrón diastólico normal y E/E" promedio de 6,5. Válvula mitral de estructura y función conservada.
+Ausencia de dilatación auricular. Raíz aórtica no dilatada, válvula aórtica trivalva normofuncionante. Cavidades derechas no dilatadas, función sistólica del ventrículo derecho normal por TAPSE de 18, ausencia de insuficiencia tricuspídea, vena cava inferior no dilatada con colapso inspiratorio sin derrame pericárdico.
+ECG: ritmo sinusal con intervalo QT muy prolongado y tripletes ventriculares polimórficos iniciados con fenómeno "R sobre T". Trazado de telemetría con torsades de pointes y cardioversión a 100 julios.
+Radiografía de tórax: con desfibrilador automático implantable bicameral con normoposición de electrodos.
+ECG: ritmo electroestimulado auricular a 70 latidos-minuto. Se observa una reducción del intervalo QT con respecto al ECG inicial tras optimizar tratamiento con betabloqueante.
+
+EVOLUCIÓN
+En planta de hospitalización de Cardiología la paciente presentó extrasistolia ventricular polimórfica y taquicardias ventriculares polimórficas (TVP) no sostenidas. Ante estos hallazgos, con una frecuencia basal en ritmo sinusal de 65 lpm, se administró magnesio intravenoso y ante la ausencia de mejoría, se trasladó a la Unidad Coronaria. A pesar de las medidas iniciales, la paciente presentó taquicardia ventricular sostenida tipo torsades de pointes, con pérdida de conocimiento realizándose cardioversión a 100 julios que fue eficaz. Sin embargo, volvió a presentar TVP no sostenidas, por lo que se decidió realizar sedación presentando la paciente signos de dificultad respiratoria, hipertensión arterial y requiriendo finalmente sedoanalgesia profunda e intubación orotraqueal. Se iniciaron betabloqueantes logrando la estabilización hemodinámica y arrítmica si bien la titulación de dichos fármacos llegó a dosis bajas ya que la paciente presentaba bradicardia sinusal. Se completó estudio analítico con detección de tóxicos en orina que fue negativo y perfil tiroideo que no mostró alteraciones, y se descartó consumo de fármacos que pudieran prolongar el intervalo QT.
+Ante la presencia de probable síndrome de QT largo congénito y parada cardiorrespiratoria reanimada por TVP sostenida se decidió implantar desfibrilador automático endovascular bicameral que se llevó a cabo sin incidencias y posteriormente pasó a planta de Cardiología donde se incrementó la dosis de betabloqueante hasta bisoprolol 5 mg cada 8 horas y se extrajo analítica para estudio genético. Este detectó una mutación en el gen KCNQ1 en heterocigosis asociada al desarrollo de síndrome de QT largo tipo 1 con patrón de herencia autosómico dominante, procediéndose a realizar el estudio familiar.
+
+DIAGNÓSTICO
+Síndrome de QT Largo tipo 1.
+Mutación patogénica en el gen KCNQ1.
+Síncopes recurrentes.
+Parada cardiaca reanimada por TVPS.
+Ausencia de cardiopatía estructural significativa.
+Implante de DAI DR en prevención secundaria.

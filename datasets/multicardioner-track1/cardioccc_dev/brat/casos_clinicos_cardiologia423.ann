@@ -1,0 +1,43 @@
+T38	ENFERMEDAD 218 228	hipertensa
+T39	ENFERMEDAD 230 238	Artrosis
+T40	ENFERMEDAD 271 280	cataratas
+T41	ENFERMEDAD 362 373	cardiopatía
+T43	ENFERMEDAD 531 585	síndrome coronario agudo con elevación del segmento ST
+T44	ENFERMEDAD 587 594	SCACEST
+T47	ENFERMEDAD 2304 2327	hipertrofia ventricular
+T48	ENFERMEDAD 3594 3619	Insuficiencia tricuspídea
+T49	ENFERMEDAD 3792 3811	derrame pericárdico
+T50	ENFERMEDAD 4384 4441	obstrucción del tracto de salida del ventrículo izquierdo
+T51	ENFERMEDAD 4995 5019	síndrome coronario agudo
+T52	ENFERMEDAD 5050 5080	alérgica a aspirina y trifusal
+T53	ENFERMEDAD 5632 5654	síndrome de tako-tsubo
+T54	ENFERMEDAD 5981 6003	insuficiencia cardiaca
+T55	ENFERMEDAD 6117 6144	miocardiopatía hipertrófica
+T56	ENFERMEDAD 6270 6297	miocardiopatía hipertrófica
+T57	ENFERMEDAD 6898 6981	Síndrome de tako-tsubo con obstrucción en tracto de salida del ventrículo izquierdo
+T58	ENFERMEDAD 7025 7035	HVI septal
+T59	ENFERMEDAD 97 165	Alergias: idiosincrasia a múltiples antiinflamatorios no esteroideos
+T60	ENFERMEDAD 2400 2415	HVI concéntrica
+T61	ENFERMEDAD 4318 4336	Hipertrofia septal
+T62	ENFERMEDAD 4228 4230	IM
+T63	ENFERMEDAD 4519 4550	IM con leve dilatación de la AI
+T64	ENFERMEDAD 6792 6794	IM
+T65	ENFERMEDAD 6984 7008	IM significativa por SAM
+T66	ENFERMEDAD 3621 3623	IT
+T67	ENFERMEDAD 3228 3254	SAM completo que genera IM
+T68	ENFERMEDAD 2329 2332	HVI
+T69	ENFERMEDAD 2424 2437	Disfunción VI
+T70	ENFERMEDAD 2923 2967	Aurícula izquierda (AI) ligeramente dilatada
+T71	ENFERMEDAD 4204 4226	Disfunción VI moderada
+T72	ENFERMEDAD 5549 5574	disfunción moderada de VI
+T154	ENFERMEDAD 380 393	muerte súbita
+T155	ENFERMEDAD 5775 5783	necrosis
+T21	ENFERMEDAD 3943 3979	Segmento intramiocárdico de DA media
+#1	AnnotatorNotes T60	hipertrofia ventricular
+#2	AnnotatorNotes T62	  insuficiencia mitral
+#3	AnnotatorNotes T63	  IM: insuficiencia mitral
+#4	AnnotatorNotes T64	  insuficiencia mitral
+#5	AnnotatorNotes T65	  SAM: movimiento anterior sistólico, IM: insuficiencia mitral
+#6	AnnotatorNotes T66	  insuficiencia tricuspide
+#7	AnnotatorNotes T67	  SAM: movimiento anterior sistólico
+#8	AnnotatorNotes T68	  hipertrofia ventricular

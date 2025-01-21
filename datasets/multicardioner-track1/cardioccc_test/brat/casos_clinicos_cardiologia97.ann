@@ -1,0 +1,38 @@
+T50	ENFERMEDAD 99 120	hipertensión arterial
+T51	ENFERMEDAD 122 132	dislipemia
+T52	ENFERMEDAD 134 142	obesidad
+T53	ENFERMEDAD 145 154	exfumador
+T54	ENFERMEDAD 650 676	parada cardiorrespiratoria
+T55	ENFERMEDAD 839 865	insuficiencia respiratoria
+T56	ENFERMEDAD 2884 2897	valvulopatías
+T57	ENFERMEDAD 4217 4230	hiperglucemia
+T58	ENFERMEDAD 4232 4251	insuficiencia renal
+T59	ENFERMEDAD 4253 4264	hipocalemia
+T60	ENFERMEDAD 4266 4281	hiperfosforemia
+T61	ENFERMEDAD 4283 4297	hipomagnesemia
+T62	ENFERMEDAD 4299 4318	acidosis metabólica
+T63	ENFERMEDAD 4334 4367	intoxicación por organofosforados
+T64	ENFERMEDAD 4421 4447	parada cardiorrespiratoria
+T65	ENFERMEDAD 4651 4670	acidosis metabólica
+T66	ENFERMEDAD 4720 4739	insuficiencia renal
+T67	ENFERMEDAD 4791 4806	hepatotoxicidad
+T68	ENFERMEDAD 4809 4853	síndrome de respuesta inflamatorio sistémico
+T69	ENFERMEDAD 5381 5413	síndrome de distrés respiratorio
+T70	ENFERMEDAD 5416 5444	shock séptico por Pseudomona
+T71	ENFERMEDAD 5626 5665	Intoxicación grave por organofosforados
+T72	ENFERMEDAD 5667 5712	Síndrome coronario agudo con elevación del ST
+T73	ENFERMEDAD 5807 5832	Insuficiencia renal aguda
+T74	ENFERMEDAD 5874 5889	Hepatitis aguda
+T75	ENFERMEDAD 5933 5976	Síndrome de distrés respiratorio del adulto
+T76	ENFERMEDAD 5978 6017	Shock séptico por Pseudomona aeruginosa
+T77	ENFERMEDAD 1008 1027	bloqueo AV completo
+T78	ENFERMEDAD 3879 3897	bloqueo AV grado I
+T79	ENFERMEDAD 4155 4165	bloqueo AV
+T80	ENFERMEDAD 5048 5066	bloqueo AV grado I
+T81	ENFERMEDAD 5511 5537	Parada cardiorrespiratoria
+T82	ENFERMEDAD 3242 3276	ADA con irregularidades parietales
+T83	ENFERMEDAD 3307 3326	Cx hipodesarrollada
+T84	ENFERMEDAD 3343 3375	CD con placa complicada y trombo
+T85	ENFERMEDAD 3934 3956	cuadro coronario agudo
+T130	ENFERMEDAD 689 691	FV
+T21	ENFERMEDAD 5553 5576	fibrilación ventricular

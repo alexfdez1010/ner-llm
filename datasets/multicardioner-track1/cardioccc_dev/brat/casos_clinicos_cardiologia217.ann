@@ -1,0 +1,42 @@
+T33	ENFERMEDAD 71 94	alergias medicamentosas
+T34	ENFERMEDAD 166 181	Obesidad tipo 1
+T35	ENFERMEDAD 200 209	exfumador
+T36	ENFERMEDAD 247 268	cardiopatía isquémica
+T37	ENFERMEDAD 315 322	bebedor
+T38	ENFERMEDAD 355 384	Cardiopatía isquémica crónica
+T39	ENFERMEDAD 407 486	infarto agudo de miocardio con elevación del segmento ST (IAMCEST) anteroseptal
+T40	ENFERMEDAD 625 677	oclusión crónica de arteria circunfleja (ACx) distal
+T41	ENFERMEDAD 713 745	disfunción ventricular muy grave
+T43	ENFERMEDAD 1037 1130	Arteriopatía periférica con estenosis del 70% en ilíaca común izquierda por placa calcificada
+T44	ENFERMEDAD 1146 1184	Riñón izquierdo con abundantes quistes
+T45	ENFERMEDAD 1623 1689	cardiopatía isquémica en fase dilatada con enfermedad de dos vasos
+T46	ENFERMEDAD 1730 1821	ACx ocluida crónica a nivel distal) con disfunción ventricular izquierda residual muy grave
+T48	ENFERMEDAD 2466 2483	déficit de hierro
+T49	ENFERMEDAD 3075 3097	insuficiencia cardiaca
+T50	ENFERMEDAD 3368 3393	trombosis venosa profunda
+T51	ENFERMEDAD 3395 3398	TVP
+T52	ENFERMEDAD 3584 3633	bloqueo completo de rama izquierda del haz de His
+T53	ENFERMEDAD 3635 3641	BCRIHH
+T54	ENFERMEDAD 3645 3688	trastornos secundarios de la repolarización
+T55	ENFERMEDAD 5445 5452	derrame
+T56	ENFERMEDAD 5468 5540	miocardiopatía dilatada con disfunción ventricular izquierda (DVI) grave
+T57	ENFERMEDAD 5543 5568	insuficiencia mitral (IM)
+T58	ENFERMEDAD 6942 6964	insuficiencia cardiaca
+T59	ENFERMEDAD 7281 7287	anemia
+T60	ENFERMEDAD 7500 7522	insuficiencia cardiaca
+T61	ENFERMEDAD 7653 7692	Insuficiencia cardiaca crónica avanzada
+T62	ENFERMEDAD 7694 7726	Disfunción sistólica grave de VI
+T63	ENFERMEDAD 7743 7772	cardiopatía isquémica crónica
+T64	ENFERMEDAD 7883 7900	Déficit de hierro
+T65	ENFERMEDAD 183 198	Hábitos tóxicos
+T66	ENFERMEDAD 465 472	IAMCEST
+T67	ENFERMEDAD 5394 5403	IP ligera
+T68	ENFERMEDAD 4586 4605	congestión pulmonar
+T69	ENFERMEDAD 6820 6861	descompensación de insuficiencia cardiaca
+T71	ENFERMEDAD 4736 4775	aurícula izquierda ligeramente dilatada
+T72	ENFERMEDAD 5039 5079	Ventrículo izquierdo gravemente dilatado
+T73	ENFERMEDAD 7230 7247	déficit de hierro
+T24	ENFERMEDAD 5565 5567	IM
+T26	ENFERMEDAD 6385 6396	EV aisladas
+T140	ENFERMEDAD 4912 4932	insuficiencia ligera
+#1	AnnotatorNotes T67	IP insuficiencia pulmonar

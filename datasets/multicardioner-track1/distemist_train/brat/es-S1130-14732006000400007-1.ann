@@ -1,0 +1,17 @@
+T2	ENFERMEDAD 27 34	fumador
+T3	ENFERMEDAD 37 53	bebedor moderado
+T4	ENFERMEDAD 55 77	alérgico a penicilinas
+T6	ENFERMEDAD 112 129	sinusitis maxilar
+T8	ENFERMEDAD 132 144	pansinusitis
+T12	ENFERMEDAD 170 209	plasmocitoma del seno frontal izquierdo
+T13	ENFERMEDAD 2184 2232	región glabelar incluyendo el trayecto fistuloso
+T15	ENFERMEDAD 3426 3438	plasmocitoma
+T18	ENFERMEDAD 953 960	mieloma
+T19	ENFERMEDAD 3465 3503	osteomielitis crónica del seno frontal
+T41	ENFERMEDAD 526 538	plasmocitoma
+T47	ENFERMEDAD 649 671	mucocele abscesificado
+T49	ENFERMEDAD 673 684	mucopiocele
+T62	ENFERMEDAD 3180 3188	cicatriz
+T63	ENFERMEDAD 1943 1956	osteomielitis
+T64	ENFERMEDAD 3101 3118	herida quirúrgica
+T1	ENFERMEDAD 4023 4040	herida quirúrgica

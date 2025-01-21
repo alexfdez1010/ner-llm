@@ -1,0 +1,49 @@
+T43	ENFERMEDAD 81 104	alergias medicamentosas
+T44	ENFERMEDAD 119 121	DM
+T45	ENFERMEDAD 132 135	HTA
+T46	ENFERMEDAD 154 171	Gastritis crónica
+T47	ENFERMEDAD 336 339	IAM
+T48	ENFERMEDAD 370 390	enfermedad de Chagas
+T49	ENFERMEDAD 1088 1100	BAV 1o grado
+T50	ENFERMEDAD 1267 1275	ansiedad
+T51	ENFERMEDAD 1898 1920	insuficiencia cardiaca
+T52	ENFERMEDAD 2033 2060	insuficiencia mitral ligera
+T53	ENFERMEDAD 2263 2350	taquicardia ventricular de origen ventricular basal y superior del ventrículo izquierdo
+T54	ENFERMEDAD 2863 2941	taquicardia ventricular de origen anterolateral basal del ventrículo izquierdo
+T55	ENFERMEDAD 3514 3529	derrame pleural
+T56	ENFERMEDAD 3548 3628	ventrículo izquierdo no dilatado con hipertrofia moderada- severa a nivel septal
+T57	ENFERMEDAD 3947 3967	insuficiencia mitral
+T58	ENFERMEDAD 4032 4058	insuficiencia aórtica leve
+T59	ENFERMEDAD 4060 4089	Insuficiencia tricúspide leve
+T60	ENFERMEDAD 4110 4129	derrame pericárdico
+T61	ENFERMEDAD 4212 4305	aneurisma en región de segmentos inferior-septal basal, inferior basal e ínfero-lateral basal
+T62	ENFERMEDAD 4693 4739	aneurisma posterobasal de ventrículo izquierdo
+T64	ENFERMEDAD 5074 5101	extrasístoles ventriculares
+T65	ENFERMEDAD 6037 6060	cardiopatía estructural
+T66	ENFERMEDAD 6084 6106	aneurisma posterobasal
+T67	ENFERMEDAD 6117 6133	aneurisma apical
+T68	ENFERMEDAD 6212 6232	enfermedad de Chagas
+T69	ENFERMEDAD 6554 6578	reflujo gastro-esofágico
+T70	ENFERMEDAD 7024 7044	enfermedad de Chagas
+T71	ENFERMEDAD 7363 7402	miocardiopatía por enfermedad de Chagas
+T73	ENFERMEDAD 3002 3014	BAV 1o grado
+T74	ENFERMEDAD 137 145	Fumadora
+T75	ENFERMEDAD 6830 6832	TV
+T76	ENFERMEDAD 7284 7327	Taquicardia ventricular monomorfa sostenida
+T77	ENFERMEDAD 6430 6450	enfermedad de Chagas
+T79	ENFERMEDAD 927 959	taquicardia regular de QRS ancho
+T80	ENFERMEDAD 125 128	DLP
+T81	ENFERMEDAD 2215 2247	taquicardia regular de QRS ancho
+T82	ENFERMEDAD 2357 2361	TVMS
+T83	ENFERMEDAD 2646 2678	taquicardia regular de QRS ancho
+T84	ENFERMEDAD 2706 2738	bloqueo completo de rama derecha
+T85	ENFERMEDAD 4370 4412	disfunción ligera del ventrículo izquierdo
+T86	ENFERMEDAD 5660 5664	TVMS
+T87	ENFERMEDAD 5781 5805	taquicardia de QRS ancho
+T88	ENFERMEDAD 6765 6769	TVMS
+T168	ENFERMEDAD 2405 2418	muerte súbita
+T181	ENFERMEDAD 4865 4890	preexcitación ventricular
+T26	ENFERMEDAD 260 285	fallecida de forma súbita
+T28	ENFERMEDAD 310 319	fallecida
+T30	ENFERMEDAD 4894 4909	doble vía nodal
+T119	ENFERMEDAD 4719 4766	ventrículo izquierdo y pequeño aneurisma apical

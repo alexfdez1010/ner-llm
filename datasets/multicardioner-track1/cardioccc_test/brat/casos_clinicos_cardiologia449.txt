@@ -1,0 +1,42 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+Varón de 53 años, activo, funcionario de la Administración. No tenía alergias medicamentosas, había fumado esporádicamente (1-2 paquetes/año acumulados) y estaba diagnosticado de hipertensión arterial leve, sin otros factores de riesgo cardiovascular asociados. Tomaba omeprazol a demanda por dispepsia ocasional, pero no realizaba ningún tratamiento de forma habitual.
+
+Historia actual
+Consulta con su médico de Atención Primaria por varios episodios de dolor centrotorácico opresivo, de inicio súbito, en reposo, de pocos minutos de duración. El dolor no se relaciona con las comidas, no se modifica con los movimientos respiratorios o los cambios posturales y se acompaña únicamente de sudoración leve.
+Se le pauta tratamiento con ácido acetilsalicílico 100 mg (1-0-0), bisoprolol 2,5 mg (1-0-1), omeprazol 20 mg (1-0-0) y nitroglicerina sublingual a demanda y se le remite a consulta de Cardiología.
+Acude a Urgencias a los pocos días porque los síntomas persisten a pesar del tratamiento.
+Con la toma de nitroglicerina la duración es menor, pero no la frecuencia; refiere hasta 7 episodios en las últimas 3 semanas, de claro predominio nocturno.
+
+Exploración física en Urgencias
+Presión arterial: 145/89 mmHg. Frecuencia cardiaca 60 latidos por minuto, saturación basal de oxígeno 100 %. Temperatura 36,5°C. Buen estado general. Consciente, orientado, colaborador. Eupneico en reposo. Normohidratado. Normocoloreado.
+Presión venosa yugular normal. Carótidas rítmicas, sin soplos. Auscultación cardiaca rítmica sin soplos, roces ni extratonos. Auscultación pulmonar con murmullo vesicular conservado, sin ruidos sobreañadidos. Abdomen sin alteraciones reseñables.
+Extremidades inferiores normales. Pulsos periféricos presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+
+ECG en Urgencias: ritmo sinusal a 55 lpm, PR normal, QRS estrecho, sin alteraciones de la repolarización.
+
+Analítica en Urgencias: hemograma: hemoglobina 15,8 g/dl, leucocitos 8.650/mm3 (fórmula normal), plaquetas 212.000/mm3. Coagulación: tasa de protrombina 91 %, tiempo de tromboplastina parcial activada 26,6 s, fibrinógeno 309 mg/dl. Bioquímica: glucosa 113 mg/dl, urea 40 mg/dl, creatinina 1,13 mg/dl, sodio 140 mEq/l, potasio 3,4 mEq/l, troponina I seriada 0,00 ng/ml.
+
+Radiografía de tórax en Urgencias: normal.
+
+Ecocardioscopia en Urgencias: ventrículo izquierdo de tamaño y función sistólica global normal, sin alteraciones de la contractilidad segmentaria. Ventrículo derecho de tamaño y función sistólica normal Aurículas normales. Ausencia de valvulopatías significativas. Segmentos visibles de los grandes vasos normales.
+Pericardio normal.
+
+Test de esfuerzo: se suspende en el minuto 10,50 del protocolo de Bruce (11.80 METS) por alcanzar la frecuencia cardiaca máxima teórica. Respuesta tensional y cronotropa normales. No se registran arritmias. Conclusión: clínica y eléctricamente negativo para isquemia.
+
+Holter ECG de eventos de 10 días de duración: se registra, coincidiendo con un episodio de dolor torácico idéntico a los previos, elevación del segmento ST de unos minutos de duración, así como extrasistolia supraventricular y ventricular frecuente.
+
+TAC de arterias coronarias: score calcio 191. Se aprecian placas cálcicas en el tercio proximal de la arteria descendente anterior y circunfleja que no condicionan estenosis significativas, así como placa blanda en el tercio medio de la descendente anterior que condiciona estenosis del 50 %.
+
+EVOLUCIÓN
+Durante su estancia en Urgencias el paciente permanece asintomático y estable hemodinámicamente en todo momento. Los marcadores de daño miocárdico seriados son negativos. Es valorado por el equipo de guardia de Cardiología, que realiza ecocardioscopia donde no se objetivan alteraciones. A la vista de las características de los episodios se plantea la posibilidad de que se trate de vasoespasmo coronario, por lo que se asocian nitratos a su tratamiento y se decide completar el estudio de forma ambulatoria. No se consideró necesario ingreso porque los episodios de dolor no habían ido aumentando en intensidad ni duración ni se habían acompañado de palpitaciones, mareo o síncope.
+En el registro del Holter de eventos de larga duración realizado dos semanas después se objetiva elevación transitoria del segmento ST coincidiendo con un nuevo episodio de dolor torácico, idéntico a los previos, con lo que se confirma el diagnóstico de vasoespasmo coronario. Se suspende el bisoprolol (el paciente había suspendido ya los nitratos por cefalea y el ácido acetilsalicílico por dispepsia) y se inicia diltiazem a dosis de 120 mg cada 12 horas. Dado que no realizaba esfuerzos físicos intensos se solicita ergometría, que resulta concluyente, clínica y eléctricamente negativa para isquemia. A pesar de este resultado, con el fin de descartar con mayor seguridad lesiones coronarias obstructivas subyacentes, se realiza TAC de arterias coronarias que muestra estenosis no significativas en descendente anterior y circunfleja y se asocia simvastatina a dosis de 20 mg al día a su tratamiento.
+El paciente presenta buena evolución, sin recurrencia de los síntomas hasta la fecha.
+Se le explica que para evitar nuevos episodios en la medida de lo posible es fundamental que mantenga la abstención del hábito tabáquico y la buena adherencia al tratamiento farmacológico.
+
+DIAGNÓSTICO
+Angina vasoespástica.
+Arterias coronarias sin lesiones significativas.

@@ -1,0 +1,44 @@
+Se trata de un varón de 52 años que acude a urgencias por episodio sincopal mientras se encontraba presenciando un partido de fútbol de su hijo. Debido a la infrecuente etiopatogenia del cuadro y tratamiento consideramos interesante su divulgación.
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Sin alergias medicamentosas conocidas.
+Tabaquismo activo (3-4 puros/día).
+Enolismo crónico.
+No otros factores de riesgo cardiovascular (FRCV).
+Sin antecedentes quirúrgicos.
+En tratamiento deshabituador con disulfiram, sin otras medicaciones crónicas.
+
+Enfermedad actual
+Varón de 52 años que acude a urgencias por episodio sincopal con caída al suelo mientras se encontraba presenciando un partido de fútbol. El episodio se precedió de rubor facial, sudoración, malestar general y palidez. No presentó dolor torácico, disnea, ni palpitaciones. Los testigos presenciales niegan movimientos convulsivos. Se contacta con emergencias médicas que le atiende in situ.
+
+Exploración física
+Tensión arterial (TA) (a su llegada a urgencias) 90/50 mmHg. Frecuencia cardiaca (FC) 70 lpm.
+Saturación de oxígeno 96% con aire ambiente. Frecuencia respiratoria 16 rpm. Buen estado general. Consciente y orientado. Sin focalidad neurológica evidente. Afebril. Sudoroso. Presión venosa yugular normal. Auscultación cardiaca: ruidos cardiacos rítmicos, sin soplos. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos sobreañadidos. No edemas en extremidades inferiores, ni signos de trombosis venosa profunda (TVP).
+
+
+PRUEBAS COMPLEMENTARIAS
+Analítica:
+Hemograma: normal.
+Bioquímica: glucosa basal 94 mgr/dl; creatinina 0,9 mgr/dl; iones y transaminasas normales; colesterol total 152 mgr/dl; cLDL 87 mgr/dl. Hiperlactacidemia sin acidosis, transitoria. Marcadores de necrosis miocárdica seriados máximos: troponina T us 657 ng/l (normal < 13 ng/l).
+Coagulación básica: INR 1,13; TP 87%; TTPa ratio 1,15.
+
+Electrocardiograma:
+A la llegada del equipo de emergencias médicas (imagen 1): taquicardia sinusal a 110 lpm. QRS estrecho, eje a -15o. Onda R embrionaria con onda T plana en DIII y aVF.
+Descenso del punto J de 1 mm en V1-V2. Discreta elevación (máximo 1 mm en V5) del segmento ST de V3 a V6.
+Al alta: ritmo sinusal a 60 lpm, con onda R alta en V2 y ondas T negativas en cara inferior.
+Ecocardiograma: ventrículo izquierdo (VI) de tamaño y grosor normales, función sistólica conservada (FE 60%) con leve hipocinesia inferior. Aurícula izquierda (AI) y cavidades derechas normales. Sin alteraciones valvulares significativas. No hipertensión pulmonar. Raíz aórtica de tamaño normal. No derrame pericárdico.
+Interconsulta al s. de psicosomática: se refuerza tratamiento deshabituador. Inicio de clometiazol.
+Coronariografías: imágenes de trombo intracoronario (sin placa complicada) en CD proximal-media. Tras 1 semana de tratamiento con heparina sódica i.v., se resuelve el trombo.
+Se realiza tomografía de coherencia óptica (OCT) que muestra imagen sugestiva de erosión de placa en coronaria derecha (CD) proximal-media sobre la cual no se actúa (tratamiento médico).
+Resto de arterias coronarias sin lesiones significativas.
+
+EVOLUCIÓN CLÍNICA
+A la llegada del equipo de emergencias médicas, se constata hipotensión arterial franca (70/40 mmHg) y se realiza un ECG que muestra infradesnivelación del segmento ST de V3 a V6 que posteriormente evoluciona a discreta supradesnivelación del segmento ST en dichas derivaciones, por lo que se traslada a urgencias de nuestro centro. A su llegada presenta normalización del ECG. A pesar de negarlo incialmente, reconoce la ingesta de alcohol minutos antes al episodio sincopal (bajo tratamiento actual con disulfiram). Tras documentarse un aumento significativo de troponina T ultrasensible en determinaciones seriadas, se decide ingreso en planta de cardiología para estudio y tratamiento con diagnóstico inicial de síndrome coronario agudo sin elevación del segmento ST (SCASEST) de alto riesgo.
+Durante su estancia en planta permanece estable y asintomático. El ecocardiograma muestra una función sistólica VI conservada con ligera hipocinesia inferior. Se realiza una coronariografía precoz que evidenció la presencia de un trombo en CD proximal y media, secundario a la reacción acetaldehídica por interacción alcohol-disulfiram y se opta por mantener la doble antiagregación e iniciar anticoagulación con heparina sódica i.v. durante 1 semana.
+
+Tras una semana de anticoagulación, se repite la coronariografía que muestra la desaparición del trombo en CD, aunque se detecta mediante OCT una erosión de placa en esta localización, que no se considera necesario revascularizar. Se insiste en la necesidad de mantener la abstinencia alcohólica y evitar su ingesta bajo tratamiento con disulfiram, así como el cese del hábito tabáquico. Tratamiento al alta con doble antiagreación con ácido acetilsalicílico y ticagrelor, IBP (omeprazol) y tratamiento deshabituador por parte de psiquiatría manteniendo disulfiram con control estricto y clometiazol.
+
+DIAGNÓSTICO
+Infarto agudo de miocardio no Q de localización inferior, secundario a reacción acetaldehídica por interacción alcohol-disulfiram con formación de trombo intracoronario en CD proximal y media, resuelto tras doble antiagregación y 1 semana de anticoagulación parenteral. Función sistólica de VI conservada con hipocinesia inferior.

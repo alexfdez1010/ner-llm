@@ -1,0 +1,37 @@
+T28	ENFERMEDAD 104 125	cardiopatía isquémica
+T29	ENFERMEDAD 172 198	infarto agudo de miocardio
+T30	ENFERMEDAD 200 203	IAM
+T31	ENFERMEDAD 233 254	cardiopatía isquémica
+T32	ENFERMEDAD 299 302	IAM
+T33	ENFERMEDAD 316 337	cardiopatía isquémica
+T34	ENFERMEDAD 382 405	alergias medicamentosas
+T35	ENFERMEDAD 419 434	hábitos tóxicos
+T36	ENFERMEDAD 491 503	hipertensión
+T37	ENFERMEDAD 505 508	HTA
+T38	ENFERMEDAD 514 531	diabetes mellitus
+T39	ENFERMEDAD 533 535	DM
+T40	ENFERMEDAD 547 634	Hipercolesterolemia familiar heterocigota con estudio genético positivo (mutación M334)
+T41	ENFERMEDAD 728 767	cardiopatía isquémica crónica multivaso
+T42	ENFERMEDAD 800 844	IAM inferoposterior con enfermedad multivaso
+T43	ENFERMEDAD 1098 1113	angor inestable
+T44	ENFERMEDAD 1206 1229	Oclusión crónica de ACD
+T45	ENFERMEDAD 1343 1372	isquemia en territorio de ACD
+T46	ENFERMEDAD 1502 1532	Oclusión del 100% de ACD media
+T47	ENFERMEDAD 1668 1695	Ictus hemisférico izquierdo
+T48	ENFERMEDAD 1718 1730	Fibromialgia
+T49	ENFERMEDAD 1747 1760	hernia lumbar
+T50	ENFERMEDAD 2140 2181	hipercolesterolemia familiar heterocigota
+T51	ENFERMEDAD 2238 2277	cardiopatía isquémica crónica multivaso
+T52	ENFERMEDAD 2632 2647	angor inestable
+T53	ENFERMEDAD 2666 2686	enfermedad coronaria
+T54	ENFERMEDAD 4122 4146	insuficiencia tricúspide
+T55	ENFERMEDAD 4148 4150	IT
+T56	ENFERMEDAD 6358 6371	valvulopatías
+T57	ENFERMEDAD 7256 7261	angor
+T58	ENFERMEDAD 7276 7363	Hipercolesterolemia familiar heterocigota con estudio genético positivo (mutación M334)
+T59	ENFERMEDAD 7419 7458	Cardiopatía isquémica crónica multivaso
+T60	ENFERMEDAD 4182 4224	arteria carótida interna derecha con placa
+T61	ENFERMEDAD 4306 4350	Arteria carótida interna izquierda con placa
+T110	ENFERMEDAD 931 983	arteria coronaria derecha (ACD) ocluida crónicamente
+T104	ENFERMEDAD 4442 4495	A. vertebra izquierda dominante y derecha hipoplásica
+T118	ENFERMEDAD 4904 4932	irregularidades ateromatosas

@@ -1,0 +1,63 @@
+T33	ENFERMEDAD 167 170	HTA
+T34	ENFERMEDAD 172 174	DM
+T35	ENFERMEDAD 1141 1163	insuficiencia cardiaca
+T36	ENFERMEDAD 1170 1191	fibrilación auricular
+T37	ENFERMEDAD 1600 1619	derrame pericárdico
+T38	ENFERMEDAD 1621 1654	Disfunción biventricular moderada
+T39	ENFERMEDAD 1834 1903	insuficiencia cardiaca descompensada por fibrilación auricular rápida
+T40	ENFERMEDAD 1933 1979	dilatación y disfunción biventricular moderada
+T41	ENFERMEDAD 2082 2101	taquicardiomiopatía
+T42	ENFERMEDAD 2104 2130	miocardiopatía por alcohol
+T43	ENFERMEDAD 2230 2244	apnea de sueño
+T44	ENFERMEDAD 2362 2398	síndrome de apnea-hipopnea del sueño
+T45	ENFERMEDAD 2473 2477	EPOC
+T46	ENFERMEDAD 2488 2498	SAOS grave
+T47	ENFERMEDAD 3327 3349	disfunción ventricular
+T48	ENFERMEDAD 3458 3462	SAOS
+T49	ENFERMEDAD 3503 3525	insuficiencia cardiaca
+T50	ENFERMEDAD 3527 3548	Fibrilación auricular
+T51	ENFERMEDAD 3616 3635	Taquicardiomiopatía
+T52	ENFERMEDAD 3637 3673	Síndrome de apnea-hipopnea del sueño
+T53	ENFERMEDAD 3675 3679	SAOS
+T54	ENFERMEDAD 3688 3692	EPOC
+T55	ENFERMEDAD 3707 3717	Tabaquismo
+T56	ENFERMEDAD 3719 3727	Obesidad
+T57	ENFERMEDAD 176 178	DL
+T58	ENFERMEDAD 1193 1195	FA
+T59	ENFERMEDAD 2995 2997	FA
+T60	ENFERMEDAD 3104 3106	FA
+T61	ENFERMEDAD 3419 3428	FA rápida
+T62	ENFERMEDAD 1459 1466	IT leve
+T63	ENFERMEDAD 146 162	bebedor moderado
+T64	ENFERMEDAD 971 986	daño miocárdico
+T65	ENFERMEDAD 103 110	fumador
+T66	ENFERMEDAD 1745 1764	lesiones coronarias
+T67	ENFERMEDAD 485 492	síncope
+T68	ENFERMEDAD 1245 1270	AI dilatada moderadamente
+T69	ENFERMEDAD 1272 1293	AD dilatada levemente
+T70	ENFERMEDAD 1295 1331	VI levemente dilatado e hipertrófico
+T71	ENFERMEDAD 1498 1534	VM con buena apertura y reflujo leve
+T72	ENFERMEDAD 1557 1575	Vena cava dilatada
+T73	ENFERMEDAD 2400 2404	SAOS
+T74	ENFERMEDAD 3582 3614	isfunción biventricular moderada
+T1	ENFERMEDAD 138 143	obeso
+T20	ENFERMEDAD 1659 1695	vi levemente dilatado e hipertrófico
+T26	ENFERMEDAD 3199 3217	consumo de alcohol
+#1	AnnotatorNotes T33	 HTA: hipertensión arterial
+#2	AnnotatorNotes T34	 DM: diabetes mellitus
+#3	AnnotatorNotes T45	 EPOC: enfermedad pulmonar obstructiva crónica
+#4	AnnotatorNotes T46	 SAOS: síndrome de apnea-hipopnea del sueño
+#5	AnnotatorNotes T48	 SAOS: síndrome de apnea-hipopnea del sueño
+#6	AnnotatorNotes T53	 SAOS: síndrome de apnea-hipopnea del sueño
+#7	AnnotatorNotes T54	 EPOC: enfermedad pulmonar obstructiva crónica
+#8	AnnotatorNotes T57	 DL: dislipemia
+#9	AnnotatorNotes T58	 FA: Fibrilación Auricular
+#10	AnnotatorNotes T59	 FA: Fibrilación Auricular
+#11	AnnotatorNotes T60	 FA: Fibrilación Auricular
+#12	AnnotatorNotes T61	 FA: Fibrilación Auricular
+#13	AnnotatorNotes T62	 IT: insuficiencia tricuspídea
+#14	AnnotatorNotes T68	 AI: aurícula izquierda
+#15	AnnotatorNotes T69	 AD: aurícula derecha
+#16	AnnotatorNotes T70	 VI: ventrículo izquierdo
+#17	AnnotatorNotes T71	 VM: válvula mitral
+#18	AnnotatorNotes T73	 SAOS: síndrome de apnea-hipopnea del sueño

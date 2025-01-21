@@ -1,0 +1,23 @@
+T30	ENFERMEDAD 111 134	alergias medicamentosas
+T31	ENFERMEDAD 194 201	bebedor
+T32	ENFERMEDAD 262 273	cardiopatía
+T33	ENFERMEDAD 312 336	neumonía en lóbulo medio
+T34	ENFERMEDAD 419 435	fiebre reumática
+T35	ENFERMEDAD 1802 1817	derrame pleural
+T36	ENFERMEDAD 2229 2266	Disfunción leve de ventrículo derecho
+T37	ENFERMEDAD 2998 3018	insuficiencia mitral
+T38	ENFERMEDAD 3020 3070	Válvula aórtica calcificada con insuficiencia leve
+T39	ENFERMEDAD 3072 3102	Insuficiencia tricuspídea leve
+T40	ENFERMEDAD 3131 3150	derrame pericárdico
+T41	ENFERMEDAD 3263 3285	infección respiratoria
+T42	ENFERMEDAD 3318 3340	estenosis mitral grave
+T43	ENFERMEDAD 3442 3454	valvulopatía
+T44	ENFERMEDAD 3568 3587	lesiones coronarias
+T45	ENFERMEDAD 3789 3831	Estenosis mitral grave de origen reumático
+T46	ENFERMEDAD 3848 3864	fiebre reumática
+T47	ENFERMEDAD 3881 3912	Infección de vías respiratorias
+T48	ENFERMEDAD 146 153	Fumador
+T49	ENFERMEDAD 2273 2304	AI moderada-gravemente dilatada
+T50	ENFERMEDAD 2306 2379	Válvula mitral y aparato subvalvular gravemente calcificados y engrosados
+T1	ENFERMEDAD 1773 1798	condensaciones pulmonares
+T3	ENFERMEDAD 1533 1550	crecimiento de AI

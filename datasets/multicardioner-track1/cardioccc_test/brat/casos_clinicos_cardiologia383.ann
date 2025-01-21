@@ -1,0 +1,53 @@
+T29	ENFERMEDAD 176 197	hipertensión arterial
+T30	ENFERMEDAD 199 202	HTA
+T31	ENFERMEDAD 263 292	Diabetes mellitus (DM) tipo 2
+T32	ENFERMEDAD 385 395	Dislipemia
+T33	ENFERMEDAD 443 452	Exfumador
+T34	ENFERMEDAD 520 541	Cardiopatía isquémica
+T35	ENFERMEDAD 569 621	síndrome coronario agudo (SCA) tipo angina inestable
+T36	ENFERMEDAD 595 598	SCA
+T37	ENFERMEDAD 626 697	enfermedad de un vaso: descendente anterior (DA) proximal con estenosis
+T38	ENFERMEDAD 836 842	angina
+T39	ENFERMEDAD 844 866	Estenosis aórtica leve
+T40	ENFERMEDAD 1180 1232	Valvulopatía aórtica degenerativa con estenosis leve
+T41	ENFERMEDAD 1367 1392	Insuficiencia tricuspídea
+T42	ENFERMEDAD 1550 1583	Fibrilación auricular paroxística
+T43	ENFERMEDAD 2901 2921	dermopatía diabética
+T44	ENFERMEDAD 4098 4132	bloqueo completo de rama izquierda
+T45	ENFERMEDAD 4161 4165	BCRI
+T46	ENFERMEDAD 4791 4816	Insuficiencia mitral leve
+T47	ENFERMEDAD 4924 4954	Insuficiencia tricuspídea leve
+T48	ENFERMEDAD 5569 5606	reestenosis intrastent en DA proximal
+T49	ENFERMEDAD 5862 5887	estenosis de la DA distal
+T50	ENFERMEDAD 5962 6016	síndrome coronario agudo sin elevación del segmento ST
+T51	ENFERMEDAD 6032 6069	infarto agudo de miocardio (IAM) no Q
+T52	ENFERMEDAD 6060 6063	IAM
+T53	ENFERMEDAD 6171 6196	valvulopatía aortica leve
+T54	ENFERMEDAD 6340 6370	estenosis aórtica levemoderada
+T55	ENFERMEDAD 6400 6403	SCA
+T56	ENFERMEDAD 6484 6527	reestenosis intrastent grave en DA proximal
+T57	ENFERMEDAD 6530 6566	lesiones graves en DA media y distal
+T58	ENFERMEDAD 6953 6962	DM tipo 2
+T59	ENFERMEDAD 7114 7135	Cardiopatía isquémica
+T60	ENFERMEDAD 7137 7158	SCASEST tipo IAM no Q
+T61	ENFERMEDAD 7165 7290	Enfermedad coronaria de 2 vasos: DA proximal severa con reestenosis intrastent y DA media y distal graves; Cx distal moderada
+T62	ENFERMEDAD 7379 7412	Valvulopatía aórtica degenerativa
+T63	ENFERMEDAD 7414 7445	estenosis aórtica leve-moderada
+T64	ENFERMEDAD 7447 7480	Fibrilación auricular paroxística
+T65	ENFERMEDAD 7514 7523	DM tipo 2
+T66	ENFERMEDAD 4818 4880	Válvula aórtica calcificada, móvil, con estenosis aórtica leve
+T67	ENFERMEDAD 90 98	alergias
+T68	ENFERMEDAD 5036 5061	DA proximal con estenosis
+T69	ENFERMEDAD 5157 5179	DA media con estenosis
+T70	ENFERMEDAD 5234 5257	DA distal con estenosis
+T71	ENFERMEDAD 5298 5349	arteria circunfleja (Cx) distal tiene una estenosis
+T72	ENFERMEDAD 4450 4468	eventos arrítmicos
+T73	ENFERMEDAD 282 284	DM
+T74	ENFERMEDAD 948 990	Aurícula izquierda (AI) levemente dilatada
+T75	ENFERMEDAD 1009 1057	Ventrículo izquierdo (VI) levemente hipertrófico
+T76	ENFERMEDAD 4507 4553	aurícula izquierda (AI) moderadamente dilatada
+T77	ENFERMEDAD 4555 4618	Ventrículo izquierdo (VI) no dilatado, con hipertrofia moderada
+T78	ENFERMEDAD 4750 4774	Válvula mitral fibrosada
+T79	ENFERMEDAD 6018 6025	SCASEST
+T80	ENFERMEDAD 6571 6592	lesión moderada en Cx
+T133	ENFERMEDAD 5088 5110	reestenosis intrastent

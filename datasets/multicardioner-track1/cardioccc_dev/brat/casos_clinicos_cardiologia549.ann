@@ -1,0 +1,48 @@
+T1	ENFERMEDAD 531 588	ventrículo izquierdo con hipertrofia concéntrica moderada
+T104	ENFERMEDAD 70 93	alergias a medicamentos
+T105	ENFERMEDAD 130 154	diabetes mellitus tipo 2
+T106	ENFERMEDAD 156 177	hipertensión arterial
+T107	ENFERMEDAD 179 189	dislipemia
+T108	ENFERMEDAD 194 209	hábitos tóxicos
+T109	ENFERMEDAD 239 260	cardiopatía isquémica
+T110	ENFERMEDAD 302 435	enfermedad grave de tronco y tres vasos, en descendente anterior proximal, circunfleja próximo-medial y en interventricular posterior
+T112	ENFERMEDAD 719 752	Fibrilación auricular paroxística
+T113	ENFERMEDAD 882 913	ictus isquémico vertebrobasilar
+T114	ENFERMEDAD 937 961	Enfermedad renal crónica
+T115	ENFERMEDAD 963 966	ERC
+T116	ENFERMEDAD 1000 1020	nefroangioesclerosis
+T117	ENFERMEDAD 1078 1091	Hiperuricemia
+T118	ENFERMEDAD 1096 1110	crisis de gota
+T119	ENFERMEDAD 1189 1198	cataratas
+T122	ENFERMEDAD 1973 1991	angina de esfuerzo
+T123	ENFERMEDAD 4078 4132	hipertrofia concéntrica grave del ventrículo izquierdo
+T124	ENFERMEDAD 4321 4349	Insuficiencia mitral trivial
+T125	ENFERMEDAD 4351 4379	Insuficiencia aórtica ligera
+T126	ENFERMEDAD 4475 4500	Insuficiencia tricuspídea
+T127	ENFERMEDAD 4502 4504	IT
+T128	ENFERMEDAD 4653 4674	fibrilación auricular
+T129	ENFERMEDAD 4676 4678	FA
+T131	ENFERMEDAD 5674 5733	necrosis subendocárdica a nivel de los segmentos anteriores
+T132	ENFERMEDAD 5738 5764	fibrosis difusa epicárdica
+T133	ENFERMEDAD 5931 5962	fibrosis difusa intramiocárdica
+T134	ENFERMEDAD 6342 6378	insuficiencia cardiaca descompensada
+T135	ENFERMEDAD 6773 6795	insuficiencia cardiaca
+T136	ENFERMEDAD 6850 6868	anemia ferropénica
+T137	ENFERMEDAD 6995 7036	hipertrofia grave de ventrículo izquierdo
+T138	ENFERMEDAD 7084 7111	miocardiopatía infiltrativa
+T139	ENFERMEDAD 7195 7206	amiloidosis
+T140	ENFERMEDAD 7357 7371	amiloidosis AL
+T141	ENFERMEDAD 7392 7411	amiloidosis por TTR
+T142	ENFERMEDAD 7578 7600	insuficiencia cardiaca
+T143	ENFERMEDAD 7802 7821	amiloidosis por TTR
+T144	ENFERMEDAD 7985 8021	Insuficiencia cardiaca descompensada
+T145	ENFERMEDAD 8023 8053	Amiloidosis cardiaca por wtTTR
+T146	ENFERMEDAD 8076 8112	Enfermedad renal crónica reagudizada
+T147	ENFERMEDAD 8114 8147	Anemia normocítica con ferropenia
+T148	ENFERMEDAD 8149 8178	Cardiopatía isquémica crónica
+T149	ENFERMEDAD 661 674	valvulopatías
+T151	ENFERMEDAD 1022 1040	Poliposis de colon
+T32	ENFERMEDAD 4381 4420	Dilatación ligera de aurícula izquierda
+T42	ENFERMEDAD 5075 5096	edema miocárdico leve
+T73	ENFERMEDAD 5350 5389	Aurícula izquierda ligeramente dilatada
+T63	ENFERMEDAD 2922 2955	crecimiento de aurícula izquierda

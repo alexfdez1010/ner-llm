@@ -1,0 +1,67 @@
+ANAMNESIS
+Mujer, 58 años.
+No fumadora. Bebedora moderada.
+HTA en tto.
+Insomnio en tto con BDZ.
+Lumbociatalgia.
+Tto habitual: Omeprazol, AAS, Calcio, Celecoxib, Mometasona, Flunitrazepam y Lormetazepam.
+
+Enfermedad actual
+Acude a Urgencias el 17/09/2012 por cuadro febril con tiritona asociado a somnolencia y desorientación marcada.
+En la anamnesis dirigida refiere clínica de dos semanas de evolución, consistente en astenia y anorexia, objetivando fiebre desde el 14/09/2012 asociada a odinofagia, con mejoría parcial con claritromicina.
+
+Exploración física
+TA: 85/55 Fc: 95x" Ta: 37.3oC
+Consciente, desorientada en tiempo y espacio. Eupneica en reposo. Palidez mucocutánea.
+No adenopatías, no rigidez de nuca.
+ACP: Taquicárdica, sin soplos. Hipoventilación global sin ruidos patológicos.
+Resto anodino.
+
+Pruebas complementarias en el Servicio de Urgencias
+ECG: Ritmo sinusal a 90x". 
+Rx tórax: Sin cardiomegalia ni hallazgos patológicos.
+Analítica:
+Sangre: Lactato 35 mg/dL, Procalcitonina 89.8ng/mL, Urea 62 mg/dL, Creatinina 1.36 mg/dL, Na 131 mEq/L, PCR 7 mg/dL, Hb 10.9 g/dL, Hto 31.6%, MCV 100.8 fL, Plaquetas 126000/μL, Leucocitos 27300/μL, IP 48%, INR 1.67.
+Gasometria arterial: pH 7.43, pCO2 33, pO2 49, HCO3 22, EB -1.8, Sat02 85% 
+Sedimento urinario: Sangre ++, Leucocitos +++
+TAC Craneal:
+Sin patología intracraneal aguda.
+Liquido cefalorraquídeo:
+Claro, transparente.
+Proteinas 63 mg/dL, Glucosa 66mg/dL, Hematies 110 cel/mm3, Otras: 7 cel/mm3 (Linfocitos 18%, Segmentados 74%, Monocitos 8%)
+Ecografía abdominal:
+Esplenomegalia homogénea de 14.4 cm. Resto dentro de la normalidad.
+
+Evolución
+Ingresa en UCI el 18/09/2012 con el diagnóstico de Shock séptico de etiología no filiada, con el foco urinario como el más probable, requiriendo dosis bajas de inotrópicos y vasopresores.
+Cinco horas más tarde, la paciente se encuentra estable hemodinamicamente, pudiendo retirarse inotrópicos y vasopresores. Sin embargo, persiste desorientación y somnolencia, con afasia y hemiplejia derecha de nueva aparición.
+Se decide realización de TAC craneal urgente
+Es valorada por Neurología, sin realizarse procedimiento invasivo intravascular por antecedente de punción lumbar en las 24h previas, y se administra antiagregación con AAS.
+Se realiza ETT urgente, que objetiva VI no dilatado con IM severa.
+El 19/09/2012, por la mañana, presenta deterioro del nivel de conciencia, con asimetría pupilar clara y postura de decorticación. Se requiere IOT y conexión a ventilación mecánica y nuevo TAC craneal.
+Pese al tratamiento, progresa el deterioro neurológico, persistiendo intubada y con únicamente algunos reflejos de tronco.
+No presenta pico febril en ningún momento.
+En la anamnesis dirigida a los familiares, no se objetiva posible foco de endocarditis.
+
+ETE 19/09/2012
+Vegetación poco móvil y densidad homogénea de 15x14 mm, con aneurisma perforado asociado sobre valva anterior mitral.
+Insuficiencia mitral severa con 2 jets, uno que se origina a través de la perforación del aneurisma y se dirige hacia la pared posterior de aurícula izquierda con efecto coanda, con otro de menor cuantía a nivel central. 
+Insuficiencia tricúspide severa por prolapso.
+Insuficiencia aórtica ligera degenerativa.
+
+Cultivos
+Hemocultivos 
+Recogidos al ingreso.
+Positivo para Streptococcus mitis
+Sensible a Penicilina, Amoxicilina, Ceftriaxona, Cotrimoxazol
+Resistente a Clindamicina y Eritromicina.
+
+El curso clínico progresa hasta la muerte cerebral, el 21/09/2012, a las 96 horas de su ingreso en UCI.
+Se solicita TAC cervico-toraco-abdomino-pélvico, por si pudiera considerarse donante.
+TAC body: Lesiones en bazo y riñón derecho compatibles con pequeños infartos embólicos.
+
+IMPRESIÓN DIAGNÓSTICA
+ENDOCARDITIS INFECCIOSA SOBRE VÁLVULA NATIVA MITRAL POR STREPTOCOCCUS MITIS.
+INSUFICIENCIA MITRAL SEVERA POR PERFORACIÓN A NIVEL DE VEGETACIÓN DE VALVA ANTERIOR MITRAL.
+SHOCK SÉPTICO.
+EMBOLISMOS SÉPTICOS A NIVEL CEREBRAL CON TRANSFORMACIÓN HEMORRÁGICA Y MUERTE ENCEFÁLICA.

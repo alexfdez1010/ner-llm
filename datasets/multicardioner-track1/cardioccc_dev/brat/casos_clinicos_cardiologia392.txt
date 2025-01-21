@@ -1,0 +1,39 @@
+Varón de 38 años de edad acude al Servicio de Urgencias por disnea.
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Sin antecedentes familiares de interés, ni alergias conocidas. Fumador de 10 cigarrillos/día, bebedor ocasional de fines de semana y exconsumidor esporádico de cocaína y marihuana. No toma tratamiento habitual. Paciente con vida activa, asintomático desde el punto de vista cardiológico hasta dos meses previos al ingreso que comienza con deterioro progresivo de clase funcional con disnea de moderados esfuerzos hasta hacerse de reposo. Por este motivo acudió al hospital una semana previa al ingreso, con tos de predominio nocturno, leve dolor en la región anterior de tórax tipo pinchazo de manera intermitente, siendo diagnosticado de posible infección de vías respiratorias. Se pautó tratamiento antibiótico y corticoide. Desde entonces empeoramiento clínico con disnea paroxística nocturna, ortopnea de hasta dos almohadas asociada a edemas hasta 2/3 en miembros inferiores y aumento de peso en la última semana.
+A su llegada a Urgencias TA 110/60. FC: 120 lpm. SatO2 basal: 97 %. Peso: 74 kg.
+Buen estado general: bien hidratado, nutrido y perfundido, normocoloreado. Cuello: no se palpan adenopatías ni evidencia de signos de ingurgitación yugular. Auscultación cardiaca: ritmo de galope por R3. Auscultación pulmonar: crepitantes bibasales en tercio inferior de ambos campos pulmonares. Abdomen: RHA +, blando depresible no doloroso a la palpación profunda ni superficial. Miembros inferiores: edemas hasta tercio inferior de ambas extremidades inferiores sin fóvea, pulsos periféricos (+). No signos de trombosis venosa profunda (TVP).
+
+PRUEBAS COMPLEMENTARIAS
+Pruebas complementarias al ingreso ECG: taquicardia sinusal a 120 lpm. QRS estrecho con alteraciones inespecíficas de la repolarización (ondas T negativas en I, aVL y de V4 a V6).
+Hemograma: leucocitos 8.000. Hb 14,7 gr/dl. Plaquetas 217.000/ul.
+Hemostasia: APTT: 31,3. TP: 12,8. INR: 1,11.
+Bioquímica: glucosa 121 mg/dl. Creatinina 0,9 mg/dl. Albúmina 3,6 gr/dl. Calcio 8,6 mg/dl. GOT 29 U/l. GPT 50 U/l. CK 111. Troponina 0,09 ng/ml. Bilirrubina 0,4 mg/dl. Amilasa 44. Lipasa 37. Na 144. K 4,2 mmol/l. Cloro 109 mmol/l. GOT: 20 U/I GPT: 32 U/I GGT: 117U/I 4. BNP: 405 pg/ml.
+Gasometría arterial: pH 7,49, pCO2 27 mmHg, pO2 89 mmHg, HCO3 20 mmol/l.
+Radiografía de tórax: cardiomegalia. No infiltrados parenquimatosos. Redistribución vascular con datos de ICC.
+Ecocardiograma portátil (Vscan): VI dilatado con disfunción sistólica global severa con hipocinesia generalizada y disfunción sistólica de VD. IM moderada. IT severa. No derrame pericárdico.
+Ante los hallazgos se decide su ingreso en planta para tratamiento y completar estudio.
+
+Pruebas complementarias en planta ECG: dilatación y disfunción severa de VI con FEVI en torno al 15 %. Llenado restrictivo con IM ligera. Dilatación y disfunción de VD con PSAP en torno a 55 mmHg.
+Bioquímica: TSH: 2,28. PCR: 3,4. Ferritina: 59 ng/ml. Vitamina B12: 464 ng /dl A.
+Fólico: 5. HDL: 32 mg/dl. LDL: 99,4 mg/dl.
+Serologías: anti VIH 1-2 (-). IgM anti CMV(-). VEB IgG(-). Toxoplasma IgG(-). IgG antiHBc(-). VHC(-).
+Cateterismo: arterias coronarias sin lesiones significativas.
+Radiografía de tórax (al alta): cardiomegalia sin datos de congestión pulmonar.
+Test de la marcha (previo al alta): se realiza test de los 6 minutos, realizando 426 metros, finalizando a 100- 110 lpm y con una saturación basal del 95 %.
+Resonancia magnética cardiaca (previo al alta): miocardiopatía dilatada con disfunción severa de VI y ligera de VD. IM e IT leves. No se observan imágenes de fibrosis miocárdica.
+
+EVOLUCIÓN
+En planta de Hospitalización se inicia tratamiento con betabloqueantes, antialdosterónicos e IECA teniendo que suspenderse estos últimos por cuadro de hipotensión arterial de hasta 85/40 mmHg sintomática. Precisa los primeros días del ingreso soporte inotrópico con levosimendán y tratamiento depletivo intravenoso con diuréticos, llegando a perder aproximadamente 8 kg de peso desde su ingreso.
+Permaneció monitorizado con telemetría durante el ingreso objetivando únicamente extrasístoles ventriculares aisladas.
+Se realizó ecocardiograma reglado que confirmaba la presencia de miocardiopatía dilatada con disfunción de VI severa, sin valvulopatías significativas que la justificara. Con el objetivo de descartar enfermedad coronaria se realizó coronariografía descartando la misma.
+Por tendencia a la taquicardia sinusal con cifras de TA 90-100/50-60 que impedían incrementar dosis de betabloqueantes, se decide asociar ivabradina consiguiéndose mantener FC en reposo alrededor de 70-80 lpm.
+Con el objetivo de estratificación pronóstica y en vistas a valorar fibrosis miocárdica, se realiza RM descartándose la misma, mostrando discreta mejoría de la función de VI (FEVI 25 %) y VD con respecto al estudio ecocardiográfico inicial.
+También con fines pronósticos se realizó previo al alta, test de la marcha alcanzando más de 300 metros en 6 minutos y sin desaturación.
+Ante la estabilidad y buena evolución clínica, es dado de alta quedando pendiente de intentar optimizar el tratamiento farmacológico de forma ambulatoria en consultas, así como reevaluación temprana con el objetivo de plantear DAI en el caso de no mejorar la función ventricular.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca congestiva.
+Miocardiopatía dilatada idiopática. Disfunción VI severa. Disfunción VD ligera.
+Arterias coronarias sin lesiones significativas.

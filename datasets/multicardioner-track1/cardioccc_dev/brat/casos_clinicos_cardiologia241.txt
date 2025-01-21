@@ -1,0 +1,63 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+
+Antecedentes sociales y familiares:
+Paciente varón de 22 años, estudiante de medicina.
+Delgado. Fumador de 1 cigarrillo por día desde hace 3 años. Consumidor de cannabis de manera ocasional.
+Abuelo materno con infarto a los 60 años.
+Madre diagnosticada de hipercolesterolemia familiar con estudio genético positivo.
+
+Antecedentes personales:
+Factores de riesgo cardiovascular (FRCV): no hipertensión arterial (HTA), diabetes mellitus (DM) o dislipemia (DL) conocidas.
+Sin antecedentes cardiológicos de interés.
+Otros antecedentes:
+Colon irritable. Migraña.
+Medicación habitual:
+No toma ninguna medicación.
+
+Enfermedad actual
+El paciente acude a urgencias por dolor torácico opresivo de gran intensidad, que inició en reposo, que se irradia a brazo izquierdo, no modificado con los movimientos inspiratorios, clínica vegetativa acompañante. A su llegada urgencias el paciente llevaba más de una hora de dolor, sin mejoría desde su inicio. Refería síntomas de opresión precordial con el ejercicio desde 3 meses antes. No síntomas sugestivos de liberación catecolaminérgica.
+
+Exploración física
+A su llegada a urgencias se encontraba afebril, normoperfundido, luce afectado por el dolor torácico. SatO2 96% con aire ambiente, tensión arterial 123/84 mm/Hg, frecuencia cardiaca 92 l/min.
+Cuello: simétrico, no ingurgitación yugular ni reflujo hepatoyugular. Sin soplos en la auscultación carotídea.
+Auscultación cardiaca: ruidos cardiacos regulares sin soplos o extratonos.
+Auscultación pulmonar: murmullo vesicular presente, campos bien ventilados, sin ruidos sobreañadidos.
+Exploración abdominal: anodina.
+Miembros inferiores: simétricas, sin signos de TVP ni edemas.
+
+PRUEBAS COMPLEMENTARIAS
+
+Hemograma: hemoglobina 17,2 g/dl, hematocrito 49,5%, hematíes 5.66x10 , leucocitos 21.800, neutrófilos 11.570, linfocitos 8.270, eosinófilos 520, plaquetas 429.000.
+Bioquímica: glucosa 124 mg/dl, urea 37 mg/dl, creatinina 1,19 mg/dl, filtrado glomerular > 90 ml/min/1,78 m , ion sodio 142 mmol/l, ion potasio 3,2 mmol/l, troponina T 7 ng/l, creatina cinasa 225 U/l, urato 6,8 mg/dl, fosfatasa alcalina 121 U/l, AST 37 U/l, ALT 59 U/l, GGT 45 U/l, bilirrubina total < 1,0 mg/dl, colesterol total 98 md/dl, HDL 41 mg/dl, triglicéridos 43 mg/dl, colesterol LDL calculado 49 mg/dl, HbA1C 5,6%, TSH 2,33 mU/l.
+Coagulación: normal en todos sus parámetros.
+Tóxicos en orina: benzodiacepinas, opiáceos, cocaína, cannabinoides y metanfetaminas negativas.
+Electrocardiograma: ritmo sinusal a 80 L/min, intervalo PR normal, QRS estrecho, eje normal en +40, elevación del segmento ST de hasta 3 mm en cara anterolateral con imagen especular en cara inferior.
+Coronariografía: arteria CD sin lesiones angiográficas. Arteria Cx sin lesiones angiográficas. Arteria DA con oclusión trombótica en su tercio medio, inmediatamente distal a la salida de la primera diagonal.
+Angioplastia: con XB 3.5 se avanza Sion a DA distal recuperando flujo. Por abundante contenido trombótico se administra tirofibán i.v. (bolo + perfusión). Se realiza implante directo de stent farmacoactivo Synergy 4 x 20 mm en segmento medio-proximal. Por imagen de infraexpansión a nivel medio del stent se realiza posdilatación con balón NC de 4,5 mm logrando adecuada expansión. Se objetiva distal alstent trombo flotando intraarterial por lo que se decide realizar tromboaspiración con dispositivo Pronto extrayendo un trombo de gran tamaño de color rojo. Excelente resultado angiográfico tras tromboaspiración y flujo TIMI 3 final.
+Ecocardiograma: ventrículo izquierdo (VI) no dilatado con acinesia extensa anterior, anteroseptal y lateral (segmentos medios y casquete apical) con contractilidad normal de territorio inferior, infero-lateral y septo inferior basal.
+
+
+Analítica extendida:
+Marcadores de daño miocárdico seriados (al ingreso, a las 3 horas, 12 horas y 36 horas, respectivamente):
+Troponina T ultrasensible (ng/l): 7 -> 7.611 -> 9.234 -> 3.215
+Creatinina cinasa (U/l): 225 -> 3.764 -> 3.546 -> 912
+Estudio genético para hipercolesterolemia familiar: negativo. Liporpoteína A: 90,7 mg/dl (normal < 30 mg/dl).
+Cromatografía y electroforesis: diuresis c.acido: 1.850. Tiempo de recogida (cromatografía): metanefrina 24 horas: 198,7 μg/24 horas. Normetanefrina 24 horas: 377,4 μg/24 horas.
+Toxicología: metanefrina 30. Normetanefrina 122
+Serología síndrome antifosfolípido: anticardiolipina IgG e IgM negativos (< 1,6 GPL U/ml y 0,8 MPL-U/ml, respectivamente), antibeta2 glicoproteína IgM e IgG negativas (< 1,4 U/ml y 1,5 U/ml, respectivamente).
+Interconsulta endocrinología: los niveles de metanefrinas y metanefrinas en orina son normales y en plasma se observa únicamente una mínima elevación de la normetanefrina, lo que unido a la ausencia de clínica compatible hace muy improbable la presencia de feocromocitomoa o parnaganglioma.
+
+EVOLUCIÓN CLÍNICA
+Se presenta el caso de un paciente muy joven de 23 años que ingresa en cardiología por un síndrome coronario agudo con elevación del segmento ST (SCACEST) en cara anterior extenso, por lo que se activa código corazón. Se realiza una coronariografía emergente en la que se aprecia enfermedad coronaria de un vaso, con oclusión trombótica de la arteria coronaria DA media, procediéndose a realizar angioplastia con implante de un stent farmacoactivo, perfusión de tirofibán y aspiración de los restos del material trombótico.
+Durante su estancia en planta de hospitalización el paciente se mantiene asintomático, procediéndose al estudio causal de este síndrome coronario agudo. Llama a la atención que el paciente como factores de riesgo cardiovasculares apenas es fumador con un consumo acumulado menor a 1 paquete/año, sin otras metabolopatías conocidas. Hay antecedentes en rama materna de cardiopatía isquémica y su madre está diagnosticada de hipercolesterolemia familiar.
+Se realiza analítica con perfil lipídico en la que no se aprecian valores de colesterol total o LDL elevados de manera llamativa, más bien de bajo perfil de riesgo CV. Se solicitan tóxicos en orina que son negativos, procediéndose al estudio de coagulopatías que resultan también negativos. Se solicitan metanefrinas en suero y orina e interconsulta a endocrinología, quienes valoran como baja probabilidad que presente un feocromocitoma. Por último, se decide ampliar el perfil lipídico con una lipoproteína A (Lp(a)), que resulta elevada para riesgo cardiovascular con un valor 3 veces superior al límite superior de la normalidad.
+El paciente evoluciona de manera satisfactoria, sin clínica de insuficiencia cardiaca aunque al alta presenta disfunción moderada del VI, a expensas de acinesia extensa anterior, anteroseptal y lateral (segmentos medios y casquete apical).
+
+
+DIAGNÓSTICO
+SCACEST anterior extenso. Situación hemodinámica KK1.
+Enfermedad coronaria de un vaso (DAp). Revascularización total percutánea mediante un stent farmacoactivo.
+Disfunción moderada del VI (FEVI 44%).
+Hiperlipoproteinemia A.

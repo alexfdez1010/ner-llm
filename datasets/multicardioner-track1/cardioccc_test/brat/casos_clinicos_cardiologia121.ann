@@ -1,0 +1,15 @@
+T24	ENFERMEDAD 293 313	Alergia a penicilina
+T25	ENFERMEDAD 334 357	intoxicación por drogas
+T26	ENFERMEDAD 720 748	consumo de tóxicos y cocaína
+T27	ENFERMEDAD 961 983	insuficiencia cardiaca
+T28	ENFERMEDAD 1388 1418	patología pleuropulmonar aguda
+T29	ENFERMEDAD 1794 1827	IAM con elevación del segmento ST
+T30	ENFERMEDAD 2391 2419	taquicardia supraventricular
+T31	ENFERMEDAD 2422 2445	taquicardia ventricular
+T32	ENFERMEDAD 2589 2598	asistolia
+T33	ENFERMEDAD 2697 2706	asistolia
+T34	ENFERMEDAD 2759 2775	ruptura cardiaca
+T35	ENFERMEDAD 2858 2937	Infarto agudo de miocardio con elevación del segmento ST por consumo de cocaína
+T36	ENFERMEDAD 1239 1254	daño miocárdico
+T37	ENFERMEDAD 857 882	mala perfusión periférica
+T61	ENFERMEDAD 1752 1767	estado preshocK

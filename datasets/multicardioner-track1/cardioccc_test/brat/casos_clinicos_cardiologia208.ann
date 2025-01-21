@@ -1,0 +1,37 @@
+T44	ENFERMEDAD 81 104	alergias medicamentosas
+T45	ENFERMEDAD 151 161	dislipemia
+T46	ENFERMEDAD 191 217	Fumador activo de cannabis
+T47	ENFERMEDAD 239 258	exfumador de tabaco
+T48	ENFERMEDAD 316 319	HTA
+T49	ENFERMEDAD 325 342	diabetes mellitus
+T50	ENFERMEDAD 344 346	DM
+T51	ENFERMEDAD 400 417	Cáncer testicular
+T52	ENFERMEDAD 419 427	seminoma
+T53	ENFERMEDAD 570 598	Espondilitis anquilopoyética
+T54	ENFERMEDAD 1766 1791	trombosis venosa profunda
+T55	ENFERMEDAD 1793 1796	TVP
+T56	ENFERMEDAD 2601 2620	bradicardia sinusal
+T57	ENFERMEDAD 2818 2840	insuficiencia cardiaca
+T58	ENFERMEDAD 2986 3005	trombo intraluminal
+T59	ENFERMEDAD 3699 3717	trombo ventricular
+T60	ENFERMEDAD 3723 3736	valvulopatías
+T61	ENFERMEDAD 3741 3760	derrame pericárdico
+T62	ENFERMEDAD 3869 3891	trombóticos arteriales
+T63	ENFERMEDAD 4139 4146	fumador
+T64	ENFERMEDAD 4149 4160	dislipémico
+T65	ENFERMEDAD 4185 4204	seminoma testicular
+T66	ENFERMEDAD 4398 4413	daño miocárdico
+T67	ENFERMEDAD 4463 4519	infarto agudo de miocardio sin elevación del segmente ST
+T68	ENFERMEDAD 4818 4877	trombo organizado en segmento medio de DA con una estenosis
+T69	ENFERMEDAD 5315 5321	trombo
+T70	ENFERMEDAD 5764 5781	cáncer testicular
+T71	ENFERMEDAD 5920 5949	trombóticos agudos coronarios
+T72	ENFERMEDAD 6049 6128	Trombosis aguda de descendente anterior secundaria a tratamiento con cisplatino
+T73	ENFERMEDAD 6279 6287	Seminoma
+T74	ENFERMEDAD 4521 4528	IAMSEST
+T75	ENFERMEDAD 6040 6047	IAMSEST
+T76	ENFERMEDAD 1849 1864	daño miocárdico
+T77	ENFERMEDAD 3441 3447	trombo
+T78	ENFERMEDAD 293 314	hipertención arterial
+T142	ENFERMEDAD 5334 5387	lesiones significativas subyacentes en los tres vasos
+T143	ENFERMEDAD 6223 6248	lesiones ateroscleróticas

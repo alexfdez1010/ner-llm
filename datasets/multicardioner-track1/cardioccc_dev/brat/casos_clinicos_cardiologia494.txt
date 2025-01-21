@@ -1,0 +1,33 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Paciente de 60 años, con antecedentes de HTA, dislipemia, EPOC, ictus isquémico temporoparietal izquierdo sin secuelas posteriores, cardiopatía dilatada de origen isquémico, que debutó en forma de IAM inferolateral 20 años antes, con ecocardiograma posterior que mostraba ventrículo izquierdo severamente dilatado con disfunción ventricular severa (FEVI 20 %) secundaria a acinesia inferoposterior e hipocinesia del resto de segmentos, con insuficiencia mitral ligera, sin otras valvulopatías significativas. Se decidió implante de DAI como prevención primaria y TRC, con mejoría de función sistólica (FEVI 35 %).
+El paciente consulta en Urgencias por disnea de 4 días de evolución, que se acompaña de tos y fiebre. Hemodinámicamente TA 96/65 mmHg, febril a 38°C, Saturación de 02 92 % con VMK 24 %. A la exploración física destacan abundantes roncus y sibilancias de predominio en campos derechos, con crepitantes bibasales, soplo sistólico de predominio en foco mitral, edemas bimaleolares e ingurgitación yugular.
+Gasometría arterial con Fi02 del 24 % muestra pH 7.476, pC02 34 mmHg, p02 59 mmHg, HCO3 24,5 mmol/L. Analítica con mínima elevación de reactantes de fase aguda (PCR 1,74 mg/dl) y leucocitosis 11910/L con neutrofilia 81 %, función renal ligeramente alterada (creatinina de 1,32 mg/dl y FG 54 ml/min), ionograma correcto.
+Radiografía de tórax con signos de redistribución vascular así como imagen consolidativa en lóbulo medio derecho, sugestiva de proceso neumónico.
+ECG en ritmo sinusal 95 lpm, con ritmo ventricular estimulado por TRC.
+Se orienta como infección respiratoria y descompensación de insuficiencia cardiaca en paciente con cardiopatía isquémica crónica en fase dilatada. Se inicia tratamiento diurético y antibioterapia.
+
+PRUEBAS COMPLEMENTARIAS
+Radiografía de tórax: signos de redistribución vascular así como imagen consolidativa en lóbulo medio derecho, sugestiva de proceso neumónico.
+ECG: ritmo sinusal 95lpm, con ritmo ventricular estimulado por TRC.
+Ecocardiograma al ingreso: FEVI 35-40 %. Insuficiencia mitral severa con restricción del velo posterior y probable prolapso del velo anterior. Severa dilatación de ventrículo izquierdo ligera-moderadamente hipertrófico, con moderada reducción de la motilidad por acinesia inferolateral e inferior. FEVI 35-40 %. Moderada dilatación de aurícula izquierda. Ventrículo derecho con motilidad conservada. Cable de dispositivo en cavidades derechas. Insuficiencia tricuspídea ligera que permite estimar PAPs 46 mmHg. Sin derrame pericárdico.
+Ecocardiograma transesofágico: insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior y prolapso de velo anterior a nivel de A2 con imagen de rotura de cuerdas.
+Coronariografía: dominancia derecha. Descripción del Tronco: lesión 20 % distal.
+Descripción descendente anterior: largo desarrollo, muy calcificada. Lesión 50 % al tracto medio. Descripción circunfleja: muy calcificada. Lesión 30 % proximal.
+Descripción coronaria derecha: ocluida proximal (desde 2002). Vaso distal malo.
+Ecocardiograma durante implante: implante de dos MitraClip (x2) a nivel segmentos A2 P2 de la válvula mitral. Dispositivos bien posicionados con fuga ligera residual (grado I/IV).
+Fluoroscopia: implante de 2 MitraClip.
+
+EVOLUCIÓN
+Durante la hospitalización el paciente presenta mejoría desde el punto de vista infeccioso.
+Sin embargo, presenta empeoramiento del cuadro de insuficiencia cardiaca, entrando en shock cardiogénico, requiriendo ventilación mecánica no invasiva y soporte inotrópico. Se realiza ecocardiograma transtorácico que muestra insuficiencia mitral severa, con restricción del velo posterior y posible prolapso también del velo anterior. Para mejor visualización del mecanismo de insuficiencia mitral se realiza ecocardiograma transesofágico que confirma insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior y prolapso de velo anterior a nivel de A2 con imagen de rotura de cuerdas. Se realiza coronariografía que muestra lesiones moderadas de la coronaria izquierda con oclusión crónica de coronaria derecha, ya presente en estudios previos.
+El paciente presenta evolución clínica tórpida, con shock cardiogénico refractario a tratamiento médico, requiriendo intubación orotraqueal, ventilación mecánica invasiva e implante de balón de contrapulsación aórtico.
+Se valora el caso conjuntamente con el equipo de Cirugía Cardiaca y Hemodinámica y dado el alto riesgo quirúrgico se decide implante de MitraClip. El paciente llega a la sala de hemodinámica con soporte inotrópico con dobutamina, balón de contrapulsación aórtico, intubación orotraqueal y ventilación mecánica. Se realiza procedimiento guiado bajo ecocardiograma transesofágico y escopia. Ante la dificultad del caso se plantea desde el inicio estrategia al menos con 2 clips. Se logra implantar primer clip tras múltiples intentos, pudiendo implantar posteriormente un segundo clip, más lateral, logrando reducir con este la IM de grado 4 a 1. Gradiente medio post de 2 mmHg.
+Posteriormente el paciente presenta buena evolución clínica, pudiendo retirarse balón de contrapulsación, soporte ionotrópico y ventilatorio, siendo dado de alta estable hemodinámicamente sin semiología de insuficiencia cardiaca. Ecocardiograma de control al alta muestra FE estimada 25-30 %, implante de MitraClip (x2) a nivel segmentos A2 P2 de la válvula mitral con dispositivos bien posicionados con fuga leve residual (grado I/IV).
+Seis meses después del alta, el paciente persiste en clase funcional NYHA I-II, sin descompensaciones cardiacas.
+
+DIAGNÓSTICO
+Neumonía derecha del lóbulo medio adquirida en la comunidad.
+Insuficiencia cardiaca con disfunción biventricular.
+Shock cardiogénico.
+Insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior y prolapso de velo anterior a nivel de A2 con imagen de rotura de cuerdas.
+Cardiopatía isquémica crónica en fase dilatada.

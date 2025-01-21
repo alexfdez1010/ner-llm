@@ -1,0 +1,48 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+No alergias medicamentosas conocidas.
+Factores de riesgo cardiovascular (FRCV): hipertensión arterial (HTA), dislipemia, hiperuricemia (sin tratamiento), exfumador.
+Antecedentes cardiológicos: insuficiencia aórtica reumática.
+Otros antecedentes: hemocromatosis (descrita mutación: doble heterocigoto, C282YH63D), glaucoma.
+Intervenciones quirúrgicas: quiste hidatídico intervenido en 1969.
+Tratamiento habitual: nevibolol/hidroclorotiazida 5/25 (1-0-1), ácido acetilsalicílico 100 (0-1-0), ezetimiba 10 (0-0-1), latanoprost colirio 50/2,5.
+
+ENFERMEDAD ACTUAL
+Asintomático hasta tres meses previos al ingreso, cuando comienza con disnea de moderados esfuerzos, de carácter progresivo hasta hacerse de mínimos esfuerzos en los últimos 15 días, acompañada de ortopnea y tos nocturna. No refiere sensación subjetiva de aumento del perímetro abdominal, edema en miembros o disminución de la diuresis. No clínica de angor, palpitaciones ni clínica infecciosa. Como otra clínica únicamente refiere sensación de parestesias nocturnas en ambos miembros superiores, más notables en miembro superior derecho.
+
+EXPLORACIÓN FÍSICA
+Tensión arterial (TA) 152/82. Frecuencia cardiaca (FC) 86 lpm. Afebril. Saturación basal 98%. Aumento de la presión venosa central (PVC).
+Auscultación cardiaca: ruidos cardiacos rítmicos. Soplo diastólico en foco aórtico II/IV que irradia a foco mitral.
+Auscultación pulmonar: hipoventilación global con sibilancias en hemitórax izquierdo y abolición del murmullo vesicular en base derecha.
+Abdomen: cicatriz en hipocondrio derecho. Blando, depresible, no doloroso.
+Hepatomegalia de 2 cm.
+Extremidades inferiores: pulsos periféricos conservados. Edema con fóvea bilateral hasta rodilla.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): ritmo sinusal a 88 lpm. PR 170 ms. QRS estrecho con morfología de BIRDHH. Presencia de QS en cara inferior.
+Radiografía de tórax: Índice cardiotorácico (ICT) límite. Redistribución vascular con derrame pleural bilateral, de mayor cuantía en pulmón derecho.
+Analítica: hemograma: 8.300 leucocitos mm/c, Hb 18,3 g/dl, 226.000 plaquetas.
+Coagulación: TP 100%, INR 1, TTPa 28,2%. Bioquímica: glucosa 84 mg/dl, urea 69 mg/dl, creatinina 1,57 mg/dl, FG 43 ml/min, ácido úrico 7,16 mg/dl, GOT 41 U/l, GPT 55 U/l, fosfatasa alcalina 64 U/l, GGT 230 U/l, colesterol total 195 mg/dl, colesterol LDL 131 mg/dl, colesterol HDL 50 mg/dl, triglicéridos 74 mg/dl, hierro 106 mcg/dl, transferrina 181 mcg/dl, IST 59%, ferritina 247 ng/dl, vitamina B12 948 pg/ml, ácido fólico 13,50 nmol/l, sodio 140 mEq/l, potasio 4,7 mEq/l, hormonas tiroideas normales. HbA1C 6%. Inmunoglobulinas en suero: cadenas kappa 33,9 mg/ml, cadenas lambda 17,6 mg/ml, cociente kappa-lambda 1,93 (normal 0,26-2). Estudio de proteínas en orina: normal. NT-proBNP 18367 pg/ml.
+Ecocardiograma transtorácico: ventrículo izquierdo (VI) hipertrófico con SIV de 15 mm, moteado en su interior y anomalías segmentarias de la contractilidad apical. Fracción de eyección del ventrículo izquierdo (FEVI) 40%. Strain longitudinal de −8%. Ventrículo derecho (VD) de tamaño y función normal (TAPSE 19 mm). Dilatación auricular izquierda leve. Válvula aórtica tricúspide con velos fibrosados e insuficiencia gravea. Insuficiencia tricuspídea (IT) leve, sin datos de HTP en reposo.
+Resonancia magnética cardiaca (RMC): VI de tamaño normal (45 mm) con engrosamiento miocárdico, siendo los grosores mayores los que se describen a continuación: septo anterior medio 16 mm, septo inferior medio 11 mm, septo apical 12 mm, pared postero-inferior apical: 10 mm. FEVI 37%. VTD-VI 134 ml (85 ml/m2), VTS-VI 84 ml (50 ml/m2), VL-VI 50 ml (32 ml/m2). VD de tamaño normal (33 mm) con disfunción ligera por alteración en la contractilidad longitudinal y radial (esta última en menor medida). No se observan defectos de perfusión. No se consigue anular la señal del miocardio, identificando un realce tardío intramiocárdico, parcheado y difuso por todo el miocardio del ventrículo izquierdo, también por el ventrículo derecho con realce de la pared de ambas aurículas. Aurícula derecha (AD) normal (17 cm2). Aurícula izquierda (AI) dilatada (27 cm2). Válvula aórtica trivalva con velos esclerosados y apertura ligeramente reducida. Turbulencia de flujo en relación con insuficiencia aórtica (IAo). Conclusión: los hallazgos descritos son compatibles con la sospecha clínica de amiloidosis cardiaca.
+Gammagrafía miocárdica: se han obtenido imágenes del tórax en proyecciones anterior y posterior. Se observa captación del radiofármaco en el músculo cardiaco, hallazgo compatible con amiloidosis por depósitos de transtiretina.
+Electromiograma: el estudio neurofisiológico objetiva datos compatibles con síndrome del túnel carpiano bilateral de intensidad moderada y predominio derecho.
+
+
+EVOLUCIÓN CLÍNICA
+Durante su estancia en planta de hospitalización, el paciente responde favorablemente al tratamiento deplectivo con diuréticos, principalmente del asa. También recibe tratamiento con inhibidores del receptor de mineralcorticoides, que hay que ajustar debido a la afectación de la función renal, que se ve detrimentada por el contraste utilizado en las diversas pruebas diagnósticas.
+Como incidencia durante la hospitalización el paciente presenta múltiples rachas de taquicardia ventricular monomórfica no sostenida (TVMNS) en la telemetría, que requieren tratamiento con betabloqueante a dosis bajas a pesar de estar en situación de fallo cardiaco, debido a los problemas que suponen el uso de otros antiarrítmicos en la amiloidosis.
+Aunque el paciente presente alteraciones segmentarias de la contractilidad en el ecocardiograma transtorácico y múltiples factores de riesgo cardiovascular, debido al detrimento renal y la baja sospecha clínica se desestima la realización de un cateterismo diagnóstico para descartar afectación isquémica.
+Debido a la clínica neurológica que refería el paciente, se decide realizar electromiograma que confirma síndrome de túnel del carpo bilateral y se realiza interconsulta a neurología, quienes recomiendan ampliar estudio de forma ambulatoria por posible polineuropatía.
+En cuanto a la progresión de insuficiencia aórtica, se desestima el tratamiento quirúrgico ya que la sintomatología de disnea se explica principalmente por la enfermedad de depósito (predominio derecho), la FEVI es normal y no presenta dilatación ventricular izquierda, por lo que no cumple indicación de sustitución valvular y se considera oportuno el seguimiento ambulatorio.
+Se deriva al alta a consulta de cardiopatías familiares y a consulta de neurología previa electromiografía de miembros inferiores.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca (primer episodio).
+Amiloidosis por transtiretina (pendiente de completar filiación).
+Insuficiencia aórtica grave.
+FEVI moderadamente deprimida.
+Síndrome del túnel del carpo bilateral.
+Insuficiencia renal crónica, estadio 3A.
+Posible polineuropatía periférica.

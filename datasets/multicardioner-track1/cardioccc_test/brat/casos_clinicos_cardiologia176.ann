@@ -1,0 +1,37 @@
+T35	ENFERMEDAD 110 131	cardiopatía isquémica
+T36	ENFERMEDAD 162 188	infarto agudo de miocardio
+T37	ENFERMEDAD 214 243	cardiopatía isquémica crónica
+T38	ENFERMEDAD 301 322	Hipertensión arterial
+T39	ENFERMEDAD 350 379	Diabetes mellitus (DM) tipo 2
+T40	ENFERMEDAD 369 371	DM
+T41	ENFERMEDAD 472 500	hipercolesterolemia familiar
+T42	ENFERMEDAD 521 575	Cardiopatía isquémica crónica con enfermedad multivaso
+T43	ENFERMEDAD 679 733	síndrome coronario agudo sin elevación del segmento ST
+T44	ENFERMEDAD 749 786	infarto agudo de miocardio (IAM) no Q
+T45	ENFERMEDAD 777 780	IAM
+T46	ENFERMEDAD 839 859	enfermedad multivaso
+T47	ENFERMEDAD 865 950	lesión grave en tronco distal que afecta al origen de la arteria descendente anterior
+T48	ENFERMEDAD 959 1016	lesión grave en tercio medio de arteria coronaria derecha
+T49	ENFERMEDAD 1270 1289	hipercolesterolemia
+T50	ENFERMEDAD 1540 1555	daño miocárdico
+T51	ENFERMEDAD 1645 1671	derrame pericárdico ligero
+T52	ENFERMEDAD 1840 1860	síndrome de Dressler
+T53	ENFERMEDAD 2085 2103	angina de esfuerzo
+T54	ENFERMEDAD 2228 2247	hipercolesterolemia
+T55	ENFERMEDAD 2313 2325	meniscopatía
+T56	ENFERMEDAD 2446 2449	IAM
+T57	ENFERMEDAD 3244 3269	trombosis venosa profunda
+T58	ENFERMEDAD 3271 3274	TVP
+T59	ENFERMEDAD 3532 3546	isquemia aguda
+T60	ENFERMEDAD 3742 3755	valvulopatías
+T61	ENFERMEDAD 3873 3917	trastornos segmentarios de la contractilidad
+T62	ENFERMEDAD 4087 4106	derrame pericárdico
+T63	ENFERMEDAD 5248 5267	hipercolesterolemia
+T64	ENFERMEDAD 5859 5913	Cardiopatía isquémica crónica con enfermedad multivaso
+T65	ENFERMEDAD 6026 6054	hipercolesterolemia familiar
+T66	ENFERMEDAD 6079 6100	Hipertensión arterial
+T67	ENFERMEDAD 6103 6127	diabetes mellitus tipo 2
+T68	ENFERMEDAD 735 742	SCASEST
+T69	ENFERMEDAD 266 289	alergias medicamentosas
+T70	ENFERMEDAD 2556 2562	angina
+T71	ENFERMEDAD 3658 3697	Aurícula izquierda ligeramente dilatada

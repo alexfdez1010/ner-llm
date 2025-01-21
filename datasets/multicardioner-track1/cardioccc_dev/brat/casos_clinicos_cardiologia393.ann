@@ -1,0 +1,57 @@
+T19	ENFERMEDAD 2408 2450	dilatación severa del ventrículo izquierdo
+T26	ENFERMEDAD 3267 3308	Ventrículo izquierdo severamente dilatado
+T29	ENFERMEDAD 3462 3544	Válvula mitral con ligero engrosamiento de velos y ligera calcificación del anillo
+T30	ENFERMEDAD 3729 3768	Aurícula izquierda severamente dilatada
+T33	ENFERMEDAD 4701 4743	dilatación severa del ventrículo izquierdo
+T111	ENFERMEDAD 8947 8995	oclusión de bypass de safena a coronaria derecha
+T128	ENFERMEDAD 8778 8799	Cardiopatía isquémica
+T129	ENFERMEDAD 4373 4411	Circunfleja con lesión severa proximal
+T130	ENFERMEDAD 4131 4229	Descendente anterior con ateromatosis difusa moderada proximal y oclusión crónica de porción media
+T131	ENFERMEDAD 9113 9157	Diabetes mellitus tipo 2 insulinodependiente
+T132	ENFERMEDAD 9182 9194	Dislipidemia
+T134	ENFERMEDAD 8901 8942	Enfermedad coronaria severa de tres vasos
+T135	ENFERMEDAD 9159 9180	Hipertensión arterial
+T136	ENFERMEDAD 431 447	IAM anteroseptal
+T137	ENFERMEDAD 501 520	IAM posteroinferior
+T138	ENFERMEDAD 8738 8760	Insuficiencia cardiaca
+T139	ENFERMEDAD 8862 8899	Insuficiencia mitral funcional severa
+T140	ENFERMEDAD 3546 3573	Insuficiencia mitral severa
+T141	ENFERMEDAD 3919 3953	Insuficiencia tricuspídea moderada
+T142	ENFERMEDAD 9214 9253	Isquemia crónica de miembros inferiores
+T143	ENFERMEDAD 9196 9212	Obesidad grado 2
+T146	ENFERMEDAD 2250 2256	anemia
+T147	ENFERMEDAD 2086 2093	ascitis
+T149	ENFERMEDAD 2567 2615	cardiomegalia a expensas de cavidades izquierdas
+T150	ENFERMEDAD 368 406	cardiopatía isquémica en fase dilatada
+T152	ENFERMEDAD 3990 3997	derrame
+T153	ENFERMEDAD 7215 7223	diabetes
+T154	ENFERMEDAD 85 129	diabetes mellitus tipo 2 insulinodependiente
+T155	ENFERMEDAD 143 154	dislipémico
+T156	ENFERMEDAD 184 214	enfermedad arterial periférica
+T157	ENFERMEDAD 7251 7281	enfermedad arterial periférica
+T158	ENFERMEDAD 216 250	estenosis femoropoplítea bilateral
+T159	ENFERMEDAD 70 79	exfumador
+T161	ENFERMEDAD 131 141	hipertenso
+T162	ENFERMEDAD 6732 6754	infección respiratoria
+T163	ENFERMEDAD 5317 5339	insuficiencia cardiaca
+T164	ENFERMEDAD 6667 6711	descompensación de su insuficiencia cardiaca
+T165	ENFERMEDAD 2481 2518	insuficiencia mitral funcional severa
+T166	ENFERMEDAD 8553 8573	insuficiencia mitral
+T167	ENFERMEDAD 8191 8218	insuficiencia mitral severa
+T168	ENFERMEDAD 7240 7248	obesidad
+T169	ENFERMEDAD 8438 8446	obesidad
+T170	ENFERMEDAD 173 178	obeso
+T171	ENFERMEDAD 2768 2811	trastorno de la conducción intraventricular
+T172	ENFERMEDAD 2847 2890	trastornos secundarios de la repolarización
+T117	ENFERMEDAD 156 170	hiperuricémico
+T119	ENFERMEDAD 560 606	oclusión crónica de descendente anterior media
+T120	ENFERMEDAD 643 688	lesión del 40 % en coronaria derecha proximal
+T121	ENFERMEDAD 691 728	lesión del 80 % en 1a obtusa marginal
+T22	ENFERMEDAD 4548 4586	Coronaria derecha con oclusión crónica
+T28	ENFERMEDAD 3770 3812	Cavidades derechas moderadamente dilatadas
+T144	ENFERMEDAD 4292 4318	ateromatosis severa difusa
+T160	ENFERMEDAD 5505 5570	oclusión muy proximal del bypass de safena a la coronaria derecha
+T175	ENFERMEDAD 6224 6292	venografía apreciándose oclusión a varios niveles del seno coronario
+T178	ENFERMEDAD 8231 8275	oclusión del bypass safena-coronaria derecha
+#136	AnnotatorNotes T136	Infarto Agudo de Miocardio
+#137	AnnotatorNotes T137	Infarto Agudo de Miocardio

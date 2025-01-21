@@ -1,0 +1,42 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Se presenta el caso de un varón de 38 años sin FRCV, antecedentes familiares ni historia cardiológica previa. En seguimiento digestivo por enfermedad de crohn con fístula enterovesical e ingreso reciente por cuadro infeccioso grave de origen abdominal. El juicio clínico al alta es shock séptico secundario a perforación de megacolon tóxico con peritonitis fecaloidea, que requiere intervención quirúrgica urgente (colectomía subtotal + ileostomía).
+A los tres días del alta hospitalaria del servicio de cirugía general consulta por dolor torácico.
+Esta molestia es de características atípicas y mejora parcialmente con antiinflamatorio no esteroideo (AINES). Refiere además disnea progresiva que se inicia con la misma cronología y que se hace de mínimos esfuerzos (clase funcional III de la New York Heart Association [NYHA III]. No otra clínica cardiológica en la anamnesis dirigida.
+A la exploración el paciente presenta aceptable estado general. Está eupneico en reposo y tolera decúbito. Tensión arterial (TA) 90/70 mmHg. Taquicárdico a 110 lpm. Afebril. No ingurgitación yugular. Traqueostomía (estancia previa prolongada en la unidad de cuidados intensivos [UCI]) sin datos de complicación. Auscultación cardiopulmonar anodina. Abdomen blando y depresible, con ileostomía normofuncionante. Se objetiva lesión de tejidos blandos en fosa izquierda con secreción mucopurulenta. Miembros inferiores sin edemas.
+El electrocardiograma realizado en consultas muestra taquicardia sinusal con aplanamiento generalizado de la onda T. La radiografía de tórax es anodina. En analítica destaca hemoglobina (Hb) de 8,6 g/dl y elevación de la proteína C reactiva (PCR) sin leucocitosis. Dímero D negativo.
+Troponina T ultrasensible (TnTus) seriada mantenida en torno a 30 (25--30--29 ng/l), CPK normal.
+Se realiza ecocardiografía urgente donde se objetiva disfunción ventricular izquierda grave (FEVI 30%) con hipoquinesia global, por lo que se cursa ingreso en cardiología.
+
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA: función renal conservada. No leucocitosis ni neutrofilia. Hb 8,6 g/dl. Plaquetas y coagulación en rango. Dímero D negativo. TNT US 25---30---29.
+RADIOGRAFÍA DE TÓRAX: índice cardiotorácico normal. Senos costofrénicos libres. Ligero aumento de la trama intersticial en bases. No imágenes de condensación ni derrame pleural.
+ELECTROCARDIOGRAMA (ECG): taquicardia sinusal a 100 lpm. PR normal. QRS estrecho.
+Aplanamiento generalizado de la onda T. QTc normal.
+ECOCARDIOGRAFÍA TRANSTORÁCICA (ETT): aurícula izquierda de dimensiones normales (24 mm en AP). Válvula mitral con velos finos y buena movilidad (apertura y cierre conservado).
+Ventrículo izquierdo (VI) de dimensiones normales (diámetro telediastólico (DTD) 49 mm y diámetro telesistólico (DTS) 43 mm con volumen telediastólico (VTD) y volumen telesistólico (VTS) de 136 ml y 97 ml, respectivamente). Grosor miocárdico normal (septum de 8 mm y pared inferolateral de 7 mm). Hipocontractilidad generalizada y fracción de eyección (FE) estimada mediante disco biplano del 29%. Válvula aórtica con velos finos y buena apertura. Tracto de salida del ventrículo izquierdo (TSVI) 21 mm, senos de Valsalva 31 mm, UST 23 mm. Ventrículo derecho (VD) de dimensiones normales con función sistólica normal. Jet de insuficiencia tricuspídea (IT) de grado ligero (1+) con Doppler subóptimo para estimar la presión arterial pulmonar sistólica PAPs. No derrame pericárdico.
+CORONARIOGRAFÍA: arterias coronarias sin lesiones angiográficas.
+RESONANCIA MAGNÉTICA CARDIACA (RMC): hipocinesia generalizada, más acentuada en septo/segmento inferior en zonas media y apical. FEVI gravemente deprimida (34,6%). VTD 144 ml, VTS 94 ml (normales).VD de dimensiones normales y fracción de eyección del ventrículo derecho (FEVD) conservada. Grosor miocárdico y señal tisular en secuencias T2 y STIR (short TI
+Inversion Recovery) normales. No valvulopatías significativas. No derrame pericárdico.
+Conclusión: signos de disfunción contráctil grave del VI sin derivarse de esta exploración datos que orienten posible etiología. La exploración no ha resultado completa pues es interrumpida por deseo expreso del paciente (secuencia incompleta/sin realce tardío con gadolinio).
+TAC de abdomen de control: resolución de los derrames previos. Lesión de 14 mm en segmento VI hepático (hemangioma). Discreta esplenomegalia 12,2 x 5,6 cm. Colecciones en la pared abdominal anterior: una bajo cicatriz de laparotomía (30 x 7 x 10 mm) y otra más caudalsupravesical (12 x 13 x 38 mm). A nivel retroperitoneal en espacio parerrenal anterior derecho (56 x 20 x 52 mm) y pararrenal posterior derecho (60 x 29 x 137 mm) y pararrenal anterior izquierdo (38 x 17 x 47 mm). Ileostomía en vacío derecho no complicada. Asas de calibre normal sin hipercaptación mucosa ni engrosamiento mural que sugieran enfermedad inflamatoria intestinal (EII) actual. Sin otras alteraciones llamativas.
+
+EVOLUCIÓN CLÍNICA
+Se solicita ETT reglada que muestra disfunción ventricular izquierda severa (FEVI por Simpson biplano del 29%) con hipocontractilidad global (ver informe completo en pruebas complementarias). Se descarta etiología isquémica de la disfunción sistólica mediante coronariografía. Para completar el estudio se realiza RMC que no muestra datos que orienten a la etiología (T2 y STIR normales, sin poder administrarse realce tardío por rechazo del paciente) (ver informe completo en pruebas complementarias).
+Tras revisar la bibliografía y, teniendo en cuenta el contexto clínico del paciente, se valoran dos posibilidades diagnósticas no excluyentes entre sí:
+Disfunción ventricular severa en contexto de sepsis por gram negativos (peritonitis fecaloidea reciente).
+Miocardiopatía carencial en paciente con probable déficit nutricional (enfermedad de Crohn con ingreso prolongado en UCI).
+El paciente inicia durante el ingreso tratamiento para la disfunción sistólica: carvedilol 6,25 mg (2-0-1), ramipril 2,5 mg (1⁄2 comprimido en desayuno), ferroterapia oral (1 comprimido en ayunas) y diuréticos de asa en fases iniciales. No se inició tratamiento con espironolactona por cifras bajas de tensión arterial con dosis mínima de inhibidor de la enzima de conversión de la angiotensina (IECA).
+Se valora la posibilidad de déficit vitamínico (vitamina D-tiamina) y de oligoelementos (seleniohierro).
+Se extraen muestras para actividad de trancetolasa intraeritrocitaria y selenio, perfil férrico, vitamina D y ácido fólico. Se inicia tratamiento con tiamina IV, complejo polivitamínico, suplementos poliméricos y se optimiza dieta oral.
+El seguimiento del paciente durante el ingreso fue multidisciplinar:
+Digestivo/ cirugía general: se reinicia tratamiento con azatioprina. Se realiza TAC de control (ver pruebas complementarias) y, ante buena evolución del paciente, se opta por mantener antibibioterapia (metronidazol), seguimiento clínico y reevaluación por prueba de imagen en dos meses.
+Nutrición: supervisa el tratamiento durante el ingreso consiguiendo un incremento de 3 kg de peso.
+Otorrinolaringología: valora la traqueostomía procediendo a decanulación. Se deja cierre por segunda intención.
+La evolución del paciente es favorable, encontrándose al alta sin dolor torácico y en buena clase funcional. El tratamiento al alta es el siguiente: omeprazol 20 mg (1-0-0). carvedilol 6,25 mg (2-0-1), ramipril 2,5 mg (0,5-0-0), metronidazol 250 mg cada 8 horas, hierro oral (1-0-0), complejo vitamínico (2 comprimido al día), cinitaprida (1 mg cada 8 horas), tiamina (300 mg cada 24 horas), complejo Ca + VitD 1000 U (2 comprimido al día), batidos calóricos, citalopram 20 mg (1 comprimido al día), lorazepam 1 mg (por la noche), dieta libre evitando exceso de fibra.
+En la revisión en consultas a los dos meses del ingreso hospitalario se encuentra asintomático y sin recurrencia del dolor torácico. La ETT muestra normalización de la FEVI. El paciente ha recuperado peso y no ha tenido nuevos brotes de Crohn/complicaciones abdominales. La traqueostomía ha cerrado por segunda intención.
+Se decide alta por parte del equipo de IC avanzada y trasplante para seguimiento periódico en cardiología de zona.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca en paciente con disfunción ventricular izquierda grave transitoria en contexto de sepsis por Gram negativos.
+Posiblemente agravada por déficits nutricionales secundarios a su patología digestiva (enfermedad de Crohn) y a ingreso prolongado reciente.

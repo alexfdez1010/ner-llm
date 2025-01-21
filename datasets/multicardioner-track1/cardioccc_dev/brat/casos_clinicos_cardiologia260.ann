@@ -1,0 +1,95 @@
+T60	ENFERMEDAD 7709 7730	disfunción diastólica
+T76	ENFERMEDAD 102 114	presbiacusia
+T77	ENFERMEDAD 156 166	Exfumadora
+T78	ENFERMEDAD 240 281	Sordera neurosensioral profunda bilateral
+T79	ENFERMEDAD 397 422	preexcitación ventricular
+T80	ENFERMEDAD 1569 1637	úlceras distales en segunda, tercera, cuarta y quinta falange de MII
+T81	ENFERMEDAD 1653 1678	trombosis venosa profunda
+T82	ENFERMEDAD 1680 1683	TVP
+T83	ENFERMEDAD 2825 2838	trombo apical
+T84	ENFERMEDAD 3124 3172	Insuficiencia central ligera-moderada secundaria
+T85	ENFERMEDAD 3273 3297	Insuficiencia tricúspide
+T86	ENFERMEDAD 3416 3435	derrame pericárdico
+T87	ENFERMEDAD 3564 3577	Trombo apical
+T88	ENFERMEDAD 3894 3959	estenosis no significativa de arteria descendente anterior distal
+T89	ENFERMEDAD 5434 5457	trombo intraventricular
+T90	ENFERMEDAD 5741 5828	Válvula mitral con engrosamiento ligero difuso de velos, insuficiencia central moderada
+T91	ENFERMEDAD 6138 6157	derrame pericárdico
+T92	ENFERMEDAD 6556 6593	Insuficiencia mitral central moderada
+T93	ENFERMEDAD 6595 6616	Hipertensión pulmonar
+T94	ENFERMEDAD 7769 7775	trombo
+T95	ENFERMEDAD 7864 7904	Insuficiencia mitral secundaria moderada
+T96	ENFERMEDAD 7906 7936	Insuficiencia tricúspide grave
+T97	ENFERMEDAD 7962 8036	adenopatías hipercaptantes cervicales, supraclaviculares, ni mediastínicas
+T98	ENFERMEDAD 8083 8105	sarcoidosis ganglionar
+T99	ENFERMEDAD 8122 8141	lesiones pulmonares
+T100	ENFERMEDAD 8170 8190	sarcoidosis pulmonar
+T101	ENFERMEDAD 8206 8236	derrame pleural ni pericárdico
+T102	ENFERMEDAD 8282 8291	pleuritis
+T104	ENFERMEDAD 8413 8436	miocardiopatía dilatada
+T105	ENFERMEDAD 8571 8614	sarcoidosis pulmonar, ganglionar o cardiaca
+T106	ENFERMEDAD 8616 8650	Miocardiopatía difusa inespecífica
+T107	ENFERMEDAD 8906 8949	miocardiopatía por depósito de amiloide TTR
+T108	ENFERMEDAD 9583 9606	enfermedad mitocondrial
+T109	ENFERMEDAD 9659 9696	encefalopatía mitocondrial tipo MELAS
+T110	ENFERMEDAD 10053 10086	enfermedad de origen mitocondrial
+T111	ENFERMEDAD 10148 10170	insuficiencia cardiaca
+T113	ENFERMEDAD 10602 10620	shock cardiogénico
+T114	ENFERMEDAD 10766 10806	disfunción sistólica biventricular grave
+T115	ENFERMEDAD 10822 10859	insuficiencia mitral secundaria grave
+T116	ENFERMEDAD 10865 10890	trombo ventricular apical
+T117	ENFERMEDAD 11042 11062	enfermedad coronaria
+T118	ENFERMEDAD 11090 11108	shock cardiogénico
+T119	ENFERMEDAD 11136 11153	miocarditis aguda
+T120	ENFERMEDAD 12161 12192	embolismo de trombo ventricular
+T121	ENFERMEDAD 12211 12222	miocarditis
+T122	ENFERMEDAD 13065 13088	trombo intraventricular
+T123	ENFERMEDAD 13420 13440	insuficiencia mitral
+T124	ENFERMEDAD 13646 13670	enfermedades autoinmunes
+T125	ENFERMEDAD 13712 13739	enfermedades protrombóticas
+T126	ENFERMEDAD 13980 14000	amiloidosis cardiaca
+T127	ENFERMEDAD 14211 14257	amiloidosis familiar o senil por transtiretina
+T128	ENFERMEDAD 14382 14402	sarcoidosis cardiaca
+T129	ENFERMEDAD 14692 14703	sarcoidosis
+T130	ENFERMEDAD 14776 14790	hemocromatosis
+T131	ENFERMEDAD 14875 14895	enfermedad de Wilson
+T132	ENFERMEDAD 14898 14917	enfermedad de Fabry
+T133	ENFERMEDAD 15038 15052	miocardiopatía
+T134	ENFERMEDAD 15362 15385	trombo intraventricular
+T135	ENFERMEDAD 15501 15523	insuficiencia cardiaca
+T136	ENFERMEDAD 15598 15610	cardiopatías
+T137	ENFERMEDAD 15676 15690	miocardiopatía
+T138	ENFERMEDAD 15835 15860	hipoacusia neurosensorial
+T139	ENFERMEDAD 15866 15899	síndrome de Wolff-Parkinson-White
+T140	ENFERMEDAD 15956 15961	MELAS
+T141	ENFERMEDAD 16184 16211	enfermedades mitocondriales
+T142	ENFERMEDAD 16239 16253	síndrome MELAS
+T143	ENFERMEDAD 16255 16281	encefalopatía mitocondrial
+T144	ENFERMEDAD 16283 16299	acidosis láctica
+T145	ENFERMEDAD 16302 16323	episodios stroke-like
+T146	ENFERMEDAD 16428 16439	miocarditis
+T147	ENFERMEDAD 16712 16729	miocarditis aguda
+T148	ENFERMEDAD 16736 16747	cardiopatía
+T149	ENFERMEDAD 16778 16796	shock cardiogénico
+T150	ENFERMEDAD 16846 16851	MELAS
+T151	ENFERMEDAD 16890 16936	Miocardiopatía hipertrófica secundaria a MELAS
+T152	ENFERMEDAD 16938 16976	Síndrome de WPW (vía latera izquierda)
+T153	ENFERMEDAD 16978 17012	Trombo intraventricular recurrente
+T154	ENFERMEDAD 16978 17037	Trombo intraventricular recurrente con embolismo periférico
+T155	ENFERMEDAD 5676 5724	Válvula aórtica de velos finos con regurgitación
+T157	ENFERMEDAD 10262 10286	hipoperfusión periférica
+T158	ENFERMEDAD 10248 10259	hipotensión
+T159	ENFERMEDAD 6634 6645	trombofilia
+T160	ENFERMEDAD 5459 5498	Aurícula izquierda ligeramente dilatada
+T161	ENFERMEDAD 5637 5674	Aurícula derecha ligeramente dilatada
+T162	ENFERMEDAD 6071 6098	Vena cava inferior dilatada
+T163	ENFERMEDAD 13129 13176	hipertrofia concéntrica de ventrículo izquierdo
+T164	ENFERMEDAD 15932 15955	enfermedad mitocondrial
+T165	ENFERMEDAD 16822 16845	Enfermedad mitocondrial
+T103	ENFERMEDAD 8294 8306	pericarditis
+T156	ENFERMEDAD 2194 2207	cardiomegalia
+T48	ENFERMEDAD 5924 6010	Válvula tricúspide de velos finos, con buena apertura e insuficiencia central moderada
+T112	ENFERMEDAD 13265 13286	disfunción diastólica
+T274	ENFERMEDAD 12022 12086	metatarsofalángica de segunda-cuarta falanges MII, ante necrosis
+T282	ENFERMEDAD 13473 13510	enfermedad de depósito o infiltrativa
+T284	ENFERMEDAD 13913 13936	enfermedad infiltrativa

@@ -1,0 +1,19 @@
+T3	ENFERMEDAD 45 66	hipertensión arterial
+T6	ENFERMEDAD 68 92	diabetes mellitus tipo 2
+T7	ENFERMEDAD 94 125	accidente isquémico transitorio
+T9	ENFERMEDAD 127 152	hipotiroidismo autoinmune
+T10	ENFERMEDAD 155 179	deterioro cognitivo leve
+T12	ENFERMEDAD 192 224	quemadura por contacto con llama
+T16	ENFERMEDAD 1929 1995	defecto pretibial de 20 cm de longitud, con exposición de la tibia
+T29	ENFERMEDAD 453 530	quemaduras eran dérmicas profundas en la superficie posterior de ambos muslos
+T30	ENFERMEDAD 453 567	quemaduras eran dérmicas profundas en la superficie posterior de ambos muslos y circunferenciales en ambas piernas
+T33	ENFERMEDAD 3163 3188	infección de los injertos
+T39	ENFERMEDAD 667 728	quemaduras dérmicas superficiales en el lateral de los muslos
+T40	ENFERMEDAD 667 741	quemaduras dérmicas superficiales en el lateral de los muslos y en la cara
+T43	ENFERMEDAD 1346 1356	quemaduras
+T44	ENFERMEDAD 1470 1494	quemaduras superficiales
+T45	ENFERMEDAD 2605 2612	heridas
+T46	ENFERMEDAD 322 396	lesiones dérmicas profundas y subdérmicas en ambas extremidades inferiores
+T47	ENFERMEDAD 959 967	lesiones
+T1	ENFERMEDAD 1802 1811	quemadura
+T2	ENFERMEDAD 1907 1913	escara

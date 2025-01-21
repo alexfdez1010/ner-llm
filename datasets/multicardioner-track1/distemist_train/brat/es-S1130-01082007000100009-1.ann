@@ -1,0 +1,20 @@
+T2	ENFERMEDAD 78 137	lesiones nodulares glúteas dolorosas, con drenaje purulento
+T3	ENFERMEDAD 177 217	foliculitis quística profunda supurativa
+T4	ENFERMEDAD 234 249	acné conglobata
+T13	ENFERMEDAD 634 756	región glútea y perianal múltiples lesiones nodulares con zonas cicatriciales entre ellas, que drenaban material purulento
+T15	ENFERMEDAD 788 812	anemia ferropénica grave
+T18	ENFERMEDAD 987 1071	pseudopólipos, úlceras y un aspecto mucoso en empedrado en recto y colon transverso,
+T19	ENFERMEDAD 1046 1105	recto y colon transverso, así como dos orificios fistulosos
+T20	ENFERMEDAD 1141 1200	enfermedad inflamatoria intestinal tipo enfermedad de Crohn
+T21	ENFERMEDAD 1202 1204	EC
+T23	ENFERMEDAD 1243 1299	fístula perianal izquierda con extensión a raíz de muslo
+T28	ENFERMEDAD 1539 1554	acné conglobata
+T29	ENFERMEDAD 1588 1590	EC
+T30	ENFERMEDAD 1596 1615	enfermedad perianal
+T31	ENFERMEDAD 1617 1620	EPA
+T33	ENFERMEDAD 1472 1489	lesiones cutáneas
+T34	ENFERMEDAD 889 901	malnutrición
+T1	ENFERMEDAD 1723 1731	lesiones
+#1	AnnotatorNotes T21	  EC: enfermedad de Crohn
+#2	AnnotatorNotes T29	  EC: enfermedad de Crohn
+#3	AnnotatorNotes T31	  EPA: enfermedad peri-anal

@@ -1,0 +1,36 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Paciente mujer de 66 años que consultó por disnea y edemas en miembros inferiores.
+
+Antecedentes
+Sin alergias medicamentosas conocidas.
+Niega hábitos tóxicos.
+Factores de riesgo cardiovascular: Dislipemia. Diabetes tipo 2 en tratamiento con antidiabéticos orales con buen control habitual (última HbA1c 6,8%).
+Fibrilación auricular permanente anticoagulada con warfarina.
+Cardiopatía valvular reumática con estenosis mitral grave y doble lesión aórtica moderada, intervenidas el 19-junio-18. Sustitución valvular mitral y aórtica por prótesis mecánicas. Posoperatorio no complicado, salvo por anemia que requirió transfusión de 1 concentrado de hematíes. Alta de dicho ingreso el 28 de junio de 2018.
+Tratamiento domiciliario tras intervención: omeprazol 20 mg al día, carvedilol 6,25 mg cada 12 horas, pravastatina 40 mg al día, warfarina 10 mg según pauta de hematología y gliclazida 30 mg cada 12 horas.
+
+Enfermedad actual
+Paciente que ingresa desde el servicio de urgencias por disnea progresiva hasta hacerse de mínimos esfuerzos y edemas en miembros inferiores 2 semanas después de haber sido dada de alta tras la cirugía de recambio valvular. Asociaba ortopnea de dos almohadas y crisis de disnea paroxística nocturna. La paciente negaba falta de adherencia terapéutica o transgresiones dietéticas. A su llegada a urgencias, se objetiva flutter auricular con respuesta ventricular rápida y datos congestivos a la exploración, por lo que se decide ingreso hospitalario a cargo de cardiología.
+
+Exploración física
+Estado general conservado. Consciente y orientada. Bien hidratada y perfundida. Palidez de piel y mucosas. Tensión arterial 125/80 mmHg. Eupneica en reposo, con saturación de oxígeno basal de 94%. Frecuencia cardiaca 100 lpm. No ingurgitación yugular ni reflujo hepatoyugular. Auscultación cardiorrespiratoria: corazón arrítmico a unos 100 lpm. Click metálico protésico. Sin soplos audibles. Buena ventilación pulmonar con ligeros crepitantes en ambas bases pulmonares, sin otros ruidos patológicos sobreañadidos. Abdomen: sin masas ni megalias, no doloroso a la palpación profunda. Sin datos de irritación peritoneal. Edemas hasta rodillas con fóvea.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica en urgencias:
+Hemograma: 7430 leucocitos con fórmula normal, hemoglobina 9 g/dl, VCM 90,60 fl, plaquetas 179000.
+Coagulación: INR 2,07.
+Bioquímica: función renal e ionograma normales. Proteína C reactiva 58,1 mg/l. NT-proBNP 1404 pg/dl.
+Seriación enzimas de daño miocárdico: CK 36 – 22 U/l, troponina T ultrasensible 28 – 31 ng/l.
+Electrocardiograma: flutter auricular con respuesta ventricular variable en torno a unos 120 lpm. Eje normal. QRS estrecho. Buena progresión R en precordiales. Ondas T negativas V4-V6, sin otras alteraciones en la repolarización.
+Ecocardiografía transtorácica: ventrículo izquierdo no dilatado con hipertrofia concéntrica leve. Aurícula izquierda dilatada. Cavidades derechas normales. Tramos de aorta estudiados dentro de la normalidad. Válvulas: prótesis mitral mecánica normoposicionada y sin cabeceo, con movilidad de discos conservada, sin apreciarsejets de insuficiencia y con gradiente medio 4 mmHg (vídeo 1). Prótesis aórtica mecánica normoposicionada y sin cabeceo, con movilidad de discos conservada, sin jets de insuficiencia y con gradientes anterógrados normales (Velocidad máxima 2,3 m/seg). Función sistólica de ventrículo izquierdo conservada estimada en un 60% mediante Simpson biplano, sin trastornos segmentarios de la contractilidad. Función sistólica de ventrículo derecho conservada. Ausencia de derrame pericárdico.
+
+EVOLUCIÓN CLÍNICA
+La evolución inicial fue favorable tras la instauración de tratamiento diurético intravenoso y la transfusión de hemoderivados. Sin embargo, en el sexto día de ingreso, la paciente presentó un descenso de los niveles de plaquetas que pasaron de 160.000 a 23.000. Ante la sospecha de trombopenia inducida por heparinas (TIH), se decide sustituir dicho fármaco por fondaparinux y se solicitaron anticuerpos anti-factor IV plaquetario que resultaron ser positivos. Tras la sustitución de la heparina por fondaparinux, se produjo un ascenso progresivo de las plaquetas hasta la normalización, permitiendo la reintroducción de warfarina, su tratamiento anticoagulante habitual. Durante el tratamiento con fondaparinux, no hubo complicaciones hemorrágicas ni trombóticas. Antes del alta se realizó un nuevo ecocardiograma en el que se comprobó que ambas válvulas protésicas eran normofuncionantes y no presentaban datos de trombosis.
+De forma intercurrente, la paciente presentó síntomas miccionales con disuria, polaquiuria y tenesmo vesical; detectándose en urocultivo realizadoEscherichia coli productor de betalactamasas de espectro extendido (E. coli BLEE+). Dada la gran comorbilidad de la paciente y el riesgo de endocarditis en caso de bacteriemia por el implante reciente de dos prótesis mecánicas, se decidió iniciar antibioterapia de amplio espectro con ertapenem. A los dos días del inicio del tratamiento con dicho fármaco, la paciente comenzó con una cuadro de poliartralgias generalizadas de predominio en miembros inferiores y lesiones cutáneas no pruriginosas, que fueron empeorando progresivamente adquiriendo algunas de ellas morfología en diana. Ante la sospecha de toxicodermia por ertapenem, sustituimos este fármaco por fosfomicina, presentado una resolución completa del cuadro en 48 horas. Se obtuvo biopsia cutánea con resultado vasculitis leucocitoclástica de pequeño vaso compatible con enfermedad del suero genuina o asociada a la toma de medicamentos, hallazgos concordantes con la sospecha inicial de toxicodermia por ertapenem.
+
+DIAGNÓSTICO
+Descompensación de insuficiencia cardiaca en relación con:
+Anemia normocítica subaguda en probable relación con la cirugía. Flutter auricular con respuesta ventricular rápida.
+Trombopenia inducida por heparina (TIH).
+Infección del tracto urinario por E. coli BLEE+.
+Vasculitis leucocitoclástica de pequeño vaso secundaria administración de carbapenémicos (ertapenem).

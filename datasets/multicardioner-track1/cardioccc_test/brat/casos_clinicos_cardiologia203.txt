@@ -1,0 +1,58 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 62 años.
+
+Antecedentes
+No alergias medicamentosas conocidas.
+Situación funcional basal: independiente para las actividades diarias, funciones superiores conservadas. Vida activa sin disnea ni angor.
+No antecedentes familiares de muerte súbita ni de cardiopatía isquémica precoz.
+No fumador. Como único factor de riesgo cardiovascular: hipertensión arterial (HTA), en tratamiento farmacológico con telmisartán/amlodipino 80/10 mg (1-0-0).
+No cardiopatía previa conocida.
+Como otros antecedentes médicos personales destaca: trastorno de ansiedad en seguimiento por psiquiatría a tratamiento con ziprasidona 40 mg (0-0-1), lorazepam 5 mg (0-0-0.5), mirtazapina 30 mg (0-0-1) y vortioxetina 10 mg (1-0-0).
+
+Enfermedad actual
+Paciente asintomático, mientras se encontraba en una zapatería, presenta de forma súbita pérdida de consciencia presenciada por su mujer sin recuperación posterior, por lo que avisa a los servicios de emergencias. A la llegada de los primeros resucitadores (tras 5-8 minutos sin RCP básica) objetivan PCR en ritmo desfibrilable para el DESA. S1e administran 2 adrenalinas y 4 descargas mediante DESA. Posteriormente llega el soporte vital avanzado, el paciente persiste en PCR con ritmo desfibrilable, por lo que se administra una nueva descarga recuperando circulación espontánea. En el electrocardiograma (ECG) de salida, ritmo de fibrilación auricular (FA) con respuesta ventricular a 160 lpm con elevación del ST en I, aVL y V3- V6. Tras ello, ante escala de coma de Glasgow (GCS) de 3 puntos, se procede a la intubación orotraqueal (IOT).
+Contactan con nuestro servicio de cardiología y ante PCR por ritmo desfibrilable con elevación del ST anterolateral, se decide traslado directo a la sala de hemodinámica para realización de coronariografía emergente, y se inicia el protocolo de hipotermia.
+Tiempo total de parada cardiorrespiratoria: 20 minutos. Tiempo sin asistir: 5-8 minutos.
+
+Exploración física
+A su llegada al hospital: tensión arterial (TA) 139/87 mmHg; frecuencia cardiaca (FC) 94 lpm; saturación de oxígeno post-IOT 100 %; afebril. GCS 4 puntos. Al ingreso se mantuvo en tratamiento sedativo con perfusión continua de midazolam. Intubado, bien adaptado al ventilador con FiO2 35%, normocoloreado y bien perfundido. A la exploración: no plétora yugular. Auscultación cardiaca rítmica sin soplos. Auscultación pulmonar normal, buena ventilación bilateral. Abdomen blando y depresible. Sin edemas ni datos de trombosis venosa en extremidades inferiores, con pulsos palpables.
+
+PRUEBAS COMPLEMENTARIAS
+Registro DESA: ritmo de parada por fibrilación ventricular.
+ECG (inmediatamente tras descarga): fibrilación auricular con respuesta ventricular a 160 lpm y elevación de ST de hasta 3 mm anterolateral (lateral y precordiales).
+ECG al ingreso de la unidad coronaria: ritmo sinusal a 100 lpm, eje a 60o, PR normal, QRS estrecho. QT normal. Correcta progresión de R en precordiales. No alteraciones agudas de la repolarización. No patrón de repolarización precoz.
+Analítica al ingreso post-PCR:
+Parámetros bioquímicos dentro del rango de normalidad, incluido perfil lipídico, con función renal e iones (magnesio, sodio, calcio, potasio) en rango. Hemograma y coagulación normales.
+Marcadores de daño miocárdico iniciales: CK 181 U/l y TnT ultrasensible 187 ng/l (N: 0-14); con pico máximo de CK 2.127 U/l y TnT ultrasensible 951 ng/l. Estudio de tóxicos en orina: negativo.
+Ecocardioscopia realizada de urgencia: VI no dilatado ni hipertrófico con función sistólica global y segmentaria conservada, hiperdinámico. No valvulopatías significativas. VD no dilatado con buena función. No derrame pericárdico.
+
+Pruebas realizadas de urgencia a su llegada:
+Coronariografía emergente: arterias coronarias sin lesiones.
+TC cerebral y angio-TC toraco-abdominal: sin hallazgos significativos.
+Ecocardiograma transtorácico (en unidad coronaria): ventrículo Izquierdo (VI) no dilatado ni hipertrófico con función sistólica conservada (FEVI 65%) sin alteraciones en la contractilidad segmentaria. Patrón diastólico de relajación alargada (E/E'9). Aurícula Izquierda normal (20 cm2). Ventrículo Derecho (VD) no dilatado y con buena función. Válvula Aórtica trivalva con apertura conservada, sin alteraciones funcionales. Raíz aórtica no dilatada (30 mm). Válvula mitral de aspecto normal con mínima insuficiencia. Válvula tricúspide con insuficiencia leve. Vena cava inferior no dilatada con colapso inspiratorio > 50%. Presión sistólica de la arteria pulmonar (PSAP) estimada de 25 mmHg. Sin derrame pericárdico.
+
+Resonancia magnética (RM) cardiaca en planta de hospitalización de cardiología general: ventrículo Izquierdo (VI) no dilatado con función global y segmentaria conservada (FEVI 62%). Hipertrofia concéntrica leve-moderada (12-13 mm) de VI. Ventrículo Derecho (VD) no dilatado con función global y segmentaria conservada (FEVD 63%). En la secuencias de realce tardío no se aprecian captaciones patológicas. Hallazgos compatibles con cardiopatía hipertensiva, con buena función biventricular, sin realces patológicos.
+
+Negativo para el fenotipo de síndrome de QT largo: ECG en bipedestación con QTc normal (440 ms) y prueba de esfuerzo con medición de QTc al 4o minuto de recuperación también normal (445 ms). Durante la prueba de esfuerzo tampoco presentó eventos arrítmicos compatibles con una taquicardia ventricular polimórfica catecolaminérgica.
+Negativo para el fenotipo de síndrome de Brugada: ECG modificado negativo para el patrón Brugada en precordiales derechas, y test de flecainida negativo: ritmo basal sinusal normal, conducción auriculoventricular (AV) y QRS normales. El test fue negativo, aunque llamó la atención durante el test farmacológico con flecainida, la aparición frecuente de extrasistolia ventricular monomorfa con morfología de bloqueo de rama derecha (BRDHH) y eje superior, sugestivas de origen en fascículo posterior.
+Finalmente, con el antecedente de elevación de ST en ECG de salida de la parada, se decide realización del test de ecocardiografía con ergobasina: negativo clínica, eléctrica y ecocardiográficamente.
+
+EVOLUCIÓN CLÍNICA
+El paciente ingresa en la unidad coronaria tras coronariografía, TC cerebral-toraco-abdominal y ETT sin alteraciones. Tras su estabilización hemodinámica con una lenta pero progresiva mejoría neurológica, y sin nuevos eventos arrítmicos en la telemetría, se decide traslado a planta de hospitalización de cardiología general para completar el estudio con imagen cardiaca avanzada y pruebas de provocación para canalopatías o vasoespasmo coronario, cuyos resultados se han detallado previamente.
+El paciente permanece asintomático desde el punto de vista cardiológico durante todo el ingreso. Se mantiene monitorizado con telemetría, sin eventos arrítmicos registrados, con realización de ECG diarios, con QTc normal en todos ellos.
+
+Con las pruebas realizadas durante el ingreso se descartan las principales causas de parada cardiaca:
+1. Isquemia: red coronaria normal en coronariografía urgente. La resonancia magnética cardiaca tampoco muestra realces isquémicos patológicos.
+2. Estructural: no indicios de tromboembolismo pulmonar (TEP) ni taponamiento cardiaco en ecoscopia urgente ni en TAC; tampoco datos de una miocardiopatía de base en ecocardiograma transtorácico reglado ni en resonancia magnética cardiaca.
+3. Canalopatías: pruebas de provocación negativas para síndromes de QT largo, Brugada, y taquicardia ventricular polimórfica catecolaminérgica. El ECG basal tampoco muestra morfología de QTc corto ni patrón de repolarización precoz.
+4. Vasoespasmo coronario: test de ecocardiografía con ergobasina negativo. 5. No alteraciones tóxico-metabólicas que justificasen el cuadro.
+El paciente no tiene antecedentes familiares de muerte súbita ni cardiopatía isquémica precoz.
+Su padre tiene una fibrilación auricular permanente, y su madre una fibrilación auricular paroxística. Al alta, se cita a sus dos hijos y a su hermana, en principio todos ellos sanos, a consulta de cardiopatías familiares para realización de ECG y ecocardiograma transtorácico.
+Se establece el diagnóstico de exclusión de fibrilación ventricular idiopática. Se coloca un desfibrilador automático implantable (DAI) subcutáneo en prevención secundaria y el paciente seguirá controles ambulatorios en consulta de electrofisiología.
+
+DIAGNÓSTICO
+PCR extrahospitalaria resucitada por ritmo desfibrilable. Fibrilación ventricular idiopática:
+Red coronaria angiográficamente normal.
+No cardiopatía estructural.
+Buena función biventricular.
+Test farmacológicos para desenmascarar canalopatía y vasoespasmo negativos.

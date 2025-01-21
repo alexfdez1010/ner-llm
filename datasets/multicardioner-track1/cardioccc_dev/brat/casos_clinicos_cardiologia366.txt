@@ -1,0 +1,40 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 71 años que acude a revisión programada.
+
+ANTECEDENTES:
+Sin alergias conocidas.
+Dislipemia en tratamiento. Intolerancia a los hidratos de carbono diagnosticada en 2010. Siguió dieta, perdiendo 8 kg, y se controló la glucemia con cifras basales de 100-110 mg/dl y glucohemoglobina (HbA1c) del 5,9%. Exfumador hasta 2007, dosis acumulada de 30 paquetes/año.
+Carcinoma de próstata en estadio clínico T1c Nx Mx, tratado con braquiterapia en 2014. Análisis del antígeno prostático específico (PSA) normal en últimos controles.
+Cardiopatía isquémica crónica:
+En 2007 infarto agudo de miocardio anterior, tratado con fibrinolisis sin reperfusión y angioplastia de rescate con implante de stent convencional sobre descendente anterior (DA). Enfermedad coronaria de 1 vaso, con revascularización completa. Fracción de eyección del ventrículo izquierdo (FEVI) del 40% al alta.
+En 2014 acude a revisión, asintomático. Ecocardiograma (ECG) con disfunción sistólica moderada de VI a expensas de alteración segmentaria extensa en territorio de DA.
+Dilatación moderada de aurícula izquierda. Sin valvulopatías significativas.
+En 2016 consulta por disnea de esfuerzo clase II de la New York Heart Association (NYHA) de 1 mes de evolución. Su médico de atención primaria detecta fibrilación auricular no conocida con bloqueo de rama izquierda que impresiona de frecuencia-dependiente. Es derivado a urgencias, donde se inicia anticoagulación oral con rivaroxabán y se aumenta la dosis de betabloqueante para optimizar el control de la frecuencia cardiaca.
+Medicación en domicilio: omeprazol 20 mg/24 h, pravastatina 40 mg/24 h, bisoprolol 10 mg/24h, ramipril 2,5 mg/12 h, rivaroxabán 15 mg/24 h (FGR 46 ml/min al pautar el fármaco, mononitrato de isosorbida retard 50 mg/24 h, nitroglicerina s.l. que no ha precisado.
+
+ENFERMEDAD ACTUAL:
+Subjetivamente bien, sin disnea ni dolor torácico con las actividades que realiza. No recuerda cuándo fue el último episodio de angor, probablemente en 2007. No percibe palpitaciones. No ha notado edemas. Sin ortopnea ni disnea paroxística nocturna. Su esposa afirma que ha reducido mucho la actividad física. Ha dejado de salir a pasear. Reconoce que evita las escaleras y las pendientes.
+
+EXPLORACIÓN FÍSICA:
+Peso 77 kg, talla 1,70 m. Índice de masa muscular (IMC) 26,6 kg/m2. Tensión arterial (TA) 130/70 mmHg. Frecuencia cardiaca (FC) 60 lpm. Saturación de O2 (SatO2) 97% con aire ambiente.
+Eupneico en reposo. Presión venosa yugular ligeramente elevada. Auscultación cardiaca: arrítmico, sin soplos. Auscultación pulmonar: murmullo vesicular conservado. Pulsos radiales, femorales y pedios presentes. Extremidades inferiores con fóvea pretibial de 1-2 mm.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: fibrilación auricular con frecuencia cardiaca controlada a 65 lpm. Onda R amputada de V1 a V4. QRS estrecho, anchura de 100 ms, eje a 30o.
+ANALÍTICA: hemoglobina 13,1 g/dl, hematocrito 38%, plaquetas 240.000 /μl, leucocitos 14.000/μl. Razón internacional normalizada (INR) 2,07. Glucemia basal 128 mg/dl, HbA1c 7,3%. Urea 78 mg/dl, creatinina 1,7 mg/dl (tasa de filtrado glomerular [FGR] estimada 43 ml/min), sodio 139 mEq/l, potasio 4,1 mEq/l. Colesterol total 141 mg/dl, HDL 47 mg/dl, LDL 67 mg/dl, triglicéridos 134 mg/dl. TSH normal. Hierro 40 mcg/dl, ferritina 110 ng/ml, IS transferrina 12%. Fracción aminoterminal del propéptido natriurético cerebral (NT-proBNP) 1.250 pg/ml.
+ECG TRANSTORÁCICO: VI dilatado con DTD 65 mm, remodelado. Acinesia y adelgazamiento de septo anterior y de todos los segmentos apicales. Disfunción sistólica severa con FEVI 27%. AI dilatada. Insuficiencia mitral leve-moderada funcional. Válvula aórtica normal.
+Cavidades derechas de tamaño y contractilidad normal. Insuficiencia tricúspide leve, con gradiente auriculoventricular de 21 mmHg. Vena cava inferior no dilatada con colapso inspiratorio menor del 50%.
+ERGOMETRÍA: protocolo de Bruce. Tiempo de ejercicio 3:30 min. Bajo tratamiento con bisoprolol 10 mg al día. Alcanza el 67% de la frecuencia cardiaca máxima teórica con una carga de trabajo de 6,6 MET. Disnea desde el primer estadio, que va en aumento y obliga a suspender la prueba. Clase funcional II-III. Fibrilación auricular como ritmo de base. Sin angina ni alteraciones significativas del ST.
+
+EVOLUCIÓN CLÍNICA
+Se realiza ECG para revisar la función sistólica del VI, que actualmente se encuentra severamente deprimida, y ergometría para una valoración objetiva de la clase funcional, poniendo de manifiesto una disnea que el paciente minimizaba.
+La analítica muestra una insuficiencia renal moderada, un mal control de la diabetes mellitus y un perfil férrico alterado.
+Con todo esto, se procede a ajuste del tratamiento y se remite a consulta específica de insuficiencia cardiaca. Tras un año de seguimiento, con optimización del tratamiento médico se consigue mejoría de la FEVI al 32%; persiste con limitación de su actividad física, en clase funcional II. Se procede a implante de desfibrilador automático implantable (DAI) en prevención primaria.
+
+DIAGNÓSTICO
+Cardiopatía isquémica crónica. Infarto anterior antiguo, enfermedad de un vaso con revascularización completa. Disfunción sistólica severa de VI. Sin angor actual.
+Insuficiencia cardiaca crónica en clase funcional II-III NYHA.
+Fibrilación auricular permanente. Anticoagulación oral y estrategia de control de frecuencia cardiaca (FC).
+Enfermedad renal crónica, estadio IIIb.
+Diabetes mellitus.
+Ferropenia sin anemia.

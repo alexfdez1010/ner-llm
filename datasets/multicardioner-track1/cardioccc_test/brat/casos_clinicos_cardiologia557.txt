@@ -1,0 +1,33 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+
+Paciente mujer de 64 años, con los siguientes antecedentes:
+No antecedentes familiares de interés para el cuadro actual.
+No reacciones adversas medicamentosas conocidas.
+Factores de riesgo cardiovascular: hipertensión arterial de larga evolución, dislipemia y diabetes mellitus tipo 2, de larga evolución, sin lesión de órganos diana.
+Niega hábitos tóxicos.
+Cirugías previas: reducción de pecho, ligadura de trompas.
+Ingresos previos: ingreso en 2019 en medicina interna por dolor torácico atípico, dada de alta tras realización de ergometría, que resulta no concluyente y SPECT de perfusión miocárdica que resulta negativo.
+Tratamiento habitual: enalapril 20 mg/hidroclorotiazida 12,5 mg 1 comprimido cada 24 horas, sitagliptina 100 mg 1 comprimido cada 24 horas.
+
+Enfermedad actual
+Acude a urgencias derivada por dolor torácico de varios días de evolución. La paciente describe el dolor como centrotorácico, opresivo, intermitente, no irradiado, no acompañado de cortejo vegetativo, que aparece con los esfuerzos y mejora con el reposo, de 5 días de evolución. El episodio de hoy ha sido de mayor intensidad, por lo que ha acudido a su médico de atención primaria, que la deriva al hospital ante hallazgos patológicos en el electrocardiograma (ECG), sugestivos de síndrome coronario agudo sin elevación del segmento ST. En la analítica de urgencias se observa, como hallazgo de principal interés, la presencia de movilización de marcadores de daño miocárdico en rango de necrosis miocárdica: TnT-hs 25 – 47 – 93 ng/l. Se diagnostica, por lo tanto, de síndrome coronario agudo sin elevación del ST, y se solicita coronariografía, que se realiza al día siguiente y que muestra una lesión en la arteria circunfleja media, que es revascularizada mediante implante de 1 stent farmacoactivo. Durante su estancia en la planta de hospitalización, la evolución es adecuada, no presentando nuevos episodios de dolor torácico. Se lleva a cabo ecocardiografía, que muestra una función biventricular conservada, sin trastornos de la contractilidad segmentaria. En la analítica intrahospitalaria se observa una función renal conservada, un perfil lipídico mejorable y unos niveles de hemoglobina glicosilada altos. Finalmente, es dada de alta con el siguiente tratamiento al alta: ácido acetilsalicílico (AAS) 100 mg (1 comprimido cada 24 h), ticagrelor 90 mg (1 comprimido cada 12 h), enalapril/hidroclorotiazida 20/12,5 mg (1 comprimido cada 24 h), bisoprolol 5 mg (1 comprimido cada 24 h), atorvastatina 80 mg (1 comprimido por la noche), omeprazol 20 mg (1 comprimido antes del desayuno), canaglifozina 100 mg (1 comprimido cada 24 h), sitagliptina/metformina 50 mg/1g (1 comprimido cada 12 h).
+
+
+PRUEBAS COMPLEMENTARIAS
+ECG en urgencias.
+Coronariografía: dominancia derecha. Arteria coronaria derecha sin lesiones significativas sugestivas de revascularización. Árbol coronario izquierdo con lesión significativa en arteria circunfleja media, revascularizada mediante implante de 1 stent farmacoactivo.
+Ecocardiografía: ventrículo izquierdo no dilatado con hipertrofia concéntrica ligera de paredes. No se aprecian trastornos de la contractilidad segmentaria. Ventrículo derecho no dilatado. Función biventricular conservada (FEVI 58%). Aurículas no dilatadas. Ausencias de valvulopatías significativas. No derrame pericárdico.
+Analítica reglada: función renal conservada, con creatinina basal de 0,48 mg/dl y filtrado estimado de 104 ml/min/1,73 m2. Perfil lipídico: colesterol total 174 mg/dl, con colesterol LDL de 98 mg/dl y HDL de 46 mg/dl y triglicéridos de 150 mg/dl. Hemoglobina glicosilada: 7,3%.
+
+
+EVOLUCIÓN CLÍNICA
+La paciente es derivada al alta a las consultas de rehabilitación cardiaca, donde inicia un programa de ejercicio estructurado, además de un amplio abordaje de los factores de riesgo cardiovascular. Se trataba de una paciente diabética con mal control, con una HbA1c 7,3%, que estaba en tratamiento domiciliario con sitagliptina y a la que se escaló, en el alta hospitalaria a sitagliptina/metformina y se decidió añadir canaglifozina buscando el beneficio cardiovascular.
+
+En el seguimiento, la paciente presenta un cuadro de molestias gastrointestinales, que ceden tras el cese de la toma de metformina, por lo que comienza a discontinuar el tratamiento hipoglucemiante oral y empieza a presentar malos controles glucémicos diarios. No solo eso, sino que de forma prácticamente simultánea, la paciente presenta varios episodios de infecciones del tracto genitourinario, todas de origen fúngico (C. albicans), asociadas al tratamiento con inhibidores del cotransportador sodio-glucosa tipo 2 (iSGLT2), que responden al tratamiento antifúgnico, pero recidivan a los pocos días. Ante esta situación, se deciden tomar también medidas generales con el objetivo de tratar de prevenir nuevos episodios de infecciones genitourinarias, pero todas estas medidas resultan inefectivas, por lo que, desde su médico de atención primaria se decide suspender el tratamiento con iSGLT2 e iniciar directamente tratamiento con insulinas de acción lenta. Al ser revisada de nuevo en las consultas de rehabilitación cardiaca, se decide probar una actuación diferente, y es iniciar tratamiento con un agonistas del receptor del péptido similar al glucagón tipo 1 (arGLP1). Por lo tanto, se inicia tratamiento con semaglutida 0,25 mg (1 inyección a la semana), con buena tolerancia de la misma. Trascurridas 4 semanas, se incrementa la dosis a 0,5 mg (1 inyección a la semana). De nuevo es bien tolerada y con buenos controles glucémicos. Finalmente, trascurridas otras 4 semanas, se alcanza dosis tope de 1 g a la semana, con una buena tolerancia clínica y con buenos controles glucémicos, llevando incluso a la retirada de la insulina. Tras 3 meses de tratamiento, la analítica reglada muestra una HbA1c de 6,4%, alcanzando el objetivo deseado, habiendo perdido 3 kg de peso en todo el proceso. Todo esto lleva a la decisión de mantener este tratamiento en monoterapia de forma indefinida.
+
+DIAGNÓSTICO
+Cardiopatía isquémica. Síndrome coronario agudo sin elevación del segmento ST, con afectación monovaso de arteria circunfleja, revascularizada mediante implante de 1 stent. Función biventricular conservada.
+Muy alto riesgo cardiovascular: hipertensión arterial, dislipemia y diabetes mellitus tipo 2 de larga evolución con mal control metabólico.
+Intolerancia a metformina. Infecciones urinarias de repetición con iSGLT2.

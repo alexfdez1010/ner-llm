@@ -1,0 +1,27 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Hombre de 85 años, con hiperglucemia en ayunas como único antecedente de interés. Activo e independiente. Ingresó un año antes en geriatría por un primer episodio de insuficiencia cardiaca en el contexto de infección respiratoria de vías bajas.
+La evolución clínica fue favorable con diuréticos y antibioterapia empírica. Aunque al ingreso estaba en ritmo sinusal, poco después desarrolló fibrilación auricular con respuesta ventricular ligeramente elevada. Se realizó un ecocardiograma (ECG) con hallazgos de hipertrofia ventricular grave, dilatación biauricular y patrón diastólico restrictivo, compatible con enfermedad miocárdica infiltrativa. Fue dado de alta seis días más tarde con acenocumarol, torasemida 20 mg y bisoprolol 2,5 mg, pendiente de completar el estudio de forma ambulatoria.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: fibrilación auricular con respuesta ventricular media de 60 lpm, bajo voltaje en derivaciones de los miembros y patrón de pseudoinfarto con QS en V1-V2.
+ANALÍTICA: fracción aminoterminal del propéptido natriurético cerebral (NT-proBNP): 4.175 pg/ml, troponina T ultrasensible: 65 ng/l. El resto fue normal, incluyendo hemograma, glucemia, función renal, función hepática, hormonas tiroideas, iones, lípidos y estudio de hierro. El estudio proteico fue normal, con proteinograma, inmunofijación en suero/orina y cadenas ligeras.
+ECOCARDIOGRAMA de control: ventrículo izquierdo no dilatado, con hipertrofia concéntrica grave de patrón granular, espesor máximo del septo basal de 28 mm, fracción de eyección del ventrículo izquierdo (FEVI) 45-50%. Disfunción diastólica grave con patrón restrictivo y presión capilar pulmonar estimada de 30 mmHg. Dilatación biauricular moderada.
+Ventrículo derecho hipertrófico. Válvula mitral engrosada, con insuficiencia leve. Presión pulmonar sistólica estimada de 43 mmHg. Leve derrame pericárdico.
+ECOGRAFÍA ABDOMINAL: leve hepatomegalia, sin otros hallazgos patológicos.
+HOLTER ECG: fibrilación auricular con frecuencia cardiaca (FC) media de 65 lpm. FC mínima de 35 lpm durante el reposo nocturno y máxima de 120 lpm mientras realizaba ejercicio físico.
+Pausas no significativas de predominio nocturno (la mayor de 2 segundos de duración).
+Extrasístoles ventriculares aislados, poco frecuentes.
+BIOPSIAS de grasa abdominal y glándula salivar: negativas para material amiloide.
+RESONANCIA MAGNÉTICA (RM) CARDIACA: ventrículo izquierdo con marcado engrosamiento concéntrico difuso, disfunción sistólica leve. Dilatación leve de ambas aurículas.
+Realce tardío difuso parietal en las cuatro cavidades. Derrame pleural leve, sin derrame pericárdico.
+GRAMMAGRAFÍA tecnecio-difostato (99mTc-DPD): intensa captación del trazador biventricular, grado 2.
+ESTUDIO GENÉTICO de secuenciación mediante técnica Sanger del gen TTR: negativo.
+
+EVOLUCIÓN CLÍNICA
+Durante el seguimiento, el paciente se ha mantenido estable, sin nuevos ingresos ni visitas a urgencias por insuficiencia cardiaca. Actualmente refiere disnea de moderados esfuerzos, astenia, ortopnea de dos almohadas y edemas maleolares leves de predominio vespertino. La tensión arterial es habitualmente baja y presenta episodios de mareo no sincopal, de características ortostáticas.
+En cuanto al tratamiento, se ha cambiado acenocumarol por un anticoagulante de acción directa por mal control de la razón internacional normalizada (INR), con tiempo en rango terapéutico inferior a 30%. Se ha retirado bisoprolol debido a frecuencia cardiaca relativamente lenta (50-60 lpm) e hipotensión arterial (90/60 mmHg). El tratamiento médico actual es rivaroxabán 15 mg, torasemida 10 mg y espironolactona 25 mg, con una pauta flexible de diuréticos.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca congestiva con fracción de eyección ligeramente deprimida, clase funcional II de la New York Heart Association (NYHA).
+Miocardiopatía restrictiva por amiloidosis TTR-wild type, con hipertrofia biventricular grave y disfunción diastólica grave.
+Fibrilación auricular permanente, con respuesta ventricular controlada. Alto riesgo cardioembólico, anticoagulado.

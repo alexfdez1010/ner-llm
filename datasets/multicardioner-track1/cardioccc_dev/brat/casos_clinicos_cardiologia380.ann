@@ -1,0 +1,46 @@
+T27	ENFERMEDAD 142 165	alergias medicamentosas
+T28	ENFERMEDAD 202 233	hipertensión arterial sistémica
+T29	ENFERMEDAD 235 264	diabetes mellitus (DM) tipo 2
+T30	ENFERMEDAD 254 256	DM
+T31	ENFERMEDAD 266 276	dislipemia
+T32	ENFERMEDAD 301 330	cardiopatía isquémica crónica
+T33	ENFERMEDAD 332 373	Infarto agudo de miocardio (IAM) anterior
+T34	ENFERMEDAD 360 363	IAM
+T35	ENFERMEDAD 532 568	Reinfarto en 2008 por oclusión de DA
+T36	ENFERMEDAD 835 856	fibrilación auricular
+T37	ENFERMEDAD 858 860	FA
+T38	ENFERMEDAD 910 956	Tromboembolismo pulmonar segmentario bilateral
+T39	ENFERMEDAD 1129 1131	IC
+T40	ENFERMEDAD 1227 1263	disfunción ventricular derecha grave
+T41	ENFERMEDAD 1448 1495	enfermedad renal crónica de etiología diabética
+T42	ENFERMEDAD 1541 1554	hiperuricemia
+T43	ENFERMEDAD 1556 1565	depresión
+T44	ENFERMEDAD 1568 1579	gonartrosis
+T45	ENFERMEDAD 1609 1628	deterioro cognitivo
+T46	ENFERMEDAD 2155 2182	disnea paroxística nocturna
+T47	ENFERMEDAD 3245 3247	FA
+T48	ENFERMEDAD 3309 3358	bloqueo completo de rama izquierda del haz de His
+T49	ENFERMEDAD 3645 3701	Válvula mitral con cambios degenerativos e insuficiencia
+T50	ENFERMEDAD 3764 3816	Válvula tricúspide con insuficiencia ligera-moderada
+T51	ENFERMEDAD 3935 3954	derrame pericárdico
+T52	ENFERMEDAD 4053 4074	descompensación de IC
+T53	ENFERMEDAD 4302 4312	IC crónica
+T54	ENFERMEDAD 5062 5083	Descompensación de IC
+T55	ENFERMEDAD 5225 5254	Cardiopatía isquémica crónica
+T56	ENFERMEDAD 5318 5339	hipertensión pulmonar
+T57	ENFERMEDAD 5398 5434	Disfunción ventricular derecha grave
+T58	ENFERMEDAD 5490 5539	Enfermedad renal crónica por nefropatía diabética
+T59	ENFERMEDAD 5541 5572	Hipertensión arterial sistémica
+T60	ENFERMEDAD 5574 5584	Dislipemia
+T61	ENFERMEDAD 5586 5595	DM tipo 2
+T62	ENFERMEDAD 1375 1388	FA permanente
+T63	ENFERMEDAD 5436 5461	FA permanente no valvular
+T64	ENFERMEDAD 728 730	IC
+T65	ENFERMEDAD 3710 3755	Válvula aórtica esclerosada con insuficiencia
+T66	ENFERMEDAD 2565 2574	arrítmica
+T67	ENFERMEDAD 2659 2672	hepatomegalia
+T68	ENFERMEDAD 2184 2187	DPN
+T69	ENFERMEDAD 3573 3611	Ventrículo derecho gravemente dilatado
+T70	ENFERMEDAD 3877 3904	Vena cava inferior dilatada
+T103	ENFERMEDAD 1005 1059	dilatación y disfunción moderada de ventrículo derecho
+#1	AnnotatorNotes T68	  Disnea paroxística nocturna

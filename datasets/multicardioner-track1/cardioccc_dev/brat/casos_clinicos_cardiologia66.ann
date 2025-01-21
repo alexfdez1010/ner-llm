@@ -1,0 +1,62 @@
+T38	ENFERMEDAD 90 111	hipertensión arterial
+T39	ENFERMEDAD 113 130	diabetes mellitus
+T40	ENFERMEDAD 133 162	fibrilación auricular crónica
+T41	ENFERMEDAD 282 347	doble lesión mitral reumática con insuficiencia mitral (IM) grave
+T42	ENFERMEDAD 403 432	doble lesión aórtica moderada
+T43	ENFERMEDAD 434 464	hipertensión pulmonar moderada
+T44	ENFERMEDAD 1426 1447	fibrilación auricular
+T45	ENFERMEDAD 2360 2394	Válvula aórtica esclerocalcificada
+T46	ENFERMEDAD 2432 2452	Doble lesión aórtica
+T47	ENFERMEDAD 2615 2645	Insuficiencia aórtica moderada
+T48	ENFERMEDAD 3003 3015	VCI dilatada
+T49	ENFERMEDAD 3062 3081	derrame pericárdico
+T50	ENFERMEDAD 3589 3625	Válvula aórtica trivalva calcificada
+T51	ENFERMEDAD 3849 3870	shunts intracardiacos
+T52	ENFERMEDAD 4335 4391	trombo mural fijo en la entrada de la orejuela izquierda
+T53	ENFERMEDAD 4927 4970	estenosis no significativa en tronco ostial
+T54	ENFERMEDAD 5143 5165	insuficiencia cardiaca
+T55	ENFERMEDAD 5329 5377	disfunción sistólica ventricular izquierda grave
+T56	ENFERMEDAD 5417 5449	estenosis aórtica moderada-grave
+T57	ENFERMEDAD 5538 5585	trombo intraventricular tapizando anillo mitral
+T58	ENFERMEDAD 5992 6006	fallo cardiaco
+T59	ENFERMEDAD 6151 6185	isquemia aguda de miembro inferior
+T60	ENFERMEDAD 6415 6434	trombosis protésica
+T61	ENFERMEDAD 6469 6489	embolismo periférico
+T62	ENFERMEDAD 7124 7180	Aspergillus en el septifast del "trombo valvular mitral"
+T63	ENFERMEDAD 7869 7914	lesión quística en lóbulo occipital izquierdo
+T64	ENFERMEDAD 8008 8019	aspergiloma
+T65	ENFERMEDAD 8069 8166	ictus en territorio de arteria cerebral posterior izquierda con componente hemorrágico/infeccioso
+T66	ENFERMEDAD 8190 8220	émbolo séptico por Aspergillus
+T67	ENFERMEDAD 8411 8443	insuficiencia respiratoria aguda
+T68	ENFERMEDAD 8752 8776	tromboembolismo pulmonar
+T69	ENFERMEDAD 9109 9120	aspergiloma
+T70	ENFERMEDAD 9193 9244	Endocarditis fúngica sobre válvula mitral protésica
+T71	ENFERMEDAD 9262 9288	Bloqueo valvular protésico
+T72	ENFERMEDAD 9290 9349	Embolismo periférico con isquemia aguda de miembro inferior
+T73	ENFERMEDAD 9393 9452	Ictus en territorio de arteria cerebral posterior izquierda
+T74	ENFERMEDAD 9481 9492	aspergiloma
+T75	ENFERMEDAD 9495 9513	Shock cardiogénico
+T76	ENFERMEDAD 2904 2915	IT moderada
+T77	ENFERMEDAD 3833 3844	IT moderada
+T78	ENFERMEDAD 1702 1717	daño miocárdico
+T79	ENFERMEDAD 2105 2160	ventrículo izquierdo ligeramente hipertrófico, dilatado
+T80	ENFERMEDAD 2309 2320	AI dilatada
+T81	ENFERMEDAD 2891 2902	AD dilatada
+T82	ENFERMEDAD 2945 2947	IP
+T83	ENFERMEDAD 3165 3188	Fuga periprotésica leve
+T84	ENFERMEDAD 3794 3805	VD dilatado
+T85	ENFERMEDAD 4282 4311	insuficiencias periprotésicas
+T86	ENFERMEDAD 8819 8846	disociación electromecánica
+T87	ENFERMEDAD 9515 9542	disociación electromecánica
+T187	ENFERMEDAD 914 935	episodios infecciosos
+T17	ENFERMEDAD 3581 3587	trombo
+T18	ENFERMEDAD 4231 4237	trombo
+T28	ENFERMEDAD 6761 6767	trombo
+T30	ENFERMEDAD 8605 8655	grave depresión de la contractilidad global del VI
+T34	ENFERMEDAD 8970 9061	estructura densa parcialmente trombosada anclada al disco protésico, compuesta por micelios
+#1	AnnotatorNotes T48	 VCI vena cava inferior
+#2	AnnotatorNotes T76	 IT insuficiencia tricuspídea
+#3	AnnotatorNotes T80	 AI aurícula izquierda
+#4	AnnotatorNotes T81	 AD aurícula derecha
+#5	AnnotatorNotes T82	 IP insuficiencia pulmonar
+#6	AnnotatorNotes T84	 VD ventrículo derecho

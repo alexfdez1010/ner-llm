@@ -1,0 +1,16 @@
+T1	ENFERMEDAD 49 69	hepatitis alcohólica
+T2	ENFERMEDAD 107 125	síndrome nefrótico
+T4	ENFERMEDAD 144 163	insuficiencia renal
+T8	ENFERMEDAD 263 309	lesiones purpúricas en los miembros inferiores
+T11	ENFERMEDAD 974 994	GNMP asociada al VHC
+T16	ENFERMEDAD 1189 1206	cirrosis hepática
+T18	ENFERMEDAD 1517 1556	pericarditis aguda con presencia de VHC
+T19	ENFERMEDAD 1790 1837	artritis inflamatoria de grandes articulaciones
+T21	ENFERMEDAD 2009 2039	insuficiencia renal progresiva
+T24	ENFERMEDAD 2167 2197	hemorragia cerebral espontánea
+T25	ENFERMEDAD 2277 2285	enolismo
+T40	ENFERMEDAD 3443 3481	GN mesangial IgA de novo en el injerto
+T65	ENFERMEDAD 1563 1582	líquido pericárdico
+T68	ENFERMEDAD 247 260	hepatomegalia
+#1	AnnotatorNotes T11	   GNMP: Glomerulonefritis membranoproliferativa
+#2	AnnotatorNotes T18	   VHC: virus hepatitis C

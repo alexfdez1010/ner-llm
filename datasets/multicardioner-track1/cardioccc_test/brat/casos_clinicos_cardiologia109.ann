@@ -1,0 +1,37 @@
+T32	ENFERMEDAD 30 44	asma bronquial
+T33	ENFERMEDAD 75 85	Dislipemia
+T34	ENFERMEDAD 142 156	Asma bronquial
+T35	ENFERMEDAD 158 176	Trastorno afectivo
+T36	ENFERMEDAD 469 483	asma bronquial
+T37	ENFERMEDAD 608 619	cardiopatía
+T38	ENFERMEDAD 1168 1208	Trastorno de conducción intraventricular
+T39	ENFERMEDAD 1554 1575	hipertensión pulmonar
+T40	ENFERMEDAD 2385 2423	Válvula aórtica con regurgitación leve
+T41	ENFERMEDAD 2540 2556	Válvula pulmonar
+T42	ENFERMEDAD 2944 2993	insuficiencia de la válvula AV sistémica moderada
+T43	ENFERMEDAD 3201 3221	trastornos del ritmo
+T44	ENFERMEDAD 3261 3274	valvulopatías
+T45	ENFERMEDAD 3291 3313	disfunción ventricular
+T46	ENFERMEDAD 3470 3513	Insuficiencia válvula AV sistémica moderada
+T47	ENFERMEDAD 3516 3537	Hipertensión pulmonar
+T48	ENFERMEDAD 3540 3554	Asma bronquial
+T49	ENFERMEDAD 1941 1988	Válvula AV izquierda con insuficiencia moderada
+T50	ENFERMEDAD 50 73	alergias medicamentosas
+T51	ENFERMEDAD 814 821	síncope
+T52	ENFERMEDAD 791 796	angor
+T53	ENFERMEDAD 1371 1447	Disposición anómala de grandes vasos, con arteria pulmonar medial a la aorta
+T54	ENFERMEDAD 1684 1705	Inversión ventricular
+T55	ENFERMEDAD 1707 1760	Discordancia auriculoventricular y ventriculoarterial
+T56	ENFERMEDAD 2021 2052	Discordancia ventriculoarterial
+T57	ENFERMEDAD 2128 2157	Discordancia atrioventricular
+T58	ENFERMEDAD 2212 2232	nversión ventricular
+T59	ENFERMEDAD 2054 2126	Aorta asentando en ventrículo derecho y pulmonar en ventrículo izquierdo
+T60	ENFERMEDAD 2425 2471	Válvula AV sistémica con dilatación del anillo
+T61	ENFERMEDAD 2575 2634	Tronco y ramas pulmonares principales severamente dilatadas
+T62	ENFERMEDAD 2860 2917	trasposición de grandes arterias corregida congénitamente
+T63	ENFERMEDAD 3409 3467	Trasposición de grandes arterias, corregida congénitamente
+T64	ENFERMEDAD 1450 1473	acabalgamiento de aorta
+T24	ENFERMEDAD 2651 2672	hipertensión pulmonar
+T25	ENFERMEDAD 525 560	malposición de las grandes arterias
+T30	ENFERMEDAD 1476 1488	trasposición
+T90	ENFERMEDAD 2998 3019	hipertensión pulmonar

@@ -1,0 +1,25 @@
+T26	ENFERMEDAD 70 80	hipertensa
+T27	ENFERMEDAD 82 98	diabética tipo 2
+T28	ENFERMEDAD 100 111	dislipémica
+T29	ENFERMEDAD 113 123	exfumadora
+T30	ENFERMEDAD 127 139	hipotiroidea
+T31	ENFERMEDAD 161 173	rectorragias
+T32	ENFERMEDAD 179 262	accidente cerebrovascular transitorio en el territorio de la arteria cerebral media
+T33	ENFERMEDAD 1225 1265	trastorno de conducción por rama derecha
+T34	ENFERMEDAD 1280 1294	isquemia aguda
+T35	ENFERMEDAD 1525 1537	coagulopatía
+T36	ENFERMEDAD 1575 1650	ventrículo izquierdo (VI) no dilatado con hipertrofia grave del septo basal
+T37	ENFERMEDAD 1828 1850	Estenosis aórtica leve
+T38	ENFERMEDAD 1861 1874	valvulopatías
+T39	ENFERMEDAD 1879 1898	derrame pericárdico
+T40	ENFERMEDAD 1917 1966	lesión grave en el ostium de la coronaria derecha
+T41	ENFERMEDAD 2052 2090	Lesión moderada en la primera diagonal
+T42	ENFERMEDAD 2420 2455	FA con respuesta ventricular rápida
+T43	ENFERMEDAD 2945 3001	Infarto agudo de miocardio sin elevación del segmento ST
+T44	ENFERMEDAD 1150 1152	FA
+T45	ENFERMEDAD 3066 3068	FA
+T46	ENFERMEDAD 3003 3010	IAMSEST
+T47	ENFERMEDAD 1193 1223	hemibloqueo anterior izquierdo
+T48	ENFERMEDAD 2881 2916	eventos trombóticos ni hemorrágicos
+T49	ENFERMEDAD 3013 3040	Lesión crítica en CD ostial
+T75	ENFERMEDAD 2600 2610	hemorragia

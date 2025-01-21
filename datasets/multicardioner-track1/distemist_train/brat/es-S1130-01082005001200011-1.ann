@@ -1,0 +1,10 @@
+T3	ENFERMEDAD 3799 3817	mioclonia cortical
+T4	ENFERMEDAD 1293 1295	EC
+T5	ENFERMEDAD 1110 1161	duodenales mostró atrofia total de las vellosidades
+T10	ENFERMEDAD 100 115	diarrea crónica
+T12	ENFERMEDAD 425 427	EC
+T19	ENFERMEDAD 192 194	EC
+T27	ENFERMEDAD 4058 4086	distonía en las extremidades
+T57	ENFERMEDAD 5031 5054	neumonía por aspiración
+#2	AnnotatorNotes T4	  EC: enfermedad celíaca
+#1	AnnotatorNotes T19	  EC: enfermedad celíaca

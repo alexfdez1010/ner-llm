@@ -1,0 +1,13 @@
+T1	ENFERMEDAD 1094 1106	hiponatremia
+T4	ENFERMEDAD 37 54	neoplasia de mama
+T11	ENFERMEDAD 579 597	síndrome depresivo
+T12	ENFERMEDAD 108 135	miocardiopatía hipertensiva
+T14	ENFERMEDAD 1190 1195	SIADH
+T16	ENFERMEDAD 154 173	hipercolesterolemia
+T18	ENFERMEDAD 176 205	hiponatremia crónica moderada
+T25	ENFERMEDAD 1360 1372	hiponatremia
+T27	ENFERMEDAD 806 818	hiponatremia
+T41	ENFERMEDAD 1005 1074	síndrome confusional secundario a infección urinaria y/o hiponatremia
+T42	ENFERMEDAD 1039 1057	infección urinaria
+T43	ENFERMEDAD 1062 1074	hiponatremia
+#1	AnnotatorNotes T14	  SIADH: Syndrome of inappropiate antidiuretic hormone (Síndrome de secreción inadecuada de hormona antidiurética)

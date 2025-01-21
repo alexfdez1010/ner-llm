@@ -1,0 +1,51 @@
+T33	ENFERMEDAD 2122 2138	dilatación de VI
+T34	ENFERMEDAD 2345 2378	VD dilatado con disfunción ligera
+T38	ENFERMEDAD 2878 2911	VD dilatado con función deprimida
+T39	ENFERMEDAD 2926 2948	IM subjetivamente leve
+T83	ENFERMEDAD 85 106	Alérgico a penicilina
+T84	ENFERMEDAD 108 117	Exfumador
+T85	ENFERMEDAD 141 156	consumo enólico
+T86	ENFERMEDAD 158 179	Hipertensión arterial
+T87	ENFERMEDAD 187 195	diabetes
+T88	ENFERMEDAD 198 208	dislipemia
+T89	ENFERMEDAD 254 265	cardiopatía
+T90	ENFERMEDAD 382 397	cuadro catarral
+T91	ENFERMEDAD 520 536	bronquitis aguda
+T93	ENFERMEDAD 1036 1058	insuficiencia cardiaca
+T96	ENFERMEDAD 1518 1521	TVP
+T97	ENFERMEDAD 1980 1993	cardiomegalia
+T98	ENFERMEDAD 2054 2069	derrame pleural
+T99	ENFERMEDAD 2072 2095	consolidación neumónica
+T100	ENFERMEDAD 2282 2303	Disfunción diastólica
+T101	ENFERMEDAD 2492 2511	derrame pericárdico
+T102	ENFERMEDAD 2543 2565	lesiones angiográficas
+T103	ENFERMEDAD 2957 2976	derrame pericárdico
+T104	ENFERMEDAD 3092 3115	miocardiopatía dilatada
+T105	ENFERMEDAD 3120 3149	disfunción ventricular severa
+T106	ENFERMEDAD 3244 3287	lesiones cerebrales isquémicas establecidas
+T107	ENFERMEDAD 3292 3310	hemorragias agudas
+T108	ENFERMEDAD 3425 3541	lesiones isquémicas establecidas a nivel del temporo-occipital derecho, tálamo ipsilateral y cerebelosas bilaterales
+T109	ENFERMEDAD 3559 3616	transformación hemorrágica en la lesión temporo-occipital
+T110	ENFERMEDAD 3819 3833	miocardiopatía
+T111	ENFERMEDAD 3838 3869	disfunción biventricular severa
+T112	ENFERMEDAD 4111 4130	lesiones coronarias
+T113	ENFERMEDAD 4226 4249	miocardiopatía dilatada
+T114	ENFERMEDAD 4254 4283	disfunción ventricular severa
+T115	ENFERMEDAD 4747 4784	accidente vascular cerebral isquémico
+T116	ENFERMEDAD 5154 5176	insuficiencia cardiaca
+T117	ENFERMEDAD 5216 5238	Insuficiencia cardiaca
+T118	ENFERMEDAD 5249 5277	Miocardiopatía no compactada
+T119	ENFERMEDAD 5282 5306	disfunción biventricular
+T2	ENFERMEDAD 791 807	BRIHH incompleto
+T29	ENFERMEDAD 1915 1931	BRIHH incompleto
+T35	ENFERMEDAD 2380 2387	IT leve
+T37	ENFERMEDAD 2607 2618	VI dilatado
+T92	ENFERMEDAD 2865 2876	AI dilatada
+T94	ENFERMEDAD 2913 2924	AD dilatada
+T95	ENFERMEDAD 3312 3401	Oclusión del segmento posterior comunicante (P2) de la arteria cerebral posterior derecha
+T123	ENFERMEDAD 3872 3914	hipertrabeculación de ventrículo izquierdo
+T125	ENFERMEDAD 5308 5345	Accidente vascular cerebral isquémico
+T128	ENFERMEDAD 1868 1885	crecimiento de AI
+T132	ENFERMEDAD 2435 2451	disfunción de VD
+T136	ENFERMEDAD 815 841	cuadro febril o infeccioso
+T23	ENFERMEDAD 2263 2280	IM funcional leve

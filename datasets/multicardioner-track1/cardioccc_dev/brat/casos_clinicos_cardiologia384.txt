@@ -1,0 +1,34 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+Hipertensión arterial. Dislipemia. No diabetes mellitus conocida. Cardiopatía isquémica crónica.
+Infarto agudo de miocardio con elevación del segmento ST (IAMCEST) inferior evolucionado en diciembre de 2016. Por clínica de angina refractaria se realizó angioplastia percutánea programada con implante de stent recubierto a oclusión trombótica de coronaria derecha proximal. Suboclusión crónica de primera obtusa marginal no tratada (vaso de fino calibre). La ecocardiografía al alta objetivó ventrículo izquierdo (VI) ligeramente dilatado con hipertrofia concéntrica ligera y amplia zona de acinesia/discinesia en segmentos inferiores e inferolaterales con imagen de gran pseudoaneurisma y abundante material trombótico tapizando las paredes del mismo. Normocontractilidad del resto y fracción de eyección del ventrículo izquierdo (FEVI) residual moderadamente deprimida (40%). Dado de alta con triple terapia con acenocumarol, sin objetivarse la resolución del trombo intracavitario en ecocardiografía realizada a los 6 meses del alta.
+Otras patologías: enfermedad renal crónica estadio 3B. Enfermedad arterial periférica grado IIb de Fontaine. Demencia tipo Alzheimer.
+Tratamiento actual: acenocumarol, ácido aceltilsalicílico (AAS) 100 mg/24 horas, bisoprolol 5 mg/24 horas, ramipril 2,5 mg/24 horas, furosemida 40 mg/24 horas, atorvastatina 80 mg/24 horas, omeprazol 20 mg/24 horas.
+Situación funcional: clase funcional II de la New York Heart Association (NYHA). Deterioro cognitivo moderado. Vida cama-sillón.
+Antecedentes familiares: hermano con infarto agudo de miocardio (IAM) a los 51 años.
+
+ENFERMEDAD ACTUAL:
+Paciente que acude a revisión de su cardiopatía isquémica. No refiere reaparición de clínica anginosa aunque su actividad física se encuentra muy limitada, únicamente refiere disnea con los cambios posturales. Sin sangrados relevantes bajo triple terapia, suspendió clopidogrel al año de haberlo iniciado.
+
+EXPLORACIÓN FÍSICA:
+Peso 78,0 kg. Talla 165 cm. Tensión arterial (TA) 98/56 mmHg. Frecuencia cardiaca (FC) 67 lpm.
+Saturación de oxígeno (SatO2) 96%. Auscultación cardiaca: ruidos cardiacos rítmicos, sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado (MVC) sin sobreañadidos patológicos.
+Abdomen anodino. Extremidades inferiores (EEII) sin edemas ni signos de trombosis venosa profunda (TVP). Pulsos Normales.
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA reciente: glucosa 108 mg/dl, urea 32 mg/dl, creatinina 1,45 mg/dl, bilirrubina 0,7. GOT 21,0. GPT 28,0 g/dl. Colesterol total 155 mg/dl, triglicéridos 123 mg/dl, colesterol HDL 43 mg/dl, colesterol LDL 98 mg/dl. Sodio 141 mEq/l, potasio 4,6 mEq/l. Hemoglobina 15,4 g/dl, hematocrito 44,5%, VCM 84,3 fl, plaquetas 237.0 10e3/ul, leucocitos 6.73 10e3/ul, HbA1c 5,6%.
+ELECTROCARDIOGRAMA (ECG) realizado en consultas: ritmo sinusal a 66 lpm, PR < 200 ms, QRS 110 ms presenta onda Q en derivaciones inferiores con supradesnivelación del ST de hasta 1,5 mm y onda T negativa inferolateral.
+ECOCARDIOGRAFÍA reciente: discinesia inferior basal y posterior basal, acinesia de septo posterior medio. Hipocinesia de cara lateral media. Las zonas descritas discinéticas presentan imagen de gran pseudoaneurisma con imagen de material trombótico en su interior.
+Normocontractilidad del resto y FEVI residual moderadamente deprimida que no se cuantifica por presencia de aneurisma, estimada visualmente en un 35-40%. Ligeros signos degenerativos valvulares, con apertura conservada. Dilatación auricular izquierda. Leve derrame pericárdico en zona adyacente cara posterior, sin datos de compromiso hemodinámico. Vena cava inferior y suprahepática no dilatadas, con adecuado colapso inspiratorio, lo que excluye la presencia de hipertensión venosa sistémica significativa.
+RESONANCIA MAGNÉTICA CARDIACA: se observa una imagen sacular de 4,8 x 4,4 cm aproximadamente que comunica directamente con la cavidad ventricular izquierda, apreciándose un cambio abrupto en el contorno de la pared del VI, de localización inferior e inferolateral basales compatible con pseudoaneurisma del VI. Muestra un cuello ancho de 3,6 cm. En la secuencia eco de gradiente con TI largo (550 ms) tras la administración de contraste iv, se aprecia una imagen hipointensa con morfología en semiluna en su interior, de aproximadamente 13 mm de grosor máximo, compatible con trombo. En las secuencias de realce tardío no se observan áreas hiperintensas que sugieran tejido miocárdico necrótico que conforme su pared. Disfunción moderada-grave del VI (FEVI 35%). Leve insuficiencia aórtica y mitral.
+
+EVOLUCIÓN CLÍNICA
+Ante los hallazgos morfológicos descritos en las pruebas complementarias se planteó la posibilidad de intervención quirúrgica del pseudoaneurisma siendo finalmente desestimada dicha opción en consenso con el paciente, dada la elevada comorbilidad y la estabilidad a clínica desde el alta (sin episodios de descompensación por insuficiencia cardiaca, arritmias ventriculares o recurrencia de angina). En su lugar, se planteó una estrategia de seguimiento clínico y con técnicas de imagen periódicas para valorar signos de progresión o alarma del mismo.
+En este sentido, durante el seguimiento se confirmó la ausencia resolución del trombo intraventricular bajo una adecuada terapia anticoagulante (tiempo en rango INR 2-3 > 60%). Por lo que, considerando que el bajo riesgo de embolización del mismo atendiendo a sus características morfológicas y el elevado riesgo de sangrado del paciente, se retiró de manera definitiva tratamiento anticoagulante.
+Por último, se asoció ezetimiba 10 mg/24 horas al tratamiento para intentar alcanzar concentraciones de colesterol LDL objetivo (< 70 mg/dl).
+
+DIAGNÓSTICO
+Cardiopatía isquémica crónica. SCACEST inferior evolucionado. Revascularización con stent farmacoactivo a coronaria derecha proximal.
+Pseudoaneurisma ventricular izquierdo con imagen de trombo intracavitario. Disfunción ventricular moderada.

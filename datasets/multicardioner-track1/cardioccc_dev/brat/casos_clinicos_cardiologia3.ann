@@ -1,0 +1,51 @@
+T7	ENFERMEDAD 3819 3859	depresión grave de la función miocárdica
+T12	ENFERMEDAD 150 168	tormenta arrítmica
+T13	ENFERMEDAD 315 336	Hipertensión arterial
+T14	ENFERMEDAD 338 341	HTA
+T15	ENFERMEDAD 344 354	dislipemia
+T16	ENFERMEDAD 356 380	diabetes mellitus tipo 2
+T17	ENFERMEDAD 429 453	Enfermedad renal crónica
+T18	ENFERMEDAD 455 458	ERC
+T19	ENFERMEDAD 472 524	Enfermedad pulmonar obstructiva crónica (EPOC) grave
+T20	ENFERMEDAD 513 517	EPOC
+T21	ENFERMEDAD 526 543	Neoplasia vesical
+T22	ENFERMEDAD 666 695	cardiopatía isquémica crónica
+T23	ENFERMEDAD 697 723	infarto agudo de miocardio
+T24	ENFERMEDAD 725 728	IAM
+T25	ENFERMEDAD 853 871	tormenta arrítmica
+T26	ENFERMEDAD 1037 1073	taquicardia ventricular no sostenida
+T27	ENFERMEDAD 1274 1329	cardiopatía isquémica difusa, con enfermedad de 3 vasos
+T28	ENFERMEDAD 1496 1519	taquicardia ventricular
+T29	ENFERMEDAD 1558 1599	bloqueo auriculoventricular (AV) completo
+T30	ENFERMEDAD 1757 1778	cardiopatía isquémica
+T31	ENFERMEDAD 1824 1842	tormenta arrítmica
+T32	ENFERMEDAD 1848 1876	disfunción ventricular grave
+T33	ENFERMEDAD 2334 2340	angina
+T34	ENFERMEDAD 2343 2366	arritmias ventriculares
+T35	ENFERMEDAD 3421 3432	bacteriemia
+T36	ENFERMEDAD 3602 3627	Derrame pleural bilateral
+T37	ENFERMEDAD 4451 4478	infección del cable del DAI
+T38	ENFERMEDAD 4610 4639	infección del catéter del DAI
+T40	ENFERMEDAD 5675 5775	Endocarditis por S. aureus meticilin sensible sobre válvula tricúspide nativa asociada a dispositivo
+T41	ENFERMEDAD 5826 5844	tormenta arrítmica
+T42	ENFERMEDAD 5876 5905	Cardiopatía isquémica crónica
+T43	ENFERMEDAD 5907 5936	Disfunción ventricular ligera
+T44	ENFERMEDAD 5938 5968	Hipertensión pulmonar moderada
+T45	ENFERMEDAD 5981 6005	Enfermedad renal crónica
+T46	ENFERMEDAD 6091 6108	neoplasia vesical
+T47	ENFERMEDAD 6119 6144	adenocarcinoma prostático
+T48	ENFERMEDAD 6146 6167	Hipertensión arterial
+T49	ENFERMEDAD 6169 6186	Diabetes mellitus
+T50	ENFERMEDAD 6188 6198	Dislipemia
+T51	ENFERMEDAD 306 313	Fumador
+T52	ENFERMEDAD 5777 5808	Bloqueo AV completo posablación
+T53	ENFERMEDAD 5969 5979	EPOC grave
+T54	ENFERMEDAD 887 905	problema arrítmico
+T55	ENFERMEDAD 1075 1079	TVNS
+T56	ENFERMEDAD 1521 1523	TV
+T58	ENFERMEDAD 3387 3405	proceso infeccioso
+T59	ENFERMEDAD 5107 5111	TVNS
+T1	ENFERMEDAD 1188 1211	actividad arritmogénica
+T116	ENFERMEDAD 4044 4090	vegetación dependiente de cable de dispositivo
+T117	ENFERMEDAD 4388 4416	vegetación sobre dispositivo
+T121	ENFERMEDAD 5341 5351	vegetación

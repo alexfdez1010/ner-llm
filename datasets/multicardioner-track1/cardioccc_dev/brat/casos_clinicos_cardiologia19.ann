@@ -1,0 +1,33 @@
+T6	ENFERMEDAD 2726 2754	pérdida de visión unilateral
+T10	ENFERMEDAD 54 100	endocarditis sobre válvula protésica biológica
+T11	ENFERMEDAD 139 190	absceso sobre la válvula con dehiscencia del anillo
+T12	ENFERMEDAD 574 582	glaucoma
+T13	ENFERMEDAD 584 597	hiperuricemia
+T14	ENFERMEDAD 599 604	DM II
+T15	ENFERMEDAD 607 626	hipercolesterolemia
+T16	ENFERMEDAD 714 764	infarto de miocardio silente en cara inferolateral
+T17	ENFERMEDAD 811 840	insuficiencia mitral moderada
+T18	ENFERMEDAD 1103 1168	EPOC tipo enfisema con bullas pulmonares bilaterales subpleurales
+T19	ENFERMEDAD 1303 1330	insuficiencia mitral severa
+T20	ENFERMEDAD 1537 1582	enfermedad coronaria significativa de 2 vasos
+T21	ENFERMEDAD 1584 1620	estenosis severa en DA y CD proximal
+T22	ENFERMEDAD 1951 1975	síndrome postcardiotomía
+T23	ENFERMEDAD 2182 2265	trombo de 19 x 11 mm en la cara auricular del velo septal, de la prótesis biológica
+T24	ENFERMEDAD 2815 2836	trombo intraprotésico
+T25	ENFERMEDAD 3121 3198	verruga endocárdica sésil y móvil sobre el velo anterior de la válvula mitral
+T26	ENFERMEDAD 3290 3332	pseudoaneurisma del anillo valvular mitral
+T27	ENFERMEDAD 3364 3383	proceso endocárdico
+T28	ENFERMEDAD 3406 3429	endocarditis infecciosa
+T29	ENFERMEDAD 3629 3683	endocarditis infecciosa sobre válvula protésica mitral
+T30	ENFERMEDAD 3753 3791	perforación del anillo valvular mitral
+T31	ENFERMEDAD 3812 3846	insuficiencia periprotésica severa
+T32	ENFERMEDAD 3927 3939	endocarditis
+T33	ENFERMEDAD 4329 4358	endocarditis protésica precoz
+T34	ENFERMEDAD 4640 4711	abceso perivalvular mitral con "desinserción" parcial del anillo mitral
+T35	ENFERMEDAD 213 221	alergias
+T36	ENFERMEDAD 237 246	exfumador
+T37	ENFERMEDAD 842 923	ventrículo izquierdo (VI) dilatado (volumen telediastólico 155 ml) e hipertrófico
+T38	ENFERMEDAD 1197 1253	infarto establecido de cronología incierta inferolateral
+T77	ENFERMEDAD 288 317	consumidor de 2 copas de vino
+T80	ENFERMEDAD 2630 2636	trombo
+T81	ENFERMEDAD 3253 3259	trombo

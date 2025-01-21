@@ -1,0 +1,17 @@
+T1	ENFERMEDAD 146 168	neoplasia de testículo
+T2	ENFERMEDAD 216 239	criptorquidia bilateral
+T3	ENFERMEDAD 380 412	cólicos nefríticos de repetición
+T4	ENFERMEDAD 430 438	litiasis
+T5	ENFERMEDAD 528 535	Fumador
+T6	ENFERMEDAD 767 784	azoospermia total
+T7	ENFERMEDAD 931 947	tumor testicular
+T8	ENFERMEDAD 950 966	quiste de cordón
+T9	ENFERMEDAD 1059 1088	quiste de epidídimo en cabeza
+T10	ENFERMEDAD 1293 1303	metástasis
+T11	ENFERMEDAD 2100 2126	Tumor de células de Leydig
+T12	ENFERMEDAD 2157 2201	infiltración del epidídimo, túnica albugínea
+T13	ENFERMEDAD 2436 2454	atrofia testicular
+T14	ENFERMEDAD 2489 2534	hiperplasia de células de Leydig intersticial
+T15	ENFERMEDAD 2649 2659	metástasis
+T19	ENFERMEDAD 615 626	esterilidad
+T20	ENFERMEDAD 2205 2222	invasión vascular

@@ -1,0 +1,13 @@
+T1	ENFERMEDAD 1189 1200	orbitopatía
+T4	ENFERMEDAD 57 65	fumadora
+T6	ENFERMEDAD 791 807	hábito tabáquico
+T7	ENFERMEDAD 84 139	hipotiroidismo posablación tiroidea con yodo radiactivo
+T13	ENFERMEDAD 142 151	OG severa
+T14	ENFERMEDAD 156 183	neuropatía óptica bilateral
+T21	ENFERMEDAD 280 306	pseudofaquia en ambos ojos
+T23	ENFERMEDAD 308 328	punctata inferior OD
+T24	ENFERMEDAD 2096 2135	edema y eritema conjuntival y palpebral
+T27	ENFERMEDAD 359 379	quemosis conjuntival
+T35	ENFERMEDAD 2335 2345	estrabismo
+T2	ENFERMEDAD 394 412	edema de carúncula
+#1	AnnotatorNotes T13	  OG: orbitopatía de Graves

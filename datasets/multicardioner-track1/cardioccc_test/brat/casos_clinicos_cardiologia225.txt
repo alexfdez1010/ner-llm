@@ -1,0 +1,38 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Antecedentes
+Varón de 80 años. Sin alergias medicamentosas conocidas. Exfumador desde hace 20 años (EA 15 paquetes/año). Como factores de riesgo cardiovascular destaca hipertensión arterial (HTA) en tratamiento con candesartán 32 mg al día y diabetes mellitus tipo 2 en tratamiento con empagliflozina/metformina 5/1.000 mg al día. Sin antecedentes cardiológicos conocidos. Como antecedentes destacan únicamente una hiperplasia benigna de próstata y una intervención de cataratas en ambos ojos. Independiente para todas las actividades básicas de la vida diaria, incluyendo las avanzadas (Rankin 0).
+
+Enfermedad actual
+El paciente es traído a urgencias de nuestro centro por el soporte vital básico al haber sido encontrado por su hermana en el suelo de su casa a las 15:00 horas con clínica consistente en desviación de la comisura bucal derecha, desviación ocular a la izquierda y alteración del lenguaje. Presenta herida en cuero cabelludo sugestiva de traumatismo craneoencefálico. La última vez que fue visto asintomático fue el día previo sobre las 11:00 horas.
+
+Exploración física
+Tensión arterial (TA) 187/98 mmHg, frecuencia cardiaca (FC) 98 lpm, saturación de oxígeno basal 94%.
+Afasia mixta: lenguaje poco fluente, aunque permite la comunicación. Comprende alguna orden sencilla. Nominación alterada. Preferencia visual izquierda. Hemianopsia homónima derecha en campimetría por confrontación. Paresia facial supranuclear izquierda. Resto de pares craneales conservados. Claudicación del miembro inferior derecho (NIHSS de 8 puntos).
+Auscultación cardiaca: ruidos regulares sin soplos. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos patológicos. Abdomen anodino. Pulsos normales y simétricos.
+
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): ritmo sinusal a 95 lpm. PR 140 ms. QRS estrecho con eje normal. R embrionaria en precordiales hasta V4 con T negativas en I, aVL, V5-V6.
+Analítica: glucosa 138 mg/dl. Urea 39 mg/dl. Creatinina 0,91 mg/dl. Sodio 141 mmol/l. Potasio 4,4 mmol/l. CPK 98 U/l. PCR 7,0 mg/l. Hb 15,7 g/dl. VCM 92 fl. Leucocitos 4,6x10^9/l. Plaquetas 165 x10^9/l. INR 1,07. Troponina T ultrasensible 76 pg/ml -> 68,3 a las 6 horas (normal < 14).
+Radiografía de tórax: sin consolidaciones ni derrame pleural.
+Tomografía computarizada (TC) craneal en vacío: discreta atrofia corticosubcortical cerebral. Hipodensidades occipitales izquierdas y en tálamo izquierdo de origen isquémico agudo de nueva aparición, no presentes en TC previa (2015). Hipodensidad en ínsula izquierda de probable origen isquémico crónico ya presente en TC previa.
+Angio-TC de troncos supraaórticos y polígono de Willis tras administración de contraste intravenoso (imagen 2): defecto de repleción en segmento P2A de arteria cerebral posterior izquierda. Resto de arterias de polígono de Willis permeables, sin visualizar dilataciones aneurismáticas ni estenosis significativas ni imágenes sugestivas de trombosis/oclusión.
+TC de perfusión tras la administración de CIV: área de penumbra en territorio de arteria cerebral posterior izquierda, con mismatch superior al 20%.
+Resonancia magnética (RM) cerebral con angio-RM: extenso infarto isquémico agudo en territorio temporo-occipital izquierdo y talámico izquierdo (este último con transformación hemorrágica). En las secuencias angiográficas se identifican unos troncos supraaórticos sin evidencia de estenosis de carácter significativo. Las estructuras arteriales del polígono de Willis muestran un sistema carotídeo y sistema basilar de características normales sin evidenciar malformaciones vasculares ni estenosis significativas.
+Ecocardiografía transtorácica: cavidades cardiacas de tamaño normal, con hipertrofia moderada, de predominio septal. FEVI ligeramente deprimida (48% por Simpson) a expensas de acinesia del septo y pared anterior en sus segmentos apicales y acinesia de ápex estricto. TAPSE normal. Sin valvulopatías significativas. Se observa masa adherida a la pared septoapical, protruyente y móvil de 20x17 mm, compatible con trombo intraventricular izquierdo.
+Resonancia magnética cardiaca (RMC). Secuencia de realce tardío: trombo redondeado de 11x16x15 mm adherido a pared septoapical. Hipoquinesia lateral, de los segmentos apicales y del ápex estricto. Ausencia de edema miocárdico. Necrosis subendocárdica no transmural en la cara lateral. Ausencia de necrosis en los segmentos apicales.
+Ecocardiografía transtorácica a los dos meses tras el alta: resolución del trombo observado en ecografía previa con persistencia de las alteraciones de contractilidad descritas en ecocardiografías previas.
+
+EVOLUCIÓN CLÍNICA
+Se trata de un paciente de 80 años, con buen nivel funcional, que acude por clínica compatible con ictus isquémico en territorio de la arteria cerebral posterior izquierda con NISS > 6. Se activó desde urgencias el código ictus, observándose en el angio-TC oclusión del segmento P2.
+Se desestimó tratamiento fibrinolítico dado el tiempo de evolución incierto y se contactó con radiología intervencionista para valoración de tratamiento endovascular, que se desestimó también ante hipodensidad establecida en el TC en vacío y oclusión distal a P1.
+Posteriormente se evidencian isquemias en diferentes territorios arteriales en RM cerebral. En la angiografía se observa un sistema carotídeo y basilar de características normales sin evidenciar malformaciones vasculares ni estenosis significativas.
+Como parte del estudio etiológico del ictus se solicitó una ecocardiografía transtorácica reglada, objetivándose trombo intraventricular adherido a pared septoapical. Se realizó interconsulta al servicio de cardiología, completando el estudio con resonancia magnética cardiaca que objetivó además hipocinesia lateral, de los segmentos apicales y del ápex estricto y necrosis subendocárdica no transmural en cara lateral compatible con infarto antiguo. En la anamnesis dirigida el paciente no había presentado sintomatología previa de dolor torácico, disnea u otros síntomas cardiológicos.
+Dadas las características del paciente; anciano y con ictus reciente con transformación hemorrágica en algunos de los territorios cerebrales afectos, se consensuó con el servicio de neurología anticoagulación con rivaroxabán 20 mg al día. Dado que el paciente no había tenido previamente clínica de dolor torácico, la FEVI no estaba gravemente comprometida y dada la situación aguda de ictus con transformación hemorrágica se decidió por el momento no realizar cateterismo coronario y valorar tras la resolución del trombo apical. Al alta el paciente presenta lenguaje poco fluente, pero entiende órdenes, nomina correctamente y repite. Persistencia de déficit campimétrico consistente en una hemianopsia homónima derecha. No déficit motor (NIHSS de 3 puntos).
+La ecocardiografía de control al mes de forma ambulatoria mostró disminución del tamaño del trombo y en la ecocardiografía de control a los dos meses, resolución del mismo con persistencia de las alteraciones de contractilidad descritas en ecocardiografías previas.
+
+DIAGNÓSTICO
+Ictus isquémico en territorio de arteria cerebral posterior izquierda de etiología embólica. Trombo intraventricular.
+Infarto de miocardio antiguo en cara lateral y segmentos apicales.
+Diabetes mellitus tipo 2.
+Hipertensión arterial.

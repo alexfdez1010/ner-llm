@@ -1,0 +1,65 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 82 años que acude a nuestro servicio de urgencias por dolor torácico.
+
+Antecedentes
+Alérgico a penicilinas con tolerancia a las cefalosporinas.
+Hábitos tóxicos: exfumador (IPA 30 paquetes-año).
+Factores de riesgo cardivascular (FRCV): hipertensión arterial (HTA).
+Enfermedad pulmonar obstructiva crónica (EPOC) leve en tratamiento broncodilatador crónico. Nódulo pulmonar solitario, en control por servicio de neumología, sin cambios desde 2008.
+Bocio multinodular.
+
+Historia cardiológica:
+Fibrilación/flutter auricular paroxístico (primer episodio en 2013 en contexto de ingreso por shock séptico y segundo episodio documentado durante posoperatorio de cirugía de rodilla en enero 2020). En tratamiento anticoagulante con acenocumarol.
+En 2017, tras intervención por úlcera sacra, episodio de dolor torácico compatible con angor inestable. Ecocardiograma transtorácico (ETT) sin alteraciones, FEVI conservada. Se completa estudio de forma ambulatoria con ergometría, negativa para isquemia.
+Durante posoperatorio de rodilla en enero de 2020 presenta síndrome coronario agudo sin elevación del segmento ST (SCASEST) con imagen electrocardiográfica compatible con lesión de tronco común izquierdo. Dada la fragilidad del paciente, se maneja de forma conservadora dándose de alta con triple terapia antitrombótica (ácido acetilsalicílico [AAS] + clopidogrel + acenocumarol).
+Último ETT (marzo de 2020): FEVI conservada sin anomalías segmentarias de la contractilidad, dilatación leve raíz aórtica, insuficiencia mitral leve-moderada (grado II). Resto sin cambios respecto a estudio previo.
+
+Historia digestiva:
+Enfermedad de reflujo gastroesofágico (ERGE) con esofagitis grado IV/IV y duodenitis. Acalasia en 2004. Diverticulectomía esofágica con miocardiomiotomia antirreflujo (2008), complicada con infección respiratoria por P. aeruginosa, infección de escara sacra por E. coli. Colecistectomía por colecistitis alitiásica.
+Diverticulosis de colon con hemorragia. Gastroscopia y colonoscopia por anemias ferropénicas en 2018: gastritis crónica como único hallazgo reseñable. Pólipo pediculado a 30 cm de margen anal de 1,5 cm aproximadamente que se reseca. Múltiples divertículos a lo largo de todo el trayecto explorado.
+Angiodisplasia de intestino con hemorragia aislada en 2015.
+Situación funcional basal: independiente para las actividades básicas de la vida diaria, camina con bastón. Funciones superiores conservadas.
+Tratamiento habitual: omeprazol 40 mg; acenocumarol 4 mg según pauta; clopidogrel 75 mg; AAS 100 mg; bisoprolol 2,5 mg al día; losartán 50 mg al día; atorvastatina 40 mg; lorazepam 1 mg; mirtazapina 15 mg.
+
+Enfermedad actual
+El paciente comienza con molestia centrotorácica opresiva la noche previa a acudir a los servicios médicos. El día del ingreso por la mañana, nuevo episodio de dolor de inicio súbito, irradiado a espalda y cuello. No refiere melenas, vómitos ni ningún sangrado macroscópico en días previos. A su llegada a urgencias persiste dolor con tendencia a la hipotensión arterial, taquipnea y mala perfusión distal. En electrocardiograma (ECG) se objetiva descenso difuso del segmento ST, con elevación en aVR, sugestivo de lesión en tronco común izquierdo. Se realiza ecocardioscopia de urgencia, en la que se objetiva disfunción moderada de ventrículo izquierdo (VI). Se decide traslado a la unidad coronaria y coronariografía emergente.
+Escala de riesgo GRACE: 36,7% mortalidad intrahospitalaria, 61,5% riesgo estimado de muerte al año.
+Escala de riesgo CRUSADE: 59 puntos, 19,5% de riesgo de sangrado mayor intrahospitalario, riesgo hemorrágico muy alto.
+
+Exploración física
+Tensión arterial (TA) 95/50 mmHg; frecuencia cardiaca (FC) 80 lpm; Saturación de oxígeno 90 % con gafas nasales a 3 lpm; afebril. Consciente y orientado. Palidez mucocutánea, mala perfusión distal, taquipneico. Plétora yugular. Auscultación cardiaca rítmica, sin soplos audibles. Auscultación pulmonar con crepitantes pulmonares bilaterales hasta campos medios. Abdomen: blando, depresible, no doloroso. Discretas livideces en extremidades inferiores y manos. No se palpan pulsos pedios, sin edemas ni datos de trombosis venosa en miembros inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+ECG al ingreso en urgencias: ritmo sinusal a 70 lpm, PR normal, eje del QRS a 30o, descenso del ST difuso, máximo de 4 mm en V5-V6, con elevación del ST de 1 mm en V1 y 2 mm en aVR.
+ECG tras cateterismo: fibrilación auricular con respuesta ventricular a 80 lpm, descenso del ST en V2-V5 (máximo de 2 mm en V4).
+ECG al alta de la unidad coronaria: flutter auricular común con respuesta ventricular a 75 lpm, ondas Q en cara inferior.
+Radiografía de tórax: cardiomegalia, aumento de densidad perihiliar de predominio derecho con derrame pleural asociado.
+Analítica al ingreso: glucosa 102 mg/dl, urea 66 mg/dl, Cr 1,39 mg/dl, GPT 13 U/l, Bi 0,2 mg/dl, Ca 9,9 mg/dl, albúmina 4,2 g/dl, Na 132 mEq/l, K 4,3 mEq/l, Cl 96 mEq/l, CK 142 U/l, TnT US 146 ng/l (normal 0-14 ng/l), Hb 6,5 g/dl, (VCM 84 fl, HCM 25 pg, ADE 15,9%), plaquetas 351.000/ul, leucocitos 12.510/ul (75% neutrofilia). Coagulación en rango normal.
+Pico enzimático: CK máxima 1.237 U/l, troponina T us máxima 4.224 ng/l.
+Otros resultados analíticos: lipidograma: colesterol total 123 mg/dL, triglicéridos 127 mg/dl, colesterol HDL 48 mg/dl y LDL 50 mg/dl. HbA1c 5,6%
+
+Microbiología:
+Serología SARS-CoV2: negativa. PCR SARS-CoV2: no detectable.
+A su ingreso en unidad coronaria se aísla S. aureus meticilin-resistente (SARM) en muestra nasal.
+En esputo se aíslan colonias de cocobacilos gram negativos, con crecimiento de Haemophilus influenzae.
+En cultivo de úlcera sacra se aíslan cocos gram positivos, con crecimiento de SARM.
+Ecocardiograma al ingreso: VI dilatado (DTD 70 mm), con hipertrofia de VI (HVI) septal leve (SIV 13 mm, PPVI 10 mm). Función sistólica de VI moderada-gravemente deprimida (FEVI 30%) por acinesia de ápex, medio-apical de septo anterior, cara lateral y cara anterior. Patrón de relajación restrictivo (tipo III). Raíz de aorta no dilatada (36 mm). Válvula aórtica esclerocalcificada, trivalva, con buena apertura e insuficiencia leve. AI moderadamente dilatada. Válvula mitral esclerocalcificada, de velos engrosados, con regurgitación moderada-grave que se compone de dosjets que alcanzan ambos techo auricular pero sin flujo reverso en venas pulmonares. Ventrículo derecho (VD) levemente dilatado (DTD basal 42 mm). Función sistólica de VD límite (TAPSE 15 mm). Insuficiencia tricúspide (IT) leve-moderada. Gradiente Vd-Ad 45 mmHg. Vena cava inferior (VCI) levemente dilatada con colapso inspiratorio completo (> 50%). PSAP estimada 55 mmHg. No derrame pericárdico.
+Ecocardiograma previo al alta: FEVI normal (53%). Sin valvulopatías significativas. Sin datos que sugieran hipertensión pulmonar significativa.
+Coronariografía emergente al ingreso: tronco común con estenosis crítica de aspecto irregular en su ostium y segmento medio que provoca una grave caída de la presión luminal durante la cateterización selectiva del vaso. La arteria descendente anterior tan solo presenta irregularidades no significativas. La arteria circunfleja es un vaso de notable desarrollo que no muestra lesiones estimables. Coronaria derecha dominante anatómicamente, difusamente ateromatosa, pero sin estenosis focales significativas. Se realiza intervencionismo coronario percutáneo (ICP) a tronco común, con implantación de un stent Synergy 4 x 12 mm, sin alcanzar la bifurcación distal y permitiendo cierta protrusión del dispositivo en el seno de Valsalva. Tras sobreexpandir la porción proximal delstent con balón NC de 4,5 mm se alcanza un buen resultado angiográfico.
+Estudio cápsula endoscópica (durante el ingreso en la planta de cardiología): ausencia de restos hemáticos a lo largo de toda la exploración. Angiodisplasia en estómago sin datos de sangrado activo. Pólipo milimétrico en ciego de escasa relevancia para la edad y situación clínica actual del paciente. Se recomienda realizar gastroscopia y colonoscopia cuando la situación clínica del paciente lo permita.
+
+EVOLUCIÓN CLÍNICA
+Durante el procedimiento de revascularización, el paciente sufre varios episodios de hipotensión (hasta 70/40 mmHg) con mala perfusión distal y empeoramiento respiratorio. Se administran 4 ampollas de furosemida i.v., oxigenoterapia con FiO2 del 50% manteniendo saturación de oxígeno > 90%. Precisa asimismo de bolos de fenilefrina hasta 50 mcg e inicio de perfusión de noradrenalina hasta 0,1 mcg/kg/min para TAM > 70 mmHg. Progresivamente presenta mejoría respiratoria con buena respuesta diurética y mejoría hemodinámica.
+Durante su ingreso en la unidad coronaria y posteriormente en la planta de cardiología:
+Hemodinámicamente, presenta buena evolución clínica, se suspende la noradrenalina a las 48 horas de ingreso, manteniendo posteriormente con TAM > 70 mmHg sin necesidad de soporte vasoactivo. Alterna ritmo sinusal con rachas de fibrilación flyutter auricular, siendo preciso una dosis puntual de digoxina para control de frecuencia ventricular. En ecocardioscopia a las 72 horas de ingreso, destaca recuperación de la FEVI. En ETT de control previo al alta, se confirma dicha mejoría de la función ventricular, sin datos de valvulopatías ni de hipertensión pulmonar.
+Respiratoriamente, mejoría de los signos congestivos tras balance hídrico negativo, manteniéndose con saturación de oxígeno > 92% inicialmente con gafas nasales y posteriormente con aire ambiente, sin signos congestivos a la exploración física al alta. Nefro-urológico: diuresis forzadas con diurético con buena respuesta, siendo posible disminuir de forma progresiva los bolos de furosemida, hasta su paso a vía oral, presentando mejoría progresiva de la función renal hasta su normalización a las 72 horas de ingreso, sin alteraciones de los electrolitos.
+Infeccioso: afebril, sin necesidad de tratamiento antibiótico, con PCR y serología para COVID-19 negativa, con proteína C reactiva máxima de 64 mg/dl, pero procalcitonina y leucocitos normales. Se recogen muestras de úlcera por presión en zona sacra (ya conocida), aislándose SARM, que es tratado con curas locales. Durante su estancia en planta de hospitalización, presenta picos de febrícula de 37,2 oC con cuadro de tos y expectoración. Ante hallazgo de H. Influenzae en cultivo de esputo se inicia antibioterapia oral con cefalosporinas según resultado de antibiograma.
+Digestivo: en la analítica al ingreso, destaca anemización progresiva (Hb julio/2019: 13 g/dl -->enero/2020: 10,1 g/dl --> marzo/2020: 8,3 g/dl) con Hb al ingreso de 6,5 g/dl, normocítica, hipocrómica con ADE alto por lo que a pesar de que el paciente niega melenas u otros sangrados macroscópicos, se inicia perfusión de pantoprazol intravenoso y se transfunden 2 concentrados de hematíes. Posteriormente mantiene cifras estables en torno a 8,5 g/dl, sin signos de sangrado macroscópico y heces sin aparentes restos hemáticos. Inicialmente en dieta absoluta, presenta buena tolerancia a inicio de dieta oral.
+A pesar de tener indicación para anticoagulación por FA (CHA2DS2VASC 5, HAS BLED 5), inicialmente se decide mantener doble antiagregación con AAS y clopidogrel. Se interconsulta al servicio de digestivo de nuestro centro, que indica estudio con cápsula endoscópica, tras estabilización clínica: ausencia de restos hemáticos a lo largo de toda la exploración. Angiodisplasias en estómago y en ciego sin sangrado activo. Se decide al alta tratamiento con hierro oral y seguimiento en consultas externas de digestivo para realización de gastroscopia/colonoscopia para electrocoagulación de las lesiones angiodisplásicas.
+Se estima el tiempo en rango terapéutico (TRT) con sintrom, en el rango bajo durante los últimos 6 meses —TRT 53%—; por lo que se plantea como posibilidad de cara al alta tratamiento con clopidogrel 75 mg + rivaroxabán 15 mg/día, como doble terapia, basándose en la estrategia del estudio PIONEER, que ha demostrado la misma eficacia y menores tasas de sangrado que la terapia triple clásica con anticoagulantes antagonistas de la vitamina K y doble antiagregación.
+En buena situación clínica es dado de alta a domicilio, con seguimiento posterior en consultas de cardiología, y pendiente de completar estudio digestivo.
+
+DIAGNÓSTICO
+SCASEST Killip IV. Enfermedad arterial coronaria grave de tronco coronario izquierdo (TCI) con lesión crítica. Implante de stent farmacoactivo en TCI. Disfunción sistólica grave de VI recuperada (al alta FEVI 53%).
+Anemia aguda que ha requerido transfusión de hematíes (de probable origen digestivo). Angiodisplasias en estómago y ciego.
+Fibrilación/flutter auricular paroxísticos. Insuficiencia renal aguda resuelta.

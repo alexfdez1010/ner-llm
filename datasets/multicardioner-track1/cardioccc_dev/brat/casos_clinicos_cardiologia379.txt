@@ -1,0 +1,48 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+Hipercolesterolemia.
+Diabetes mellitus (DM) tipo 2 de 15 años de evolución con buen control metabólico, actualmente con antidiabético orales (ADO) e insulina.
+Obesidad grado I.
+Exfumador desde hace 9 años (IPA 56).
+Ausencia de hipertensión arterial. Sedentario.
+Síndrome de Leriche intervenido con bypass aortobifemoral.
+IC avanzada no isquémica con FEVI reducida e hipertensión arterial pulmonar (FEVI según resonancia magnétic nuclear [RMN] 2014) 34%.
+Fibrilación auricular (FA) permanente y bloqueo de rama izquierda (BRI). Desfibrilador automático implantable (DAI) en prevención primaria implantado en 2015.
+Enfermedad renal crónica estadio IIIb.
+Trombofilia con mutación del gen de la protrombina 20210A.
+Enfermedad pulmonar obstructiva crónica (EPOC) GOLD B con volumen espiratorio forzado en el primer segundo (FEV1) 67%, no agudizador.
+Adenocarcinoma pulmonar de lóbulo superior derecho (LSD) T1bN0M0, tratado con cirugía y radioterapia en 2016, actualmente libre de enfermedad.
+Poliartritis seropositiva con afectación de carpos. Gota.
+Hipertiroidismo subclínico con tiroides multinodular.
+Alergias. No conocidas.
+
+Tratamiento previo: oxigenoterapia domiciliaria crónica, acenocumarol 10 mg a la semana, insulina lantus 26 UI, insulina glulisina 12-10-8, metformina 850 mg (0-1-0), empaglifozina 10 mg (0-1-0), ezetimiba 10 mg/simvastatina 40 mg (0-1-0), furosemida 40 mg (1-1-0) (dosis cambiantes según situación clínica), carvedilol 6,25 mg (1-0-1/2), eplerenona 25 mg (0-1/2-0), sacubitrilo-valsartán 97/103 mg (1-0-1), lansoprazol 30 mg (1-0-0), alopurinol 100 mg (0-1-0), escitalopram 15 mg, indacaterol/bromuro de glicopirronio.
+
+ENFERMEDAD ACTUAL:
+Varón de 79 años con los antecedentes descritos, en seguimiento por la unidad de IC avanzada y en tratamiento con dosis intermitentes de levosimendán, que consulta por empeoramiento progresivo de clase funcional, actualmente IIIb/IV. Niega palpitaciones, dolor torácico o síncope.
+No tos, ni expectoración, ni aumento de la purulencia del esputo. No sensación distérmica ni semiología infecciosa.
+
+EXPLORACIÓN FÍSICA:
+Tensión arterial (TA) 100/60, frecuencia cardiaca (FC) 64 lpm, saturación de oxígeno (SatO2) 97%, frecuencia respiratoria (FR) 20 rpm. Afebril. Auscultación cardiaca: arrítmico, sin soplos audibles. Abdomen blando, depresible, no doloroso. Extremidades con discretos edema con fóvea, sin signos de trombosis venosa profunda (TVP).
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA: bioquímica: glucosa 83 mg/dl, creatinina 1,60 mg/dl, TFG (MDRD) 38,56 ml/min, urea 62 mg/dl, sodio 131 mm/l, potasio 4,5 mm/l, cloro 100 mm/l, calcio 7,9 mg/dl, fósforo 2,5 mg/dl, albúmina 2,8 g/dl, proteínas totales 5,5 g/dl, bilirrubina total 0,99 mg/dl, creatinquinasa (CK) 50 U/l, BNP 401 pg/ml. Hemograma: hemoglobina 16,6 g/dl, hematocrito 53,5%, plaquetas 150.000/μl, leucocitos 8430/μl, neutrófilos 66,20%. Coagulación: tiempo de protrombina 13,70 sg, actividad protrombina 69,40%, razón internacional normalizada (INR) 1,23, tiempo de cefalina 35,70 sg.
+RADIOGRAFÍA DE TÓRAX: cardiomegalia, signos de redistribución, aumento de la trama broncovascular. Dispositivo en región pectoral, accede a través de vena subclavia y con punta en cavidades derechas.
+ELECTROCARDIOGRAMA: fibrilación auricular a 66 lpm. QRS de 120 ms con morfología de BRI. QTc (Bazett, V4) 440 ms. El 8o QRS representa una extrasístole ventricular aislada.
+ECOCARDIOGRAMA (vídeo1): disfunción sistólica global VI moderada-grave (FEVI 37%). El m o v i m i e n t o s e p t a l e s c o m p a t i b l e c o n u n a a n o m a l í a d e l a c o n d u c c i ó n .
+El movimiento apical anómalo puede reflejar activación del marcapasos. Cable de DAI en cavidades derechas. Insuficiencia mitral (IM) e insuficiencia tricuspídea (IT) ligeras. Hipertensión arterial pulmonar (HTP) leve.
+
+EVOLUCIÓN CLÍNICA
+Dada la disnea progresiva del paciente y la escasa respuesta a los tratamientos farmacológicos para la IC (no escalados a dosis basadas en la evidencia por aparición de efectos adversos), se propone la implantación de estimulador de barorreceptores carotídeos como complemento terapéutico. Previamente, se descartó terapia de resincronización cardiaca (TRC) por QRS 110-120 ms e ivabradina por FA permanente.
+Por otra parte, se decide cambio terapéutico a anticoagulantes de acción directa por labilidad de INR.
+El paciente ingresa de forma programada y se procede a la implantación del dispositivo Barostim neo sin complicaciones (radiografía control). El paciente es dado de alta 24 horas después. 45 días después, el paciente refiere mejoría de su clase funcional, actualmente II/IV, con disminución de las dosis de furosemida diarias y sin necesidad, por el momento, de terapia intermitente con levosimendán. Valores de péptido natriurético cerebral (BNP) preimplantación 401,2 pg/ml; BNP 45 días posimplantación 371,3 pg/ml.
+
+DIAGNÓSTICO
+IC con FEVI reducida (IC-FEr) de etiología no isquémica, estadio D y clase funcional II en tratamiento con estimulador de barorreceptores carotídeos.
+Hipercolesterolemia. DM tipo II de 15 años de evolución con buen control metabólico, actualmente insulinodependiente. Obesidad grado I. Exfumador desde hace 9 años (IPA 56). No hipertensión arterial. Sedentario.
+Síndrome de Leriche intervenido con bypass aortobifemoral. IC avanzada no isquémica con FEVI reducida e hipertensión pulmonar (FEVI según RMN 2014) 34%. FA y BRI. DAI en prevención primaria implantado en 2015. ERC estadio IIIb.
+Trombofilia con mutación del gen de la protrombina 20210A.
+EPOC GOLD B con FEV1 67%, no agudizador. Adenocarcinoma pulmonar de LSD T1bN0M0, tratado con cirugía y radioterapia en 2016, actualmente libre de enfermedad.
+Poliartritis seropositiva con afectación de carpos. Gota.
+Hipertiroidismo subclínico con tiroides multinodular.

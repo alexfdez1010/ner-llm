@@ -1,0 +1,23 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Presentamos el caso de un varón de 47 años de edad diagnosticado de MCH a los 44 años, a raíz un screening familiar después de que su hija de 7 años presentase una muerte súbita recuperada. El test genético demostró una mutación de la troponina I (TNNI3) en el caso índice, siendo nuestro paciente portador. En el momento del diagnóstico se encontraba oligosintomático desde el punto de vista cardiovascular: refería clase funcional NYHA I-II y negaba clínica de palpitaciones, dolor torácico, mareo o síncope.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal. QRS estrecho con eje -30o. Criterios de voltaje de sobrecarga ventricular izquierda.
+Analítica: Hb 13 g/dl, Cr 1 mg/dl, iones normales, NT-proBNP 1.000 pg/ml.
+Radiografía de tórax: cardiomegalia. Leve redistribución vascular a campos superiores.
+Ecocardiograma: VI de diámetro normal con hipertrofia septal asimétrica moderada (15 mm) sin obstrucción a través del tracto de salida del ventrículo izquierdo, ni movimiento anterior sistólico de la válvula mitral. Disfunción sistólica de ventrículo izquierdo leve (FE 48-50 %) y disfunción diastólica de grado 1. Aurícula izquierda dilatada (67 mm).
+Resonancia magnética nuclear (RMN) cardiaca: realce tardío con gadolinio distribuido de forma irregular en la pared media de todo el tabique, la pared anterior y la pared libre del ventrículo derecho. SIV 15 mm. Dilatación severa de aurícula izquierda.
+Ergometría: ritmo sinusal durante el registro. Extrasistolia supraventricular y extrasistolia ventricular (con morfología de BRDHH) aislada.
+
+EVOLUCIÓN
+Tras los estudios realizados, se estima un riesgo intermedio de muerte súbita (HCM 5-year SCD rate 4,7 %), decidiéndose implante de DAI en prevención primaria de muerte súbita.
+Después de un período estable de 3 años, refiere empeoramiento clínico progresivo en los últimos 6 meses, presentando deterioro de clase funcional (CF NYHA III/IV). A la exploración física destaca presión venosa yugular elevada y crepitantes en la auscultación pulmonar. En la analítica, presenta elevación de NT-proBNP hasta 5.000 pg/ml, estando el resto de los parámetros en rango normal.
+El electrocardiograma está en ritmo sinusal. Se realiza entonces ecocardiograma de control, que muestra VI con hipertrofia septal asimétrica moderada, que no ha progresado, presentando en este momento deterioro de la función sistólica del VI (FE 40-45 %). No se objetiva gradiente dinámico en tracto de salida de VI.
+Asimismo, presenta disfunción diastólica de grado 3, con datos de elevación de presiones de llenado.
+Se realiza ergoespirometría, que muestra consumo pico de oxígeno de 16 ml/min/ kg (57 % de lo previsto) y cateterismo cardiaco derecho, con datos de hipertensión pulmonar poscapilar (presión capilar pulmonar: 24 mmHg, presión pulmonar sistólica de 55 mmHg, presión arterial pulmonar media 32 mmHg). La presión telediastólica del VD era de 16 mmHg. Se inició tratamiento neurohormonal y, debido a la dilatación severa de la aurícula izquierda y al riesgo trombótico en caso de caída en fibrilación auricular, también se inició la anticoagulación oral.
+La evolución en el año siguiente fue desfavorable a pesar de tratamiento médico óptimo, presentando disnea de mínimos esfuerzos, con dos ingresos por descompensación de insuficiencia cardiaca. Se realiza nueva determinación de consumo de oxígeno, estimando en este momento VO2 max de 12 ml/kg/min. Ante limitación importante y progresiva de la capacidad funcional, es remitido a centro de referencia como candidato a trasplante cardiaco, realizándose estudio pre- trasplante y encontrándose en la actualidad incluido en lista de espera de trasplante electivo.
+
+DIAGNÓSTICO
+Miocardiopatía hipertrófica no obstructiva. Mutación en el gen de la troponina I 3 (TNNI3).
+Muerte súbita recuperada en familiar de primer grado. Portador de DAI.
+Disfunción ventricular izquierda ligera. Insuficiencia cardiaca estadío D. Clase funcional III/IV NYHA. Candidato a trasplante cardiaco electivo.

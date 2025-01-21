@@ -1,0 +1,20 @@
+T2	ENFERMEDAD 1886 1932	recidiva extramedular en forma de SM de la LMA
+T4	ENFERMEDAD 1022 1059	afectación leucémica de la conjuntiva
+T7	ENFERMEDAD 64 77	mieloblástica
+T9	ENFERMEDAD 1599 1648	SM que afectaba a conjuntiva, piel y mucosa nasal
+T19	ENFERMEDAD 240 268	cuadro respiratorio catarral
+T20	ENFERMEDAD 2124 2126	SM
+T21	ENFERMEDAD 2135 2154	fallo multiorgánico
+T29	ENFERMEDAD 352 383	pápulas eritematosas en espalda
+T30	ENFERMEDAD 785 867	OD una lesión carnosa sobreelevada de color salmón en el tarso superior e inferior
+T32	ENFERMEDAD 385 429	adenopatías supraclaviculares y submaxilares
+T33	ENFERMEDAD 875 938	OI se encontró una lesión similar en conjuntiva tarsal inferior
+T34	ENFERMEDAD 1467 1488	sarcoma granulocítico
+T36	ENFERMEDAD 2025 2033	lesiones
+T1	ENFERMEDAD 56 97	LMA M1 (mieloblástica sin diferenciación)
+T3	ENFERMEDAD 201 204	LAM
+#4	AnnotatorNotes T2	   SM: sarcoma mieloide|LAM: leucemia aguda mieloblástica
+#3	AnnotatorNotes T9	   SM: sarcoma mieloide
+#5	AnnotatorNotes T20	   SM: sarcoma mieloide
+#1	AnnotatorNotes T1	   LMA: Leucemia mieloide aguda
+#2	AnnotatorNotes T3	   LAM: Leucemia aguda mieloblástica

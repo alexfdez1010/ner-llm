@@ -1,0 +1,14 @@
+T3	ENFERMEDAD 302 314	liquen plano
+T6	ENFERMEDAD 52 114	SS estadio III-B/IV-A1 (T4N0M0) con afectación cutánea extensa
+T7	ENFERMEDAD 3169 3189	lesiones vesiculosas
+T8	ENFERMEDAD 817 825	insomnio
+T9	ENFERMEDAD 828 837	depresión
+T17	ENFERMEDAD 151 158	fumador
+T20	ENFERMEDAD 185 209	diabetes mellitus tipo 2
+T24	ENFERMEDAD 211 223	hipertensión
+T26	ENFERMEDAD 225 246	fibrilación auricular
+T30	ENFERMEDAD 249 279	hiperplasia prostática benigna
+T1	ENFERMEDAD 503 505	SS
+T2	ENFERMEDAD 52 54	SS
+#1	AnnotatorNotes T1	  SS: Síndrome de Sézary
+#2	AnnotatorNotes T2	  SS: Síndrome de Sézary

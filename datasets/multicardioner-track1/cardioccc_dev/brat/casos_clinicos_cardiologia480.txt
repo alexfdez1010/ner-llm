@@ -1,0 +1,28 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 67 años que acude a consulta de Cardiología por empeoramiento de su disnea.
+Factores de riesgo cardiovascular: Exfumador (20 paquetes/año) e hipertenso en tratamiento.
+Historia cardiológica: bloqueo de rama izquierda como hallazgo incidental en un electrocardiograma de rutina; diagnóstico de cardiopatía hipertensiva con hipertrofia de VI moderada y disfunción sistólica ligera en el ecocardiograma. Se completó el estudio con Holter que mostró extrasistolia ventricular frecuente (asintomática).
+Tratamiento médico: nevibolol 5 mg, torasemida 5 mg y amlodipino/valsartán 5/160 mg una vez al día.
+Historia actual: previamente en clase funcional I de la NYHA, acude a consulta de Cardiología por empeoramiento de su disnea de un año de evolución, hasta hacerse de moderados esfuerzos. Niega síncope, palpitaciones u otra sintomatología.
+A la exploración física no presenta hallazgos relevantes. Cabeza y cuello sin aumento de presión venosa yugular ni soplos carotídeos. Auscultación cardiaca rítmica con abundante extrasistolia, pero sin soplos. A la auscultación pulmonar presenta disminución del murmullo vesicular generalizado, sin otros ruidos sobreañadidos. Abdomen globuloso sin detectar masas o megalias y miembros inferiores sin edemas, ni datos compatibles con trombosis venosa profunda.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal a 60 lpm, PR normal, bloqueo de rama izquierda (QRS de 150 ms).
+Holter: ritmo sinusal durante todo el registro. Presenta extrasistolia ventricular monomorfa de ligera-moderada densidad, con algún triplete. Extrasistolia supraventricular ocasional con episodios aislados de taquicardia supraventricular. Sin pausas.
+Ecocardiograma, nuevo estudio: ventrículo izquierdo no dilatado, con moderada hipertrofia del septo (1,5 cm) y alteraciones de la contractilidad segmentaria: hipoquinesia basal de las caras inferior, anterior, anteroseptal y anterolateral, con movimiento anómalo septal. Disfunción sistólica ligera (FEVI 45 %). Disfunción diastólica grado II, con patrón pseudonormal. Ventrículo derecho normal. Aurículas levemente dilatadas (AI 25 y AD 21 cm2). Insuficiencia aórtica mínima, sin otras valvulopatías.
+Resonancia magnética cardiaca: ventrículo izquierdo levemente dilatado, con aumento moderado a severo concéntrico del grosor parietal, grosor máximo medido en septo inferior de segmento medio de 22 mm. Presenta aumento significativo de masa miocárdica (116 gr/m2), hipocinesia global y disfunción sistólica moderada (FEVI 37 %). Ventrículo derecho no dilatado ni hipertrofiado con función normal (FEVD 59 %). Aurícula izquierda moderadamente dilatada con engrosamiento del septo interauricular en su zona más caudal. Ausencia de derrame pericárdico y pleural. En las secuencias de realce tardío se observa un patrón de captación difusa, con mayor intensidad en subendocardio en segmentos medios de cara lateral e inferolateral, intramiocárdico difuso del septo basal y medio y a nivel del septo posterior en la inserción de la pared libre. También presenta realce subepicárdico en pared libre de tracto de salida del ventrículo derecho. La pared de ambas aurículas presenta captación difusa, así como el septo interauricular, la válvula mitral y la pared aórtica. En la secuencia STIR, no se objetiva edema. La secuencia T2 no muestra datos compatibles con sobrecarga férrica.
+Biopsia de glándula salivar: sin depósito de amiloide.
+Gammagrafía con 99mTc-DDP: depósito del radiotrazador a nivel miocárdico, indicativo de amiloidosis cardiaca.
+Biopsia endomiocárdica: (extracción de muestras de 2 puntos diferentes del ventrículo derecho) depósito de sustancia amiloide transtirretina (TTR) positiva.
+Estudio genético : (secuenciación NGS Panel 17 genes, incluyendo TTR): negativo.
+
+EVOLUCIÓN
+Paciente conocido por Cardiología con diagnóstico previo de cardiopatía hipertensiva.
+Tras empeoramiento de su CF se repitió el ecocardiograma, que reveló una hipertrofia importante del VI, disfunción diastólica con patrón pseudonormal y datos de aumento de presiones telediastólicas. Con la sospecha de miocardiopatía infiltrativa, se solicitó resonancia magnética cardiaca, que mostró hallazgos muy sugestivos de amiloidosis cardiaca.
+El paciente fue estudiado mediante cuantificación de inmunoglobulinas, electroforesis e inmunofijación de proteínas y estudio de orina de 24 horas descartando mieloma múltiple.
+De la misma forma se solicitó gammagrafía ósea 99 mTc-DDP, con captación cardiaca del radiotrazador, compatible con amiloidosis senil y/o hereditaria por depósito de TTR. El diagnóstico preciso se llevó a cabo mediante biopsia endomiocárdica que objetivó depósito de dicha proteína. Por último, se realizó test genético para discernir entre forma hereditaria o tipo senil. Diagnosticado de la segunda, no fue preciso el estudio de sus familiares. El paciente fue manejado de forma conservadora, con tratamiento dirigido a la disfunción sistólica, diuréticos y antihipertensivos con buena respuesta clínica a los 2 años de seguimiento.
+
+DIAGNÓSTICO
+Amiloidosis cardiaca por depósito de transtirretina. Tipo senil.
+Disfunción sistólica y diastólica de vi moderadas. Insuficiencia cardiaca compensada en clase funcional I de la NYHA tras medicación.
+Arritmias ventriculares asintomáticas, extrasistolia ventricular intensidad ligera a moderada.

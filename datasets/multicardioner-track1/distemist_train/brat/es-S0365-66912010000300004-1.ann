@@ -1,0 +1,10 @@
+T1	ENFERMEDAD 34 68	glaucoma crónico de ángulo abierto
+T4	ENFERMEDAD 1208 1290	desprendimiento de la membrana de Descemet (DMD) en el cuadrante temporal inferior
+T5	ENFERMEDAD 2459 2462	DMD
+T6	ENFERMEDAD 1252 1255	DMD
+T9	ENFERMEDAD 1849 1871	edema corneal moderado
+T11	ENFERMEDAD 2542 2555	edema corneal
+T44	ENFERMEDAD 2085 2112	desprendimiento descemético
+T47	ENFERMEDAD 2251 2259	hematoma
+#2	AnnotatorNotes T5	   DMD: desprendimiento de la membrana de Descemet
+#1	AnnotatorNotes T6	   DMD: desprendimiento de la membrana de Descemet

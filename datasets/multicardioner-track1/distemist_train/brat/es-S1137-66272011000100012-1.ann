@@ -1,0 +1,16 @@
+T1	ENFERMEDAD 55 94	infecciones respiratorias de repetición
+T2	ENFERMEDAD 151 161	hipertensa
+T4	ENFERMEDAD 202 216	hipotiroidismo
+T8	ENFERMEDAD 353 378	infecciones respiratorias
+T23	ENFERMEDAD 1015 1029	cifoescoliosis
+T25	ENFERMEDAD 1106 1147	enfisema y bronquiectasias en ambas bases
+T26	ENFERMEDAD 1117 1147	bronquiectasias en ambas bases
+T28	ENFERMEDAD 1238 1252	déficit de AAT
+T31	ENFERMEDAD 1419 1423	asma
+T32	ENFERMEDAD 1426 1431	D-AAT
+T33	ENFERMEDAD 1465 1469	asma
+T34	ENFERMEDAD 1549 1554	D-AAT
+T40	ENFERMEDAD 131 146	hábitos tóxicos
+T39	ENFERMEDAD 119 127	alergias
+#1	AnnotatorNotes T28	  DAAT: déficit de alfa-1-antitripsina
+#2	AnnotatorNotes T34	  DAAT: déficit de alfa-1-antitripsina

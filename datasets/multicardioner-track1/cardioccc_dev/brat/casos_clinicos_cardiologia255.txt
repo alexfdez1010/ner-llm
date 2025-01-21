@@ -1,0 +1,45 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Varón de 78 años con los siguientes antecedentes:
+Factores de riesgo cardiovascular (FRCV): hipertensión arterial (HTA), diabetes mellitus tipo 2 (DM2), dislipemia.
+Antecedentes cardiológicos: insuficiencia cardiaca con FEVI conservada. Cardiopatía hipertensiva en seguimiento por cardiología (último NT-proBNP 2127 pg/ml en el mes previo).
+Otros antecedentes: cólico biliar secundario a colelitiasis.
+Tratamiento habitual: nebivolol 2,5 mg cada día; eplerenona 25 mg cada día; furosemida 40 mg cada día; dapagliflozina/metformina 5/1000 mg cada 12 horas; fenofibrato 160 mg cada día; simvastatina 20 mg cada día; amlodipino/valsartán/hidroclorotiazida 10/160/12,5 mg cada día; ácido acetilsalicílico 100 mg cada día; omeprazol 20 mg cada día; gabapentina 300 mg cada 8 horas; clorazepato 5 mg cada día.
+
+Enfermedad actual
+Varón de 78 años que acude a urgencias por presentar en el último mes disnea progresiva hasta hacerse de mínimos esfuerzos (NYHA III/IV con NYHA previo I-II/IV), asociado a edematización de miembros inferiores (MMII), sin ortopnea, disnea paroxística nocturna ni oliguria. Además, refiere
+episodios de dolor torácico autolimitados durante los últimos meses, en relación con esfuerzos, por los que ya había consultado en urgencias previamente, sin objetivarse cambios electrocardiográficos ni movilización de marcadores de daño miocárdico.
+
+Exploración física
+A su llegada al hospital el paciente presenta regular estado general, taquipnea, tensión arterial (TA) 190/99 mmHg, frecuencia cardiaca (FC) 80 lpm y SpO2 88%, por lo que se inicia O2 suplementario, diuréticos, nitroglicerina en perfusión intravenosa y broncodilatadores, obteniendo las siguientes constantes: TA 170/85 mmHg; FC 70 lpm; SatO2 94% (FiO2 0,26).
+Auscultación cardiaca: ruidos cardiacos regulares, sin soplos audibles.
+Auscultación pulmonar: crepitantes bilaterales mediobasales e hipofonesis en base derecha.
+Edemas tibiomaleolares en MMII.
+
+PRUEBAS COMPLEMENTARIAS
+Pruebas realizadas en urgencias:
+Electrocardiograma (ECG): ritmo sinusal a 63 lpm. PR 200 ms, eje 0o, QRS estrecho, subrectificación del segmento ST en V4-V6, II y aVF.
+Radiografía de tórax: índice cardiotorácico aumentado. Infiltrados algodonosos bilaterales. Derrame pleural derecho. No se aprecian condensaciones.
+
+Analítica:
+Hemograma: hemoglobina 11 g/dl. Hematocrito 32,5%. VCM 86,4 fl. Leucocitos, fórmula leucocitaria y plaquetas sin alteraciones.
+Coagulación: sin alteraciones.
+Bioquímica: glucosa 145 mg/dl, urea 77 mg/dl, creatinina 1,89 mg/dl. Iones en rango, función hepática sin alteraciones. Calcio 8,9 mg/dl. Proteínas 6,7 g/dl. PCR 1,1 mg/dl.
+Biomarcadores de daño miocárdico: hsTnI 22 ng/l --> 30 ng/l.
+Pruebas realizadas durante el ingreso:
+Marcadores de insuficiencia cardiaca: NT-proBNP máximo 3258.0 pg/ml. CA 125 17 UI/ml.
+Ecocardiografía reglada: ventrículo izquierdo con hipertrofia concéntrica moderada de predominio septal, con diámetros normales, volúmenes aumentados y función global sistólica conservada. Raíz y válvula aórtica normales. Llenado transmitral tipo pseudonormal, con datos sugestivos de aumento de presiones telediastólicas (disfunción diastólica grado II). Ventrículo derecho normal. Plétora de vena cava inferior. Insuficiencia tricúspide ligera que permite estimar presión sistólica de la arteria pulmonar en 50 mmHg (hipertensión pulmonar moderada).
+Exploración en ritmo sinusal.
+Coronariografía vía arteria radial izquierda: estenosis leve-moderada en DA próximomedial y segmento proximal de 1a diagonal. Se decide realizar valoración funcional de ambas lesiones con guía de presión, obteniendo resultado negativo tanto en reposo (iFR) como con regadenosón i.v. (FFR). Ante dolor torácico e IC con FEVI conservada, se realiza test de acetilcolina. Después de la segunda dosis (20 mcg) se observan cambios electrocardiográficos (elevación de segmento ST y negativización leve de ondas T en V1-V3 y III), vasoespasmo difuso de todo el árbol coronario izquierdo, asociado a opresión centrotorácica. Se comprueba la resolución de signos y síntomas con nitroglicerina intracoronaria.
+
+Conclusión: estenosis moderadas funcionalmente no significativas en DA y diagonal. Test de acetilcolina positivo epicárdico.
+
+EVOLUCIÓN CLÍNICA
+Durante su estancia en la sala de cardiología se administró tratamiento deplectivo y dados los resultados de la coronariografía se suspendió el tratamiento betabloqueante (nebivolol) y se añadió un calcioantagonista no dihidropiridínico (diltiazem). El paciente presentó mejoría clínica y hemodinámica, con resolución de los edemas periféricos y la disnea, tolerando la deambulación sin nuevos episodios de dolor torácico ni otras complicaciones. Tras la mejoría de la función renal se decidió alta a domicilio.
+Durante el seguimiento ambulatorio, el paciente ha permanecido asintomático sin disnea ni dolor torácico, con clase funcional NYHA I.
+
+DIAGNÓSTICO
+Edema agudo de pulmón hipertensivo en paciente con insuficiencia cardiaca con función sistólica conservada.
+Disfunción endotelial con vasoespasmo coronario epicárdico.
+Disfunción diastólica grado II.

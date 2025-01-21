@@ -1,0 +1,32 @@
+T14	ENFERMEDAD 2859 2951	ventrículo izquierdo severamente dilatado con función sistólica global severamente deprimida
+T48	ENFERMEDAD 704 710	Angina
+T49	ENFERMEDAD 4337 4366	Cardiopatía isquémica crónica
+T52	ENFERMEDAD 234 243	Exfumador
+T53	ENFERMEDAD 499 532	Fibrilación auricular paroxística
+T54	ENFERMEDAD 271 288	Gastritis crónica
+T55	ENFERMEDAD 3127 3129	IT
+T56	ENFERMEDAD 335 340	Ictus
+T58	ENFERMEDAD 1680 1702	Insuficiencia Cardiaca
+T59	ENFERMEDAD 3098 3118	Insuficiencia mitral
+T60	ENFERMEDAD 4438 4481	Trastorno de la conducción intraventricular
+T61	ENFERMEDAD 2577 2584	ascitis
+T62	ENFERMEDAD 1857 1867	bajo gasto
+T63	ENFERMEDAD 552 581	cardiopatía isquémica crónica
+T64	ENFERMEDAD 3238 3257	derrame pericárdico
+T65	ENFERMEDAD 1454 1495	descompensación de insuficiencia cardiaca
+T66	ENFERMEDAD 4151 4197	descompensación leve de insuficiencia cardiaca
+T67	ENFERMEDAD 208 232	diabetes mellitus tipo 2
+T68	ENFERMEDAD 4371 4425	dilatación y disfunción severa de ventrículo izquierdo
+T69	ENFERMEDAD 196 206	dislipemia
+T70	ENFERMEDAD 2549 2562	hepatomegalia
+T71	ENFERMEDAD 4214 4250	infección respiratoria de vías altas
+T72	ENFERMEDAD 4060 4082	insuficiencia cardiaca
+T73	ENFERMEDAD 4617 4639	insuficiencia cardiaca
+T74	ENFERMEDAD 2783 2826	trastorno de la conducción intraventricular
+T44	ENFERMEDAD 174 194	hipertesión arterial
+T46	ENFERMEDAD 409 443	Oclusión fémoro-poplítea bilateral
+T50	ENFERMEDAD 1144 1173	oclusión crónica de ADA y ACx
+T82	ENFERMEDAD 587 603	Infarto anterior
+T93	ENFERMEDAD 838 902	enfermedad severa de A. circunfleja (ACx) y A. coronaria derecha
+T103	ENFERMEDAD 797 835	reestenosis del stent previo de la ADA
+#55	AnnotatorNotes T55	IT: insuficiencia tricuspidea

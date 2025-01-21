@@ -1,0 +1,32 @@
+T22	ENFERMEDAD 271 280	Exfumador
+T23	ENFERMEDAD 293 296	HTA
+T24	ENFERMEDAD 384 404	trombosis del bypass
+T25	ENFERMEDAD 470 479	trombosis
+T26	ENFERMEDAD 481 499	Anemia ferropénica
+T27	ENFERMEDAD 524 541	pólipos colónicos
+T28	ENFERMEDAD 1087 1118	lesiones cutáneas exantemáticas
+T29	ENFERMEDAD 1120 1140	hipotensión arterial
+T30	ENFERMEDAD 1303 1315	BAV completo
+T31	ENFERMEDAD 2416 2435	derrame pericárdico
+T32	ENFERMEDAD 2658 2698	vasoespasmo de arteria coronaria derecha
+T33	ENFERMEDAD 2786 2801	angina alérgica
+T34	ENFERMEDAD 2804 2822	síndrome de Kounis
+T35	ENFERMEDAD 2896 2959	alergia a: penicilina G, penicilina V, ampicilina y amoxicilina
+T36	ENFERMEDAD 3040 3055	Angina alérgica
+T37	ENFERMEDAD 3056 3065	Sd Kounis
+T38	ENFERMEDAD 3068 3113	Vasoespasmo coronario secundario a anafilaxia
+T39	ENFERMEDAD 3114 3189	• Reacción anafiláctica secundaria a la infusión de amoxicilina-clavulánico
+T41	ENFERMEDAD 695 701	BCRDHH
+T42	ENFERMEDAD 2229 2253	VM esclerosa con IM leve
+T43	ENFERMEDAD 2346 2353	IT leve
+T44	ENFERMEDAD 236 259	alergias medicamentosas
+T45	ENFERMEDAD 1829 1844	daño miocárdico
+T46	ENFERMEDAD 1176 1183	síncope
+T48	ENFERMEDAD 1502 1517	cuadro alérgico
+T49	ENFERMEDAD 1938 1962	ectasia de CD y DA media
+T50	ENFERMEDAD 2063 2086	VI ligeramente dilatado
+T51	ENFERMEDAD 2289 2312	AI ligeramente dilatada
+T52	ENFERMEDAD 2476 2493	reacción alérgica
+T85	ENFERMEDAD 689 693	HBAI
+T8	ENFERMEDAD 2011 2013	EV
+T19	ENFERMEDAD 2710 2750	anafilaxia por la infusión de augmentine

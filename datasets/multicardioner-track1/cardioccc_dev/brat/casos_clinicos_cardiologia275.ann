@@ -1,0 +1,33 @@
+T33	ENFERMEDAD 104 119	asma extrínseca
+T34	ENFERMEDAD 1204 1236	bloqueo completo de rama derecha
+T35	ENFERMEDAD 1382 1397	derrame pleural
+T36	ENFERMEDAD 2042 2075	Insuficiencia mitral levemoderada
+T37	ENFERMEDAD 2077 2101	Insuficiencia tricúspide
+T38	ENFERMEDAD 2122 2141	derrame pericárdico
+T39	ENFERMEDAD 2500 2511	miocarditis
+T40	ENFERMEDAD 2587 2633	bloqueo completo de rama derecha de has de His
+T41	ENFERMEDAD 2746 2775	disfunción sistólica moderada
+T42	ENFERMEDAD 2899 2919	Insuficiencia mitral
+T43	ENFERMEDAD 2931 2956	insuficiencia tricuspídea
+T44	ENFERMEDAD 2961 2980	derrame pericárdico
+T45	ENFERMEDAD 3034 3045	miocarditis
+T46	ENFERMEDAD 3268 3287	Derrame pericárdico
+T47	ENFERMEDAD 3728 3746	shock cardiogénico
+T48	ENFERMEDAD 3909 3932	miocarditis linfocítica
+T49	ENFERMEDAD 4081 4104	taquicardia ventricular
+T50	ENFERMEDAD 4574 4593	fracaso renal agudo
+T51	ENFERMEDAD 4840 4862	insuficiencia cardiaca
+T52	ENFERMEDAD 5062 5073	miocarditis
+T53	ENFERMEDAD 5155 5173	shock cardiogénico
+T54	ENFERMEDAD 5602 5632	Shock cardiogénico refractario
+T55	ENFERMEDAD 5718 5752	Miocarditis linfocítica fulminante
+T56	ENFERMEDAD 5754 5776	Insuficiencia cardiaca
+T57	ENFERMEDAD 5886 5911	Insuficiencia renal aguda
+T58	ENFERMEDAD 5913 5934	síndrome Cardiorrenal
+T59	ENFERMEDAD 2635 2641	BCRDHH
+T60	ENFERMEDAD 3339 3354	daño miocárdico
+T62	ENFERMEDAD 1855 1902	ventrículo izquierdo moderadamente hipertrófico
+T63	ENFERMEDAD 4958 5001	función ventricular con disfunción moderada
+T31	ENFERMEDAD 5567 5587	disfunción sistólica
+T108	ENFERMEDAD 5187 5251	miocarditis linfocítica (diagnóstico histopatológico) fulminante
+#1	AnnotatorNotes T59	 BCRDHH Bloqueo completo rama derecha Haz de Hiz

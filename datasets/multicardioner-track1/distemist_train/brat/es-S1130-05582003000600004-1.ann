@@ -1,0 +1,15 @@
+T11	ENFERMEDAD 577 591	telangectasias
+T12	ENFERMEDAD 657 704	cortical vestibular y perforación de la lingual
+T22	ENFERMEDAD 1331 1334	LCG
+T23	ENFERMEDAD 2019 2022	LCG
+T24	ENFERMEDAD 877 883	lesión
+T25	ENFERMEDAD 1036 1042	lesión
+T26	ENFERMEDAD 1626 1632	lesión
+T27	ENFERMEDAD 1878 1884	lesión
+T28	ENFERMEDAD 1934 1940	lesión
+T29	ENFERMEDAD 2164 2170	lesión
+T1	ENFERMEDAD 69 85	asimetría facial
+T2	ENFERMEDAD 379 418	desdentada completa superior e inferior
+T3	ENFERMEDAD 772 811	compromiso del nervio alveolar inferior
+#1	AnnotatorNotes T22	  LCG: lesiones de células gigantes
+#2	AnnotatorNotes T23	  LCG: lesiones de células gigantes

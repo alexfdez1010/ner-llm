@@ -1,0 +1,43 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Varón de 60 años, sin alergias medicamentosas conocidas y sin antecedentes familiares de interés. Antecedentes personales de:
+Factores de riesgo de cardiovascular (FRCV): obesidad, hipertensión arterial y exfumador Intervenido quirúrgicamente de vasectomía complicada con epididimitis hace 32 años
+En tratamiento con amlodipino 5 mg en desayuno.
+
+Enfermedad actual
+Presenta cuadro de 5 meses de evolución de disnea de esfuerzo progresiva con empeoramiento franco en el último mes hasta hacerse de clase III de la NYHA, asociado a edema de extremidades inferiores hasta pared abdominal, ortopnea y disminución de la diuresis motivo por el que acude a urgencias.
+En el estudio inicial en urgencias, tras constatar elevación de D-dímero y signos de fallo derecho se decidió realización de angio-TC torácico descartando en primera instancia tromboembolismo pulmonar pero revelando engrosamiento y derrame pericárdico moderado. Se decide ingreso hospitalario.
+
+Exploración física
+Tensión arterial (TA) 130/80 mmHg. Frecuencia cardiaca (FC) 128 lpm, diaforesis profusa, sensación de gravedad, aunque buena perfusión distal. Cabeza y cuello: ingurgitación yugular con el reflujo hepatoyugular. Auscultación cardiaca: ruidos irregulares y apagados. Auscultación pulmonar: hipofonesis global con crepitantes en base derecha. Abdomen: distendido, edema de pared con fóvea. Miembros inferiores: edemas con fóvea hasta raíz de muslos.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG) de superficie de 12 derivaciones: fibrilación auricular a 115 lpm con amplitud del QRS disminuida. EV aislada. El intervalo QT corregido es normal.
+Radiografía de tórax: pinzamiento de seno costofrénico derecho y cardiomegalia marcada.
+Analítica (en urgencias): destaca un NT-proBNP de 114 pg/ml. Hemograma, parámetros de función renal e ionograma en rangos de normalidad. Coagulación normal excepto elevación del D-dímero: 1100 mg/dl.
+Analítica (hospitalización): hemograma normal, VSG 51 mm/h. Bioquímica sanguínea normal, transaminasas e iones normales. Perfil férrico normal
+Inmunoglobulinas: IgG 1170 mg/dl (768-1632), IgA 395 mg/dl (68-378), IgM 115 mg/dl (60-263). Beta 2 microglobulina: 3.72 mcg/ml (1,9-2,53). Interferón gamma-TBC: negativo.
+Serologías: VIH, VHB, VHC, Lues, VEB, VHS: negativos.
+Anatomía patológica del líquido pericárdico: citología positiva para malignidad.
+Estudio inmunohistoquímico: CD79a+, CD3+ en celularidad acompañante, PAX5+, CD20+, Bcl2+, Bcl6-, MUM1+, C-Myc débilmente positivo en el 40% de las células, CD10-, CD30-, EBER-, CD138-, CD38-, HHV8: negativo. Ki 67: 80%. Compatible con linfoma B difuso de célula grande.
+Citometría de flujo de líquido pericárdico: en la muestra analizada se observa un 77% de linfocitos de los cuales el 95% corresponden a una población B aparentemente madura (CD20+, FMC7+, CD10-) y sin TdT intracitoplasmático que sugiere proceso linfoproliferativo B de fenotipo no específico.
+Cultivo de líquido pericárdico: no se observa desarrollo de microorganismos.
+Anatomía patológica de cresta ilíaca (biopsia ósea): médula ósea normocelular, no se observa infiltración por linfoma.
+TAC de tórax: pseudonódulo subpleural de 10 mm de diámetro situado en segmento posterior del lóbulo superior derecho a controlar. Derrame pericárdico moderado con engrosamiento de pared. Cavidades cardiacas dentro de la normalidad. Líquido ascítico. Espondilosis dorsal.
+PET-TAC: las imágenes no muestran hipermetabolismo significativo en el pericardio que está engrosado. Pequeños ganglios laterocervicales izquierdos, supraclaviculares con SUV máx 1,33, infracentimétricos y otro análogo en el derecho con SUV máx 1,9. En mediastino pequeños ganglios con SUV máx 1,57 la de mayor tamaño de 12,8 mm y mayor actividad metabólica SUV máx 2,5. Retroperitoneal pequeños ganglios crurales, pericelíacos y paraaórticos con escaso metabolismo SUV 1,08. Lesión hipermetabólica (SUV máx 9) hiperdensa y de morfología irregular en testículo izquierdo muy sugestiva de malignidad.
+Ecografía testicular: imagen de espermatocele de 10 mm en cabeza de epidídimo izquierdo y cambios secundarios a vasectomía izquierdo.
+Anatomía patológica testicular izquierda: pieza de orquiectomía izquierda: sin evidencia de neoplasia. Epididimitis aguda y crónica asociada a reacción fibrosa e histiocitaria. Parénquima testicular y cordón espermático sin alteraciones histológicas.
+Ecocardiograma transtorácico: función sistólica ventricular izquierda conservada (52%), dilatación biauricular moderada y un derrame pericárdico grave con evidencia de engrosamiento de pericardio visceral sin colapso de cavidades ni variaciones respiratorias de flujos valvulares.
+Ecocardiograma transtorácico de control: FEVI 61%, derrame pericárdico ligero, sin clara evidencia de fisiología constrictiva.
+
+EVOLUCIÓN CLÍNICA
+Se ingresó al paciente para estudio y tratamiento en el que participamos de forma combinada los servicios de cardiología, medicina interna y hematología. Inicialmente el paciente presenta escasa respuesta al tratamiento depletivo, con persistencia de signos marcados de fallo derecho y tensiones arteriales sistólicas en torno a 90-100 mmHg, aunque sin francos datos de compromiso hemodinámico. Mantuvo buena respuesta a tratamiento frenador del nodo auriculoventricular (AV) y se inició anticoagulación por CHASVASC:2 y HASBLED:1 con rivaroxabán. Dentro del estudio complementario, se realizó una ecocardiografía transtorácica donde se observó un derrame pericárdico severo sin repercusión significativa sobre cavidades derechas y se planteó realizar una pericardiocentesis diagnóstico-terapéutica. De aquella técnica se obtuvo 950 cc de líquido serohemático con una clara mejoría clínica inmediata y se remitieron muestras a microbiología y anatomía patológica, para filiación del derrame, que finalmente demostraron la presencia de células blásticas compatibles con linfoma B difuso de células grandes, sin evidencia microbiológica infecciosa.
+El estudio se completó mediante la realización de un PET-TAC donde se apreciaron adenopatías con leve metabolismo incrementado y lesión hipercaptante en testículo izquierdo (imagen 4) con criterios metabólicos de malignidad por lo que solicitamos una ecografía testicular que no pone de manifiesto clara masa testicular maligna (espermatocele de 10 mm en cabeza de epidídimo izquierdo y cambios secundarios a vasectomía).
+Dado que no se había conseguido filiar origen del proceso maligno y el paciente no se encontraba en condiciones clínicas adecuadas para la toma de biopsia de pericardio ni de ganglios mediastínicos mediante toracoscopia se valoró el caso en comité de tumores hematológicos y dado la intensa captación del PET-TAC en testículo izquierdo se decide orquiectomía diagnóstica para valoración de malignidad a dicho nivel dado la implicación pronóstica y terapéutica de la afectación testicular por linfoma de alto grado. Con el diagnóstico de linfoma B de alto grado en pericardio se decide no demorar el tratamiento quimioterápico con R-CHOP/21, administrándose el primer ciclo (con Truxima) y sin reacciones adversas inmediatas.
+Realizamos un ecocardiograma transtorácico de control con leve derrame pericárdico y aumento de la FEVI (61%). Se resolvieron los edemas y permaneció estable desde el punto de vista cardiológico. No presentó complicaciones al tratamiento hematológico por lo que se decidió dar el alta y seguirlo en ambulatoriamente. Semanas después se obtiene el resultado de la biopsia testicular con resultado negativo para malignidad.
+
+DIAGNÓSTICO
+Pericarditis efusivoconstrictiva.
+Fibrilación auricular con respuesta ventricular media rápida primer episodio. Insuficiencia cardiaca congestiva con FEVI conservada.
+Linfoma difuso de célula grande B, estadio IV.

@@ -1,0 +1,13 @@
+T2	ENFERMEDAD 50 53	HTA
+T3	ENFERMEDAD 55 64	DM tipo 2
+T4	ENFERMEDAD 66 82	obesidad mórbida
+T14	ENFERMEDAD 464 485	depleción hidrosalina
+T20	ENFERMEDAD 954 1001	IRA prerrenal secundaria a depleción de volumen
+T21	ENFERMEDAD 981 1001	depleción de volumen
+T22	ENFERMEDAD 1003 1015	hiponatremia
+T23	ENFERMEDAD 1018 1031	hipopotasemia
+T26	ENFERMEDAD 1201 1227	insuficiencia respiratoria
+T27	ENFERMEDAD 1230 1279	shock séptico secundario a infección respiratoria
+T28	ENFERMEDAD 1257 1279	infección respiratoria
+T29	ENFERMEDAD 38 48	exfumadora
+T1	ENFERMEDAD 382 399	episodio sincopal

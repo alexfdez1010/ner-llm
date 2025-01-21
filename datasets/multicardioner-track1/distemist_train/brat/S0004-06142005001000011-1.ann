@@ -1,0 +1,14 @@
+T1	ENFERMEDAD 145 199	IRC progresiva secundaria a glomerulonefritis tipo IgA
+T2	ENFERMEDAD 173 234	glomerulonefritis tipo IgA con esclerosis focal y segmentaria
+T3	ENFERMEDAD 298 319	hipertensión arterial
+T5	ENFERMEDAD 373 394	cardiopatía isquémica
+T6	ENFERMEDAD 399 419	enfermedad coronaria
+T7	ENFERMEDAD 556 574	dislipemia tipo II
+T8	ENFERMEDAD 591 614	criptorquídia bilateral
+T9	ENFERMEDAD 2175 2205	paraparesia espástica tropical
+T10	ENFERMEDAD 2710 2731	vejiga hiperrefléxica
+T11	ENFERMEDAD 2743 2759	litiasis vesical
+T20	ENFERMEDAD 1730 1765	lesiones a nivel cerebral o espinal
+T4	ENFERMEDAD 1521 1534	déficit motor
+T12	ENFERMEDAD 2207 2210	TSP
+#1	AnnotatorNotes T12	  TSP: paraparesia espástica tropical

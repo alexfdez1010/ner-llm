@@ -1,0 +1,48 @@
+T29	ENFERMEDAD 6309 6325	flúter auricular
+T91	ENFERMEDAD 136 157	hipertensión arterial
+T92	ENFERMEDAD 159 169	dislipemia
+T93	ENFERMEDAD 172 189	tabaquismo activo
+T94	ENFERMEDAD 374 406	fibrilación auricular permanente
+T95	ENFERMEDAD 494 510	debut embolígeno
+T96	ENFERMEDAD 535 566	accidente isquémico transitorio
+T97	ENFERMEDAD 571 592	secuelas neurológicas
+T98	ENFERMEDAD 610 634	enfermedad renal crónica
+T99	ENFERMEDAD 648 679	artrosis poliarticular moderada
+T101	ENFERMEDAD 1943 1955	ascitis leve
+T102	ENFERMEDAD 2062 2086	flúter auricular atípico
+T103	ENFERMEDAD 2153 2159	BCRDHH
+T104	ENFERMEDAD 2595 2620	Derrame pleural bilateral
+T105	ENFERMEDAD 2865 2885	Insuficiencia ligera
+T106	ENFERMEDAD 2977 2997	Insuficiencia ligera
+T108	ENFERMEDAD 3546 3565	derrame pericárdico
+T109	ENFERMEDAD 4459 4490	disfunción biventricular severa
+T110	ENFERMEDAD 4669 4689	enfermedad coronaria
+T111	ENFERMEDAD 4742 4771	insuficiencia cardiaca global
+T112	ENFERMEDAD 4776 4800	disfunción biventricular
+T113	ENFERMEDAD 5863 5885	insuficiencia cardiaca
+T114	ENFERMEDAD 6012 6053	descompensación de insuficiencia cardiaca
+T115	ENFERMEDAD 6155 6184	insuficiencia cardiaca global
+T116	ENFERMEDAD 6679 6715	insuficiencia cardiaca descompensada
+T117	ENFERMEDAD 6773 6804	disfunción biventricular severa
+T118	ENFERMEDAD 7421 7449	insuficiencia cardiaca aguda
+T119	ENFERMEDAD 7911 7933	insuficiencia cardiaca
+T120	ENFERMEDAD 7979 8001	insuficiencia cardiaca
+T122	ENFERMEDAD 8209 8228	Taquimiocardiopatía
+T123	ENFERMEDAD 8301 8332	Disfunción biventricular severa
+T124	ENFERMEDAD 8412 8434	Valvulopatía reumática
+T20	ENFERMEDAD 2623 2650	infiltrado hiliar bilateral
+T128	ENFERMEDAD 3133 3191	Ventrículo izquierdo no dilatado, ligeramente hipertrófico
+T131	ENFERMEDAD 3392 3431	Aurícula izquierda ligeramente dilatada
+T132	ENFERMEDAD 3433 3470	Aurícula derecha ligeramente dilatada
+T133	ENFERMEDAD 3472 3527	Ventrículo derecho dilatado, severamente hipocontráctil
+T135	ENFERMEDAD 3588 3615	Vena cava inferior dilatada
+T136	ENFERMEDAD 4230 4246	flúter auricular
+T25	ENFERMEDAD 5711 5717	flúter
+T26	ENFERMEDAD 6858 6864	flúter
+T143	ENFERMEDAD 3043 3072	Insuficiencia ligera-moderada
+T152	ENFERMEDAD 4504 4522	congestión derecha
+T160	ENFERMEDAD 4570 4592	dilatación biauricular
+T176	ENFERMEDAD 6485 6508	amiodarona en perfusión
+T58	ENFERMEDAD 4814 4833	taquimiocardiopatía
+T100	ENFERMEDAD 5484 5490	flúter
+T126	ENFERMEDAD 8242 8299	flúter auricular atípico con respuesta ventricular rápida

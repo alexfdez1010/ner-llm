@@ -1,0 +1,58 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Paciente mujer de 70 años que ingresa por debut de insuficiencia cardiaca.
+
+Antecedentes
+Sin alergias medicamentosas conocidas.
+Factores de riesgo cardiovascular: sin hábitos tóxicos. Hipertensión arterial (HTA) y dislipemia sin tratamiento farmacológico. No antecedentes familiares de muerte súbita ni de cardiopatía isquémica precoz.
+Historia cardiológica: valorada por el médico de atención primaria por disnea, iniciando tratamiento con espironolactona y furosemida, pendiente de valoración ambulatoria por cardiología de cupo.
+Otros antecedentes: hipotiroidismo en tratamiento sustitutivo. Gammapatía monoclonal de significado incierto estudiada por hematología en 2009, descartando mieloma múltiple.
+Diverticulosis colónica. Polipectomía colónica en 2016 (pólipos con displasia de bajo grado).
+Intervenida de gastrectomía parcial por úlcera duodenal y anexectomía parcial por endometriosis.
+Tratamiento habitual: espironolactona 25 mg cada 48 horas, omeprazol 20 mg, furosemida 40 mg (1-0-0), carbonato cálcico/colecarciferol.
+
+Enfermedad actual
+La paciente refiere que en los dos meses previos al ingreso comienza con sensación de disnea de esfuerzo que ha ido empeorando de forma progresiva hasta hacerse de mínimos esfuerzos.
+Además refiere que desde la semana previa al ingreso presenta edematización en extremidades inferiores. Niega dolor torácico, palpitaciones o síncope. Refiere que desde hace varios años presenta hematomas periorbitarios que se resuelven de forma espontánea, por los que no había consultado. Desde la semana previa al ingreso presenta nuevamente hematoma alrededor de ambas órbitas. Acude a urgencias de nuestro centro y se decide ingreso para tratamiento y estudio.
+
+Exploración física
+Al ingreso:
+Saturación O2 basal 89%. Tensión arterial 110/70 mmHg. Frecuencia cardiaca 110 lpm. Pulso venoso yugular (PVY) elevado, reflujo hepatoyugular. Auscultación cardiaca: rítmica, soplo sistólico paraesternal izquierdo II/VI. Auscultación pulmonar: crepitantes bibasales. Abdomen: blando, depresible, hepatomegalia no dolorosa de 2 cm. Extremidades inferiores: edema hasta región pretibial. Púrpura periorbitaria bilateral, sobre todo izquierda.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): ritmo sinusal a 90 lpm. BAV de primer grado (PR 220 ms).
+QRS estrecho. Patrón de pseudoinfarto anterior (QS V1-V4). HBAI.
+Analítica sanguínea:
+Bioquímica general: glucosa 99 mg/dl, urea 47 mg/dl, creatinina 1,02 mg/dL, filtrado glomerular (CKD-EPI) 56 ml/min/1,73 m2, sodio 142 mmol/l, potasio 4,1 mmol/l. AST 33 UI/l, ALT 43 UI/l, ALP 126 UI/l, GGT 127 UI/l, HbA1C 5,9%, TSH 6,3 mUI/l, T4 libre 1,31 ng/dl. Perfil lipídico: colesterol total 211 mg/dl, triglicéridos 102 mg/dl, HDL 49 mg/dl, LDL 142 mg/dl.
+NT-proBNP 4828 pg/ml. Troponina T ultrasensible 72 ng/l.
+Ferrocinética: hierro 75 μg/dl, transferrina 315 mg/dl, IST 24%, ferritina 92 ng/ml.
+Hemograma: hemoglobina 14,6 g/dl, leucocitos 8.300/μl, plaquetas 292.000/μl, reticulocitos 1,5%, haptoglobina 44%.
+Coagulación: INR 1,09, tasa de protrombina 87%, To.T. parcial activada 35,9 seg.
+Inmunoglobulinas: cadenas kappa libre en suero 7,7 mg/l (Valores de referencia 3,3-19), cadenas lambda libre en suero 517 mg/L (5,71-26,3), cociente Kappa/Lambda libres 0,01 (0,26-1,65), cociente Lambda/Kappa libres 67.
+Proteinograma: banda monoclonal IgG Lambda en gamma tardía + componente monoclonal adicional en gamma media también de cadena ligera Lambda sin clara asociación a cadena pesada IgG, IgA o IgM.
+Orina de 24 horas: aclaramiento de creatinina 23,31 ml de FG. Proteínas cuantitativas 2,4 mg/dl, urea 7,31 g/24 horas, creatinina 0,34 g/24 horas. Cadenas kappa 0,66 mg/dl (0-0,75), cadenas lambda 1,68 (0-0,41), cociente kappa/lambda 0,39. Concentrada la orina x20 se evidencia eliminación de componente monoclonal de cadena ligera libre lambda en zona gamma. Límite de detección de la técnica: anti-IgG+IgA+IgM, anti-kappa, anti-lambda 1,25 mg/l, anti-kappa libre, anti-lambda libre 2,5 mg/l.
+Radiografía de tórax (PA y lateral): cardiomegalia a expensas de cavidades izquierdas, cefalización de flujo, líneas A y B de Kerley, derrame pleural izquierdo, pinzamiento seno costofrénico derecho.
+Ecocardiograma transtorácico: ventrículo izquierdo con hipertrofia asimétrica grave (septo interventricular 13 mm, pared posterior 16 mm) con fracción de eyección conservada (60% por Simpson biplanar). Miocardio hiperrefringente, sugestivo de miocardiopatía por depósito. Disfunción diastólica tipo III. Ventrículo derecho hipertrófico con función normal (TAPSE 22 mm). Dilatación biauricular leve (aurícula izquierda 20 cm2, aurícula derecha 18 cm2).
+Insuficiencia mitral grado 2+. Insuficiencia tricuspídea moderada con datos de HTP en reposo (PSAP 40 mmHg + PVC). Vena cava inferior dilatada (25 mm), con variación respiratoria < 50%.
+Resonancia magnética cardiaca: ventrículo izquierdo de tamaño normal (46 mm) con engrosamiento de la pared anterior basal (16 m), de la pared lateral basal (13 mm), del septo medio (14 mm) y del septo apical (10 mm). No se identifican alteraciones en la contractilidad global ni segmentaria. FEVI 58%. VTD-VI 109 ml (69 ml/m2). VTS-VI 46 ml (29 ml/m2). VL-VI 64 ml (40 ml/m2). Ventrículo derecho de tamaño normal con engrosamiento miocárdico de forma difusa, sobre todo de su pared libre. Función conservada. Engrosamiento del septo interauricular. Ligera dilatación biauricular (AD 21 cm2; AI 22 cm2). Tras la administración del contraste intravenoso, no se consigue anular la señal del miocardio, identificando un realce difuso de la pared del miocardio del ventrículo izquierdo, del ventrículo derecho, del septo interauricular y de la pared de ambas aurículas. Ligeros derrames pleurales bilaterales.
+Gammagrafía miocárdica con difosfonatos: el estudio no muestra captación patológica compatible con amiloidosis por depósito de transtiretina.
+Cateterismo cardiaco: arterias coronarias sin estenosis angiográficamente significativas.
+Punción con aguja fina de grasa subcutánea abdominal: tejido adiposo con presencia de depósitos nodulares que se tiñen con la tinción de rojo Congo y presentan birrefringencia verde en el estudio bajo luz polarizada. Inmunohistoquímica: lambda positivo. Kappa, componente A, componente P y transtiretina negativos. El resultado del estudio inmunohistoquímico va a favor de amiloide AL.
+
+EVOLUCIÓN CLÍNICA
+Paciente sin antecedentes cardiológicos conocidos, que había presentado con anterioridad púrpura periorbitaria, y que consulta por clínica de disnea progresiva de semanas de evolución.
+Acude a urgencias y es ingresada en planta de hospitalización de cardiología por primer episodio de insuficiencia cardiaca con datos de congestión sistémica y pulmonar. Ante ecocardiograma sugestivo de enfermedad por depósito, se decide complementar estudio con resonancia magnética, gammagrafía cardiaca y cadenas ligeras en plasma y orina. Tras obtener resultados se realiza interconsulta al servicio de hematología, que solicita punción de grasa subcutánea abdominal. Desde el punto de vista clínico, presenta buena respuesta al tratamiento diurético intravenoso, sin embargo, tiene tendencia a la hipotensión, y ante electrocardiograma con trastorno de la conducción de base se decide no iniciar tratamiento con IECA ni betabloqueante.
+Es dada de alta estable, en clase funcional NYHA II/IV, pendiente de resultado anatomopatológico de grasa subcutánea.
+A las 2 semanas del ingreso, acude nuevamente a urgencias por dolor torácico y descompensación de insuficiencia cardiaca, por lo que ingresa nuevamente en planta de cardiología. Se realiza cateterismo cardiaco descartando enfermedad coronaria asociada. El resultado anatomopatológico de la grasa subcutánea va a favor de amiloide AL. Siendo diagnosticada de amiloidosis AL se inicia tratamiento por parte de hematología con ciclofosfamida, bortezomib y dexametasona.
+Permanece en domicilio estable desde el punto de vista cardiovascular, con seguimiento ambulatorio por hematología.
+
+A los 3 meses del primer ingreso presenta accidente cerebrovascular isquémico de hemisférico izquierdo en territorio de arteria cerebral media izquierda con imagen compatible con pequeño trombo a nivel de M1 izquierda, ingresando en neurología. Se objetiva fibrilación auricular paroxística, iniciando anticoagulación con heparina y acenocumarol, presentando hemorragia digestiva baja. Se realiza gastroscopia sin hallazgos relevantes y colonoscopia objetivando hemorroides. Durante el ingreso desarrolla neuropatía del enfermo crítico, por lo que es trasladada a centro de rehabilitación, bajo tratamiento con heparina de bajo peso molecular, pendiente de valorar de forma ambulatoria cierre percutáneo de orejuela.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca congestiva estadio C de la AHA/ACC, con datos de congestión pulmonar y sistémica.
+Amiloidosis AL con afectación cardiaca.
+Accidente cerebrovascular hemisférico izquierdo de probable origen cardioembólico.
+Fibrilación auricular paroxística.
+Polineuropatía del enfermo crítico.
+Función sistólica de ventrículo izquierdo conservada. Disfunción diastólica tipo patrón restrictivo.
+Insuficiencia mitral grado 2+.
+Enfermedad renal crónica estadio 3a.

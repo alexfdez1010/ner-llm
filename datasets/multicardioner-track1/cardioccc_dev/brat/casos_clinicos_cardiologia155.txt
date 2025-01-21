@@ -1,0 +1,44 @@
+Historia clínica y enfermedad actual
+• Mujer de 62 años
+• Vida activa
+• No alergias medicamentosas conocidas
+• Fumadora de 0,5 paquetes de tabaco/día
+• Obesidad grado 2
+• No hipertensión arterial
+• No diabetes
+• Hipercolesterolemia
+• Hipotiroidismo
+• Insuficiencia venosa crónica
+• Escoliosis dorso-lumbar severa
+• Sin antecedentes cardiológicos
+• Tratamiento domiciliario: lyrica, pitavastatina, furosemida, daflon, voltaren, levothroid  
+
+Pruebas complementarias
+• Electrocardiograma: ritmo sinusal a 70 lpm. Necrosis inferior antigua. PR 171 mseg. QRS 86 mseg. QTc 413 mseg. Eje cardiaco 60o.
+• RX de tórax al ingreso: cardiomegalia, aumento de la trama intersticial bilateral de predominio bibasal.
+• Analítica de sangre al ingreso: glucosa 150 mg/dl, urea 90 mg/dl, creatinina 3,3 mg/dl, sodio 138 mMol/l, potasio 4,4 mMol/l, INR 1,21, TTPA 25,8, leucocitos 42900/ul, PMN 95,1%, linfocitos 2000/ul, cayados 13%, hemoglobina 9,9 g/dl, hematocrito 30,3%, VCM 88,7, MHC 28,9, plaquetas 16000/uL.
+• TAC craneal al ingreso: lesión hipodensa frontal derecha mal delimitada.
+• RMN cerebral: múltiples lesiones cerebrales con realce anular fino y edema perilesional, la mayor de 2 cm de diámetro localizadas en lóbulo frontal derecho y ambos lóbulos occipitales, compatibles con abscesos cerebrales.
+• Ecocardiograma transtorácico al ingreso: cavidades cardiacas no dilatadas. Función ventricular izquierda conservada. Válvula mitral con calcificación en anillo posterior, esclerosis y engrosamiento de velo posterior en el que se observa imagen móvil hiperecoica adherida a borde libre, sin poder descartar vegetación, condicionando insuficiencia mitral ligera-moderada. Sin otras valvulopatías significativas. No derrame pericárdico.
+• Ecocardiograma transesofágico al ingreso: se observan dos imágenes a nivel de velos posterior (1,4x1,3 cm) y anterior mitral (0,8x0,9 cm) sugestivas de vegetación. Insuficiencia mitral moderada.
+• Ecocardiograma de control: imagen de Doppler color sugestiva de perforación del velo mitral posterior. Se objetiva desaparición de vegetación de velo posterior. Imagen en velo anterior sugestiva de vegetación evolucionada. Insuficiencia mitral moderada.
+• Ecografía abdominal: enfermedad renal médica con cicatrices en parénquima. Infartos esplénicos. Trombosis del tronco celíaco.
+• Hemocultivos al ingreso: positivos para Sth. Aureus sensible a cloxacilina.
+• Hemocultivos de control: negativos.
+
+Evolución clínica
+Paciente que ingresa inicialmente en Unidad de Cuidados Intensivos en situación de shock séptico, con insuficiencia renal aguda oligúrica, requiriendo aporte de volumen y aminas vasoactivas y una lesión cerebral de etiología incierta. Sin focos sépticos objetivables a nivel abdominal mediante TAC, en ecocardiograma transtorácico se objetiva imagen sospechosa de vegetación en válvula mitral, confirmándose mediante realización de ecocardiograma transesofágico.
+Se evidenciaba además función sistólica conservada y una insuficiencia mitral moderada. Tratada a su ingreso con meropenem, una vez diagnosticada de endocarditis mitral se inicia tratamiento con vancomicina y gentamicina. Tras la positivización de los hemocultivos de inicio para Sthaphylococcus aureus sensible a cloxacilina se cambia la pauta antibiótica a cloxacilina-gentamicina. Se completa el estudio con RMN cerebral, que confirma la presencia de varias lesiones compatibles con abscesos cerebrales, todas ellas menores de 2 cm. Tras evolución inicial favorable, se traslada a la paciente a planta de Cardiología para continuar tratamiento.
+A su ingreso en planta, se objetivan datos de fallo cardiaco global, con óptima respuesta a diuréticos. Asimismo desarrolla en los primeros días embolismo séptico en miembro inferior izquierdo. Se practicó una embolectomía transfemoral urgente, exitosa. Mediante ecografía abdominal se evidencia la presencia de varios infartos esplénicos y de imagen de émbolo a nivel de tronco celíaco (la paciente no presentó en ningún momento clínica intestinal), no presentes en TAC abdominal previo. En los ecocardiogramas de control se observó la reducción del tamaño de la vegetación, persistencia de insuficiencia moderada, función conservada. Continuando terapia prolongada con cloxacilina, durante ocho semanas, por presencia de abscesos cerebrales, la paciente experimentó mejoría clínica y de parámetros analíticos progresiva, con desaparición de los datos sugestivos de infección activa, normalización de parámetros de función renal, persistiendo afebril y estable.
+Se discutió el caso en sesión médico-quirúrgica, contando en ese momento la paciente con una endocarditis mitral embolígena con abscesos cerebrales, anemia de proceso crónico, insuficiencia renal con TFG en torno a 30 ml/min. Dado el elevado riesgo quirúrgico y la favorable respuesta al tratamiento antibiótico se decidió proseguir con manejo médico, no descartándose la cirugía de recambio valvular mitral ante una progresión del cuadro infeccioso.
+Una vez completada la pauta antibiótica, y dada la estabilidad clínica y hemodinámica se decide el alta a su domicilio.
+
+Diagnóstico
+• Endocarditis sobre válvula mitral nativa, por Sthaphylococcus aureus sensible a cloxacilina, embolígena. Shock séptico
+• Función sistólica conservada. Insuficiencia mitral moderada. Perforación de velo posterior de válvula mitral
+• Insuficiencia renal de etiología mixta (nefrotóxicos, glomerulonefritis, prerenal)
+• Insuficiencia cardiaca congestiva
+• Embolismo séptico cerebral. Abscesos cerebrales menores de 2 cm
+• Embolismo séptico arterial femoral. Embolectomía transfemoral urgente
+• Embolismo de tronco celíaco asintomático
+• Embolismo esplénico con infarto

@@ -1,0 +1,13 @@
+T8	ENFERMEDAD 118 141	cardiopatía estructural
+T9	ENFERMEDAD 239 260	taquicardia auricular
+T10	ENFERMEDAD 291 312	hipertensión arterial
+T11	ENFERMEDAD 315 325	dislipemia
+T12	ENFERMEDAD 537 558	taquicardia auricular
+T13	ENFERMEDAD 651 676	enfermedad pleuropulmonar
+T14	ENFERMEDAD 1302 1323	taquicardia auricular
+T15	ENFERMEDAD 2051 2078	BRDHH de etiología mecánica
+T16	ENFERMEDAD 2194 2266	Taquicardia auricular con origen en la región del seno aórtico posterior
+T17	ENFERMEDAD 450 473	alteraciones valvulares
+T18	ENFERMEDAD 1070 1091	Taquicardia auricular
+T19	ENFERMEDAD 1560 1582	Foramen oval permeable
+#1	AnnotatorNotes T15	 BRDHH: Bloqueo de rama derecha del Haz de His

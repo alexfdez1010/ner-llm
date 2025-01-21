@@ -1,0 +1,39 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Factores de riesgo cardiovascular: hipertensión arterial (HTA). Dislipemia. Obesidad. Diabetes mellitus tipo 2. Fumador de 20 cigarrillos/día. Enolismo crónico 8 UBEs/día. Fibrilación auricular persistente anticoagulada con acenocumarol. Otros antecedentes: bronquitis crónica sin patrón obstructivo, síndrome de apneashipopneas del sueño (SAHS) en tratamiento con presión positiva continua en la vía aérea (CPAP) nocturna. Tratamiento habitual: glimepiride 2 mg/día, metformina/dapagliflozina 850/5 mg cada 12 horas, atorvastatina 30 mg cada 24 horas, ácido acetilsalicílico 100 mg al día, espironolactona 25 mg al día, amlodipino 5 mg al día, acenocumarol según pauta, bisoprolol 2,5 mg cada 24 horas, furosemida 40 mg cada 24 horas, omeprazol 20 mg al día, indacaterol/bromuro de glicopirronio 85/43 mcg 1 cápsula inhalada cada 24 horas.
+
+Enfermedad actual
+Paciente de 57 años que acude a urgencias por presentar empeoramiento de clase funcional hasta presentar disnea de mínimos esfuerzos, ortopnea, episodios de disnea paroxística nocturna, disminución subjetiva de la diuresis y edematización asociada a aumento de peso.
+
+Exploración física
+Peso 108 kg, talla 1,71 m. Índice de masa corporal (IMC) 36,9 kg/m2. Presión arterial (PA) 178/92 mmHg. Frecuencia cardiaca (FC) 138 lpm. Saturación de oxígeno (SatO2) 90% con gafas nasales a 2 l/min (FiO2 28%).
+Taquipneico en reposo. Presión venosa yugular aumentada. Reflejo hepatoyugular positivo. Auscultación cardiaca: irregular, sin soplos. Auscultación pulmonar: hipofonesis bibasal de predominio derecho con roncus dispersos. Extremidades: edemas tibiomaleolares hasta raíz de muslos y en miembros superiores. Pulsos periféricos conservados y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+ECG a su llegada a urgencias: fibrilación auricular a 130 lpm. QRS estrecho. EJE: 0o. Mala progresión del vector septal en precordiales. Sin alteraciones de la repolarización.
+
+Analítica: Hemoglobina 10,4 g/dl, hematocrito 30%, plaquetas 344.000 /μl, leucocitos 7400/μl. Razón internacional normalizada (INR) 1,8. Glucemia basal 260 mg/dl. Urea 27 mg/dl, creatinina 0,81 mg/dl, sodio 134 mEq/l, potasio 3,7 mEq/l. HbA1C: 8,6%. Biomarcadores de daño miocárdico (rango de valor normal 0.0-11.6 ng/l): troponina I (hsTnI) 28 ng/l --> 33 ng/l. proBNP 2680 pg/ml. CA125 474 UI/ml. RT-PCR para SARS-CoV2: negativa. Metabolismo del hierro: ferritina 78 mcg/l, IST 4,5%.
+
+Radiografía de tórax: silueta cardiomediastínica centrada. Índice cardiotorácico mayor a 0,5. Infiltrado intersticial bilateral con redistribución vascular apical. Derrame pleural bilateral de predominio derecho.
+
+Ecocardiogramas:
+Ecocardiograma en su ingreso: ventrículo izquierdo de diámetros y volúmenes aumentados con disfunción ventricular moderada secundaria a hipocinesia generalizada (FEVI 37%). Raíz aórtica diámetros normales. Aurícula izquierda dilatada. Insuficiencia mitral (IM) ligera. Presiones de llenado normales. Ventrículo derecho dilatado con función sistólica deprimida. Insuficiencia tricuspídea (IT) ligera-moderada que permite estimar presión arterial pulmonar sistólica (PAPS) en 45 mmHg. Ausencia de derrame pericárdico. Vena cava inferior (VCI) dilatada sin colapso inspiratorio mayor al 50%. No se objetivan imágenes compatibles con trombo en la orejuela izquierda. Estudio realizado en fibrilación auricular.
+Ecocardiografía control a los 3 meses del alta: ventrículo izquierdo de diámetros y volúmenes aumentados con función global sistólica conservada (FEVI 55%). Raíz aórtica diámetros normales. Aurícula izquierda dilatada. IM ligera. Presiones de llenado normales. Ventrículo derecho de diámetros normales con función sistólica normal. IT ligeramoderada que permite estimar PAPS en 40 mmHg. Ausencia de derrame pericárdico. VCI de diámetros normales con colapso inspiratorio mayor al 50%. Estudio realizado en ritmo sinusal.
+
+Hemodinámica: coronariografía durante el ingreso. Arterias coronarias epicárdicas con ateromatosis difusa sin estenosis significativas.
+
+EVOLUCIÓN CLÍNICA
+Ante paciente con insuficiencia cardiaca descompensada con disfunción ventricular de probable etiología multifactorial, quien presenta fibrilación auricular con respuesta ventricular rápida, se descarta trombo en orejuela izquierda mediante ecocardiografía transesofágica y se realizan dos cardioversiones eléctricas no efectivas. Se realiza coronariografía en la que no se objetivan estenosis significativas.
+Se administra tratamiento con diuréticos endovenosos en bolos a dosis altas, ferroterapia con hierro carboximaltosa, tratamiento frenador con betabloqueantes y tratamiento oral para prevenir el síndrome de deprivación alcohólica.
+Buena respuesta clínica y diurética durante el ingreso. Glucemias y cifras de tensión arterial de difícil control. Se da de alta 9 días tras el ingreso paucisintomático y en fibrilación auricular con respuesta ventricular controlada. Tratamiento al alta: metformina/dapagliflozina 850/5 mg cada 12 horas, atorvastatina 30 mg cada 24 horas, ácido acetilsalicílico 100 mg al día, amlodipino 5 mg al día, rivaroxabán 20 mg al día, bisoprolol 2,5 mg cada 24 horas, furosemida 80 mg cada 24 horas, omeprazol 20 mg al día, indacaterol/bromuro de glicopirronio 85/43 mcg 1cápsula inhalada cada 24 horas, amiodarona 200 mg al día, eplerenona 50 mg al día, sacubitrilo/valsartán 24/26 mg cada 12 horas, clometiazol 192 mg cada 12 horas, semaglutida 0,25 mg una vez a la semana durante cuatro semanas, posteriormente 0,5 mg una vez a la semana durante cuatro semanas para continuar con 1 mg una vez a la semana.
+Acude a consulta médica de control en cardiología de zona 3 meses después, con mejoría de clase funcional (NYHA I), abandono del hábito tabáquico y abstinencia alcohólica. Al examen físico destaca importante pérdida de peso (12 kg) y ausencia de signos congestivos. En las pruebas complementarias se encuentra en ritmo sinusal, descenso de la HbA1C a 7,2% y proBNP 86,8 pg/ml. Ecocardiografía con diámetros aumentados y función global sistólica global conservada.
+En el seguimiento posterior se mantiene asintomático desde el punto de vista cardiovascular con buen control glucémico (HbA1C 6,2%) y sin recidiva de fibrilación auricular.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca descompensada con FEVI deprimida.
+Miocardiopatía dilatada (taquicardiomiopatía frente a enólica).
+Fibrilación auricular persistente.
+Obesidad. Diabetes mellitus tipo 2. HTA. Dislipemia.
+Ferropenia.
+Anemia macrocítica crónica.

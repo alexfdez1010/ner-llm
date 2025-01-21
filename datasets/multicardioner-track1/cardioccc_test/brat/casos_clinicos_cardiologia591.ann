@@ -1,0 +1,31 @@
+T66	ENFERMEDAD 4047 4068	PCR extrahospitalaria
+T87	ENFERMEDAD 70 93	alergias medicamentosas
+T88	ENFERMEDAD 131 139	fumadora
+T89	ENFERMEDAD 253 283	varices en miembros inferiores
+T90	ENFERMEDAD 836 862	parada cardiorrespiratoria
+T92	ENFERMEDAD 1235 1258	bloqueo de rama derecha
+T93	ENFERMEDAD 2955 2979	tromboembolismo pulmonar
+T94	ENFERMEDAD 2984 3009	trombosis venosa profunda
+T95	ENFERMEDAD 3053 3081	patología intracraneal aguda
+T96	ENFERMEDAD 3287 3293	trombo
+T97	ENFERMEDAD 3295 3320	Insuficiencia mitral leve
+T101	ENFERMEDAD 3723 3742	disección coronaria
+T102	ENFERMEDAD 4715 4737	disfunción ventricular
+T103	ENFERMEDAD 4962 5000	disección espirodiea de la DA proximal
+T105	ENFERMEDAD 5472 5492	hipotensión arterial
+T106	ENFERMEDAD 5495 5514	taquicardia sinusal
+T107	ENFERMEDAD 5808 5821	trombo apical
+T108	ENFERMEDAD 6214 6220	trombo
+T109	ENFERMEDAD 6235 6261	Parada cardiorrespiratoria
+T110	ENFERMEDAD 6315 6336	Cardiopatía isquémica
+T111	ENFERMEDAD 6338 6392	síndrome coronario agudo con elevación del segmento ST
+T112	ENFERMEDAD 6394 6401	SCACEST
+T113	ENFERMEDAD 6404 6475	infarto con onda Q secundario a disección espiroidea de DA con oclusión
+T114	ENFERMEDAD 6644 6670	trombo mural en ápex de VI
+T115	ENFERMEDAD 141 149	Bebedora
+T3	ENFERMEDAD 864 867	PCR
+T118	ENFERMEDAD 3422 3480	Arteria descendente anterior (DA) con disección espiroidea
+T63	ENFERMEDAD 4253 4256	PCR
+T72	ENFERMEDAD 5005 5036	oclusión a nivel de la DA media
+T143	ENFERMEDAD 5929 5948	necrosis miocárdica
+T61	ENFERMEDAD 3926 3983	trombo mural de 13 x 8 mm en ápex de ventrículo izquierdo

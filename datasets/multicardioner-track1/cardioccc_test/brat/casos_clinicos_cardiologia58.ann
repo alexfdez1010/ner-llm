@@ -1,0 +1,37 @@
+T32	ENFERMEDAD 3004 3046	V mitral con ligero engrosamiento de velos
+T38	ENFERMEDAD 78 81	HTA
+T39	ENFERMEDAD 129 150	retinopatía diabética
+T40	ENFERMEDAD 485 504	derrame pericárdico
+T41	ENFERMEDAD 1029 1037	artritis
+T42	ENFERMEDAD 2113 2125	pericarditis
+T43	ENFERMEDAD 2252 2294	esclerosis subcondral acetabular bilateral
+T44	ENFERMEDAD 2296 2324	Calcificación pretrocantérea
+T45	ENFERMEDAD 2564 2597	derrame pericárdico leve-moderado
+T46	ENFERMEDAD 3169 3181	VCI dilatada
+T47	ENFERMEDAD 3602 3665	Calcificación moderada de aparato subvalvular de válvula mitral
+T48	ENFERMEDAD 3751 3779	moderado derrame pericárdico
+T49	ENFERMEDAD 3866 3904	calcificaciones en las hojas pleurales
+T50	ENFERMEDAD 4355 4366	adenopatías
+T51	ENFERMEDAD 4529 4548	derrame pericárdico
+T52	ENFERMEDAD 4562 4576	conectivopatía
+T53	ENFERMEDAD 4701 4749	conectivopatía indiferenciada tipo esclerodermia
+T54	ENFERMEDAD 4947 4995	Conectivopatía indiferenciada tipo esclerodermia
+T55	ENFERMEDAD 98 108	DM tipo II
+T56	ENFERMEDAD 151 159	ERC leve
+T57	ENFERMEDAD 171 194	déficit de Vitamina B12
+T58	ENFERMEDAD 1562 1573	Hepatitis B
+T59	ENFERMEDAD 1576 1587	Hepatitis C
+T61	ENFERMEDAD 2358 2370	uncoartrosis
+T62	ENFERMEDAD 2372 2389	Disartrosis C3-C4
+T63	ENFERMEDAD 2413 2436	pinzamientos de las IFD
+T64	ENFERMEDAD 2481 2522	pinzamiento del IFP del 5 dedo de la mano
+T65	ENFERMEDAD 2643 2674	V I no dilatado con hipertrofia
+T66	ENFERMEDAD 2826 2849	AI ligeramente dilatada
+T67	ENFERMEDAD 3049 3051	IM
+T68	ENFERMEDAD 3118 3126	IAo leve
+T69	ENFERMEDAD 3060 3115	V aórtica, trivalva con ligera fibroesclerosis de velos
+T70	ENFERMEDAD 3128 3139	IT muy leve
+T71	ENFERMEDAD 3414 3439	AI moderadamente dilatada
+T24	ENFERMEDAD 3667 3694	Vena cava inferior dilatada
+T117	ENFERMEDAD 4402 4415	líquido libre
+T25	ENFERMEDAD 2204 2212	derrames

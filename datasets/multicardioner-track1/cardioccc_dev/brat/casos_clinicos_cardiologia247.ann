@@ -1,0 +1,86 @@
+T41	ENFERMEDAD 85 106	Hipertensión arterial
+T42	ENFERMEDAD 133 153	Cardiopatía valvular
+T43	ENFERMEDAD 169 208	insuficiencia mitral grave degenerativa
+T44	ENFERMEDAD 210 242	insuficiencia tricuspídea severa
+T45	ENFERMEDAD 245 272	hipertensión pulmonar grave
+T46	ENFERMEDAD 327 359	Fibrilación auricular permanente
+T47	ENFERMEDAD 361 415	Enfermedad pulmonar obstructiva crónica moderada-grave
+T48	ENFERMEDAD 417 453	Síndrome de apnea-hipopnea del sueño
+T49	ENFERMEDAD 489 558	Enfermedad renal crónica estadio 3a secundaria a nefroangioesclerosis
+T50	ENFERMEDAD 560 586	Tumor carcinoide bronquial
+T51	ENFERMEDAD 682 703	Polimialgia reumática
+T52	ENFERMEDAD 705 720	Artritis gotosa
+T53	ENFERMEDAD 1243 1270	insuficiencia descompensada
+T54	ENFERMEDAD 1275 1293	angina de esfuerzo
+T55	ENFERMEDAD 1855 1862	ascitis
+T56	ENFERMEDAD 1947 1999	trombosis venosa profunda en extremidades inferiores
+T57	ENFERMEDAD 2061 2082	fibrilación auricular
+T58	ENFERMEDAD 2301 2337	callos de fractura de arcos costales
+T59	ENFERMEDAD 2469 2484	derrame pleural
+T60	ENFERMEDAD 2528 2547	derrame pericárdico
+T61	ENFERMEDAD 2988 3023	Insuficiencia aórtica leve-moderada
+T62	ENFERMEDAD 3255 3299	Insuficiencia mitral que impresiona de grave
+T63	ENFERMEDAD 3498 3522	Insuficiencia tricúspide
+T64	ENFERMEDAD 3780 3820	calcificación moderada del anillo mitral
+T65	ENFERMEDAD 4038 4064	Insuficiencia mitral grave
+T66	ENFERMEDAD 4665 4688	trombos intracavitarios
+T67	ENFERMEDAD 5793 5812	derrame pericárdico
+T68	ENFERMEDAD 6040 6076	insuficiencia mitral ligera-moderada
+T69	ENFERMEDAD 6079 6102	estenosis mitral ligera
+T70	ENFERMEDAD 6333 6362	Doble lesión valvular aórtica
+T71	ENFERMEDAD 6371 6402	Insuficiencia tricuspídea grave
+T72	ENFERMEDAD 6404 6434	Hipertensión pulmonar moderada
+T73	ENFERMEDAD 6446 6473	comunicación interauricular
+T74	ENFERMEDAD 6589 6608	derrame pericárdico
+T75	ENFERMEDAD 6688 6708	cardiopatía valvular
+T76	ENFERMEDAD 6725 6751	insuficiencia mitral grave
+T77	ENFERMEDAD 6857 6879	insuficiencia cardiaca
+T78	ENFERMEDAD 7090 7123	enfermedad pulmonar crónica grave
+T79	ENFERMEDAD 7455 7493	insuficiencia mitral a ligero-moderado
+T80	ENFERMEDAD 7989 8008	derrame pericárdico
+T81	ENFERMEDAD 8239 8259	insuficiencia mitral
+T82	ENFERMEDAD 8340 8361	hipertensión pulmonar
+T83	ENFERMEDAD 8364 8396	insuficiencia tricuspídea graves
+T84	ENFERMEDAD 8936 8958	insuficiencia cardiaca
+T85	ENFERMEDAD 9274 9296	insuficiencia cardiaca
+T86	ENFERMEDAD 9394 9443	Insuficiencia mitral grave orgánica, degenerativa
+T87	ENFERMEDAD 9535 9591	Insuficiencia mitral residual grado II (ligera-moderada)
+T88	ENFERMEDAD 9664 9684	hipoxemia secundaria
+T89	ENFERMEDAD 9744 9775	Insuficiencia tricuspídea grave
+T90	ENFERMEDAD 9777 9804	Hipertensión pulmonar grave
+T91	ENFERMEDAD 9848 9880	Fibrilación auricular permanente
+T92	ENFERMEDAD 6475 6478	CIA
+T93	ENFERMEDAD 2789 2816	Ventrículo derecho dilatado
+T94	ENFERMEDAD 2902 2950	Válvula aórtica trivalva con esclerosis de velos
+T95	ENFERMEDAD 4363 4456	Válvula aórtica trivalva con velos levemente engrosados, apertura normal e insuficiencia leve
+T96	ENFERMEDAD 5861 5899	aurícula izquierda dilatada gravemente
+T97	ENFERMEDAD 108 131	Glucemia basal alterada
+T98	ENFERMEDAD 2549 2590	Ventrículo izquierdo ligeramente dilatado
+T99	ENFERMEDAD 2752 2787	Dilatación grave de ambas aurículas
+T100	ENFERMEDAD 3025 3075	Válvula mitral con engrosamiento del velo anterior
+T101	ENFERMEDAD 3571 3640	Raíz aórtica (43 mm) y aorta ascendente (41 mm) ligeramente dilatadas
+T102	ENFERMEDAD 3642 3680	Vena cava inferior gravemente dilatada
+T103	ENFERMEDAD 3997 4022	rotura de cuerda tendínea
+T104	ENFERMEDAD 4458 4527	Válvula tricúspide con estructura normal y gran dilatación del anillo
+T105	ENFERMEDAD 5443 5477	defecto del tabique interauricular
+T106	ENFERMEDAD 5901 5937	Aurícula derecha dilatada gravemente
+T107	ENFERMEDAD 6107 6153	ventrículo derecho está moderadamente dilatado
+T108	ENFERMEDAD 6188 6233	Ventrículo izquierdo con hipertrofia moderada
+T109	ENFERMEDAD 6294 6319	Aorta ascendente dilatada
+T110	ENFERMEDAD 8092 8128	defecto en el tabique interauricular
+T111	ENFERMEDAD 8567 8601	defecto del tabique interauricular
+T112	ENFERMEDAD 9593 9647	Comunicación interauricular conshunt derecha-izquierda
+T162	ENFERMEDAD 2399 2425	consolidaciones pulmonares
+T184	ENFERMEDAD 9045 9084	mitrales, insuficiencia ligera-moderada
+T196	ENFERMEDAD 3926 3961	prolapso asociado del velo anterior
+T161	ENFERMEDAD 3439 3496	Válvula tricúspide con gran defecto de coaptación central
+T163	ENFERMEDAD 4326 4337	cuerda rota
+T166	ENFERMEDAD 4558 4611	defecto de coaptación central con insuficiencia grave
+T167	ENFERMEDAD 4690 4769	Aorta torácica de dimensiones normales con alguna pequeña placa aterosclerótica
+T170	ENFERMEDAD 5669 5700	shunt intradispositivo residual
+T173	ENFERMEDAD 5106 5128	insuficiencia moderada
+T177	ENFERMEDAD 5237 5257	insuficiencia global
+T179	ENFERMEDAD 6017 6102	doble lesión residual: insuficiencia mitral ligera-moderada y estenosis mitral ligera
+T182	ENFERMEDAD 6562 6584	cortocircuito residual
+T188	ENFERMEDAD 8842 8884	complicaciones a nivel del acceso vascular
+#1	AnnotatorNotes T92	 CIA comunicación interauricular

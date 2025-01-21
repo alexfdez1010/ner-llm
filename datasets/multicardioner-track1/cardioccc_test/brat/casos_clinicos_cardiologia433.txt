@@ -1,0 +1,38 @@
+Presentamos el caso de un varón de 83 años, que acude a nuestro hospital por síncope de etiología no aclarada.
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+No AMC. Hipertenso, diabético tipo 2, dislipémico, exfumador. Enfermedad pulmonar obstructiva crónica (EPOC) grado moderado, enfermedad renal crónica estadio IIIB, y vasculopatía periférica en seguimiento por cirugía vascular.
+Intervenciones quirúrgicas: endoprótesis en aorta ascendente en el año 2000 (en otro centro fuera de nuestra comunidad) con bypass carótido-subclavio izquierdo y oclusión de arteria subclavia izquierda. Intervenido de endoprótesis abdominal infrarrenal aorto-bi-ilíaca.
+Tratamiento habitual: metformina 850/12 horas, ácido acetilsalicílico (AAS) 100 mg/24 horas, nevibolol/hidroclorotiazida 5/25 mg/24 horas, atorvastatina 40 mg/24 horas.
+
+ENFERMEDAD ACTUAL:
+Varón de 83 años que acude a urgencias de nuestro centro traído por un vecino por encontrarlo caído en domicilio. Vive solo, sin familia directa. Anamnesis dificultosa por encontrarse el paciente desorientado en tiempo y espacio. Rehistoriando al paciente durante su estancia hospitalaria, el día previo al ingreso comienza con dolor centrotorácico y paraparesia de miembros inferiores, que le impiden mantenerse en bipedestación, así como molestias abdominales difusas, sin otra clínica aparente asociada. Al preguntar a su vecino, refiere haberlo encontrado en el domicilio con herida en región occipital, sin pérdida de control de esfínteres; aparentemente los días previos, el paciente se había encontrado asintomático desde el punto de vista cardiovascular.
+
+EXPLORACIÓN FÍSICA:
+Desorientado en tiempo y espacio. Verborreico. Tensión arterial (TA) 160/85 mmHg. Frecuencia cardiaca 90 lpm. Afebril. No IY. Traumatismo occipital. Auscultación cardiaca: ruidos cardiacos rítmicos sin soplos. Auscultación pulmonar: hipoventilación generalizada con algún roncus dispersos. Miembros inferiores: sin edemas, pulsos femorales y popliteos presentes con pulsos distales abolidos. Abdomen: sin dolor a la palpación, ruidos hidroaéreos presentes, sin signos irritación peritoneal. NRL: PPCC bilaterales conservados. Fuerza y sensibilidad conservada en los cuatro miembros.
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA (urgencias): bioquímica: glucosa 250 mg/dl. Creatinina 3,19 mg/dl, FG (MDRD) 19 ml/min/m2. nA 140 mEq/l. K 4,9 mEq/l. Urea 89 mg/dl. GOT 25UI/l. GPT 16UI/l. Bilirrubina 05 mg/dl. Hemograma: 21100 leucocitos (84% PMN, 4 % cayados), Hb 7,8 g/dl, hematocrito 23%, 192000 plaquetas/mm3. Coagulación: INR 1,0, TP 100%
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal a 85 lpm, PR 180 ms, QRS ancho con imagen de bloqueo de rama derecha.
+RADIOGRAFÍA DE TÓRAX P-A: cardiomegalia. Importante ensanchamiento mediastínico que desplaza el pulmón izquierdo. Derrame pleural izquierdo.
+TAC craneal (urgencias): colección extraaxial frontoparietal bilateral, sugestivo de hematoma subdural con escaso efecto compresivo sobre el parénquima cerebral. Lesiones isquémicas de pequeño vaso.
+ECOCARDIOGRAMA (urgente): ventrículo izquierdo de tamaño normal, con función sistólica global y segmentaria conservada (calculada del 65%). No se evidencian alteraciones de la contractilidad. Cavidades derechas de tamaño y función conservada. No valvulopatías significativas. No evidencia de derrame pericárdico
+ANGIO-TC torácico (urgencias): se realiza sin contraste por cifras de creatinina. Aumento del saco aneurismático con respecto a estudio previo de diciembre de 2011. Las medidas actuales son de 11 x 11 x 14 cm en los ejes trasversal, anteroposterior y craneo-caudal respectivamente (las medidas del estudio previo eran de 6 x 6 x 7 cm). Se añade un importante derrame pleural izquierdo loculado. Tanto en el saco aneurismático como en el derrame, se identifican zonas de mayor atenuación que sugieren extravasado de sangre. En la prótesis situada en el cayado aórtico, en la unión de la porción distal del cayado con la aorta descendente, se aprecia una zona de irregularidad y aparente interrupción de la continuidad de las paredes de la prótesis.
+ANGIO-TC aorta (día 1 del ingreso): endoprótesis en cayado aórtico, con ligeros acodamientos en zona proximal y distal. Gran aneurisma de aorta (11,5 cm) trombosado, aunque con zonas densas que sugieren hemorragia y por tanto inestabilidad, sobre todo en la zona anterior. No se demuestra fuga de manera directa ni indirecta por este estudio. Sobre todo, en la zona superior se evidencian calcificaciones en el trombo mural, lo que indica disección, pero no se aprecia relleno de luz falsa. Aorta previa a endoprótesis de 36 mm y distal de 31 mm. Anastomosis carótido-subclavia izquierda permeable. Importante derrame pleural izquierdo con componente hemorrágico sin verse fugas; está loculado y lobulado, con colapso de LII y atelectasia de la língula. Discreto desplazamiento mediastínico hacia el lado derecho. El aneurisma comprime la arteria pulmonar y la rama izquierda de la misma. Calcificaciones coronarias. Endoprótesis aorto-bi-ilíaca sin complicaciones.
+ARTERIOGRAFÍA torácica (día 2 del ingreso): se realiza por vía humeral derecha. No se identifica fuga de contraste ni ramas que den aporte al saco aneurismático.
+
+
+EVOLUCIÓN CLÍNICA
+Varón de 83 años, con los antecedentes descritos que ingresa por síncope en el servicio de urgencias hospitalarias; tras realizarse las pruebas complementarias oportunas se evidencia síndrome aórtico agudo, por lo que ingresa en la unidad coronaria de nuestro hospital.
+Ante la estabilidad clínica del paciente, su comorbilidad y consensuado con el servicio de cirugía cardiaca de nuestro hospital, se decide vigilancia intensiva y manejo conservador, iniciándose en primera instancia tratamiento antihipertensivo, transfusión de dos concentrados de hematíes y sueroterapia con vistas a mejorar la función renal para completar el estudio.
+El primer día del ingreso se realiza nuevo angio-TC de control, esta vez con contraste, sin evidenciarse fuga evidente y evidenciándose trombosis del aneurisma, y al segundo día del ingreso hospitalario, tras estabilizar la función renal del paciente y en situación de estabilidad hemodinámica, se realiza arteriografía torácica sin evidenciarse fuga de contraste.
+Durante su ingreso el paciente presenta buena evolución clínica, con estabilidad hemodinámica, sin deterioro neurológico y con mejoría progresiva de la función renal.
+Finalmente, dada la evolución favorable del cuadro, se decide manejo conservador de su síndrome aórtico agudo. Al alta, se encuentra hemodinámicamente estable y asintomático desde el punto de vista cardiovascular, pautándose tratamiento con betabloqueantes y vasodilatadores a dosis bajas.
+Así mismo, es valorado por el servicio de neurocirugía sin ser subsidiario de tratamiento por su parte y, por la falta de soporte familiar, es valorado por la asistente social, siendo institucionalizado.
+
+DIAGNÓSTICO
+Síndrome aórtico agudo.
+Hematoma intramural secundario a fuga de endoprótesis de aorta ascendente.
+Rotura de saco aneurismático con hemotórax.

@@ -1,0 +1,56 @@
+T59	ENFERMEDAD 95 120	intolerancia a penicilina
+T60	ENFERMEDAD 122 160	síncope en la juventud tras penicilina
+T61	ENFERMEDAD 166 193	toxicodermia con ondasetrón
+T62	ENFERMEDAD 233 245	hipertensión
+T63	ENFERMEDAD 247 257	Dislipemia
+T64	ENFERMEDAD 262 279	diabetes mellitus
+T65	ENFERMEDAD 287 294	fumador
+T66	ENFERMEDAD 299 310	alcoholismo
+T67	ENFERMEDAD 312 321	Sobrepeso
+T68	ENFERMEDAD 384 405	Poliposis nasosinusal
+T69	ENFERMEDAD 421 425	asma
+T70	ENFERMEDAD 427 442	poliposis nasal
+T71	ENFERMEDAD 445 482	intolerancia a ácido acetilsalicílico
+T72	ENFERMEDAD 485 492	Rinitis
+T73	ENFERMEDAD 530 554	hipereosinofilia crónica
+T74	ENFERMEDAD 556 581	Adenocarcinoma prostático
+T75	ENFERMEDAD 681 705	adenopatías paraaórticas
+T76	ENFERMEDAD 731 746	recaída tumoral
+T77	ENFERMEDAD 1133 1151	cuadro presincopal
+T78	ENFERMEDAD 1418 1433	daño miocárdico
+T79	ENFERMEDAD 1481 1509	derrame pericárdico moderado
+T80	ENFERMEDAD 1577 1588	miocarditis
+T81	ENFERMEDAD 2103 2111	flebitis
+T82	ENFERMEDAD 5541 5581	Prolapso ligero de valva anterior mitral
+T83	ENFERMEDAD 5634 5662	Derrame pericárdico moderado
+T84	ENFERMEDAD 6012 6025	valvulopatías
+T85	ENFERMEDAD 6248 6283	Derrame pericárdico ligero-moderado
+T86	ENFERMEDAD 6951 6986	Derrame pericárdico ligero-moderado
+T87	ENFERMEDAD 7170 7196	trombos intraventriculares
+T88	ENFERMEDAD 7300 7351	hipereosinofilia secundaria a poliposis nasosinusal
+T89	ENFERMEDAD 7353 7375	síndrome de triada ASA
+T90	ENFERMEDAD 7626 7668	endomiocarditis eosinófila (o de Loeffler)
+T91	ENFERMEDAD 7857 7876	derrame pericárdico
+T92	ENFERMEDAD 8344 8363	derrame pericárdico
+T93	ENFERMEDAD 8508 8567	síndrome hipereosinófilo idiopático con afectación cardiaca
+T94	ENFERMEDAD 8569 8595	endomiocarditis eosinófila
+T96	ENFERMEDAD 9645 9682	Endocarditis eosinófila o de Loeffler
+T97	ENFERMEDAD 9684 9707	Trombo intraventricular
+T98	ENFERMEDAD 9709 9733	Síndrome hipereosinófilo
+T99	ENFERMEDAD 9747 9775	Toxicodermia por enoxaparina
+T100	ENFERMEDAD 9786 9811	Adenocarcinoma prostático
+T101	ENFERMEDAD 78 86	Alergias
+T102	ENFERMEDAD 6117 6148	Regurgitación tricúspide ligera
+T103	ENFERMEDAD 4027 4042	daño miocárdico
+T104	ENFERMEDAD 8942 8960	eventos arrítmicos
+T105	ENFERMEDAD 409 483	triada ASA (asma, poliposis nasal e intolerancia a ácido acetilsalicílico)
+T106	ENFERMEDAD 8140 8146	SDRIFE
+T107	ENFERMEDAD 8148 8208	symmetric drug-related intertriginous and flexural exanthema
+T109	ENFERMEDAD 9735 9745	Triada ASA
+T110	ENFERMEDAD 9777 9783	SDRIFE
+T180	ENFERMEDAD 6856 6869	edema en ápex
+T20	ENFERMEDAD 497 525	ototubaritis derecha crónica
+T164	ENFERMEDAD 7518 7565	alteración de genes de fusión (tirosina-cinasa)
+T171	ENFERMEDAD 7673 7696	trombo intraventricular
+T108	ENFERMEDAD 8010 8096	exantema eritematoso con aclaramiento central que compromete ambas flexuras inguinales
+T175	ENFERMEDAD 8977 8996	cuadro pseudogripal

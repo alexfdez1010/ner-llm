@@ -1,0 +1,32 @@
+T8	ENFERMEDAD 658 693	taquicardia rítmica de QRS estrecho
+T34	ENFERMEDAD 101 109	alergias
+T35	ENFERMEDAD 195 221	infarto agudo de miocardio
+T36	ENFERMEDAD 223 226	IAM
+T37	ENFERMEDAD 386 407	crisis tónico-clónica
+T38	ENFERMEDAD 512 535	fibrilación ventricular
+T39	ENFERMEDAD 537 539	FV
+T40	ENFERMEDAD 813 820	infarto
+T41	ENFERMEDAD 859 881	DA mostrando estenosis
+T42	ENFERMEDAD 2485 2505	insuficiencia mitral
+T43	ENFERMEDAD 2913 2945	hiperplasia de músculos pailares
+T44	ENFERMEDAD 2984 3009	insuficiencia tricuspídea
+T45	ENFERMEDAD 3011 3013	IT
+T46	ENFERMEDAD 3356 3390	Leve hipertensión arterial pulmona
+T47	ENFERMEDAD 3393 3396	HAP
+T48	ENFERMEDAD 3472 3510	Leve dilatación del ventrículo derecho
+T49	ENFERMEDAD 4297 4316	síndrome de Brugada
+T50	ENFERMEDAD 4434 4453	síndrome de Brugada
+T51	ENFERMEDAD 4568 4587	Síndrome de Brugada
+T52	ENFERMEDAD 2256 2287	Descendente anterior: estenosis
+T53	ENFERMEDAD 4152 4155	HAP
+T54	ENFERMEDAD 2507 2509	IM
+T55	ENFERMEDAD 4407 4410	PCR
+T56	ENFERMEDAD 4510 4520	PCR por FV
+T57	ENFERMEDAD 2884 2897	Dilatación VD
+T58	ENFERMEDAD 3994 4010	Dilatación de VD
+T59	ENFERMEDAD 4379 4429	parada cardiorrespiratoria (PCR) por FV recuperada
+T91	ENFERMEDAD 965 984	lesiones coronarias
+T25	ENFERMEDAD 4028 4078	hiperplasia de músculos papilares y pared anterior
+T97	ENFERMEDAD 1306 1309	BRD
+T102	ENFERMEDAD 2539 2541	EV
+T105	ENFERMEDAD 4105 4150	leve aumento del diámetro de arteria pulmonar

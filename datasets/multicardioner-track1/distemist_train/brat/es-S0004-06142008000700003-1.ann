@@ -1,0 +1,19 @@
+T3	ENFERMEDAD 1775 1815	litiasis intravesical por cuerpo extraño
+T7	ENFERMEDAD 794 797	ITU
+T8	ENFERMEDAD 2131 2165	infecciones de orina de repetición
+T9	ENFERMEDAD 267 283	prolapso uterino
+T10	ENFERMEDAD 1222 1243	litiasis intravesical
+T13	ENFERMEDAD 88 130	Infecciones Urinarias (ITUs) de repetición
+T14	ENFERMEDAD 111 115	ITUs
+T16	ENFERMEDAD 1560 1647	"pelotón de gasas" adherida a la pared vesical que no se moviliza por estar calcificada
+T21	ENFERMEDAD 1340 1367	cuerpo extraño intravesical
+T22	ENFERMEDAD 403 428	absceso de cúpula vaginal
+T26	ENFERMEDAD 998 1014	litiasis vesical
+T27	ENFERMEDAD 1052 1086	infecciones de orina de repetición
+T30	ENFERMEDAD 557 582	absceso en cúpula vaginal
+T31	ENFERMEDAD 612 614	DM
+T32	ENFERMEDAD 619 622	HTA
+T35	ENFERMEDAD 673 693	Infecciones de orina
+T1	ENFERMEDAD 627 635	alergias
+#1	AnnotatorNotes T14	     ITU: infección del tracto urinario
+#2	AnnotatorNotes T31	     DM: diabetes mellitus

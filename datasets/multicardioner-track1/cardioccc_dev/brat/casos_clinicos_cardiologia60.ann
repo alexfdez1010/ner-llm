@@ -1,0 +1,34 @@
+T22	ENFERMEDAD 33 56	alergias medicamentosas
+T23	ENFERMEDAD 67 88	Hipertensión arterial
+T24	ENFERMEDAD 90 93	HTA
+T25	ENFERMEDAD 95 114	Hipercolesterolemia
+T26	ENFERMEDAD 132 140	neumonía
+T27	ENFERMEDAD 149 175	Gastritis crónica atrófica
+T28	ENFERMEDAD 178 225	hepatopatía crónica por virus de la hepatitis C
+T29	ENFERMEDAD 227 230	VHC
+T30	ENFERMEDAD 249 282	Tendinitis calcificante de hombro
+T31	ENFERMEDAD 304 323	Hiperparotiroidismo
+T32	ENFERMEDAD 354 389	Hipoacusia neurosensorial bilateral
+T33	ENFERMEDAD 390 410	Síndrome de ojo seco
+T34	ENFERMEDAD 871 893	insuficiencia cardiaca
+T35	ENFERMEDAD 896 913	anemia hemolítica
+T36	ENFERMEDAD 928 960	dehiscencia tardía periprotésica
+T37	ENFERMEDAD 1208 1285	enfermedad del nodo sinusal sintomático con fibrilación auricular paroxística
+T38	ENFERMEDAD 1392 1414	insuficiencia cardiaca
+T39	ENFERMEDAD 1516 1538	insuficiencia cardiaca
+T40	ENFERMEDAD 3907 3923	aneurisma apical
+T41	ENFERMEDAD 4206 4240	Insuficiencia tricuspídea moderada
+T42	ENFERMEDAD 4329 4348	derrame pericárdico
+T43	ENFERMEDAD 4659 4698	insuficiencia mitral periprotésica leve
+T44	ENFERMEDAD 4713 4757	Leaks o dehiscencias periprotésicas mitrales
+T45	ENFERMEDAD 115 129	Asma bronquial
+T46	ENFERMEDAD 232 248	Condrocalcinosis
+T47	ENFERMEDAD 291 303	Osteoporosis
+T48	ENFERMEDAD 1710 1769	leaks periprotésicos mitrales (uno septal y otro posterior)
+T49	ENFERMEDAD 2145 2166	leak mitral posterior
+T50	ENFERMEDAD 4020 4068	Prótesis aórtica mecánica con regurgitación leve
+T51	ENFERMEDAD 4100 4125	AI moderadamente dilatada
+T52	ENFERMEDAD 4127 4155	Cavidades derechas dilatadas
+T53	ENFERMEDAD 4157 4204	Ventrículo derecho (VD) con disfunción moderada
+T54	ENFERMEDAD 4369 4470	prótesis mitral con dos leaks periprotésicos, uno septal y otro posterior, ambos de carácter moderado
+T95	ENFERMEDAD 3727 3755	hematoma en zonas de punción

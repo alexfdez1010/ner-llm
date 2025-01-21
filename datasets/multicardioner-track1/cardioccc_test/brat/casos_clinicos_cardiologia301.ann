@@ -1,0 +1,47 @@
+T48	ENFERMEDAD 21 48	consumo excesivo de cocaína
+T49	ENFERMEDAD 58 80	embolismos periféricos
+T51	ENFERMEDAD 433 444	cardiopatía
+T52	ENFERMEDAD 474 509	reacciones alérgicas medicamentosas
+T53	ENFERMEDAD 585 630	consumo esporádico de alcohol y otros tóxicos
+T54	ENFERMEDAD 635 643	fumadora
+T55	ENFERMEDAD 645 663	Enfermedad celíaca
+T56	ENFERMEDAD 798 816	enfermedad celíaca
+T57	ENFERMEDAD 969 1012	isquemia arterial aguda de miembro superior
+T58	ENFERMEDAD 1152 1188	oclusión proximal de arteria humeral
+T59	ENFERMEDAD 1311 1366	ventrículo izquierdo sugestivo de trombo intracavitario
+T60	ENFERMEDAD 1809 1833	trombos apicales móviles
+T62	ENFERMEDAD 2145 2164	lesiones coronarias
+T63	ENFERMEDAD 3134 3159	trombosis venosa profunda
+T64	ENFERMEDAD 3441 3477	oclusión proximal de arteria humeral
+T65	ENFERMEDAD 3596 3602	trombo
+T66	ENFERMEDAD 3701 3708	émbolos
+T67	ENFERMEDAD 3921 3937	trombos apicales
+T68	ENFERMEDAD 5849 5911	Válvula tricúspide: morfológicamente normal, con insuficiencia
+T69	ENFERMEDAD 5980 6001	hipertensión pulmonar
+T70	ENFERMEDAD 6181 6200	shunt intracardiaco
+T71	ENFERMEDAD 6676 6744	oclusiones arteriales en arterias iliaca común y poplítea izquierdas
+T72	ENFERMEDAD 6746 6776	Infarto renal en polo inferior
+T73	ENFERMEDAD 7201 7223	anomalías pericárdicas
+T74	ENFERMEDAD 7445 7466	trombo intracavitario
+T75	ENFERMEDAD 7673 7691	trombo ventricular
+T76	ENFERMEDAD 7714 7730	edema miocárdico
+T77	ENFERMEDAD 7763 7784	cardiopatía isquémica
+T78	ENFERMEDAD 8075 8122	embolia arterial periférica en miembro superior
+T79	ENFERMEDAD 8160 8196	oclusión proximal de arteria humeral
+T80	ENFERMEDAD 8320 8343	trombo intraventricular
+T81	ENFERMEDAD 8494 8507	trombo apical
+T82	ENFERMEDAD 8684 8700	trombos apicales
+T83	ENFERMEDAD 8733 8759	infarto agudo de miocardio
+T84	ENFERMEDAD 9094 9129	evento embólico en miembro inferior
+T85	ENFERMEDAD 9468 9474	trombo
+T86	ENFERMEDAD 9807 9877	Miocardiopatía de estrés (síndrome de tako-tsubo) inducida por cocaína
+T88	ENFERMEDAD 9879 9902	Trombo intraventricular
+T89	ENFERMEDAD 9950 10017	Oclusión proximal de arteria humeral derecha de naturaleza embólica
+T90	ENFERMEDAD 10050 10145	Embolia en arterias ilíacas común y externa izquierdas y en tercera porción de arteria poplítea
+T91	ENFERMEDAD 10207 10237	Infarto renal en polo inferior
+T92	ENFERMEDAD 568 583	Hábitos tóxicos
+T94	ENFERMEDAD 6577 6597	trombo en ápex de VI
+T95	ENFERMEDAD 10260 10382	Drenaje venoso pulmonar anómalo parcial con vena pulmonar superior izquierda que drena en tronco braquiocefálico izquierdo
+T50	ENFERMEDAD 1406 1463	consumo de altas dosis de tóxicos alfaagonistas (cocaína)
+T190	ENFERMEDAD 7814 7936	drenaje venoso pulmonar anómalo parcial con vena pulmonar superior izquierda que drena en tronco braquiocefálico izquierdo
+T87	ENFERMEDAD 9833 9855	síndrome de tako-tsubo

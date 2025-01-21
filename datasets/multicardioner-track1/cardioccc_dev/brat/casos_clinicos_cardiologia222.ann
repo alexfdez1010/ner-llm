@@ -1,0 +1,50 @@
+T39	ENFERMEDAD 70 93	alergias medicamentosas
+T40	ENFERMEDAD 147 166	diabetes mellitus 2
+T41	ENFERMEDAD 168 171	DM2
+T42	ENFERMEDAD 177 198	hipertensión arterial
+T43	ENFERMEDAD 202 212	dislipemia
+T44	ENFERMEDAD 241 251	exfumadora
+T45	ENFERMEDAD 265 273	fumadora
+T46	ENFERMEDAD 326 334	bebedora
+T47	ENFERMEDAD 593 603	exfumadora
+T48	ENFERMEDAD 1275 1324	bloqueo completo de rama izquierda del haz de His
+T49	ENFERMEDAD 1326 1332	BCRIHH
+T50	ENFERMEDAD 1607 1614	síncope
+T51	ENFERMEDAD 2157 2182	trombosis venosa profunda
+T52	ENFERMEDAD 2345 2351	BCRIHH
+T53	ENFERMEDAD 4283 4302	derrame pericárdico
+T54	ENFERMEDAD 4321 4368	miocardiopatía dilatada con disfunción moderada
+T55	ENFERMEDAD 4481 4501	Insuficiencia mitral
+T56	ENFERMEDAD 5431 5449	bloqueo de rama HH
+T57	ENFERMEDAD 5544 5572	insuficiencia mitral central
+T58	ENFERMEDAD 6030 6076	miocardiopatía dilatada izquierda no isquémica
+T59	ENFERMEDAD 6248 6270	secuela de miocarditis
+T60	ENFERMEDAD 6272 6292	Insuficiencia mitral
+T61	ENFERMEDAD 6418 6475	miocardiopatía dilatada con las alteraciones segmentarias
+T62	ENFERMEDAD 6591 6611	enfermedad coronaria
+T63	ENFERMEDAD 6707 6729	disfunción ventricular
+T64	ENFERMEDAD 6843 6854	miocarditis
+T65	ENFERMEDAD 7782 7804	insuficiencia cardiaca
+T66	ENFERMEDAD 8261 8319	Miocardiopatía dilatada idiopática con disfunción moderada
+T67	ENFERMEDAD 8361 8380	miocarditis antigua
+T68	ENFERMEDAD 8449 8452	DM2
+T69	ENFERMEDAD 224 239	Hábitos tóxicos
+T70	ENFERMEDAD 4101 4103	IT
+T71	ENFERMEDAD 3312 3341	Ventrículo izquierdo dilatado
+T72	ENFERMEDAD 5165 5194	Ventrículo izquierdo dilatado
+T73	ENFERMEDAD 2871 2886	daño miocárdico
+T74	ENFERMEDAD 355 363	bebedora
+T75	ENFERMEDAD 1615 1625	presíncope
+T76	ENFERMEDAD 3047 3093	aurícula izquierda (AI) moderadamente dilatada
+T77	ENFERMEDAD 3129 3209	Válvula mitral de morfología normal, con fibrocalcificación del anillo posterior
+T78	ENFERMEDAD 4446 4457	AI dilatada
+T79	ENFERMEDAD 4815 4846	defectos septales interatriales
+T124	ENFERMEDAD 4423 4444	Disfunción diastólica
+T125	ENFERMEDAD 4503 4505	IM
+T127	ENFERMEDAD 4850 4895	alteraciones anatómicas en válvulas cardiacas
+T129	ENFERMEDAD 6089 6118	disfunción sistólica moderada
+T154	ENFERMEDAD 4375 4408	alteraciones de la contractilidad
+T11	ENFERMEDAD 3267 3288	insuficiencia central
+#1	AnnotatorNotes T70	 IT insuficiencia tricuspídea
+#2	AnnotatorNotes T78	 AI: auricula izquierda
+#4	AnnotatorNotes T125	insuficiencia mitral

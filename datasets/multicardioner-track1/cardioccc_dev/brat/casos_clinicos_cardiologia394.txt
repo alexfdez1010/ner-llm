@@ -1,0 +1,48 @@
+Se presenta el caso de una paciente mujer de 69 años con antecedentes personales de carcinoma de mama que tras inicio de tratamiento quimioterápico presenta episodio de dolor torácico.
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+No reacciones alérgicas medicamentosas conocidas.
+Factores de riesgo cardiovascular: hipertensión arterial. Dislipemia. No diabetes mellitus conocida. No hábitos tóxicos.
+Carcinoma de mama infiltrante de subtipo histológico no especial G3, estadío IIB, binodal pT2 (2,2 cm + 1,5 cm) que distan 0,5 mm de margen superior y 0,3 cm del margen inferior respectivamente, V1, pN1 (2/17), Mx. RE -, RP -, HER2 + (3+), ki67 20-30 %, CK 19+. Se realiza segmentectomía y vaciamiento axilar de niveles I y II el 14/12/16. El 20/1/17 se valora en consultas de Oncología decidiéndose inicio de quimioterapia adyuvante con el siguiente esquema terapéutico:
+FEC x 4 ciclos (5-fluorouracilo + epirubicina + ciclofosfamida) --> placlitaxel iv + trastuzumab sc x 12 semanas --> radioterapia + trastuzumab trisemanal hasta completar un año. Ecocardiograma previo al inicio de quimioterapia: sin cardiopatía estructural y FEVI estimada por Simpson biplano de un 60 %.
+
+Tratamiento habitual: enalapril 5 mg (1-0-0), atorvastatina 40 mg (0-0-1), omeprazol 20 mg (1-0-0).
+
+Enfermedad actual
+paciente con los antecedentes personales descritos que recibe el día 10 de febrero de 2017 primer ciclo de quimioterapia (C1-FEC). Seis días más tarde presenta episodio prolongado (más de dos horas) de dolor centrotorácico opresivo irradiado a miembro superior izquierdo con cortejo vegetativo. El dolor se fue resolviendo de manera progresiva sin recibir medicación alguna. Consulta en Urgencias de nuestro centro evidenciándose elevación de biomarcadores cardiacos, así como cambios electrocardiográficos. Se decide ingreso en la Unidad de Cuidados Intermedios de Cardiología.
+No episodios similares previos. No disnea, no ortopnea, no crisis de disnea paroxística ni otros síntomas desde el punto de vista cardiológico.
+
+Exploración física
+A su llegada a Urgencias, aceptable estado general. Asintomática. Bien hidratada y perfundida. PA 110/60 mmHg, FC 100 lpm. Eupneica en reposo, tolerando el decúbito, sin precisar oxigenoterapia suplementaria con SpO2 98 %. Auscultación cardiaca: ruidos cardiacos rítmicos, sin soplos. Auscultación pulmonar: murmullo vesicular conservado, sin agregados. Abdomen anodino. No edemas periféricos, ni otros datos de congestión.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma ingreso: taquicardia sinusal a 100 lpm, eje izquierdo con QS en cara inferior. QRS 80 ms. Ondas T negativas simétricas profundas de V2-6, DI, DII, aVL y aVF.
+Radiografía de tórax: ligera cardiomegalia. No imágenes de condensación parenquimatosa. Mínimo pinzamiento de ambos senos costofrénicos.
+
+Laboratorio: hemograma: leucocitos 7.270 (N 82,6 %), Hb 14,3 g/dl, plaquetas 256.000. Función renal e iones: Cr 0,66 mg/dl, urea 35 mg/dl, sodio 132 mEq/l, potasio 4,1 mEq/l. Coagulación normal con INR 0,97. Biomarcadores cardiacos: TnT
+US pico de 788,8 ng/L (< 14 negativo). CK pico 599 mUu/ml (24-195).
+
+Monitorización cardiaca: sin eventos arrítmicos de interés, en ritmo sinusal en todo momento.
+
+Ecocardiograma al ingreso: aurícula izquierda dilatada (diámetro
+AP 40 mm, volumen 41 cc/m2). Válvula mitral con velos ligeramente engrosados, con apertura conservada y cierre en tenting con jet de insuficiencia de grado moderado.
+Ventrículo izquierdo dilatado (DTD 57 mm, VTDi 93 ml/m2, DTS 54 mm, VTSi 77 ml/m2). Grosor miocárdico normal con septum y pared inferolateral de 8 mm.
+Hipoquinesia global con función sistólica severamente deprimida. FEVI estimada por Simpson biplano en un 27 %. Patrón de llenado mitral tipo alteración de la relajación.
+Insuficiencia aórtica de grado ligero. Ventrículo derecho no dilatado con función sistólica en límite inferior de la normalidad (TAPSE 16 mm). Insuficiencia tricúspide ligera que permite estimar una PSAP de 46 mmHg. Vena cava inferior dilatada con escaso colapso inspiratorio. No derrame pericárdico.
+Coronariografía: arterias coronarias angiográficamente normales. Dominancia derecha.
+Resonancia magnética cardiaca: ventrículo izquierdo: DTDVI 65 mm, VTDVI 197 ml, VTSVI 137 mL, FEVI 30 %, con un volumen sistólico de 60 mL y un gasto cardiaco estimado de 4,2 L/min. Ventrículo derecho: DTDVD 42 mm, VTDVD 129 mL, VTSVD 75 mL, FEVD 41 %. En las secuencias cine se aprecia un jet central de insuficiencia mitral. En las secuencias de realce tardío de gadolinio no se objetivan áreas de fibrosis/escara miocárdica.
+Ecocardiograma en consulta, tras alta hospitalaria: ventrículo izquierdo no dilatado con DTDVI de 51 mm con FEVI estimada mediante Simpson Biplano del 45 %. Insuficiencia mitral ligera. Cavidades derechas normales con función sistólica del ventrículo derecho conservada.
+
+
+EVOLUCIÓN
+Paciente con diagnóstico de carcinoma de mama de subtipo histológico no especial.
+Se realiza segmentectomía y vaciamiento ganglionar en diciembre de 2016.
+Tras valoración por parte de Oncología se inicia primer ciclo de quimioterapia con FEC (5-fluorouracilo + epirubicina + ciclofosfamida) a principios de febrero de 2017.
+Una semana más tarde presenta episodio de dolor torácico prolongado con movilización marcadores de daño miocárdico, cambios electrocardiográficos así como disfunción ventricular izquierda severa no presente en el ecocardiograma previo. Se realiza coronariografía sin evidencia de enfermedad arterial coronaria. Ante sospecha de miocarditis aguda tóxica se realiza RM cardiaca descartándose finalmente la misma. La paciente presenta buena evolución clínica, sin nuevos episodios de dolor torácico ni clínica de insuficiencia cardiaca por lo que se decide alta hospitalaria con el siguiente tratamiento: bisoprolol 5 mg c/12 h, ramipril 2,5 mg c/24 h, eplerrenona 25 mg c/24 h, atorvastatina 40 mg c/24 h, esomeprazol 20 mg c/24 h.
+Tras el alta hospitalaria es revisada en Oncología suspendiéndose los siguientes ciclos programados de quimioterapia con FEC ante la existencia de cardiotoxicidad aguda tras el primer ciclo. Cuatro semanas más tarde es valorada en consultas externas de Cardiología repitiéndose el ecocardiograma con mejoría de la FEVI.
+
+DIAGNÓSTICO
+Miocardiopatía con disfunción ventricular izquierda severa inducida por cardiotoxicidad aguda tras inicio de tratamiento quimioterápico (5-FU + epirubicina + ciclofosfamida). Clase funcional I/IV de la NYHA.
+Carcinoma de mama infiltrante de subtipo histológico no especial.

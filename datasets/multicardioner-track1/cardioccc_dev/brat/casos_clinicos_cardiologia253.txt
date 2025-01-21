@@ -1,0 +1,66 @@
+
+Presentamos el caso de un varón de 72 años portador de un marcapasos por un bloqueo auriculoventricular (AV) completo que se presenta en urgencias con insuficiencia cardiaca y síndrome constitucional.
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Factores de riesgo cardiovascular: hipertensión arterial (HTA), dislipemia y diabetes mellitus tipo 2 (DM2) en tratamiento con antidiabéticos orales. No hábitos tóxicos.
+Antecedentes cardiológicos: portador de marcapasos VDD desde 2003 por BAV completo. Recambio de generador en marzo/2019. Última consulta en cardiología de zona en enero de 2020, cuando se objetiva disfunción ventricular grave con marcada asincronía por estimulación ventricular por MCP, siendo remitido a la unidad de arritmias para valoración de upgrade a marcapasos tricameral (TRC).
+
+Otros antecedentes médicos y quirúrgicos:
+Síndrome de apnea obstructiva del sueño (SAOS) portador de presión positiva continua de vías aéreas (CPAP) nocturna.
+Anemia y disfagia en estudio por medicina digestiva y medicina interna.
+Gastroscopia y colonoscopia negativas. Pendiente de TAC toraco-abdomino-pélvico y manometría esofágica.
+Tratamiento actual: atorvastatina 30 mg 1 comp en la cena, vildagliptina/metformina 50/850 mg 1 comp al día, omeprazol 20 mg 1 cápsula en desayuno, ramipril 10 mg 1 comp al día. Desde la consulta de enero: bisoprolol 5 mg 1 comp en desayuno, eplerenona 25 mg 1 comp en desayuno, furosemida 40 mg 1 comp en desayuno.
+
+Enfermedad actual
+Varón de 72 años que acude a urgencias por disnea. Refiere desde hace 5 meses deterioro progresivo de su clase funcional (basalmente NYHA I), con empeoramiento marcado en los últimos dos meses, presentando disnea de mínimos esfuerzos, disminución subjetiva de nivel de diuresis y nicturia, sin ortopnea, DPN, edemas u otros síntomas de congestión. Asociaba astenia, sensación distérmica intermitente y pérdida ponderal de 20 kg en dicho periodo. Ausencia de mejoría tras inicio de diuréticos por parte de cardiología de departamento tras los hallazgos en ecocardiografía.
+
+Exploración física
+Constantes: tensión arterial (TA) 100/60 mmHg, frecuencia cardiaca (FC) 85 lpm, SpO2 93% (con O2 por gafas nasales a 2 L/min).
+Afebril. Buen estado general. Consciente y orientado. Palidez cutánea. Eupneico en reposo, tolera decúbito. No ingurgitación yugular. Auscultación cardiaca: ruidos cardiacos regulares, soplo sistólico III/VI en borde esternal izquierdo y foco mitral. Auscultación pulmonar: crepitantes bibasales, resto de campos pulmonares con murmullo vesicular conservado. Abdomen blando y depresible, sin masas ni megalias palpables, no irritación peritoneal, peristalsis conservada.
+Miembros inferiores con discretos edemas tibiomaleolares.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG) al ingreso: ritmo sinusal a 75 lpm con conducción ventricular mediada por electroestimulación, QRS ancho con morfología de bloqueo de rama izquierda, alteraciones de la repolarización secundarias. Extrasistolia ventricular.
+Radiografía de tórax al ingreso: índice cardiotorácico (ICT) ligeramente aumentado, hilios prominentes, sin objetivarse consolidaciones alveolares ni derrame pleural. Sonda de marcapasos normoposicionada en ventrículo derecho.
+
+Pruebas de laboratorio:
+Hemograma: hematíes 4,19 10*12/l; Hb 10,2 g/dl (nadir 8); Htc 31,6%; VCM 75,3 fl; leucocitos 6000/L (PMN 76.7%; nadir 100 células/μL); plaquetas 109000/l; VPM 8,8 fl; plaquetas (citrato) 89 10*9/L (nadir 31000).
+Bioquímica: glucosa 139 mg/dl; sodio 135 mEq/l; potasio 3,9 mEq/l; cloro 101 mEq/l; urea 74 mg/dl; creatinina 0,98 mg/dl, FG estimado (CKD-EPI) 76,71 ml/min/1,73 m2; bilirrubina total 0,82 mg/dl, GPT 26 U/l, GOT 21 U/l, GGT 24 U/l; proteínas 5,8 g/dl; PCR 10,9 mg/dl.
+Coagulación: tiempo de protrombina (TP) 15,6 seg; índice de Quick 69%; INR 1,33; TTPA 30,2 seg; ratio (TTPA) 1,01; fibrinógeno derivado 410 mg/dl.
+Hemocultivos seriados durante todo el ingreso, en medios habituales y especiales, de bacterias y hongos: negativos.
+Serologías bacterianas y virales: negativas.
+Autoinmunidad, incluyendo ANA, ANCA, factor reumatoide, anticuerpos antifosfolípido: negativos.
+Marcadores de hemólisis como LDH, haptoglobina y reticulocitos: negativos.
+Aspirado de médula ósea: no se observan alteraciones significativas. Correcto cociente mieloeritroide. Cultivos microbiológicos y estudio de parásitos negativos.
+Cultivos de material valvular resecado y de cable de marcapasos explantado: negativos.
+
+TAC toraco-abdomino-pélvico con contraste: tórax: ambas arterias pulmonares principales y lobares presentan una morfología y calibre normales. No se observan defectos de repleción. No se identifican adenopatías axilares, mediastínicas ni hiliares de tamaño significativo. Bandas de hipoventilación en ambos lóbulos inferiores. No derrame pleural. Abdomen-pelvis: hígado de contornos lobulados y densidad ligeramente heterogénea, sugestivo de hepatopatía crónica. Páncreas y glándulas suprarrenales dentro de la normalidad.
+Quistes simples renales bilaterales. Litiasis en riñón derecho, que no produce repercusión significativa sobre la vía excretora. Esplenomegalia de 16,6 cm con varios focos de infarto en su interior. No adenopatías retroperitoneales ni mesentéricas. No líquido libre intraabdominal.
+Diverticulosis de sigma.
+
+Ecocardiografía transesofágica (ETE) y ecocardiografía transtorácica (ETT): ventrículo izquierdo con hipertrofia excéntrica moderada (TIV y PPVI 14 mm, DTDVI 62 mm), de volúmenes aumentados (VTD BP 170 mL) y depresión grave de la función global sistólica (FEVI BP 27%) con marcada asincronía, movimiento septoapical anómalo amplio por electroestimulación. Ligera dilatación de raíz aórtica sin disfunción valvular.
+endocarditis sobre válvula nativa pulmonar: gran vegetación pediculada de 40 mm de diámetro máximo, con bordes desflecados, con gran movilidad y protrusión sistodiastólica sobre válvula pulmonar. No se objetiva afectación valvular significativa. No se objetivan vegetaciones ni otras alteraciones patológicas sobre válvula tricúspide ni cable de marcapasos.
+endocarditis sobre válvula mitral con imagen de vegetación sobre velo anterior mitral de 11 mm. Insuficiencia mitral moderada (ORE por PISA 0,3 cm2) por ligera eversión del velo, con rotura de cuerdas tendinosas y jet excéntrico dirigido a cara posterior auricular. Patrón diastólico compatible con alteración de la relajación (E 90 cm/s, A 113 cm/s), con aumento significativo de las presiones de llenado (E/e' 17). Dilatación biauricular. Ventrículo derecho de diámetros normales con función global sistólica conservada (TAPSE 22 mm). IT ligera que permite estimar PAPs aproximada de 50 mmHg (HTP moderada). Plétora de vena cava inferior (VCI).
+Coronariografía: Descripción del tronco: normal. Descripción descendente anterior: estenosis grave en segmento proximal. Rama diagonal distal a la lesión muy desarrollada (sistema de doble DA). Descripción circunfleja: normal. Descripción coronaria derecha: dominante. Sin estenosis.
+
+EVOLUCIÓN CLÍNICA
+El paciente ingresó inicialmente en sala de cardiología con tratamiento deplectivo y modificador de enfermedad para insuficiencia cardiaca. Ante el síndrome constitucional, se solicitó TAC toraco-abdomino-pélvico para descartar neoplasia concomitante. No se objetivaron hallazgos compatibles con enfermedad neoplásica. Sin embargo, destacó la esplenomegalia con focos de infarto esplénico.
+Ante estos hallazgos, se repitió ETT en la que se observó, además de la disfunción ventricular ya objetivada en el estudio realizado en las 3 semanas anteriores, una gran masa móvil en válvula pulmonar e insuficiencia mitral moderada sobre una válvula con pequeña masa compatible con endocarditis. Se realizó ecocardiografía transesofágica, confirmando el diagnóstico, por lo que se extrajeron hemocultivos seriados y se inició antibioterapia empírica con vancomicina (a razón de 20 mg/kg/12 horas vía i.v.) y gentamicina (3 mg/kg/día i.v.).
+En los primeros días de ingreso, el paciente se mantuvo muy sintomático, con disnea a mínimos esfuerzos y episodios de disnea súbita, aunque afebril. Por ello, se realizó angio-TC de tórax ante sospecha de embolismos sépticos, que fueron descartados.
+Se comentó el caso en sesión médico-quirúrgica y se programó para cirugía. No obstante el paciente evolucionó desfavorablemente, presentando episodio de edema agudo de pulmón y requirió traslado a la unidad coronaria para estabilización.
+En las analíticas progresivas destacaba una anemización significativa, con caída hasta 8 g/dl, con requerimiento transfusional dado el estado clínico. Además se objetivó neutropenia y trombopenia graves (nadir de 100 células/μl y 31000/l, respectivamente). Debido a esto, se decidió posponer la cirugía. Fue valorado por hematología, iniciando tratamiento con factores estimulantes de las colonias de granulocitos (G-CSF), y practicaron aspirado de médula ósea.
+Debido a la neutropenia se asoció al tratamiento meropenem 1g/8h i.v., con aparición de exantema maculopapuloso generalizado que obligó a su interrupción. Mientras tanto, el resultado del aspirado no mostró hallazgos patológicos, por lo que se consideró que el origen de la alteración hematológica podía ser medicamentoso, y se decidió sustituir vancomicina por daptomicina (10 mg/kg/día i.v.).
+Con esta medida y la administración de G-CSF el paciente presentó mejoría analítica progresiva.
+Se realizó coronariografía como parte del estudio preoperatorio, objetivándose lesión grave en arteria descendente anterior proximal que se decidió dejar para revascularización quirúrgica.
+Todos los hemocultivos en medios habituales y especiales para hongos y bacterias fueron negativos. Se realizaron serologías e incluso test de autoinmunidad, resultando todos ellos negativos y no se pudo identificar al microorganismo responsable. Se planteó realizar pruebas de medicina nuclear ante la falta de diagnóstico etiológico, no obstante ante la situación clínica del paciente no fueron llevadas a cabo.
+Finalmente se consiguió la estabilidad clínica, realizándose intervención quirúrgica con sustitución con prótesis biológica de válvulas mitral y pulmonar. Además se realizó extracción de cable y generador de marcapasos e implante de cables epicárdicos a nivel de AD, VD y VI para resincronización, con colocación de nuevo generador en región abdominal subcostal derecha. Se descartó bypass sobre DA al no poder exponer adecuadamente el vaso por presencia de abundante grasa epicárdica, por lo que se realizará intervencionismo coronario percutáneo (ICP) sobre DA en un segundo tiempo. Se enviaron a microbiología los restos valvulares así como el extremo distal del cable.
+El paciente se trasladó a reanimación cardiaca, donde presentó evolución favorable, pasó a planta y pudo ser dado de alta a las 2 semanas, con seguimiento en consultas de la unidad de insuficiencia cardiaca y unidad de arritmias.
+
+DIAGNÓSTICO
+Endocarditis sobre válvulas nativas pulmonar y mitral, con insuficiencia mitral moderada con eversión de velo anterior por rotura de cuerdas tendinosas.
+Insuficiencia cardiaca con fracción de eyección deprimida con marcada asincronía por electroestimulación ventricular.
+Infartos esplénicos secundarios a endocarditis infecciosa.
+Agranulocitosis y trombopenia de probable origen medicamentoso.
+Toxicodermia por meropenem.

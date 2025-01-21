@@ -1,0 +1,35 @@
+T19	ENFERMEDAD 22 72	infección por virus de la inmunodeficiencia humana
+T20	ENFERMEDAD 279 301	toxoplasmosis cerebral
+T21	ENFERMEDAD 403 429	Crisis comicial secundaria
+T22	ENFERMEDAD 445 454	Exfumador
+T23	ENFERMEDAD 525 542	infección por VIH
+T24	ENFERMEDAD 825 847	infección respiratoria
+T25	ENFERMEDAD 1010 1023	broncoespasmo
+T26	ENFERMEDAD 1281 1293	hipertensión
+T27	ENFERMEDAD 1424 1444	cardiomegalia severa
+T28	ENFERMEDAD 1447 1471	edema alveolar bilateral
+T29	ENFERMEDAD 1487 1508	edema agudo de pulmón
+T30	ENFERMEDAD 1696 1743	insuficiencia mitral severa de origen funcional
+T31	ENFERMEDAD 2227 2246	taquicardia sinusal
+T32	ENFERMEDAD 2584 2633	Insuficiencia mitral severa de carácter funcional
+T33	ENFERMEDAD 2815 2840	insuficiencia tricuspídea
+T34	ENFERMEDAD 3005 3067	Descendente anterior (DA) con segmento con ateromatosis severa
+T35	ENFERMEDAD 3159 3185	Lesión crítica en DA media
+T36	ENFERMEDAD 3380 3425	Coronaria derecha dominante, con ateromatosis
+T39	ENFERMEDAD 3918 3940	insuficiencia cardiaca
+T40	ENFERMEDAD 3963 3986	miocardiopatía dilatada
+T41	ENFERMEDAD 4110 4187	enfermedad coronaria difusa de tres vasos, con lesiones severas sobre DA y CX
+T42	ENFERMEDAD 4372 4405	Miocardiopatía dilatada isquémica
+T43	ENFERMEDAD 4422 4447	infección crónica por VIH
+T44	ENFERMEDAD 198 243	Infección por virus de la hepatitis C 1b RNA+
+T45	ENFERMEDAD 2026 2041	daño miocárdico
+T46	ENFERMEDAD 4036 4051	daño miocárdico
+T47	ENFERMEDAD 2283 2316	hipertrofia ventricular izquierda
+T48	ENFERMEDAD 1559 1588	ventrículo izquierdo dilatado
+T49	ENFERMEDAD 2409 2450	Ventrículo izquierdo severamente dilatado
+T50	ENFERMEDAD 2635 2676	Aurícula izquierda moderadamente dilatada
+T6	ENFERMEDAD 3266 3332	Circunfleja de mediano calibre y buen desarrollo con lesión severa
+T97	ENFERMEDAD 435 443	recidiva
+T37	ENFERMEDAD 1593 1631	disfunción sistólica global muy severa
+T81	ENFERMEDAD 3048 3157	ateromatosis severa que abarca el ostium de la misma, la DA proximal-media y el ostium de la primera diagonal
+#1	AnnotatorNotes T35	 DA: descendente anterior

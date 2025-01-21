@@ -1,0 +1,25 @@
+T10	ENFERMEDAD 1546 1571	exantema en cara y tronco
+T25	ENFERMEDAD 168 185	reacción alérgica
+T26	ENFERMEDAD 236 243	fumador
+T27	ENFERMEDAD 270 280	hipertenso
+T28	ENFERMEDAD 282 291	diabético
+T29	ENFERMEDAD 295 306	dislipémico
+T30	ENFERMEDAD 396 409	EPOC moderado
+T31	ENFERMEDAD 2802 2812	neumotórax
+T32	ENFERMEDAD 2814 2840	Fractura en 8a arco costal
+T33	ENFERMEDAD 3155 3181	fractura de 8o arco costal
+T34	ENFERMEDAD 3366 3432	hipersensibilidad tipo I (inmediata, mediada por IgE) al metamizol
+T35	ENFERMEDAD 3684 3705	reacción anafiláctica
+T36	ENFERMEDAD 3633 3636	SCA
+T37	ENFERMEDAD 3660 3667	SCACEST
+T38	ENFERMEDAD 3722 3752	enfermedad coronaria de 1 vaso
+T39	ENFERMEDAD 3754 3780	síndrome de Kounis tipo II
+T40	ENFERMEDAD 3782 3801	Alergia a metamizol
+T41	ENFERMEDAD 3863 3885	Fractura 8 arco costal
+T42	ENFERMEDAD 2867 2898	descendente anterior: estenosis
+T43	ENFERMEDAD 994 1015	exantema generalizado
+T44	ENFERMEDAD 3077 3082	angor
+T1	ENFERMEDAD 2786 2788	IC
+T83	ENFERMEDAD 91 99	alergias
+T20	ENFERMEDAD 476 506	trastorno obstructivo moderado
+T15	ENFERMEDAD 3607 3668	Síndrome coronario agudo (SCA) con elevación del ST (SCACEST)

@@ -1,0 +1,60 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+No alergias medicamentosas conocidas.
+Antecedentes sociales: etnia gitana. Vive con su familia. Trabajo esporádico como vendedor ambulante.
+Sin antecedentes familiares de cardiopatía ni de muerte súbita.
+Factores de riesgo cardiovascular: no metabolopatías conocidas. Hábitos tóxicos: fumador activo de 1 paquete de cigarrillos diarios (consumo acumulado de 20 paquetes-año).
+Consumo esporádico de cannabis. Niega ingesta de alcohol u otras sustancias.
+Historia cardiológica previa:
+Displasia arritmogénica biventricular con mutación en el gen LMNA de diagnóstico reciente. Debuta en octubre de 2018 con episodio de insuficiencia cardiaca congestiva (ICC), evidenciándose en ecocardiograma transtorácico (ETT) y en resonancia magnética cardiaca (RMC) disfunción biventricular grave, con fracción de eyección de ventrículo izquierdo (FEVI) 23%. En estudio genético se confirma miocardiopatía arritmogénica por mutación en el exón 3 del gen LMNA.
+Desde octubre de 2018 hasta marzo de 2019, el paciente ha requerido tres ingresos hospitalarios por descompensación de ICC. Se realiza seguimiento ambulatorio por la unidad de insuficiencia cardiaca avanzada, pero el paciente no acude a las citas médicas y realiza mal cumplimiento terapéutico.
+Portador de desfibrilador automático implantable (DAI) monocameral marca Medtronic, modelo visia SR MRI en prevención secundaria, tras varias rachas de taquicardia ventricular monomórfica sostenida (TVMS) en ingreso hospitalario de noviembre de 2018
+Trombo en orejuela derecha evidenciados en RMC realizada en noviembre de 2018, iniciando desde entonces anticoagulación con heparinas de bajo peso molecular (HBPM).
+Pruebas complementarias realizadas hasta el momento actual:
+ETT: ventrículo izquierdo (VI) ligeramente dilatado con espesores parietales normales. Hipoquinesia severa de VI de todos los segmentos, de forma difusa. FEVI gravemente deprimida (23% por
+Simpson biplano). Flujo de llenado transmitral normal. Ventrículo derecho (VD) dilatado, con función gravemente deprimida. Septo ligeramente desplazado hacia VI como signo de sobrecarga de cavidades derechas. Insuficiencia tricuspídea grave, con jet de regurgitación central por déficit de coaptación de velos, de posible origen funcional. Presión sistólica de la arteria pulmonar (PSAP) estimada 25-30 mmHg. No otras valvulopatías. Vena cava inferior (VCI) dilatada, no colapsa con la inspiración. No derrame pericárdico.
+CRM: miocardiopatía dilatada con disfunción grave de ambos ventrículos y dilatación de ambas aurículas. Dilatación aneurismática y acinesia del tracto de salida del VD. Áreas de realce tardío en pared libre del VD e intramiocárdico en caras lateral e inferior del VI. Trombos en la orejuela de la aurícula derecha.
+Tomografía computarizada (TC) de arterias coronarias: no se observan anomalías en el origen de las arterias coronarias ni lesiones significativas en las mismas. Dominancia derecha. Aorta ascendente y raíz aórtica de tamaño normal.
+Estudio genético: portador de la variante p.Arg190Trp (chr1:156104248, c.568C>T) en el exón 3 del gen LMNA. Variante clasificada como probablemente patogénica siguiendo los criterios del American College of Genetic Medicine (ACGM).
+Otros antecedentes: seguimiento en hematología por déficit de FV y FVII en probable relación con déficit de vitamina K.
+Medicación domiciliaria: bisoprolol 5 mg (1 comprimido en desayuno y cena), enalapril 5 mg (medio comprimido a la cena), eplerenona 50 mg (1 comprimido a la comida), furosemida 40 mg (1 comprimido al desayuno), enoxaparina 60 mg (1 inyección subcutánea cada 12 horas)
+
+ENFERMEDAD ACTUAL
+Paciente que acude al servicio de urgencias hospitalarias de madrugada acompañando a su madre, la cual presenta síndrome febril en probable relación con infección respiratoria. Mientras se encuentra en la sala de espera, sufre de forma repentina pérdida de conocimiento con pérdida del tono postural. Al primer contacto médico (muy precoz por la ubicación del paciente) se objetiva pulso y respiración espontánea pero con bajo nivel de consciencia; se monitoriza al paciente y se objetiva taquicardia ventricular sostenida, con varias descargas apropiadas del DAI sin conseguir reversión a ritmo sinusal, y degeneración de la TVMS a fibrilación ventricular con descarga efectiva, con posterior reversión a ritmo sinusal y recuperación de pulso. A continuación, se constata perdida del pulso en ritmo sinusal con disociación electromecánica, se inician maniobras de reanimación cardiopulmonar avanzada durante 18 minutos, incluyendo 3 ampollas de adrenalina, intubación orotraqueal e inicio de ventilación mecánica invasiva. Se logra recuperación de pulso, manteniéndose en situación de shock cardiogénico y precisando dosis muy elevadas de drogas vasoactivas.
+
+EXPLORACIÓN FÍSICA
+Tensión arterial (TA) 60/38 mmHg, frecuencia cardiaca (FC) 75 lpm. Afebril.
+Intubación orotraqueal. Sedoanalgesiado. Mal perfundido, con livideces generalizadas.
+Pulsos periféricos débiles, con relleno capilar enlentecido. Presión venosa yugular elevada.
+Auscultación cardiaca: rítmico, sin soplos audibles.
+Auscultación pulmonar: crepitantes hasta campos medios bilaterales.
+Abdomen: blando, depresible, no se palpan masas ni megalias. Ruidos hidroaéreos presentes.
+Extremidades inferiores: edemas con fóvea en ambas regiones pretibiales. Pulsos pedios no palpables.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica:
+Hemograma: hemoglobina 15,2 g/dl, hematíes 5.17 x10E6/μl, VCM 88,6 fl, HCM 29,4 pg, CHCM 33,2 g/dl, leucocitos 10.39 x10E3/μl, neutrófilos (sangre-%) 75,3%, neutrófilos 7.83 x10E3/μl, linfocitos (%) 20,9%, linfocitos 2.17 x10E3/μl, monocitos (sangre-%) 2,0%, monocitos 0.21 x10E3/μl, eosinófilos (sangre-%) 1,3%, basófilos (sangre-%) 0,5%, granulocitos inmaduros % 5,20%, granulocitos inmaduros # 0.54 x10E3/μl, plaquetas UPLAQ 191 x10E3/μl, VPM 10,9 fl. SR RDW coeficiente de variación 15,2%, hematocrito 45,8%.
+Bioquímica: glucosa 117 mg/dl, urea 37 mg/dl, creatinina 1,80 mg/d, Ion sodio 138 mmol/l, ion potasio en plasma 3,1 mmol/l, creatin cinasa 720 U/l, troponina T US 23 ng/dl, proteína C reactiva 1,5 mg/dl.
+Coagulación: tiempo de protrombina 17,10 segundos, tiempo de protrombina (ratio) 1,53, tiempo de protrombina (%) 54%. Tiempo de tromboplastina parcial 30,60 segundos, fibrinógeno derivado 308, INR 1,53.
+Gasometría arterial: pH 7.30, pCO2 40 mmHg, pO2 95 mmHg, ácido láctico 14,7 mmmol/l, EB -6,9 mmol/l, bicarbonato 19,4 mmol/l.
+Electrocardiograma (ECG) al ingreso: taquicardia ventricular monomorfa sostenida con morfología de bloqueo de rama izquierda, eje inferior y transición en V3-V4.
+ECG tras estabilización inicial: ritmo sinusal a 72 lpm. Intervalo PR normal. Bloqueo de rama derecha del haz de His con alteraciones secundarias en la repolarización.
+Intervalo QTc 450 ms por fórmula de Bazett.
+Radiografía de tórax: portátil, proyección proyección antero-posterior (AP).
+Índice cardiotorácico aumentado. Redistribución vascular bilateral. DAI monocameral normoposicionado. No obliteración de senos costofrénicos.
+
+EVOLUCIÓN CLÍNICA
+El paciente ingresa en unidad de cuidados intensivos (UCI) en situación de shock cardiogénico refractario tras tormenta arrítmica, con inestabilidad hemodinámica a pesar de infusión de drogas vasoactivas a dosis muy elevadas, e inestabilidad eléctrica, con reiterados episodios de TVMS y FV, que se logran controlar tras perfusión de procainamida y sedoanalgesia con propofol.
+La evolución posterior es mala. Neurológicamente con datos de mal pronóstico: pupilas midriáticas, isocóricas arreactivas. Ausencia de reflejos de tronco. Sin respuesta al estímulo.
+Hemodinámicamente en ritmo de marcapasos VVI acelerado a 85 lpm, con procainamida en perfusión continua, en situación mantenida de shock con NA a 1,6 mcg/kg/min. Frío. Mala perfusión general con hiperlactacidemia y acidosis metabólica mantenidas, evolucionando hacia una situación de disfunción multiorgánica con fracaso renal oligoanúrico e insuficiencia hepática realizando hipoglucemias y coagulopatía marcada con TP del 28%.
+En nuestro paciente se planteó la oxigenador extracorpóreo de membrana (ECMO) como puente a ablación o trasplante. No obstante, el paciente presentaba contraindicación al trasplante cardiaco en el momento del ingreso, dada la falta de adherencia al tratamiento y a las revisiones previas. Además, en situación de shock refractario, fallo multiorgánico y pronóstico neurológico sombrío se decide, de acuerdo con las distintas unidades responsables, no escalar tratamiento.
+Finalmente presenta deterioro hemodinámico marcado y fallece a las 24 horas del ingreso.
+
+
+DIAGNÓSTICO
+Tormenta arrítmica en paciente con miocardiopatía arritmogénica con mutación en gen LMNA y disfunción biventricular grave.
+Shock cardiogénico refractario secundario a tormenta arrítmica.
+Encefalopatía difusa postanóxica.
+Fracaso multiorgánico.
+Muerte.

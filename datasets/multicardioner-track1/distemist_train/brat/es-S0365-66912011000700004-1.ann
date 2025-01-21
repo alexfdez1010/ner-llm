@@ -1,0 +1,18 @@
+T4	ENFERMEDAD 1118 1141	hemorragia subretiniana
+T6	ENFERMEDAD 1177 1194	hemorragia vítrea
+T14	ENFERMEDAD 1462 1475	edema macular
+T18	ENFERMEDAD 493 532	edema quístico difuso en polo posterior
+T25	ENFERMEDAD 736 758	hipernefroma bilateral
+T28	ENFERMEDAD 898 930	tumor neuroendocrino pancreático
+T29	ENFERMEDAD 943 994	hemangioblastomas en protuberancia y médula espinal
+T30	ENFERMEDAD 1000 1018	leve edema medular
+T31	ENFERMEDAD 1196 1198	HV
+T32	ENFERMEDAD 1257 1259	HV
+T19	ENFERMEDAD 158 175	enfermedad de VHL
+T35	ENFERMEDAD 592 598	lesión
+T36	ENFERMEDAD 1336 1342	lesión
+T37	ENFERMEDAD 1530 1536	lesión
+T38	ENFERMEDAD 1676 1682	lesión
+#2	AnnotatorNotes T31	   HV: hemorragia vítrea
+#3	AnnotatorNotes T32	   HV: hemorragia vítrea
+#1	AnnotatorNotes T19	   VHL: von Hippel-Lindau

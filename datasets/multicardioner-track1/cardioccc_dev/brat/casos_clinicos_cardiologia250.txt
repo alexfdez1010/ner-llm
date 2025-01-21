@@ -1,0 +1,52 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Sin antecedentes familiares de cardiopatía ni muerte súbita. Antecedentes personales:
+Factores de riesgo cardiovascular (FRCV): obesidad grado I. No HTA, ni dislipemia, ni diabetes mellitus conocidas.
+Antecedentes cardiológicos:
+En seguimiento en consultas externas por amiloidosis cardiaca tipo AL (diagnosticada en diciembre de 2018) en clase funcional I/IV de la NYHA.
+Gammagrafía cardiaca con pirofosfatos (Tc99m-DPD): se observa depósito patológico de radiotrazador, de distribución biventricular e intensidad mayor a la del hueso adyacente (grado 3), compatible con amiloidosis cardiaca.
+Ecocardiograma transtorácico: ventrículo izquierdo levemente hipertrófico con FEVI conservada. Insuficiencia mitral leve sin otras valvulopatías significativas. Sin derrame pericárdico.
+
+Otros antecedentes:
+Hepatitis C crónica conocida desde 1991. Genotipo 1b. Ha recibido paritaprevir/ritonavir/ombitasvir 150/100/25 mg un comprimido al día más dasabuvir 250 mg dos veces al día en mayo-agosto/2015, con respuesta virológica sostenida (infección curada).
+Amiloidosis AL con confirmación histológica. Diagnóstico en diciembre de 2018 con afectación cardiaca y renal; se planifican 6 ciclos de bortezomib, ciclofosfamida y dexametasona, al momento del ingreso está en su cuarto ciclo. Se realizó biopsia renal, con el resultado de amiloidosis AL. Tras biopsia renal complicación con hematoma retroperitoneal que precisó embolectomía.
+
+Medicación habitual:
+Omeprazol 20 mg 1-0-0, aciclovir 800 1-0-0, hidroferol 1/15 días, alopurinol 100 1-1-1, formoterol/budesonida 160/4,5 mcg 1-0-1, furosemida 40 mg 1-1-0.
+Tratamiento quimioterápico del mieloma con: CyBorDex (ciclofosfamida + bortezomib + dexametasona).
+
+Enfermedad actual
+Paciente varón de 63 años con los antecedentes descritos, que mientras permanece ingresado en hematología por síndrome febril, en tratamiento activo para mieloma múltiple, presenta un cuadro caracterizado por palpitaciones. Al tomar las constantes vitales se aprecia una curva de pulso arrítmica y rápida, por lo que se solicita un electrocardiograma (ECG) que confirma la sospecha diagnóstica. Ante los hallazgos del ECG nos solicitan valoración a cardiología. Niega dolor torácico actual o previo.
+
+Exploración física
+Consciente y orientado en persona, tiempo y lugar. Colaborador, eupneico en reposo y afebril.
+Auscultación cardiaca: ruidos cardiacos arrítmicos, taquicárdico, soplo sistólico II/VI en foco mitral no irradiado.
+Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos.
+Abdomen: blando y depresible. No doloroso a la palpación superficial ni profunda, sin visceromegalias. Ruidos hidroaéreos conservados.
+Extremidades inferiores: sin signos de trombosis venosa profunda (TVP). Pulsos pedios palpables. Sin edemas.
+
+PRUEBAS COMPLEMENTARIAS
+Hemograma: hemoglobina 14,2 g/dl. Hematíes 5,47 x10/μl. Hematocrito 42,3%. VCM. 84,3 fl.
+Leucocitos 3.24 x10 /μ. Neutrófilos (sangre-%) 58,7%. Linfocitos (%) 33,1%. Plaquetas 123 x10 .
+Bioquímica: glucosa 111 mg/dl. Urea 91 mg/d. Creatinina 1,52 mg/dl. Tasa de filtrado glomerular estimada de 48 ml/min/m . Ion sodio 142 mmol/. Ion potasio: 4,1 mmol/l. NT-proBNP de 5,174 ng/d. (VN <350). Proteína C reactiva 0,2 mg/dl.
+Marcadores de daño miocárdico seriados durante el ingreso (48 horas): creatina cinasa: 61--> 49 U/l. Troponina T ultrasensible: 24--> 26 ng/l.
+Coagulación: T. protrombina 13.00 seg. T. tromboplastina parcial (R. 0.98 T. protrombina (%) 82,0%. Fibrinógeno derivado 477. T. protrombina (ratio 1,14). INR 1,14 T. tromboplastina parcial 30,90 seg.
+ECG: FA a 150 L/min, QRS estrecho, bajos voltajes en derivaciones de los miembros, progresión anómala de onda R en precordiales, eje normal, ondas T invertidas en cara lateral alta.
+Radiografía de tórax: índice cardiotorácico normal, no pinzamiento de ángulos costofrénicos ni aumento de trama vascular.
+Ecocardiograma transtorácico: ventrículo izquierdo de tamaño normal con hipertrofia leve (grosor septo interventricular 14mm), hipocinesia global leve que condiciona una
+FEVI 40%. Ventrículo derecho (VD) levemente dilatado con hipocinesia leve de la pared libre, insuficiencia mitral moderada baja funcional e insuficiencia tricuspídea moderada con PSAP estimada de 33mmHg + PVC.
+
+Pruebas complementarias previas de interés: gammagrafía con pirofosfatos (Tc99m-DPD) (imagen 2): se observa depósito patológico de radiotrazador, de distribución biventricular e intensidad mayor a la del hueso adyacente (grado 3), compatible con amiloidosis cardiaca.
+
+EVOLUCIÓN CLÍNICA
+Paciente varón de 63 años que se encontraba ingresado en hematología por síndrome febril, estando en el momento del ingreso en tratamiento activo por mieloma múltiple con afectación de varios órganos y que presenta episodio de fibrilación auricular. El paciente comentaba que la sintomatología había comenzado de manera súbita 2 horas previo a nuestra valoración. Se realiza ECG en el que se aprecia FA con respuesta ventricular rápida no conocida previamente. Dado que el paciente notó claramente el inicio de sintomatología y se contaba con parámetros vitales dentro de la normalidad en las 24 horas previas (pulsaciones en torno a 60-80 por minuto), se decidió manejo con control de ritmo.
+Tras pautar amiodarona en bolo y perfusión, el paciente recuperó el ritmo sinusal unas 5 horas más tarde. Se dejó tratamiento con amiodarona oral y betabloqueantes. Se realizó ecocardiograma (ya encontrándose en RS) en el que se aprecia un ventrículo izquierdo levemente hipertrófico con tamaño y función normal, con crecimiento auricular izquierdo, cavidades derechas normales, insuficiencia mitral moderada baja y una PSAP mínimamente elevada. El paciente evoluciona de manera satisfactoria y sin desarrollar signos o síntomas de insuficiencia cardiaca congestiva.
+El manejo de la anticoagulación con este paciente, teniendo un CHADS2-VA2SC de 1 (ICC) fue un reto, ya que el paciente no se encuentra adecuadamente representado en las guías actuales de práctica clínica. Al tratarse de un paciente con esta puntuación en la escala de CHADS2-VA2SC y que tiene una amiloidosis cardiaca AL como comorbilidad, se decide, en consenso con el servicio de hematología, iniciar tratamiento anticoagulante con rivaroxabán, por ser un paciente de alto riesgo tromboembólico.
+
+DIAGNÓSTICO
+Amiloidosis cardiaca AL.
+Fibrilación auricular paroxística, cardioversión farmacológica. CHADS2-VA2SC 1 punto. FEVI moderadamente afecta.
+Insuficiencia mitral moderada baja.
+Mieloma múltiple con afectación cardiaca y renal en tratamiento activo. Síndrome febril en paciente con bicitopenia leve.
+Enfermedad renal crónica secundaria a gammapatía monoclonal.

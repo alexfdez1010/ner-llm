@@ -1,0 +1,33 @@
+T22	ENFERMEDAD 126 141	fumadora activa
+T23	ENFERMEDAD 202 233	distrofia miotónica (DM) tipo I
+T24	ENFERMEDAD 223 225	DM
+T25	ENFERMEDAD 235 257	enfermedad de Steinert
+T26	ENFERMEDAD 363 372	DM tipo I
+T27	ENFERMEDAD 444 474	trastorno del espectro autista
+T28	ENFERMEDAD 512 521	DM tipo 1
+T29	ENFERMEDAD 535 554	hemorragia cerebral
+T30	ENFERMEDAD 667 676	DM tipo I
+T31	ENFERMEDAD 694 717	cardiopatías familiares
+T32	ENFERMEDAD 1122 1143	leve ptosis bilateral
+T33	ENFERMEDAD 1811 1832	hipertensión pulmonar
+T34	ENFERMEDAD 1837 1856	derrame pericárdico
+T35	ENFERMEDAD 2078 2120	trastorno de conducción por rama izquierda
+T36	ENFERMEDAD 2259 2304	arritmias ventriculares ni supraventriculares
+T37	ENFERMEDAD 2513 2540	miocardiopatía hipertrófica
+T38	ENFERMEDAD 2746 2755	DM tipo I
+T40	ENFERMEDAD 2822 2859	trastorno de conducción con QRS ancho
+T41	ENFERMEDAD 2861 2910	bloqueo auriculoventricular (BAV) de primer grado
+T42	ENFERMEDAD 2890 2893	BAV
+T43	ENFERMEDAD 2967 2990	trastorno de conducción
+T44	ENFERMEDAD 4257 4283	Distrofia miotónica tipo 1
+T45	ENFERMEDAD 4285 4307	enfermedad de Steinert
+T46	ENFERMEDAD 4322 4345	cardiopatía estructural
+T47	ENFERMEDAD 4399 4416	Síndrome QT largo
+T48	ENFERMEDAD 4442 4444	DM
+T50	ENFERMEDAD 4516 4589	Trastorno significativo de la conducción nodal y del sistema His-Purkinje
+T51	ENFERMEDAD 1572 1598	trastorno de la conducción
+T52	ENFERMEDAD 3994 4015	VI levemente dilatado
+T78	ENFERMEDAD 592 600	QT largo
+T91	ENFERMEDAD 4505 4514	arrítmica
+T102	ENFERMEDAD 2787 2800	muerte súbita
+T103	ENFERMEDAD 4477 4490	muerte súbita

@@ -1,0 +1,23 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Lactante de 8 meses sin antecedentes de interés derivada a consultas externas de Cardiología de nuestro centro por su pediatra tras el hallazgo de un soplo en una revisión. Sin tratamiento médico, salvo el suplemento de vitamina D indicado por protocolo.
+La madre refería que la paciente presentaba fatiga durante las tomas. El desarrollo estaturo-ponderal era normal y no encontramos en la exploración cianosis ni tiraje respiratorio; los pulsos periféricos estaban conservados y se confirmó la presencia de un soplo sistólico en foco mitral II/VI.
+
+PRUEBAS COMPLEMENTARIAS
+En el electrocardiograma se observó una taquicardia sinusal a 150 latidos por minuto con signos de crecimiento de cavidades izquierdas y la ecocardioscopia de consulta mostraba una insuficiencia mitral (IM) significativa, solicitándose ecocardiograma transtorácico (ETT) reglado.
+En el ETT observamos situs solitus, levocardia, concordancia aurículo-ventricular y ventrículo-arterial, con un ventrículo izquierdo dilatado tras ajustar por peso y talla, con fracción de eyección del ventrículo izquierdo (FEVI) conservada pese a discreta hipoquinesia inferior: diámetro diastólico (DD): 42 mm; diámetro sistólico (DS) 28 mm; FEVI: 62 %. La aurícula izquierda estaba muy dilatada, con abombamiento del septo interauricular hacia la aurícula derecha y shunt izquierda- derecha a través del foramen oval. Observamos una IM masiva por falta de coaptación de velos mitrales secundaria a una retracción del velo posterior con importante gap entre ambos velos. Así mismo, ambos músculos papilares y las cuerdas tendinosas presentaban una ecogenicidad aumentada, sugestiva de fibroelastosis.
+Durante el estudio de la arteria pulmonar (AP) objetivamos un flujo diastólico con Doppler color a dicho nivel, junto a la presencia de múltiples flujos diastólicos intramiocárdicos tanto en ventrículo derecho como a nivel septal. La presión sistólica pulmonar era de 30 mmHg. Todos estos hallazgos en el ETT nos hicieron sospechar un posible origen anómalo coronario desde la AP, y solicitamos TAC coronario.
+El TAC coronario confirmó la sospecha, visualizándose el tronco coronario izquierdo emergiendo de la AP.
+
+EVOLUCIÓN
+Tras el diagnóstico de ALCAPA (Anomalous Left Coronary Artery from the Pulmonary Artery), también llamado síndrome de Bland-White-Garland, se presentó el caso en sesión médico quirúrgica, decidiéndose intervenir mediante reimplante coronario y cirugía reparadora sobre la válvula mitral, debido a que las lesiones presentes en el aparato valvular mitral visualizadas con ETT sugerían escasa expectativa de mejoría tras el reimplante coronario aislado.
+La intervención se realizó a través de esternotomía, confirmándose la salida del tronco coronario izquierdo de la AP. Se llevó a cabo la resección del botón coronario izquierdo con anastomosis a la pared posterior de la aorta ascendente y cierre de AP.
+A continuación, se hizo plastia mitral con sutura de la comisura anterior hasta un tercio de la válvula mitral y sutura de pseudo-cleft de velo posterior, debido este último probablemente a que la dilatación del anillo mitral produjo una separación excesiva de las indentaciones que dividen los distintos festones del velo posterior.
+En el ETT posoperatorio evidenciamos una reducción significativa de la IM, que pasó de ser masiva a moderada, y de los diámetros ventriculares
+Nuestra paciente evolucionó de forma favorable durante su ingreso, siendo dada de alta 1 semana después, manteniéndose asintomática en el seguimiento.
+El ETT de control a los 6 meses mostraba una franca mejoría respecto al basal, con una reducción significativa de los diámetros ventriculares (DD: 31 mm; DS: 21 mm), persistencia de una FEVI normal ( 61 %) y reducción del volumen auricular izquierdo. La IM se catalogó como leve y no objetivamos estenosis significativa tras la plicatura mitral (gradiente transmitral medio de 4 mmHg).
+Desapareció tanto el flujo diastólico en AP como los flujos intramiocárdicos, y no hallamos gradiente significativo en AP.
+
+DIAGNÓSTICO
+ALCAPA (Anomalous Left Coronary Artery from the Pulmonary Artery o Síndrome de Bland-White-Garland).
+Insuficiencia Mitral severa secundaria.
+Cirugía de reimplante coronario y plastia mitral.

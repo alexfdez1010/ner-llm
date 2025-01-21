@@ -1,0 +1,27 @@
+T3	ENFERMEDAD 677 715	neumonía bilo-bar por broncoaspiración
+T4	ENFERMEDAD 4815 4884	bacteriemia asociada a Streptococcus epidermidis meticilin-resistente
+T5	ENFERMEDAD 699 715	broncoaspiración
+T11	ENFERMEDAD 2924 2957	diarrea por Clostridium difficile
+T12	ENFERMEDAD 727 751	hiponatremia hipoosmolar
+T17	ENFERMEDAD 1382 1402	SIADH paraneoplásico
+T20	ENFERMEDAD 163 184	hipertensión arterial
+T24	ENFERMEDAD 4946 4974	intoxicación por vancomicina
+T26	ENFERMEDAD 186 203	diabetes mellitus
+T32	ENFERMEDAD 205 238	fibrilación auricular paroxística
+T33	ENFERMEDAD 3065 3097	fallo pre-renal con hiponatremia
+T37	ENFERMEDAD 240 262	síndrome Guillen-Barré
+T38	ENFERMEDAD 887 926	sangrado asociado a tumoración faríngea
+T39	ENFERMEDAD 265 298	carcinoma epidermoide orofaríngeo
+T47	ENFERMEDAD 310 390	Síndrome de Secreción Inadecuada de Hormona Antidiurética (SIADH) paraneoplásico
+T51	ENFERMEDAD 4121 4154	diarrea por Clostridium difficile
+T53	ENFERMEDAD 369 374	SIADH
+T66	ENFERMEDAD 4237 4249	hipertensión
+T68	ENFERMEDAD 3327 3344	fallo renal agudo
+T79	ENFERMEDAD 4329 4342	hipernatremia
+T85	ENFERMEDAD 4478 4497	acidosis metabólica
+T86	ENFERMEDAD 1999 2022	bacteriemia por catéter
+T88	ENFERMEDAD 4532 4554	alcalosis respiratoria
+T91	ENFERMEDAD 2091 2103	endocarditis
+T92	ENFERMEDAD 4605 4620	derrame pleural
+T96	ENFERMEDAD 4711 4724	hipernatremia
+T98	ENFERMEDAD 868 876	disfagia

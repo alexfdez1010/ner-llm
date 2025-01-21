@@ -1,0 +1,29 @@
+T23	ENFERMEDAD 2781 2856	ventrículo derecho (VD) gravemente dilatado con función sistólica deprimida
+T24	ENFERMEDAD 2858 2902	Ventrículo izquierdo (VI) levemente dilatado
+T25	ENFERMEDAD 3250 3312	VI dilatado e hipocontráctil con disfunción sistólica moderada
+T30	ENFERMEDAD 4289 4320	dilatación significativa del VD
+T57	ENFERMEDAD 70 93	alergias medicamentosas
+T58	ENFERMEDAD 220 231	sarcoidosis
+T59	ENFERMEDAD 280 312	muerte súbita de origen cardiaco
+T60	ENFERMEDAD 460 464	Asma
+T61	ENFERMEDAD 916 959	taquicardia ventricular monomorfa sostenida
+T62	ENFERMEDAD 2440 2473	taquicardia ventricular monomorfa
+T63	ENFERMEDAD 2492 2495	BRD
+T64	ENFERMEDAD 2719 2741	insuficiencia cardiaca
+T65	ENFERMEDAD 3029 3042	valvulopatías
+T66	ENFERMEDAD 3047 3066	derrame pericárdico
+T67	ENFERMEDAD 3768 3776	fibrosis
+T68	ENFERMEDAD 3873 3883	vasculitis
+T69	ENFERMEDAD 3998 4041	Taquicardia ventricular monomorfa sostenida
+T71	ENFERMEDAD 4265 4286	disfunción leve de VI
+T72	ENFERMEDAD 4368 4388	enfermedad coronaria
+T73	ENFERMEDAD 4418 4426	arritmia
+T74	ENFERMEDAD 4594 4622	miocardiopatía arritmogénica
+T75	ENFERMEDAD 5155 5212	Miocardiopatía arritmogénica con afectación biventricular
+T76	ENFERMEDAD 5214 5254	disfunción sistólica moderada de VI y VD
+T77	ENFERMEDAD 5268 5311	taquicardia ventricular monomorfa sostenida
+T11	ENFERMEDAD 2920 2974	disfunción sistólica leve de VI por hipocinesia global
+T80	ENFERMEDAD 3314 3360	Dilatación de VD con hipocontractilidad global
+T84	ENFERMEDAD 235 249	corazón grande
+T86	ENFERMEDAD 447 458	queratocono
+T89	ENFERMEDAD 4497 4514	dilatación del VD

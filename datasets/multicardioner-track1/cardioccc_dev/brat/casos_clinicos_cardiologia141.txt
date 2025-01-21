@@ -1,0 +1,27 @@
+Historia clínica y enfermedad actual
+Varón de 40 años. Factores de riesgo cardiovascular: dislipemia sin tratamiento, tabaquismo (30 cig/día desde los 18 años), obesidad. Madre fallecida por ictus a los 54 años. Ulcus péptico no complicado hace 15 años. Acude a Urgencias por pérdida de fuerza en hemicuerpo izquierdo transitoria de unos 30 minutos de duración con desviación de comisura bucal y caída al suelo, sin pérdida de conciencia. En el último mes ha presentado 3 episodios de dolor centrotorácico opresivo intenso, en reposo, de 30 minutos de duración y cese espontáneo por los que no consultó. Disnea de moderados esfuerzos en las últimas semanas.
+
+Exploración física:
+TA 115/79 mmHg, FC 85 lpm, peso 100 kg, talla 177 cm, IMC 32. Perímetro abdominal 117, AC: rítmica, mínimo soplo protosistólico en ápex. AP: murmullo vesicular conservado. Extremidades: pulsos periféricos presentes, simétricos. Resto sin hallazgos relevantes.
+
+Pruebas complementarias
+• Electrocardiograma (ECG): ritmo sinusal a 100 lpm. PR 200 ms. QRS 90 ms. Onda Q en II, III y aVF. Elevación del ST 0.5 mm en III, aVF y V3. Descenso del ST 0,5 mm en I, aVL, V5 a V6 con onda T negativa en V2, isodifásica en V3 y aplanada de V4 a V6.
+• Ecocardiograma transtorácico: ventrículo izquierdo severamente dilatado, sin hipertrofia y con función sistólica severamente deprimida (fracción de eyección 25%), con extensas alteraciones de la contractilidad segmentaria en las caras inferior y anterior. Llenado transmitral restrictivo. Aneurismas inferior basal y apical. Trombo intraventricular apical de 14x18 mm. Insuficiencia mitral isquémica moderada.
+• Analítica: troponina I máxima 0,43 ng/dL, colesterol total 223 mg/dL, colesterol HDL 31 mg/dL, colesterol LDL 164 mg/dL, triglicéridos 142 mg/dL. Glucemia basal 88 mg/ dL. HbA1c 4,9%. Hemograma, coagulación, función renal, iones, perfil hepático, perfil férrico y perfil tiroideo normales.
+• Cateterismo cardiaco (coronariografía): enfermedad coronaria obstructiva severa de 3 vasos principales, multisegmento, con lechos distales subóptimos.
+• Resonancia magnética cardiaca: ventrículo izquierdo dilatado, con función sistólica severamente deprimida. Segmentos apicales de cara anterior, inferior y septal no viables. Resto de segmentos viables. Trombo apical.
+• Cateterismo cardiaco (intervención coronaria percutánea): angioplastia e implantación de 3 stents farmacoactivos sobre descendente anterior proximal y media, y angioplastia e implantación de 1 stent farmacoactivo sobre 1a obtusa marginal, con buen resultado angiográfico. En un 2o tiempo, angioplastia e implantación de 1 stent farmacoactivo sobre coronaria derecha distal e interventricular posterior y 1 stent farmacoactivo a nivel de la cruz, con buen resultado angiográfico.
+
+Evolución clínica
+Varón de 40 años que ingresa por accidente isquémico transitorio en territorio carotídeo derecho e historia de dolor torácico. En el estudio diagnóstico se objetiva un infarto evolucionado inferior y apical, disfunción ventricular severa y un trombo intraventricular, enfermedad de tres vasos multisegmento con lechos distales subóptimos, y viabilidad en territorio de descendente anterior proximal y media, y en cara inferior. Dada la mala calidad distal de la arteria descendente anterior y a la ausencia de diabetes mellitus, se opta por realizar revascularización percutánea, consiguiéndose la revascularización completa con stents farmacoactivos. El paciente evoluciona de forma favorable durante el ingreso, sin presentar clínica de insuficiencia cardiaca ni nueva focalidad neurológica.
+
+Diagnóstico
+• Cardiopatía isquémica: infarto evolucionado inferior y apical
+• Enfermedad coronaria arteriosclerótica obstructiva de tres vasos principales
+• Disfunción sistólica de ventrículo izquierdo severa
+• Trombo intraventricular apical
+• Accidente isquémico transitorio por cardioembolia
+• Revascularización percutánea completa mediante stents farmacoactivos
+• Dislipemia
+• Tabaquismo
+• Obesidad

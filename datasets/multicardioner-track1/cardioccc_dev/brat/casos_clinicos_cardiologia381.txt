@@ -1,0 +1,36 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Paciente varón de 75 años de edad que acude por dolor torácico.
+
+ANTECEDENTES:
+No alergias medicamentosas conocidas. No hábitos tóxicos. Hipertensión arterial (HTA). Dislipemia. Obesidad. Claudicación intermitente. Esteatosis hepática. Hiperplasia benigna de próstata.
+Ingreso en noviembre de 2017 en la unidad de neurología por ictus isquémico agudo en territorio de arterial cerebral media derecha de etiología indeterminada (NIHSS 11).
+Trombectomía mecánica primaria eficaz. Recuperación completa y sin datos de secuelas en el momento actual.
+Intervenciones quirúrgicas: hernia inguinal bilateral, apendicectomizado, hidrocele.
+Antecedentes cardiológicos: estenosis aórtica moderada en seguimiento en módulo de valvulopatías.
+Estado basal: independiente para las actividades básicas de la vida diaria. Ranking 0. Índice de Barthel 100.
+Tratamiento domiciliario: omeprazol 20 mg (1-0-0), furosemida 40 mg (1-0-0), bisoprolol 2,5 mg (1-0-0), rosuvastatina 10 mg (0-0-1), tamsulosina 0,4 mg (0-0-1), finasteride 5 mg (1-0-0), lorazepam 1 mg (0-0-1).
+
+ENFERMEDAD ACTUAL:
+El paciente refiere clínica de dolor en miembro inferior izquierdo, notándola además más fría que la pierna contralateral. Al día siguiente comienza con dolor centrotorácico opresivo, sin irradiación ni cortejo vegetativo además de un dolor abdominal muy inespecífico, motivo por el cual decide acudir al hospital.
+
+EXPLORACIÓN FÍSICA:
+Sudoroso. Tensión arterial (TA) 120/60 mmHg. Frecuencia cardiaca (FC) 75 lpm. Auscultación cardiopulmonar: ruidos cardiacos arrítmicos con soplo sistólico eyectivo en foco aórtico grado II/VI además de soplo suave en punta grado II/VI. Murmullo vesicular conservado (MVC) sin ruidos sobreañadidos. Abdomen: globuloso, depresible, no masas, doloroso de forma difusa sin signos de peritonitis. Miembro inferior izquierdo frío y pálido, con ausencia de pulso pedio.
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA: hemoglobina 14,6 g/dl, hematocritos 44,6%, leucocitos 16.000/mm3. Neutrófilos 80,3%, plaquetas 236.000/mm3, dímero D 1367 ng/ml, INR 1,01, glucosa basal 128 mg/dl. BUN 16 mg/dl, creatinina 0,90 mg/dl, FG MDRD-4 87 ml/min/sup, sodio 139 meq/l, potasio 4,1 meq/l, GOT 333 U/L, GPT 69 U/L, CK-NAC 1486 U/L, CK-MB 144 U/L, troponina I pico 48 ng/ml, NTproBNP 3840 pg/ml.
+ELECTROCARDIOGRAMA (ECG) en urgencias: FA con respuesta ventricular adecuada con elevación del ST menor de 1 mm en derivaciones de cara inferior y cara lateral alta con R altas en precordiales.
+ECG en UCI coronaria: ritmo sinusal, ondas Q inferiores con ondas T negativas (patrón evolutivo).
+RADIOGRAFÍA DE TÓRAX PA: índice cardiotorácico aumentado. Congestión bilateral con redistribución vascular a vértices.
+TOMOGRAFÍA COMPUTARIZADA (TAC) tórax-abdomen: imagen sugestiva de infarto de miocardio posterobasal en VI. Derrame pleural laminar de predominio derecho, que alcanza 15 mm de espesor máximo. Lesiones corticales hipodensas en ambos riñones, de predominio izquierdo, sugestivas de infartos renales. Espondilosis dorsolumbar con estenosis del canal L3-L4 y L4-L5, a correlacionar con clínica.
+ECOGRAFÍA DOPPLER arterial de MMII (realizado en el ingreso previo en el servicio de neurología): estenosis grave en arteria ilíaca derecha y estenosis leve en arteria ilíaca izquierda. Ateromatosis fémoro-poplítea bilateral.
+ECOCARDIOGRAFÍA: hipertrofia ventricular izquierda (HVI) concéntrica moderada, aquinesia inferior e hipoquinesia lateral con contractilidad global preservada. Calcificación aórtica grave con limitación moderada de su apertura (V. máxima 3.3 m/seg gradiente medio 19 mmHg), insuficiencia aórtica ligera. Calcificación valvular mitral con insuficiencia mitral ligera. ventrículo derecho (VD) no dilatado con contractilidad global normal (TAPSE 18 mm), insuficiencia tricuspídea (IT) leve con gradiente VD-AD 28 mmHg.
+CATETERISMO CARDIACO: enfermedad arterial coronaria con imagen angiográficamente compatible con trombo en primera obtusa marginal (OM) distal, que se sitúa acabalgado sobre bifurcación con ramo secundario de escaso calibre. Resto del árbol coronario libre de lesiones obstructivas significativas. Ventrículo izquierdo (VI) de tamaño normal con contractilidad global deprimida de forma ligera (FE 50%). Trastorno segmentario de la contractilidad inferior. Valvulopatía aórtica calcificada: estenosis aórtica no cuantificada con gradiente medio de 22,5 mmHg.
+
+EVOLUCIÓN CLÍNICA
+Paciente varón de 75 años de edad con los antecedentes personales descritos, que ingresa por infarto agudo de miocardio (IAM) con onda Q inferior Killip I e isquemia aguda del miembro inferior izquierdo. Durante el ingreso se objetiva FA no diagnosticada previamente. Se inicia tratamiento con doble antiagregación y anticoagulación. Se realiza estudio angiográfico donde se aprecia lesión obstructiva significativa por trombo distal en la primera OM que no se revasculariza. Dado que el paciente evoluciona de forma favorable desde el punto de vista de la isquemia del miembro inferior izquierdo (moviliza dedos con buena perfusión y presencia de pulso distal) y sin datos de recidiva de isquemia miocárdica, se decide alta y seguimiento por consultas de cardiología y cirugía vascular.
+
+DIAGNÓSTICO
+Síndrome coronario agudo con elevación del segmento ST (SCACEST) inferior Killip I.
+Enfermedad arterial periférica: isquemia aguda del miembro inferior izquierdo.
+Infarto renal bilateral.
+FA de debut.

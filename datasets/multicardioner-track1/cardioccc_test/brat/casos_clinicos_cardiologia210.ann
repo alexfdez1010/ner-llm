@@ -1,0 +1,29 @@
+T30	ENFERMEDAD 78 109	Distrofia miotónica de Steinert
+T31	ENFERMEDAD 189 200	CIA tipo OS
+T32	ENFERMEDAD 1781 1796	derrame pleural
+T33	ENFERMEDAD 1923 1950	comunicación interauricular
+T34	ENFERMEDAD 2256 2269	valvulopatías
+T35	ENFERMEDAD 2435 2459	Insuficiencia tricúspide
+T36	ENFERMEDAD 2816 2840	tromboembolismo pulmonar
+T37	ENFERMEDAD 2842 2845	TEP
+T38	ENFERMEDAD 2861 2882	hipertensión pulmonar
+T39	ENFERMEDAD 2886 2905	infartos pulmonares
+T40	ENFERMEDAD 2975 3004	derrame pleural o pericárdico
+T41	ENFERMEDAD 3021 3035	lesiones óseas
+T42	ENFERMEDAD 4195 4212	necrosis/fibrosis
+T43	ENFERMEDAD 4441 4478	shunt residual de derecha a izquierda
+T44	ENFERMEDAD 4693 4714	hipertensión pulmonar
+T45	ENFERMEDAD 5357 5384	comunicación interauricular
+T46	ENFERMEDAD 5783 5842	Drenaje anómalo de vena cava inferior en aurícula izquierda
+T47	ENFERMEDAD 5873 5900	comunicación interauricular
+T48	ENFERMEDAD 5386 5389	CIA
+T49	ENFERMEDAD 3982 4063	drenaje sistémico anormal con drenaje de vena cava inferior en aurícula izquierda
+T50	ENFERMEDAD 4226 4289	drenaje sistémico anómalo con vena cava inferior drenando en AI
+T51	ENFERMEDAD 5151 5225	drenaje anómalo de la vena cava inferior (VCI) hacia la aurícula izquierda
+T52	ENFERMEDAD 5293 5315	drenaje anómalo de VCI
+T53	ENFERMEDAD 5536 5578	drenaje de la VCI en la aurícula izquierda
+T86	ENFERMEDAD 930 941	acropaquias
+T17	ENFERMEDAD 1905 1914	hipoxemia
+T128	ENFERMEDAD 3818 3841	shunt derecha izquierda
+T129	ENFERMEDAD 4323 4346	shunt derecha izquierda
+T91	ENFERMEDAD 2023 2069	cortocircuito a nivel del parche de pericardio

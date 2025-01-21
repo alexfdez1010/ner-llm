@@ -1,0 +1,32 @@
+T31	ENFERMEDAD 111 126	fumadora activa
+T32	ENFERMEDAD 131 160	cardiopatía isquémica crónica
+T33	ENFERMEDAD 252 299	infarto agudo de miocardio sin elevación del ST
+T34	ENFERMEDAD 395 441	hematoma en la rama interventricular posterior
+T36	ENFERMEDAD 616 641	enfermedad cardiovascular
+T37	ENFERMEDAD 873 880	síncope
+T39	ENFERMEDAD 1384 1419	taquicardia ventricular polimórfica
+T40	ENFERMEDAD 1448 1471	fibrilación ventricular
+T41	ENFERMEDAD 1624 1647	fibrilación ventricular
+T42	ENFERMEDAD 1649 1651	FV
+T43	ENFERMEDAD 1818 1840	insuficiencia cardiaca
+T44	ENFERMEDAD 2274 2299	trombosis venosa profunda
+T45	ENFERMEDAD 3406 3419	valvulopatías
+T46	ENFERMEDAD 4551 4567	escara isquémica
+T47	ENFERMEDAD 5824 5845	daño miocárdico agudo
+T48	ENFERMEDAD 5861 5884	arritmias ventriculares
+T49	ENFERMEDAD 6022 6045	fibrilación ventricular
+T50	ENFERMEDAD 6130 6151	cardiopatía isquémica
+T51	ENFERMEDAD 6189 6213	muerte súbita recuperada
+T52	ENFERMEDAD 6316 6339	fibrilación ventricular
+T53	ENFERMEDAD 6341 6370	Cardiopatía isquémica crónica
+T54	ENFERMEDAD 6372 6388	infarto inferior
+T55	ENFERMEDAD 6390 6427	Disección coronaria espontánea de IVP
+T56	ENFERMEDAD 6268 6312	Parada cardiaca intrahospitalaria recuperada
+T58	ENFERMEDAD 350 380	disección coronaria espontánea
+T59	ENFERMEDAD 1796 1814	eventos arrítmicos
+T60	ENFERMEDAD 5578 5596	eventos arrítmicos
+T61	ENFERMEDAD 5783 5798	hematoma en IVP
+T62	ENFERMEDAD 5347 5393	hematoma en la rama interventricular posterior
+T96	ENFERMEDAD 1129 1140	infecciones
+T118	ENFERMEDAD 593 606	muerte súbita
+T99	ENFERMEDAD 1031 1053	recurrencias anginosas

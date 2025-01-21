@@ -1,0 +1,80 @@
+T39	ENFERMEDAD 101 122	hipertensión arterial
+T40	ENFERMEDAD 124 127	HTA
+T41	ENFERMEDAD 186 219	síndrome de Wolff-Parkinson-White
+T42	ENFERMEDAD 221 224	WPW
+T44	ENFERMEDAD 1529 1568	oclusión de arteria vertebral izquierda
+T45	ENFERMEDAD 1613 1625	trombo agudo
+T46	ENFERMEDAD 1636 1728	lesiones isquémicas crónicas en ganglios basales, tálamo izquierdo y hemisferios cerebelosos
+T47	ENFERMEDAD 1769 1788	déficit neurológico
+T48	ENFERMEDAD 1815 1821	trombo
+T49	ENFERMEDAD 2079 2084	Ictus
+T50	ENFERMEDAD 2532 2535	WPW
+T51	ENFERMEDAD 3082 3106	lesión isquémica crónica
+T52	ENFERMEDAD 3283 3310	infartos lacunares crónicos
+T53	ENFERMEDAD 3651 3663	trombo agudo
+T54	ENFERMEDAD 3767 3819	Quistes de retención en senos maxilares y esfenoidal
+T55	ENFERMEDAD 3955 4058	placa de ateroma calcificada plana no obstructiva en el origen de la arteria carótida interna izquierda
+T56	ENFERMEDAD 4278 4290	trombo agudo
+T57	ENFERMEDAD 4482 4492	aneurismas
+T58	ENFERMEDAD 4532 4589	trombo agudo en V3 y V4 de la arteria vertebral izquierda
+T59	ENFERMEDAD 4591 4694	Lesiones isquémicas crónicas en ganglios basales y tálamo izquierdos y en hemisferio cerebeloso derecho
+T60	ENFERMEDAD 5532 5535	TEP
+T61	ENFERMEDAD 5799 5843	tomboembolismo pulmonar (TEP) agudo bilatera
+T62	ENFERMEDAD 5824 5827	TEP
+T63	ENFERMEDAD 5980 5983	HTP
+T64	ENFERMEDAD 6078 6097	derrame pericárdico
+T65	ENFERMEDAD 6116 6182	adenopatías supraclaviculares, axilares, mediastínicas ni hiliares
+T66	ENFERMEDAD 6280 6312	Atelectasias laminares bibasales
+T67	ENFERMEDAD 6322 6350	granuloma calcificado en LSD
+T68	ENFERMEDAD 6423 6438	derrame pleural
+T69	ENFERMEDAD 6440 6469	Leve espondiloartrosis dorsal
+T70	ENFERMEDAD 6471 6484	Hernia hiatal
+T71	ENFERMEDAD 6535 6554	TEP agudo bilateral
+T72	ENFERMEDAD 6557 6560	HTP
+T73	ENFERMEDAD 6593 6688	lesión isquémica en evolución en el hemisferio cerebeloso izquierdo en el territorio de la PICA
+T74	ENFERMEDAD 6813 6816	TVP
+T75	ENFERMEDAD 6873 6878	ictus
+T76	ENFERMEDAD 6914 6932	hipertrofia septal
+T77	ENFERMEDAD 7272 7305	Valvulopatía aórtica degenerativa
+T78	ENFERMEDAD 7422 7453	Insuficiencia tricúspide ligera
+T79	ENFERMEDAD 7500 7519	derrame pericárdico
+T80	ENFERMEDAD 7607 7641	Aneurisma del septo interauricular
+T81	ENFERMEDAD 7778 7818	shunt de cavidades derechas a izquierdas
+T82	ENFERMEDAD 8061 8066	ictus
+T83	ENFERMEDAD 8068 8071	TEP
+T84	ENFERMEDAD 8129 8151	FOP de tipo tunelizado
+T85	ENFERMEDAD 8439 8477	foramen oval permeable tipo tunelizado
+T86	ENFERMEDAD 10093 10098	ictus
+T87	ENFERMEDAD 10537 10561	tromboembolismo pulmonar
+T88	ENFERMEDAD 10563 10566	TEP
+T89	ENFERMEDAD 10655 10674	TEP bilateral agudo
+T90	ENFERMEDAD 10985 11010	trombosis venosa profunda
+T91	ENFERMEDAD 11059 11091	disfunción de ventrículo derecho
+T92	ENFERMEDAD 11136 11170	aneurisma del septo interauricular
+T93	ENFERMEDAD 11292 11295	FOP
+T94	ENFERMEDAD 11375 11380	ictus
+T95	ENFERMEDAD 11383 11386	TEP
+T96	ENFERMEDAD 11393 11421	embolismo paradójico por FOP
+T97	ENFERMEDAD 11439 11442	WPW
+T98	ENFERMEDAD 11453 11461	arritmia
+T99	ENFERMEDAD 11499 11520	fibrilación auricular
+T100	ENFERMEDAD 11532 11535	WPW
+T101	ENFERMEDAD 11675 11684	arritmias
+T102	ENFERMEDAD 11717 11729	síndrome WPW
+T103	ENFERMEDAD 12335 12346	prediabetes
+T104	ENFERMEDAD 12362 12374	endocarditis
+T105	ENFERMEDAD 12768 12786	trombótico del TEP
+T106	ENFERMEDAD 12877 12898	fibrilación auricular
+T107	ENFERMEDAD 12938 12989	Ictus isquémico agudo en territorio vertebrobasilar
+T108	ENFERMEDAD 12991 13125	oclusión aguda segmento V3-4 de arteria vertebral izquierda con compromiso de arteria cerebelosa posterior inferior (PICA) ipsilateral
+T109	ENFERMEDAD 13128 13168	tromboembolismo pulmonar agudo bilateral
+T110	ENFERMEDAD 13195 13236	Foramen oval permeable de tipo tunelizado
+T111	ENFERMEDAD 5274 5285	trombofilia
+T112	ENFERMEDAD 8397 8404	trombos
+T113	ENFERMEDAD 799 827	nistagmo horizonto-rotatorio
+T114	ENFERMEDAD 12012 12034	FOP de tipo tunelizado
+T115	ENFERMEDAD 13291 13294	WPW
+T220	ENFERMEDAD 7323 7351	insuficiencia aórtica ligera
+T229	ENFERMEDAD 9094 9107	preexcitación
+T230	ENFERMEDAD 11736 11744	recidiva
+T27	ENFERMEDAD 8658 8671	Preexcitación

@@ -1,0 +1,16 @@
+T5	ENFERMEDAD 578 594	enfermedad renal
+T27	ENFERMEDAD 1941 1976	calcificaciones renales bilaterales
+T28	ENFERMEDAD 1997 2009	hipocalcemia
+T29	ENFERMEDAD 2011 2025	hipomagnesemia
+T30	ENFERMEDAD 2028 2047	acidosis metabólica
+T53	ENFERMEDAD 4406 4422	enfermedad renal
+T54	ENFERMEDAD 4447 4475	insuficiencia renal avanzada
+T55	ENFERMEDAD 4643 4658	nefrocalcinosis
+T58	ENFERMEDAD 4756 4785	enfermedad tubulointersticial
+T59	ENFERMEDAD 4939 4954	nefrocalcinosis
+T60	ENFERMEDAD 5132 5182	acidosis tubular renal distal autosómica dominante
+T61	ENFERMEDAD 5184 5190	ATR-AD
+T62	ENFERMEDAD 5626 5676	acidosis tubular renal distal autosómica dominante
+T111	ENFERMEDAD 3895 3907	status focal
+T112	ENFERMEDAD 4020 4038	actividad comicial
+#1	AnnotatorNotes T61	   ATR-AD:acidosis tubular renal distal autosómica dominante

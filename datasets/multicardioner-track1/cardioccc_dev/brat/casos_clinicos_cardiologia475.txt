@@ -1,0 +1,41 @@
+Presentamos el caso de un varón de 81 años de edad, sin cardiopatía previa conocida que ingresa en nuestro servicio por disnea y edemas en extremidades inferiores.
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+HTA. Dislipemia. Diabetes Mellitus tipo II. Obesidad mórbida.
+EPOC.
+SAHS en tratamiento con CPAP.
+Hiperplasia benigna de próstata.
+Episodio de trombosis venosa profunda en extremidad inferior derecha.
+Tratamiento habitual: torasemida 10 mg (1-0-0), valsartán/hidroclorotiazida 160/12,5 mg (1-0-0), simvastatina 10 mg (0-0-1), metformina 850 mg (0-1-0), doxium 500 mg (1-0-1).
+
+Enfermedad actual
+El paciente ingresa procedente del Servicio de Urgencias por cuadro de disnea lentamente progresiva durante aproximadamente dos meses, hasta hacerse de mínimos esfuerzos, junto con oliguria y edemas en extremidades inferiores.
+Hace una semana presentó un cuadro catarral consistente en congestión nasal, tos y expectoración blanquecina, motivo por el cual acudió a su centro de salud, aumentando tratamiento diurético e instaurándose tratamiento antibiótico empírico con amoxicilina-clavulánico 875/125 mg durante una semana. Ante escasa mejoría del cuadro tras 5 días de tratamiento, acude al Servicio de Urgencias.
+
+Exploración física
+TA 160/80 mmHg, FC 71 lpm, SatO2 92 % con aire ambiente, Ta 36,7°C. Consciente y orientado en tiempo y lugar. Obeso. Bien hidratado, buena perfusión periférica. Ligera taquipnea en reposo, sin signos de trabajo respiratorio. Presión venosa yugular no valorable.
+AC: tonos cardiacos apagados sin auscultarse claros soplos. AP: crepitantes en ambas bases. Abdomen globuloso, depresible, sin dolor a la palpación. Extremidades con edemas con fóvea hasta raíz de muslos, signos de insuficiencia venosa crónica.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: flúter auricular atípico con respuesta ventricular controlada a 75 lpm.
+BRDHH con alteraciones secundarias de la repolarización.
+Analítica al ingreso: glucosa 92 mg/dl, urea 60 mg/dl, creatinina 1,6 mg/dl, albúmina 3,76 g/dl, función hepática normal, sodio 145 mmol/l, potasio 3,81 mmol/l, PCR 0,6 mg/ml, hemoglobina 12,9 g/dl, leucocitos 5.200 10^3/μL (N 52,8 %), plaquetas 128.000 10^3/μl.
+Radiografía de tórax: no cardiomegalia. Derrame pleural bilateral.
+Ecocardiograma transtorácico: VI no dilatado, hipertrófico, con buena función sistólica global y segmentaria. Válvula mitral con ligera calcificación en anillo y regurgitación leve-moderada. Raíz de aorta no dilatada. Válvula aórtica engrosada, con imagen de ecogenicidad intermedia, sin que se pueda descartar afectación endocardítica, con gradiente máximo y medio de 50 y 26 mmHg respectivamente. IAo moderada-severa. Se recomienda ETE para mejor valoración de dichos hallazgos. AI moderadamente dilatada. Cavidades derechas no dilatadas, VD con buena función. Regurgitación tricuspídea leve con gradiente Vd-Ad de 34 mmHg. PsAP estimada de 40 mmHg. No derrame pericárdico.
+Ecocardiograma transesofágico: válvula aórtica engrosada con puntos de calcificación, presenta una regurgitación de carácter severo (IV/IV) con imagen compatible con perforación a nivel del velo no coronariano. Pequeña imagen móvil en el TSVI algo hiperecogénica de 0,7 x 0,3 cm dependiente de dicho velo.
+Válvula mitral con regurgitación leve-moderada sin imágenes patológicas.
+
+EVOLUCIÓN
+Durante su estancia en planta de hospitalización, se instaura tratamiento deplectivo intravenoso con mejoría lentamente progresiva de los signos congestivos.
+Ante un primer episodio de insuficiencia cardiaca, se realiza ecocardiograma transtorácico seguido de transesofágico con los hallazgos descritos, compatibles con endocarditis. Se contacta con el Servicio de Infecciosas para valoración interdisciplinar del cuadro. A pesar de la atipicidad del cuadro, se solicita PCR panbacteriana, así como hemocultivo y urocultivo, se ajusta tratamiento empírico por posible endocarditis (ampicilina + cloxacilina + gentamicina) ajustado a función renal y se programa nuevo ecocardiograma transesofágico para control evolutivo, en el cual no se objetivaron diferencias significativas respecto al estudio previo.
+Durante los siguientes días, los cultivos recogidos (hemocultivos y urocultivo) resultaron negativos y, a pesar de aumento de tratamiento diurético intravenoso, el paciente registró una significativa ganancia ponderal y empeoramiento de edemas en extremidades inferiores con aparición de flictenas, por lo que dada la evolución desfavorable del cuadro, se comenta el caso con Cirugía Cardiaca, decidiendo realizar sustitución valvular aórtica con prótesis biológica manteniendo tratamiento antibiótico en espera de los resultados microbiológicos de la válvula cardiaca extraída.
+Entre las analíticas solicitadas, resultó positiva la serología para Coxiella burnetti, con títulos altos, permitiendo realizar el diagnóstico de endocarditis por fiebre Q, por lo que se modificó la pauta de tratamiento antibiótico iniciando la administración de doxiclicina + hidroxicloroquina pudiendo ser dado de alta.
+Durante los meses posteriores al alta, el paciente ha presentado varios episodios de descompensación de insuficiencia cardiaca con derrame pleural bilateral, que ha precisado de medidas educativas higienicodietéticas, tratamiento deplectivo intravenoso, toracocentésis e inclusión del paciente en el programa de telemonitorización de insuficiencia cardiaca, estando actualmente en situación de estabilidad clínica y con controles periódicos por parte de consultas externas de Cardiología e Infecciosas.
+
+DIAGNÓSTICO
+Endocarditis por fiebre Q sobre válvula aórtica nativa.
+Insuficiencia aórtica por perforación de velo aórtico no coronariano.
+Insuficiencia cardiaca congestiva secundaria.
+Cirugía de recambio valvular aórtico por prótesis biológica.

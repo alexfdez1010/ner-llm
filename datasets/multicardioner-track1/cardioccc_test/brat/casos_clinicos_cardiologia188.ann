@@ -1,0 +1,30 @@
+T21	ENFERMEDAD 204 225	cardiopatía isquémica
+T22	ENFERMEDAD 279 294	hábitos tóxicos
+T23	ENFERMEDAD 300 321	hipertensión arterial
+T24	ENFERMEDAD 323 326	HTA
+T25	ENFERMEDAD 331 348	diabetes mellitus
+T26	ENFERMEDAD 350 352	DM
+T27	ENFERMEDAD 355 363	Obesidad
+T28	ENFERMEDAD 456 475	Hipercolesterolemia
+T29	ENFERMEDAD 809 890	infarto agudo de miocardio con elevacion del ST (IAMCEST) de localización lateral
+T30	ENFERMEDAD 923 999	enfermedad coronaria de un vaso, con oclusión trombótica de primera diagonal
+T31	ENFERMEDAD 1091 1143	estenosis intermedia en arteria descendente anterior
+T32	ENFERMEDAD 1600 1626	infarto agudo de miocardio
+T33	ENFERMEDAD 1628 1631	IAM
+T34	ENFERMEDAD 3205 3244	oclusión trombótica de primera diagonal
+T35	ENFERMEDAD 3354 3403	Lesión intermedia en arteria descendente anterior
+T36	ENFERMEDAD 4164 4170	angina
+T37	ENFERMEDAD 4488 4508	enfermedad coronaria
+T38	ENFERMEDAD 4569 4588	hipercolesterolemia
+T39	ENFERMEDAD 4634 4637	IAM
+T41	ENFERMEDAD 6209 6238	Cardiopatía isquémica crónica
+T42	ENFERMEDAD 6240 6243	IAM
+T43	ENFERMEDAD 6253 6284	enfermedad coronaria de un vaso
+T44	ENFERMEDAD 6336 6366	Estenosis moderada en DA media
+T45	ENFERMEDAD 6441 6460	Hipercolesterolemia
+T46	ENFERMEDAD 858 865	IAMCEST
+T47	ENFERMEDAD 255 263	alergias
+T93	ENFERMEDAD 2877 2889	arco corneal
+T94	ENFERMEDAD 2894 2913	xantomas tendinosos
+T7	ENFERMEDAD 3076 3090	visceromeglias
+T95	ENFERMEDAD 170 177	infarto

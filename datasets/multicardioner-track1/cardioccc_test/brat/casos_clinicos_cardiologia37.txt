@@ -1,0 +1,74 @@
+Paciente varón de 70 años, que acude al servicio de urgencias por cuadro de fiebre de dos semanas de evolución, con escalofríos, tiritona, de hasta 39oC, de predominio vespertino, que cede bien con paracetamol pero reaparece a las pocas horas. La fiebre se acompaña de astenia y dolores osteoarticulares generalizados.
+No tos, ni expectoración, ni disnea, ni dolor torácico. No nauseas, ni vómitos. Deposiciones blandas, sin productos patológicos en las últimas semanas. No clínica miccional.
+Desde que acudió a urgencias, en tratamiento con levofloxacino durante 5 días con mejoría clínica, pero recaída de la fiebre y el malestar general a las 48h de finalizar el antibiótico.
+No viajes al extranjero. No refiere lesiones cutáneas ni intervenciones dentales. La familia refiere que lo encuentran más decaído desde hace 6 meses, coincidiendo con el último recambio del marcapasos. Desde entonces ha ido disminuyendo progresivamente su actividad, con aparición de dolores articulares. Pérdida de peso,pero no de apetito.
+
+
+ANTECEDENTES
+• RAM: Hipersensibilidad a betalactámicos.
+• Hábitos tóxicos: No fumador. Bebedor de 2 vasos de vino al día desde hace 3-4 meses.
+• Antecedentes personales: HTA, DMII, dislipemia, hiperuricemia con gota, FA permanente desde 2013 (anticoagulado con Acenocumarol), cardiopatía isquémica crónica desde2 004, PRÓTESIS AÓRTICAS J-21, hipersensibilidad del seno carotídeo de etiología desconocida. Portador de marcapasos DDDR desde diciembre de 2004 y desde 2013 en modo VVIR por FA. Último recambio de marcapasos en julio de 2016, sin complicaciones. Hiperostosis anquilosante vertebral y gota, visto en reumatología en noviembre de 2016 y en seguimiento por médico de cabecera. Neumonía adquirida en la comunidad en 2015
+• Antecedentes quirúrgicos: apendicectomía, prótesisaórtica.
+• Jubilado, fue chapista de coches, vive en el Palmar. Autónomo para todas las ABVD, conduce su coche, tiene un pequeño huerto
+
+
+EXPLORACIÓN FÍSICA
+• TA: 120/40mmHG FC: 70lpm  T: 37"2 oC. Eupneicoen reposo
+• No adenopatías en los principales grupos ganglionares.
+• Normocoloreado. Normohidratado. No ictericia
+• Boca séptica. Faringe normal sin exudado.
+• No crepitación, ni signos de inflamación sobre la pila del marcapasos.
+• AC: Rítmica. Soplo de regurgitación mitraly clic valvular en soplo aórtico.
+• AP: Ruidos respiratorios normales.
+• Abdomen: blando, deresible, no doloroso, no se palpan masas ni visceromegalias.
+• Extremidades sin edemas, con pulsos palpables, sin signos de TVP.
+• No lesiones cutáneas, ni pérdida de continuidad de la piel.
+• Consciente, orientado, colaborador, lenguaje normal, moviliza las 4 extremidades, pares craneales normales. Signos meníngeos negativos.
+
+EXPLORACIONES COMPLEMENTARIAS
+• ECG: ritmo marcapasos a 70lpm, con estimulación ventricular, imagen de bloqueo de rama izquierdo.
+• RX tórax: cardiomegalia global, son signos de IVI. Marcapasos con electrodos en AD y VD.
+• Bioquímica: glucosa 168 mg/dl Urea:78 mg/dl Creatinina: 1"65 mg/dl Ck: 48 ui/l
+• Sodio de 131 PCR: 134 FG: 41 Fibrinógeno: 667
+• Gasometría
+• Hematología: Leucocitos: 15"2x10e9/lneutrófilos 11"9x10e9/l
+• Brucellamelitensisrosa de bengala: negativo
+• Anormales y sediemento: normal.
+
+SOSPECHA DIAGNÓSTICA: ENDOCARDITIS BACTERIANA
+
+PLAN
+• Hemocultivos
+• Analítica completa
+• Ecocardiograma
+• Interconsulta a alergología
+
+
+HEMOCULTIVOS
+• Frasco anaerobios -> Enterococcus faecalis
+• Sensible a penicilina
+• Resistente a :
+- Quinupristin/dalfopristina
+- Cefuroxima-axetil
+- Cefuroxima
+- Trimetropin/sulfametoxazol
+- Clindamicina
+- Eritromicina
+
+ECOCARDIOGRAMA
+• Imposibilidad de realizar ecocardiograma TE por falta de colaboración
+• Realización de ecocardiograma TT -> Ligera dilatación auricular izquierda, teniendo el resto de cámaras un tamaño normal, con FE conservada. Presencia de hipertrofia del VI concéntrica. Vegetación de 12x7mm a nivel del segmento auricular del velo posterior mitral sin repercusión hemodinámica. Prótesis biológica aórtica normofuncionante, sin signos sugerentes de afectación endocardítica.
+
+CONCLUSIÓN:
+Endocarditismitral. Hemocultivospositivos + confirmación ecocardiográfica
+
+PET TAC
+• Debido a la limitaciónde la la ETT
+• RESULTADO: aumento focal de la actividad sobre válvula mitral. Mientras que en prótesis biológica de válvula aórtica no se observa captación metabólica focal, que sugiera infección en el estudio actual.
+
+INTERCONSULTA ALERGOLOGÍA
+• En un principio: alergia a betalactámicos, tratamiento con VANCOMICINA/GENTAMICINA Tras interconsulta: no alergia -> AMPICILINA 2G/4H + CEFTRIAXONA 2G/12H
+
+TRATAMIENTO
+- Infección sobre válvula nativa -> 4 semanas de tratamiento
+- Infección en paciente complejo, con válvula protésica y marcapasos -> alargamos el tratamiento a 6 semanas.

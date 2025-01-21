@@ -1,0 +1,70 @@
+T12	ENFERMEDAD 3012 3015	DPN
+T56	ENFERMEDAD 307 318	cardiopatía
+T57	ENFERMEDAD 487 490	MCD
+T58	ENFERMEDAD 544 555	cardiopatía
+T59	ENFERMEDAD 617 628	cardiopatía
+T60	ENFERMEDAD 656 679	alergias medicamentosas
+T61	ENFERMEDAD 711 719	fumadora
+T62	ENFERMEDAD 723 731	bebedora
+T63	ENFERMEDAD 771 783	Fibromialgia
+T64	ENFERMEDAD 785 836	Insuficiencia venosa crónica en miembros inferiores
+T65	ENFERMEDAD 861 884	Miocardiopatía dilatada
+T66	ENFERMEDAD 994 1004	DSVI grave
+T67	ENFERMEDAD 1084 1102	IM grave funcional
+T68	ENFERMEDAD 1104 1150	insuficiencia tricuspídea (IT) grave funcional
+T69	ENFERMEDAD 1162 1206	Hipertensión pulmonar (HP) al menos moderada
+T70	ENFERMEDAD 1185 1187	HP
+T71	ENFERMEDAD 1208 1239	Insuficiencia cardiaca avanzada
+T72	ENFERMEDAD 1449 1470	Síndrome cardiorrenal
+T73	ENFERMEDAD 1675 1700	Bloqueo de rama izquierda
+T74	ENFERMEDAD 1702 1708	BCRIHH
+T75	ENFERMEDAD 1809 1832	arritmias ventriculares
+T76	ENFERMEDAD 1849 1872	taquicardia ventricular
+T77	ENFERMEDAD 1874 1876	TV
+T78	ENFERMEDAD 1900 1914	FA paroxística
+T79	ENFERMEDAD 2334 2336	IC
+T80	ENFERMEDAD 3840 3865	trombosis venosa profunda
+T81	ENFERMEDAD 3867 3870	TVP
+T82	ENFERMEDAD 5504 5542	extrasístoles ventriculares monomorfas
+T83	ENFERMEDAD 5648 5674	disfunción sistólica grave
+T84	ENFERMEDAD 5831 5872	Insuficiencia mitral (IM) grave funcional
+T85	ENFERMEDAD 5874 5913	Insuficiencia tricuspídea (IT) moderada
+T87	ENFERMEDAD 6163 6204	hipertensión pulmonar moderada poscapilar
+T88	ENFERMEDAD 6485 6501	IC descompensada
+T89	ENFERMEDAD 6981 7022	hipertensión pulmonar moderada poscapilar
+T91	ENFERMEDAD 8062 8093	insuficiencia cardiaca avanzada
+T92	ENFERMEDAD 8153 8156	IRC
+T93	ENFERMEDAD 8209 8230	síndrome cardiorrenal
+T94	ENFERMEDAD 8426 8441	cuadro catarral
+T95	ENFERMEDAD 9055 9063	IM grave
+T96	ENFERMEDAD 9947 10049	Insuficiencia cardiaca crónica avanzada CF III NYHA - INTERMACS 6 por miocardiopatía dilatada familiar
+T97	ENFERMEDAD 10211 10247	Insuficiencia mitral grave funcional
+T98	ENFERMEDAD 10250 10293	insuficiencia tricúspide moderada funcional
+T99	ENFERMEDAD 10319 10360	Hipertensión pulmonar moderada poscapilar
+T100	ENFERMEDAD 10431 10464	Fibrilación auricular paroxística
+T101	ENFERMEDAD 10466 10526	Insuficiencia renal crónica (G3A2) por síndrome cardiorrenal
+T102	ENFERMEDAD 691 706	Hábitos tóxicos
+T103	ENFERMEDAD 7072 7074	IC
+T104	ENFERMEDAD 9171 9188	IM leve- moderada
+T105	ENFERMEDAD 5596 5630	ventrículo izquierdo (VI) dilatado
+T106	ENFERMEDAD 5753 5822	Ventrículo derecho (VD) ligeramente dilatado con disfunción sistólica
+T107	ENFERMEDAD 5853 5855	IM
+T108	ENFERMEDAD 5901 5903	IT
+T109	ENFERMEDAD 10105 10115	DSVI grave
+T47	ENFERMEDAD 10414 10419	TVMNS
+T201	ENFERMEDAD 6024 6052	Insuficiencia aórtica ligera
+T218	ENFERMEDAD 8405 8420	descompensación
+T86	ENFERMEDAD 111 166	fallecido a los 78 años de forma súbita con cardiopatía
+T55	ENFERMEDAD 427 466	fallecido a los 38 años de forma súbita
+T170	ENFERMEDAD 1537 1576	intolerancia a fármacos neurohormonales
+#1	AnnotatorNotes T57	 cardiopatia dilatada idiopática
+#2	AnnotatorNotes T66	 disfunción ventricular izquierda
+#3	AnnotatorNotes T70	 hipertensión pulmonar
+#4	AnnotatorNotes T77	 taquicardia ventricular
+#5	AnnotatorNotes T79	 insuficiencia cardiaca
+#6	AnnotatorNotes T92	 insuficiencia renal crónica
+#7	AnnotatorNotes T103	 insuficiencia cardiaca
+#8	AnnotatorNotes T104	 insuficiencia mitral
+#9	AnnotatorNotes T107	 IM: insuficiencia mitral
+#10	AnnotatorNotes T108	 IT: insuficiencia tricuspidea
+#11	AnnotatorNotes T109	 disfunción ventricular izquierda

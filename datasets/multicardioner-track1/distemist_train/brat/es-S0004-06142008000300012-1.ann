@@ -1,0 +1,28 @@
+T3	ENFERMEDAD 4415 4495	angiomiolipoma de predominio lipomatoso del seno renal con infiltración vascular
+T5	ENFERMEDAD 2983 3034	Síndrome de Budd-Chiari secundario a trombo en cava
+T6	ENFERMEDAD 1100 1247	trombo con densidad grasa que se extiende desde riñón izquierdo a vena renal izquierda (VRI), vena cava inferior (VCI) y ostium de aurícula derecha
+T7	ENFERMEDAD 2498 2549	síndrome de Budd-Chiari secundario a trombo en cava
+T8	ENFERMEDAD 3258 3369	trombo con nivel quirúrgico IV al presentar situación supradiafragmática llegando al ostium de aurícula derecha
+T9	ENFERMEDAD 1799 1826	patología bilio-pancreática
+T14	ENFERMEDAD 3020 3034	trombo en cava
+T15	ENFERMEDAD 2535 2549	trombo en cava
+T16	ENFERMEDAD 1831 1854	Síndrome de Budd-Chiari
+T18	ENFERMEDAD 3044 3050	Lipoma
+T29	ENFERMEDAD 1907 1932	derrame pleural bilateral
+T32	ENFERMEDAD 160 176	vómitos biliosos
+T34	ENFERMEDAD 1539 1552	Lipoma en VCI
+T36	ENFERMEDAD 2639 2677	proceso peritoneal infeccioso/ tumoral
+T39	ENFERMEDAD 1576 1588	colecistitis
+T45	ENFERMEDAD 2038 2050	lipoma renal
+T51	ENFERMEDAD 2768 2786	proceso peritoneal
+T57	ENFERMEDAD 769 794	trombosis venosa profunda
+T58	ENFERMEDAD 2931 2950	derrame pericárdico
+T59	ENFERMEDAD 796 799	TVP
+T60	ENFERMEDAD 2256 2275	congestión hepática
+T1	ENFERMEDAD 3036 3039	AML
+T2	ENFERMEDAD 2013 2027	angiomiolipoma
+T4	ENFERMEDAD 2029 2032	AML
+T61	ENFERMEDAD 2277 2290	hepatomegalia
+T10	ENFERMEDAD 1281 1315	oclusión completa de la luz de VCI
+T11	ENFERMEDAD 1624 1636	pancreatitis
+#1	AnnotatorNotes T4	     AML: Angiomiolipoma

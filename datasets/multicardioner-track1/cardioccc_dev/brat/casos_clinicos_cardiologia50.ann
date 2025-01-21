@@ -1,0 +1,33 @@
+T31	ENFERMEDAD 413 461	endocarditis infecciosa sobre válvula tricúspide
+T32	ENFERMEDAD 718 748	insuficiencia cardiaca crónica
+T33	ENFERMEDAD 809 861	dilatación y disfunción severa de ventrículo derecho
+T34	ENFERMEDAD 1120 1142	insuficiencia cardiaca
+T35	ENFERMEDAD 1363 1384	fibrilación auricular
+T36	ENFERMEDAD 1536 1558	insuficiencia cardiaca
+T37	ENFERMEDAD 1804 1824	hipotensión arterial
+T39	ENFERMEDAD 2776 2823	fibrilación auricular con respuesta ventricular
+T40	ENFERMEDAD 3734 3794	Válvula pulmonar con dilatación del anillo con insuficiencia
+T41	ENFERMEDAD 4127 4146	derrame pericárdico
+T42	ENFERMEDAD 5201 5231	Insuficiencia cardiaca derecha
+T43	ENFERMEDAD 5329 5352	endocarditis infecciosa
+T44	ENFERMEDAD 5354 5406	Dilatación severa y disfunción de ventrículo derecho
+T45	ENFERMEDAD 5460 5492	Fibrilación auricular permanente
+T46	ENFERMEDAD 5494 5511	Infección por VHC
+T47	ENFERMEDAD 157 180	alergias medicamentosas
+T48	ENFERMEDAD 192 202	Exfumadora
+T49	ENFERMEDAD 205 244	ex-usuaria de drogas por vía parenteral
+T50	ENFERMEDAD 2031 2039	síncopes
+T51	ENFERMEDAD 2611 2624	hepatomegalia
+T52	ENFERMEDAD 2429 2438	arrítmica
+T53	ENFERMEDAD 2980 3000	cardiomegalia global
+T55	ENFERMEDAD 3527 3566	Aurícula izquierda ligeramente dilatada
+T56	ENFERMEDAD 3568 3620	Aurícula y ventrículo derechos severamente dilatados
+T57	ENFERMEDAD 3622 3675	VD disfuncionante, con ausencia de válvula tricúspide
+T58	ENFERMEDAD 3893 3920	Válvula aórtica esclerosada
+T59	ENFERMEDAD 4015 4054	Vena cava inferior severamente dilatada
+T60	ENFERMEDAD 4080 4122	Venas suprahepáticas severamente dilatadas
+T61	ENFERMEDAD 4831 4842	hepatitis C
+T62	ENFERMEDAD 5408 5440	Disfunción ventricular izquierda
+T3	ENFERMEDAD 1888 1907	bajo gasto cardiaco
+T88	ENFERMEDAD 2860 2863	BRD
+T100	ENFERMEDAD 2159 2200	descompensación de insuficiencia cardiaca

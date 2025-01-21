@@ -1,0 +1,55 @@
+T22	ENFERMEDAD 2497 2566	ventrículo izquierdo de dimensiones normales con moderada hipertrofia
+T30	ENFERMEDAD 5037 5087	engrosamiento mural de la arteria aorta ascendente
+T93	ENFERMEDAD 178 199	hipertensión arterial
+T94	ENFERMEDAD 218 228	dislipemia
+T95	ENFERMEDAD 230 253	Estenosis aórtica grave
+T96	ENFERMEDAD 328 357	Cardiopatía isquémica crónica
+T97	ENFERMEDAD 1167 1175	isquemia
+T98	ENFERMEDAD 1744 1793	Bloqueo auriculoventricular (BAV) de primer grado
+T99	ENFERMEDAD 1773 1776	BAV
+T100	ENFERMEDAD 2443 2465	insuficiencia cardiaca
+T101	ENFERMEDAD 2936 2993	Válvula mitral con apertura normal y mínima insuficiencia
+T102	ENFERMEDAD 3186 3211	insuficiencia tricuspídea
+T103	ENFERMEDAD 3291 3310	derrame pericárdico
+T104	ENFERMEDAD 3400 3408	isquemia
+T107	ENFERMEDAD 4657 4665	fibrosis
+T108	ENFERMEDAD 4668 4687	necrosis miocárdica
+T110	ENFERMEDAD 5102 5138	endocarditis por infección protésica
+T111	ENFERMEDAD 5140 5183	Adenopatías hipermetabólicas paratraqueales
+T112	ENFERMEDAD 5331 5375	proceso infeccioso secundario a endocarditis
+T114	ENFERMEDAD 5605 5700	Atelectasia hipermetabólica subsegmentaria del segmento superior del lóbulo inferior del pulmón
+T115	ENFERMEDAD 5713 5754	derrame pleural ni pericárdico ni pleural
+T117	ENFERMEDAD 6176 6286	Trombosis mural circunferencial en arteria aorta abdominal, con obstrucción parcial de la arteria ilíaca común
+T118	ENFERMEDAD 6318 6337	ateromatosis difusa
+T119	ENFERMEDAD 6501 6513	endocarditis
+T120	ENFERMEDAD 6519 6567	adenopatías mediastínicas y pulmonares reactivas
+T121	ENFERMEDAD 6569 6673	Trombosis mural circunferencial de arteria aorta abdominal y obstrucción parcial de arteria ilíaca común
+T123	ENFERMEDAD 6723 6749	trastorno de la conducción
+T124	ENFERMEDAD 7091 7111	disfunción protésica
+T125	ENFERMEDAD 7195 7203	isquemia
+T126	ENFERMEDAD 7409 7429	enfermedad coronaria
+T127	ENFERMEDAD 7608 7616	isquemia
+T129	ENFERMEDAD 7778 7796	proceso infeccioso
+T130	ENFERMEDAD 7910 7943	endocarditis infecciosa protésica
+T132	ENFERMEDAD 8231 8243	endocarditis
+T133	ENFERMEDAD 8408 8420	endocarditis
+T134	ENFERMEDAD 8426 8474	adenopatías mediastínicas y pulmonares reactivas
+T135	ENFERMEDAD 8517 8624	trombosis mural circunferencial de la arteria aorta abdominal y obstrucción parcial de arteria ilíaca común
+T138	ENFERMEDAD 8857 8877	disfunción protésica
+T139	ENFERMEDAD 9279 9299	enfermedad coronaria
+T140	ENFERMEDAD 9317 9382	arteriopatía periférica con trombosis mural de la aorta abdominal
+T143	ENFERMEDAD 9677 9698	adenopatías reactivas
+T144	ENFERMEDAD 9936 9999	Endocarditis infecciosa tardía sobre prótesis aórtica biológica
+T145	ENFERMEDAD 10001 10050	Bloqueo auriculoventricular (BAV) de primer grado
+T146	ENFERMEDAD 10030 10033	BAV
+T147	ENFERMEDAD 10064 10084	endocarditis aórtica
+T148	ENFERMEDAD 10086 10144	Trombosis mural circunferencial de arteria aorta abdominal
+T91	ENFERMEDAD 359 417	lesión moderada del 40-50% en arteria descendente anterior
+T4	ENFERMEDAD 2769 2806	Aurícula izquierda levemente dilatada
+T161	ENFERMEDAD 121 124	RAM
+T41	ENFERMEDAD 7636 7659	colección periprotésica
+T54	ENFERMEDAD 4128 4151	Colección periprotésica
+T69	ENFERMEDAD 4738 4761	colección periprotésica
+T71	ENFERMEDAD 4807 4870	Prótesis biológica valvular aórtica con colección periprotésica
+T92	ENFERMEDAD 3648 3691	ventrículo izquierdo con aumento del grosor
+T116	ENFERMEDAD 7739 7775	actividad inflamatoria posoperatoria

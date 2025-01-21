@@ -1,0 +1,7 @@
+T1	ENFERMEDAD 58 76	uveítis intermedia
+T3	ENFERMEDAD 144 198	edema macular quístico (EMQ) persistente en ambos ojos
+T4	ENFERMEDAD 168 171	EMQ
+T7	ENFERMEDAD 414 417	EMQ
+T10	ENFERMEDAD 702 737	cataratas subcapsulares posteriores
+#1	AnnotatorNotes T4	   EMQ: edema macular quístico
+#2	AnnotatorNotes T7	   EMQ: edema macular quístico

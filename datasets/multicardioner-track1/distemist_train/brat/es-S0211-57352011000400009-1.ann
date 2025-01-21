@@ -1,0 +1,22 @@
+T2	ENFERMEDAD 753 756	HTA
+T5	ENFERMEDAD 4212 4304	hiponatremia grave hipotónica sintomática secundaria a tratamiento tiazídico asociado a ISRS
+T6	ENFERMEDAD 773 794	Cardiopatía isquémica
+T7	ENFERMEDAD 1273 1285	hiponatremia
+T10	ENFERMEDAD 796 799	IAM
+T13	ENFERMEDAD 810 833	Arteriopatía periférica
+T14	ENFERMEDAD 3094 3102	ansiedad
+T22	ENFERMEDAD 871 882	Prostatismo
+T35	ENFERMEDAD 908 922	Hipotiroidismo
+T36	ENFERMEDAD 4674 4690	cuadro depresivo
+T41	ENFERMEDAD 951 988	Síndrome depresivo de larga evolución
+T55	ENFERMEDAD 1558 1582	sintomatología depresiva
+T61	ENFERMEDAD 2487 2511	sintomatología depresiva
+T68	ENFERMEDAD 3962 3974	hiponatremia
+T79	ENFERMEDAD 2725 2750	atrofia cortical moderada
+T82	ENFERMEDAD 1979 1991	Hiponatremia
+T86	ENFERMEDAD 2932 2978	Hiponatremia por SIADH secundario a citalopram
+T90	ENFERMEDAD 2677 2706	lesiones ocupantes de espacio
+T91	ENFERMEDAD 2753 2798	lesiones de sustancia blanca supratentoriales
+T1	ENFERMEDAD 4715 4723	ansiedad
+T3	ENFERMEDAD 4735 4757	temores hipocondríacos
+#1	AnnotatorNotes T5	   ISRS: Inhibidor selectivo de la recaptación de serotonina

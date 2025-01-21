@@ -1,0 +1,44 @@
+Presentamos el caso de una paciente de 62 años con astenia donde la exploración física es clave.
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Factores de riesgo cardiovascular (FRCV): exfumadora de 1 paquete al día desde hace 24 años (IPA: 38)
+Antecedentes cardiológicos: pericarditis aguda idiopática diagnosticada hace 5 años. Antecedentes médicos: insuficiencia venosa crónica, rizartrosis.
+Antecedentes quirúrgicos: intervenida de enfermedad de Dupuytren en mano izquierda. Antecedentes familiares: no relevantes
+Tratamiento domiciliario: condroitin sulfato, paracetamol a demanda.
+
+Enfermedad actual
+Paciente de 62 años con antecedentes de pericarditis aguda idiopática y derrame pericárdico leve diagnosticada hace 5 años precisando tratamiento antiinflamatorio, ha sido estudiada posteriormente por el servicio de medicina interna por síndrome constitucional sin encontrar causa aparente.
+Es derivada a consulta ambulatoria de cardiología por clínica de disnea y astenia de moderados esfuerzos (clase funcional II/IV de la NYHA) junto con episodios de mareos y presíncopes con el esfuerzo, lo cual limita su vida diaria. No refiere clínica de ortopnea, no disnea paroxística nocturna (DPN), no oliguria, niega dolor torácico ni episodios sincopales.
+
+Exploración física
+
+En consulta:
+Normohidratada y normocoloreada. Afebril. Eupneica. TA 130/70. FC 65. Saturación basal de oxígeno: 95%. Presión venosa yugular (PVY) elevada hasta ángulo mandibular con signo de Kussmaul presente.
+Auscultación cardiaca: ruidos cardiacos rítmicos con knock protodiastólico evidente. Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos Abdomen: blando, depresible, ligera hepatomegalia no dolorosa.
+MMII: pulsos presentes a todos los niveles. Sin edema
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): ritmo sinusal a 65 lpm. PR 160ms. QRS estrecho. Eje 50o.Onda T negativa asimétrica en cara inferior y lateral, sugestiva de sobrecarga ventricular izquierda. QTc dentro de límites normales.
+Radiografía de tórax: índice cardiotorácico en el límite alto de la normalidad. Cono de la arteria pulmonar prominente. No datos de redistribución vascular. Ligera calcificación del cayado aórtico. Pinzamiento de ambos senos costodiafragmáticos posteriores. Sin calcificación pericárdica. Cifosis dorsal.
+Analítica sanguínea:
+Hemograma: 7900 leucocitos/mm3 (fórmula leucocitaria normal), hemoglobina 12,5/dl, hematocrito 36,9%, plaquetas 150.000/mm .
+Coagulación: INR 1,08, actividad de protrombina 88%.
+Bioquímica: creatinina 0,82 mg/dl (índice de filtrado glomerular 65 ml/min/)m, urea 46 mg/dl, iones normales. NT-proBNP 540pg/ml. Hb1AC 5,8%, perfil tiroideo y niveles de colesterol dentro de los límites normales.
+Ecocardiograma transtorácico: ventrículo izquierdo de tamaño normal, no hipertrófico con función sistólica conservada (62% por Simpson biplano) sin anomalías segmentarias de la contractilidad. Función diastólica normal. Ventrículo derecho de tamaño normal, con morfología tubular que sugiere anclamiento pericárdico. Movimiento serpenteante del tabique interauricular con muesca protodiastólica en modo M. Regurgitación tricuspídea ligera sin otras valvulopatías. Descenso de la velocidad de la onda E mitral con la inspiración.
+Vena cava inferior dilatada con ausencia de variabilidad respiratoria; venas suprahepáticas dilatadas onda D retrógrada en modo Doppler pulsado que aumenta con la inspiración. Pericardio aparentemente normal sin objetivarse derrame pericárdico. Sin datos indirectos de hipertensión pulmonar por estudio ecocardiográfico.
+Resonancia Magnética cardiaca: ventrículo izquierdo (VI) de tamaño normal con FEVI conservada (60%). Ventrículo derecho (VD) de tamaño y funciones normales. Cámaras auriculares de tamaño normal. Engrosamiento focal pericárdico con espesor máximo de 6,5 mm a nivel de pared lateral de VD en el surco auriculoventricular (AV). Vena cava inferior (VCI) prominente con dilatación de venas suprahepáticas. Sin captación patológica de gadolinio en las secuencias de realce tardío. Sin derrame pericárdico.
+Cateterismo cardiaco izquierdo: arterias coronarias sin estenosis angiográficamente significativas.
+Cateterismo cardiaco derecho: gasto cardiaco 4,96 l/min; IC 3,2 l/min. Resistencias pulmonares arteriales (1,21 unidades Wood). AD 15 mmHg con seno "y" profundo. Equiparación de presiones telediastólicas en ambos ventrículos con fenómeno de interdependencia ventricular con la inspiración. PAP 34/24/15 mmHg. Presión capilar pulmonar (PCP) 18 mmHg.
+Ventriculografía: VI de tamaño normal (VTD 55 ml/m2; VTS 20 ml/m2.) FE 64%. No se objetiva regurgitación mitral.
+
+EVOLUCIÓN CLÍNICA
+Tras la evaluación inicial en consulta se solicitó una analítica sanguínea con parámetros dentro de la normalidad, incluyendo un valor de NT-proBNP de 540 pg/ml, (dentro de los límites normales para edad) y un ecocardiograma donde se evidenciaron datos compatibles con pericarditis constrictiva que justificaría la clínica de astenia de la paciente.
+Así mismo, se solicitó una resonancia magnética cardiaca donde se evidenció un engrosamiento focal del pericardio a nivel del VD en el surco AV, lo cual provocaba una fisiología constrictiva hemodinámicamente significativa que podría explicar la clínica de presíncopes y bajo gasto con el esfuerzo que presentaba nuestra paciente.
+Previo a presentar el caso en sesión médico-quirúrgica se solicitó un estudio hemodinámico izquierdo que mostró arterias coronarias sin estenosis significativas y un cateterismo cardiaco derecho que confirmó el diagnóstico de fisiología constrictiva.
+Se presentó el caso conjuntamente con el servicio de cirugía cardiaca siendo aceptada para cirugía, realizándose la intervención 2 meses después. Intraoperatoriamente presentaba adherencias pericárdicas graves con un engrosamiento pericárdico severo a nivel de la cara lateral de VD, extendiéndose hacia línea intercava y cara lateral de VI sin calcificación pericárdica, realizándose pericardiectomía interfrénica, confirmándose por anatomía patológica el engrosamiento fibroso del pericardio con intensa inflamación crónica. Tras la intervención la paciente no refiere ni astenia ni los episodios presincopales que presentaba previamente, y se encontraba en clase funcional I/IV de la NYHA.
+
+DIAGNÓSTICO
+Pericarditis constrictiva focal con repercusión hemodinámica. Función biventricular conservada.
+Pericardiectomía interfrénica exitosa.

@@ -1,0 +1,29 @@
+T31	ENFERMEDAD 71 106	reacciones alérgicas medicamentosas
+T32	ENFERMEDAD 118 141	Hábito tabáquico activo
+T33	ENFERMEDAD 143 159	Obesidad mórbida
+T34	ENFERMEDAD 198 219	Hipertensión arterial
+T35	ENFERMEDAD 221 238	Diabetes mellitus
+T36	ENFERMEDAD 274 284	Dislipemia
+T37	ENFERMEDAD 286 310	Enfermedad renal crónica
+T38	ENFERMEDAD 323 352	Cardiopatía isquémica crónica
+T39	ENFERMEDAD 354 374	lesión de tres vasos
+T40	ENFERMEDAD 589 617	Oclusión total crónica de DA
+T41	ENFERMEDAD 650 704	síndrome coronario agudo sin elevación del segmento ST
+T42	ENFERMEDAD 706 713	SCASEST
+T43	ENFERMEDAD 1328 1357	cardiopatía isquémica crónica
+T44	ENFERMEDAD 4146 4184	Hipertrofia ventricular izquierda leve
+T45	ENFERMEDAD 4239 4252	valvulopatías
+T46	ENFERMEDAD 5001 5006	obeso
+T47	ENFERMEDAD 5360 5376	hábito tabáquico
+T48	ENFERMEDAD 5447 5476	SCASEST tipo angina inestable
+T49	ENFERMEDAD 5636 5696	Oclusión total crónica de arteria descendente anterior media
+T50	ENFERMEDAD 5698 5736	Cardiopatía isquémica crónica compleja
+T51	ENFERMEDAD 5793 5817	Diabetes mellitus tipo 2
+T52	ENFERMEDAD 3199 3255	TCI con una placa leve calcificada en el segmento distal
+T53	ENFERMEDAD 3264 3322	DA calcificada con una oclusión total en el segmento medio
+T54	ENFERMEDAD 5478 5522	Lesión significativa de 70% en la primera OM
+T55	ENFERMEDAD 4497 4534	lesión significativa en la primera OM
+T20	ENFERMEDAD 508 566	bypass de safena a descendente anterior (DA), con oclusión
+T97	ENFERMEDAD 3555 3592	ramo marginal obtuso tiene una lesión
+T104	ENFERMEDAD 3956 3979	suboclusión del ramo PL
+T106	ENFERMEDAD 3710 3798	CD dominante de buen calibre y desarrollo con una placa moderada en el segmento proximal

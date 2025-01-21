@@ -1,0 +1,48 @@
+Presentamos el caso de un varón de 70 años con cardiopatía isquémica y fibrilación auricular con indicación de anticoagulación.
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Sin alergias medicamentosas conocidas.
+Factores de riesgo cardiovascular: hipertensión arterial, dislipemia, exfumador desde hace 12 años (historia tabáquica 20 paquetes/año). Bebedor de dos cervezas al día y una copa de vino al día.
+
+Historia cardiológica previa:
+Cardiopatía isquémica crónica; debut como infarto agudo de miocardio en 1998.
+Enfermedad coronaria difusa multivaso. Cateterismo (4/11/2008): arteria descendente anterior ateromatosa y calcificada en segmentos proximal y medio, vaso enfermo no abordable. Arteria circunfleja con enfermedad difusa de todo el vaso con malos lechos distales. Arteria coronaria derecha ateromatosa con irregularidades.
+Fracción de eyección de ventrículo izquierdo conservada.
+Otros antecedentes médicos:
+Enfermedad pulmonar obstructiva crónica leve.
+No intervenciones quirúrgicas.
+Tratamiento actual: ácido acetilsalicílico 100 mg/24 horas, nitroglicerina en parche 15 mg/24 horas, carvedilol 25 mg/12 horas, ivabradina 5 mg/12 horas, candesartán 4 mg/24 horas, rosuvastatina 20 mg/24 horas, ezetimiba 10 mg/24 horas, tiotropio y budesonida inhalados.
+
+Enfermedad actual
+Varón de 70 años con episodios de angor de esfuerzo desde hace un año. Al subir cuestas o acelerar el paso presenta molestia opresiva a nivel de hemitórax izquierdo que en ocasiones se irradia a parte interna del brazo, autolimitándose en 5-10 minutos tras el cese de la actividad.
+Además asocia dolor torácico manteniendo relaciones sexuales. Sin episodios en reposo.
+
+
+Exploración física
+Buen estado general. Consciente, orientado y colaborador. Normocoloreado. Tensión arterial (TA) 130/71 mmHg. Frecuencia cardiaca (FC) 75 lpm. No semiología de insuficiencia cardiaca.
+Auscultación cardiopulmonar: corazón arrítmico, sin soplos. Murmullo vesicular conservado sin ruidos patológicos sobreañadidos.
+Miembros inferiores: no edemas, ni fóvea. No datos de trombosis venosa profunda.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma: fibrilación auricular a 90 lpm. QRS estrecho, eje normal. Sin alteraciones de la repolarización.
+Radiografía de tórax: índice cardiotorácico normal. Senos costofrénicos libres. Sin imágenes de condensación pulmonar.
+Analítica: creatinina 0,8 mg/dl. Hemoglobina 15,4 g/dl. Troponina T ultrasensible 17 ng/l (normal < 14 ng/l).
+Ecocardiograma: raíz aórtica normal, válvula aórtica trivalva con apertura y cierre conservados. Aurícula izquierda no dilatada. Válvula mitral normal. Ventrículo izquierdo de tamaño normal, con grosor miocárdico normal. Función sistólica global y segmentaria normales.
+Llenado ventricular con patrón monofásico. Cavidades derechas normales. Ausencia de derrame pericárdico. Vena cava inferior no dilatada.
+Ergometría pronóstica, en cinta sin fin, protocolo de Bruce, bajo tratamiento betabloqueante: clínicamente negativa. Eléctricamente positiva con descenso del ST finalizando la etapa 2, por descenso del ST en V3-V6 de 1 mm acentuándose descenso en la recuperación hasta 3 mm.
+Recuperación lenta, persistiendo a los 6 minutos descenso de 2 mm en V3 (descenso V2-V6).
+Tiempo de ejercicio 6:06 minutos, limitado por cansancio en las piernas. Capacidad funcional: 7,2 METS. Respuesta tensional normal. Respuesta de FC atenuada por betabloqueantes.
+Recuperación de FC normal. Alcanzó el 86 % de la frecuencia cardiaca máxima. Todo el trazado en fibrilación auricular.
+Ecocardiograma posesfuerzo inmediato: hipercontractilidad fisiológica con aquinesia apical.
+Coronariografía diagnóstica y terapéutica: acceso radial derecho. Dominancia izquierda. Tronco común izquierdo prácticamente inexistente lo que origina 2 ostium independientes de arteria descendente anterior (ADA) y arteria circunfeja (ACx). ADA muy calcificada, de escaso calibre con ateromatosis difusa en todo su recorrido que origina áreas de estenosis significativa a nivel medio-distal sobre vaso de pequeño calibre, fino y enfermo. Arteria circunfleja dominante, de gran calibre y recorrido. Presenta estenosis excéntrica significativa a nivel proximal y a nivel medio. Emite una primera rama marginal de poca entidad y una segunda rama de gran calibre y recorrido donde se objetiva una estenosis corta y significativa en su segmento proximal. Arteria coronaria derecha hipodesarrollada con ateromatosis difusa.
+Intervencionismo coronario percutáneo: sobre ramo marginal de la ACx mediante angioplastia simple con balón convencional (2 mm). Sobre ACx mediante implante de dos stents farmacoactivos previa dilatación con balón convencional a nivel medio-distal (Resolute Onyx de 3 x 30 mm, posdilatado a alta presión con un balón no compliante de 3,5 mm) y proximal (Resolute Onyx de 3,5 x 22 mm a 16 atmósferas). Buen resultado angiográfico final.
+
+EVOLUCIÓN CLÍNICA
+El paciente es valorado en la unidad de dolor torácico en donde se realiza una ergometría con positividad eléctrica con alteraciones segmentarias en ecocardiografía posesfuerzo inmediato por lo que se decide ingreso hospitalario para llevar a cabo una coronariografía. Además se objetiva en electrocardiograma una fibrilación auricular de cronología incierta con respuesta ventricular controlada. Tras objetivar en la coronariografía lesiones coronarias abordables, dado que el paciente presenta angina pese a tratamiento antianginoso óptimo e isquemia inducible en prueba de detección de isquemia no invasiva, se realiza intervencionismo percutáneo sobre el ramo marginal y sobre la arteria circunfleja proximal y media con el fin de mejorar la sintomatología.
+Al alta, el paciente precisa anticoagulación (fibrilación auricular con CHA2DS2-VASc 3 puntos) y antiagregación (revascularización coronaria) por lo que teniendo en cuenta que el riesgo hemorrágico es alto (HAS-BLED 4 puntos) y supera al riesgo isquémico, se decide estrategia PIONEER siendo dado de alta con clopidogrel 75 mg/24 horas y rivaroxabán 15 mg/24 horas (incluyendo la primera semana ácido acetilsalicílico 100 mg/24 horas). El clopidogrel, si no existen incidencias, será retirado a los 6 meses, para continuar con rivaroxabán a dosis de 20 mg al día si el filtrado glomerular renal se mantiene por encima de 50 ml/min.
+
+DIAGNÓSTICO
+Cardiopatía isquémica crónica con enfermedad coronaria multivaso y angor de esfuerzo pese a tratamiento médico. Función sistólica de VI conservada. Revascularización percutánea de arteria circunfleja y ramo marginal.
+Fibrilación auricular de cronología incierta (CHA2DS2-VASc 3 puntos; HAS-BLED 4 puntos).

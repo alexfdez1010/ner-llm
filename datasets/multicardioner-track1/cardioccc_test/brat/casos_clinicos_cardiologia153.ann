@@ -1,0 +1,40 @@
+T12	ENFERMEDAD 1717 1749	acidosis respiratoria compensada
+T20	ENFERMEDAD 74 95	hipertensión arterial
+T21	ENFERMEDAD 98 108	dislipemia
+T22	ENFERMEDAD 287 320	parálisis facial inferior derecha
+T23	ENFERMEDAD 578 613	hemorragia frontoparietal izquierda
+T25	ENFERMEDAD 1148 1180	síndrome de platipnea-ortodeoxia
+T26	ENFERMEDAD 1240 1307	válvula tricúspide con desplazamiento atrial e insuficiencia severa
+T28	ENFERMEDAD 1323 1344	enfermedad de Ebstein
+T29	ENFERMEDAD 1368 1468	comunicación interauricular tipo ostium secundum (CIA-OS) en septo posterior con shunt bidireccional
+T30	ENFERMEDAD 1494 1505	cardiopatía
+T31	ENFERMEDAD 1621 1646	sangrado cerebral extenso
+T33	ENFERMEDAD 1899 1932	hematoma frontoparietal izquierdo
+T34	ENFERMEDAD 1943 1967	hemorragia subaracnoidea
+T36	ENFERMEDAD 2485 2500	Derrame pleural
+T37	ENFERMEDAD 2530 2589	TEP derecho con infarto pulmonar extenso en lóbulo inferior
+T38	ENFERMEDAD 3301 3339	tromboembolismo pulmonar (TEP) derecho
+T39	ENFERMEDAD 3327 3330	TEP
+T40	ENFERMEDAD 3456 3473	sangrado cerebral
+T41	ENFERMEDAD 3496 3499	TEP
+T42	ENFERMEDAD 3662 3682	sangrados cerebrales
+T43	ENFERMEDAD 3816 3823	embolia
+T44	ENFERMEDAD 3834 3837	ACV
+T45	ENFERMEDAD 3840 3843	TEP
+T46	ENFERMEDAD 4023 4084	Ictus frontoparietal izquierdo con transformación hemorrágica
+T47	ENFERMEDAD 4087 4105	TEP cardioembólico
+T48	ENFERMEDAD 4108 4127	Anomalía de Ebstein
+T49	ENFERMEDAD 2278 2379	Comunicación interauricular (CIA) ostium secundum en septo posterior de 15 mm con shunt bidireccional
+T50	ENFERMEDAD 3751 3757	CIA-OS
+T51	ENFERMEDAD 3912 3915	CIA
+T52	ENFERMEDAD 4130 4173	CIA ostium secundum con shunt bidireccional
+T53	ENFERMEDAD 3737 3746	IT severa
+T54	ENFERMEDAD 2437 2483	cardiomegalia a expensas de cavidades derechas
+T55	ENFERMEDAD 1418 1424	CIA-OS
+T56	ENFERMEDAD 1814 1837	bloqueo de rama derecha
+T57	ENFERMEDAD 2090 2127	severa dilatación de aurícula derecha
+T58	ENFERMEDAD 2307 2310	CIA
+T59	ENFERMEDAD 3692 3716	complicaciones embólicas
+T85	ENFERMEDAD 626 650	hemorragia subaracnoidea
+T101	ENFERMEDAD 3227 3245	patología pulmonar
+T27	ENFERMEDAD 3332 3360	derecho con infarto pulmonar

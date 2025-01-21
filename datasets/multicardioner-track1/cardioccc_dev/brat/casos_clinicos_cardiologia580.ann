@@ -1,0 +1,28 @@
+T81	ENFERMEDAD 126 160	reacciones adversas medicamentosas
+T82	ENFERMEDAD 178 186	fumadora
+T83	ENFERMEDAD 191 209	consumo de alcohol
+T84	ENFERMEDAD 282 293	cardiopatía
+T85	ENFERMEDAD 309 330	Hipertensión arterial
+T86	ENFERMEDAD 429 439	Dislipemia
+T87	ENFERMEDAD 902 923	hipertensión arterial
+T88	ENFERMEDAD 1929 1944	derrame pleural
+T89	ENFERMEDAD 2448 2461	valvulopatías
+T90	ENFERMEDAD 2490 2509	derrame pericárdico
+T91	ENFERMEDAD 2736 2766	disección coronaria espontánea
+T92	ENFERMEDAD 3999 4033	oclusión en segmento distal-apical
+T93	ENFERMEDAD 4143 4158	daño miocárdico
+T94	ENFERMEDAD 4408 4429	edema agudo de pulmón
+T95	ENFERMEDAD 4725 4783	disección a nivel proximal, con oclusión completa del vaso
+T96	ENFERMEDAD 4897 4902	shock
+T97	ENFERMEDAD 5814 5819	shock
+T98	ENFERMEDAD 5985 6020	dilatación del ventrículo izquierdo
+T100	ENFERMEDAD 6351 6373	insuficiencia cardiaca
+T101	ENFERMEDAD 6536 6586	Disección coronaria espontánea asociada a embarazo
+T102	ENFERMEDAD 6588 6642	Síndrome coronario agudo sin elevación del segmento ST
+T103	ENFERMEDAD 6644 6651	SCASEST
+T104	ENFERMEDAD 6654 6708	Síndrome coronario agudo con elevación del segmento ST
+T105	ENFERMEDAD 6710 6717	SCACEST
+T35	ENFERMEDAD 5091 5130	disección en tronco coronario izquierdo
+T79	ENFERMEDAD 6179 6237	necrosis transmural de 4 segmentos del territorio de la DA
+T108	ENFERMEDAD 2541 2560	restos placentarios
+T111	ENFERMEDAD 3686 3738	disección, con empeoramiento de la luz de la arteria

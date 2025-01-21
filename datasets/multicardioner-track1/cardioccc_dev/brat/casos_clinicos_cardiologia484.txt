@@ -1,0 +1,40 @@
+Mujer de 54 años. Acude a consulta de Miocardiopatías Hereditarias para estudio genético por historia familiar.
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+FRCV: historia familiar de muerte súbita precoz, bloqueo aurículo-ventricular BAV completo precoz y miocardiopatía dilatada. No hipertensión arterial, diabetes mellitus ni dislipemias conocidas.
+Sin historia cardiológica previa.
+No otros antecedentes de interés.
+No medicación domiciliaria.
+
+Antecedentes familiares:
+Hermano de 63 años (caso índice): fibrilación auricular (FA) y BAV completo con implante de marcapasos a los 50 años. MCD (FEVI 34 %) con coronariografía normal. TVS monomorfa y síncope con implante de DAI a los 57 años.
+Hermano de 59 años con BAV completo e implante de marcapasos a los 49 años. ETT normal.
+Hermano de 55 años con BAV completo e implante de marcapasos a los 50 años. ETT este año con FEVI 30-35 %. Dilatación leve-moderada de ventrículo izquiero (VI).
+Todos ellos presentan la mutación LMNA p332fs.
+Dos tíos maternos, madre y hermano fallecieron de muerte súbita antes de los 55 años.
+
+Enfermedad actual
+Acude a consulta para screening de mutación en LMNA p332fs. Asintomática. Astenia en el último año que no le ha impedido llevar una vida normal. Tras hallazgo en ECG de BAV completo se decide ingreso.
+
+Exploración física
+Afebril. FC 50 lpm. TA 143/83 mmHg. SatO2 99 %. AC: RsCsRs con soplo sistólico mitral II/VI. AP: MVC. Abdomen anodino. EEII sin edemas.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: FA a 37 lpm con BAV completo paroxístico.
+Ecocardiografía transtorácica: dilatación leve de VI. Función sistólica levemente deprimida (FEVI 45 %). IM funcional leve-moderada.
+Telemetría: FA lenta asintomática con rachas autolimitadas de BAV completo con escape nodal de QRS estrecho y sin pausas ni TV.
+Hemograma y coagulación: normales. Bioquímica: CK normal y NT-proBNP 1238 pg/ml.
+Estudio genético: portadora de la mutación LMNA p332fs.
+
+EVOLUCIÓN
+Durante la hospitalización en telemetría se objetiva FA lenta asintomática con rachas autolimitadas de BAV completo con escape nodal de QRS estrecho y sin pausas, permaneciendo asintomática.
+El problema que se nos plantea es tomar una decisión sobre el dispositivo que deberíamos implantar a esta paciente (marcapasos convencional, DAI, DAI-TRC) y además, continuar el estudio familiar de screening para la mutación.
+Finalmente, se decide implante de DAI-TRC, de acuerdo con la evidencia científica disponible (ver discusión).
+
+DIAGNÓSTICO
+Fibrilación auricular lenta con rachas de bloqueo aurículo-ventricular completo.
+Miocardiopatía (MCP) dilatada familiar con vi levente dilatado con disfunción sistólica leve-moderada (FEVI 45 %).
+Portadora de mutación en LMNA p 332fs.
+Historia familiar amplia de muerte súbita, BAV completo y miocardiopatía dilatada.

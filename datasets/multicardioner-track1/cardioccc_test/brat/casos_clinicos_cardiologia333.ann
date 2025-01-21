@@ -1,0 +1,33 @@
+T42	ENFERMEDAD 147 170	alergias medicamentosas
+T43	ENFERMEDAD 175 190	hábitos tóxicos
+T44	ENFERMEDAD 265 281	Migraña con aura
+T45	ENFERMEDAD 934 957	fibrilación ventricular
+T46	ENFERMEDAD 2486 2501	derrame pleural
+T47	ENFERMEDAD 2748 2761	valvulopatías
+T48	ENFERMEDAD 2844 2869	insuficiencia tricuspídea
+T49	ENFERMEDAD 2871 2873	IT
+T50	ENFERMEDAD 2968 2989	hipertensión pulmonar
+T51	ENFERMEDAD 2991 2994	HTP
+T52	ENFERMEDAD 3113 3125	ateromatosis
+T53	ENFERMEDAD 3127 3204	Origen anómalo de trono coronario izquierdo (TCI) en seno de Valsalva derecho
+T54	ENFERMEDAD 3366 3396	trayecto interarterial del TCI
+T55	ENFERMEDAD 3717 3783	Origen de la arteria coronaria derecha en seno de Valsalva derecho
+T56	ENFERMEDAD 3812 3880	origen de la arteria coronaria izquierda en seno de Valsalva derecho
+T57	ENFERMEDAD 4166 4175	arritmias
+T58	ENFERMEDAD 4711 4748	parada cardiorrespiratoria recuperada
+T59	ENFERMEDAD 4752 4775	fibrilación ventricular
+T60	ENFERMEDAD 5049 5073	tromboembolismo pulmonar
+T61	ENFERMEDAD 5075 5078	TEP
+T62	ENFERMEDAD 5091 5103	flap aórtico
+T63	ENFERMEDAD 5110 5129	derrame pericárdico
+T64	ENFERMEDAD 5174 5184	neumotórax
+T65	ENFERMEDAD 5348 5385	evento hemorrágico ni isquémico agudo
+T66	ENFERMEDAD 5561 5635	origen anómalo de tronco común izquierdo (TCI) en seno de Valsalva derecho
+T68	ENFERMEDAD 5969 6018	origen anómalo de TCI en seno de Valsalva derecho
+T69	ENFERMEDAD 6577 6585	isquemia
+T70	ENFERMEDAD 6655 6678	fibrilación ventricular
+T71	ENFERMEDAD 6680 6760	Origen anómalo del tronco de la coronaria izquierda del seno de Valsalva derecho
+T72	ENFERMEDAD 6600 6626	Parada cardiorrespiratoria
+T73	ENFERMEDAD 4046 4051	angor
+T75	ENFERMEDAD 5776 5794	eventos arrítmicos
+T76	ENFERMEDAD 3502 3544	TCI con origen en seno de Valsalva derecho

@@ -1,0 +1,52 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Se trata de una mujer de 73 años, con hipertensión arterial como factor de riesgo cardiovascular. Valorada por cardiología en un centro privado por prolapso mitral, con función ventricular normal y asintomática durante el seguimiento. Su principal comorbilidad es oncológica, con antecedente de un adenocarcinoma moderadamente diferenciado de colon descendente estadio II (pT3 pN0 cM0), que debutó con obstrucción intestinal en 2014, tratado inicialmente con colectomía total en agosto de 2014, seguido de quimioterapia adyuvante con esquema de Gramont con 5-fluorouracilo (5-FU) x 12 ciclos (fecha último ciclo: febrero 2015). En TAC de diciembre 2015 se objetivaron lesiones pulmonares milimétricas, que se observaron hasta que se confirmó su crecimiento por PET en junio de 2016, por lo que inicia primera línea de quimioterapia con esquema FOLFOX (oxaliplatino, 5-fluorouracilo y ácido folínico), suspendiéndose oxaliplatino tras 7 ciclos por neurotoxicidad. Se mantuvo con 5-fluorouracilo hasta la fecha, consiguiendo con ello estabilización de la enfermedad
+
+Enfermedad actual
+Mientras la paciente se encontraba en el supermercado, presenta pérdida de conocimiento aparentemente brusca, objetivándose parada cardiorrespiratoria, se iniciaron inmediatamente maniobras de reanimación cardiopulmonar (RCP) básica por parte de personal sanitario que se encontraba presente. El desfibrilador semiautomático externo (DESA) detecta ritmo desfibrilable y se administran 2 choques, con recuperación de pulso y consciencia, no requiriendo intubación orotraqueal. En el electrocardiograma (ECG) de salida se objetiva bloqueo completo de rama derecha, sin datos de isquemia aguda. Es trasladada por los servicios de urgencias extrahospitalarias a nuestro centro, al que llega hemodinámicamente estable, consciente y orientada. A la anamnesis inicial la paciente refiere episodios recortados (2 minutos) de dolor torácico en los días previos, en reposo, sin otra sintomatología asociada.
+
+Exploración física
+Pensión arterial (PA) 115/70 mmHg, frecuencia cardiaca (FC) 74 lpm. Buen estado general, consciente y orientada, eupneica en reposo. Normoperfundida. Auscultación cardiaca: rítmica, no soplos ni extratonos. Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos. Miembros inferiores: sin edemas.
+
+PRUEBAS COMPLEMENTARIAS
+EGC: ritmo sinusal a 80lpm. PR normal. QRS 120 mseg con morfología de BCRDHH. Sin alteraciones significativas de la repolarización.
+Analítica de sangre (al ingreso): hemograma normal. Coagulación normal salvo Dímero D 4477 ng/ml. Gasometría arterial: pH 7.38, pCO2 35 mmHg, bicarbonato 21 mEq/l, lactato 4,2 mmol/l.
+En la bioquímica función renal normal, sin alteraciones iónicas y con reactantes de fase aguda negativos.
+Marcadores cardiacos: evolución de troponina I ultrasensible 7.7 - 174 - 40 ng/ml, con CK normal. Nt-proBNP 457 pg/ml.
+Radiografía de tórax al ingreso: índice cardiotorácico normal, no datos de insuficiencia cardiaca.
+Radiografía de tórax de control tras implante DAI: desfibrilador subcutánea con electrodo a nivel preesternal. Mínimo enfisema subcutáneo. Reservorio subcutáneo con terminal en la confluencia de los troncos venosos braquiocefálicos.
+Coronariografía urgente: acceso por arteria radial derecha. 177 cc de contraste. Tronco coronario izquierdo sin lesiones. Descendente anterior de escaso calibre y desarrollo con lesión no significativa en porción distal (corresponde a tercio medio de trayecto teórico) con imagen deslustrada y con vaso distal de escaso desarrollo y calibre. Anomalía coronaria con porción media y distal de descendente anterior con salida desde seno coronario derecho, próxima a salida de coronaria derecha. Circunfleja y coronaria derecha sin lesiones.
+Ecocardiograma reglado: ventrículo izquierdo no dilatado, con espesores parietales normales.
+Función sistólica global normal (FEVI 60-65%), hipoquinesia de septo inferior y cara inferior.
+Patrón de llenado transmitral de alteración de la relajación. Relación E/e' 6. Aurícula izquierda no dilatada. Aurícula derecha no dilatada. Ventrículo derecho no dilatado, con función sistólica global normal. Válvula mitral con calcio en anillo y velos. Sin estenosis. Ligera insuficiencia.
+Válvula aórtica morfológica y funcionalmente normal. Válvula tricúspide morfológicamente normal. Ligera insuficiencia. Presión sistólica de arterial pulmonar no estimable. Vena cava inferior no dilatada con colapso inspiratorio fisiológico. No derrame pericárdico. Grasa epicárdica. Raíz aórtica no dilatada.
+Resonancia magnética cardiaca: estudio dentro de límites normales. No se observan zonas de inflamación miocárdica ni escaras isquémicas. Tamaño y función sistólica biventricular dentro de límites normales.
+TAC arterias coronarias: cuantificación de calcio (Agatston) 410 (percentil 80 para edad, sexo y raza). TC angiografía: ateromatosis coronaria extensa. Descendente anterior que se agota a nivel proximal-medio del surco IV anterior. Vaso ectópico con origen en el seno derecho que discurre anterior al TAP que alcanza el surco IV a nivel medio. Tiene una estenosis concéntrica en su origen de un 30%.
+
+Valoración por oncología médica: a falta de más información, impresiona de que las metástasis pulmonares presentan un comportamiento indolente, con estabilización de larga duración, por lo que ante esta complicación y ante la sospecha actual, se podría plantear incluso realizar un descanso terapéutico. En caso contrario o a la progresión, existen alterativas al 5-fluorouracilo no cardiotóxicas (raltitrexed, irinotecán). Quedará a criterio de su oncólogo habitual la elección del tratamiento más idóneo en función de la situación clínica al alta.
+Electrofisiología: se realiza incisión de 6 cm en región axilar media izquierda y se hace disección hasta plano muscular, se realiza divulsión del músculo serrato anterior formando el bolsillo para el generador; se realiza tunelización desde línea axilar media izquierda hasta región paraesternal izquierda donde se realiza una incisión de 3 cm a nivel de sexto espacio intercostal (EIC) y desde esta última se tuneliza hasta el segundo EIC (para-esternal izquierdo). Se fija electrodo a nivel de sexto EIC paraesternal izquierdo y se conecta a generador; el cual se fija a plano muscular; se cierra por planos. Se concluye procedimiento sin complicaciones. Se realiza inducción de fibrilación ventricular (FV) en tres oportunidades la cual cardiovierte a ritmo sinusal de manera espontánea por lo que se realiza una descarga 10 J para medir la impedancia del circuito la cual es normal (75 Ohm); se evalúa al final del procedimiento la posición radiológica siendo adecuada y estimándose una baja probabilidad de fracaso de desfibrilación (PRAETORIAN SCORE). Se programa zona condicional a 220 lpm y zona de FV a 250 lpm (5 terapias de 80 J).
+Estimulación posdescarga encendida. Impedancia de descarga en rangos de normalidad. Filtro Smart Pass encendido. Vector escogido el primario x 1.
+
+EVOLUCIÓN CLÍNICA
+La paciente llega a nuestro centro hemodinámicamente estable, sin dolor torácico ni datos de insuficiencia cardiaca, sin alteraciones iónicas ni de otra índole. En el ecocardiograma transtorácico, el tamaño y la función biventricular eran normales, sin alteraciones significativas.
+Se decidió realizar coronariografía emergente, la cual mostraba la anomalía en la descendente anterior (DA) descrita, sin imágenes sugestivas de enfermedad significativa. Analíticamente destacaba mínima elevación de marcadores de daño miocárdico en la seriación, con pico en 140 de troponina I ultransensible.
+Una vez realizado el estudio inicial, las etiologías de la parada que se barajaban eran tres:
+Anomalía coronaria, si bien en la coronariografía no impresionaba de trayecto inter o intraarterial de la DA.
+Síndrome coronario agudo por rotura de placa en DA distal, siendo poco probable esta entidad.
+Vasoespasmo secundario a tratamiento con 5-fluorouracilo sobre placa previa.
+Con estas opciones, se decide realizar en primer lugar TC coronario, que descarta trayecto intraarterial de la descendente anterior. El estudio prosiguió con una resonancia cardiaca como estudio del miocardio, sin evidencia de cardiopatía estructural ni de lesiones isquémicas.
+Durante el ingreso se mantuvo con monitorización cardiaca, sin presentar eventos arrítmicos.
+Llegados a este punto, descartadas el resto de las etiologías, la primera posibilidad diagnóstica fue vasoespasmo por 5-fluorouracilo, no obstante, al no poder ser confirmada fehacientemente, se presentó en sesión médico-quirúrgica interdisciplinar (cardiología clínica e intervencionista, cirugía cardiaca y oncología médica), en el que se considero indicado el implante de un dispositivo de DAI en prevención secundaria, siendo de elección el DAI subcutáneo, ya que era portadora de un reservorio venoso central de uso activo.
+
+El procedimiento se realizó sin complicaciones periprocedimiento. Sin embargo, en las 12 horas siguientes en planta, presenta dos descargas inapropiadas, valoradas por electrofisiología y técnicos de la casa comercial, impresionaban de interferencia por aire retroesternal visualizado en la primera radiografía de control tras el procedimiento. Tras dos días de monitorización, se realiza una nueva radiografía que mostraba reabsorción del enfisema subcutáneo, sin que se repetirán nuevas descargas tras 48 horas de observación. Ante buena evolución, se procede a alta hospitalaria con seguimiento en consultas monográficas de cardio-oncología.
+En el seguimiento, se prohibió nuevas administraciones de 5-fluouracilo, sustituyéndose por un nuevo agente quimioterápico, evolucionando favorablemente tanto desde el punto de vista cardiológico como oncológico. No ha presentado nuevas descargas desde el alta.
+
+DIAGNÓSTICO
+Parada cardiorrespiratoria extrahospitalaria con reanimación cardiopulmonar (RCP) inmediata recuperada en segundo choque.
+Posible vasoespasmo por fluoropirimidinas.
+Implante de DAI subcutáneo en prevención secundaria. Descarga inapropiada por interferencia de aire.
+Descendente anterior con porción media y distal con salida de seno coronario derecho.
+Función biventricular normal.
+Adenocarcinoma de colon intervenido en control con quimioterapia con 5-FU.
+Hipertensión arterial.

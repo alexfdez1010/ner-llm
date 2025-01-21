@@ -1,0 +1,12 @@
+T3	ENFERMEDAD 250 269	artrosis mandibular
+T7	ENFERMEDAD 646 667	hipertensión arterial
+T8	ENFERMEDAD 688 707	hipercolesterolemia
+T18	ENFERMEDAD 1626 1686	artrosis leve en la articulación temporomandibular izquierda
+T19	ENFERMEDAD 1828 1849	cardiopatía isquémica
+T28	ENFERMEDAD 2430 2467	lesión severa en dos vasos coronarios
+T30	ENFERMEDAD 2557 2572	angor inestable
+T31	ENFERMEDAD 2590 2627	lesión severa de dos vasos coronarios
+T32	ENFERMEDAD 2630 2663	doble lesión aórtica degenerativa
+T1	ENFERMEDAD 454 484	desórdenes temporomandibulares
+T2	ENFERMEDAD 486 489	DTM
+#1	AnnotatorNotes T2	   DTM: desórdenes temporomandibulares

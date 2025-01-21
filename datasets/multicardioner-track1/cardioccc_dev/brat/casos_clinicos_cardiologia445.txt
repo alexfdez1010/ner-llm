@@ -1,0 +1,29 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 78 años exfumadora de 25 paquetes-año sin otros factores de riesgo cardiovascular conocidos ni historia cardiológica previa personal ni familiar, que presenta como otros antecedentes clínica de poliartralgias y fenómeno de Raynaud no estudiado, en tratamiento crónico con antiinflamatorios no esteroideos.
+Presenta clínica de insuficiencia cardiaca aguda de tres días de evolución, con ortopnea y oliguria, asociando edematización de miembros inferiores. Niega dolor torácico o fiebre, pero sí reconoce astenia y pérdida de apetito en los últimos dos meses.
+Las constantes a su llegada a urgencias revelan una tensión arterial (TA) de 158/97 mmHg y una frecuencia cardiaca (FC) de 97 lpm, saturando al 92% con Ventimask al 50% de FiO2. Afebril. La exploración física revela mal estado general con trabajo respiratorio e ingurgitación yugular, y a la auscultación cardiopulmonar no se escuchan soplos, con crepitantes hasta campos medios pulmonares. Se objetivan, además, edemas en miembros inferiores hasta tercio medio pretibial.
+Llama la atención la presencia de lesiones esclerodérmicas en ambas manos y en el tronco.
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA: glucosa 136 mg/dl; urea 130 mg/dl; creatinina 3,76 mg/dl; filtrado glomerular 10 ml/min (previo normal); ácido úrico 6,2 mg/dl; fosfatasa alcalina 86 U/l; GPT 32 U/l; NT-proBNP 2745 pg/ml; proteína C reactiva 28,3 mg/dl; hemoglobina 10,5 g/dl; leucocitos 7,8 x 10000/mm3; plaquetas 117 x 10000/mm3; VSG 125 mm/h; tasa de protrombina 86%; sedimento urinario con proteinuria; gasometría basal con pH 7,34, pO2 55 mmHg, pCO2 34 mmHg.
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal a 85 lpm con bloqueo de rama izquierda del haz de His.
+RADIOGRAFÍA DE TÓRAX: estudio anteroposterior con cardiomegalia y edema agudo de pulmón.
+ECOCARDIOGRAFÍA TRANSTORÁCICA: ventrículo izquierdo (VI) no dilatado con hipertrofia concéntrica leve y patrón diastólico de relajación prolongada. FEVI 40%. Ventrículo derecho (VD) levemente dilatado con función sistólica normal. Insuficiencia mitral leve.
+Insuficiencia tricúspide leve que permite estimar un gradiente VD-AD de 42 mmHg. Derrame pericárdico moderado sin compromiso de cavidades derechas ni variación del flujo transmitral.
+TOMOGRAFÍA COMPUTARIZADA DE ALTA RESOLUCIÓN (TACAR): imágenes en vidrio deslustrado en ambos lóbulos inferiores sobre todo, que sugieren fibrosis pulmonar.
+Aumento del calibre de la arteria pulmonar (35 mm) que sugiere hipertensión pulmonar.
+CORONARIOGRAFÍA: arterias epicárdicas sin lesiones angiográficas significativas.
+
+EVOLUCIÓN CLÍNICA
+Con el diagnóstico de edema agudo de pulmón e insuficiencia renal aguda, ingresa inicialmente en la unidad de cuidados cardiológicos agudos, donde se establecen medidas de soporte respiratorio con ventilación mecánica no invasiva, con buena adaptación y consiguiendo mejoría clínica y gasométrica a las dos horas de iniciado el tratamiento. Sin embargo, se mantiene en oligoanuria pese a inicio de tratamiento diurético intravenoso, por lo que se opta finalmente por terapia de sustitución renal con hemofiltración, que facilita descarga hídrica contribuyendo a la mejoría clínica de la paciente.
+Una vez estabilizada la paciente en un primer momento, se realiza ecocardiografía transtorácica que demuestra una disfunción sistólica ventricular izquierda moderada sin asinergias francas.
+Con la presencia de un bloqueo de rama izquierdo no conocido (estudios previos sin trastornos de la conducción intraventricular), se decide estudio angiográfico coronario no demostrándose lesiones en el lecho epicárdico.
+La paciente evoluciona posteriormente de forma favorable, pudiendo prescindir del soporte ventilatorio y comenzando con sesiones de hemodiálisis ante persistencia de oligoanuria. La presencia de lesiones cutáneas esclerodérmicas, efusión pericárdica, hipertensión pulmonar en la ecocardiografía y el fracaso renal agudo, hacen sospechar una enfermedad de carácter autoinmune, por lo que se solicita estudio inmunológico que demuestra positividad para anticuerpos antitopoisomerasa I (AntiScl-70), y estudio de imagen pulmonar con TACAR que objetiva infiltrados pulmonares bibasales sugestivos de fibrosis pulmonar con signos de hipertensión pulmonar.
+Se inicia tratamiento con glucocorticoides e inhibidores de la enzima convertidora de angiotensina (IECA) y se continúa con sesiones de hemodiálisis, realizándose un control ecocardiográfico que demuestra únicamente resolución parcial del derrame pericárdico, sin otros cambios. Finalmente, ante la evolución favorable, se decide alta domiciliaria.
+
+DIAGNÓSTICO
+Edema agudo de pulmón.
+Derrame pericárdico moderado.
+Disfunción moderada de ventrículo izquierdo.
+Esclerosis sistémica difusa con crisis renal esclerodérmica.
+Enfermedad pulmonar intersticial con fibrosis e hipertensión pulmonar.

@@ -1,0 +1,44 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Sin reacción adversa de medicamento.
+Factores de riesgo cardiovasculares (FRCV): tabaquismo de 10 cig/día, dislipemia.
+Incidentaloma suprarenal en seguimiento por endocrino: catecolaminas y metanefrinas en orina negativas y cortisol normal.
+
+Historia cardiológica:
+Ingreso por síndrome de tako-tsubo en 2017. En electrocardiograma (ECG) de dicho ingreso se evidenció elevación del ST en cara inferior por lo que se activó inicialmente el código infarto, evidenciándose coronarias normales. En ventriculografía, así como en ecocardiograma se evidenció acinesia de todos los segmentos apicales con contractilidad conservada a nivel basal (fracción de eyección del ventrículo izquierdo [FEVI] por Simpson 42%), con imagen de balonización apical compatible con síndrome de tako-tsubo. Troponina T ultrasensible pico 568,4 pg/ml. Fue dada de alta con betabloqueantes (bisoprolol 2,5 mg) e inhibidor de la enzima de conversión de la angiotensina (IECA) (enalapril 2,5 mg). Cuatro meses después del alta se realizó ecocardiograma de control donde se apreció normalización completa de las alteraciones de la contractilidad y FEVI del 67%.
+Nuevo ingreso en 2018 por infarto agudo de miocardio sin elevación del segmento ST (IAMSEST). El ECG en urgencias evidenciaba ondas T prominentes en cara inferolateral.
+Elevación de troponina T Us hasta 487 pg/ml. Cateterismo con coronarias normales, con múltiples fístulas del árbol coronario izquierdo al ventrículo izquierdo. Se solicitó también resonancia magnética cardiaca (RMC) sin detectarse signos de isquemia aguda, miocarditis, ni necrosis transmural. Se decidió aumentar dosis de betabloqueante (bisoprolol a 5 mg/día) se añadió aspirina 100 mg/día y atorvastatina 40 mg/día.
+
+ENFERMEDAD ACTUAL
+Mujer de 60 años que acude a urgencias, un meses después del último ingreso, por presentar episodio de opresión centrotorácica de una hora de evolución, iniciado en reposo y acompañado de importante cortejo vegetativo en forma de sudoración profusa y náuseas. A su llegada a urgencias, aún sintomática con ligeras molestias en hemitórax izquierdo.
+Tratamiento al ingreso actual: bisoprolol 5 mg, atorvastatina 40 mg/día, ácido acetilsalicílico (AAS) 100 mg/día, hidroferol 0.266 1 cápsula al mes.
+
+EXPLORACIÓN FÍSICA
+Presión arterial (PA) 135/65 mmHg. Frecuencia cardiaca (FC) 75 lpm. SatO2 98% (FIO2 21%).
+Regular estado general, consciente y orientada, colaboradora, sin focalidad.
+Auscultación cardiaca: rítmica, no se auscultan soplos.
+Auscultación pulmonar: murmullo vesicular conservado (MVC) sin sobreagregados.
+Miembros inferiores (MMII): simétricos sin edemas, pulsos periféricos palpables.
+
+PRUEBAS COMPLEMENTARIAS
+ECG a su llegada, con dolor: ritmo nodal a 80 lpm que se adelanta a la onda P sinusal con frecuencia de unos 70 lpm. QRS estrecho, descenso del ST menor de 0,5 mm en II y avF, y de hasta 1,5 mm en V4-V6, que normaliza completamente tras cafinitrina sublingual.
+Analítica:
+Bioquímica: glucosa 162 mg/dl. Urea 42 mg/d. Creatinina 1,03 mg/dl. Sodio 139 mmol/l. Potasio 3,4 mmol/l. Proteína C Reactiva (PCR) 3,0 mg/l. Colesterol total 121 mg/dl. Triglicéridos 57 mg/dl. Colesterol HDL 43 mg/dl. Colesterol LDL calculado 78 mg/dl.
+Hemograma: leucocitos 15,88 x10^9/l. Hematíes 4,45 x10^12/l. Hemoglobina 14,4 g/dl. Plaquetas 249 x10^9/l.
+Hemostasia: TP: 14s, TTPA 35s. Quick 85%. INR 1,0.
+Marcadores de daño miocárdico: troponina T ultrasensible 10,5 pg/ml --> 280 pg/ml --> 17 pg/ml.
+Ecocardiografía: ventrículo izquierdo (VI) de diámetros normales (DTDVI 46 mm), sin hipertrofia de sus paredes y con función sistólica conservada (FE 65%). No se objetivan alteraciones de la contractilidad segmentaria en reposo. Ventrículo derecho no dilatado con función sistólica conservada. Patrón diastólico de VI normal. Aurículas de tamaño normal. Raíz aórtica de diámetro normal con valvas sigmoideas de grosor y apertura normal. No se objetiva disfunción valvular. Válvula mitral con valvas de grosor y movilidad normal. Jet central trivial de regurgitación. Mínima insuficiencia tricuspídea (IT), en ausencia de hipertensión pulmonar. Ausencia de derrame pericárdico.
+Ergometría con test de hiperventilación: se realiza test de hiperventilación durante 2 minutos sin apreciar cambios significativos en la repolarización ventricular.
+Posteriormente se ejercita según protocolo de Bruce deteniendo en test al comienzo del 4o estadio del protocolo de Bruce (11 METS) por inadaptación a la cinta, no alcanzando FC submáxima (81% de FCMT) bajo efecto de betabloqueante. No presenta angina ni desniveles del segmento ST. Correcta adaptación cronotrópica. Ausencia de inducción de arritmias. Buena capacidad funcional (> 120% para mujeres activas).
+Cateterismo coronario: tronco coronario izquierdo (TCI): sin lesiones. Arteria descendente anterior (ADA): buen calibre y desarrollo, sin lesiones. Fístulas coronarias a VI. Arteria circunfleja (ACX): no dominante sin lesiones. Arteria coronaria derecha (ACD): dominante, sin lesiones.
+Test de vasoespasmo con acetilcolina: se realiza test de acetilcolina con dosis crecientes en arbol coronario izquierdo, sin observarse cambios clínicos, en ECG, ni vasoespasmo. En ACD se observa espasmo significativo (> 75%) asociado a ritmo nodal, seguido de bloqueo auriculoventricular (BAV) completo transitorio, reproduciéndose las alteraciones electrocardiográficas en cara inferolateral, presentes en ECG de ingreso. Se administra nitroglicerina (NTG) intracoronaria, y se finaliza el procedimiento sin más complicaciones.
+
+EVOLUCIÓN CLÍNICA
+La paciente permanece estable desde su ingreso en planta de cardiología sin recidiva de la clínica que motivó el ingreso. Dada la presencia de cambios isquémicos en ECG de ingreso y coronariografías relativamente recientes sin lesiones, se solicita test de hiperventilación con sospecha de vasoespasmo coronario, que es normal, por lo que se solicita test de vasoespasmo coronario con acetilcolina, se realizan 4 inyecciones con dosis crecientes en árbol izquierdo sin producirse ningún cambio angiográfico ni electrocardiográfico y una inyección en la coronaria derecha que desencadena espasmo mayor al 75% del calibre inicial del vaso con cambios isquémicos en electrocardiograma.
+Dado que la paciente bajo tratamiento con betabloqueante y AAS ha presentado recurrencias del cuadro clínico actual, se decide interrumpir los mismos e iniciar NTG en parche, que la paciente no tolera por cefalea y debilidad, se pauta diltiazem en dosis bajas, con buena tolerancia, por lo que se mantiene dicho fármaco al alta. Se insiste en la importancia del cese del hábito tabáquico.
+Varios meses después del ingreso la paciente se mantiene asintomática, con buena tolerancia a la medicación, sin cambios en su clase funcional, y sin recurrencia de episodios de dolor torácico.
+
+DIAGNÓSTICO
+Síndrome coronario agudo (SCA) recurrente, con coronarias normales.
+Angina vasoespástica.

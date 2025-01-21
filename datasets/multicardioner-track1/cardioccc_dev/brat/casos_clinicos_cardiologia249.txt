@@ -1,0 +1,48 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 70 años que acude al servicio de urgencias de nuestro centro por disnea.
+
+Antecedentes
+Factores de riesgo cardiovascular: no hipertensión arterial, no diabetes mellitus, no dislipemia. Fumador activo de 1 paquete al día desde los 20 años (50 paquetes/año). Obesidad grado II (índica de masa corporal [IMC] 37 kg/m2).
+Sin antecedentes cardiológicos previos.
+Enfermedad pulmonar obstructiva crónica tipo bronquitis crónica moderada (FEV1 51% del predicho), no exacerbador. En seguimiento en consultas externas de neumología.
+Adenocarcinoma de colon estadio IIIb (p3T3N1M0) diagnosticado en 2015, tratado con colectomía derecha laparoscopica + quimioterapia adyuvante con 5-fluoruracilo + oxaliplatino que finalizó en 2017, libre de enfermedad con colonoscopias seriadas normales hasta la fecha.
+Hipertrofia benigna de próstata.
+Tratamiento habitual: tamsulosina + solifenacina 0,4/6 mg, 1 comprimido al día. Salmeterol + fluticasona 25/250 mcg, 1 cápsula inhalada al día.
+
+Enfermedad actual
+Aumento progresivo de disnea basal de 2 semanas de evolución (CF habitual NYHA II, en contexto de broncopatía) hasta presentar disnea en reposo, asociado a ortopnea que le obligaba a dormir en sedestación, edematización de miembros inferiores y disminución subjetiva del volumen de diuresis.
+
+
+Exploración física
+Tensión arterial (TA) 137/70 mmHg, frecuencia cardiaca (FC) 90 lpm, Sat 2O89% con aire ambiente. Presión venosa yugular a 12 cm H2O. Auscultación cardiaca: rítmico, con soplo sistólico piante en foco mitral III/VI, irradiado a axila. Auscultación pulmonar: crepitantes bilaterales en campos medios y bases. Abdomen: blando y depresible, no doloroso a la palpación profunda, no masas ni megalias. Reflujo hepatoyugular positivo Extremidades: edemas hasta rodillas +++/++++, pulsos periféricos conservados y simétricos, no signos de flebitis.
+En ecocardioscopia realizada a pie de cama en el servicio de urgencias se evidenció dilatación y disfunción biventricular, así como regurgitación mitral significativa, por lo que se decidió ingreso para estabilización y estudio.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma: ritmo sinusal a 90 lpm. QRS estrecho, eje a 30o. Descenso del segmento ST de 1 mm de V3 a V5 con onda T negativa. Onda T negativa asimétrica en cara lateral como dato de sobrecarga sistólica.
+Radiografía de tórax a su ingreso: proyección posteroanterior. Índice cardiotorácico aumentado. Senos costofrénicos libres. Hilios pulmonares prominentes. Signos de redistribución vascular a campos superiores.
+Analítica a su ingreso:
+Hemograma: hemoglobina 14,7 g/dl, VCM 89 fl, HCM 28,3 pg, leucocitos 5,5 x 10`9/l, plaquetas 183 x 10^9/l.
+Hemostasia: I. Quick 93,7%, INR 1,1, TTPa ratio 0,95.
+Bioquímica: glucosa 110 mg/dl, HbA1c 5,6%, sodio 141 mEq/l, potasio 3,9 mEq/l, creatinina 1 mg/dl, urea 41 mg/dl, NT-proBNP 6.789 pg/ml, cLDL 92 mg/dl.
+Curva de biomarcadores de daño miocárdico (hsTnI, normal < 19,8 ng/l): 32,6 - 37,8 - 35,4 ng/l.
+Ecocardiograma: ventrículo izquierdo moderadamente dilatado, con espesores normales. Hipocinesia global, con FEVI 30%. Llenado transmitral tipo alteración de la relajación con presiones telediastólicas del ventrículo izquierdo estimadas normales (E/E' = 7). Aurícula izquierda gravemente dilatada. Regurgitación mitral moderada funcional con ORE por PISA de 0,2 cm . Válvula aórtica esclerosada, normofuncionante. Raíz aórtica no dilatada. Ventrículo derecho de diámetros normales y disfunción ventricular ligera (TAPSE 15 mm). Insuficiencia tricuspídea ligera que permite estimar PSAP de 60 mmHg. Vena cava inferior de 19 mm con variación respiratoria < 50%.
+Coronariografía 1: tronco coronario izquierdo calcificado, con estenosis del 20-30% a nivel distal. DA con enfermedad grave proximal y media con estenosis en torno al 80%. Lesión en límite de la significación en arteria circunfleja ostial (50%) y lesión significativa en primer ramo marginal. Arteria coronaria derecha con lesión del 70% en segmento proximal y del 50% a nivel de crux cordis.
+Resonancia magnética nuclear (RMN) cardiaca: ventrículo izquierdo de volúmenes aumentados (VTD 107 ml/m, VTS 75 ml/m) con hipertrofia excéntrica leve (IMVI 97 g/m2), hipocinesia global generalizada y depresión grave de la función global sistólica (FEVI 30%). En las secuencias STIR no se observa edema miocárdico. Ventrículo derecho no dilatado (VTD 58 ml/m , VTS 33 ml/m ) con función global sistólica ligeramente deprimida por hipocinesia generalizada (FEVD 43%). Raíz aórtica de diámetros en el límite alto de la normalidad (porción sinusal 38 mm) con dilatación moderada de la porción tubular de 47 mm. Cayado 32 mm. Aorta descendente 29 mm. Aurícula izquierda levemente dilatada (diámetro máximo 50 mm, área 15 cm2/m2). Resistencias vasculares pulmonares aumentadas, estimadas en 6 UW (velocidad media pulmonar 8,4 cm/seg). No se detectan defectos de perfusión en reposo. Estudio de detección de necrosis y viabilidad: presencia de realce tardío con gadolinio sugestivo de fibrosis lineal intramiocárdica a nivel septoal-anterior basal y medio y focal a nivel septal-inferior e inferior basal y medio, en la unión de VI y VD.
+Coronariografía 2 (vídeos 5-7): se posiciona dispositivo Impella por acceso femoral derecho. Se realiza angiografía por acceso radial izquierdo. Se predilatan lesiones graves de DA y se implantan stents farmacoactivos liberadores de everolimus 3 x 48 mm y 3,5 x 18 mm. Se cruza guía a circunfleja distal y se realiza IVUS aostium, detectándose área luminal > 6 mm2 siendo por tanto no significativa. Se trata la lesión en primera obtusa marginal constent farmacoactivo liberador de everolimus 2,5 x 33 mm con buen resultado. Se cruza guía a CD distal, predilatación de lesión en segmento proximal e implantación de stent farmacoactivo liberador de everolimus 3,5 x 15 mm. Buen resultado. Finalmente se retira dispositivo Impella según protocolo. Hemostasia femoral con dispositivo de sutura intravascular Proglide.
+
+EVOLUCIÓN CLÍNICA
+Al ingreso en planta de cardiología se inició tratamiento deplectivo intensivo, con 40 mg de furosemida i.v. cada 6 horas, con excelente respuesta al mismo, desapareciendo la disnea en reposo y tolerando progresivamente la deambulación sin incidencias.
+En ecocardiograma reglado se confirmó la presencia de disfunción ventricular izquierda grave, por lo que se inició tratamiento con enalapril 2,5 mg diarios, bisoprolol 2,5 mg diarios y espironolactona 25 mg diarios con buena tolerancia.
+Como parte del estudio etiológico de la disfunción ventricular se realizó coronariografía electiva que objetivó enfermedad de 3 vasos, con SINTAX score de 26. Se solicitó RMN cardiaca que confirmó viabilidad en todos los territorios.
+Se presentó el caso en sesión medico-quirúrgica. Dadas las comorbilidades del paciente (enfermedad pulmonar obstructiva crónica [EPOC] moderada-grave, obesidad, disfunción ventricular grave, STS score 3,7%, EuroScore II de 6,7%), a pesar del score SINTAX favorable a revascularización quirúrgica, se decidió revascularización percutánea asistida con dispositivo Impella al considerarse el procedimiento de alto riesgo, a realizarse de manera ambulatoria.
+El paciente fue dado de alta con el siguiente tratamiento médico: ácido acetilsalicílico 100 mg al día, enalapril 2,5 mg al día, bisoprolol 2,5 mg al día, espironolactona 25 mg al día, furosemida 40 mg 1 comprimido en desayuno y comida durante 2 semanas seguido de 1 comprimido en desayuno, tamsulosina + solifenacina 0,4/6 mg 1 comprimido al día, salmeterol + fluticasona 25/250 mcg 1 cápsula inhalada al día, atorvastatina 40 mg al día, pantoprazol 20 mg al día. Se insistió en la importancia de la pérdida de peso, el ejercicio físico y el abandono del hábito tabáquico.
+Consultó en el servicio de urgencias una semana tras el alta por palpitaciones de 2 horas de evolución, detectándose en electrocardiograma fibrilación auricular paroxística de nueva aparición. Se siguió una estrategia de control de ritmo, logrando cardioversión farmacológica tras bolo intravenoso de 300 mg de amiodarona. Al alta, se añadió tratamiento con apixabán 5 mg cada 12 horas por presentar CHADs-VASc de 3 y amiodarona oral 200 mg 5 días a la semana.
+Posteriormente, se programó revascularización percutánea con asistencia mecánica con dispositivo Impella CP que se realizó sin incidencias. Recibió carga de clopidogrel de 300 mg la noche previa al ingreso. Tras 24 horas de ingreso fue dado de alta añadiendo al tratamiento anteriormente comentado clopidogrel 75 mg al día. Tras 1 mes de triple terapia (AAS + clopidogrel + apixabán), se suspendió el tratamiento con acido acetilsalicílico.
+El paciente acudió a los 6 meses de la revascularización a consulta de control clínico, encontrándose prácticamente asintomático para disnea u otros síntomas de insuficiencia cardiaca, en clase funcional I NYHA. Se encuentra actualmente pendiente de ecocardiograma de control. No ha precisado más visitas al servicio de urgencias por descompensación.
+
+DIAGNÓSTICO
+Insuficiencia cardiaca aguda por miocardiopatía dilatada isquémica con disfunción ventricular izquierda grave (FEVI por RMN cardiaca 30%).
+Enfermedad coronaria de tres vasos con SINTAX score de 26 puntos.
+Fibrilación auricular paroxística (CHADs-VASc = 3, HAS-BLED = 2).
+ICP de alto riesgo asistido con dispositivo Impella CP con revascularización completa (DA proximal, DA media, CD distal y 1OM con excelente resultado angiográfico).
+EPOC moderada fenotipo bronquitis crónica. Tabaquismo al ingreso. Obesidad.

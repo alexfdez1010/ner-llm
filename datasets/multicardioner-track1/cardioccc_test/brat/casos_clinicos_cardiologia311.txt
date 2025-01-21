@@ -1,0 +1,28 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Varón de 69 años, remitido a consultas externas de cardiología por presentar calcificaciones coronarias evidenciadas en un estudio de TC torácico de cribado de cáncer de pulmón.
+El paciente tiene antecedentes de hipertensión arterial (HTA) con buen control domiciliario, glucemia alterada en ayunas (prediabetes), obesidad (índice de masa corporal [IMC] 33,2 kg/m2), hábito tabáquico en el pasado con exposición acumulada de 50 paquetes-año, enfermedad pulmonar obstructiva crónica (EPOC) tipo bronquitis crónica e hipertrofia benigna de próstata (HBP). Su tratamiento habitual consiste en simvastatina 10 mg/día, terazosina 2 mg/día, valsartán/hidroclorotiazida 320/25 mg/día y omeprazol 20 mg/día.
+Niega dolor torácico en reposo o con los esfuerzos o clínica sugestiva de insuficiencia cardiaca.
+Se encuentra completamente asintomático.
+Durante la consulta, presenta un buen estado general, normocoloreado y normohidratado.
+Eupneico en reposo. Presión arterial (PA) 125/70 mmHg, frecuencia cardiaca (FC) 65 lpm, SatO2 98% (con aire ambiente). Presión venosa yugular normal. La auscultación cardiaca es rítmica sin soplos audibles. En la auscultación pulmonar presenta murmullo vesicular conservado sin ruidos sobreañadidos. Los pulsos radiales y pedios con palpables, rítmicos y simétricos. No presenta edemas.
+Con los datos disponibles, se solicita ergometría en tapiz rodante con el fin de descartar isquemia miocárdica silente.
+
+
+PRUEBAS COMPLEMENTARIAS
+TC torácico sin contraste: signos de enfisema pulmonar de predominio en lóbulos superiores. Sin masas o nódulos pulmonares visibles. No se evidencian adenopatías en región mediastínica. Calcificación grave de arterias coronarias (CAC-DRS visual: 3). Ligera calcificación aórtica.
+Radiografía de tórax (PA y lateral): sin alteraciones en la silueta cardiomediastínica. No signos de consolidación, masas o derrame pleural. Aparentes calcificaciones en arterias coronarias y aorta.
+Analítica sanguínea: glucosa 110 mg/dl, creatinina 0,89 mg/dl, FG estimado por CKD-EPI de 87,51 mg/dl, colesterol total 215 mg/dl, colesterol HDL 58 mg/dl, colesterol LDL 149 mg/dl, HbA1c 5,6%, hemograma y coagulación sin alteraciones.
+ECG basal: ritmo sinusal a 85 lpm. PR normal (160 ms). Eje izquierdo (HSAI).
+QRS estrecho, onda q en I y aVL. Inversión de onda T en aVL. Extrasistolia supraventricular ocasional.
+Ergometría en tapiz rodante: realizado según protocolo de Bruce y detenido por agotamiento físico. Test de esfuerzo máximo (FC máxima 157 lpm, 103% FC máxima teórica) normal. Bien tolerado. Adecuada adaptación de la frecuencia cardiaca y la tensión arterial (PA máxima 200/100 mmHg). Capacidad funcional aeróbica normal (ejercita durante 8 minutos y alcanza un nivel de trabajo de 10,2 METS), adecuada reserva de doble producto (19.385). No se han producido arritmias significativas. Sin signos electrocardiográficos ni clínicos de isquemia inducible durante la prueba.
+
+EVOLUCIÓN CLÍNICA
+El paciente ha permanecido asintomático desde el punto de vista cardiológico. Dado el hallazgo de calcificación grave de arterias coronarias mediante score visual, sin clínica anginosa ni evidencia de isquemia en la ergometría, se opta por un tratamiento conservador con optimización del tratamiento farmacológico.
+Se considera al paciente de muy alto riesgo, por lo que se sustituye la simvastatina 10 mg/día por rosuvastatina 20 mg/día con objetivo de LDL < 70 mg/dl y se añade a su tratamiento habitual ácido acetilsalicílico (AAS) 100 mg/día.
+Se insiste en medidas higiénico-dietéticas, toma de PA en domicilio y en la necesidad de pérdida de peso, así como en la sintomatología por la que debería consultar. Se programa seguimiento con analítica para valorar objetivo de colesterol LDL y glucemia alterada en ayunas.
+
+DIAGNÓSTICO
+Aterosclerosis coronaria subclínica. Calcificación coronaria grave, asintomático.
+Riesgo cardiovascular muy alto: extabaquismo. Dislipemia con control subóptimo.
+Hipertensión arterial con buen control. Glucemia alterada en ayunas. Obesidad.

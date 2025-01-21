@@ -1,0 +1,73 @@
+T45	ENFERMEDAD 86 110	alérgico a la penicilina
+T46	ENFERMEDAD 117 153	intolerancia a tramadol y metformina
+T47	ENFERMEDAD 172 191	síndrome metabólico
+T48	ENFERMEDAD 197 221	obesidad de tipo central
+T49	ENFERMEDAD 241 262	hipertensión arterial
+T50	ENFERMEDAD 264 267	HTA
+T51	ENFERMEDAD 270 280	dislipemia
+T52	ENFERMEDAD 282 285	DLP
+T53	ENFERMEDAD 289 292	DM2
+T54	ENFERMEDAD 365 374	Exfumador
+T55	ENFERMEDAD 399 423	Enfermedad renal crónica
+T56	ENFERMEDAD 425 428	ERC
+T57	ENFERMEDAD 492 531	enfermedad pulmonar obstructiva crónica
+T58	ENFERMEDAD 533 537	EPOC
+T59	ENFERMEDAD 541 568	síndrome de apnea del sueño
+T60	ENFERMEDAD 570 575	SAHOS
+T61	ENFERMEDAD 764 791	pólipos de colon (benignos)
+T62	ENFERMEDAD 870 891	cardiopatía isquémica
+T63	ENFERMEDAD 904 907	IAM
+T64	ENFERMEDAD 914 938	enfermedad de tres vasos
+T65	ENFERMEDAD 1324 1346	disfunción ventricular
+T66	ENFERMEDAD 1687 1704	flutter auricular
+T67	ENFERMEDAD 2099 2101	IC
+T68	ENFERMEDAD 2301 2318	retención hídrica
+T69	ENFERMEDAD 2654 2675	hipertensión arterial
+T70	ENFERMEDAD 2842 2850	Obesidad
+T71	ENFERMEDAD 5598 5617	bradicardia sinusal
+T72	ENFERMEDAD 5942 5957	derrame pleural
+T73	ENFERMEDAD 6038 6046	obesidad
+T74	ENFERMEDAD 6086 6134	ventrículo izquierdo (VI) moderadamente dilatado
+T75	ENFERMEDAD 6262 6289	Esclerosis valvular aórtica
+T76	ENFERMEDAD 6342 6362	Insuficiencia mitral
+T77	ENFERMEDAD 6422 6486	hipertensión pulmonar (HTP) grave por aceleración de la pulmonar
+T78	ENFERMEDAD 6659 6678	derrame pericárdico
+T79	ENFERMEDAD 7982 8003	descompensación de IC
+T80	ENFERMEDAD 8192 8208	patología lumbar
+T81	ENFERMEDAD 8654 8662	Obesidad
+T82	ENFERMEDAD 9483 9486	DM2
+T83	ENFERMEDAD 9491 9499	obesidad
+T84	ENFERMEDAD 9816 9818	IC
+T85	ENFERMEDAD 10156 10173	retención hídrica
+T86	ENFERMEDAD 10382 10390	obesidad
+T87	ENFERMEDAD 10953 11038	Disfunción sistólica ventricular izquierda moderada (FEVI 35%) de etiología isquémica
+T88	ENFERMEDAD 11040 11069	Cardiopatía isquémica crónica
+T89	ENFERMEDAD 11370 11389	Síndrome metabólico
+T90	ENFERMEDAD 11562 11570	obesidad
+T91	ENFERMEDAD 11581 11584	DM2
+T92	ENFERMEDAD 11633 11644	ERC crónica
+T93	ENFERMEDAD 11730 11739	Exfumador
+T94	ENFERMEDAD 1263 1265	IC
+T95	ENFERMEDAD 1625 1656	IC en 2015, con descompensación
+T96	ENFERMEDAD 6881 6883	IC
+T97	ENFERMEDAD 7515 7517	IC
+T98	ENFERMEDAD 7718 7720	IC
+T99	ENFERMEDAD 10822 10824	IC
+T100	ENFERMEDAD 6364 6366	IT
+T101	ENFERMEDAD 1832 1850	eventos arrítmicos
+T102	ENFERMEDAD 1499 1535	oclusión del injerto de safena a ACx
+T104	ENFERMEDAD 6048 6071	Miocardiopatía dilatada
+T105	ENFERMEDAD 6445 6448	HTP
+T106	ENFERMEDAD 11199 11242	injerto de mamaria y oclusión del de safena
+T174	ENFERMEDAD 6239 6260	Disfunción diastólica
+T227	ENFERMEDAD 5652 5673	crecimiento auricular
+T167	ENFERMEDAD 1151 1212	arteria coronaria derecha (ACD) por enfermedad grave y difusa
+T183	ENFERMEDAD 7418 7427	isquémico
+T189	ENFERMEDAD 11394 11402	obesidad
+#1	AnnotatorNotes T94	 insuficiencia cardíaca
+#2	AnnotatorNotes T95	insuficiencia cardíaca
+#3	AnnotatorNotes T96	 insuficiencia cardíaca
+#4	AnnotatorNotes T97	 insuficiencia cardíaca
+#5	AnnotatorNotes T98	 insuficiencia cardíaca
+#6	AnnotatorNotes T99	 insuficiencia cardíaca
+#7	AnnotatorNotes T100	 IT insuficiencia tricuspídea

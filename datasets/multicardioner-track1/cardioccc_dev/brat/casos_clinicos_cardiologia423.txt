@@ -1,0 +1,35 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTEDECENTES:
+Paciente de 73 años de edad. Alergias: idiosincrasia a múltiples antiinflamatorios no esteroideos (AINE). Como único factor de riesgo cardiovascular: hipertensa. Artrosis. Intervenida quirúrgicamente de cataratas. No antecedentes cardiológicos previos conocidos. Sin antecedentes familiares de cardiopatía ni de muerte súbita. Realiza vida activa con buena clase funcional. Como dato de interés, su marido había sido de alta por nuestro servicio hace 15 días por síndrome coronario agudo con elevación del segmento ST (SCACEST).
+
+ENFERMEDAD ACTUAL:
+Acude a urgencias por presentar, tras hacer las tareas del hogar, dolor opresivo centrotorácico irradiado a cuello, de unos 30 minutos de duración, con diminución progresiva de forma espontánea pero sin llegar a desaparecer por lo que se tomó una cafinitrina sl de su marido, con desaparición completa de la sintomatología. No cortejo vegetativo acompañante. No episodios similares previos. No episodios de síncope ni presíncope. Clase funcional habitual I de la New York Heart Association (NYHA), aunque en las dos últimas semanas refería disnea de moderados esfuerzos.
+
+EXPLORACIÓN FÍSICA:
+Tensión arterial (TA) 140/68. Frecuencia cardiaca (FC) 98 lpm. Saturación de oxígeno 99% basal.
+Afebril. Eupneica en reposo. Auscultación cardiaca: rítmica, soplo sistólico en borde paraesternal izquierdo inferior que aumenta tras Valsalva. Auscultación pulmonar: normoventilación.
+Abdomen: blando y depresible. Sin masas ni megalias. Sin edemas en extremidades inferiores.
+No IY. No soplos carotídeos.
+
+PRUEBAS COMPLEMENTARIAS
+RADIOGRAFÍA DE TÓRAX: sin hallazgos pleuroparenquimatosos de evolución aguda.
+ECG (asintomática): ritmo sinusal a 83 lpm, QRS estrecho con criterios de hipertrofia en cara lateral alta con crecimiento de R, alteraciones secundarias de la repolarización en cara anterolateral y ondas Q profundas en V1-3. Sin cambios dinámicos.
+ANALÍTICA: Tn I 0,28 -->2.20-->0,88. Glu 126 mg/dl, urea 38 mg/dl, creat 0,69 mg/dl, Na 142 mEq/l, K 4,3 mEq/l. Leucocitos 9400 mm3 (81% N), Hb 14,4 g/dl, Hto 45,5%, Plaquetas 155000/mm3. Coagulación: normal. Función tiroidea: normal. Metabolismo del hierro: normal. Hb 1AC 5,5%. LDL 80 mg/dl, HDL 33 mg/dl.
+ECOCARDIOGRAMA: VI no dilatado, hipertrofia ventricular (HVI) a nivel septal basal (septo sigmoideo, 16 mm), resto de segmentos HVI concéntrica ligera. Disfunción VI ligera (estimada por Teicholz y Simpson biplanar 49-50%), aquinesia septal media y apical e inferoapical, resto de segmentos contractilidad conservada. Se aprecia aceleración de flujo en tracto de salida del ventrículo izquierdo (TSVI) con gradiente obstructivo máximo basal 100 mmHg que aumenta con maniobras de Valsalva hasta 120 mmHg. Patrón de llenado mitral: alteración de la relajación, con datos actuales de elevación de presión telediastólica del ventrículo izquierdo (PTDVI).
+Aurícula izquierda (AI) ligeramente dilatada. Cavidades derechas no dilatadas, ventrículo derecho (VD) normocontráctil (TAPSE 19 mm, onda S' en TDI lateral 11,7 cm/seg). Raíz aórtica y porción visualizada de aorta ascendente proximal normal. Válvula mitral (VM) velos finos, correcta apertura. Se observa SAM completo que genera IM con dirección excéntrica dirigida hacia SIA, alcanza techo de aurícula izquierda (AI) sin visualizar correctamente flujo en venas pulmonares, que impresiona de significativa (alta intensidad Doppler, aunque onda E < 1,2 cm/seg). Válvula aórtica (VAo) trivalva, velos finos, correcta apertura, no estenótica (Grad máx 18 mmHg), competente. Insuficiencia tricuspídea (IT). Grad VD-AD 27 mmHg. Vena cava inferior (VCI) no dilatada con colapso inspiratorio conservado. Presión arterial pulmonar sistólica (PAPs) estimada normal. Ausencia de derrame pericárdico, sin masas intracavitarias por esta vía de acceso.
+CORONARIOGRAFÍA: arterias coronarias sin lesiones angiográficas significativas. Segmento intramiocárdico de DA media que ocasiona compresión extrínseca en sístole sin generar milking grave. Ventriculografía: hipoquinesia grave de segmentos apicales y medio de cara diafragmática y anterolateral con hipercontractilidad de segmentos basales. Disfunción VI moderada. IM grado I-II.
+RMN CARDIACA: VI de tamaño normal, con función sistólica normal (FE 52 %). Hipertrofia septal basal de 16 mm de espesor máximo con signos de obstrucción del tracto de salida del ventrículo izquierdo. No se evidencian áreas de realce tardío en el espesor miocárdico. Signos de IM con leve dilatación de la AI.
+ECOCARDIOGRAMA previo al alta: se repite en planta el ecocardiograma tras titular dosis de betabloqueante, encontrándose un gradiente basal de 64 mmHg que aumenta a 100 mmHg con Valsava, con resto de hallazgos similares a eco previa sin objetivar clara mejoría de las asimetrías contráctiles pero con menor hiperdinamia de los segmentos basales y función sistólica VI conservada (50-55%).
+
+EVOLUCIÓN CLÍNICA
+En un primer momento se trató como síndrome coronario agudo. Sin embargo, la paciente era alérgica a aspirina y trifusal. Se decidió realizar cateterismo cardiaco diagnóstico bajo tratamiento con clopidogrel y en el caso que hubiese lesiones, realizar posteriormente desensibilización a aspirina previo a realizar intervencionismo coronario.
+Se realizó coronariografía que mostraba arterias coronarias epicárdicas sin lesiones y en la ventriculografía, hipoquinesia grave de segmentos apicales y medio de cara diafragmática y anterolateral con hipercontractilidad de segmentos basales con disfunción moderada de VI.
+Con estos hallazgos, la primera sospecha clínica era de síndrome de tako-tsubo debido a las asimetrías segmentarias, antecedente de estrés (ingreso reciente de su marido), elevación de marcadores de necrosis y arterias coronarias epicárdicas sin lesiones.
+Se inició tratamiento con betabloqueante (bisoprolol) de forma progresiva hasta 10 mg/24 horas con buena tolerancia clínica. La paciente no presentó insuficiencia cardiaca durante su ingreso y permaneció asintomática. Se retiró antiagregación plaquetaria.
+Ante la duda diagnóstica con miocardiopatía hipertrófica, se realizó cardiorresonancia, que no se evidenciaban áreas de realce tardío en el espesor miocárdico y no existían dados de miocardiopatía hipertrófica. El septo era de 16 mm con resto de segmentos normales.
+En revisión a los 30 días posalta, la paciente presentaba clase funcional I de la NYHA y permanecía asintomática. A la exploración física, sin signos congestivos y no se auscultaba soplo. En ECG realizado mostró desaparición de ondas Q con ondas T negativas en derivaciones inferiores y precordiales. En ecocardiograma en consulta, FEVI 65%, sin asimetrías segmentarias. El gradiente en TSVI era de 10 mmHg y de 24 mmHg tras Valsalva. La IM era ligera.
+La paciente fue remitida a consultas de cardiología de área para seguimiento.
+
+DIAGNÓSTICO
+Síndrome de tako-tsubo con obstrucción en tracto de salida del ventrículo izquierdo e IM significativa por SAM en paciente con HVI septal.

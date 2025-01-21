@@ -1,0 +1,59 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Reacción alérgica a sulfamidas.
+Niega hábitos tóxicos.
+Factores de riesgo cardiovascular (FRCV): hipertensión arterial (HTA).
+Carcinosarcoma endometrial estadio IIIB, tratada mediante cirugía y quimioterapia adyuvante (cisplatino e ifosfamida) en 2011. Recidiva a nivel de cúpula vaginal en 2012, por lo que recibió radioterapia y braquiterapia. Actualmente libre de enfermedad.
+Adenocarcinoma de colon infiltrante sobre adenoma tubular resecado en 2011.
+Actualmente libre de enfermedad.
+Anemia normocítica crónica.
+Antecedentes quirúrgicos: histerectomía y doble anexectomía en 2011; resección pólipo colónico en 2011; hernia inguinal bilateral, septoplastia nasal.
+Tratamiento habitual: enalapril/hidroclorotiazida 20/12,5 mg/día, lorazepam 1 mg/día.
+
+ENFERMEDAD ACTUAL
+Paciente mujer de 79 años de edad que acudió a urgencias de nuestro centro por presentar un cuadro de disnea progresiva de un mes de evolución hasta hacerse de mínimos esfuerzos en las últimas 48-72 horas, junto con astenia y decaimiento acompañantes. Negaba clínica de dolor torácico. No tos, ni expectoración, no fiebre, ni sensación distérmica.
+
+EXPLORACIÓN FÍSICA
+Regular estado general, normohidratada, normocoloreada. Eupneica en reposo sin uso de musculatura accesoria. Consciente, orientada y colaboradora, sin focalidad neurológica aparente.
+Constantes: tensión arterial (TA) 95/55 mmHg, frecuencia cardiaca (FC) 130 lpm, saturación de oxígeno (SatO2) 98% (aire ambiente).
+Auscultación cardiaca: ruidos regulares, taquicárdica, sin soplos audibles.
+Auscultación pulmonar: hipoventilación generalizada, sin estertores.
+Sin edematización en miembros inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+Durante su estancia en la unidad de cuidados intensivos (UCI) se realizan las siguientes pruebas complementarias:
+Electrocardiograma (ECG) al ingreso: ritmo sinusal a 96 lpm, PR normal, QRS estrecho con eje a 0o, infradesnivel del ST de hasta 2 mm en V3-V6 con supradesnivel de 1 mm en aVR. Extrasístole ventricular aislada.
+Radiografía de tórax: pulmones hiperventilados con densidad parenquimatosa normal, sin condensaciones nodulares. No se observa condensación de espacio alveolar.
+Silueta mediastínica e hilios pulmonares normales, sin lesiones ocupantes de espacio.
+Analítica al ingreso: destaca creatinina 1,65 mg/dl, proteína C reactiva (PCR) 111,6 mg/l, leucocitos 11,71x10^9/l, neutrófilos 4,58 x10^9/l, linfocitos 0,96 x10^9/l, monocitos 0,28 x10^9/l, eosinófilos 5,88 x10^9/l, basófilos 0,01 x10^9/l, hemoglobina 10 g/dl, troponina T ultrasensible 1.911 pg/ml.
+Coronariografía: coronarias epicárdicas normales. Ventriculografía normal.
+
+Durante su hospitalización en cardiología se realizan las siguientes pruebas complementarias:
+Ecocardiografía transtorácica: ventrículo izquierdo de tamaño normal con hipertrofia concéntrica moderada sin aparentes alteraciones de la contractilidad segmentaria y con función sistólica conservada. Patrón de llenado diastólico de alteración de la relajación.
+Insuficiencia aórtica ligera sobre válvula degenerativa con gradientes transvalvulares normales. Ventrículo derecho no dilatado con función sistólica dentro de la normalidad.
+Ligera insuficiencia tricuspídea (IT) que permite estimar una presión arterial pulmonar sistólica (PAPs) de 32 mmHg. No se observa derrame pericárdico significativo.
+Resonancia magnética cardiaca (RMC): ventrículo izquierdo con hipertrofia concéntrica (14 mm), masa conservada (IMVI: 71 g/m2), patrón de remodelado concéntrico, volúmenes reducidos (IVTDVI 38 ml/m2; IVTSVI 14 ml/m2) y función sistólica segmentaria y global dentro de la normalidad (FEVI 64%). Edema subendocárdico e intramiocárdico parcheado generalizado, más acusado en la cara lateral, en la anterior basal y en ápex. Ventrículo derecho de volumen (IVTDVD 26 ml/m2; IVTSVD 11 ml/m2) y función sistólica conservados (FEVD 58%). Aurículas y grandes vasos de dimensiones conservadas. Perfusión de primer paso en reposo (gadobenato de dimeglumina intravenoso 0,0075 mmol/kg) con defectos subendocárdicos parcheados. Ausencia de necrosis miocárdica. Presencia de pequeños focos de captación subendocárdico a nivel de cara anterior basal y lateral medial, afectando también a músculos papilares. Ligero derrame pericárdico. En resumen, patrón de miocarditis aguda con pseudohipertrofia por edema miocárdico multifocal, función sistólica conservada y pequeños focos de captación tardía en ventrículo izquierdo.
+Frotis de sangre periférica: discreta anisopoiquilocitosis eritrocitaria con presencia de algún esferocito y eliptocito aislado. Se confirma anemia normocítica con tendencia a la hipocromía. No otros hallazgos morfológicos de interés. Fórmula leucocitaria manual: 26% segmentados, 6% linfocitos, 68% eosinófilos de aspecto maduro.
+Proteínas específicas: complemento C3 110 mg/dl, complemento C4 47 mg/dl, IgE total (inmunoglobulina E) 306,3 UI/ml.
+Estudios de parásitos: negativo.
+Serología: únicamente positiva para IgG de Toxoplasma gondii.
+Aspirado de médula ósea: abundante grumo que llamativamente está ausente de celularidad. Solo se ve alguna célula plasmática y células de sangre periférica. Conclusión: médula ósea con abundante grumo vacío de celularidad.
+Biopsia de médula ósea: aplasia medular, sin correlación con sangre periférica.
+
+
+EVOLUCIÓN CLÍNICA
+Al realizar un ECG en urgencias se objetivan alteraciones del segmento ST (infradesnivel de hasta 2 mm en V3-V6 con supradesnivel de 1 mm en aVR), ante lo cual se solicita una determinación en sangre de troponina T ultrasensible cuyo resultado fue de 1.911 pg/ml. Ante dichos hallazgos, la paciente ingresa en la UCI con sospecha inicial de síndrome coronario agudo sin elevación del segmento ST (SCASEST) de alto riesgo.
+Durante su estancia en UCI se realiza coronariografía que descarta coronariopatía y ventriculografía que no muestra alteraciones, siendo dada de alta a planta de cardiología con diagnóstico de MINOCA (infarto agudo de miocardio sin enfermedad coronaria aterosclerótica obstructiva) para completar estudios y tratamiento oportuno.
+Tras el ingreso en cardiología, la paciente permanece asténica con cifras de hemoglobina estables en torno 10 g/dl y eosinofilia que se eleva progresivamente hasta alcanzar un máximo de 8,35x10^9/l eosinófilos absolutos. Se inicia tratamiento con betabloqueantes y permanece en reposo absoluto con control progresivo de la frecuencia cardiaca y sin objetivarse taqui o bradiarritmias, ni presentar síntomas sugestivos de estas. En ningún momento presenta síntomas compatibles con insuficiencia cardiaca.
+Ante los hallazgos de la RMC y la hipereosinofília en sangre periférica se orienta el cuadro hacia miocarditis eosinofílica y se inicia tratamiento con prednisona 50 mg al día con mejoría sintomática global, apreciándose descenso paulatino de la eosinofilia periférica, así como descenso de la troponina T ultrasensible. Por tanto, se reduce progresivamente dosis de betabloqueante y se inicia deambulación con buena tolerancia.
+Durante su ingreso es estudiada por los servicios de medicina interna y hematología, realizándose diferentes pruebas complementarias como biopsia de médula ósea entre otras, etiquetándose el cuadro de hipereosinofília de origen incierto, sin objetivar una etiología subyacente (autoinmunidad negativa, biopsia de MO negativa, parásitos negativos) por lo que quedó pendiente de continuar el seguimiento tras el alta en consultas externas.
+Tras 10 días de ingreso, con la paciente estable y asintomática desde el punto de vista cardiovascular, tolerando la deambulación sin síntomas de insuficiencia cardiaca, ni complicaciones arrítmicas, con marcadores de daño miocárdico en descenso y normalización electrocardiográfica, se decidió el alta hospitalaria con control próximo de manera ambulatoria y tratamiento con prednisona en pauta descendente hasta conseguir una dosis de 10 mg de mantenimiento durante al menos 6 meses en función de su evolución.
+
+DIAGNÓSTICO
+Miocarditis aguda eosinofílica.
+Hipereosinofília de origen incierto.
+Hipertensión arterial.
+Anemia crónica.
+Carcinosarcoma uterino libre de enfermedad.
+Adenocarcinoma de colon libre de enfermedad.

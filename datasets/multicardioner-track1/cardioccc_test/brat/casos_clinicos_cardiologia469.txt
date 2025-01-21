@@ -1,0 +1,31 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Presentamos un varón de 49 años, sin alergias previas, que consulta en Urgencias por un cuadro compatible con una reacción alérgica.
+
+Antecedentes
+Factores de riesgo cardiovascular: fumador de 15 cigarrillos día. No hipertenso, diabético ni dislipémico. No tiene historia cardiológica conocida.
+Como otros antecedentes, está diagnosticado de EPOC moderado: espiromería: FVC 3,27 L ( 68 %) FEV1 1,90 l ( 51 %), FEV1 % 58 % trastorno obstructivo moderado. Volúmenes: TGV 5,51 L ( 147 %), TLC 8,44 l ( 116 %), RV 4,76 l (204 %) RV/TLC 56 %). Hiperinsuflación con atrapamiento aéreo. DLCO 27/88 ( 91 %). Realiza tratamiento crónico con inhaladores: tiotropio 1 inhalación cada 24 horas, budesonida/formoterol 1 inhalación cada 12 horas y salbutamol a demanda.
+
+Enfermedad actual
+Paciente que sufre una caída casual golpeándose en costado y brazo derecho, por lo que decide tomar analgesia habitual (Nolotil). Acto seguido comienza con prurito, exantema generalizado y disnea muy intensa. Es trasladado en ambulancia a Urgencias del hospital.
+El paciente llega a Urgencias con gran dificultad para respirar, por lo que se inicia de inmediato tratamiento con corticoides, salbutamol y antihistamínicos, con mejoría importante de la clínica y saturación de oxígeno.
+Cuando el paciente es capaz de hablar (tras mejoría de su disnea), refiere haber comenzado con dolor torácico de intensidad 10/10 y se realiza ECG.
+
+Exploración física
+Afebril (36,8°C). TA 135/90, FC 80, eupneico (tras tratamiento), exantema en cara y tronco. AC: RsCsRs sin soplos AP: MVC, algún sibilante espiratorio aislado (tras tratamiento). Abdomen blando, no doloroso, sin masas ni megalias. EEEII sin edemas y con pulsos pedios positivos.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica al ingreso: bioquímica: glucosa 202 mg/dl, urea 25 mg/dl, creatinina 0,87 mg/dl, ión sodio 140 mmol/l 136 – 145, alanina aminotransferasa 8 U/l, bilirrubina total < 1,0 mg/dl. Hemograma: hematíes 4,78 x10^6/μL, hemoglobina 16,7 g/dl, hematocrito 47,5 %, V.C.M 99,4 fl, H.C.M 34,9 pg, C.H.C.M. 35,2 g/dl, R.D.W. (C.V.) 15,9 %, leucocitos 12,07 x10^3 /ul, neutrófilos 7,01 x10^3 /μL, neutrófilos % 58,1 %, linfocitos 4,35 x10^3/μL, linfocitos % 36,0 %, monocitos 0,60 x 10^3/μL, monocitos % 5,0 %, eosinófilos 0,08 x10^3/μL, eosinófilos % 0,7 %, basófilos 0,03 x10^3/μL, basófilos % 0,2 %, granulocitos inmaduros 0,04 x10^3/μL, granulocitos inmaduros % 0,30 %, plaquetas 241 x10^3/μL. V.P.M. 11,6 fl. Coagulación: T. protrombina 10,70 seg. T. protrombina (%) 101,0 % T. protrombina (ratio) 0,99. T. promboplastina parcial 28,50 seg. Fibrinógeno derivado 447 mg/dl. I.N.R. 0,99.
+ECG en Urgencias: ascenso del segmento ST de V3-V6 y cara inferior.
+Radiografía de tórax: no se observan signos de IC. No línea de neumotórax.
+Fractura en 8a arco costal derecho.
+Coronariografía: descendente anterior: estenosis del 75 % en tercio proximal con flujo TIMI 3 y lecho distal bueno. Estenosis del 90 % en tercio distal con flujo TIMI
+Durante el ingreso, el paciente permanece asintomático para angor y disnea, con dolor costal de características mecánicas en relación con fractura de 8o arco costal.
+El paciente es alta a domicilio y se solicita consulta con Alergología para completar estudios. Se realiza un test cutáneo que resulta positivo, llegándose entonces al diagnóstico de hipersensibilidad tipo I (inmediata, mediada por IgE) al metamizol (AINE derivado de pirazolona). Además este mecanismo se reafirmó in vitro, con la inducción de activación del basófilo en respuesta a la estimulación metamizol.
+
+DIAGNÓSTICO
+Síndrome coronario agudo (SCA) con elevación del ST (SCACEST) en contexto de reacción anafiláctica en paciente con enfermedad coronaria de 1 vaso: síndrome de Kounis tipo II.
+Alergia a metamizol (Nolotil).
+ACTP + 2 STENTS FARMACOACTIVOS en DAp.
+FEVI 45 %.
+Fractura 8 arco costal derecho.

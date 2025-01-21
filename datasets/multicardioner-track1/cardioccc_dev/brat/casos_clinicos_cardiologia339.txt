@@ -1,0 +1,42 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Paciente varón de 55 años, con los siguientes antecedentes personales:
+No reacciones adversas medicamentosas conocidas.
+Factores de riesgo cardiovascular: fumador.
+No antecedentes familiares de interés.
+
+Historia cardiológica: cardiopatía isquémica crónica:
+2004: SCA. Manejo conservador.
+Octubre de 2018: valorado en consultas externas de cardiología por angor. El paciente no presentaba semiología de insuficiencia cardiaca y en el electrocardiograma (ECG) no se observaban alteraciones de interés. Se solicitaron las siguientes pruebas complementarias:
+Ecocardiografía transtorácica: ventrículo izquierdo no dilatado, con ligero aumento de espesor parietal septal. Ligera hipocinesia a nivel septal en segmentos basal y medio con adecuada contractilidad del resto de segmentos, estando la función sistólica de VI globalmente conservada. No dilatación de raíz aórtica y auricular izquierda. Cámaras derechas no dilatadas con función sistólica de ventrículo derecho conservada. No patología valvular orgánica significativa. Vena cava no dilatada con colapso respiratorio adecuado. No derrame pericárdico.
+Coronariografía diagnóstica:
+Tronco coronario con lesiones angiográficas no significativas.
+Arteria descendente anterior con estenosis grave desde su origen hasta el segmento medio y en el tercio distal con lecho distal fino y flujo TIMI 2. Recanalización de ramos septales por circulación heterocoronaria.
+Arteria circunfleja (Cx) con lesiones angiográficas no significativas.
+Arteria coronaria derecha dominante, difusamente enferma, con lesión focal no significativa.
+Ante dichos hallazgos, se decidió valorar la viabilidad miocárdica para decidir actitud de cara a revascularización. Para ello, se solicitó ecocardiografía de estrés: se realiza test de estrés con dobutamina, hasta alcanzar los 15 mcg/kg/min y doblar la frecuencia cardiaca (FC) basal, apreciando una mejoría hasta la casi normalización de la motilidad de los segmentos septales descritos con función sistólica hiperdinámica. Ausencia de complicaciones.
+Asintomático clínicamente y sin cambios eléctricos. FEVI conservada, miocardio viable.
+Noviembre de 2018: el paciente se incluye en lista de espera para revascularización quirúrgica
+Tratamiento habitual: ramipril 5 mg (1 comprimido cada 12 horas), nitroglicerina en parches 10 mg (1 cada 24 horas), omeprazol 20 mg (1 comprimido cada 24 horas), fluvastatina 80 mg (1 comprimido cada 24 horas), ácido acetilsalicílico (AAS) 100 mg (1 comprimido cada 24 horas) y bisoprolol 2,5 mg (1 comprimido cada 24 horas).
+El 6 de diciembre, estando el paciente dando un paseo, comienza con clínica de malestar general, sufriendo a continuación un síncope. Los testigos intentan despertarlo sin éxito y avisan a los servicios de emergencias. El equipo de emergencias tarda aproximadamente 10 minutos en llegar, objetivando parada cardiorrespiratoria, con bradicardia a unos 45 lpm sin pulso (disociación electromecánica). En este contexto se inician maniobras de reanimación cardiopulmonar (RCP) avanzada, se administran un total de 3 ampollas de adrenalina y se procede a la intubación orotraqueal del paciente.
+Tras 20 minutos realizando dichas maniobras, se objetiva un ritmo de fibrilación ventricular, del que sale tras ser desfibrilado con un choque a 360 Julios. Se realiza entonces un ECG que muestra: taquicardia irregular a unos 130 lpm, QRS en 120 ms, descenso de ST en derivaciones inferiores y V1. Patrón QS en V2 y V3 con ascenso de ST de 2-3 mm en V2-V4 y aVR.
+Se contacta con cardiología de guardia, se activa al servicio de hemodinámica y se traslada a nuestro centro. A su llegada a urgencias, se realiza un ecocardiograma urgente documentándose disfunción grave del ventrículo izquierdo (VI) con hipocinesia grave en el territorio de la arteria descendente anterior (ADA). El paciente se encuentra hemodinámicamente inestable, iniciándose perfusión de noradrenalina y dobutamina. A continuación se realiza angioplastia primaria.
+
+PRUEBAS COMPLEMENTARIAS
+Primer ECG tras la recuperación de la circulación espontánea: taquicardia irregular a unos 130 lpm, QRS en 120 ms, descenso de ST en derivaciones inferiores y V1. Patrón QS en V2 y V3 con ascenso de ST de 2-3 mm en V2-V4 y aVR.
+Ecocardiografía transtorácica en urgencias: estudio limitado por mala ventana ecocardiográfica pero que permite apreciar disfunción grave de ventrículo izquierdo, con hipocinesia grave a nivel del territorio de la arteria descendente anterior.
+Intervencionismo coronario percutáneo primario: tronco principal izquierdo enfermo con afectación ostial significativa. ADA enferma de forma difusa con placa grave proximal y ausencia de visualización del lecho distal. Cx con placa proximal significativa; resto del vaso sin lesiones. Arteria coronaria derecha con lesiones difusas no susceptibles de revascularización.
+Intervencionismo coronario percutáneo (ICP) sobre tronco coronario izquierdo (TCI), CX y ADA: ante la situación observada, se decide paso de la guía a la ADA y a la CX, implante de un stent farmacoactivo (Resolute Onyx 3,5 x 8 mm) ostial y un stent en "V" hacia la Cx (Resolute Onyx 3 x 22 mm) y hacia la ADA (Resolute Onyx 3 x 26 mm). A continuación se realizó angioplastia con balón (2,25 y 2,5 mm) a la ADA y se implantó un stent solapado al anterior (Resolute Onyx 2,75 x 18 mm), con buen resultado angiográfico final.
+Analítica al ingreso en unidad coronaria: Hb 13,7 g/dl, hematocrito 44%. Serie blanca normal en recuento pero con linfocitosis de 7.140. Plaquetas 232.000. Glucemia 261 mg/dl. Cr 1,40 mg/dl, urea 34 mg/dl. Na 133, K 3,8. NT-proBNP 4623 pg/ml. CPK 180 – 3824 – 1266 – 464 – 1181 – 2959 – 1373 – 408; y TnT 20 – 4518 – 5207 – 3664 – 4535 – 3483 – 3809 – 1472. GSV pH 6,8; Láctico 12,9; pCO2 74 mm Hg. Colesterol total 95 mg/dl; colesterol HDL 30 mg/dl; colesterol LDL 22 mg/dl; triglicéridos 241. Enolasa neuroespecífica 28,1.
+Ecocardiografía transtorácica al alta: ventrículo izquierdo no dilatado ni hipertrófico con hipocinesia de segmentos antero-septales medio y apical, sin otros trastornos de la contractilidad segmentaria. Fracción de eyección del ventrículo izquierdo (FEVI) del 51% por Simpson biplano. Aurícula Izquierda no dilatada. Cavidades derechas de tamaño y función dentro de la normalidad con fracción de eyección de ventrículo derecho (FEVD) conservada. Signos mitro-aórticos degenerativos ligeros sin valvulopatías significativas asociadas. No derrame pericárdico. Vena cava inferior no dilatada con adecuado colapso inspiratorio.
+
+EVOLUCIÓN CLÍNICA
+Tras el intervencionismo se traslada a la unidad coronaria y a su llegada se realiza ventana neurológica objetivándose un Glasgow motor de 5 puntos, por lo que se decide realizar hipotermia terapéutica, con una temperatura objetivo de 33  ̊C, utilizando dispositivo Artic-Sun.
+Así se mantiene durante 24 horas, sedado con propofol, relajado con rocuronio y con analgesia con fentanilo. Durante este periodo se objetiva una mejoría hemodinámica, que permite la retirada progresiva del soporte con aminas. A las 24 horas se inicia el recalentamiento.
+Una vez concluido el protocolo, se procede a la retirada de medicación de sedoanalgesia y relajación. El paciente despierta de forma lenta y, durante este proceso se realiza un estudio electroencefalográfico, que se describe: "Trazado electroencefalográfico anormal por la ausencia de ritmos normales y el enlentecimiento generalizado de la actividad de base, sin clara respuesta EEG a los estímulos, traduciendo un daño cerebral difuso en grado leve-moderado. No se registró actividad epileptiforme, ni asimetrías significativas".
+La evolución fue lenta y presentó varias complicaciones: neumonía aspirativa, insuficiencia renal aguda, disfagia orofaríngea neurógena moderada. Finalmente, tras un total de 17 días de estancia en la unidad coronaria, fue trasladado a la planta de cardiología. La evolución en planta fue muy buena; inició deambulación de forma progresiva y, finalmente, fue dado de alta domiciliaria.
+
+DIAGNÓSTICO
+Parada cardiorrespiratoria extrahospitalaria recuperada; actividad eléctrica sin pulso.
+Infarto agudo de miocardio con elevación del segmento ST (IAMCEST) KK IV. Enfermedad coronaria multivaso. ICP con implante de DES en TCI, ADA y Cx.
+Hipotermia terapéutica. Encefalopatía anóxico-isquémica posparada.
+Función sistólica del ventrículo izquierdo levemente deprimida.

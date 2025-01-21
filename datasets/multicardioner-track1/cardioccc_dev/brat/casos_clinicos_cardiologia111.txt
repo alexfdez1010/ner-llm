@@ -1,0 +1,22 @@
+Varón de 38 años en clase funcional II/IV de la NYHA.
+
+Antecedentes, enfermedad actual y exploración física
+Antecedentes: Insuficiencia renal crónica (IRC) en estadio V, por displasia renal izquierda y quistes renales, en hemodiálisis desde hacía dos años. Hiperparatiroidismo secundario a IRC, carcinoma renoureteral intervenido hacía ocho años. Colestasis hepática, estenosis de arterias pulmonares principales, hipertensión arterial, dislipemia, tabaquismo activo.
+Hija con trasplante hepático a los siete años. Ingresado hacía un año por episodio de edema agudo de pulmón desencadeno por sobrecarga de volumen.
+
+Historia clínica: En la sesión de hemodiálisis comienza con mareo intenso, sudoración y disnea; el día previo ya refería disnea paroxística nocturna. A la exploración física destaca mal estado general con TA de 75/48, en la auscultación cardiaca y pulmonar la presencia de soplo sistólico 4/6 en foco aórtico irradiado a borde esternal izquierdo y carótidas con 2o ruido abolido y crepitantes hasta campos medios. Se realiza ECG que objetiva descenso del ST en cara lateral baja y ascenso del ST de V2 a V3. En la analítica destaca Hb de 7,0 g/dl. Se inicia sueroterapia, transfusión de dos concentrados de hematíes con lo que corrige alteraciones electrocardiográficas; tras reposición hídrica comienza con cuadro de edema agudo de pulmón por lo que se ingresa a la UCI.
+
+Pruebas complementarias
+• Electrocardiograma: Ritmo sinusal a 70 lpm, Eje 80o, criterios de HVI, ondas T negativas en III, pobre crecimiento de r de V1 a V3, PR de 200 ms, T negativas asimétricas en III y V5-V6.
+• Analítica: Glucosa 106, urea 38, Cr 3,1. K 3,2, Na 138, Hb 9,6. VCM 89, CPK 47, CK-MB 2,7, TpI 0,22.
+• Rx de tórax: Índice cardiotorácico 0,55, con infiltrados alveolares parahiliares.
+• Ecocardiograma transtorácico: VI con hipertrofia concéntrica moderada con FEVI normal. Calcio en anillo mitral. Válvula aórtica bicúspide con estenosis severa: Gradiente pico 76 mmHg y medio 46-50 mmHg, área por continuidad de 0,56 cm2/m2 e insuficiencia ligera. Cámaras derechas normales con VD normofuncionante. Válvula pulmonar normal con ramas principales algo adelgazadas.
+• RMN cardiaca: Estenosis proximal de ambas ramas principales de la arteria pulmonar, A. pulmonar derecha con calibre de 9x8 mm proximalmente, y de 11x13 mm distalmente y en A. pulmonar izquierda de 9x10 mm proximalmente y distalmente de 8x7 mm. Ventrículo derecho no dilatado, función sistólica conservada. FEVD: 61,9%; VTD: 136,4 ml; VTS: 52 ml (realizada un año previo al ingreso). • Coronariografía: Arterias coronarias angiográficamente sin lesiones. Estenosis aórtica severa. • Angio TAC de tórax: Estenosis proximal de ambas arterias pulmonares: A. pulmonar derecha diámetro de 9 mm y A. pulmonar izquierda 10 mm, cardiomegalia a expensas de cavidades izquierdas (realizado durante el ingreso).
+
+Evolución clínica
+El paciente ingresa en Unidad de Cuidados Intensivos en situación de edema agudo de pulmón, que mejora tras ventilación mecánica no invasiva y hemofiltración. Se realiza ecocardiograma transtorácico de urgencia que objetiva estenosis aórtica severa en válvula aórtica bicúspide calcificada y con movilidad disminuida. Durante ingreso de realiza angio TAC de tórax para valorar estenosis de arterias pulmonares, las cuales no tienen criterio de severidad.
+Una vez estabilizado el paciente se realizada coronariografía (descrita previamente) con vistas a realizar sustitución de válvula aórtica. Finalmente es intervenido con implante de prótesis aórtica biológica Magna Ease tamaño 23, el postoperatorio transcurre sin complicaciones. En el ecocardiograma previo al alta se comprueba el normofuncionamiento de la prótesis.
+
+Diagnóstico
+• Estenosis aórtica severa en válvula bicúspide
+• Síndrome de Alagille

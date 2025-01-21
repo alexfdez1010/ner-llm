@@ -1,0 +1,38 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 85 años derivada por dolor torácico.
+
+ANTECEDENTES:
+Intolerancia a los antiinflamatorios no esteroideos (AINE).
+Sin hábitos tóxicos.
+Hipertensión arterial. No diabetes mellitus ni dislipemia.
+Valorada en cardiología en 2013 por palpitaciones con Holter normal e hipertrofia concéntrica leve en el ecocardiograma.
+Otros antecedentes: polimialgia reumática, espondilosis lumbar, degeneración macular, síndrome ansioso-depresivo, insuficiencia venosa crónica.
+Intervenciones quirúrgicas: prótesis total de cadera derecha (2011) tras fractura y miomectomía uterina.
+Tratamiento actual: bisoprolol 2,5 mg cada 24 horas, valsartán-hidroclorotiazida 80/12,5 mg cada 24 horas, esomeprazol 20 mg cada 24 horas y venlafaxina 150 mg cada 24 horas.
+Situación basal: vive sola. Independiente para actividades básicas de la vida diaria.
+
+
+ENFERMEDAD ACTUAL:
+Mujer de 85 años de edad que acude a nuestro centro traída por los servicios de emergencias por episodio de dolor centrotorácico opresivo irradiado a mandíbula y hombros, de inicio en reposo y acompañado de cortejo vegetativo. Durante el traslado a urgencias se administra nitroglicerina sublingual con mejoría, quedando posteriormente asintomática. La clínica estuvo presente durante aproximadamente 45 minutos.
+
+EXPLORACIÓN FÍSICA:
+Tensión arterial (TA) 131/72 mmHg. Frecuencia cardiaca (FC) 74 lpm. Saturación de O2 (SatO2) basal 100%. Afebril. Consciente, orientada y colaboradora. Eupneica en reposo. Buen estado general, normohidratada y normocoloreada. Carótidas rítmicas sin soplos, no ingurgitación yugular. Auscultación cardiaca (AC): rítmica sin soplos audibles. Auscultación pulmonar (AP): con murmullo vesicular conservado sin sobreañadidos. Abdomen blando, depresible, no doloroso a la palpación, sin masas ni megalias. Miembros inferiores sin edemas ni signos de flebitis. Pulso radial, femoral y tibial anterior conservado y simétrico.
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA: hemoglobina 11,9 g/dl, plaquetas 268.000/mm3, leucocitos 6.790/mm3 (con fórmula normal). Coagulación normal. Glucosa 91 mg/dl, urea 56 mg/dl, creatinina 1,09 mg/dl, CKDEPI 46 ml/min, sodio 140 mEq/l, potasio 4,9 mEq/l, triglicéridos 121 mg/dl, colesterol total 184 mg/dl (HDL 42 mg/dl, LDL 118 mg/dl), ácido úrico 7,0 mg/dl, ALT 42 UI/l, AST 262 UI/l, GGT 22 UI/L, fosfatasa alcalina 98 UI/l, bilirrubina total 0,3 mg/dl, hierro 42 ug/dl, transferrina 2,12 mg/dl, IST 15,6%, ferritina 52,3 ng/ml, TSH 1,33 ng/dl, HbA1c 5,8%. Troponina I 0,87 ng/ml al ingreso, pico 126 ng/ml (límite alto de la normalidad 0,08 ng/ml).
+RADIOGRAFÍA DE TÓRAX AP: ligera elongación de aorta, pinzamiento de seno costofrénico derecho, líquido en cisura mayor derecha. Silueta cardiovascular poco valorable por técnica.
+ECG (ingreso): ritmo sinusal a 70 lpm con PR normal y QRS estrecho, rectificación del segmento ST en cara lateral.
+ECG (unidad coronaria): ritmo sinusal a 75 lpm, PR normal, onda de lesión subepicárdica con T negativa lateral.
+ECOCARDIOGRAMA: regular ventana ecocardiográfica. VI de tamaño y función sistólica global normal, con hipocinesia de cara posterior. Aurícula izquierda dilatada con área 28,3 cm2.
+Cavidades derechas de tamaño normal. Calcificación del anillo mitral. No se detecta insuficiencia significativa. Tricúspide normal con insuficiencia moderada. Gradiente sistólico VD-AD 34 mmHg.
+Cava inferior normal. Aórtica normal con insuficiencia leve-trivial, sin gradiente patológico.
+CATETERISMO CARDIACO: coronarias sin lesiones salvo defecto de repleción en primera obtusa marginal. Se realiza aspiración de material blanquecino con dos fragmentos de 1 cm cada uno, que se remiten a anatomía patológica para estudio. Tras la extracción la arteria queda con flujo TIMI 3.
+ANATOMÍA PATOLÓGICA: material calcificado, acelular, de morfología ateroembólica.
+
+EVOLUCIÓN CLÍNICA
+Con el diagnóstico de SCASEST la paciente ingresa en la unidad coronaria, permaneciendo asintomática desde el punto de vista cardiovascular durante todo su ingreso. Se realiza cateterismo precoz que muestra oclusión coronaria de etiología embólica, sin lograr establecer la fuente de ateroembolia, por lo que dado que no presenta alto riesgo hemorrágico se inicia anticoagulación de forma empírica. Tensión arterial y frecuencia cardiaca controlada durante el ingreso, sin objetivar arritmias. La paciente recibe el alta a los tres días del ingreso.
+
+DIAGNÓSTICO
+Cardiopatía isquémica. Infarto agudo de miocardio (IAM) no Q, Killip I.
+Defecto de repleción en arteria obtusa marginal de etiología embólica. Arterias coronarias sin lesiones.
+Fracción de eyección del ventrículo izquierdo conservada.

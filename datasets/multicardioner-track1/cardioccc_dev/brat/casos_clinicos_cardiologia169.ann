@@ -1,0 +1,72 @@
+T25	ENFERMEDAD 4685 4718	VD de tamaño ligeramente dilatado
+T36	ENFERMEDAD 98 119	hipertensión arterial
+T37	ENFERMEDAD 121 124	HTA
+T38	ENFERMEDAD 127 137	Dislipemia
+T39	ENFERMEDAD 198 227	Cardiopatía isquémica crónica
+T40	ENFERMEDAD 229 295	Enfermedad coronaria de tronco coronario izquierdo (TCI) y 3 vasos
+T41	ENFERMEDAD 369 385	angina inestable
+T42	ENFERMEDAD 399 424	enfermedad del 90% de TCI
+T43	ENFERMEDAD 426 441	oclusión de DAm
+T44	ENFERMEDAD 444 465	oclusión de CXp y CDp
+T45	ENFERMEDAD 577 591	angina estable
+T46	ENFERMEDAD 646 669	isquemia global extensa
+T47	ENFERMEDAD 796 829	Fibrilación auricular persistente
+T48	ENFERMEDAD 919 933	Asma bronquial
+T49	ENFERMEDAD 1092 1129	Insuficiencia renal crónica estadio 3
+T50	ENFERMEDAD 1152 1172	nefroangioesclerosis
+T51	ENFERMEDAD 1174 1204	Hiperparatiroidismo secundario
+T52	ENFERMEDAD 1206 1231	Anemia crónica secundaria
+T53	ENFERMEDAD 1233 1246	Hiperuricemia
+T54	ENFERMEDAD 1248 1279	Hiperplasia benigna de próstata
+T55	ENFERMEDAD 2466 2485	hemorragia pulmonar
+T56	ENFERMEDAD 2702 2721	hemorragia alveolar
+T57	ENFERMEDAD 2970 2983	cardiomegalia
+T58	ENFERMEDAD 3005 3027	insuficiencia cardiaca
+T59	ENFERMEDAD 3068 3076	neumonía
+T60	ENFERMEDAD 3565 3590	trombosis venosa profunda
+T61	ENFERMEDAD 3592 3595	TVP
+T62	ENFERMEDAD 3628 3649	fibrilación auricular
+T63	ENFERMEDAD 4069 4084	derrame pleural
+T64	ENFERMEDAD 4442 4472	placa ulcerada en ilíaca común
+T65	ENFERMEDAD 4774 4794	insuficiencia mitral
+T66	ENFERMEDAD 4888 4890	HP
+T67	ENFERMEDAD 4900 4963	Válvula aórtica esclerocalcificada, con estenosis aórtica grave
+T68	ENFERMEDAD 5053 5074	insuficiencia aórtica
+T69	ENFERMEDAD 5131 5150	derrame pericárdico
+T70	ENFERMEDAD 5468 5497	Insuficiencia valvular mitral
+T71	ENFERMEDAD 5512 5546	Insuficiencia valvular tricuspídea
+T72	ENFERMEDAD 5609 5628	derrame pericárdico
+T73	ENFERMEDAD 6325 6344	hemorragia alveolar
+T74	ENFERMEDAD 6562 6571	infección
+T75	ENFERMEDAD 6666 6689	estenosis aórtica grave
+T76	ENFERMEDAD 8138 8164	Hemorragia alveolar difusa
+T77	ENFERMEDAD 8360 8394	Insuficiencia tricuspídea moderada
+T78	ENFERMEDAD 8407 8444	Cardiopatía isquémica crónica estable
+T79	ENFERMEDAD 8446 8473	Enfermedad de TCI y 3 vasos
+T80	ENFERMEDAD 8589 8626	Fibrilación auricular (FA) permanente
+T81	ENFERMEDAD 8689 8692	HTA
+T82	ENFERMEDAD 1380 1394	Angina estable
+T83	ENFERMEDAD 139 141	DL
+T84	ENFERMEDAD 8694 8696	DL
+T85	ENFERMEDAD 8612 8614	FA
+T86	ENFERMEDAD 4846 4860	IT 2/4 central
+T87	ENFERMEDAD 28 51	alergias medicamentosas
+T88	ENFERMEDAD 2055 2068	cardiomegalia
+T89	ENFERMEDAD 7786 7829	descompensaciones de insuficiencia cardiaca
+T90	ENFERMEDAD 6080 6121	descompensación de insuficiencia cardiaca
+T91	ENFERMEDAD 6605 6646	descompensación de insuficiencia cardiaca
+T92	ENFERMEDAD 150 157	fumador
+T93	ENFERMEDAD 5244 5327	válvula aórtica ligeramente calcificada con estenosis grave e insuficiencia central
+T94	ENFERMEDAD 4650 4675	AI moderadamente dilatada
+T95	ENFERMEDAD 8053 8076	Estenosis aórtica grave
+T96	ENFERMEDAD 8396 8405	HP ligera
+T212	ENFERMEDAD 5798 5825	insuficiencia periprotésica
+T213	ENFERMEDAD 8002 8029	insuficiencia periprotésica
+T165	ENFERMEDAD 4865 4886	hipertensión pulmonar
+T171	ENFERMEDAD 8093 8136	descompensaciones de insuficiencia cardiaca
+T173	ENFERMEDAD 8178 8200	insuficiencia cardiaca
+#1	AnnotatorNotes T66	 hipertensión pulmonar
+#2	AnnotatorNotes T83	 DL dislipemia
+#3	AnnotatorNotes T84	 DL dislipemia
+#4	AnnotatorNotes T85	 FA fibrilación auricular
+#5	AnnotatorNotes T86	IT insuficiencia tricuspídea

@@ -1,0 +1,50 @@
+Varón de 47 años que acude a nuestro centro traído por los servicios de Emergencias tras presentar una parada cardiorrespiratoria recuperada.
+
+Antecedentes
+Factores de riesgo cardiovascular: diabetes mellitus tipo 2, hipertensión arterial, dislipemia, fumador de 1 paquete/día.
+Episodio de gota en 2010 tratado con colchicina y alopurinol. ʟʟ Intervenido de hernioplastia inguinal bilateral. ʟʟ Sin historia cardiovascular previa conocida ni antecedentes familiares de cardiopatía isquémica precoz.
+
+Tratamiento habitual: losartán 50 mg, metformina 850 mg (medio comprimido al día).
+
+Enfermedad actual: acude traído a nuestro centro por los servicios de Emergencias tras presentar en la vía pública parada cardiorrespiratoria presenciada, iniciándose maniobras de reanimación cardiopulmonar (RCP) básica por un técnico durante 15 minutos.
+Tras la llegada de los servicios de Emergencias se inician maniobras de RCP avanzada e intubación orotraqueal (IOT). Se identifica en el monitor un ritmo desfibrilable, aplicando dos descargas a máxima energía, tras lo cual recupera el ritmo sinusal objetivándose en el electrocardiograma (ECG) ascenso del segmento ST en cara inferior.
+A su llegada a nuestro centro se repite el ECG, en el que se objetiva normalización del segmento ST en cara inferior. Se realiza ecocardiograma transtorácico (ETT) portátil que muestra acinesia de la cara inferior. Se traslada al paciente de forma urgente a la sala de Hemodinámica, iniciándose protocolo de hipotermia terapéutica. Se realiza coronariografía objetivándose oclusión de la arteria circunfleja (CX) ostial, que recibe circulación colateral heterocoronaria de la arteria descendente anterior (DA), y una estenosis severa en el segmento medio de la arteria coronaria derecha (CD) con imagen de placa compleja. En vista de los hallazgos electrocardiográficos y del ETT, se considera responsable del cuadro a la arteria CD, por lo que se realiza angioplastia e implantación de 2 stents recubiertos con resultado subóptimo por mala aposición de los stents debido a la importante carga de calcio y la irregular distribución del mismo. Posteriormente se traslada a la unidad de Cuidados Agudos Cardiológicos intubado, sedoanalgesiado y relajado, en proceso de enfriamiento mediante suero salino fisiológico a 4 oC.
+
+Exploración física
+Tensión arterial: 108/60.
+Frecuencia cardiaca: 65 lpm.
+aturación de oxígeno: 100%.
+Cabeza y cuello: presión venosa yugular normal.
+Auscultación pulmonar: murmullo vesicular disminuido en hemitórax derecho. Auscultación cardiaca: sin soplos ni extratonos.
+Abdomen: ruidos hidroaéreos presentes. Blando, sin masas ni organomegalias.
+Extremidades: pulsos de amplitud ligeramente disminuida, simétricos, sin edema en miembros inferiores, llenado capilar lento.
+Neurológico: pupilas simétricas reactivas. Ramsay 6.
+
+
+PRUEBAS COMPLEMENTARIAS
+ECG (tras desfibrilación): ritmo sinusal, QRS estrecho, ascenso del segmento ST de hasta 4 mm en cara inferior, mayor en derivación III que en II, con descenso especular de V1 a V3.
+ECG (a su llegada a nuestro centro): normalización del ascenso del segmento ST en cara inferior.
+
+Análisis al ingreso: Hb 14 g/dL, leucocitos 17300/μL (neutrófilos 85%), plaquetas 270000/μL, INR 1, dímero D 15346 ng/mL, glucosa 346 mg/dL, urea 27 mg/dL, creatinina 0,83 mg/dL, Na 134 mg/dL, potasio 4,3 mg/dL, NTproBNP 280 pg/mL, ALT 48 U/L, GGT 32U/L, fosfatasa alcalina 76U/L, amilasa y lipasa normales, Mg 2,3 mg/dL, Ca 8,1 mg/dL, P 6,4 mg/dL, colesterol total 138 mg/dL, LDL 84 mg/dL, HDL 35 mg/dL, triglicéridos 92 mg/dL, HbA1c 6,2%, TSH 0,03 ulU/mL, T4 libre 17,6 pg/mL, T3 libre 3,9 pg/mL. Marcadores de necrosis miocárdica: pico troponina I 149 ng/mL, pico CK 2512 U/L. Enolasa neuronal específica: 1a determinación: 29,4 ng/mL. Segunda determinación: 43,3 ng/mL.
+
+Hemocultivos, urocultivo y cultivo del aspirado bronquial: negativos. Radiografía de tórax al ingreso: atelectasia en lóbulo superior derecho.
+
+Radiografía de tórax 2 días después del ingreso: infiltrado alveolointersticial en pulmón derecho y base del pulmón izquierdo. Resolución de la atelectasia del lóbulo superior derecho.
+
+Ecocardiograma portátil a su ingreso (durante la inducción de la hipotermia): disfunción ventricular izquierda moderada-severa con FEVI estimada del 35%, con acinesia posterior, inferior e hipocinesia lateral. Ventrículo derecho con función sistólica levemente reducida (TAPSE 15 mm), insuficiencia mitral leve, no derrame pericárdico.
+
+Ecocardiograma tras finalizar hipotermia y extubar al paciente: función sistólica del ventrículo izquierdo levemente reducida (FEVI por biplano 57%). Acinesia apical e hipocinesia de la cara inferior y septal. Insuficiencia mitral leve. Coronariografía urgente: tronco coronario izquierdo: sin estenosis. Arteria DA: vaso de adecuado calibre y desarrollo, sin estenosis. Arteria CX: vaso de adecuado tamaño y desarrollo, con oclusión 100% ostial que recibe circulación colateral homocoronaria Rentrop-3 desde las ramas diagonales de la arteria DA. Arteria CD: vaso dominante severamente calcificado, de adecuado tamaño y desarrollo, con estenosis del 75% en su segmento proximal y con imagen de placa ulcerada del 90% en su segmento medio. Se realiza angioplastia con balón e implante de 2 stents farmacoactivos solapados en los segmentos medio y proximal de la arteria CD, con flujo distal TIMI III.
+
+EVOLUCIÓN
+A su llegada a la unidad de Cuidados Agudos Cardiológicos se inserta catéter venoso femoral de hipotermia (Coolgard®), lográndose completar el enfriamiento y alcanzar temperatura objetivo de 33 °C en pocas horas. En la radiografía del ingreso se objetiva imagen de atelectasia en lóbulo superior derecho en probable relación con impactación de secreciones, que se resuelve en la radiografía de control posterior tras aspirado del tubo endotraqueal y movilizaciones del paciente. Se mantiene la hipotermia terapéutica durante 24 horas, realizándose el recalentamiento posterior sin complicaciones.
+El paciente presenta buena evolución, lo que permite extubarlo el tercer día de ingreso. Tras el recalentamiento y la extubación, el paciente presenta buena recuperación neurológica, con movilización adecuada de las 4 extremidades, encontrándose orientado, con capacidad para comprender y obedecer órdenes, con cierto déficit frontal, que recupera paulatinamente.
+Al alta persiste disartria leve, pendiente de valoración y seguimiento por rehabilitación y logopedia. Como incidencia, durante su ingreso presentó en la telemetría una racha de fibrilación auricular, que se cardiovirtió a ritmo sinusal tras el inicio de amiodarona, sin nuevos episodios arrítmicos. Los servicios de emergencias nos informaron a su llegada al hospital de la posibilidad de broncoaspiración durante la IOT, por lo que a su ingreso se extrajeron cultivos de sangre, orina y aspirado bronquial, y se inició cobertura antibiótica empírica con amoxicilina-clavulánico. Los cultivos, no obstante, fueron negativos. Tras completar el recalentamiento se objetiva fiebre mantenida durante más de 24 horas, con secreciones purulentas en el tubo de ventilación por lo que se modifica la antibioterapia, iniciándose meropenem y metronidazol, con buena evolución, sin nuevos picos febriles.
+El paciente es dado de alta con tratamiento con adiro 100 mg, prasugrel 10 mg, pantoprazol 20 mg, atorvastatina 80 mg, enalapril 10 mg y metoprolol 50 mg en el desayuno y 25 mg en la cena. Se remite al paciente a la consulta de Rehabilitación cardiaca de nuestro centro.
+
+DIAGNÓSTICO
+Parada cardiorrespiratoria por fibrilación ventricular recuperada.
+SCACEST inferior Killip I.
+Angioplastia e implante de stents farmacoactivos en la coronaria derecha proximal y media.
+Oclusión total de arteria circunfleja ostial con circulación colateral.
+Hipotermia terapéutica.
+Neumonía por broncoaspiración.

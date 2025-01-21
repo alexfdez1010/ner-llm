@@ -1,0 +1,36 @@
+T34	ENFERMEDAD 71 94	alergias medicamentosas
+T35	ENFERMEDAD 106 113	Fumador
+T36	ENFERMEDAD 200 221	hipertensión arterial
+T37	ENFERMEDAD 223 226	HTA
+T38	ENFERMEDAD 229 239	dislipemia
+T39	ENFERMEDAD 269 286	diabetes mellitus
+T40	ENFERMEDAD 288 290	DM
+T41	ENFERMEDAD 293 318	Tumor vesical recidivante
+T42	ENFERMEDAD 370 417	Neoplasia prostática con afectación metastásica
+T43	ENFERMEDAD 1903 1942	enfermedad pulmonar obstructiva crónica
+T44	ENFERMEDAD 1944 1948	EPOC
+T45	ENFERMEDAD 1968 1978	neumotórax
+T46	ENFERMEDAD 1980 1993	Cardiomegalia
+T47	ENFERMEDAD 1995 2027	Ateromatosis calcificada aórtica
+T48	ENFERMEDAD 2063 2078	derrame pleural
+T49	ENFERMEDAD 2501 2520	oclusión trombótica
+T50	ENFERMEDAD 2394 2462	Arteria coronaria derecha (ACD): dominante, tortuosa, con enfermedad
+T51	ENFERMEDAD 2631 2700	comunicación interventricular por rotura del tabique interventricular
+T52	ENFERMEDAD 3265 3355	válvula mitral presenta signos de fibrosis del anillo, apertura conservada e insuficiencia
+T53	ENFERMEDAD 3485 3510	insuficiencia tricuspídea
+T54	ENFERMEDAD 3512 3514	IT
+T55	ENFERMEDAD 3609 3628	derrame pericárdico
+T56	ENFERMEDAD 3751 3777	infarto agudo de miocardio
+T57	ENFERMEDAD 3852 3896	oclusión trombótica en segmento medio de ACD
+T58	ENFERMEDAD 3953 3972	infarto es subagudo
+T59	ENFERMEDAD 4074 4096	insuficiencia cardiaca
+T60	ENFERMEDAD 4157 4182	rotura septal ventricular
+T61	ENFERMEDAD 4690 4724	insuficiencia cardiaca refractaria
+T62	ENFERMEDAD 4838 4873	Infarto agudo de miocardio inferior
+T63	ENFERMEDAD 4888 4936	Oclusión trombótica de arteria coronaria derecha
+T64	ENFERMEDAD 4963 4988	Rotura septal ventricular
+T65	ENFERMEDAD 4990 5024	Insuficiencia cardiaca refractaria
+T66	ENFERMEDAD 4211 4234	shunt izquierda-derecha
+T67	ENFERMEDAD 3191 3235	válvula aórtica está ligeramente esclerosada
+T68	ENFERMEDAD 2951 3010	dilatación de cavidades derechas y del ventrículo izquierdo
+#1	AnnotatorNotes T40	 diabetes mellitus

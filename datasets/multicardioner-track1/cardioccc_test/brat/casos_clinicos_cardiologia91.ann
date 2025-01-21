@@ -1,0 +1,61 @@
+T24	ENFERMEDAD 134 137	HTA
+T25	ENFERMEDAD 214 227	Hiperuricemia
+T26	ENFERMEDAD 229 257	EPOC tipo bronquitis crónica
+T27	ENFERMEDAD 326 347	hipertensión pulmonar
+T28	ENFERMEDAD 509 533	taquicardia QRS estrecho
+T29	ENFERMEDAD 725 745	hipotensión arterial
+T30	ENFERMEDAD 947 993	dilatación biventricular con disfunción severa
+T31	ENFERMEDAD 1023 1052	insuficiencia mitral moderada
+T32	ENFERMEDAD 1086 1127	insuficiencia tricuspídea moderada-severa
+T33	ENFERMEDAD 1189 1207	shock cardiogénico
+T34	ENFERMEDAD 1249 1273	tromboembolismo pulmonar
+T35	ENFERMEDAD 1313 1331	shock cardiogénico
+T36	ENFERMEDAD 1645 1684	insuficiencia mitral moderada funcional
+T37	ENFERMEDAD 1687 1740	doble lesión aórtica con insuficiencia aórtica severa
+T38	ENFERMEDAD 1802 1830	insuficiencia aórtica severa
+T39	ENFERMEDAD 1854 1890	prolapso de velo coronariano derecho
+T40	ENFERMEDAD 1971 2022	perforación de la base del velo coronariano derecho
+T41	ENFERMEDAD 2441 2495	fibrilación auricular con respuesta ventricular rápida
+T42	ENFERMEDAD 2767 2770	TEP
+T43	ENFERMEDAD 2792 2828	adenopatías mediastínicas o axilares
+T44	ENFERMEDAD 3108 3130	insuficiencia cardiaca
+T45	ENFERMEDAD 3306 3325	hepatopatía crónica
+T46	ENFERMEDAD 3351 3354	TEP
+T47	ENFERMEDAD 3932 3973	endocarditis a nivel de la válvula mitral
+T48	ENFERMEDAD 3975 4074	Válvula aórtica tricúspide, fibroesclerosada, con engrosamiento severo del velo coronariano derecho
+T49	ENFERMEDAD 4207 4230	verruga de endocarditis
+T50	ENFERMEDAD 4243 4279	prolapso de velo coronariano derecho
+T51	ENFERMEDAD 4459 4496	prolapso del velo coronariano derecho
+T52	ENFERMEDAD 4758 4779	valvulopatía pulmonar
+T53	ENFERMEDAD 4823 4842	derrame pericárdico
+T54	ENFERMEDAD 4903 4913	IAo severa
+T55	ENFERMEDAD 5099 5135	prolapso de velo coronariano derecho
+T56	ENFERMEDAD 5221 5272	perforación de la base del velo coronariano derecho
+T57	ENFERMEDAD 5475 5511	endocarditis sobre la válvula mitral
+T58	ENFERMEDAD 5610 5644	endocarditis sobre válvula aórtica
+T59	ENFERMEDAD 5958 6004	afectación endocardítica por Coxiella burnetii
+T60	ENFERMEDAD 6065 6082	flutter auricular
+T61	ENFERMEDAD 6136 6165	disfunción ventricular severa
+T63	ENFERMEDAD 6400 6418	Shock cardiogénico
+T64	ENFERMEDAD 6538 6586	Endocarditis mitro-aórtica por Coxiella burnetii
+T65	ENFERMEDAD 3811 3813	IM
+T66	ENFERMEDAD 5285 5287	IM
+T67	ENFERMEDAD 5668 5670	IM
+T68	ENFERMEDAD 4634 4641	IT leve
+T69	ENFERMEDAD 6191 6195	TVNS
+T70	ENFERMEDAD 99 122	alergias medicamentosas
+T71	ENFERMEDAD 294 323	doble lesión aórtica moderada
+T72	ENFERMEDAD 1054 1083	doble lesión aórtica moderada
+T73	ENFERMEDAD 170 177	fumador
+T74	ENFERMEDAD 156 167	dislipémico
+T75	ENFERMEDAD 203 212	Exbebedor
+T77	ENFERMEDAD 3584 3595	AI dilatada
+T78	ENFERMEDAD 3678 3689	AD dilatada
+T79	ENFERMEDAD 4296 4299	IAo
+T80	ENFERMEDAD 4685 4697	VCI dilatada
+T81	ENFERMEDAD 5646 5656	IAO severa
+T82	ENFERMEDAD 5658 5666	EAo leve
+T4	ENFERMEDAD 3227 3268	hipertrofia del lóbulo hepático izquierdo
+T16	ENFERMEDAD 3376 3460	ventrículo izquierdo moderada-severamente dilatado, con hipertrofia concéntrica leve
+T118	ENFERMEDAD 6437 6456	taquimiocardiopatía
+T119	ENFERMEDAD 6461 6489	fibrilación auricular rápida

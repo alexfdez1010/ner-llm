@@ -1,0 +1,12 @@
+T7	ENFERMEDAD 2098 2117	enfisema subcutáneo
+T10	ENFERMEDAD 2123 2138	neumomediastino
+T19	ENFERMEDAD 307 321	ulcus duodenal
+T24	ENFERMEDAD 1499 1516	enfisema cervical
+T26	ENFERMEDAD 1599 1626	fibrosis pulmonar bilateral
+T27	ENFERMEDAD 1722 1746	neumomediastino anterior
+T29	ENFERMEDAD 1838 1865	fibrosis pulmonar bilateral
+T30	ENFERMEDAD 1870 1885	neumomediastino
+T31	ENFERMEDAD 1888 1938	bullas aéreas de gran tamaño en el lóbulo superior
+T32	ENFERMEDAD 1967 1977	neumotórax
+T1	ENFERMEDAD 119 122	FPI
+#1	AnnotatorNotes T1	   FPI: Fibrosis pulmonar idiopática

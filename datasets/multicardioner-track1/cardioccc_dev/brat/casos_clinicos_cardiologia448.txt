@@ -1,0 +1,39 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+Mujer de 61 años.
+No alergias medicamentosas conocidas.
+No factores de riesgo cardiovascular ni hábitos tóxicos. No antecedentes familiares de cardiopatía isquémica precoz ni muerte súbita.
+No antecedentes cardiológicos previos.
+Vitiligo.
+No otras enfermedades de interés. Sin ingresos ni intervenciones quirúrgicas
+Sin tratamiento habitual.
+
+ENFERMEDAD ACTUAL:
+Previamente asintomática cardiovascular hasta la semana previa al ingreso, que comienza con cuadro pseudogripal de mialgias, astenia y de sensación distérmica con febrícula. El día del ingreso presenta dos episodios de mareo con cortejo vegetativo asociado y síncope posterior, con recuperación completa en segundos. No asocia dolor torácico ni palpitaciones. No había tenido episodios sincopales previos, ni presentaba disnea, ortopnea, oliguria o edemas.
+
+EXPLORACIÓN FÍSICA:
+Se objetiva hipotensión arterial de 50/70 mmHg y taquicardia a 110 lpm, junto con datos de mala perfusión periférica, con frialdad y sudoración. Afebril. Auscultación cardiopulmonar con ruidos cardiacos rítmicos, sin soplos y murmullo vesicular conservado sin ruidos patológicos.
+Pulsos presentes y simétricos en las cuatro extremidades. Sin edema ni datos de trombosis venosa en miembros inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal a 90 lpm, PR 140 ms, QRS estrecho, con discreta elevación punto J especialmente en cara inferior y V5-V6, con lenta progresión de R en precordiales y voltajes disminuidos generalizados.
+RADIOGRAFÍA DE TÓRAX (ingreso): índice cardiotorácico normal. Sin datos de insuficiencia cardíaca ni condensaciones visibles.
+RADIOGRAFÍA DE TÓRAX (evolución): edema agudo de pulmón.
+ANALÍTICA:
+Hemograma: leucocitos 6600/μl (70 % neutrófilos), Hb 13,6 g/dl, plaquetas 140.000/μl.
+Coagulación: INR 1, TP 96 %.
+Bioquímica: al inicio: glucosa 145 mg/dl, urea 52 mg/dl, creatinina 1,03 mg/dl, filtrado glomerular 52 ml/min (CKD-EPI) [>60], K 4,5 mmol/l, Na 140 mmol/l, CK 151 U/l, Troponina ultrasensible 24,4 ng/l. ProBNP 414 pg/ml. En la evolución: GOT 1.322 U/l, GPT 1.050 U/l, CK 3578 U/l, troponina ultrasensible 5.001 ng/l, ProBNP 3.229 pg/ml, PCR 8,7 mg/dl.
+ECOCARDIOGRAMA TRANSTORÁCICO: ventrículo izquierdo hipertrófico (septo interventricular de 15 mm) con ecodensidad sugestiva de enfermedad infiltrativa o inflamación, no dilatado (diámetro teledistólico de 40 mm), con depresión muy severa de la fracción de eyección (FEVI 10-15 %) a expensas de hipocinesia global. Ventrículo derecho de tamaño normal con disfunción ventricular grave (TAPSE 7). Aurícula izquierda de tamaño normal. No valvulopatías significativas. Derrame pericárdico ligero. Aorta ascendente de tamaño normal.
+RESONANCIA MAGNÉTICA NUCLEAR (RMN) CARDIACA: estudio muy artefactado por inadecuada colaboración de la paciente. Ambos ventrículos son tamaño normal con hipocinesia global grave e importante edema e hiperemia difusa, compatible con patología inflamatoria aguda. No se observan áreas con captación tardía de gadolinio. No se observa derrame pericárdico. Mínimos derrames pleurales bilaterales.
+
+EVOLUCIÓN CLÍNICA
+En situación de hipotensión arterial y mala perfusión periférica con sospecha inicial de miocarditis aguda en situación de shock cardiogénico, ingresa en la unidad coronaria y se inicia soporte hemodinámico con dobutamina y noradrenalina. Al día siguiente del ingreso se realiza RMN cardiaca, que confirma el diagnóstico de sospecha. Empeoramiento progresivo en las siguientes horas a pesar del tratamiento con aminas vasoactivas a dosis máximas toleradas, con deterioro clínico e inicio de fallo multiorgánico, con oligoanuria, lactidemia mayor de 6 nmol/l y aumento de enzimas de daño hepático. Se decide colocación de balón aórtico de contrapulsación y soporte circulatorio tipo ECMO veno-arterial.
+Las horas siguientes, persisten datos de mala perfusión distal y mala ventilación con expectoración rosácea a través de tubo orotraqueal compatible con edema agudo de pulmón.
+Presenta episodio de bradicardia grave y asistolia, realizándose maniobras de reanimación cardiopulmonar avanzada, falleciendo al tercer día de ingreso.
+
+DIAGNÓSTICO
+Miocarditis fulminante.
+Disfunción biventricular muy grave (FEVI 10-15 %).
+Shock cardiogénico con soporte circulatorio con ECMO veno-arterial.
+Muerte.

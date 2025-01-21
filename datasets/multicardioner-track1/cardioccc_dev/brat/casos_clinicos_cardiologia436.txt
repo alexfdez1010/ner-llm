@@ -1,0 +1,41 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+No alergias medicamentosas conocidas.
+Factores de riesgo cardiovascular (FRCV): Hipertensión arterial (HTA) en tratamiento y fumador de una cajetilla al día.
+Sin antecedentes médicos relevantes.
+Cirugías previas: apendicectomía hace 20 años.
+Tratamiento actual: enalapril 10 mg cada 12 horas. Vida basal: independiente para actividades básicas de la vida diaria.
+Antecedentes familiares: padre con muerte súbita a los 60 años.
+
+ENFERMEDAD ACTUAL:
+Paciente varón de 44 años de edad que es traído por el SUMMA al servicio de urgencias por síncope brusco recuperado mientras caminaba por la calle. Refiere dolor torácico atípico en las 72 horas previas, intermitente, que aparecía en reposo y no se acompañaba de cortejo vegetativo. No refería clínica de insuficiencia cardiaca ni palpitaciones. No otra clínica por aparatos. A su llegada a urgencias se realiza el electrocardiograma (ECG). Inestable hemodinámicamente, se realiza ETT urgente en el que se observa taponamiento cardiaco secundario a rotura cardiaca. Se realiza intubación orotraqueal, se coloca vía central, se inicia soporte inotrópico y se realiza pericardiocentesis que es fallida, avisando al cirujano cardiaco para cirugía urgente con evacuación del derrame e implante de parche pericárdico. Tras la cirugía ingresa en unidad de cuidados intensivos (UCI) para continuación de cuidados. Durante su ingreso en UCI se realiza coronariografía que muestra coronaria izquierda sin lesiones significativas y estenosis crítica de coronaria derecha (CD) proximal, con imagen de trombo parcialmente recanalizado y flujo TIMI 1 distal, a IVP se rellena parcialmente por circulación colateral desde CI. Se decide tratamiento médico de la lesión por el momento. Tras un mes de ingreso, extubado, estable clínica y hemodinámicamente, sale a planta de cardiología.
+
+EXPLORACIÓN FÍSICA:
+IOT, regular perfundido, taquipneico. Auscultación cardiaca: rítmico, taquicárdico no se auscultan soplos, tonos apagados. Auscultación pulmonar: crepitantes bilaterales. Miembros inferiores: sin edemas.
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA: Hb 10g/dl. Plaquetas 228.000/ml, leucocitos 26.000/ml. 89% neutrófilos. INR 1,7. Urea 32 mg/dl. Cr 0,76 mg/dl. Na 136. K 4,3 mEq/l. pH 7,21, láctico 1,2 mmol/l, CK 3.000 mmol/l, TnT 600 ng/dl.
+ETT urgente (posoperatorio, UCI): disfunción biventricular severa a expensas de aquinesia inferior e inferolateral y disquinesia de los segmentos basales. Insuficiencia mitral (IM) leve isquémica. Leve derrame pericárdico.
+CORONARIOGRAFÍA: estenosis crítica CD proximal, con imagen de trombo parcialmente recanalizado, y flujo TIMI 1 distal. IVP se rellena por circulación colateral desde la coronaria izquierda. Árbol coronario izquierdo sin lesiones significativas.
+ETT reglado (planta cardiología): ventrículo izquierdo (VI) gravemente dilatado.
+Disfunción grave de VI con hipoquinesia de todos los segmentos y aquinesia de cara inferior, aneurisma posterobasal de gran tamaño con trombosis parcial de la cavidad. Función sistólica del ventrículo derecho (VD) en límite inferior de la normalidad.
+RMN (planta cardiología): VI dilatado con gran pseudoaneurisma de pared lateral, a nivel de reparación quirúrgica de rotura de pared libre de VI. El pseudoaneurisma mide: 66 x 41 mm (extensión lateral e inferolateral). No se objetivan imágenes sugestivas de trombo en su interior. Pared lateral adelgazada, con aquinesia lateral e inferior. Resto de paredes con espesor de septo dentro de la normalidad. Contractilidad conservada a nivel de cara anterior, septo y cara lateral medio-apical y basal. Función sistólica global severamente deprimida 19%. Estudio de realce tardío de gadolinio con área de realce transmural en cara inferior y lateral respetando segmentos apicales de ambas caras. VD con tamaño, espesor y contractilidad global y segmentaria dentro de límites normales. Función sistólica global límite inferior de la normalidad (51%). Derrame pleural izquierdo.
+
+Conclusiones:
+VI con gran pseudoaneurisma de cara lateral e inferolateral con aquinesia lateral e inferior.
+Función sistólica global severamente deprimida.
+Realce transmural en cara inferior y lateral respetando segmentos apicales de ambas caras.
+Derrame pleural izquierdo. Pseudoaneurisma cara lateral e inferolateral 66 x 41mm.
+Realce transmural en cara inferior y lateral, respetando segmento apicales de ambas caras. FEVI 20%.Trombo intracavitario.
+TAC (planta de cardiología): aorta torácica ascendente: 30 x 32 mm. Aorta torácica descendente: 20 x 20 mm. Hallazgos: en la cara inferolateral se identifica pseudoaneurisma ventricular, constituido por rotura contenida por parche quirúrgico de pericardio, de 64 x 41 x 73 mm con un cuello de 54 x 59 mm (medido de segmento basal y papilar). No se puede individualizar correctamente el parche de pericardio y la porción más apical de la estructura podría estar constituida por pared miocárdica. El músculo papilar tiene su base justo distal al pseudoaneurisma. Se identifica defecto de repleción en su interior de 4 mm que podría corresponder con pequeño trombo. No se detecta derrame pericárdico. Sin otros hallazgos extracardiacos. Resumen: pseudoaneurisma ventricular inferolateral de 64 x 41 x 73 mm con un cuello de 54 x 59 mm (ver descripción). Pequeño trombo intracavitario. Ausencia de derrame pericárdico.
+
+EVOLUCIÓN CLÍNICA
+En planta de cardiología se realizan pruebas complementarias en el que se observa, en resumen, disfunción ventricular grave con pseudoaneurisma en VI de 66 x 41 mm. Se optimiza el tratamiento, indicándose enalapril 10 mg c/12 horas, metoprolol 50 mg c/12 horas, aldactone 25 mg c/24 horas e ivabradina 7,5 mg c/12 horas con buena tolerancia.
+Se presenta el caso en sesión medico-quirúgica donde se plantea como opciones: tratamiento médico y seguimiento, implante de desfibrilador automático implantable (DAI), resección quirúrgica del pseudoaneurisma y trasplante cardiaco.
+Finalmente, se decide resección del pseudoaneurisma con muy buena evolución clínica y seguimiento en consultas. Actualmente el paciente ha recuperado FEVI hasta 42% en último ETT con clase funcional I de la New York Heart Association (NHYA) y libre de ingresos desde el alta.
+
+DIAGNÓSTICO
+Infarto agudo de miocardio (IAM) inferolateral complicado con rotura cardiaca. Reparación con parche de pericardio.
+Gran pseudoaneurisma de pared lateral, a nivel de reparación quirúrgica de rotura de pared libre del VI. Resección quirúrgica del pseudoaneurisma.
+Disfunción ventricular grave, moderada en la actualidad.

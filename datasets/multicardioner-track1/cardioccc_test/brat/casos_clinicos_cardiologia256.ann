@@ -1,0 +1,25 @@
+T24	ENFERMEDAD 75 98	alergias medicamentosas
+T25	ENFERMEDAD 160 169	exfumador
+T26	ENFERMEDAD 190 200	dislipemia
+T27	ENFERMEDAD 281 292	cardiopatía
+T29	ENFERMEDAD 659 666	síncope
+T30	ENFERMEDAD 668 685	angor de esfuerzo
+T31	ENFERMEDAD 1045 1070	trombosis venosa profunda
+T32	ENFERMEDAD 2370 2389	derrame pericárdico
+T33	ENFERMEDAD 2954 3016	ateromatosis difusa con dos lesiones moderadas en tándem en CD
+T34	ENFERMEDAD 3630 3637	SCASEST
+T35	ENFERMEDAD 3867 4024	arteria circunfleja subocluida con nacimiento anómalo desde seno coronario derecho adyacente a ostium de arteria coronaria derecha, con trayecto retroaórtico
+T36	ENFERMEDAD 4240 4293	lesión significativa de arteria descendente posterior
+T37	ENFERMEDAD 4374 4396	insuficiencia cardiaca
+T38	ENFERMEDAD 4512 4581	Síndrome coronario agudo sin elevacion del ST de localización lateral
+T39	ENFERMEDAD 4595 4604	IAM no Q.
+T40	ENFERMEDAD 4615 4717	Origen anómalo de arteria coronaria circunfleja desde seno coronario derecho con trayecto retroaórtico
+T41	ENFERMEDAD 4719 4865	Enfermedad coronaria de dos vasos: circunfleja subocluida en el origen, estenosis significativa en rama descendente posterior de coronaria derecha
+T42	ENFERMEDAD 4791 4865	estenosis significativa en rama descendente posterior de coronaria derecha
+T43	ENFERMEDAD 3028 3105	arteria descendente posterior (DP) presenta lesión angiográficamente moderada
+T44	ENFERMEDAD 4401 4419	eventos arrítmicos
+T45	ENFERMEDAD 2684 2814	Circunfleja (Cx): origen anómalo de su nacimiento desde seno coronario derecho adyacente a ostium de CD, con trayecto retroaórtico
+T46	ENFERMEDAD 4754 4776	circunfleja subocluida
+T76	ENFERMEDAD 2141 2190	Válvula tricúspide con velos finos, insuficiencia
+T95	ENFERMEDAD 299 312	muerte súbita
+T85	ENFERMEDAD 2816 2834	Arteria subocluida

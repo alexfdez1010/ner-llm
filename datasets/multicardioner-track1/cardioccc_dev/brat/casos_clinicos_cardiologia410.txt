@@ -1,0 +1,46 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+No alergias medicamentosas conocidas. No hábitos tóxicos. Hipertensión arterial. Diabetes mellitus tipo 2. Hipercolesterolemia. Osteoporosis. Colelitiasis sintomática y esteatosis hepática en seguimiento por especialista de digestivo.
+Antecedentes quirúrgicos: quiste ovárico e incontinencia urinaria.
+Ingreso en cardiología en 2013:
+Ritmo sinusal a 60 lpm, patrón de bloqueo completo de rama izquierda del haz de His (BCRIHH).
+Ecocardiografía transtorácica (23/04/13): disfunción sistólica de ventrículo izquierdo (VI) grave, con fracción de eyección (FE) 24%. Válvula mitral con cambios degenerativos, fibrosis moderada e insuficiencia mitral (IM) grave. Hipertensión pulmonar grave.
+Insuficiencia tricuspídea moderada.
+Cateterismo cardiaco (20/08/13): gasto e índice cardiaco reducido. Presiones en aurícula derecha, arteria pulmonar y venocapilar pulmonar dentro de la normalidad. Arterias coronarias libres de lesiones obstructivas. VI de tamaño y morfología normales con contractilidad global deprimida de forma grave, con FE 30%.
+Prueba de esfuerzo con consumo de O2: consumo de O2 pico 17,3 ml/kg/min, lo que supone un 80% del teórico calculado. 7,9 MET alcanzados. Clase B de Weber-Janicki.
+Resonancia magnética nuclear (RMN) cardiaca: miocardiopatía dilatada de origen incierto con disfunción ventricular izquierda grave, fracción de eyección del VI (FEVI) 30%.
+Valoración en 2014: prueba de esfuerzo con consumo de O2: consumo de O2 pico 16,2 ml/kg/min. Clase C de Weber-Janicki. TA normal y sin arritmias.
+Ingreso en cardiología en 2016:
+Ecocardiografía transtorácica con disfunción sistólica grave con FEVI del 33%. IM grave.
+Hipertensión pulmonar ligera. Insuficiencia tricuspídea ligera-moderada.
+Se implanta desfibrilador resincronizador (DAI-TRC [terapia de resincronización cardiaca]) tipo Boston.
+Seguimiento en consulta monográfica de IC con clase funcional II de la New York Heart
+Association (NYHA) estable.
+Tratamiento habitual: ácido acetilsalicílico 100 mg (0-1-0), espironolactona 25 mg (0-1-0), bisoprolol 1,25 mg (1-0-1), sacubitrilo/valsartán 49/51 mg (1-0-1), furosemida 40 mg (1-0-0), omeprazol 20 mg (1-0-0), pravastatina 40 mg (0-0-1), empaglifozina/metformina 5/1000 mg (1-0-0).
+
+ENFERMEDAD ACTUAL:
+Ingresa por disnea a moderados esfuerzos en los últimos meses, que en los últimos días ha ido empeorando, motivo por el cual ya no puede salir de su casa. Refiere caminar 1-2 metros y cansarse y tener que sentarse por disnea. No aumento de edemas en miembros inferiores ni otra sintomatología. No clínica infecciosa. No dolor torácico ni palpitaciones.
+
+EXPLORACIÓN FÍSICA:
+Consciente, orientada y colaboradora. Buen estado general. Tensión arterial (TA) 120/70.
+Frecuencia cardiaca (FC) 65 lpm. Saturación de oxígeno (SatO2) 96% basal. Auscultación cardiaca: rítmica con soplo sistólico en ápex. Auscultación pulmonar: murmullo vesicular conservados sin ruidos añadidos. Abdomen: anodino. Miembros inferiores: sin edemas. Pulsos pedios presentes.
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA: hemoglobina 13,7 g/dl. Leucocitos 10.800/mm3. Neutrófilos 69,9%. Plaquetas 246.000/mm3. INR 1,26. Creatinina 0,90 mg/dl. Sodio 138 meq/l. Potasio 4,8 meq/l. Bilirrubina total 1,9 mg/dl. Bilirrubina indirecta 1,40 mg/dl. GOT 51 U/l. GPT 49 U/l. Troponina I < 0,012 ng/ml, NT-proBNP 5270 pg/ml. PCR 24,50 mg/l. Sideremia 28 ug/dl. Transferrina 264 mg/dl. CTFH 372 ug/dl. Ferritina 74 ng/ml. IST 7,5%.
+RADIOGRAFÍA DE TÓRAX: bipedestación, posteroanterior. Índice cardiotorácico en el límite alto. DAI normoposicionado. Sin infiltrados ni condensaciones.
+ELECTROCARDIOGRAMA (ECG): ritmo de marcapasos con estimulación biventricular.
+QRS 150 ms con morfología BCRDHH.
+ECOCARDIOGRAFÍA TRANSTORÁCICA: VI dilatado con disfunción sistólica grave.
+IM grave funcional. IVT 12. Patrón pseudonormalizado de llenado. Ventrículo derecho (VD) no dilatado, normocontractil. Electrodo en VD, con insuficiencia triscuspídea ligera. Gradiente VDAD 41 mmHg.
+
+EVOLUCIÓN CLÍNICA
+Paciente mujer de 74 años, con antecedente de miocardiopatía dilatada, que ingresa por cuadro de IC crónica reagudizada sin claro desencadenante. Dados los signos de mala perfusión periférica y deterioro hemodinámico se decide la administración de un pulso de levosimendán como apoyo inotrópico positivo para lograr una recuperación precoz del cuadro de IC aguda. Se realiza con buena tolerancia hemodinámica y buena respuesta clínica, lográndose una estabilización con apoyo diurético a las 72 horas de ingreso tras el cuadro de descompensación.
+Así mismo, se procede a la optimización de la terapia resincronizadora del dispositivo DAI-TRC presentando al ingreso un QRS de 150 ms y tras la optimización y ajuste del retraso interventricular se logra una reducción hasta 132 ms.
+Tras la compensación del cuadro de IC aguda y previo al alta se procede a la optimización de la medicación dirigida para el tratamiento de la IC crónica de cara a plantear una transición tras el cuadro de descompensación y el seguimiento posterior en consultas externas para lo que se reinstaura el tratamiento previo domiciliario y se realiza un análisis de los depósitos de hierro.
+Se procede al alta hospitalaria y seguimiento en consulta monográfica de IC, en la que se planteará proseguir la titulación de la medicación, la corrección del déficil funcional de hierro y se valorará la inclusión en programa de tratamiento con dosis repetidas de levosimendán de forma ambulatoria.
+
+DIAGNÓSTICO
+Miocardiopatía dilatada no isquémica con disfunción ventricular izquierda grave.
+Insuficiencia mitral grave funcional.
+Insuficiencia cardiaca crónica en estadio C. Clase funcional III NYHA.

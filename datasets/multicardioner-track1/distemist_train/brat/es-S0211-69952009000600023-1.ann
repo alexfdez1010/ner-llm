@@ -1,0 +1,24 @@
+T5	ENFERMEDAD 2345 2372	edema papilar en ambos ojos
+T6	ENFERMEDAD 36 57	IRC secundaria a GEFS
+T8	ENFERMEDAD 2475 2519	atrofia casi total del nervio óptico derecho
+T10	ENFERMEDAD 53 57	GEFS
+T14	ENFERMEDAD 2413 2429	amaurosis del OI
+T19	ENFERMEDAD 2558 2598	atrofia total de nervio óptico izquierdo
+T20	ENFERMEDAD 146 190	hiperparatiroidismo secundario (HPTS) severo
+T21	ENFERMEDAD 178 182	HPTS
+T26	ENFERMEDAD 250 270	hipotensión arterial
+T37	ENFERMEDAD 554 558	HPTS
+T40	ENFERMEDAD 1980 1997	neuropatía óptica
+T41	ENFERMEDAD 622 637	hiperfosfatemia
+T49	ENFERMEDAD 891 926	paratiroides: hiperplasia bilateral
+T51	ENFERMEDAD 1025 1075	pérdida parcial de la visión del OD y total del OI
+T52	ENFERMEDAD 1077 1093	hipo-Ca moderada
+T53	ENFERMEDAD 1208 1215	hipo-Ca
+T55	ENFERMEDAD 308 334	calcificaciones arteriales
+T57	ENFERMEDAD 1096 1107	hipotensión
+T58	ENFERMEDAD 1343 1350	sífilis
+T59	ENFERMEDAD 1327 1340	toxoplasmosis
+T60	ENFERMEDAD 954 963	hipotensa
+#2	AnnotatorNotes T6	   IRC: insuficiencia renal crónica|GEFS: Glomeruloesclerosis focal y segmentaria
+#1	AnnotatorNotes T10	   GEFS: Glomeruloesclerosis focal y segmentaria
+#3	AnnotatorNotes T21	   HPTS: hiperparatiroidismo secundario

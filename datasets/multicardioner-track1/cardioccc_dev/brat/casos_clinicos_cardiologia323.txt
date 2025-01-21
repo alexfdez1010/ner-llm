@@ -1,0 +1,44 @@
+ANTECEDENTES PERSONALES
+Hábitos tóxicos: fumador de 1 cigarro/día.
+Sin factores de riesgo cardiovascular.
+Síndrome ansioso-depresivo.
+Tratamiento habitual: fluoxetina 20 mg.
+ENFERMEDAD ACTUAL
+Varón de 54 años que consultó por dolor torácico de 8 horas de evolución, opresivo, irradiado a miembro superior izquierdo y a mandíbula. Aunque el dolor se inicia de madrugada, el paciente no consulta hasta bien entrada la mañana en su centro de atención primaria. Refiere clínica similar en los días previos, con episodios similares de dolor torácico pero que se autolimitaban en los 10 primeros minutos. Niega clínica infecciosa intercurrente. Sin otra sintomatología.
+A su llegada al centro de atención primaria se realiza un electrocardiograma que muestra ritmo sinusal a 85 lpm con elevación del segmento ST en derivaciones inferiores. Se administran 300 mg de ácido acetilsalicílico (AAS) y 180 mg de ticagrelor y se activa el Código Infarto.
+A su llegada a nuestro centro el paciente se encuentra sudoroso, con regular estado general, persistencia del dolor torácico y de las alteraciones electrocardiográficas descritas.
+
+EXPLORACIÓN FÍSICA
+Tensión arterial (TA) 140/60 mmHg, frecuencia cardiaca (FC) 85 lpm, Sat 95% basal.
+Regular estado general.
+Auscultación cardiaca: rítmico, sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos.
+Resto de la exploración sin datos de interés.
+
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): ritmo sinusal a 90 lpm. PR 200 msg. QRS estrecho. Eje normal.
+Elevación del segmento ST II, III, aVF, V5 y V6.
+Radiografía de tórax: ICT en límite de la normalidad. No derrame pleural.
+No datos congestivos radiológicos.
+Analítica a su llegada: hemoglobina 12,4 g/dl. Leucocitos 10.82 Miles/mm3. Urea 49,0 mg/dl. Creatinina 0,85 mg/dl. Sodio 135 mEq/l. Potasio 3,8 mEq/l. Bilirrubina total 0,64 mg/dl. GOT/AST 63 U/l. GPT/ALT 134 U/l. GGT 503 U/l. LDH 702 U/l. Fosfatasa alcalina 214 U/l. CK 259 U/l. Troponina T (alta sensibilidad) 2790.00 ng/l.
+Coronariografía: oclusión trombótica de la arteria circunfleja (ACx), inmediatamente distal a un segmento aneurismático. Se cruzó la lesión trombótica con una guía de angioplastia, recuperando parcialmente el flujo distal, visualizándose un defecto de contrastación intraluminal compatible con gran cantidad de trombo intracoronario. Por se motivo se decidió realizar tromboaspiración; se extrajo abundante trombo rojo, recuperando así flujo distal TIMI 3. Una rama marginal permaneció ocluida pese a los intentos repetidos de tromboaspiración y angioplastia con balón. Dado el alto contenido trombótico, se añadió abciximab intracoronario a la doble antiagregación ya administrada y se decidió mantener anticoagulación con enoxaparina a dosis terapéuticas.
+Ecocardiograma tras cateterismo: ventrículo izquierdo de tamaño normal con aquinesia inferior e hipoquinesia inferolateral, que condiciona una disfunción ventricular moderada (FEVI 35%). FEVD normal. Aurículas de tamaño normal. Ausencia de valvulopatías significativas. Insuficiencia tricuspídea trivial que permite estimar una presión sistólica en la arteria pulmonar de 25 mmHg. Leve despegamiento de hojas pericárdicas. Cava inferior de tamaño normal con colapso inspiratorio fisiológico.
+ECG al alta: ritmo sinusal a 80 lpm. PR normal. Onda Q en II,III y AVF.
+Persistencia de mínima infradesnivelación del ST en dichas derivaciones y en V5-V6.
+
+EVOLUCIÓN CLÍNICA
+Inicialmente presentó una buena evolución en la unidad coronaria, sin nuevos episodios de dolor torácico ni datos de insuficiencia cardiaca. En la monitorización no se objetivaron arritmias ventriculares.
+Dos días más tarde, comenzó con dolor torácico que empeoraba con la inspiración y el decúbito, de claro perfil pericardítico, acompañado de elevación de reactantes de fase aguda en la analítica (PCR 16, VSG 95).
+Se realizó un nuevo ecocardiograma, que se informó: "Estudio realizado con FC 87 lpm y TA 102/73 mmHg. Ventrículo izquierdo (VI) sin poder estimar tamaño real, con espesores parietales normales, salvo segmento el basal inferior. Disfunción ventricular grave (FEVI 33%).
+Aquinesia lateral e inferior e hipocinesia grave del resto de los segmentos. Ventrículo derecho (VD) de tamaño normal con disfunción sistólica ligera. Aurículas de tamaño normal, con aurícula derecha con colapso diastólico. Válvula mitral de aspecto y función normal. Válvula aórtica anatómicamente normal con registro de flujo aórtico con descenso inspiratorio del 20%.
+Derrame pericárdico grave circunferencial: máximo diámetro de 28 mm en plano subxifoideo, resto de los planos aproximadamente 15-18 mm. Vena cava inferior (VCI) en el límite de la dilatación con ausencia de colapso inspiratorio y patrón en venas suprahepáticas con inversión del seno Y respiratorio, compatible con compromiso hemodinámico. Se administra contraste para valoración de extravasación a espacio pericárdico sin observarse paso de contraste.
+Tras el ecocardiograma, se realizó pericardiocentesis con extraccXSión de abundante líquido hemático. Posteriormente, el paciente evolucionó de forma satisfactoria sin nuevas incidencias.
+
+
+DIAGNÓSTICO
+Infarto agudo de miocardio con elevación del segmento ST (IAMCEST) inferolateral Killip I.
+Enfermedad grave de un vaso: arteria circunfleja con aneurisma y oclusión trombótica. Tromboaspiración efectiva.
+Disfunción ventricular grave.
+Pericarditis epistenocárdica. Derrame pericárdico grave con taponamiento cardiaco.
+Pericardiocentesis evacuadora.

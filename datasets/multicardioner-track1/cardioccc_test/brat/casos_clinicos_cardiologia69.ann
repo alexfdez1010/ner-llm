@@ -1,0 +1,27 @@
+T32	ENFERMEDAD 103 129	parada cardiorrespiratoria
+T33	ENFERMEDAD 191 215	diabetes mellitus tipo 2
+T34	ENFERMEDAD 217 238	hipertensión arterial
+T35	ENFERMEDAD 240 250	dislipemia
+T36	ENFERMEDAD 290 294	gota
+T37	ENFERMEDAD 469 490	cardiopatía isquémica
+T38	ENFERMEDAD 699 725	parada cardiorrespiratoria
+T39	ENFERMEDAD 1549 1595	oclusión de la arteria circunfleja (CX) ostial
+T40	ENFERMEDAD 1693 1762	estenosis severa en el segmento medio de la arteria coronaria derecha
+T41	ENFERMEDAD 3912 3942	atelectasia en lóbulo superior
+T42	ENFERMEDAD 4097 4128	atelectasia del lóbulo superior
+T43	ENFERMEDAD 4217 4265	disfunción ventricular izquierda moderada-severa
+T44	ENFERMEDAD 4424 4449	insuficiencia mitral leve
+T45	ENFERMEDAD 4454 4473	derrame pericárdico
+T46	ENFERMEDAD 4686 4711	Insuficiencia mitral leve
+T47	ENFERMEDAD 5653 5683	atelectasia en lóbulo superior
+T48	ENFERMEDAD 6527 6548	fibrilación auricular
+T49	ENFERMEDAD 7809 7838	Neumonía por broncoaspiración
+T50	ENFERMEDAD 7528 7582	Parada cardiorrespiratoria por fibrilación ventricular
+T51	ENFERMEDAD 7595 7611	SCACEST inferior
+T52	ENFERMEDAD 6739 6755	broncoaspiración
+T53	ENFERMEDAD 252 259	fumador
+T56	ENFERMEDAD 5024 5122	Arteria CD: vaso dominante severamente calcificado, de adecuado tamaño y desarrollo, con estenosis
+T57	ENFERMEDAD 6627 6647	episodios arrítmicos
+T58	ENFERMEDAD 7713 7783	Oclusión total de arteria circunfleja ostial con circulación colateral
+T26	ENFERMEDAD 1763 1787	(CD) con imagen de placa
+T75	ENFERMEDAD 4847 4909	Arteria CX: vaso de adecuado tamaño y desarrollo, con oclusión

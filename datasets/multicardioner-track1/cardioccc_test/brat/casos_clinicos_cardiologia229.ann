@@ -1,0 +1,52 @@
+T24	ENFERMEDAD 103 126	alergias medicamentosas
+T25	ENFERMEDAD 140 155	hábitos tóxicos
+T26	ENFERMEDAD 207 244	broncoespasmo en relación con alergia
+T27	ENFERMEDAD 745 792	bloqueo completo de rama derecha del haz de His
+T28	ENFERMEDAD 816 849	hipertrofia de ventrículo derecho
+T29	ENFERMEDAD 1191 1218	hipertensión pulmonar grave
+T30	ENFERMEDAD 1303 1331	ductus arterioso persistente
+T31	ENFERMEDAD 1441 1474	hipertensión pulmonar (HTP) grave
+T32	ENFERMEDAD 1464 1467	HTP
+T33	ENFERMEDAD 1778 1809	parálisis del nervio recurrente
+T34	ENFERMEDAD 1834 1844	neumotórax
+T35	ENFERMEDAD 1904 1928	mediastinitis fibrosante
+T36	ENFERMEDAD 2101 2143	hipertensión arterial pulmonar (HAP) grave
+T37	ENFERMEDAD 2133 2136	HAP
+T38	ENFERMEDAD 2748 2769	hipertensión pulmonar
+T39	ENFERMEDAD 2810 2813	HTP
+T40	ENFERMEDAD 2903 2938	insuficiencia cardiaca (IC) derecha
+T41	ENFERMEDAD 2927 2929	IC
+T42	ENFERMEDAD 3365 3368	HAP
+T43	ENFERMEDAD 3406 3415	HAP grave
+T44	ENFERMEDAD 3543 3546	HAP
+T46	ENFERMEDAD 4600 4603	HAP
+T47	ENFERMEDAD 6687 6708	insuficiencia aórtica
+T48	ENFERMEDAD 7541 7544	HTP
+T49	ENFERMEDAD 7607 7610	HAP
+T50	ENFERMEDAD 7877 7885	flebitis
+T51	ENFERMEDAD 8433 8490	Hipertensión arterial pulmonar severa residual poscirugía
+T52	ENFERMEDAD 8601 8625	Mediastinitis fibrosante
+T53	ENFERMEDAD 794 800	BCRDHH
+T54	ENFERMEDAD 5439 5445	BCRDHH
+T55	ENFERMEDAD 2402 2405	HTP
+T56	ENFERMEDAD 5327 5337	IC derecha
+T57	ENFERMEDAD 6587 6612	válvula aórtica bicúspide
+T58	ENFERMEDAD 851 854	HVD
+T59	ENFERMEDAD 1333 1336	DAP
+T60	ENFERMEDAD 3036 3075	VD hipertrófico con disfunción moderada
+T61	ENFERMEDAD 4289 4305	disfunción de VD
+T62	ENFERMEDAD 6713 6777	VD se encuentra moderadamente dilatado y gravemente hipertrófico
+T63	ENFERMEDAD 6824 6857	válvula tricúspide está engrosada
+T64	ENFERMEDAD 7127 7165	Tronco de la arteria pulmonar dilatado
+T65	ENFERMEDAD 8492 8520	Ductus arterioso persistente
+T66	ENFERMEDAD 931 943	poliglobulia
+T67	ENFERMEDAD 5463 5466	HVD
+T68	ENFERMEDAD 7188 7194	ductus
+T113	ENFERMEDAD 2290 2293	DAP
+T6	ENFERMEDAD 2996 3030	DAP con un flujo derecha-izquierda
+T116	ENFERMEDAD 237 261	alergia a ácaros y polen
+T119	ENFERMEDAD 1224 1284	hipertrofia moderada y dilatación leve de ventrículo derecho
+T120	ENFERMEDAD 2275 2293	reapertura del DAP
+T122	ENFERMEDAD 2550 2562	poliglobulia
+T129	ENFERMEDAD 2952 2964	poliglobulia
+T133	ENFERMEDAD 8433 8470	Hipertensión arterial pulmonar severa

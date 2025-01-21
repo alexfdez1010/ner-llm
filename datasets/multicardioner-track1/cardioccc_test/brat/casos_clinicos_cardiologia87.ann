@@ -1,0 +1,47 @@
+T1	ENFERMEDAD 506 526	pérdida visual total
+T25	ENFERMEDAD 2084 2146	válvula aórtica muy desestructurada y con severo engrosamiento
+T33	ENFERMEDAD 87 96	amaurosis
+T34	ENFERMEDAD 138 158	alergia a penicilina
+T35	ENFERMEDAD 160 181	hipertensión arterial
+T36	ENFERMEDAD 183 193	dislipemia
+T37	ENFERMEDAD 195 203	obesidad
+T38	ENFERMEDAD 206 216	tabaquismo
+T39	ENFERMEDAD 300 347	accidente cerebrovascular hemisférico izquierdo
+T40	ENFERMEDAD 409 421	valvulopatía
+T41	ENFERMEDAD 1154 1167	cardiomegalia
+T42	ENFERMEDAD 1173 1188	derrame pleural
+T43	ENFERMEDAD 2149 2191	calcificación con estenosis aórtica severa
+T44	ENFERMEDAD 2219 2240	insuficiencia aórtica
+T45	ENFERMEDAD 2441 2466	insuficiencia mitral leve
+T46	ENFERMEDAD 2479 2512	perforación de la valva posterior
+T47	ENFERMEDAD 2514 2554	Hipertrofia ventricular izquierda severa
+T48	ENFERMEDAD 2690 2715	ateroesclerosis carotídea
+T49	ENFERMEDAD 2742 2779	estenosis de carótida interna derecha
+T50	ENFERMEDAD 2954 3002	oclusión de arteria central de la retina derecha
+T51	ENFERMEDAD 3128 3153	ateroesclerosis carotídea
+T52	ENFERMEDAD 3180 3217	estenosis de carótida interna derecha
+T53	ENFERMEDAD 3394 3418	estenosis aórtica severa
+T54	ENFERMEDAD 3427 3458	degenerativos en válvula mitral
+T55	ENFERMEDAD 3468 3520	insuficiencia mitral (IM) leve y calcio en su anillo
+T56	ENFERMEDAD 3642 3666	estenosis aórtica severa
+T57	ENFERMEDAD 3765 3800	VM y perforación del velo posterior
+T58	ENFERMEDAD 3935 3979	endocarditis infecciosa (EI) subaguda mitral
+T59	ENFERMEDAD 4338 4361	endocarditis infecciosa
+T60	ENFERMEDAD 4498 4510	valvulopatía
+T61	ENFERMEDAD 4821 4869	Oclusión de arteria central de la retina derecha
+T62	ENFERMEDAD 4871 4947	Endocarditis subaguda sobre válvula nativa mitral por Streptococcus viridans
+T63	ENFERMEDAD 4949 4973	Estenosis aórtica severa
+T64	ENFERMEDAD 5008 5035	Estenosis carotídea derecha
+T65	ENFERMEDAD 1395 1425	Hemibloqueo anterior izquierdo
+T66	ENFERMEDAD 3490 3492	IM
+T67	ENFERMEDAD 4290 4306	IM leve-moderada
+T68	ENFERMEDAD 1863 1867	Lúes
+T69	ENFERMEDAD 1348 1381	hipertrofia ventricular izquierda
+T70	ENFERMEDAD 3004 3008	OACR
+T71	ENFERMEDAD 3746 3767	vegetaciones sobre VM
+T72	ENFERMEDAD 3960 3962	EI
+T73	ENFERMEDAD 2586 2608	foramen oval permeable
+T26	ENFERMEDAD 2375 2387	vegetaciones
+T139	ENFERMEDAD 2297 2305	verrugas
+T13	ENFERMEDAD 1300 1333	Crecimiento de aurícula izquierda
+T109	ENFERMEDAD 4274 4286	vegetaciones

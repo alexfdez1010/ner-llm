@@ -1,0 +1,39 @@
+T32	ENFERMEDAD 127 161	reacciones adversas medicamentosas
+T33	ENFERMEDAD 208 215	fumador
+T34	ENFERMEDAD 280 309	cardiopatía isquémica crónica
+T35	ENFERMEDAD 317 320	SCA
+T36	ENFERMEDAD 409 414	angor
+T37	ENFERMEDAD 456 478	insuficiencia cardiaca
+T38	ENFERMEDAD 896 944	dilatación de raíz aórtica y auricular izquierda
+T39	ENFERMEDAD 1035 1062	patología valvular orgánica
+T40	ENFERMEDAD 1138 1157	derrame pericárdico
+T41	ENFERMEDAD 1188 1231	Tronco coronario con lesiones angiográficas
+T42	ENFERMEDAD 1251 1299	Arteria descendente anterior con estenosis grave
+T43	ENFERMEDAD 2718 2725	síncope
+T44	ENFERMEDAD 2893 2919	parada cardiorrespiratoria
+T45	ENFERMEDAD 3252 3275	fibrilación ventricular
+T46	ENFERMEDAD 3734 3775	disfunción grave del ventrículo izquierdo
+T47	ENFERMEDAD 4392 4432	disfunción grave de ventrículo izquierdo
+T48	ENFERMEDAD 6092 6135	trastornos de la contractilidad segmentaria
+T49	ENFERMEDAD 6428 6441	valvulopatías
+T50	ENFERMEDAD 6471 6490	derrame pericárdico
+T51	ENFERMEDAD 7542 7585	daño cerebral difuso en grado leve-moderado
+T52	ENFERMEDAD 7715 7734	neumonía aspirativa
+T53	ENFERMEDAD 7736 7761	insuficiencia renal aguda
+T54	ENFERMEDAD 7763 7802	disfagia orofaríngea neurógena moderada
+T55	ENFERMEDAD 8145 8201	Infarto agudo de miocardio con elevación del segmento ST
+T56	ENFERMEDAD 8219 8249	Enfermedad coronaria multivaso
+T57	ENFERMEDAD 8317 8358	Encefalopatía anóxico-isquémica posparada
+T58	ENFERMEDAD 8203 8210	IAMCEST
+T59	ENFERMEDAD 8057 8112	Parada cardiorrespiratoria extrahospitalaria recuperada
+T60	ENFERMEDAD 2962 2989	disociación electromecánica
+T61	ENFERMEDAD 1466 1517	Arteria circunfleja (Cx) con lesiones angiográficas
+T62	ENFERMEDAD 1537 1605	Arteria coronaria derecha dominante, difusamente enferma, con lesión
+T63	ENFERMEDAD 3380 3401	taquicardia irregular
+T64	ENFERMEDAD 4105 4126	taquicardia irregular
+T65	ENFERMEDAD 4635 4678	ADA enferma de forma difusa con placa grave
+T66	ENFERMEDAD 4734 4755	Cx con placa proximal
+T67	ENFERMEDAD 4800 4838	Arteria coronaria derecha con lesiones
+T22	ENFERMEDAD 6380 6415	Signos mitro-aórticos degenerativos
+T26	ENFERMEDAD 4563 4619	tronco principal izquierdo enfermo con afectación ostial
+#1	AnnotatorNotes T35	  síndrome coronario agudo

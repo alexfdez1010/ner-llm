@@ -1,0 +1,51 @@
+T27	ENFERMEDAD 135 158	alergias medicamentosas
+T28	ENFERMEDAD 173 188	hábitos tóxicos
+T29	ENFERMEDAD 190 211	Hipertensión arterial
+T30	ENFERMEDAD 213 216	HTA
+T31	ENFERMEDAD 219 229	Dislipemia
+T32	ENFERMEDAD 231 239	Obesidad
+T33	ENFERMEDAD 268 287	Esteatosis hepática
+T34	ENFERMEDAD 289 320	Hiperplasia benigna de próstata
+T35	ENFERMEDAD 382 452	ictus isquémico agudo en territorio de arterial cerebral media derecha
+T36	ENFERMEDAD 627 652	hernia inguinal bilateral
+T37	ENFERMEDAD 673 682	hidrocele
+T38	ENFERMEDAD 712 738	estenosis aórtica moderada
+T39	ENFERMEDAD 767 780	valvulopatías
+T40	ENFERMEDAD 1838 1849	peritonitis
+T41	ENFERMEDAD 2802 2841	infarto de miocardio posterobasal en VI
+T42	ENFERMEDAD 2843 2866	Derrame pleural laminar
+T43	ENFERMEDAD 2927 2974	Lesiones corticales hipodensas en ambos riñones
+T44	ENFERMEDAD 3015 3031	infartos renales
+T45	ENFERMEDAD 3033 3095	Espondilosis dorsolumbar con estenosis del canal L3-L4 y L4-L5
+T46	ENFERMEDAD 3224 3265	estenosis grave en arteria ilíaca derecha
+T47	ENFERMEDAD 3268 3310	estenosis leve en arteria ilíaca izquierda
+T48	ENFERMEDAD 3312 3350	Ateromatosis fémoro-poplítea bilateral
+T49	ENFERMEDAD 3369 3429	hipertrofia ventricular izquierda (HVI) concéntrica moderada
+T50	ENFERMEDAD 3404 3407	HVI
+T51	ENFERMEDAD 3511 3538	Calcificación aórtica grave
+T52	ENFERMEDAD 3625 3646	insuficiencia aórtica
+T53	ENFERMEDAD 3655 3684	Calcificación valvular mitral
+T54	ENFERMEDAD 3802 3837	insuficiencia tricuspídea (IT) leve
+T55	ENFERMEDAD 3889 3918	enfermedad arterial coronaria
+T56	ENFERMEDAD 3963 4008	trombo en primera obtusa marginal (OM) distal
+T57	ENFERMEDAD 4269 4320	Trastorno segmentario de la contractilidad inferior
+T58	ENFERMEDAD 4322 4354	Valvulopatía aórtica calcificada
+T59	ENFERMEDAD 4356 4373	estenosis aórtica
+T60	ENFERMEDAD 4536 4562	infarto agudo de miocardio
+T61	ENFERMEDAD 4564 4567	IAM
+T62	ENFERMEDAD 4600 4635	isquemia aguda del miembro inferior
+T63	ENFERMEDAD 4863 4893	trombo distal en la primera OM
+T64	ENFERMEDAD 5000 5029	isquemia del miembro inferior
+T65	ENFERMEDAD 5132 5151	isquemia miocárdica
+T66	ENFERMEDAD 5244 5317	Síndrome coronario agudo con elevación del segmento ST (SCACEST) inferior
+T67	ENFERMEDAD 5300 5307	SCACEST
+T68	ENFERMEDAD 5328 5395	Enfermedad arterial periférica: isquemia aguda del miembro inferior
+T70	ENFERMEDAD 5407 5430	Infarto renal bilateral
+T71	ENFERMEDAD 2364 2366	FA
+T72	ENFERMEDAD 4678 4680	FA
+T73	ENFERMEDAD 5432 5434	FA
+T74	ENFERMEDAD 3829 3831	IT
+T75	ENFERMEDAD 1566 1593	ruidos cardiacos arrítmicos
+T25	ENFERMEDAD 3689 3709	insuficiencia mitral
+#1	AnnotatorNotes T50	  hipertrofia ventricular izquierda
+#2	AnnotatorNotes T74	  insuficiencia tricuspide

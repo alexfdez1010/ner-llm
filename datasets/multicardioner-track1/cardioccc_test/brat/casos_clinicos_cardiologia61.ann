@@ -1,0 +1,21 @@
+T20	ENFERMEDAD 1472 1505	fibrilación auricular paroxístico
+T21	ENFERMEDAD 2601 2653	enfermedad de 1 vaso: circunfleja-2a obtusa marginal
+T22	ENFERMEDAD 3434 3444	DM tipo II
+T23	ENFERMEDAD 4228 4237	arritmias
+T24	ENFERMEDAD 4261 4269	IAM no q
+T25	ENFERMEDAD 4289 4317	Miocardiopatía no compactada
+T26	ENFERMEDAD 4411 4478	Enfermedad arterial coronaria de 1 vaso: 2a arteria obtusa marginal
+T27	ENFERMEDAD 4573 4589	Dislipemia mixta
+T28	ENFERMEDAD 4591 4621	Diabetes mellitus (DM) tipo II
+T29	ENFERMEDAD 4610 4612	DM
+T30	ENFERMEDAD 4623 4631	Obesidad
+T31	ENFERMEDAD 211 221	Dislipemia
+T32	ENFERMEDAD 4252 4259	SCASEST
+T34	ENFERMEDAD 203 210	fumador
+T35	ENFERMEDAD 2364 2385	miocardio no compacto
+T36	ENFERMEDAD 1840 1874	ventrículo izquierdo no compactado
+T72	ENFERMEDAD 1231 1239	isquemia
+T73	ENFERMEDAD 1242 1250	necrosis
+T61	ENFERMEDAD 125 139	Estrés laboral
+T63	ENFERMEDAD 1255 1267	hipertrofias
+T64	ENFERMEDAD 1898 1958	trabéculas, que sobresalen de la pared ventricular izquierda

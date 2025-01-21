@@ -1,0 +1,10 @@
+T2	ENFERMEDAD 41 83	alérgico a tetraciclinas y beta-lactámicos
+T5	ENFERMEDAD 104 125	hipertensión arterial
+T9	ENFERMEDAD 244 288	espondiloartrósico con componente miofascial
+T11	ENFERMEDAD 870 886	ptosis palpebral
+T12	ENFERMEDAD 947 953	ptosis
+T14	ENFERMEDAD 1123 1139	ptosis palpebral
+T17	ENFERMEDAD 1290 1306	miastenia gravis
+T18	ENFERMEDAD 1151 1159	diplopía
+T1	ENFERMEDAD 1308 1310	MG
+#1	AnnotatorNotes T1	  MG: miastenia gravis

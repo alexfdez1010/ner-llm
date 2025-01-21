@@ -1,0 +1,100 @@
+T8	ENFERMEDAD 1922 1958	Estrías en abdomen, brazos y piernas
+T27	ENFERMEDAD 2588 2601	cardiomegalia
+T39	ENFERMEDAD 3979 4036	Ventrículo izquierdo de grosor normal, levemente dilatado
+T41	ENFERMEDAD 4388 4495	Válvula mitral con velos ligeramente engrosados, con jet de regurgitación central de insuficiencia moderada
+T44	ENFERMEDAD 6600 6638	dilatación de asas de intestino grueso
+T47	ENFERMEDAD 7817 7857	Ventrículo izquierdo gravemente dilatado
+T127	ENFERMEDAD 11802 11822	poliarteritis nodosa
+T135	ENFERMEDAD 12871 12891	poliarteritis nodosa
+T139	ENFERMEDAD 102 109	Fumador
+T140	ENFERMEDAD 274 297	Exconsumidor de cocaína
+T141	ENFERMEDAD 328 349	Hipertensión arterial
+T142	ENFERMEDAD 405 413	Obesidad
+T143	ENFERMEDAD 457 466	sobrepeso
+T144	ENFERMEDAD 536 564	cardiopatía isquémica precoz
+T145	ENFERMEDAD 568 581	muerte súbita
+T146	ENFERMEDAD 603 620	psoriasis cutánea
+T147	ENFERMEDAD 641 651	artropatía
+T148	ENFERMEDAD 668 680	eritrodermia
+T149	ENFERMEDAD 746 755	psoriasis
+T150	ENFERMEDAD 1120 1135	angina de pecho
+T152	ENFERMEDAD 1257 1274	lesiones cutáneas
+T153	ENFERMEDAD 1294 1303	psoriasis
+T154	ENFERMEDAD 1801 1813	eritrodermia
+T156	ENFERMEDAD 2376 2424	insuficiencia venosa crónica con venas varicosas
+T157	ENFERMEDAD 2438 2447	psoriasis
+T158	ENFERMEDAD 2714 2731	flutter auricular
+T159	ENFERMEDAD 2894 2929	infarto anterior e inferior antiguo
+T162	ENFERMEDAD 4561 4591	Insuficiencia tricuspídea leve
+T163	ENFERMEDAD 4653 4676	trombo intraventricular
+T164	ENFERMEDAD 4721 4914	Enfermedad coronaria grave de tres vasos: arteria descendente anterior media y distal, primera rama diagonal, arteria circunfleja distal, arteria coronaria derecha distal y rama posterolatereal
+T165	ENFERMEDAD 5671 5697	vasculitis de mediano vaso
+T166	ENFERMEDAD 5846 5856	vasculitis
+T167	ENFERMEDAD 5976 6012	vasculitis de mediano y pequeño vaso
+T168	ENFERMEDAD 6195 6220	patología tumoral maligna
+T169	ENFERMEDAD 6997 7070	vasculitis del tronco celiaco y arterias mesentéricas superior e inferior
+T170	ENFERMEDAD 7168 7227	estenosis probablemente significativa de arterias femorales
+T171	ENFERMEDAD 7270 7293	ciego se observan aftas
+T172	ENFERMEDAD 7358 7375	colitis isquémica
+T173	ENFERMEDAD 7393 7449	pólipos: uno de ellos de unos 15 mm en colon descendente
+T174	ENFERMEDAD 7601 7611	vasculitis
+T175	ENFERMEDAD 7769 7790	mononeuritis múltiple
+T176	ENFERMEDAD 8087 8113	Disfunción sistólica grave
+T177	ENFERMEDAD 8166 8179	trombo apical
+T178	ENFERMEDAD 8212 8257	Disfunción diastólica tipo patrón restrictivo
+T179	ENFERMEDAD 8434 8470	Insuficiencia mitral grave funcional
+T181	ENFERMEDAD 8642 8663	Insuficiencia aórtica
+T182	ENFERMEDAD 8672 8697	Insuficiencia tricuspídea
+T183	ENFERMEDAD 8706 8737	Hipertensión pulmonar en reposo
+T184	ENFERMEDAD 8941 8948	flutter
+T185	ENFERMEDAD 9227 9245	cuadro vasculítico
+T186	ENFERMEDAD 9264 9283	lesiones coronarias
+T187	ENFERMEDAD 9786 9804	tormenta arrítmica
+T188	ENFERMEDAD 9827 9860	taquicardia ventricular sostenida
+T190	ENFERMEDAD 10193 10215	insuficiencia cardiaca
+T191	ENFERMEDAD 10276 10291	íleo paralítico
+T192	ENFERMEDAD 10309 10325	vólvulo de ciego
+T193	ENFERMEDAD 10644 10682	eritrodermia secundaria a su psoriasis
+T195	ENFERMEDAD 10917 10973	vasculitis en las arterias viscerales y en ambas iliacas
+T197	ENFERMEDAD 11497 11534	vasculitis de gran vaso tipo Takayasu
+T198	ENFERMEDAD 11771 11797	vasculitis de mediano vaso
+T199	ENFERMEDAD 12304 12312	isquemia
+T200	ENFERMEDAD 12317 12327	hemorragia
+T201	ENFERMEDAD 12401 12411	vasculitis
+T202	ENFERMEDAD 12472 12493	mononeuritis múltiple
+T203	ENFERMEDAD 12743 12764	mononeuritis múltiple
+T204	ENFERMEDAD 12983 13001	consumo de cocaína
+T205	ENFERMEDAD 13007 13028	aterosclerosis precoz
+T206	ENFERMEDAD 13223 13245	insuficiencia cardiaca
+T207	ENFERMEDAD 13302 13333	insuficiencia cardiaca avanzada
+T209	ENFERMEDAD 13348 13436	Vasculitis tipo PAN con afectación coronaria, de tronco celiaco, mesentérico y femorales
+T210	ENFERMEDAD 13438 13471	Miocardiopatía dilatada isquémica
+T211	ENFERMEDAD 13519 13541	Insuficiencia cardiaca
+T212	ENFERMEDAD 13558 13579	edema agudo de pulmón
+T213	ENFERMEDAD 13612 13666	Enfermedad coronaria de tres vasos no revascularizable
+T214	ENFERMEDAD 13668 13694	enfermedad arterial difusa
+T215	ENFERMEDAD 13710 13720	vasculitis
+T216	ENFERMEDAD 13785 13844	Flutter auricular no común con respuesta ventricular rápida
+T217	ENFERMEDAD 13891 13908	Colitis isquémica
+T1	ENFERMEDAD 200 207	Bebedor
+T5	ENFERMEDAD 1306 1322	estrías cutáneas
+T222	ENFERMEDAD 4287 4328	Aurícula izquierda moderadamente dilatada
+T42	ENFERMEDAD 6663 6707	vólvulo cecal a nivel de hipocondrio derecho
+T92	ENFERMEDAD 6747 6760	Vólvulo cecal
+T95	ENFERMEDAD 6805 6900	Pólipos murales endoluminales en ángulo esplénico del colon, de 15 mm y en unión rectosigmoidea
+T46	ENFERMEDAD 8297 8335	Dilatación grave de aurícula izquierda
+T49	ENFERMEDAD 8337 8372	Dilatación leve de aurícula derecha
+T53	ENFERMEDAD 10121 10139	eventos arrítmicos
+T248	ENFERMEDAD 10606 10634	afectación cutánea muy grave
+T280	ENFERMEDAD 2461 2491	placas rojizas con descamación
+T126	ENFERMEDAD 1828 1920	placas rojizas con descamación (sugestivas de psoriasis) en tronco y extremidades superiores
+T62	ENFERMEDAD 13723 13741	Tormenta arrítmica
+T224	ENFERMEDAD 5179 5282	Tronco celíaco, arteria hepática común y arteria esplénica de fino calibre con un manguito perivascular
+T226	ENFERMEDAD 5287 5327	arteria esplénica es de muy fino calibre
+T228	ENFERMEDAD 5391 5474	Arterias mesentéricas superior e inferior de fino calibre con manguito perivascular
+T229	ENFERMEDAD 5476 5633	Arterias ilíacas comunes, arterias ilíacas externas, arterias femorales comunes y femorales superficiales con disminución del calibre y manguito perivascular
+T230	ENFERMEDAD 6266 6311	Eje carotídeo izquierdo con una pequeña placa
+T233	ENFERMEDAD 7084 7163	manguito perivascular más prominente en los vasos ilíacos primitivos y externos
+T54	ENFERMEDAD 11824 11827	PAN
+T56	ENFERMEDAD 12512 12515	PAN
+T241	ENFERMEDAD 13476 13517	disfunción grave del ventrículo izquierdo

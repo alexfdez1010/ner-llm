@@ -1,0 +1,30 @@
+T24	ENFERMEDAD 2770 2781	ritmo nodal
+T40	ENFERMEDAD 5295 5306	ritmo nodal
+T46	ENFERMEDAD 82 113	reacción adversa de medicamento
+T47	ENFERMEDAD 159 169	tabaquismo
+T48	ENFERMEDAD 185 195	dislipemia
+T49	ENFERMEDAD 197 221	Incidentaloma suprarenal
+T50	ENFERMEDAD 355 377	síndrome de tako-tsubo
+T51	ENFERMEDAD 835 857	síndrome de tako-tsubo
+T52	ENFERMEDAD 1235 1291	infarto agudo de miocardio sin elevación del segmento ST
+T53	ENFERMEDAD 1474 1536	fístulas del árbol coronario izquierdo al ventrículo izquierdo
+T54	ENFERMEDAD 1619 1633	isquemia aguda
+T55	ENFERMEDAD 1635 1646	miocarditis
+T56	ENFERMEDAD 3973 3992	disfunción valvular
+T57	ENFERMEDAD 4095 4120	insuficiencia tricuspídea
+T58	ENFERMEDAD 4122 4124	IT
+T59	ENFERMEDAD 4142 4163	hipertensión pulmonar
+T60	ENFERMEDAD 4177 4196	derrame pericárdico
+T61	ENFERMEDAD 4607 4613	angina
+T62	ENFERMEDAD 4704 4713	arritmias
+T63	ENFERMEDAD 4920 4944	Fístulas coronarias a VI
+T64	ENFERMEDAD 5223 5234	vasoespasmo
+T65	ENFERMEDAD 5319 5373	bloqueo auriculoventricular (BAV) completo transitorio
+T66	ENFERMEDAD 5897 5918	vasoespasmo coronario
+T67	ENFERMEDAD 5966 5987	vasoespasmo coronario
+T68	ENFERMEDAD 6661 6677	hábito tabáquico
+T69	ENFERMEDAD 6886 6927	Síndrome coronario agudo (SCA) recurrente
+T70	ENFERMEDAD 6954 6974	Angina vasoespástica
+T71	ENFERMEDAD 1293 1300	IAMSEST
+T73	ENFERMEDAD 6912 6915	SCA
+T147	ENFERMEDAD 1651 1670	necrosis transmural

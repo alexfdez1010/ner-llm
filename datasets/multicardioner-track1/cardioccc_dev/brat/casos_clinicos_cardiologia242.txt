@@ -1,0 +1,25 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Se presenta el caso de una mujer de 47 años con factores de riesgo cardiovascular: hipertensión, tabaquismo y dislipemia. Antecedentes de angina crónica estable en clase funcional II sin tratamiento previo.
+Consulta a un centro de la ciudad de Buenos Aires (Argentina) por dolor precordial en reposo, atípico y característico de 1 hora de evolución.
+En el examen físico de ingreso presentaba tensión arterial (TA) 120/65 mmHg, frecuencia cardiaca (FC) 130 lpm, SatO2 90% con aire ambiente. Ingurgitación yugular 3/3 sin colapso inspiratorio. Ruidos cardiacos rítmicos, sin soplos. Regular mecánica ventilatoria a expensas de taquipnea y utilización de músculos accesorios, hipoventilación generalizada y regular entrada de aire bilateral, con intolerancia al decúbito. Buena perfusión periférica con pulsos simétricos positivos. Edemas maleolares bilaterales.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): taquicardia sinusal a 130 lpm, PR 120 ms, QRS 80 ms. Descenso del ST menor de 1 mm en DII, DIII, aVF y de V3 a V6. Onda Q inicial en DI y aVL con elevación del ST de 1 mm.
+Analítica: hematocrito 29%, hemoglobina 9,5 g/dl, leucocitos 19.500/μl, plaquetas 212.000/μl. Coagulación básica, función renal e iones normales. Marcadores de daño miocárdico: Troponina T US 15 ng/l y 24 ng/l (normal 0-14 ng/l). CK/CK-MB: 550/180 UI/l.
+Cateterismo cardiaco: dominancia derecha. Arteria coronaria derecha sin lesiones. Arteria descendente anterior y circunfleja permeables, con lesiones no significativas en tercio medio.
+Ecocardiograma transtorácico: ventrículo izquierdo (VI) no dilatado, disfunción sistólica de VI leve. En paraesternal eje corto se observa pseudoaneurisma en cara lateral del VI.
+Sin valvulopatías significativas.
+Radiografía de tórax: radiopacidad paracardiaca izquierda compatible probablemente con la localización del pseudoaneurisma ventricular, derrame pleural bilateral.
+Tomografía de tórax: imagen sacular en la cara lateral del VI compatible con pseudoaneurisma ventricular.
+
+EVOLUCIÓN CLÍNICA
+Se realiza ECG que evidencia taquicardia sinusal a 130 lpm con lesión subepicárdica lateral alta (imagen 1) y troponina positiva por lo que se realiza coronariografía de urgencia donde se observa arterias permeables con lesiones no significativas en arteria descendente anterior y circunfleja, por lo que no se realiza angioplastia y se inicia tratamiento médico.
+A las 72 horas, presenta nuevo dolor precordial de intensidad 10/10, realizándose ECG sin cambios con respecto al previo y biomarcadores negativos. Se realiza ecocardiograma que evidencia un pseudoaneurisma ventricular en cara lateral del ventrículo izquierdo, por lo que se solicita derivación urgente a nuestro centro para cirugía cardiovascular.
+Se realiza radiografía de tórax donde se observa radiopacidad para cardiaca izquierda compatible con probable pseudoaneurisma y tomografía de tórax que evidencia voluminosa formación sacular de 59 x 68 x 75 mm dependiente de la pared lateral del VI, contenida por pericardio y comunicada por un orificio con el miocardio con presencia de trombos adheridos a la pared interna de dicha formación, asociado a hemo pericardio y derrame pleural bilateral de predominio derecho.
+Se procede a efectuar cirugía de urgencia con cierre del cuello del aneurisma, colocación de parche de Dacron y refuerzo con Prolene en borde de la rotura (imagen 6).
+En el postquirúrgico inmediato presentashock hipovolémico y posterior fallo de ventrículo derecho, que evoluciona favorablemente con expansión de volumen e inotrópicos.
+Previo al alta, se realiza un nuevo ecocardiograma que evidencia buena función ventricular, con leve derrame pericárdico.
+
+DIAGNÓSTICO
+Síndrome coronario agudo con elevación del segmento ST (SCACEST) en cara lateral alta. Arterias coronarias sin oclusión trombótica aguda.
+Pseudoaneurisma ventricular como complicación mecánica, con signos de ruptura inminente y requerimiento de reparación quirúrgica de urgencia.

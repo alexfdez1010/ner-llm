@@ -1,0 +1,38 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Se trata de un paciente varón de 75 años con antecedentes de tabaquismo, hipertensión arterial, diabetes mellitus insulinodependiente y obesidad.
+Como historia cardiológica presenta cardiopatía isquémica en fase dilatada con revascularización quirúrgica y sustitución valvular mitral con prótesis mecánica por insuficiencia mitral grave en 2005. Se realizó implante de marcapasos monocameral con ablación de nodo auriculoventricular por múltiples ingresos por infarto agudo de miocardio (IAM) tipo 2 en contexto de fibrilación auricular con respuesta ventricular rápida. En el año 2000 se procedió a amputación de pie derecho y bypass fémoro-poplíteo derecho y en 2008 exclusión de aneurisma iliaco y femoral izquierdo. En último ecocardiograma en mayo de 2018 se objetiva disfunción ventricular izquierda grave, prótesis mitral con gradiente medio de 4 mmHg sin insuficiencia periprotésica e insuficiencia aórtica moderada.
+Tratamiento habitual: sacubitrilo/valsartán 97/103 mg (1 comprimido en desayuno y 1 comprimido en cena), metoprolol 100 mg (1 comprimido en desayuno y 1 comprimido en cena), furosemida 40 mg ( 1 comprimido en desayuno y 1 comprimido en comida), acenocumarol según pauta de hematología, insulina lantus 20 UI en desayuno, eplerenona 25 mg (1/2 comprimido en comida), atorvastatina 20 mg (1 comprimido en cena), salmeterol/fluticasona 25/50 mcg 1 inhalación cada 12 horas, oxígeno crónico domiciliario.
+
+
+ENFERMEDAD ACTUAL
+Ingresó en febrero de 2019 por isquemia crítica de miembro inferior derecho por trombosis de bypass fémoro-poplíteo derecho, realizándose bypass fémoro-tibial anterior derecho. Durante este ingreso se retiró acenocumarol, pautándose anticoagulación con heparinas de bajo peso molecular (HBPM), con mal cumplimiento por parte del paciente. En clase funcional habitual III/IV, ingresa en medicina interna con empeoramiento progresivo de la misma hasta presentar disnea de reposo, disnea paroxística nocturna, ortopnea, oliguria y edemas en miembros inferiores. No dolor torácico, ni otra sintomatología de interés. Se intensifica tratamiento con diuréticos y vasodilatadores sin mejoría. Presenta episodio de edema agudo de pulmón, por lo que se decide su traslado a la unidad coronaria.
+
+EXPLORACIÓN FÍSICA
+Tensión arterial 147/66 mmHg. Frecuencia cardiaca 80 lpm. Saturación de oxígeno 91% con gafas nasales a 4 litros, presión venosa yugular elevada.
+Auscultación cardiaca: ruidos cardiacos rítmicos con clic protésico.
+Auscultación pulmonar: crepitantes hasta campos medios.
+Abdomen: globuloso, depresible, con hepatomegalia no dolorosa de 3 cm por debajo del reborde costal.
+Extremidades inferiores: edemas hasta rodillas con amputación de pie derecho.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma: fibrilación auricular. Estimulación ventricular a 70 lpm, sin fallos de sensado ni de captura.
+Radiografía: índice cardiotorácico (ICT) aumentado, con cefalización vascular, líneas B de Kerley.
+Análisis de sangre:
+Bioquímica: urea 91 mg/dl, creatinina 1,45mg/dl, filtrado glomerular 47 ml/min, NT-proBNP 6.587 pg/ml, procalcitonina 0,096 ng/ml, proteína C reactiva 96,5 mg/l.
+Gasometría basal venosa: pH 7,38, PCO2 44,5 mmHg, PO2 37,6 mmHg, bicarbonato 24,6 mmol/l, saturación de oxígeno 65,4%.
+Hemograma: leucocitos 8.300/mm3, fórmula leucocitaria normal, hemoglobina 12,7 g/dl, plaquetas 161.000/mm3.
+Coagulación: INR 1,76, tiempo de protrombina 47%, tiempo de tromboplastina parcial activada 36,2 segundos.
+Ecocardiograma transesofágico: prótesis mecánica mitral bidisco con inmovilidad del disco anterolateral en posición semicerrada y movilidad incompleta del otro disco, con dos jets pequeños simétricos de regurgitación intraprotésica, con imagen de trombo en bisagra y anillo protésico sin imágenes móviles relevantes. Gradiente transmitral medio de 19 mmHg.
+Angio-TAC coronario: prótesis mecánica en posición mitral, observando una densidad de partes blandas, de baja atenuación (hipodensa), localizada entre los dos discos valvulares y que se extiende por la cara auricular y ventricular del disco posterior, que permanece inmóvil durante todo el ciclo cardiaco. Dicha lesión presenta una atenuación baja (unidades Hounsfield entre 60-80), lo que es compatible con trombo valvular y que, por sus valores de atenuación, probablemente responda bien al tratamiento fibrinolítico.
+Radioscopia: inmovilidad del disco anterolateral y movilidad incompleta del otro disco de la prótesis mecánica mitral.
+Ecocardiograma transtorácico tras dos fibrinolisis: se objetiva disminución del gradiente transmitral de 7,8 mmHg tras dos fibrinolisis consecutivas.
+
+EVOLUCIÓN CLÍNICA
+En la unidad coronaria se intensificó el tratamiento antitrombótico con heparina sódica, acenocumarol y clopidogrel. Tras no objetivarse resolución del trombo y ante el empeoramiento de la clínica, se decide presentar el caso en sesión médico-quirúrgica, siendo rechazado para cirugía de recambio valvular por tener múltiples comorbilidades y presentar alto riesgo de mortalidad (cerca al 90%). Se decide tratamiento fibrinolítico, en nuestro caso con alteplasa, tomando como punto de apoyo el resultado del angio-TAC coronario como predictor de resultado favorable tras fibrinolisis. A las 24 horas del tratamiento con alteplasa el paciente presenta mejoría sustancial de los síntomas y signos congestivos, presentando diuresis adecuada con furosemida intravenosa, parámetros hemodinámicos estables y un descenso del gradiente medio transprotésico mitral de 20 a 10 mmHg. A pesar de la disminución del gradiente, se encontraba aún en cifras elevadas, por lo que se decide una segunda fibrinólisis tras 96 horas de la primera dosis, presentando a las 48 horas de esta segunda terapia un gradiente transmitral de 7 mmHg. Como evento hemorrágico solamente presentó hematuria autolimitada sin descenso importante en las cifras de hemoglobina.
+
+DIAGNÓSTICO
+Estenosis mitral grave por trombosis protésica valvular mitral muy tardía en relación con incumplimiento del tratamiento anticoagulante.
+Insuficiencia cardiaca crónica descompensada clase funcional IV/IV de la NYHA, estadio C AHA/ACC.
+Buena respuesta tras dos fibrinolisis consecutivas.

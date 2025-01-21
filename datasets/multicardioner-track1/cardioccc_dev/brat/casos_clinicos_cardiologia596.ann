@@ -1,0 +1,39 @@
+T34	ENFERMEDAD 3168 3181	cardiomegalia
+T77	ENFERMEDAD 70 99	alergias conocidas a fármacos
+T79	ENFERMEDAD 143 153	dislipemia
+T80	ENFERMEDAD 155 180	diabetes meillitus tipo 2
+T81	ENFERMEDAD 182 203	hipertensión arterial
+T82	ENFERMEDAD 205 228	Miocardiopatía dilatada
+T83	ENFERMEDAD 514 543	movimento septoapical anómalo
+T84	ENFERMEDAD 597 626	Insuficiencia mitral moderada
+T85	ENFERMEDAD 628 649	Insuficiencia aórtica
+T86	ENFERMEDAD 745 778	Insuficiencia tricúspide moderada
+T87	ENFERMEDAD 839 877	Fibrilación auricular (FA) paroxística
+T88	ENFERMEDAD 862 864	FA
+T89	ENFERMEDAD 899 950	enfermedad pulmonar obstructiva crónica (EPOC) leve
+T90	ENFERMEDAD 940 944	EPOC
+T91	ENFERMEDAD 952 977	Hipotiroidismo subclínico
+T92	ENFERMEDAD 1501 1537	insuficiencia cardiaca descompensada
+T93	ENFERMEDAD 2370 2386	ascitis moderada
+T94	ENFERMEDAD 2714 2739	trombosis venosa profunda
+T95	ENFERMEDAD 2741 2744	TVP
+T96	ENFERMEDAD 2810 2829	bradicardia sinusal
+T97	ENFERMEDAD 2896 2939	trastorno de la conducción intraventricular
+T98	ENFERMEDAD 3050 3097	bloqueo completo de rama derecha del haz de His
+T99	ENFERMEDAD 3208 3233	derrame pleural bilateral
+T100	ENFERMEDAD 4438 4466	disfunción ventricular grave
+T101	ENFERMEDAD 4551 4580	Insuficiencia mitral moderada
+T102	ENFERMEDAD 4666 4687	Insuficiencia aórtica
+T103	ENFERMEDAD 4775 4831	Insuficiencia tricúspide moderada, dilatación del anillo
+T105	ENFERMEDAD 5048 5078	Insuficiencia mitral y aórtica
+T106	ENFERMEDAD 5301 5326	Insuficiencia tricuspídea
+T107	ENFERMEDAD 5495 5531	insuficiencia cardiaca descompensada
+T108	ENFERMEDAD 5697 5725	disfunción ventricular grave
+T109	ENFERMEDAD 5771 5815	insuficiencia mitral y tricuspídea moderadas
+T111	ENFERMEDAD 6241 6305	Miocardiopatía dilatada no isquémica, con disfunción grave de VI
+T113	ENFERMEDAD 6307 6377	Asincronía interventricular por trastorno de la conducción tipo no-BRI
+T115	ENFERMEDAD 4696 4722	VD de diámetros aumentados
+T117	ENFERMEDAD 5188 5229	Aurícula izquierda moderadamente dilatada
+T44	ENFERMEDAD 5737 5764	asincronía interventricular
+T124	ENFERMEDAD 827 829	HP
+T120	ENFERMEDAD 4334 4360	VI de diámetros aumentados

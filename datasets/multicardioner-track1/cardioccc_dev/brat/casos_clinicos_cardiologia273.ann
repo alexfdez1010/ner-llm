@@ -1,0 +1,53 @@
+T44	ENFERMEDAD 254 277	alergias medicamentosas
+T45	ENFERMEDAD 321 351	hipertensión arterial esencial
+T46	ENFERMEDAD 356 373	diabetes mellitus
+T47	ENFERMEDAD 375 377	DM
+T48	ENFERMEDAD 383 393	dislipemia
+T49	ENFERMEDAD 412 421	exfumador
+T50	ENFERMEDAD 532 564	fibrilación auricular permanente
+T51	ENFERMEDAD 664 734	Insuficiencia cardiaca congestiva etiquetada de etiología hipertensiva
+T52	ENFERMEDAD 793 817	enfermedad renal crónica
+T53	ENFERMEDAD 913 937	Síndrome rígidoacinético
+T54	ENFERMEDAD 961 1011	Anemia ferropénica crónica por pérdidas digestivas
+T55	ENFERMEDAD 1013 1044	Hiperplasia benigna de próstata
+T56	ENFERMEDAD 1047 1095	glaucoma crónico de ángulo abierto en ambos ojos
+T57	ENFERMEDAD 1508 1530	insuficiencia cardiaca
+T58	ENFERMEDAD 2665 2686	fibrilación auricular
+T59	ENFERMEDAD 2688 2690	FA
+T60	ENFERMEDAD 2719 2765	bloqueo completo de rama derecha de has de His
+T61	ENFERMEDAD 2859 2884	derrame pleural bilateral
+T62	ENFERMEDAD 2944 2965	Calcificación aórtica
+T63	ENFERMEDAD 2967 2984	Espondiloartrosis
+T65	ENFERMEDAD 5281 5283	IC
+T66	ENFERMEDAD 5491 5512	fibrilación auricular
+T67	ENFERMEDAD 5627 5652	derrame pleural bilateral
+T68	ENFERMEDAD 5715 5736	calcificación aórtica
+T69	ENFERMEDAD 5739 5756	espondiloartrosis
+T70	ENFERMEDAD 6022 6035	valvulopatías
+T71	ENFERMEDAD 6617 6708	fibrilación auricular con bloqueo auriculoventricular (BAV) completo con escape ventricular
+T72	ENFERMEDAD 7677 7720	trastorno de conducción auriculoventricular
+T73	ENFERMEDAD 8114 8181	BAV completo por sobredosificación accidental de carbidopa/levodopa
+T74	ENFERMEDAD 8262 8294	Fibrilación auricular permanente
+T75	ENFERMEDAD 8327 8351	enfermedad renal crónica
+T76	ENFERMEDAD 8364 8389	Síndrome rígido-acinético
+T77	ENFERMEDAD 2767 2773	BCRDHH
+T78	ENFERMEDAD 5540 5546	BCRDHH
+T79	ENFERMEDAD 8183 8224	Descompensación de insuficiencia cardiaca
+T80	ENFERMEDAD 5180 5182	FA
+T81	ENFERMEDAD 7810 7812	FA
+T82	ENFERMEDAD 8029 8031	FA
+T83	ENFERMEDAD 395 410	Hábitos tóxicos
+T84	ENFERMEDAD 208 249	descompensación de insuficiencia cardiaca
+T85	ENFERMEDAD 453 460	fumador
+T86	ENFERMEDAD 1829 1854	sintomatología infecciosa
+T87	ENFERMEDAD 5882 5951	ventrículo izquierdo no dilatado con hipertrofia concéntrica moderada
+T88	ENFERMEDAD 841 861	nefroangioesclerosis
+T89	ENFERMEDAD 5200 5206	BRCDHH
+T90	ENFERMEDAD 6074 6107	vena cava inferior (VCI) dilatada
+T28	ENFERMEDAD 6672 6675	BAV
+T142	ENFERMEDAD 4265 4296	fibrilación auricular bloqueada
+#1	AnnotatorNotes T77	 BCRDHH Bloqueo completo rama derecha Haz de Hiz
+#2	AnnotatorNotes T78	 BCRDHH Bloqueo completo rama derecha Haz de Hiz
+#3	AnnotatorNotes T80	 Fibrilación Auricular
+#4	AnnotatorNotes T81	 Fibrilación Auricular
+#5	AnnotatorNotes T82	 Fibrilación Auricular

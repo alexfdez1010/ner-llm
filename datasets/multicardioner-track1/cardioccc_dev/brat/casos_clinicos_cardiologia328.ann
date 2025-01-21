@@ -1,0 +1,28 @@
+T17	ENFERMEDAD 173 189	pectus excavatum
+T18	ENFERMEDAD 192 212	hernia diafragmática
+T19	ENFERMEDAD 828 851	cardiopatías familiares
+T20	ENFERMEDAD 868 918	miocardiopatía arritmogénica de ventrículo derecho
+T21	ENFERMEDAD 1602 1636	bloqueo incompleto de rama derecha
+T22	ENFERMEDAD 1725 1752	extrasístoles ventriculares
+T23	ENFERMEDAD 2491 2573	válvula mitral de aspecto mixomatoso con prolapso de ambos velos con insuficiencia
+T24	ENFERMEDAD 2793 2811	síndrome de Marfan
+T25	ENFERMEDAD 2915 2944	displasia arritmogénica de VD
+T26	ENFERMEDAD 3033 3051	síndrome de Marfan
+T27	ENFERMEDAD 3167 3185	dilatación aórtica
+T28	ENFERMEDAD 3302 3331	displasia arritmogénica el VD
+T29	ENFERMEDAD 4161 4254	Miocardiopatía arritmogénica biventricular con disfunción izquierda ligera y derecha moderada
+T30	ENFERMEDAD 4374 4408	miocardiopatía arritmogénica de VD
+T31	ENFERMEDAD 4410 4428	Síndrome de Marfan
+T32	ENFERMEDAD 1881 1885	TVNS
+T33	ENFERMEDAD 3531 3576	TVNS con morfología de tracto de salida de VD
+T34	ENFERMEDAD 2632 2665	disfunción sistólica ligera de VI
+T35	ENFERMEDAD 1843 1927	taquicardia ventricular no sostenida (TVNS) con morfología de tracto de salida de VD
+T36	ENFERMEDAD 3718 3754	taquicardia ventricular no sostenida
+T37	ENFERMEDAD 377 423	ventrículo izquierdo (VI) ligeramente dilatado
+T38	ENFERMEDAD 494 593	válvula mitral de aspecto mixomatoso con prolapso de ambos velos que condicionaba una insuficiencia
+T39	ENFERMEDAD 653 671	ápex aneurismático
+T40	ENFERMEDAD 2248 2303	ventrículo izquierdo se encontraba ligeramente dilatado
+T41	ENFERMEDAD 4260 4302	dilatación ligera del ventrículo izquierdo
+T71	ENFERMEDAD 920 924	MAVD
+#1	AnnotatorNotes T33	taquicardia ventricular no sostenida
+#2	AnnotatorNotes T71	Miocardiopatíamiocardiopatía arritmogénica de ventrículo derecho

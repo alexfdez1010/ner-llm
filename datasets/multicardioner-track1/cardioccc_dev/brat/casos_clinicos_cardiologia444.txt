@@ -1,0 +1,36 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+No alergias medicamentosas conocidas.
+Fumador de 6 cigarrillos diarios desde los 17 años.
+Factores de riesgo cardiovascular (FRCV): hipertensión arterial (HTA), dislipemia en tratamiento dietético, no diabetes mellitus (DM).
+Tumor vesical recidivante en seguimiento por urología con cistoscopia anual.
+Neoplasia prostática con afectación metastásica en tratamiento hormonal.
+Antecedentes quirúrgicos: RTU vesical en 2013 y 2014.
+Tratamiento habitual: amlodipino 5 mg/día, enalapril/hidroclorotiazida 20/12,5 mg/día, hierro (sulfato ferroso) 105 mg/día, bicalutamida 50 mg/día.
+
+ENFERMEDAD ACTUAL:
+Paciente varón de 72 años de edad traído a urgencias de nuestro centro por disnea progresiva en los 3-4 días previos hasta hacerse de mínimos esfuerzos, junto con astenia acompañante.
+Negaba clínica de dolor torácico. No tos ni expectoración, no fiebre ni sensación distérmica.
+
+EXPLORACIÓN FÍSICA:
+Regular estado general, palidez mucocutánea, normohidratado. Eupneico en reposo sin uso de musculatura accesoria. Consciente, orientado y colaborador sin focalidad neurológica aparente.
+Constantes: tensión arterial (TA) 81/56 -> 103/66 mmHg, frecuencia cardiaca (FC) 100 lpm, saturación de oxígeno (SatO2) 94% (aire ambiente). Auscultación cardiaca: tonos rítmicos sin soplos audibles. Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos. No edema en miembros inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+ELECTROCARDIOGRAMA (ECG) al ingreso: ritmo sinusal a 60 lpm, eje 60o, PR 160 mseg, QRS estrecho, supradesnivel del ST de 1,5 mm en II, III y aVF con mínima onda Q, infradesnivel del segmento ST con un máximo de 2 mm en V2-V4.
+ANALÍTICA: destaca creatinina 1,49 mg/dl (basales en torno a 1 mg/dl), PCR 130,6 mg/l, hemoglobina 8,0 g/dl y troponina T ultrasensible 4.669 pg/ml.
+RADIOGRAFÍA DE TÓRAX: graves cambios por enfermedad pulmonar obstructiva crónica (EPOC). No se identifica neumotórax. Cardiomegalia. Ateromatosis calcificada aórtica. No se observan consolidaciones ni derrame pleural.
+CORONARIOGRAFÍA: tronco coronario izquierdo (TCI): de buen calibre, sin lesiones. Arteria descendente anterior (ADA): de buen calibre y desarrollo, irregularidades sin lesiones angiográficas significativas. Arteria circunfleja (ACX): de buen calibre y escaso desarrollo, sin lesiones angiográficas significativas. Arteria coronaria derecha (ACD): dominante, tortuosa, con enfermedad difusa en segmento proximal y medio y oclusión trombótica en segmento medio. No se observa claro flujo colateral (ligero homocoronario).
+ECOCARDIOGRAFÍA TRANSTORÁCICA: comunicación interventricular por rotura del tabique interventricular en su zona medial inferior en donde se observa solución de continuidad y trayecto anfractuoso. Se determina un gradiente máximo entre VI y VD de 51 mmHg y la anchura del jet entre ambos ventrículos es de 16 mm. Se calcula un Qp/Qs de 2,2. Se observa dilatación de cavidades derechas y del ventrículo izquierdo y mediante el método de Simpson se estima una fracción de eyección ventricular izquierda del 38%. Se aprecia acinesia de la pared posterior y del septo inferior basal y medial. La válvula aórtica está ligeramente esclerosada, con un gradiente normal. La válvula mitral presenta signos de fibrosis del anillo, apertura conservada e insuficiencia grado II/IV, central, probablemente relacionada con la alteración de la movilidad de la pared ventricular. Se observa una ligera insuficiencia tricuspídea (IT) que permite estimar una presión arterial pulmonar sistólica (PAPs) de 49 mmHg. No se observa derrame pericárdico significativo.
+
+EVOLUCIÓN CLÍNICA
+El paciente ingresa inicialmente en la unidad de cuidados intensivos con diagnóstico de infarto agudo de miocardio de probable localización inferior. Se realiza coronariografía que muestra oclusión trombótica en segmento medio de ACD, pero dada la cronología del cuadro se considera que el infarto es subagudo, y por tanto se desestima intervencionismo.
+Posteriormente el paciente presenta síntomas y signos de insuficiencia cardiaca, y en la ecocardiografía transtorácica realizada se observa rotura septal ventricular con tamaño máximo de 16 mm, shunt izquierda-derecha con gradiente máximo de 58 mmHg, sobrecarga de cavidades derechas, Qp/Qs de 2,2 y FEVI por Simpson del 38% con alteraciones en la contractilidad en territorio de la ACD. Se comenta el caso con cirugía cardiaca y se decide conjuntamente manejo conservador dado el mal pronóstico y la comorbilidad del paciente. El paciente pasa a sala de hospitalización al tercer día y precisa puntualmente rescates de morfina por disnea. Finalmente, dada la situación de insuficiencia cardiaca refractaria, se instaura tratamiento exclusivamente sintomático y el paciente fallece al octavo día de ingreso.
+
+DIAGNÓSTICO
+Infarto agudo de miocardio inferior evolucionado.
+Oclusión trombótica de arteria coronaria derecha media no revascularizada.
+Rotura septal ventricular.
+Insuficiencia cardiaca refractaria.
+Muerte.

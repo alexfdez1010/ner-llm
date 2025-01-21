@@ -1,0 +1,43 @@
+T20	ENFERMEDAD 108 146	aneurisma de aorta torácica ascendente
+T21	ENFERMEDAD 149 215	insuficiencia aórtica grave secundaria a válvula aórtica bicúspide
+T22	ENFERMEDAD 315 335	infarto anteroseptal
+T23	ENFERMEDAD 413 439	disfunción sistólica grave
+T24	ENFERMEDAD 959 981	insuficiencia cardiaca
+T25	ENFERMEDAD 1484 1493	infección
+T26	ENFERMEDAD 1673 1748	Bloqueo de rama izquierda con alteraciones secundarias en la repolarización
+T27	ENFERMEDAD 1890 1934	Insuficiencia mitral (IM) funcional moderada
+T28	ENFERMEDAD 2036 2061	insuficiencia tricuspídea
+T29	ENFERMEDAD 2063 2065	IT
+T30	ENFERMEDAD 2170 2190	insuficiencia mitral
+T31	ENFERMEDAD 2192 2236	insuficiencia mitral (IM) funcional moderada
+T32	ENFERMEDAD 2590 2636	lesión cutánea en región mediastínica anterior
+T33	ENFERMEDAD 2945 2959	lesión cutánea
+T34	ENFERMEDAD 3001 3016	pseudoaneurisma
+T35	ENFERMEDAD 3606 3633	ruptura del pseudoaneurisma
+T36	ENFERMEDAD 3678 3693	pseudoaneurisma
+T37	ENFERMEDAD 4308 4326	IM funcional grave
+T38	ENFERMEDAD 4346 4375	Dehiscencia del anillo mitral
+T39	ENFERMEDAD 4731 4751	insuficiencia mitral
+T40	ENFERMEDAD 4807 4852	neumonía bilateral por coronavirus SARS-CoV-2
+T41	ENFERMEDAD 4894 4926	síndrome de distrés respiratorio
+T42	ENFERMEDAD 5180 5205	Válvula aórtica bicúspide
+T43	ENFERMEDAD 5207 5236	Aneurisma de aorta ascendente
+T44	ENFERMEDAD 5317 5337	Infarto de miocardio
+T45	ENFERMEDAD 5371 5393	Insuficiencia cardiaca
+T46	ENFERMEDAD 5425 5466	Pseudoaneurisma de tubo aórtico valvulado
+T47	ENFERMEDAD 5468 5504	Insuficiencia mitral funcional grave
+T48	ENFERMEDAD 5580 5648	Dehiscencia de anillo de valvuloplastia mitral con IM residual grave
+T49	ENFERMEDAD 5650 5689	Neumonía bilateral grave por SARS-CoV-2
+T50	ENFERMEDAD 3196 3198	IM
+T51	ENFERMEDAD 4038 4040	IM
+T52	ENFERMEDAD 4258 4260	IM
+T53	ENFERMEDAD 1766 1800	ventrículo izquierdo (VI) dilatado
+T102	ENFERMEDAD 4079 4090	VI dilatado
+T114	ENFERMEDAD 3283 3291	lesiones
+T101	ENFERMEDAD 1912 1914	IM
+T107	ENFERMEDAD 2214 2216	IM
+T108	ENFERMEDAD 2707 2740	defecto óseo en manubrio esternal
+T109	ENFERMEDAD 2855 2898	disecciones crónicas en la aorta ascendente
+#1	AnnotatorNotes T50	 insuficiencia mitral
+#2	AnnotatorNotes T51	 insuficiencia mitral
+#3	AnnotatorNotes T52	 insuficiencia mitral

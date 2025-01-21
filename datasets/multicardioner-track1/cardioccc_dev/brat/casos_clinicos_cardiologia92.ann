@@ -1,0 +1,35 @@
+T29	ENFERMEDAD 311 334	alergias medicamentosas
+T30	ENFERMEDAD 366 385	diabetes mellitus 2
+T31	ENFERMEDAD 387 408	hipertensión arterial
+T32	ENFERMEDAD 410 420	dislipemia
+T33	ENFERMEDAD 422 431	Exfumador
+T34	ENFERMEDAD 492 496	EPOC
+T35	ENFERMEDAD 498 537	ACV isquémico de arteria cerebral media
+T36	ENFERMEDAD 594 612	hernia epigástrica
+T37	ENFERMEDAD 637 650	Tumor vesical
+T38	ENFERMEDAD 683 694	Cardiopatía
+T39	ENFERMEDAD 703 726	miocardiopatía dilatada
+T40	ENFERMEDAD 1066 1120	fibrilación auricular con respuesta ventricular rápida
+T41	ENFERMEDAD 1257 1278	fibrilación auricular
+T42	ENFERMEDAD 1460 1481	fibrilación auricular
+T43	ENFERMEDAD 2081 2103	infección respiratoria
+T44	ENFERMEDAD 2170 2191	fibrilación auricular
+T45	ENFERMEDAD 2760 2785	trombosis venosa profunda
+T46	ENFERMEDAD 2862 2916	fibrilación auricular con respuesta ventricular rápida
+T47	ENFERMEDAD 3136 3158	insuficiencia cardiaca
+T48	ENFERMEDAD 3797 3840	Válvula mitral engrosada, con insuficiencia
+T49	ENFERMEDAD 3849 3876	Válvula aórtica esclerosada
+T50	ENFERMEDAD 4065 4084	derrame pericárdico
+T51	ENFERMEDAD 4151 4172	fibrilación auricular
+T52	ENFERMEDAD 5335 5357	insuficiencia cardiaca
+T53	ENFERMEDAD 5372 5426	Fibrilación auricular con respuesta ventricular rápida
+T54	ENFERMEDAD 5540 5593	Taquimiocardiopatía con disfunción ventricular severa
+T55	ENFERMEDAD 581 592	hemorroides
+T56	ENFERMEDAD 3613 3654	Ventrículo izquierdo ligeramente dilatado
+T57	ENFERMEDAD 3754 3795	Aurícula izquierda moderadamente dilatada
+T58	ENFERMEDAD 3927 3971	derechas con aurícula moderadamente dilatada
+T123	ENFERMEDAD 2944 2990	alteraciones de la conducción intraventricular
+T20	ENFERMEDAD 3613 3717	Ventrículo izquierdo ligeramente dilatado, no hipertrófico, con contracción global severamente deprimida
+T24	ENFERMEDAD 4873 4901	disección del seno coronario
+#1	AnnotatorNotes T34	 EPOC: enfermedad pulmonar obstructiva crónica
+#2	AnnotatorNotes T35	 AVC: accidente cardio-vascular

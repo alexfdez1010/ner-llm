@@ -1,0 +1,45 @@
+T27	ENFERMEDAD 71 94	alergias medicamentosas
+T28	ENFERMEDAD 109 124	hábitos tóxicos
+T29	ENFERMEDAD 126 147	Hipertensión arterial
+T30	ENFERMEDAD 149 173	Diabetes mellitus tipo 2
+T31	ENFERMEDAD 175 194	Hipercolesterolemia
+T32	ENFERMEDAD 196 208	Osteoporosis
+T33	ENFERMEDAD 210 234	Colelitiasis sintomática
+T34	ENFERMEDAD 237 256	esteatosis hepática
+T35	ENFERMEDAD 329 343	quiste ovárico
+T36	ENFERMEDAD 346 368	incontinencia urinaria
+T37	ENFERMEDAD 436 485	bloqueo completo de rama izquierda del haz de His
+T38	ENFERMEDAD 487 493	BCRIHH
+T39	ENFERMEDAD 538 593	disfunción sistólica de ventrículo izquierdo (VI) grave
+T40	ENFERMEDAD 630 689	Válvula mitral con cambios degenerativos, fibrosis moderada
+T41	ENFERMEDAD 692 723	insuficiencia mitral (IM) grave
+T42	ENFERMEDAD 725 752	Hipertensión pulmonar grave
+T43	ENFERMEDAD 754 788	Insuficiencia tricuspídea moderada
+T44	ENFERMEDAD 1360 1398	disfunción ventricular izquierda grave
+T45	ENFERMEDAD 1575 1584	arritmias
+T46	ENFERMEDAD 1652 1678	disfunción sistólica grave
+T47	ENFERMEDAD 1707 1728	Hipertensión pulmonar
+T48	ENFERMEDAD 1737 1778	Insuficiencia tricuspídea ligera-moderada
+T49	ENFERMEDAD 3779 3821	VI dilatado con disfunción sistólica grave
+T50	ENFERMEDAD 3963 3996	insuficiencia triscuspídea ligera
+T51	ENFERMEDAD 4087 4110	miocardiopatía dilatada
+T52	ENFERMEDAD 4138 4160	IC crónica reagudizada
+T53	ENFERMEDAD 4395 4403	IC aguda
+T54	ENFERMEDAD 4856 4864	IC aguda
+T55	ENFERMEDAD 4963 4973	IC crónica
+T56	ENFERMEDAD 5518 5597	Miocardiopatía dilatada no isquémica con disfunción ventricular izquierda grave
+T57	ENFERMEDAD 5599 5635	Insuficiencia mitral grave funcional
+T58	ENFERMEDAD 5637 5667	Insuficiencia cardiaca crónica
+T59	ENFERMEDAD 3740 3746	BCRDHH
+T60	ENFERMEDAD 1923 1925	IC
+T61	ENFERMEDAD 5278 5280	IC
+T62	ENFERMEDAD 1697 1705	IM grave
+T63	ENFERMEDAD 3823 3831	IM grave
+T64	ENFERMEDAD 4207 4232	mala perfusión periférica
+T2	ENFERMEDAD 714 716	IM
+T117	ENFERMEDAD 4571 4586	descompensación
+T118	ENFERMEDAD 5026 5041	descompensación
+T24	ENFERMEDAD 1313 1336	miocardiopatía dilatada
+#1	AnnotatorNotes T60	  insuficiencia cardíaca
+#2	AnnotatorNotes T61	  insuficiencia cardíaca
+#3	AnnotatorNotes T63	  insuficiencia mitral

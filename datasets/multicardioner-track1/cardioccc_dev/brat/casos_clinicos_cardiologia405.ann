@@ -1,0 +1,30 @@
+T34	ENFERMEDAD 251 272	hipertensión arterial
+T35	ENFERMEDAD 274 291	diabetes mellitus
+T36	ENFERMEDAD 351 360	Exfumador
+T37	ENFERMEDAD 446 461	hábitos tóxicos
+T38	ENFERMEDAD 542 559	angor de esfuerzo
+T40	ENFERMEDAD 1245 1251	angina
+T41	ENFERMEDAD 3022 3062	bloqueo de rama izquierda del haz de His
+T42	ENFERMEDAD 3064 3069	BRIHH
+T43	ENFERMEDAD 3156 3178	insuficiencia cardiaca
+T44	ENFERMEDAD 3606 3634	Insuficiencia mitral trivial
+T45	ENFERMEDAD 3661 3682	hipertensión pulmonar
+T46	ENFERMEDAD 3720 3739	derrame pericárdico
+T47	ENFERMEDAD 3962 3998	intoxicación por monóxido de carbono
+T48	ENFERMEDAD 4524 4573	bloqueo completo de rama izquierda del haz de His
+T49	ENFERMEDAD 4575 4581	BCRIHH
+T50	ENFERMEDAD 4743 4769	disfunción sistólica grave
+T51	ENFERMEDAD 4801 4855	síndrome coronario agudo sin elevación del segmento ST
+T52	ENFERMEDAD 5324 5330	BCRIHH
+T53	ENFERMEDAD 5381 5417	Intoxicación por monóxido de carbono
+T54	ENFERMEDAD 5455 5462	SCASEST
+T55	ENFERMEDAD 5584 5590	BCRIHH
+T56	ENFERMEDAD 5592 5643	Cardiopatía isquémica con enfermedad de 1 vaso (CD)
+T57	ENFERMEDAD 5700 5709	trombosis
+T59	ENFERMEDAD 5523 5552	Ventrículo izquierdo dilatado
+T60	ENFERMEDAD 4673 4702	ventrículo izquierdo dilatado
+T61	ENFERMEDAD 3227 3297	ventrículo izquierdo levemente dilatado con disfunción sistólica grave
+T62	ENFERMEDAD 4857 4864	SCASEST
+T39	ENFERMEDAD 3547 3604	Válvula aórtica con buena apertura, levemente calcificada
+T116	ENFERMEDAD 2978 3009	crecimiento auricular izquierdo
+T30	ENFERMEDAD 4894 4930	intoxicación por monóxido de carbono

@@ -1,0 +1,49 @@
+T27	ENFERMEDAD 63 89	valvulopatía mitro-aórtica
+T28	ENFERMEDAD 320 343	alergias medicamentosas
+T29	ENFERMEDAD 397 418	hipertensión arterial
+T30	ENFERMEDAD 420 423	HTA
+T31	ENFERMEDAD 534 551	diabetes mellitus
+T32	ENFERMEDAD 553 555	DM
+T33	ENFERMEDAD 581 601	valvulopatía aórtica
+T34	ENFERMEDAD 953 996	insuficiencia mitral de origen degenerativo
+T35	ENFERMEDAD 998 1019	Fibrilación auricular
+T36	ENFERMEDAD 1021 1023	FA
+T37	ENFERMEDAD 1103 1130	Hipertensión pulmonar grave
+T38	ENFERMEDAD 1209 1248	enfermedad pulmonar obstructiva crónica
+T39	ENFERMEDAD 2621 2684	insuficiencia venosa crónica con trastornos tróficos en la piel
+T40	ENFERMEDAD 2733 2748	derrame pleural
+T41	ENFERMEDAD 2833 2852	atelectasia laminar
+T42	ENFERMEDAD 2864 2894	atelectasia laminar redondeada
+T43	ENFERMEDAD 2944 2947	HVI
+T44	ENFERMEDAD 3338 3371	Hipertensión pulmonar (HTP) grave
+T45	ENFERMEDAD 3392 3501	Insuficiencia tricuspídea funcional por dilatación del anillo y estiramiento de las cuerdas tendinosas, grave
+T46	ENFERMEDAD 3709 3739	retención hídrica en hemitórax
+T47	ENFERMEDAD 3749 3766	tumor evanescente
+T48	ENFERMEDAD 3773 3791	disección de aorta
+T49	ENFERMEDAD 4341 4390	derrame pleural leve derecho y moderado izquierdo
+T50	ENFERMEDAD 4436 4476	derrame loculado en fisura mayor derecha
+T51	ENFERMEDAD 4695 4737	insuficiencia cardiaca derecha e izquierda
+T52	ENFERMEDAD 5065 5111	hemitórax derecho que mostró retención hídrica
+T53	ENFERMEDAD 5173 5191	disección de aorta
+T54	ENFERMEDAD 6237 6247	HTP severa
+T55	ENFERMEDAD 6264 6267	HTA
+T56	ENFERMEDAD 504 506	DL
+T57	ENFERMEDAD 6269 6272	DLP
+T58	ENFERMEDAD 6065 6120	Disección aórtica tipo A de Stanford de perfil subagudo
+T59	ENFERMEDAD 2922 2924	FA
+T60	ENFERMEDAD 6249 6262	FA permanente
+T61	ENFERMEDAD 3294 3336	Ventrículo derecho dilatado de forma grave
+T62	ENFERMEDAD 103 135	insuficiencia cardiaca izquierda
+T63	ENFERMEDAD 4478 4495	tumor evanescente
+T64	ENFERMEDAD 3256 3292	aurícula derecha gravemente dilatada
+T65	ENFERMEDAD 3361 3364	HTP
+T66	ENFERMEDAD 3503 3542	Aurícula izquierda ligeramente dilatada
+T67	ENFERMEDAD 5127 5144	tumor evanescente
+T25	ENFERMEDAD 3977 4059	disección hasta la arteria iliaca externa derecha llegando a femoral común derecha
+T11	ENFERMEDAD 5951 5960	disección
+#1	AnnotatorNotes T43	 hipertrofia ventriculo izquierdo
+#2	AnnotatorNotes T56	 DL dislipemia
+#3	AnnotatorNotes T57	 DLP dislipemia
+#4	AnnotatorNotes T59	 Fibrilación Auricular
+#5	AnnotatorNotes T60	 Fibrilación Auricular
+#6	AnnotatorNotes T65	 hipertensión pulmonar
