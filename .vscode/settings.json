@@ -3,5 +3,10 @@
     "tests"
   ],
   "python.testing.unittestEnabled": false,
-  "python.testing.pytestEnabled": true
+  "python.testing.pytestEnabled": true,
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "editor.formatOnType": true
 }
