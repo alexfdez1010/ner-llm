@@ -75,13 +75,52 @@ class TestRulesGenerator:
         texts = ["John Smith is a developer"]
         entities = [[Entity("PERSON", "John Smith", (0, 10))]]
         
-        # Assert it raises ValueError
-        with pytest.raises(ValueError, match="Generated rules are not in valid JSON format"):
+        # Assert it raises ValueError with the new error message format
+        with pytest.raises(ValueError, match="Failed to generate valid rules after 3 attempts"):
             rules_generator.generate_rules(
                 categories=categories,
                 texts=texts,
                 entities=entities
             )
+
+    def test_retry_behavior(self, rules_generator: RulesGenerator, mock_llm: Mock):
+        """Test that rules generation retries on failure and raises error after max attempts."""
+        # Configure mock to return invalid JSON responses
+        mock_llm.generate_completion.side_effect = [
+            "Invalid JSON 1",  # First attempt fails
+            "Also invalid",    # Second attempt fails
+            "Still invalid"    # Third attempt fails
+        ]
+        
+        # Test with default max_attempts (3)
+        with pytest.raises(ValueError) as exc_info:
+            rules_generator.generate_rules(
+                categories=[Category(name="TEST", description="Test category")],
+                texts=["Test text"],
+                entities=[[]]
+            )
+        
+        assert "Failed to generate valid rules after 3 attempts" in str(exc_info.value)
+        assert mock_llm.generate_completion.call_count == 3
+        
+        # Reset mock
+        mock_llm.generate_completion.reset_mock()
+        
+        # Test with custom max_attempts
+        mock_llm.generate_completion.side_effect = [
+            "Invalid JSON 1",  # First attempt fails
+            '[{"pattern": [{"LOWER": "test"}], "label": "TEST"}]'  # Second attempt succeeds
+        ]
+        
+        rules = rules_generator.generate_rules(
+            categories=[Category(name="TEST", description="Test category")],
+            texts=["Test text"],
+            entities=[[]],
+            max_attempts=2
+        )
+        
+        assert len(rules) == 1
+        assert mock_llm.generate_completion.call_count == 2
 
 def test_integration_with_real_llm():
     """Integration test using real LLM with a simple example."""

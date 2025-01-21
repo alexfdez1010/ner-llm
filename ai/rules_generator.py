@@ -3,6 +3,7 @@ from ai.llm import LLM
 from model.entity import Entity
 from model.category import Category
 import json
+import re
 
 class RulesGenerator:
     def __init__(self, llm: LLM):
@@ -18,7 +19,8 @@ class RulesGenerator:
         categories: list[Category],
         texts: list[str],
         entities: list[list[Entity]],
-        old_rules: list[dict[str, Any]] = None
+        old_rules: list[dict[str, Any]] = None,
+        max_attempts: int = 3
     ) -> list[dict[str, Any]]:
         """Generate spaCy pattern rules for NER based on example texts and entities.
         
@@ -27,9 +29,13 @@ class RulesGenerator:
             texts (list[str]): List of example texts
             entities (list[list[Entity]]): List of lists of entities for each text
             old_rules (list[dict[str, Any]], optional): Existing rules to build upon
+            max_attempts (int, optional): Maximum number of attempts to generate valid rules. Defaults to 3.
             
         Returns:
             list[dict[str, Any]]: List of spaCy pattern rules in JSON format
+            
+        Raises:
+            ValueError: If unable to generate valid rules after max_attempts
         """
         # Prepare examples for the prompt
         examples = []
@@ -38,105 +44,62 @@ class RulesGenerator:
                 "text": text,
                 "entities": [
                     {
-                        "entity": e.entity,
-                        "category": e.category,
-                        "span": (e.span[0], e.span[1])
-                    } for e in text_entities
+                        "text": text[entity.span[0]:entity.span[1]],
+                        "category": entity.category
+                    }
+                    for entity in text_entities
                 ]
             }
             examples.append(example)
+        
+        # Format the prompt with examples and categories
+        system_prompt = """You are an expert in Named Entity Recognition (NER) and pattern matching.
+Your task is to generate spaCy pattern rules for identifying entities in text.
+The rules should be in JSON format and follow this structure:
+[
+  {
+    "pattern": [{"LOWER": "word"}, {"IS_DIGIT": true}],
+    "label": "ENTITY_TYPE"
+  }
+]"""
+        
+        user_prompt = f"""Generate spaCy pattern rules for the following entity categories:
+{[category.name for category in categories]}
 
-        # Create the system prompt with clear instructions
-        system_prompt = """
-You are an expert in creating pattern matching rules for spaCy's Rule-Based Matcher. Your task is to analyze text examples and their annotated entities to create precise matching patterns.
-
-Key points about spaCy patterns:
-1. Each pattern is a list of token specifications
-2. Token specs can include:
-   - 'LOWER': lowercase token text
-   - 'TEXT': exact token text
-   - 'REGEX': regex pattern
-   - 'POS': part-of-speech tag
-   - 'TAG': fine-grained POS tag
-   - 'DEP': syntactic dependency
-   - 'OP': operator ('?', '+', '*', '!')
-   
-Example pattern:
-{
-    "label": "PERSON",
-    "pattern": [
-        {"LOWER": "dr"},
-        {"TEXT": "."},
-        {"POS": "PROPN", "OP": "+"}
-    ]
-}
-
-Your task:
-1. Analyze the provided examples
-2. Create specific patterns that would match similar entities
-3. Consider context and variations
-4. Include both exact matches and flexible patterns
-5. Use appropriate operators for optional elements
-6. Consider existing rules to avoid conflicts
-
-Output only valid JSON patterns that spaCy can directly use."""
-
-        # Create the user prompt with examples and existing rules
-        user_prompt = f"""Generate spaCy pattern rules for the following examples:
-
-Examples:
+Based on these examples:
 {json.dumps(examples, indent=2)}
 
-Categories: {categories}
+{f'Building upon these existing rules:' + json.dumps(old_rules, indent=2) if old_rules else ''}
 
-Existing rules (to consider for improvements/conflicts):
-{json.dumps(old_rules, indent=2) if old_rules else "No existing rules"}
+Return ONLY the rules in valid JSON format."""
 
-Generate a comprehensive set of pattern rules that:
-1. Match the given examples
-2. Can generalize to similar cases
-3. Are precise enough to avoid false positives
-4. Take into account the context
-5. Use appropriate token attributes (LOWER, TEXT, POS, etc.)
-6. Include patterns for variations of the same entity type
-
-Return only the JSON array of pattern rules."""
-
-        # Generate rules using the LLM
-        response = self.llm.generate_completion(
-            system_prompt=system_prompt,
-            user_prompt=user_prompt
-        )
-
-        # Clean up response from potential markdown code blocks
-        response = response.strip()
-        if response.startswith("```") and response.endswith("```"):
-            response = response.split("\n", 1)[1].rsplit("\n", 1)[0]
-        if response.startswith("json\n"):
-            response = response[5:]
-
-        try:
-            # Parse and validate the generated rules
-            new_rules = json.loads(response)
-            if not isinstance(new_rules, list):
-                raise ValueError("Generated rules must be a list")
-            
-            # Merge with old rules if they exist
-            if old_rules:
-                # Create a set of rule patterns to avoid duplicates
-                existing_patterns = {
-                    json.dumps(rule.get("pattern", []))
-                    for rule in old_rules
-                }
+        # Try to generate valid rules up to max_attempts times
+        last_error = None
+        for attempt in range(max_attempts):
+            try:
+                completion = self.llm.generate_completion(
+                    system_prompt=system_prompt,
+                    user_prompt=user_prompt
+                )
                 
-                # Only add new rules that don't exist yet
-                final_rules = old_rules.copy()
-                for rule in new_rules:
-                    if json.dumps(rule.get("pattern", [])) not in existing_patterns:
-                        final_rules.append(rule)
-                return final_rules
-            
-            return new_rules
-            
-        except json.JSONDecodeError:
-            raise ValueError("Generated rules are not in valid JSON format")
+                # Extract the JSON part from the completion
+                pattern = r"\[[\s\S]*\]"
+                match = re.search(pattern, completion)
+                if not match:
+                    raise ValueError("No JSON array found in the response")
+                
+                json_str = match.group()
+                new_rules = json.loads(json_str)
+                
+                # Merge with old rules if provided
+                if old_rules:
+                    new_rules.extend(old_rules)
+                
+                return new_rules
+                
+            except (json.JSONDecodeError, ValueError) as e:
+                last_error = e
+                continue
+        
+        # If we get here, all attempts failed
+        raise ValueError(f"Failed to generate valid rules after {max_attempts} attempts. Last error: {str(last_error)}")
