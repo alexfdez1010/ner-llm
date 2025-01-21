@@ -118,12 +118,16 @@ def main():
 
     pipeline = Pipeline(extractor, rules_generator, dataset)
     pipeline.execute(
-        output_file="rules_multicardioner.json",
-        num_iterations=1,
+        output_file="rules_generated/rules_multicardioner.json",
+        num_iterations=2,
         categories=[Category(name="ENFERMEDAD", description="Enfermedades cardíacas")],
-        sample_percentage=0.2,
+        sample_percentage=0.001,
     )
 
+    rules = pipeline.load_rules("rules_generated/rules_multicardioner.json")
+    precision, recall, f1 = pipeline.evaluate(rules, "test")
+
+    print(f"Precision: {precision}\nRecall: {recall}\nF1: {f1}")
 
 if __name__ == "__main__":
     main()

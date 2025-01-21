@@ -2,6 +2,7 @@ from unittest.mock import Mock, patch
 import pytest
 import tempfile
 import os
+from typing import Any
 
 from pipeline import Pipeline
 from model.entity import Entity
@@ -18,13 +19,17 @@ def mock_components():
 
     # Create a simple dataset with 5 training instances
     training_instances = [
-        Instance(tokens=["This", "is", "text", str(i)], labels=[1, 0, 0, 2])
-        for i in range(5)
+        Instance(tokens=["John", "lives", "in", "London"], labels=[1, 0, 0, 2]),
+        Instance(tokens=["Mary", "visited", "Paris"], labels=[1, 0, 2]),
+    ]
+
+    validation_instances = [
+        Instance(tokens=["Peter", "works", "in", "Berlin"], labels=[1, 0, 0, 2]),
     ]
 
     dataset = Dataset(
         training=training_instances,
-        validation=[],
+        validation=validation_instances,
         test=[],
         index_to_category={0: None, 1: "PERSON", 2: "LOCATION"},
     )
@@ -42,6 +47,26 @@ def mock_components():
         return current_rules + [new_rule]
 
     mock_rules_generator.generate_rules.side_effect = generate_rules
+
+    # Configure mock extractor
+    def extract_entities(text: str, rules: list[dict[str, Any]]) -> list[Entity]:
+        # Simple mock that extracts entities based on token position
+        tokens = text.split()
+        entities = []
+        
+        # Mock entity extraction for test data
+        if "John" in tokens:
+            entities.append(Entity(category="PERSON", entity="John", span=(text.index("John"), text.index("John") + len("John"))))
+        if "London" in tokens:
+            entities.append(Entity(category="LOCATION", entity="London", span=(text.index("London"), text.index("London") + len("London"))))
+        if "Peter" in tokens:
+            entities.append(Entity(category="PERSON", entity="Peter", span=(text.index("Peter"), text.index("Peter") + len("Peter"))))
+        if "Berlin" in tokens:
+            entities.append(Entity(category="LOCATION", entity="Berlin", span=(text.index("Berlin"), text.index("Berlin") + len("Berlin"))))
+        
+        return entities
+
+    mock_extractor.extract_entities.side_effect = extract_entities
 
     return mock_extractor, mock_rules_generator, dataset, categories
 
@@ -75,8 +100,8 @@ def test_pipeline_execution(mock_components):
             for call_args in mock_rules_generator.generate_rules.call_args_list:
                 _, kwargs = call_args
                 texts = kwargs["texts"]  # texts is passed as a keyword argument
-                # With 5 total instances and 50% sampling, should use 2-3 instances
-                assert 2 <= len(texts) <= 3
+                # With 2 total instances and 50% sampling, should use 1 instance
+                assert len(texts) == 1
 
             # Verify final rules were saved
             with open(output_file, "r") as f:
@@ -144,3 +169,31 @@ def test_pipeline_empty_dataset(mock_components):
         finally:
             # Clean up temporary file
             os.unlink(output_file)
+
+
+def test_pipeline_evaluate(mock_components):
+    """Test the evaluation method of the pipeline."""
+    mock_extractor, mock_rules_generator, dataset, categories = mock_components
+    
+    # Create pipeline
+    pipeline = Pipeline(mock_extractor, mock_rules_generator, dataset)
+    
+    rules = [
+        {"pattern": [{"LOWER": "peter"}], "category": "PERSON"},
+        {"pattern": [{"LOWER": "berlin"}], "category": "LOCATION"}
+    ]
+    
+    # Test evaluation on validation set
+    metrics = pipeline.evaluate(rules, subset="validation")
+    
+    # Since our mock extractor perfectly matches the validation data
+    # we expect perfect scores
+    assert metrics["precision"] == 1.0
+    assert metrics["recall"] == 1.0
+    assert metrics["f1"] == 1.0
+    
+    # Test evaluation on training set
+    metrics = pipeline.evaluate(rules, subset="training")
+    assert metrics["precision"] == 1.0
+    assert metrics["recall"] == 0.5
+    assert metrics["f1"] == 0.6666666666666666

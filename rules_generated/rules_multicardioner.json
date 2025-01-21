@@ -1,0 +1,179 @@
+[
+  {
+    "pattern": [
+      {
+        "LOWER": "s\u00edndrome"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "coronario"
+      },
+      {
+        "LOWER": "agudo"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "edema"
+      },
+      {
+        "LOWER": "cerebral"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "muerte"
+      },
+      {
+        "LOWER": "encef\u00e1lica"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "asistolia"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "broncoaspiraci\u00f3n"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "tumor"
+      },
+      {
+        "LOWER": "odontog\u00e9nico"
+      },
+      {
+        "LOWER": "queratoqu\u00edstico"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "quiste"
+      },
+      {
+        "LOWER": "radicular"
+      },
+      {
+        "LOWER": "inflamatorio"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "quiste"
+      },
+      {
+        "LOWER": "\u00f3seo"
+      },
+      {
+        "LOWER": "aneurism\u00e1tico"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "necrosis"
+      },
+      {
+        "LOWER": "pulpar"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "riz\u00f3lisis"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "lesi\u00f3n"
+      },
+      {
+        "LOWER": "tumoral"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "fractura"
+      },
+      {
+        "LOWER": "intra"
+      },
+      {
+        "LOWER": "o"
+      },
+      {
+        "LOWER": "posoperatoria"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "parestesia"
+      },
+      {
+        "LOWER": "del"
+      },
+      {
+        "LOWER": "nervio"
+      },
+      {
+        "LOWER": "mentoniano"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  },
+  {
+    "pattern": [
+      {
+        "LOWER": "secuela"
+      },
+      {
+        "LOWER": "de"
+      },
+      {
+        "LOWER": "oclusi\u00f3n"
+      }
+    ],
+    "label": "ENFERMEDAD"
+  }
+]

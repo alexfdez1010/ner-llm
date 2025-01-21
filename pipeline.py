@@ -1,4 +1,4 @@
-from typing import Any
+from typing import Any, Literal
 import json
 
 from ai.extractor_ner import ExtractorNER
@@ -6,6 +6,8 @@ from ai.rules_generator import RulesGenerator
 from dataset import Dataset
 from model.category import Category
 from model.entity import Entity
+
+import os
 
 
 class Pipeline:
@@ -74,6 +76,70 @@ class Pipeline:
                 old_rules=current_rules,
             )
 
+            # Ensure the directory exists
+            os.makedirs(os.path.dirname(output_file), exist_ok=True)
             # Store rules after each iteration
             with open(output_file, "w") as f:
                 json.dump(current_rules, f, indent=2)
+
+    def evaluate(
+        self, 
+        rules: list[dict[str, Any]], 
+        subset: Literal["training", "validation", "test"] = "validation"
+    ) -> dict[str, float]:
+        """
+        Evaluates NER performance on a dataset using provided rules.
+        
+        Args:
+            rules: List of rules dictionaries containing pattern and label
+            subset: Subset of the dataset to evaluate on (default: "validation")
+        
+        Returns:
+            Dictionary with precision, recall and F1 metrics
+        """
+        # Get instances based on subset
+        if subset == "training":
+            instances = self.dataset.training
+        elif subset == "validation":
+            instances = self.dataset.validation
+        else:
+            instances = self.dataset.test
+
+        # Initialize counters
+        true_positives = 0
+        false_positives = 0
+        false_negatives = 0
+
+        # Process each instance
+        for instance in instances:
+            # Get predicted entities using extractor
+            text = " ".join(instance.tokens)
+            predicted_entities = self.extractor.extract_entities(text, rules)
+
+            # Get gold entities
+            gold_entities = instance.get_entities(self.dataset.index_to_category)
+
+            # Convert entities to set of tuples for comparison
+            pred_set = {(e.span[0], e.span[1], e.category) for e in predicted_entities}
+            gold_set = {(e.span[0], e.span[1], e.category) for e in gold_entities}
+
+            # Update metrics
+            true_positives += len(pred_set & gold_set)
+            false_positives += len(pred_set - gold_set)
+            false_negatives += len(gold_set - pred_set)
+
+        # Calculate metrics
+        precision = true_positives / (true_positives + false_positives) if (true_positives + false_positives) > 0 else 0.0
+        recall = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0.0
+        f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
+
+        return {
+            "precision": precision,
+            "recall": recall,
+            "f1": f1
+        }
+
+    def load_rules(self, rules_file: str) -> list[dict[str, Any]]:
+        with open(rules_file, "r") as f:
+            rules = json.load(f)
+        return rules

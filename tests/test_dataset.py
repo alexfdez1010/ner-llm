@@ -1,5 +1,6 @@
 import pytest
 from dataset import Dataset, Instance
+from model.entity import Entity
 
 
 def test_instance_creation():
@@ -26,7 +27,11 @@ def test_instance_get_entities():
     )
     index_to_category = {0: None, 1: "PERSON", 2: "LOCATION"}
     entities = instance.get_entities(index_to_category)
-    assert entities == ["PERSON", "LOCATION", "LOCATION"]
+    assert entities == [
+        Entity(category="PERSON", entity="John", span=(0, 4)),
+        Entity(category="LOCATION", entity="New", span=(14, 17)),
+        Entity(category="LOCATION", entity="York", span=(18, 22)),
+    ]
 
     # Test with some invalid categories
     instance = Instance(tokens=["The", "cat", "sleeps"], labels=[0, 1, 0])
