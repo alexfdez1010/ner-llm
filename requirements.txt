@@ -2,7 +2,7 @@ langchain
 huggingface
 huggingface-hub
 langchain-community
-langchain-together
+langchain-ollama
 python-dotenv
 pytest
 spacy

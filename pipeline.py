@@ -84,17 +84,17 @@ class Pipeline:
                 json.dump(current_rules, f, indent=2)
 
     def evaluate(
-        self, 
-        rules: list[dict[str, Any]], 
-        subset: Literal["training", "validation", "test"] = "validation"
+        self,
+        rules: list[dict[str, Any]],
+        subset: Literal["training", "validation", "test"] = "validation",
     ) -> tuple[float, float, float]:
         """
         Evaluates NER performance on a dataset using provided spaCy rules.
-        
+
         Args:
             rules: List of rules dictionaries containing pattern and label
             subset: Subset of the dataset to evaluate on (default: "validation")
-        
+
         Returns:
             Dictionary with precision, recall and F1 metrics
         """
@@ -143,9 +143,21 @@ class Pipeline:
             false_negatives += len(gold_set - pred_set)
 
         # Calculate metrics
-        precision = true_positives / (true_positives + false_positives) if (true_positives + false_positives) > 0 else 0.0
-        recall = true_positives / (true_positives + false_negatives) if (true_positives + false_negatives) > 0 else 0.0
-        f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0.0
+        precision = (
+            true_positives / (true_positives + false_positives)
+            if (true_positives + false_positives) > 0
+            else 0.0
+        )
+        recall = (
+            true_positives / (true_positives + false_negatives)
+            if (true_positives + false_negatives) > 0
+            else 0.0
+        )
+        f1 = (
+            2 * (precision * recall) / (precision + recall)
+            if (precision + recall) > 0
+            else 0.0
+        )
 
         return precision, recall, f1
 

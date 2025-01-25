@@ -1,31 +1,27 @@
-from typing import Optional
-from langchain_together import ChatTogether
-from dotenv import load_dotenv
+from typing import Optional, Literal
+from langchain_ollama import ChatOllama
 import os
 
 
 class LLM:
-    def __init__(self):
-        """Initialize the LLM class with Together AI client."""
-        load_dotenv()
+    """
+    Class for interacting with Ollama.
+    """
+    def __init__(self, model: str = "llama3.2-vision"):
+        """Initialize the LLM class with Ollama client."""
 
-        self.model = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
+        self.model = model
 
-        # Initialize Together AI client
-        self.client = ChatTogether(
-            model=self.model, together_api_key=os.getenv("TOGETHER_API_KEY")
-        )
+        # Initialize Ollama client
+        self.client = ChatOllama(model=self.model)
 
-    def generate_completion(
-        self, system_prompt: str, user_prompt: str, max_tokens: Optional[int] = 1024
-    ) -> str:
+    def generate_completion(self, system_prompt: str, user_prompt: str) -> str:
         """
-        Generate a completion using Together AI.
+        Generate a completion using Ollama.
 
         Args:
             system_prompt (str): The system prompt to guide the model's behavior
             user_prompt (str): The user's input prompt
-            max_tokens (int, optional): Maximum number of tokens to generate. Defaults to 1024.
 
         Returns:
             str: The generated completion
@@ -35,6 +31,6 @@ class LLM:
             {"role": "user", "content": user_prompt},
         ]
 
-        response = self.client.invoke(messages, max_tokens=max_tokens)
+        response = self.client.invoke(messages)
 
         return response.content

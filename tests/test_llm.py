@@ -1,7 +1,5 @@
 import pytest
 from ai.llm import LLM
-import os
-from dotenv import load_dotenv
 
 
 @pytest.fixture
@@ -16,7 +14,7 @@ def test_generate_completion(llm):
     user_prompt = "What is 2+2?"
 
     response = llm.generate_completion(
-        system_prompt=system_prompt, user_prompt=user_prompt, max_tokens=50
+        system_prompt=system_prompt, user_prompt=user_prompt
     )
 
     assert isinstance(response, str)
