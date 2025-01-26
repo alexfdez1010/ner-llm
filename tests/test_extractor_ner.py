@@ -1,6 +1,8 @@
-import pytest
 from unittest.mock import Mock
-from ai.extractor_ner import ExtractorNER, Category, Entity
+
+import pytest
+
+from ai.extractor_ner import Category, Entity, ExtractorNER
 from ai.llm import LLM
 
 

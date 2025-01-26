@@ -1,5 +1,7 @@
-from typing import Any, Literal
 import json
+import os
+from typing import Any, Literal
+
 import spacy
 
 from ai.extractor_ner import ExtractorNER
@@ -7,8 +9,6 @@ from ai.rules_generator import RulesGenerator
 from dataset import Dataset
 from model.category import Category
 from model.entity import Entity
-
-import os
 
 
 class Pipeline:
@@ -82,6 +82,10 @@ class Pipeline:
             # Store rules after each iteration
             with open(output_file, "w") as f:
                 json.dump(current_rules, f, indent=2)
+            
+            # Evaluate performance
+            precision, recall, f1 = self.evaluate(current_rules, subset="validation")
+            print(f"Precision: {precision}\nRecall: {recall}\nF1: {f1}")
 
     def evaluate(
         self,

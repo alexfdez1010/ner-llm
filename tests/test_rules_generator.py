@@ -117,6 +117,74 @@ class TestRulesGenerator:
         assert len(rules) == 1
         assert mock_llm.generate_completion.call_count == 2
 
+    def test_validate_pattern_token(self, rules_generator: RulesGenerator):
+        """Test validation of individual token patterns."""
+        # Valid patterns
+        assert rules_generator.is_valid_pattern_token({"LOWER": "test"})
+        assert rules_generator.is_valid_pattern_token({"POS": "NOUN", "OP": "+"})
+        assert rules_generator.is_valid_pattern_token({"IS_DIGIT": True, "OP": "?"})
+        assert rules_generator.is_valid_pattern_token({})  # Wildcard
+        assert rules_generator.is_valid_pattern_token({"OP": "{2,5}"})
+        
+        # Invalid patterns
+        assert not rules_generator.is_valid_pattern_token({"INVALID": "test"})
+        assert not rules_generator.is_valid_pattern_token({"OP": "invalid"})
+        assert not rules_generator.is_valid_pattern_token({"OP": "{invalid}"})
+        assert not rules_generator.is_valid_pattern_token("not a dict")
+
+    def test_validate_pattern(self, rules_generator: RulesGenerator):
+        """Test validation of complete patterns."""
+        # Valid pattern
+        valid_pattern = {
+            "label": "TEST",
+            "pattern": [
+                {"LOWER": "test"},
+                {"POS": "NOUN", "OP": "+"},
+                {}  # Wildcard
+            ]
+        }
+        assert rules_generator.validate_pattern(valid_pattern)
+        
+        # Invalid patterns
+        invalid_patterns = [
+            # Missing label
+            {"pattern": [{"LOWER": "test"}]},
+            # Missing pattern
+            {"label": "TEST"},
+            # Invalid token pattern
+            {"label": "TEST", "pattern": [{"INVALID": "test"}]},
+            # Pattern not a list
+            {"label": "TEST", "pattern": "not a list"},
+            # Not a dict
+            "not a dict"
+        ]
+        for pattern in invalid_patterns:
+            assert not rules_generator.validate_pattern(pattern)
+
+    def test_filter_valid_rules(self, rules_generator: RulesGenerator):
+        """Test filtering of valid rules."""
+        rules = [
+            # Valid rule
+            {
+                "label": "PERSON",
+                "pattern": [{"LOWER": "dr"}, {"TEXT": "."}, {"POS": "PROPN", "OP": "+"}]
+            },
+            # Invalid rule (invalid attribute)
+            {
+                "label": "ORG",
+                "pattern": [{"INVALID": "test"}]
+            },
+            # Valid rule
+            {
+                "label": "NUMBER",
+                "pattern": [{"IS_DIGIT": True, "LENGTH": {">=": 2}}]
+            }
+        ]
+        
+        valid_rules = rules_generator.filter_valid_rules(rules)
+        assert len(valid_rules) == 2
+        assert valid_rules[0]["label"] == "PERSON"
+        assert valid_rules[1]["label"] == "NUMBER"
 
 def test_integration_with_real_llm():
     """Integration test using real LLM with a simple example."""

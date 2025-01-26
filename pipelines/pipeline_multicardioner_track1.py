@@ -119,9 +119,9 @@ def main():
     pipeline = Pipeline(extractor, rules_generator, dataset)
     pipeline.execute(
         output_file="rules_generated/rules_multicardioner.json",
-        num_iterations=2,
+        num_iterations=200,
         categories=[Category(name="ENFERMEDAD", description="Enfermedades cardíacas")],
-        sample_percentage=0.001,
+        sample_percentage=0.002,
     )
 
     rules = pipeline.load_rules("rules_generated/rules_multicardioner.json")

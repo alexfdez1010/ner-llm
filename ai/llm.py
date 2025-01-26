@@ -1,6 +1,4 @@
-from typing import Optional, Literal
 from langchain_ollama import ChatOllama
-import os
 
 
 class LLM:
@@ -13,7 +11,7 @@ class LLM:
         self.model = model
 
         # Initialize Ollama client
-        self.client = ChatOllama(model=self.model)
+        self.client = ChatOllama(model=self.model, num_predict=-1, num_ctx=128000)
 
     def generate_completion(self, system_prompt: str, user_prompt: str) -> str:
         """

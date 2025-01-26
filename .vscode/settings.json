@@ -8,5 +8,6 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.formatOnSaveMode": "modificationsIfAvailable",
-  "editor.formatOnType": true
+  "editor.formatOnType": true,
+  "windsurfPyright.disableLanguageServices": true
 }
