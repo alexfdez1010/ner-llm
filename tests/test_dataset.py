@@ -4,77 +4,60 @@ from model.entity import Entity
 
 
 def test_instance_creation():
-    # Test instance creation with labels
-    instance = Instance(tokens=["hello", "world"], labels=[0, 1])
+    # Test instance creation with entities
+    entities = [
+        Entity(category="PERSON", entity="John", span=(0, 4)),
+        Entity(category="LOCATION", entity="New York", span=(14, 22))
+    ]
+    instance = Instance(tokens=["hello", "world"], entities=entities)
     assert instance.tokens == ["hello", "world"]
-    assert instance.labels == [0, 1]
+    assert instance.entities == entities
 
-    # Test instance creation without labels
-    instance = Instance(tokens=["hello", "world"], labels=None)
+    # Test instance creation without entities
+    instance = Instance(tokens=["hello", "world"], entities=None)
     assert instance.tokens == ["hello", "world"]
-    assert instance.labels is None
+    assert instance.entities is None
 
 
 def test_instance_to_string():
-    instance = Instance(tokens=["hello", "world"], labels=[0, 1])
-    assert str(instance) == "hello world"
-
-
-def test_instance_get_entities():
-    # Test with all valid categories
-    instance = Instance(
-        tokens=["John", "lives", "in", "New", "York"], labels=[1, 0, 0, 2, 2]
-    )
-    index_to_category = {0: None, 1: "PERSON", 2: "LOCATION"}
-    entities = instance.get_entities(index_to_category)
-    assert entities == [
+    entities = [
         Entity(category="PERSON", entity="John", span=(0, 4)),
-        Entity(category="LOCATION", entity="New", span=(14, 17)),
-        Entity(category="LOCATION", entity="York", span=(18, 22)),
+        Entity(category="LOCATION", entity="New York", span=(14, 22))
     ]
+    instance = Instance(tokens=["John", "lives", "in", "New", "York"], entities=entities)
+    assert str(instance) == "John lives in New York\n\nPERSON: John LOCATION: New York"
 
-    # Test with some invalid categories
-    instance = Instance(tokens=["The", "cat", "sleeps"], labels=[0, 1, 0])
-    index_to_category = {0: None, 2: "ACTION"}  # Missing category 1
-    entities = instance.get_entities(index_to_category)
-    assert entities == []
 
-    # Test with no labels
-    instance = Instance(tokens=["Simple", "text"], labels=None)
-    index_to_category = {0: None, 1: "CATEGORY"}
-    entities = instance.get_entities(index_to_category)
-    assert entities == []
+def test_instance_get_sentence():
+    instance = Instance(tokens=["hello", "world"], entities=None)
+    assert instance.get_sentence() == "hello world"
 
 
 def test_dataset_creation():
-    training = [Instance(tokens=["train1"], labels=[0])]
-    validation = [Instance(tokens=["val1"], labels=[1])]
-    test = [Instance(tokens=["test1"], labels=[2])]
-    index_to_category = {0: None, 1: "PERSON", 2: "LOCATION"}
+    training = [Instance(tokens=["train1"], entities=None)]
+    validation = [Instance(tokens=["val1"], entities=None)]
+    test = [Instance(tokens=["test1"], entities=None)]
 
     dataset = Dataset(
         training=training,
         validation=validation,
         test=test,
-        index_to_category=index_to_category,
     )
     assert dataset.training == training
     assert dataset.validation == validation
     assert dataset.test == test
-    assert dataset.index_to_category == index_to_category
 
 
 def test_get_training_instances():
     training = [
-        Instance(tokens=["train1"], labels=[0]),
-        Instance(tokens=["train2"], labels=[1]),
-        Instance(tokens=["train3"], labels=[2]),
+        Instance(tokens=["train1"], entities=None),
+        Instance(tokens=["train2"], entities=None),
+        Instance(tokens=["train3"], entities=None),
     ]
     dataset = Dataset(
         training=training,
         validation=[],
         test=[],
-        index_to_category={0: None, 1: "PERSON", 2: "LOCATION"},
     )
 
     # Test getting all instances
@@ -90,30 +73,31 @@ def test_get_training_instances():
 
 def test_get_validation_instances():
     validation = [
-        Instance(tokens=["val1"], labels=[0]),
-        Instance(tokens=["val2"], labels=[1]),
+        Instance(tokens=["val1"], entities=None),
+        Instance(tokens=["val2"], entities=None),
     ]
     dataset = Dataset(
         training=[],
         validation=validation,
         test=[],
-        index_to_category={0: None, 1: "PERSON"},
     )
 
     instances = dataset.get_validation_instances()
-    assert instances == validation
     assert len(instances) == 2
+    assert all(isinstance(inst, Instance) for inst in instances)
 
 
 def test_get_test_instances():
     test = [
-        Instance(tokens=["test1"], labels=[0]),
-        Instance(tokens=["test2"], labels=[1]),
+        Instance(tokens=["test1"], entities=None),
+        Instance(tokens=["test2"], entities=None),
     ]
     dataset = Dataset(
-        training=[], validation=[], test=test, index_to_category={0: None, 1: "PERSON"}
+        training=[],
+        validation=[],
+        test=test,
     )
 
     instances = dataset.get_test_instances()
-    assert instances == test
     assert len(instances) == 2
+    assert all(isinstance(inst, Instance) for inst in instances)

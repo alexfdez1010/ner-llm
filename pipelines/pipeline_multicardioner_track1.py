@@ -1,5 +1,5 @@
 from pathlib import Path
-from typing import List, Dict
+from typing import List
 
 from ai.extractor_ner import ExtractorNER
 from ai.llm import LLM
@@ -7,11 +7,12 @@ from ai.rules_generator import RulesGenerator
 from dataset import Dataset, Instance
 from pipeline import Pipeline
 from model.category import Category
+from model.entity import Entity
 
 
 def load_brat_file(
     ann_file: Path, txt_file: Path
-) -> tuple[List[str], List[int] | None]:
+) -> tuple[List[str], List[Entity] | None]:
     """Load a BRAT annotation file and its corresponding text file.
 
     Args:
@@ -19,13 +20,13 @@ def load_brat_file(
         txt_file: Path to the .txt file
 
     Returns:
-        A tuple containing the tokens and their labels
+        A tuple containing the tokens and their entities
     """
     # Read the text file
     with open(txt_file, "r", encoding="utf-8") as f:
         text = f.read().strip()
     tokens = text.split()  # Simple tokenization by whitespace
-    labels = [0] * len(tokens)  # 0 represents 'O' (outside) tag
+    entities: list[Entity] = []
 
     # Read annotations if they exist
     if ann_file.exists():
@@ -34,22 +35,20 @@ def load_brat_file(
                 if line.startswith("T"):  # Entity annotation
                     parts = line.strip().split("\t")
                     if len(parts) >= 3:
-                        _, entity_info, _ = parts
+                        _, entity_info, entity_text = parts
                         tag, start, end = entity_info.split()
                         start, end = int(start), int(end)
+                        
+                        # Create entity with the exact span and text
+                        entities.append(
+                            Entity(
+                                category=tag,
+                                entity=entity_text,
+                                span=(start, end)
+                            )
+                        )
 
-                        # Find tokens that overlap with this span
-                        current_pos = 0
-                        for i, token in enumerate(tokens):
-                            token_start = text.find(token, current_pos)
-                            token_end = token_start + len(token)
-
-                            if token_start < end and token_end > start:
-                                labels[i] = 1  # 1 represents entity
-
-                            current_pos = token_end
-
-    return tokens, labels
+    return tokens, entities if entities else None
 
 
 def load_multicardioner_dataset(base_path: str | Path) -> Dataset:
@@ -73,42 +72,35 @@ def load_multicardioner_dataset(base_path: str | Path) -> Dataset:
     for ann_file in train_dir.glob("*.ann"):
         txt_file = ann_file.with_suffix(".txt")
         if txt_file.exists():
-            tokens, labels = load_brat_file(ann_file, txt_file)
-            training_instances.append(Instance(tokens=tokens, labels=labels))
+            tokens, entities = load_brat_file(ann_file, txt_file)
+            training_instances.append(Instance(tokens=tokens, entities=entities))
 
     # Process validation data (cardioccc_dev)
     dev_dir = base_path / "cardioccc_dev" / "brat"
     for ann_file in dev_dir.glob("*.ann"):
         txt_file = ann_file.with_suffix(".txt")
         if txt_file.exists():
-            tokens, labels = load_brat_file(ann_file, txt_file)
-            validation_instances.append(Instance(tokens=tokens, labels=labels))
+            tokens, entities = load_brat_file(ann_file, txt_file)
+            validation_instances.append(Instance(tokens=tokens, entities=entities))
 
     # Process test data (cardioccc_test)
     test_dir = base_path / "cardioccc_test" / "brat"
     for ann_file in test_dir.glob("*.ann"):
         txt_file = ann_file.with_suffix(".txt")
         if txt_file.exists():
-            tokens, labels = load_brat_file(ann_file, txt_file)
-            test_instances.append(Instance(tokens=tokens, labels=labels))
-
-    # Create index to category mapping (in this case we only have one category)
-    index_to_category: Dict[int, str] = {
-        0: None,  # Outside tag
-        1: "ENFERMEDAD",  # Disease tag
-    }
+            tokens, entities = load_brat_file(ann_file, txt_file)
+            test_instances.append(Instance(tokens=tokens, entities=entities))
 
     return Dataset(
         training=training_instances,
         validation=validation_instances,
         test=test_instances,
-        index_to_category=index_to_category,
     )
 
 
 def main():
     # Initialize components
-    llm = LLM()
+    llm = LLM(model="llama3.2-vision")
     extractor = ExtractorNER(llm)
     rules_generator = RulesGenerator(llm)
 
@@ -116,12 +108,12 @@ def main():
     dataset_path = Path(__file__).parent.parent / "datasets" / "multicardioner-track1"
     dataset = load_multicardioner_dataset(dataset_path)
 
-    pipeline = Pipeline(extractor, rules_generator, dataset)
+    pipeline = Pipeline(extractor, rules_generator, dataset, "es")
     pipeline.execute(
         output_file="rules_generated/rules_multicardioner.json",
         num_iterations=200,
         categories=[Category(name="ENFERMEDAD", description="Enfermedades cardíacas")],
-        sample_percentage=0.002,
+        sample_percentage=0.005,
     )
 
     rules = pipeline.load_rules("rules_generated/rules_multicardioner.json")

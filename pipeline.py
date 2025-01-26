@@ -15,7 +15,9 @@ class Pipeline:
     """Pipeline for iteratively generating NER rules from a dataset."""
 
     def __init__(
-        self, extractor: ExtractorNER, rules_generator: RulesGenerator, dataset: Dataset
+        self, extractor: ExtractorNER, 
+        rules_generator: RulesGenerator, dataset: Dataset,
+        language: str = "en",
     ):
         """Initialize the Pipeline with required components.
 
@@ -23,10 +25,12 @@ class Pipeline:
             extractor (ExtractorNER): Component for extracting entities from text
             rules_generator (RulesGenerator): Component for generating rules from examples
             dataset (Dataset): Dataset containing training instances
+            language (str): Language code for the dataset
         """
         self.extractor = extractor
         self.rules_generator = rules_generator
         self.dataset = dataset
+        self.language = language
 
     def execute(
         self,
@@ -56,34 +60,26 @@ class Pipeline:
             # Get random training instances
             instances = self.dataset.get_training_instances(num_instances=num_instances)
 
-            # Extract texts and entities from instances
-            texts = []
-            entities_list = []
+            # Extract entities from instances
+            entities_list = [
+                instance.entities for instance in instances
+            ]
+            
+            print("Generating new rules...")
 
-            for instance in instances:
-                # Get text from tokens
-                text = " ".join(instance.tokens)
-                texts.append(text)
-
-                # Get entities for this instance
-                entities = instance.get_entities(self.dataset.index_to_category)
-                entities_list.append(entities)
-
-            # Generate new rules using current rules as base
             current_rules = self.rules_generator.generate_rules(
                 categories=categories,
-                texts=texts,
+                texts=[instance.get_sentence() for instance in instances],
                 entities=entities_list,
                 old_rules=current_rules,
             )
 
-            # Ensure the directory exists
             os.makedirs(os.path.dirname(output_file), exist_ok=True)
             # Store rules after each iteration
-            with open(output_file, "w") as f:
+            with open(output_file, "w", encoding="utf-8") as f:
                 json.dump(current_rules, f, indent=2)
             
-            # Evaluate performance
+            print("Evaluating new rules...")
             precision, recall, f1 = self.evaluate(current_rules, subset="validation")
             print(f"Precision: {precision}\nRecall: {recall}\nF1: {f1}")
 
@@ -100,7 +96,7 @@ class Pipeline:
             subset: Subset of the dataset to evaluate on (default: "validation")
 
         Returns:
-            Dictionary with precision, recall and F1 metrics
+            Tuple containing precision, recall and F1 metrics
         """
         # Get instances based on subset
         if subset == "training":
@@ -111,7 +107,7 @@ class Pipeline:
             instances = self.dataset.test
 
         # Initialize spaCy matcher with rules
-        nlp = spacy.blank("en")
+        nlp = spacy.blank(self.language)
         ruler = nlp.add_pipe("entity_ruler")
         ruler.add_patterns(rules)
 
@@ -125,6 +121,7 @@ class Pipeline:
             # Calculate character spans for tokens
             doc = nlp(" ".join(instance.tokens))
 
+            # Get predicted entities
             entities_detected = [
                 Entity(
                     entity=entity.text,
@@ -134,8 +131,8 @@ class Pipeline:
                 for entity in doc.ents
             ]
 
-            # Get gold entities
-            gold_entities = instance.get_entities(self.dataset.index_to_category)
+            # Get gold entities (now directly from instance)
+            gold_entities = instance.entities if instance.entities is not None else []
 
             # Convert entities to set of tuples for comparison
             pred_set = {(e.span[0], e.span[1], e.category) for e in entities_detected}
@@ -166,6 +163,14 @@ class Pipeline:
         return precision, recall, f1
 
     def load_rules(self, rules_file: str) -> list[dict[str, Any]]:
+        """Load rules from a JSON file.
+
+        Args:
+            rules_file: Path to the JSON file containing the rules
+
+        Returns:
+            List of rules as dictionaries
+        """
         with open(rules_file, "r") as f:
             rules = json.load(f)
         return rules

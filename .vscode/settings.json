@@ -9,5 +9,4 @@
   "editor.formatOnSave": true,
   "editor.formatOnSaveMode": "modificationsIfAvailable",
   "editor.formatOnType": true,
-  "windsurfPyright.disableLanguageServices": true
 }

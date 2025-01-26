@@ -9,39 +9,17 @@ class Instance:
     """A NER instance of the dataset."""
 
     tokens: list[str]
-    labels: list[int] | None
+    entities: list[Entity] | None
 
     def __str__(self):
+        entities_str = " ".join(
+            f"{entity.category}: {entity.entity}" for entity in self.entities
+        )
+        return " ".join(self.tokens) + "\n\n" + entities_str
+    
+    def get_sentence(self):
+        """Returns the sentence of the instance."""
         return " ".join(self.tokens)
-
-    def get_entities(self, index_to_category: dict[int, str]) -> list[Entity]:
-        """
-        Returns a list of entities in the instance.
-
-        Args:
-          index_to_category: A dictionary mapping indices to categories.
-
-        Returns:
-          A list of entities.
-        """
-        if self.labels is None:
-            return []
-
-        span = 0
-        entities = []
-
-        for token, label in zip(self.tokens, self.labels):
-            category = index_to_category.get(label)
-
-            if category is not None:
-                entity = Entity(
-                    category=category, entity=token, span=(span, span + len(token))
-                )
-                entities.append(entity)
-
-            span += len(token) + 1
-
-        return entities
 
 
 class Dataset:
@@ -51,13 +29,11 @@ class Dataset:
         self,
         training: list[Instance],
         validation: list[Instance],
-        test: list[Instance],
-        index_to_category: dict[int, str],
+        test: list[Instance]
     ):
         self.training = training
         self.validation = validation
         self.test = test
-        self.index_to_category = index_to_category
 
     def get_training_instances(
         self, num_instances: int | None = None

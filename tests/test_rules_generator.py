@@ -16,7 +16,8 @@ class TestRulesGenerator:
                 "pattern": [
                     {"LOWER": "john"},
                     {"POS": "PROPN", "OP": "?"}
-                ]
+                ],
+                "id": "john_smith"
             }
         ]"""
         return mock
@@ -47,7 +48,9 @@ class TestRulesGenerator:
         categories = [Category("PERSON", "Names of people")]
         texts = ["John Smith is a developer"]
         entities = [[Entity("PERSON", "John Smith", (0, 10))]]
-        old_rules = [{"label": "PERSON", "pattern": [{"LOWER": "jane"}]}]
+        old_rules = [
+            {"label": "PERSON", "pattern": [{"LOWER": "jane"}], "id": "jane_smith"}
+        ]
 
         # Generate rules
         rules = rules_generator.generate_rules(
@@ -123,9 +126,9 @@ class TestRulesGenerator:
         assert rules_generator.is_valid_pattern_token({"LOWER": "test"})
         assert rules_generator.is_valid_pattern_token({"POS": "NOUN", "OP": "+"})
         assert rules_generator.is_valid_pattern_token({"IS_DIGIT": True, "OP": "?"})
-        assert rules_generator.is_valid_pattern_token({})  # Wildcard
+        assert rules_generator.is_valid_pattern_token({})
         assert rules_generator.is_valid_pattern_token({"OP": "{2,5}"})
-        
+
         # Invalid patterns
         assert not rules_generator.is_valid_pattern_token({"INVALID": "test"})
         assert not rules_generator.is_valid_pattern_token({"OP": "invalid"})
@@ -141,7 +144,8 @@ class TestRulesGenerator:
                 {"LOWER": "test"},
                 {"POS": "NOUN", "OP": "+"},
                 {}  # Wildcard
-            ]
+            ],
+            "id": "test"
         }
         assert rules_generator.validate_pattern(valid_pattern)
         
@@ -167,17 +171,20 @@ class TestRulesGenerator:
             # Valid rule
             {
                 "label": "PERSON",
-                "pattern": [{"LOWER": "dr"}, {"TEXT": "."}, {"POS": "PROPN", "OP": "+"}]
+                "pattern": [{"LOWER": "dr"}, {"TEXT": "."}, {"POS": "PROPN", "OP": "+"}],
+                "id": "doctor"
             },
             # Invalid rule (invalid attribute)
             {
                 "label": "ORG",
-                "pattern": [{"INVALID": "test"}]
+                "pattern": [{"INVALID": "test"}],
+                "id": "org"
             },
             # Valid rule
             {
                 "label": "NUMBER",
-                "pattern": [{"IS_DIGIT": True, "LENGTH": {">=": 2}}]
+                "pattern": [{"IS_DIGIT": True, "LENGTH": {">=": 2}}],
+                "id": "number"
             }
         ]
         
