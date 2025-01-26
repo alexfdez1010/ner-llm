@@ -114,17 +114,25 @@ class RulesGenerator:
         # Validate each token in the pattern
         return all(self.is_valid_pattern_token(token) for token in pattern["pattern"])
 
-    def filter_valid_rules(self, rules: list[dict]) -> list[dict]:
+    def filter_valid_rules(self, rules: list[dict], texts: list[str], language: str, categories: list[Category]) -> list[dict]:
         """
         Filter out invalid spaCy rules.
 
         Args:
             rules: List of pattern dictionaries
+            texts: List of texts used to validate rules
 
         Returns:
             list: List containing only valid patterns
         """
-        return [rule for rule in rules if self.validate_pattern(rule)]
+
+        # Filter out invalid rules
+        valid_rules = [rule for rule in rules if self.validate_pattern(rule)]
+
+        # Filter rules that doesn't match at least one text
+        valid_rules = self.filter_matching_rules(valid_rules, texts, language, categories)
+
+        return valid_rules
 
     def merge_rules_with_overwrite(
         self, old_rules: list[dict[str, Any]], new_rules: list[dict[str, Any]]
@@ -177,38 +185,51 @@ class RulesGenerator:
             for entity in entity_list
         ]
 
-        entities_as_text.sort()
+        entities_as_text.sort(key=lambda x: x.lower())
 
         return entities_as_text
 
     def filter_matching_rules(
-        self, rules: list[dict[str, Any]], texts: list[str]
+        self,
+        rules: list[dict[str, Any]],
+        texts: list[str],
+        language: str,
+        categories: list[Category],
     ) -> list[dict[str, Any]]:
         """
-        Filter rules that match at least one of the provided texts.
+        Filter rules that match at least one of the provided texts and validate against given entities.
 
         Args:
             rules (list[dict[str, Any]]): List of rules to filter.
             texts (list[str]): List of texts to match against.
+            language (str): Language model to use for spaCy.
+            categories (list[Category]): List of categories to validate labels against.
 
         Returns:
-            list[dict[str, Any]]: List of rules that matched at least one text.
+            list[dict[str, Any]]: List of rules that matched at least one text and passed validation.
         """
-        if not rules or not texts:
-            return []
+        matching_rules = set()
+        text = "\n".join(texts)
 
-        nlp = spacy.blank("en")
+        nlp = spacy.blank(language)
         ruler = nlp.add_pipe("entity_ruler")
         ruler.add_patterns(rules)
 
-        combined_text = "\n\n".join(texts)
-        doc = nlp(combined_text)
+        doc = nlp(text)
 
-        matching_rules = set()
-        for ent in doc.ents:
-            for rule in rules:
-                if rule["label"] == ent.label_:
-                    matching_rules.add(json.dumps(rule))
+        categories_names = [category.name for category in categories]
+        entities_ids = [entity.ent_id for entity in doc.ents]
+
+        print(doc.ents)
+        print(categories_names)
+        print(entities_ids)
+
+        for rule in rules:
+            if rule["label"] not in categories_names:
+                continue
+
+            if rule["id"] in entities_ids:
+                matching_rules.add(json.dumps(rule))
 
         return [json.loads(rule) for rule in matching_rules]
 
@@ -217,6 +238,7 @@ class RulesGenerator:
         categories: list[Category],
         texts: list[str],
         entities: list[list[Entity]],
+        language: str,
         old_rules: Optional[list[dict[str, Any]]] = None,
         max_attempts: int = 3,
     ) -> list[dict[str, Any]]:
@@ -227,6 +249,7 @@ class RulesGenerator:
             categories (list[Category]): List of entity categories with their descriptions.
             texts (list[str]): List of example texts.
             entities (list[list[Entity]]): List of lists of entities for each text.
+            language (str): Language model to use for spaCy.
             old_rules (list[dict[str, Any]], optional): Existing rules (in JSON format).
                 New rules with the same "id" will overwrite these.
                 Defaults to None.
@@ -243,7 +266,12 @@ class RulesGenerator:
 
         # Prepare examples for the prompt (text + entities)
         entities_as_text = self.get_entities_as_text(entities)
-        matching_rules = self.filter_matching_rules(old_rules, texts)
+        matching_rules = self.filter_matching_rules(
+            old_rules, texts, language, categories)
+
+        print(
+            f"Found {len(matching_rules)} matching rules out of {len(old_rules)} old rules"
+        )
 
         # Extend the system prompt with the requirement for "id" and overwriting logic
         system_prompt = """
@@ -327,14 +355,14 @@ Additional instructions:
         user_prompt = f"""Generate ONLY the new spaCy rules that are NOT present in the existing rules (old_rules),
 taking into account the following data:
 
-Entitites to recognize (entities sorted):
-{"\n".join(entities_as_text)}
-
-Categories to consider:
-{"\n".join([f"{cat.name}: {cat.description}" for cat in categories])}
-
 Existing rules (old_rules) that MUST NOT be duplicated (unless by overwriting with same 'id'):
 {json.dumps(matching_rules, indent=2, ensure_ascii=False) if old_rules else "No existing rules"}
+
+Categories to consider (you can only use these):
+{"\n".join([f"{cat.name}: {cat.description}" for cat in categories])}
+
+Entitites to recognize (entities sorted):
+{"\n".join(entities_as_text)}
 
 Goals:
 1. Create new rules that match the entities.
@@ -343,7 +371,7 @@ Goals:
 4. Generate patterns ONLY for entities not already covered in old_rules or not redundant.
 5. Return ONLY a JSON array of the new rules (no additional text).
 6. Each new rule MUST have an 'id'. If an id duplicates one from old_rules, it overwrites it.
-7. Never use spaces or tabs in the patterns as the token are separated by spaces and will never produce a match.
+7. Never use spaces or tabs in the patterns as tokens are separated by spaces and will never produce a match.
 
 Remember: We ONLY want NEW RULES or OVERWRITTEN RULES (do not repeat existing ones unchanged).
 """
@@ -351,8 +379,7 @@ Remember: We ONLY want NEW RULES or OVERWRITTEN RULES (do not repeat existing on
         last_error = None
         for attempt in range(max_attempts):
             try:
-                if last_error:
-                    print(f"Attempt {attempt + 1} to generate rules failed")
+                print(f"Attempt {attempt + 1} to generate rules")
 
                 completion = self.llm.generate_completion(
                     system_prompt=system_prompt, user_prompt=user_prompt
@@ -367,8 +394,9 @@ Remember: We ONLY want NEW RULES or OVERWRITTEN RULES (do not repeat existing on
                 json_str = match.group()
                 new_rules = json.loads(json_str)
 
-                # Filter out invalid rules
-                valid_rules = self.filter_valid_rules(new_rules)
+                # Filter out invalid and non-matching rules
+                valid_rules = self.filter_valid_rules(new_rules, texts, language, categories)
+                print(f"Removed {len(new_rules) - len(valid_rules)} invalid rules")
 
                 # If no valid rules were found, try again
                 if not valid_rules:
@@ -380,9 +408,9 @@ Remember: We ONLY want NEW RULES or OVERWRITTEN RULES (do not repeat existing on
                         old_rules, valid_rules
                     )
                     return merged_rules
-                else:
-                    # If no old rules, just return the new valid rules
-                    return valid_rules
+
+                # If no old rules, just return the new valid rules
+                return valid_rules
 
             except (json.JSONDecodeError, ValueError) as e:
                 last_error = e

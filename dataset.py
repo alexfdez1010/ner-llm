@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 from random import shuffle
+from typing import Generator
 
 from model.entity import Entity
 
@@ -37,22 +38,25 @@ class Dataset:
 
     def get_training_instances(
         self, num_instances: int | None = None
-    ) -> list[Instance]:
+    ) -> Generator[list[Instance], None, None]:
         """
-        Returns a list of training instances randomly shuffled.
+        Returns a generator of training instance batches randomly shuffled.
 
         Args:
-          num_instances: The number of instances to return. If None, then all instances are returned.
+          num_instances: The maximum number of instances in each batch. If None, then all instances are returned in a single batch.
 
         Returns:
-          A list of training instances with num_instances.
+          A generator yielding batches of training instances with at most num_instances per batch.
         """
-        shuffle(self.training)
+        training = self.training.copy()
+        shuffle(training)
 
         if num_instances is None:
-            return self.training
+            yield training
+            return
 
-        return self.training[:num_instances]
+        for i in range(0, len(training), num_instances):
+            yield training[i:i + num_instances]
 
     def get_validation_instances(self) -> list[Instance]:
         """

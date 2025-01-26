@@ -61,14 +61,16 @@ def test_get_training_instances():
     )
 
     # Test getting all instances
-    all_instances = dataset.get_training_instances()
+    all_instances = list(next(dataset.get_training_instances()))
     assert len(all_instances) == 3
     assert all(isinstance(inst, Instance) for inst in all_instances)
 
     # Test getting limited number of instances
-    limited_instances = dataset.get_training_instances(num_instances=2)
-    assert len(limited_instances) == 2
-    assert all(isinstance(inst, Instance) for inst in limited_instances)
+    batches = list(dataset.get_training_instances(num_instances=2))
+    assert len(batches) == 2  # Should split into 2 batches (2 + 1)
+    assert len(batches[0]) == 2  # First batch has 2 instances
+    assert len(batches[1]) == 1  # Second batch has 1 instance
+    assert all(isinstance(inst, Instance) for batch in batches for inst in batch)
 
 
 def test_get_validation_instances():

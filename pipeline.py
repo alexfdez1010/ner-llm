@@ -1,4 +1,5 @@
 import json
+from math import ceil
 import os
 from typing import Any, Literal
 
@@ -37,7 +38,7 @@ class Pipeline:
         output_file: str,
         num_iterations: int,
         categories: list[Category],
-        sample_percentage: float = 0.1,
+        batch_size: int,
     ) -> None:
         """Execute the pipeline to generate and store NER rules.
 
@@ -45,7 +46,7 @@ class Pipeline:
             output_file (str): Path to file where rules will be stored
             num_iterations (int): Number of iterations to run
             categories (list[Category]): List of entity categories with descriptions
-            sample_percentage (float, optional): Percentage of dataset to use in each iteration. Defaults to 0.1.
+            batch_size (int): Number of instances to sample per iteration
         """
         # Initialize empty rules
         current_rules: list[dict[str, Any]] = []
@@ -55,33 +56,34 @@ class Pipeline:
             print(f"Iteration {iteration+1}/{num_iterations}")
             # Calculate number of instances to sample
             total_instances = len(self.dataset.training)
-            num_instances = max(1, int(total_instances * sample_percentage))
+            number_of_batches = max(1, ceil(total_instances / batch_size))
 
-            # Get random training instances
-            instances = self.dataset.get_training_instances(num_instances=num_instances)
+            # Get random training instances in batches
+            for i, batch in enumerate(self.dataset.get_training_instances(num_instances=batch_size)):
+                print(f"Batch {i+1}/{number_of_batches}")
+                # Extract entities from instances
+                entities_list = [
+                    instance.entities for instance in batch
+                ]
+                
+                print("Generating new rules...")
 
-            # Extract entities from instances
-            entities_list = [
-                instance.entities for instance in instances
-            ]
-            
-            print("Generating new rules...")
+                current_rules = self.rules_generator.generate_rules(
+                    categories=categories,
+                    texts=[instance.get_sentence() for instance in batch],
+                    entities=entities_list,
+                    old_rules=current_rules,
+                    language=self.language,
+                )
 
-            current_rules = self.rules_generator.generate_rules(
-                categories=categories,
-                texts=[instance.get_sentence() for instance in instances],
-                entities=entities_list,
-                old_rules=current_rules,
-            )
+                os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
-            os.makedirs(os.path.dirname(output_file), exist_ok=True)
-            # Store rules after each iteration
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(current_rules, f, indent=2)
-            
-            print("Evaluating new rules...")
-            precision, recall, f1 = self.evaluate(current_rules, subset="validation")
-            print(f"Precision: {precision}\nRecall: {recall}\nF1: {f1}")
+                with open(output_file, "w", encoding="utf-8") as f:
+                    json.dump(current_rules, f, indent=2)
+                
+                print("Evaluating new rules...")
+                precision, recall, f1 = self.evaluate(current_rules, subset="validation")
+                print(f"Precision: {precision}\nRecall: {recall}\nF1: {f1}")
 
     def evaluate(
         self,

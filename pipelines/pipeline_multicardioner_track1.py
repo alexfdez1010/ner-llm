@@ -97,7 +97,6 @@ def load_multicardioner_dataset(base_path: str | Path) -> Dataset:
         test=test_instances,
     )
 
-
 def main():
     # Initialize components
     llm = LLM(model="llama3.2-vision")
@@ -111,9 +110,9 @@ def main():
     pipeline = Pipeline(extractor, rules_generator, dataset, "es")
     pipeline.execute(
         output_file="rules_generated/rules_multicardioner.json",
-        num_iterations=200,
+        num_iterations=1,
         categories=[Category(name="ENFERMEDAD", description="Enfermedades cardíacas")],
-        sample_percentage=0.005,
+        batch_size=1,
     )
 
     rules = pipeline.load_rules("rules_generated/rules_multicardioner.json")
