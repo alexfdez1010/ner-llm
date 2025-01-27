@@ -9,4 +9,5 @@
   "editor.formatOnSave": true,
   "editor.formatOnSaveMode": "modificationsIfAvailable",
   "editor.formatOnType": true,
+  "python.languageServer": "None",
 }

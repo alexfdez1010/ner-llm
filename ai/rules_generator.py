@@ -208,6 +208,9 @@ class RulesGenerator:
         Returns:
             list[dict[str, Any]]: List of rules that matched at least one text and passed validation.
         """
+        if not rules:
+            return []
+
         matching_rules = set()
         text = "\n".join(texts)
 
@@ -218,11 +221,7 @@ class RulesGenerator:
         doc = nlp(text)
 
         categories_names = [category.name for category in categories]
-        entities_ids = [entity.ent_id for entity in doc.ents]
-
-        print(doc.ents)
-        print(categories_names)
-        print(entities_ids)
+        entities_ids = [entity.id_ for entity in doc.ents]
 
         for rule in rules:
             if rule["label"] not in categories_names:

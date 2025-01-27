@@ -112,7 +112,7 @@ def main():
         output_file="rules_generated/rules_multicardioner.json",
         num_iterations=1,
         categories=[Category(name="ENFERMEDAD", description="Enfermedades cardíacas")],
-        batch_size=1,
+        batch_size=30,
     )
 
     rules = pipeline.load_rules("rules_generated/rules_multicardioner.json")
