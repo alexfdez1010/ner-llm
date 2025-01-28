@@ -13,7 +13,7 @@ class TestExtractorNER:
 
     @pytest.fixture
     def extractor(self, mock_llm):
-        return ExtractorNER(mock_llm)
+        return ExtractorNER(mock_llm, language="en", example_prompt="")
 
     def test_extract_entities_basic(self, mock_llm, extractor):
         # Setup
@@ -50,13 +50,13 @@ class TestExtractorNER:
         # Setup
         categories = [Category("PRODUCT", "Names of products")]
         text = "The new iPhone 15 Pro is amazing"
-        examples = ["Text: The MacBook Pro is great\nOutput: <PRODUCT>:MacBook Pro"]
+        examples = "Text: The MacBook Pro is great\nOutput: <PRODUCT>:MacBook Pro"
 
         # Mock LLM response
         mock_llm.generate_completion.return_value = "<PRODUCT>:iPhone 15 Pro"
 
         # Execute
-        entities = extractor.extract_entities(categories, text, examples)
+        entities = extractor.extract_entities(categories, text, examples=examples)
 
         # Assert
         expected_entities = [Entity("PRODUCT", "iPhone 15 Pro", (8, 21))]
@@ -71,21 +71,27 @@ class TestExtractorNER:
         text = "Apple makes great products. I love Apple products."
 
         # Mock LLM response
-        mock_llm.generate_completion.return_value = "<COMPANY>:Apple"
+        mock_llm.generate_completion.return_value = "<COMPANY>:Apple\n<COMPANY>:Apple"
 
         # Execute
         entities = extractor.extract_entities(categories, text)
 
         # Assert
-        expected_spans = [(0, 5), (35, 40)]  # Both occurrences of "Apple"
-        assert len(entities) == 2
-        assert [(e.span) for e in entities] == expected_spans
+        expected_entities = [
+            Entity("COMPANY", "Apple", (0, 5)),
+            Entity("COMPANY", "Apple", (35, 40)),
+        ]
+        assert len(entities) == len(expected_entities)
+        for actual, expected in zip(entities, expected_entities):
+            assert actual.category == expected.category
+            assert actual.entity == expected.entity
+            assert actual.span == expected.span
 
 
 def test_integration_with_llm():
     # Setup
     llm = LLM()
-    extractor = ExtractorNER(llm)
+    extractor = ExtractorNER(llm, language="en", example_prompt="")
     categories = get_categories()
     text = get_test_text()
 
@@ -95,12 +101,12 @@ def test_integration_with_llm():
 def test_integration_with_lrm():
     # Setup
     lrm = LRM(model="deepseek-r1:14b")
-    extractor = ExtractorNER(lrm, is_reasoning=True)
+    extractor = ExtractorNER(lrm, language="en", example_prompt="")
     categories = get_categories()
     text = get_test_text()
 
-    entities_lrm = extractor.extract_entities(categories, text)
-    verify_entities(entities_lrm, text)
+    entities = extractor.extract_entities(categories, text)
+    verify_entities(entities, text)
 
 def get_categories():
     return [

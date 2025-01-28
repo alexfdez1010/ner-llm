@@ -23,7 +23,7 @@ class ExtractorNER:
         self.prompt = PromptTemplate(template=prompt, input_variables=["categories"])
 
     def extract_entities(
-        self, categories: list[Category], text: str, sentences_per_call: int = 0
+        self, categories: list[Category], text: str, sentences_per_call: int = 0, examples: str = ""
     ) -> list[Entity]:
         """Extract entities from the given text according to the specified categories.
 
@@ -31,6 +31,7 @@ class ExtractorNER:
             categories: List of Category objects containing name and description
             text: The text to extract entities from
             sentences_per_call: Number of sentences to process per model call. If 0, process all text at once.
+            examples: Optional example text to guide the model
 
         Returns:
             List of Entity objects containing category, entity and span
@@ -40,54 +41,63 @@ class ExtractorNER:
         )
 
         system_prompt = self.prompt.format(categories=categories_text)
+        if examples:
+            system_prompt += f"\n\nExamples:\n{examples}"
 
         sentences = []
         if sentences_per_call > 0:
+            # Split by sentence endings (., !, ?)
             current_pos = 0
             for i, char in enumerate(text):
-                if char == "." and (i + 1 == len(text) or text[i + 1].isspace()):
-                    sentences.append((text[current_pos : i + 1], current_pos))
+                if char == "\n" and (i + 1 == len(text) or text[i + 1].isspace()):
+                    sentences.append((text[current_pos : i + 1].strip(), current_pos))
                     current_pos = i + 1
             if current_pos < len(text):
-                sentences.append((text[current_pos:], current_pos))
+                sentences.append((text[current_pos:].strip(), current_pos))
         else:
-            sentences = [(text, 0)]
+            sentences = [(text.strip(), 0)]
 
         entities: list[Entity] = []
         for i in range(0, len(sentences), max(1, sentences_per_call)):
             batch = sentences[i:i+sentences_per_call] if sentences_per_call > 0 else sentences
-            batch_text = " ".join([sentence for sentence, _ in batch])
+            # Join sentences with newlines for better model understanding
+            batch_text = "\n".join([sentence for sentence, _ in batch])
             
             if sentences_per_call > 0:
                 print(f"Processing batch {i//sentences_per_call + 1} of {len(sentences)//sentences_per_call + 1}")
 
             raw_output = self.llm.generate_completion(system_prompt, batch_text)
 
+            # Process each entity line
+            seen_entities = set()  # Track unique entities to avoid duplicates
             for line in raw_output.strip().split("\n"):
                 if not line or ":" not in line:
                     continue
 
                 category, entity = line.split(":", 1)
-                category = category.strip().strip("<>")
+                category = category.strip("<>")
                 entity = entity.strip()
 
+                # Skip empty entities or categories
                 if not entity or not category:
                     continue
 
-                pos = 0
+                # Track unique entities to avoid duplicates
+                entity_key = (category, entity)
+                if entity_key in seen_entities:
+                    continue
+                seen_entities.add(entity_key)
+
+                # Find all occurrences of the entity in the text
+                start_pos = 0
                 while True:
-                    pos = batch_text.lower().find(entity.lower(), pos)
-                    if pos == -1:
+                    start_idx = text.find(entity, start_pos)
+                    if start_idx == -1:
                         break
-                    absolute_pos = pos + batch[0][1]
-                    entities.append(
-                        Entity(
-                            category=category,
-                            entity=entity,
-                            span=(absolute_pos, absolute_pos + len(entity)),
-                        )
-                    )
-                    pos += 1
+                    
+                    end_idx = start_idx + len(entity)
+                    entities.append(Entity(category, entity, (start_idx, end_idx)))
+                    start_pos = end_idx
 
         categories_names = [cat.name for cat in categories]
         entities = [

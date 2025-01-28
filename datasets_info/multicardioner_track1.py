@@ -9,7 +9,7 @@ from datasets_info.dataset_info_interface import DatasetInfo
 
 def load_brat_file(
     ann_file: Path, txt_file: Path
-) -> tuple[List[str], List[Entity] | None]:
+) -> tuple[str, list[Entity] | None]:
     """Load a BRAT annotation file and its corresponding text file.
 
     Args:
@@ -17,12 +17,11 @@ def load_brat_file(
         txt_file: Path to the .txt file
 
     Returns:
-        A tuple containing the tokens and their entities
+        A tuple containing the text and its entities
     """
     # Read the text file
     with open(txt_file, "r", encoding="utf-8") as f:
         text = f.read().strip()
-    tokens = text.split()  # Simple tokenization by whitespace
     entities: list[Entity] = []
 
     # Read annotations if they exist
@@ -45,7 +44,7 @@ def load_brat_file(
                             )
                         )
 
-    return tokens, entities if entities else None
+    return text, entities if entities else None
 
 
 class MultiCardionerTrack1(DatasetInfo):
@@ -58,15 +57,15 @@ class MultiCardionerTrack1(DatasetInfo):
             A Dataset object containing the loaded test data
         """
         base_path = Path("datasets") / "multicardioner-track1"
-        test_instances: List[Instance] = []
+        test_instances: list[Instance] = []
 
         # Process test data (cardioccc_test)
         test_dir = base_path / "cardioccc_test" / "brat"
         for ann_file in test_dir.glob("*.ann"):
             txt_file = ann_file.with_suffix(".txt")
             if txt_file.exists():
-                tokens, entities = load_brat_file(ann_file, txt_file)
-                test_instances.append(Instance(tokens=tokens, entities=entities))
+                text, entities = load_brat_file(ann_file, txt_file)
+                test_instances.append(Instance(text=text, entities=entities))
 
         return Dataset(instances=test_instances)
 

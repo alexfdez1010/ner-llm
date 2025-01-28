@@ -67,7 +67,7 @@ class Pipeline:
 
             # Create a temporary instance with predicted entities to get BIO annotations
             predicted_instance = Instance(
-                tokens=instance.tokens, entities=predicted_entities
+                text=text, entities=predicted_entities
             )
             pred_bio = predicted_instance.get_bio_annotations()
 
