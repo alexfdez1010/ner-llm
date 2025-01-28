@@ -1,9 +1,0 @@
-T8	ENFERMEDAD 507 522	lesión quística
-T11	ENFERMEDAD 866 884	anomalía congénita
-T12	ENFERMEDAD 999 1030	hamartoma quístico retrorrectal
-T13	ENFERMEDAD 1053 1083	tumoración de aspecto quístico
-T14	ENFERMEDAD 1433 1448	lesión quística
-T15	ENFERMEDAD 1676 1679	HQR
-T18	ENFERMEDAD 1032 1035	HQR
-#2	AnnotatorNotes T15	  HQR:hamartoma quístico retrorrectal
-#1	AnnotatorNotes T18	  HQR:hamartoma quístico retrorrectal

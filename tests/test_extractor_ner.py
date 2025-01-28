@@ -3,7 +3,7 @@ from unittest.mock import Mock
 import pytest
 
 from ai.extractor_ner import Category, Entity, ExtractorNER
-from ai.llm import LLM
+from ai.llm import LLM, LRM
 
 
 class TestExtractorNER:
@@ -82,24 +82,40 @@ class TestExtractorNER:
         assert [(e.span) for e in entities] == expected_spans
 
 
-def test_full_pipeline():
+def test_integration_with_llm():
     # Setup
     llm = LLM()
     extractor = ExtractorNER(llm)
+    categories = get_categories()
+    text = get_test_text()
 
-    categories = [
+    entities = extractor.extract_entities(categories, text)
+    verify_entities(entities, text)
+
+def test_integration_with_lrm():
+    # Setup
+    lrm = LRM(model="deepseek-r1:14b")
+    extractor = ExtractorNER(lrm, is_reasoning=True)
+    categories = get_categories()
+    text = get_test_text()
+
+    entities_lrm = extractor.extract_entities(categories, text)
+    verify_entities(entities_lrm, text)
+
+def get_categories():
+    return [
         Category("PERSON", "Names of people"),
         Category("ORG", "Names of organizations or companies"),
         Category("LOCATION", "Names of places, cities, or countries"),
     ]
 
-    text = """
+def get_test_text():
+    return """
     Tim Cook, the CEO of Apple, announced new products at their headquarters in Cupertino.
     Meanwhile, Sundar Pichai from Google was presenting in Mountain View, California.
     """
 
-    entities = extractor.extract_entities(categories, text)
-
+def verify_entities(entities, text):
     assert len(entities) > 0
     for entity in entities:
         assert hasattr(entity, "category")

@@ -1,3 +1,7 @@
+"""
+Implementions of LLM models using Ollama.
+"""
+
 from langchain_ollama import ChatOllama
 
 
@@ -37,6 +41,26 @@ class LLM:
             full_response += chunk.content
 
         if stream_output:
-            print()  # Add a newline after streaming
+            print()
 
         return full_response
+
+class LRM(LLM):
+    """
+    Extension of LLM class to be able to work with reasoning models.
+    """
+    def __init__(self, model: str = "deepseek-r1:1.5b"):
+        """Initialize the LRM class with Ollama model."""
+        super().__init__(model=model)
+
+    def generate_completion(self, system_prompt: str, user_prompt: str, stream_output: bool = False) -> str:
+        response = super().generate_completion(system_prompt, user_prompt, stream_output)
+
+        # Remove the reasoning part, it is enclosed by <think> and </think>
+        start_idx = response.find("<think>")
+        end_idx = response.find("</think>")
+
+        if start_idx != -1 and end_idx != -1:
+            return response[end_idx + 8:].strip()
+
+        return response.strip()

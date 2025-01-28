@@ -1,178 +1,173 @@
-import json
-from math import ceil
-import os
-from typing import Any, Literal
-
-import spacy
+"""
+Pipeline for computing metrics from a dataset using a NER extractor based in LLMs.
+"""
 
 from ai.extractor_ner import ExtractorNER
-from ai.rules_generator import RulesGenerator
-from dataset import Dataset
+from dataset import Dataset, Instance
 from model.category import Category
-from model.entity import Entity
+import time
 
 
 class Pipeline:
-    """Pipeline for iteratively generating NER rules from a dataset."""
+    """Pipeline for computing metrics from a dataset using a NER extractor based in LLMs."""
 
     def __init__(
-        self, extractor: ExtractorNER, 
-        rules_generator: RulesGenerator, dataset: Dataset,
-        language: str = "en",
+        self,
+        extractor: ExtractorNER,
+        dataset: Dataset,
+        categories: list[Category],
     ):
         """Initialize the Pipeline with required components.
 
         Args:
             extractor (ExtractorNER): Component for extracting entities from text
-            rules_generator (RulesGenerator): Component for generating rules from examples
             dataset (Dataset): Dataset containing training instances
-            language (str): Language code for the dataset
+            categories (list[Category]): List of categories for the dataset
         """
         self.extractor = extractor
-        self.rules_generator = rules_generator
         self.dataset = dataset
-        self.language = language
+        self.categories = categories
 
-    def execute(
-        self,
-        output_file: str,
-        num_iterations: int,
-        categories: list[Category],
-        batch_size: int,
-    ) -> None:
-        """Execute the pipeline to generate and store NER rules.
+    def evaluate(self, sentences_per_call: int = 0) -> None:
+        """
+        Evaluates NER performance on a dataset using BIO annotations.
+        Computes both micro-average (weighted by sentence length) and macro-average metrics.
 
         Args:
-            output_file (str): Path to file where rules will be stored
-            num_iterations (int): Number of iterations to run
-            categories (list[Category]): List of entity categories with descriptions
-            batch_size (int): Number of instances to sample per iteration
+            sentences_per_call (int): Number of sentences to process per model call. If 0, process all text at once.
         """
-        # Initialize empty rules
-        current_rules: list[dict[str, Any]] = []
+        instances = self.dataset.get_instances()
+        total_instances = len(instances)
 
-        # Run iterations
-        for iteration in range(num_iterations):
-            print(f"Iteration {iteration+1}/{num_iterations}")
-            # Calculate number of instances to sample
-            total_instances = len(self.dataset.training)
-            number_of_batches = max(1, ceil(total_instances / batch_size))
+        # Initialize counters for micro-average
+        total_tp = 0
+        total_fp = 0
+        total_fn = 0
 
-            # Get random training instances in batches
-            for i, batch in enumerate(self.dataset.get_training_instances(num_instances=batch_size)):
-                print(f"Batch {i+1}/{number_of_batches}")
-                # Extract entities from instances
-                entities_list = [
-                    instance.entities for instance in batch
-                ]
-                
-                print("Generating new rules...")
+        # Initialize counters for macro-average
+        all_precisions = []
+        all_recalls = []
+        all_f1s = []
 
-                current_rules = self.rules_generator.generate_rules(
-                    categories=categories,
-                    texts=[instance.get_sentence() for instance in batch],
-                    entities=entities_list,
-                    old_rules=current_rules,
-                    language=self.language,
-                )
+        print(f"\nEvaluating {total_instances} instances...")
+        print("-" * 80)
 
-                os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        start_time = time.time()
 
-                with open(output_file, "w", encoding="utf-8") as f:
-                    json.dump(current_rules, f, indent=2)
-                
-                print("Evaluating new rules...")
-                precision, recall, f1 = self.evaluate(current_rules, subset="validation")
-                print(f"Precision: {precision}\nRecall: {recall}\nF1: {f1}")
+        for idx, instance in enumerate(instances, 1):
+            instance_start_time = time.time()
+            
+            # Get gold BIO annotations and entities
+            gold_bio = instance.get_bio_annotations()
+            gold_entities = instance.entities
 
-    def evaluate(
-        self,
-        rules: list[dict[str, Any]],
-        subset: Literal["training", "validation", "test"] = "validation",
-    ) -> tuple[float, float, float]:
-        """
-        Evaluates NER performance on a dataset using provided spaCy rules.
+            # Get predicted BIO annotations by processing the sentence
+            text = instance.get_sentence()
+            predicted_entities = self.extractor.extract_entities(self.categories, text, sentences_per_call)
 
-        Args:
-            rules: List of rules dictionaries containing pattern and label
-            subset: Subset of the dataset to evaluate on (default: "validation")
+            # Create a temporary instance with predicted entities to get BIO annotations
+            predicted_instance = Instance(
+                tokens=instance.tokens, entities=predicted_entities
+            )
+            pred_bio = predicted_instance.get_bio_annotations()
 
-        Returns:
-            Tuple containing precision, recall and F1 metrics
-        """
-        # Get instances based on subset
-        if subset == "training":
-            instances = self.dataset.training
-        elif subset == "validation":
-            instances = self.dataset.validation
-        else:
-            instances = self.dataset.test
+            # Compute token-level TP, FP, FN for this instance
+            instance_tp = 0
+            instance_fp = 0
+            instance_fn = 0
 
-        # Initialize spaCy matcher with rules
-        nlp = spacy.blank(self.language)
-        ruler = nlp.add_pipe("entity_ruler")
-        ruler.add_patterns(rules)
+            for gold, pred in zip(gold_bio, pred_bio):
+                if gold == pred and gold != "O":
+                    instance_tp += 1
+                elif pred != "O" and gold != pred:
+                    instance_fp += 1
+                elif gold != "O" and pred != gold:
+                    instance_fn += 1
 
-        # Initialize counters
-        true_positives = 0
-        false_positives = 0
-        false_negatives = 0
+            # Update micro-average counters
+            total_tp += instance_tp
+            total_fp += instance_fp
+            total_fn += instance_fn
 
-        # Process each instance
-        for instance in instances:
-            # Calculate character spans for tokens
-            doc = nlp(" ".join(instance.tokens))
+            # Compute instance-level metrics
+            instance_precision = (
+                instance_tp / (instance_tp + instance_fp)
+                if (instance_tp + instance_fp) > 0
+                else 0.0
+            )
+            instance_recall = (
+                instance_tp / (instance_tp + instance_fn)
+                if (instance_tp + instance_fn) > 0
+                else 0.0
+            )
+            instance_f1 = (
+                2
+                * (instance_precision * instance_recall)
+                / (instance_precision + instance_recall)
+                if (instance_precision + instance_recall) > 0
+                else 0.0
+            )
 
-            # Get predicted entities
-            entities_detected = [
-                Entity(
-                    entity=entity.text,
-                    category=entity.label_,
-                    span=(entity.start_char, entity.end_char),
-                )
-                for entity in doc.ents
-            ]
+            all_precisions.append(instance_precision)
+            all_recalls.append(instance_recall)
+            all_f1s.append(instance_f1)
 
-            # Get gold entities (now directly from instance)
-            gold_entities = instance.entities if instance.entities is not None else []
+            # Compute current micro-average metrics
+            current_micro_precision = (
+                total_tp / (total_tp + total_fp) if (total_tp + total_fp) > 0 else 0.0
+            )
+            current_micro_recall = (
+                total_tp / (total_tp + total_fn) if (total_tp + total_fn) > 0 else 0.0
+            )
+            current_micro_f1 = (
+                2
+                * (current_micro_precision * current_micro_recall)
+                / (current_micro_precision + current_micro_recall)
+                if (current_micro_precision + current_micro_recall) > 0
+                else 0.0
+            )
 
-            # Convert entities to set of tuples for comparison
-            pred_set = {(e.span[0], e.span[1], e.category) for e in entities_detected}
-            gold_set = {(e.span[0], e.span[1], e.category) for e in gold_entities}
+            # Compute current macro-average metrics
+            current_macro_precision = sum(all_precisions) / len(all_precisions)
+            current_macro_recall = sum(all_recalls) / len(all_recalls)
+            current_macro_f1 = sum(all_f1s) / len(all_f1s)
 
-            # Update metrics
-            true_positives += len(pred_set & gold_set)
-            false_positives += len(pred_set - gold_set)
-            false_negatives += len(gold_set - pred_set)
+            # Calculate time metrics
+            instance_time = time.time() - instance_start_time
+            total_time = time.time() - start_time
 
-        # Calculate metrics
-        precision = (
-            true_positives / (true_positives + false_positives)
-            if (true_positives + false_positives) > 0
-            else 0.0
-        )
-        recall = (
-            true_positives / (true_positives + false_negatives)
-            if (true_positives + false_negatives) > 0
-            else 0.0
-        )
-        f1 = (
-            2 * (precision * recall) / (precision + recall)
-            if (precision + recall) > 0
-            else 0.0
-        )
+            # Print progress with metrics
+            print(f"\nInstance {idx}/{total_instances} ({(idx/total_instances)*100:.1f}%)")
+            print("\nPredicted entities:")
+            for entity in predicted_entities:
+                print(f"{entity.category}: {entity.entity} ({entity.span[0]}, {entity.span[1]})")
+            print("\nGold entities:")
+            for entity in gold_entities:
+                print(f"{entity.category}: {entity.entity} ({entity.span[0]}, {entity.span[1]})")
+            print(f"\nInstance {idx} of {total_instances}")
+            print(f"Instance metrics:     Precision: {instance_precision:.2f}  Recall: {instance_recall:.2f}  F1: {instance_f1:.2f}")
+            print(f"Running micro-avg:    Precision: {current_micro_precision:.2f}  Recall: {current_micro_recall:.2f}  F1: {current_micro_f1:.2f}")
+            print(f"Running macro-avg:    Precision: {current_macro_precision:.2f}  Recall: {current_macro_recall:.2f}  F1: {current_macro_f1:.2f}")
+            print(f"Time: {instance_time:.2f}s (instance) / {total_time:.2f}s (total)")
+            print("-" * 80)
 
-        return precision, recall, f1
+        # Final metrics are the same as the last running metrics
+        micro_metrics = {
+            "precision": current_micro_precision,
+            "recall": current_micro_recall,
+            "f1": current_micro_f1,
+        }
 
-    def load_rules(self, rules_file: str) -> list[dict[str, Any]]:
-        """Load rules from a JSON file.
+        macro_metrics = {
+            "precision": current_macro_precision,
+            "recall": current_macro_recall,
+            "f1": current_macro_f1,
+        }
 
-        Args:
-            rules_file: Path to the JSON file containing the rules
+        total_time = time.time() - start_time
 
-        Returns:
-            List of rules as dictionaries
-        """
-        with open(rules_file, "r") as f:
-            rules = json.load(f)
-        return rules
+        print("\n\nEvaluation completed!")
+        print(f"\nTotal time: {total_time:.2f}s")
+        print("\nFinal Metrics:")
+        print("Micro-average metrics:", micro_metrics)
+        print("Macro-average metrics:", macro_metrics)

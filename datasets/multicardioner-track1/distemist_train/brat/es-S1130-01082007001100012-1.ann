@@ -1,9 +1,0 @@
-T3	ENFERMEDAD 21 24	HTA
-T4	ENFERMEDAD 26 29	IRC
-T5	ENFERMEDAD 32 46	hipotiroidismo
-T7	ENFERMEDAD 110 123	abdomen agudo
-T8	ENFERMEDAD 128 141	shock séptico
-T15	ENFERMEDAD 302 319	colitis isquémica
-T18	ENFERMEDAD 429 434	shock
-T24	ENFERMEDAD 600 629	hematoma del lecho quirúrgico
-#1	AnnotatorNotes T4	  IRC: insuficiencia renal crónica

@@ -1,9 +1,0 @@
-T5	ENFERMEDAD 309 311	EC
-T11	ENFERMEDAD 638 672	lesiones cutáneas con micropápulas
-T16	ENFERMEDAD 847 872	pápulas en codos y brazos
-T26	ENFERMEDAD 1464 1485	proteinuria nefrótica
-T28	ENFERMEDAD 1584 1603	lesiones vasculares
-T54	ENFERMEDAD 1566 1568	NM
-T57	ENFERMEDAD 2043 2063	enfermedad sistémica
-#1	AnnotatorNotes T5	   EC: enfermedad celíaca
-#2	AnnotatorNotes T54	   NM: nefropatía membranosa

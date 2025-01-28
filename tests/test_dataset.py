@@ -33,73 +33,54 @@ def test_instance_get_sentence():
     assert instance.get_sentence() == "hello world"
 
 
-def test_dataset_creation():
-    training = [Instance(tokens=["train1"], entities=None)]
-    validation = [Instance(tokens=["val1"], entities=None)]
-    test = [Instance(tokens=["test1"], entities=None)]
+def test_get_token_indexes_from_span():
+    # Test case 1: Single token span
+    instance = Instance(tokens=["John", "lives", "in", "New", "York"], entities=[])
+    assert instance._get_token_indexes_from_span((0, 4)) == (0, 0)  # "John"
+    
+    # Test case 2: Multi-token span
+    assert instance._get_token_indexes_from_span((14, 22)) == (3, 4)  # "New York"
+    
+    # Test case 3: Span in the middle
+    assert instance._get_token_indexes_from_span((5, 10)) == (1, 1)  # "lives"
+    
+    # Test case 4: Span with spaces
+    instance = Instance(tokens=["The", "United", "States", "of", "America"], entities=[])
+    assert instance._get_token_indexes_from_span((4, 17)) == (1, 2)  # "United States"
 
-    dataset = Dataset(
-        training=training,
-        validation=validation,
-        test=test,
+
+def test_get_bio_annotations():
+    # Test case 1: Single entity
+    instance = Instance(
+        tokens=["John", "lives", "in", "New", "York"],
+        entities=[Entity(category="PERSON", entity="John", span=(0, 4))]
     )
-    assert dataset.training == training
-    assert dataset.validation == validation
-    assert dataset.test == test
-
-
-def test_get_training_instances():
-    training = [
-        Instance(tokens=["train1"], entities=None),
-        Instance(tokens=["train2"], entities=None),
-        Instance(tokens=["train3"], entities=None),
-    ]
-    dataset = Dataset(
-        training=training,
-        validation=[],
-        test=[],
+    expected = ["B-PERSON", "O", "O", "O", "O"]
+    assert instance.get_bio_annotations() == expected
+    
+    # Test case 2: Multiple entities
+    instance = Instance(
+        tokens=["John", "lives", "in", "New", "York"],
+        entities=[
+            Entity(category="PERSON", entity="John", span=(0, 4)),
+            Entity(category="LOCATION", entity="New York", span=(14, 22))
+        ]
     )
-
-    # Test getting all instances
-    all_instances = list(next(dataset.get_training_instances()))
-    assert len(all_instances) == 3
-    assert all(isinstance(inst, Instance) for inst in all_instances)
-
-    # Test getting limited number of instances
-    batches = list(dataset.get_training_instances(num_instances=2))
-    assert len(batches) == 2  # Should split into 2 batches (2 + 1)
-    assert len(batches[0]) == 2  # First batch has 2 instances
-    assert len(batches[1]) == 1  # Second batch has 1 instance
-    assert all(isinstance(inst, Instance) for batch in batches for inst in batch)
-
-
-def test_get_validation_instances():
-    validation = [
-        Instance(tokens=["val1"], entities=None),
-        Instance(tokens=["val2"], entities=None),
-    ]
-    dataset = Dataset(
-        training=[],
-        validation=validation,
-        test=[],
+    expected = ["B-PERSON", "O", "O", "B-LOCATION", "I-LOCATION"]
+    assert instance.get_bio_annotations() == expected
+    
+    # Test case 3: No entities
+    instance = Instance(tokens=["Hello", "world"], entities=[])
+    expected = ["O", "O"]
+    assert instance.get_bio_annotations() == expected
+    
+    # Test case 4: Adjacent entities
+    instance = Instance(
+        tokens=["Visit", "New", "York", "City"],
+        entities=[
+            Entity(category="LOCATION", entity="New York", span=(6, 14)),
+            Entity(category="LOCATION", entity="City", span=(15, 19))
+        ]
     )
-
-    instances = dataset.get_validation_instances()
-    assert len(instances) == 2
-    assert all(isinstance(inst, Instance) for inst in instances)
-
-
-def test_get_test_instances():
-    test = [
-        Instance(tokens=["test1"], entities=None),
-        Instance(tokens=["test2"], entities=None),
-    ]
-    dataset = Dataset(
-        training=[],
-        validation=[],
-        test=test,
-    )
-
-    instances = dataset.get_test_instances()
-    assert len(instances) == 2
-    assert all(isinstance(inst, Instance) for inst in instances)
+    expected = ["O", "B-LOCATION", "I-LOCATION", "B-LOCATION"]
+    assert instance.get_bio_annotations() == expected

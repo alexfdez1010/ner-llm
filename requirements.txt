@@ -5,4 +5,3 @@ langchain-community
 langchain-ollama
 python-dotenv
 pytest
-spacy

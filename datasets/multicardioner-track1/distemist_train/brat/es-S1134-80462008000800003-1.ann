@@ -1,9 +1,0 @@
-T4	ENFERMEDAD 42 118	síndrome doloroso regional complejo tipo I de la extremidad derecha superior
-T15	ENFERMEDAD 2072 2085	tirotoxicosis
-T19	ENFERMEDAD 234 266	infección causada por pseudomona
-T38	ENFERMEDAD 594 598	SDRC
-T39	ENFERMEDAD 1366 1384	Síndrome de Horner
-T40	ENFERMEDAD 705 713	diabetes
-T41	ENFERMEDAD 688 700	hipertensión
-T42	ENFERMEDAD 1581 1593	hipertensión
-#1	AnnotatorNotes T38	  SDRC: síndrome doloroso regional complejo

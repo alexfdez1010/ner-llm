@@ -1,8 +1,0 @@
-T1	ENFERMEDAD 17 49	infectado por el VHC genotipo 1a
-T4	ENFERMEDAD 107 124	fibrosis hepática
-T5	ENFERMEDAD 135 143	cirrosis
-T25	ENFERMEDAD 375 378	HCC
-T26	ENFERMEDAD 448 451	HCC
-T27	ENFERMEDAD 996 999	HCC
-T33	ENFERMEDAD 17 95	infectado por el VHC genotipo 1a y por el virus de la inmunodeficiencia humana
-#1	AnnotatorNotes T25	  HCC: hepatitis C crónica
