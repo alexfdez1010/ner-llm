@@ -16,7 +16,6 @@ Follow these rules strictly:
 4. Each recognized entity must be placed on a new line.
 5. Do not include any additional commentary or categories beyond what is provided.
 6. If there are no entities in the text, return "None" and nothing more.
-7. Be strict about what can be considered an entity and what cannot be.
 
 Make sure to adhere to these instructions at all times.
 """,
@@ -33,7 +32,6 @@ Sigue estas reglas estrictamente:
 4. Cada entidad reconocida debe colocarse en una nueva línea.
 5. No incluyas comentarios adicionales ni categorías más allá de lo proporcionado.
 6. Si no hay entidades en el texto, devuelve "Ninguna" y nada más.
-7. Sé estricto sobre lo que puede considerarse una entidad y lo que no.
 
 Asegúrate de adherirte a estas instrucciones en todo momento.
 """

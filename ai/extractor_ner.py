@@ -6,7 +6,7 @@ from ai.prompts import INITIAL_TEMPLATE
 
 
 class ExtractorNER:
-    def __init__(self, llm: LLM, language: str, example_prompt: str):
+    def __init__(self, llm: LLM, language: str, example_prompt: str | None = None):
         """Initialize the ExtractorNER with a LLM instance.
 
         Args:
@@ -18,6 +18,8 @@ class ExtractorNER:
         {INITIAL_TEMPLATE[language]}
 
         {example_prompt}
+        """ if example_prompt else f"""
+        {INITIAL_TEMPLATE[language]}
         """
 
         self.prompt = PromptTemplate(template=prompt, input_variables=["categories"])
@@ -46,10 +48,9 @@ class ExtractorNER:
 
         sentences = []
         if sentences_per_call > 0:
-            # Split by sentence endings (., !, ?)
             current_pos = 0
             for i, char in enumerate(text):
-                if char == "\n" and (i + 1 == len(text) or text[i + 1].isspace()):
+                if char == "\n":
                     sentences.append((text[current_pos : i + 1].strip(), current_pos))
                     current_pos = i + 1
             if current_pos < len(text):
@@ -57,10 +58,11 @@ class ExtractorNER:
         else:
             sentences = [(text.strip(), 0)]
 
-        entities: list[Entity] = []
+        # First, collect all unique entity-category pairs from LLM outputs
+        entity_category_pairs = set()
+        
         for i in range(0, len(sentences), max(1, sentences_per_call)):
             batch = sentences[i:i+sentences_per_call] if sentences_per_call > 0 else sentences
-            # Join sentences with newlines for better model understanding
             batch_text = "\n".join([sentence for sentence, _ in batch])
             
             if sentences_per_call > 0:
@@ -69,7 +71,6 @@ class ExtractorNER:
             raw_output = self.llm.generate_completion(system_prompt, batch_text)
 
             # Process each entity line
-            seen_entities = set()  # Track unique entities to avoid duplicates
             for line in raw_output.strip().split("\n"):
                 if not line or ":" not in line:
                     continue
@@ -82,22 +83,20 @@ class ExtractorNER:
                 if not entity or not category:
                     continue
 
-                # Track unique entities to avoid duplicates
-                entity_key = (category, entity)
-                if entity_key in seen_entities:
-                    continue
-                seen_entities.add(entity_key)
+                entity_category_pairs.add((category, entity))
 
-                # Find all occurrences of the entity in the text
-                start_pos = 0
-                while True:
-                    start_idx = text.find(entity, start_pos)
-                    if start_idx == -1:
-                        break
-                    
-                    end_idx = start_idx + len(entity)
-                    entities.append(Entity(category, entity, (start_idx, end_idx)))
-                    start_pos = end_idx
+        # Now find all occurrences of each entity in the original text
+        entities: list[Entity] = []
+        for category, entity in entity_category_pairs:
+            start_pos = 0
+            while True:
+                start_idx = text.find(entity, start_pos)
+                if start_idx == -1:
+                    break
+                
+                end_idx = start_idx + len(entity)
+                entities.append(Entity(category, entity, (start_idx, end_idx)))
+                start_pos = end_idx
 
         categories_names = [cat.name for cat in categories]
         entities = [

@@ -13,7 +13,7 @@ from pipeline import Pipeline
 from model.category import Category
 from datasets_info.dataset_info_interface import DatasetInfo
 
-MODELS = ["deepseek-r1:7b", "llama3.2-vision", "llama3.3", "qwen2.5:32b", "phi-4"]
+MODELS = ["deepseek-r1:7b", "llama3.2-vision", "llama3.3", "qwen2.5:32b", "phi4"]
 
 DATASETS = {
     "multicardioner_track1": ("datasets_info.multicardioner_track1", "MultiCardionerTrack1"),
@@ -117,7 +117,7 @@ def main():
     parser.add_argument(
         "--model",
         type=str,
-        default="deepseek-r1:7b",
+        default="llama3.2-vision",
         choices=MODELS,
         help="Model to use for NER",
     )
