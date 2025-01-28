@@ -12,7 +12,17 @@ from model.category import Category
 from datasets_info.dataset_info_interface import DatasetInfo
 from utils import save_experiment_results
 
-MODELS = ["deepseek-r1:14b", "llama3.2-vision", "llama3.3", "qwen2.5:32b", "phi4"]
+MODELS = [
+    "deepseek-r1:1.5b",
+    "deepseek-r1:7b",
+    "deepseek-r1:8b",
+    "deepseek-r1:14b", 
+    "deepseek-r1:32b",
+    "llama3.2-vision", 
+    "llama3.3", 
+    "qwen2.5:32b", 
+    "phi4"
+]
 
 RESULTS_FILE = "results.csv"
 
@@ -117,6 +127,7 @@ def create_pipeline(
         categories: List of categories
         example_prompt: Example prompt for the dataset
         language: Language of the dataset
+        is_reasoning: Whether the model is a reasoning model
 
     Returns:
         Pipeline instance

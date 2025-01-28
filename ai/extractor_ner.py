@@ -11,6 +11,8 @@ class ExtractorNER:
 
         Args:
             llm: An instance of LLM class for text generation
+            language: Language of the dataset
+            example_prompt: Example prompt for the dataset
         """
         self.llm = llm
 
