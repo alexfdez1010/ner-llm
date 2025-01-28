@@ -50,25 +50,28 @@ class Pipeline:
 
         Returns:
             TokenMetrics containing true positives, false positives, and false negatives
+            
+        Raises:
+            AssertionError: If gold_bio and pred_bio have different lengths
         """
+        # Check that sequences have same length
+        if len(gold_bio) != len(pred_bio):
+            raise AssertionError("Gold and predicted BIO sequences must have same length")
+            
         tp = fp = fn = 0.0
 
         for gold, pred in zip(gold_bio, pred_bio):
             # Both are O, nothing to count
             if gold == "O" and pred == "O":
                 continue
-
+                
             # Both are entity tags
             if gold != "O" and pred != "O":
                 gold_tag = gold.split("-", 1)
                 pred_tag = pred.split("-", 1)
-
+                
                 # Same entity type
-                if (
-                    len(gold_tag) == 2
-                    and len(pred_tag) == 2
-                    and gold_tag[1] == pred_tag[1]
-                ):
+                if len(gold_tag) == 2 and len(pred_tag) == 2 and gold_tag[1] == pred_tag[1]:
                     # Both B or both I
                     if gold_tag[0] == pred_tag[0]:
                         tp += 1
@@ -76,6 +79,7 @@ class Pipeline:
                     else:
                         tp += 0.5
                         fp += 0.5
+                        fn += 0.5
                 # Different entity types
                 else:
                     fp += 1
