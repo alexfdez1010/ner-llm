@@ -1,0 +1,2 @@
+model_name,dataset,paragraphs_per_call,micro_precision,micro_recall,micro_f1,macro_precision,macro_recall,macro_f1
+deepseek-r1:7b,multicardioner_track2_en,0,0.93,0.21,0.34.0,0.42,0.18,0.23

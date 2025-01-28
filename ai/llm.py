@@ -15,7 +15,7 @@ class LLM:
         self.model = model
 
         # Initialize Ollama client
-        self.client = ChatOllama(model=self.model, num_predict=-1, num_ctx=128000)
+        self.client = ChatOllama(model=self.model, num_predict=-1, num_ctx=128000, temperature=0, timeout=600)
 
     def generate_completion(self, system_prompt: str, user_prompt: str, stream_output: bool = False) -> str:
         """
@@ -49,7 +49,7 @@ class LRM(LLM):
     """
     Extension of LLM class to be able to work with reasoning models.
     """
-    def __init__(self, model: str = "deepseek-r1:1.5b"):
+    def __init__(self, model: str = "deepseek-r1:7b"):
         """Initialize the LRM class with Ollama model."""
         super().__init__(model=model)
 

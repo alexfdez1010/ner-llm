@@ -16,12 +16,17 @@ MODELS = [
     "deepseek-r1:1.5b",
     "deepseek-r1:7b",
     "deepseek-r1:8b",
-    "deepseek-r1:14b", 
+    "deepseek-r1:14b",
     "deepseek-r1:32b",
-    "llama3.2-vision", 
-    "llama3.3", 
-    "qwen2.5:32b", 
-    "phi4"
+    "llama3.2:1b",
+    "llama3.2",
+    "phi3.5",
+    "granite3.1-dense",
+    "falcon3:10b",
+    "llama3.2-vision",
+    "phi4",
+    "mixtral",
+    "qwen2.5:32b",
 ]
 
 RESULTS_FILE = "results.csv"
