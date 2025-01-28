@@ -14,12 +14,26 @@ from utils import save_experiment_results
 
 MODELS = ["deepseek-r1:14b", "llama3.2-vision", "llama3.3", "qwen2.5:32b", "phi4"]
 
+RESULTS_FILE = "results.csv"
+
 DATASETS = {
-    "multicardioner_track1": ("datasets_info.multicardioner_track1", "MultiCardionerTrack1"),
+    "multicardioner_track1": (
+        "datasets_info.multicardioner_track1",
+        "MultiCardionerTrack1",
+    ),
     "pharmaconer": ("datasets_info.pharmaconer", "PharmaCoNER"),
-    "multicardioner_track2_en": ("datasets_info.multicardioner_track2_en", "MultiCardionerTrack2En"),
-    "multicardioner_track2_es": ("datasets_info.multicardioner_track2_es", "MultiCardionerTrack2Es"),
-    "multicardioner_track2_it": ("datasets_info.multicardioner_track2_it", "MultiCardionerTrack2It"),
+    "multicardioner_track2_en": (
+        "datasets_info.multicardioner_track2_en",
+        "MultiCardionerTrack2En",
+    ),
+    "multicardioner_track2_es": (
+        "datasets_info.multicardioner_track2_es",
+        "MultiCardionerTrack2Es",
+    ),
+    "multicardioner_track2_it": (
+        "datasets_info.multicardioner_track2_it",
+        "MultiCardionerTrack2It",
+    ),
 }
 
 
@@ -89,7 +103,11 @@ def get_example_prompt(dataset_name: str) -> str:
 
 
 def create_pipeline(
-    model_name: str, dataset: Dataset, categories: list[Category], example_prompt: str, language: str
+    model_name: str,
+    dataset: Dataset,
+    categories: list[Category],
+    example_prompt: str,
+    language: str,
 ) -> Pipeline:
     """Create a pipeline with the specified model and dataset.
 
@@ -154,7 +172,9 @@ def main():
         example_prompt=example_prompt,
         language=language,
     )
-    print(f"\nStarting evaluation of {args.dataset} with model {args.model} and categories {', '.join([cat.name for cat in categories])}...")
+    print(
+        f"\nStarting evaluation of {args.dataset} with model {args.model} and categories {', '.join([cat.name for cat in categories])}..."
+    )
     # Evaluate pipeline
     micro_metrics, macro_metrics = pipeline.evaluate(
         sentences_per_call=args.sentences_per_call
@@ -162,10 +182,10 @@ def main():
 
     # Save results
     save_experiment_results(
-        args.results_file,
+        RESULTS_FILE,
         args.model,
         args.dataset,
-        args.paragraphs_per_call,
+        args.sentences_per_call,
         micro_metrics,
         macro_metrics,
     )
