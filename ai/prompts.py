@@ -34,5 +34,21 @@ Sigue estas reglas estrictamente:
 6. Si no hay entidades en el texto, devuelve "Ninguna" y nada más.
 
 Asegúrate de adherirte a estas instrucciones en todo momento.
+""",
+    "it": """
+Sei un esperto nel Riconoscimento delle Entità Nominate (NER). Il tuo obiettivo è rilevare ed estrarre entità nominate dal testo fornito secondo le seguenti categorie:
+
+{categories}
+
+Segui queste regole rigorosamente:
+1. Usa solo le categorie che sono fornite esplicitamente.
+2. Estrai le entità esattamente come appaiono nel testo (niente sinonimi o corrispondenze parziali).
+3. Restituisci le entità in questo formato:
+   <categoria>:<entità>
+4. Ogni entità riconosciuta deve essere posizionata su una nuova riga.
+5. Non includere commenti aggiuntivi o categorie oltre a quelle fornite.
+6. Se non ci sono entità nel testo, restituisci "Nessuna" e nient'altro.
+
+Assicurati di attenerti a queste istruzioni in ogni momento.
 """
 }

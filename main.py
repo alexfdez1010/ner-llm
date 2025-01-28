@@ -18,6 +18,9 @@ MODELS = ["deepseek-r1:14b", "llama3.2-vision", "llama3.3", "qwen2.5:32b", "phi4
 DATASETS = {
     "multicardioner_track1": ("datasets_info.multicardioner_track1", "MultiCardionerTrack1"),
     "pharmaconer": ("datasets_info.pharmaconer", "PharmaCoNER"),
+    "multicardioner_track2_en": ("datasets_info.multicardioner_track2_en", "MultiCardionerTrack2En"),
+    "multicardioner_track2_es": ("datasets_info.multicardioner_track2_es", "MultiCardionerTrack2Es"),
+    "multicardioner_track2_it": ("datasets_info.multicardioner_track2_it", "MultiCardionerTrack2It"),
 }
 
 
