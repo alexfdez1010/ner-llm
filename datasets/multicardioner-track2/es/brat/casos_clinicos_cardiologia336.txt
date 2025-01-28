@@ -1,0 +1,42 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Se trata de una mujer de 52 años fumadora activa con cardiopatía isquémica crónica no revascularizada y función ventricular preservada. Debutó en octubre de 2018 en forma de infarto agudo de miocardio sin elevación del ST Killip I, diagnosticándose por coronariografía de disección coronaria espontánea con imagen de hematoma en la rama interventricular posterior.
+Evolucionó de forma favorable con tratamiento médico y fue dada de alta sin complicaciones tras 72 horas de ingreso. Niega antecedentes familiares de muerte súbita precoz o enfermedad cardiovascular. Se encuentra bajo tratamiento con ácido acetilsalicílico 100 mg en la comida, bisoprolol 2,5 mg en el desayuno, atorvastatina 40 mg en la cena y omeprazol 20 mg en el desayuno.
+
+ENFERMEDAD ACTUAL
+Consulta en noviembre de 2018 por síncope brusco estando en bipedestación, con recuperación espontánea y sin sintomatología periepisódica (palpitaciones, mareo, sudoración, nauseas...).
+Niega recurrencias anginosas los días previos, cambios en la medicación u otros eventos intercurrentes (infecciones...) que pudieran haber actuado como desencadenantes.
+A su llegada a urgencias se inicia monitorización con telemetría pendiente del resultado de las pruebas complementarias y valoración por cardiología de guardia. Mientras tanto, presenta una taquicardia ventricular polimórfica que degenera rápidamente en fibrilación ventricular. ROSC (return of spontaneous circulation) tras cardioversión eléctrica (CVE) única y embolada de amiodarona iv. Posteriormente, presenta nuevo ritmo de fibrilación ventricular (FV) con ROSC tras dos CVE. Queda asintomática y se decide ingreso en la unidad de cuidados cardiacos agudos (UCCA) para monitorización. Sin nuevos eventos arrítmicos ni insuficiencia cardiaca desde su ingreso, se traslada a planta de hospitalización.
+
+EXPLORACIÓN FÍSICA
+Presión arterial (PA) 165/80 mmHg, frecuencia cardiaca (FC) 85 lpm.
+Buen aspecto general. Relleno capilar < 2 segundos, no sudorosa. Eupneica en decúbito.
+Sin ingurgitación yugular.
+Auscultación cardiaca rítmica sin soplos.
+Auscultación pulmonar con murmullo vesicular conservado, sin ruidos sobreañadidos.
+Sin edemas en miembros inferiores ni signos de trombosis venosa profunda.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG) al ingreso: ritmo sinusal a 80 lpm con QRS estrecho normoposicionado y adecuada progresión en precordiales. Pequeña onda q no significativa en III y aVF. Sin alteraciones de la repolarización.
+ECG al alta: sin cambios relevantes.
+Analítica de sangre urgente a su llegada: hemoglobina 14 g/dl (volúmenes e índices dentro de los rangos de normalidad), plaquetas 275000/ul, leucocitos 9520/ul con fórmula normal. INR 1,02, APTT 27,2 seg. Glucosa 99 mg/dl. Ácido úrico 4.8 mg/dl. ALT 28 U/l. GGT 34 U/l. Fosfatasa alcalina 110 U/l. Creatinina 0,57 mg/dl (filtrado glomerular estimado > 60 ml/min/1,73 m2), sodio 144 mmol/l, potasio 4,1 mmol/l, proteína C reactiva 1,7 mg/dl.
+Pico de marcadores de daño miocárdico en la seriación: troponina I ultrasensible 392 ng/l (normal < 15,6), CK 186 U/l (normal < 192).
+Analítica de sangre con perfiles: hemoglobina glucosilada 6,3%, TSH 1,55 mUI/l, colesterol total 125 mg/dl, colesterol LDL 51 mg/dl, colesterol HDL 47 mg/dl, triglicéridos 134 mg/dl.
+Ecocardiograma transtorácico: función biventricular preservada sin valvulopatías ni dilatación de cavidades. Aquinesia de los segmentos medio y distal de cara inferior e hipoquinesia de los segmentos medio y distal de la cara inferolateral.
+Resonancia magnética cardiaca con contraste: ventrículo izquierdo no dilatado, con espesores normales. Disquinesia focal del segmento mediodistal de cara inferior. Aquinesia del segmento distal inferior e inferolateral respetando el segmento estrictamente apical. Resto de contracción segmentaria sin alteraciones.
+Función sistólica global normal (FEVI 55%). En las secuencias T2-STIR se observa una zona transmural hiperintensa muy localizada en el segmento distal de cara inferior con extensión subendocárdica hacia el ápex. Perfusión en primer defecto de perfusión subendocárdico que afecta a los tercios distales de septo inferior, cara inferior e inferolateral. MAPAS de T2 a nivel septal: 49 ms (dentro de límites normales), a nivel distal lateral: 72 ms (valor por encima de la normalidad, sugestivo de inflamación aguda) MAPAS de T1 valor nativo septal: 1013 +/- 30 ms (dentro de límites normales). Realce tardío: se observa una zona de realce compatible con una escara isquémica que ocupa aproximadamente el 70% del espesor miocárdico en el segmento distal de cara inferior e inferolateral respetando el ápex. Mínimo foco subendocárdico en cara lateral distal.
+Ventrículo derecho no dilatado ni hipertrófico. No se observan alteraciones de la contracción segmentaria. Función sistólica normal. Sin focos de realce tardío. Aurícula izquierda y derecha de tamaño normal. Válvula mitral con velos finos, apertura normal.
+Válvula aórtica trivalva, funcionalmente normal. Aorta sinusal no dilatada.
+Coronariografía: tronco coronario izquierdo corto, sin lesiones.
+Descendente anterior de buen desarrollo y calibre, sin lesiones. Circunfleja de buen desarrollo y calibre, sin lesiones. Coronaria derecha: vaso de buen desarrollo y calibre, con imagen sugestiva de hematoma en la rama interventricular posterior, con vaso distal a la lesión de escaso calibre y corto recorrido. Estudio superponible al realizado 10 días antes.
+
+EVOLUCIÓN CLÍNICA
+La paciente evolucionó favorablemente, sin nuevos eventos arrítmicos tras su traslado a planta de hospitalización. Se titularon betabloqueantes hasta la máxima dosis tolerada, así como otros antihipertensivos.
+La coronariografía mostraba persistencia del hematoma en IVP y tan solo hubo discreto daño miocárdico agudo en contexto de arritmias ventriculares y reanimación. Por tanto, descartada la existencia de nuevas disecciones, progresión de la previa u otros potenciales desencadenantes de fibrilación ventricular se decidió implantar un DAI subcutáneo en prevención secundaria en una paciente con cardiopatía isquémica con función ventricular preservada y muerte súbita recuperada. Tras ello, la paciente fue dada de alta
+
+DIAGNÓSTICO
+Parada cardiaca intrahospitalaria recuperada en fibrilación ventricular.
+Cardiopatía isquémica crónica: infarto inferior. Disección coronaria espontánea de IVP.
+Función ventricular sistólica preservada.
+Implante de DAI subcutáneo.

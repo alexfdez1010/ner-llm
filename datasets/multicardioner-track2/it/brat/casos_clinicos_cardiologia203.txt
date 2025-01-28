@@ -1,0 +1,58 @@
+STORIA, MALATTIA ATTUALE ED ESAME FISICO
+Uomo di 62 anni.
+
+Anamnesi
+Nessuna allergia nota ai farmaci.
+Stato funzionale di base: indipendente per le attività quotidiane, funzioni superiori conservate. Vita attiva senza dispnea o angina.
+Nessuna storia familiare di morte improvvisa o di cardiopatia ischemica precoce.
+Non fumatore. Unico fattore di rischio cardiovascolare: ipertensione arteriosa (AHT), in trattamento farmacologico con telmisartan/amlodipina 80/10 mg (1-0-0).
+Nessun precedente cardiopatico noto.
+Altra anamnesi personale: disturbo d'ansia monitorato dallo psichiatra e trattato con ziprasidone 40 mg (0-0-1), lorazepam 5 mg (0-0-0,5), mirtazapina 30 mg (0-0-1) e vortioxetina 10 mg (1-0-0).
+
+Malattia presente
+Un paziente asintomatico, mentre si trovava in un negozio di scarpe, ha improvvisamente perso conoscenza, senza che la moglie si riprendesse, per cui ha chiamato i servizi di emergenza. All'arrivo dei primi rianimatori (dopo 5-8 minuti senza RCP di base) hanno osservato una RCP in un ritmo defibrillabile per il DAE. S1e ha somministrato 2 adrenaline e 4 shock del DAE. Dopo l'arrivo del supporto vitale avanzato, il paziente ha continuato la RCP con un ritmo defibrillabile, quindi è stato somministrato un nuovo shock e la circolazione spontanea è stata ripristinata. Nell'elettrocardiogramma (ECG) di uscita, ritmo di fibrillazione atriale (FA) con risposta ventricolare a 160 bpm con innalzamento del tratto ST in I, aVL e V3-V6. In seguito, in considerazione della Glasgow Coma Scale (GCS) di 3 punti, è stata eseguita l'intubazione orotracheale (OTI).
+È stato preso contatto con il nostro reparto di cardiologia e, in considerazione del CRA dovuto al ritmo defibrillabile con sopraslivellamento del tratto ST anterolaterale, è stato deciso di trasferire il paziente direttamente al reparto di emodinamica per un'angiografia coronarica urgente ed è stato avviato il protocollo di ipotermia.
+Tempo totale di arresto cardiorespiratorio: 20 minuti. Tempo senza assistenza: 5-8 minuti.
+
+Esame fisico
+All'arrivo in ospedale: pressione arteriosa (BP) 139/87 mmHg; frequenza cardiaca (HR) 94 bpm; saturazione di ossigeno post-OIOT 100%; febbricitante. GCS 4 punti. Al momento del ricovero è stato mantenuto in trattamento sedativo con perfusione continua di midazolam. Intubato, ben adattato al ventilatore con FiO2 35%, colore normale e ben perfuso. All'esame: assenza di pletora giugulare. Auscultazione cardiaca ritmica senza soffi. Auscultazione polmonare normale, buona ventilazione bilaterale. Addome morbido e depressibile. Nessun edema o evidenza di trombosi venosa agli arti inferiori, con pulsazioni palpabili.
+
+ESAMI COMPLEMENTARI
+Registrazione DAE: ritmo di arresto da fibrillazione ventricolare.
+ECG (subito dopo la dimissione): fibrillazione atriale con risposta ventricolare a 160 bpm e sopraslivellamento ST fino a 3 mm anterolaterale (laterale e precordiale).
+ECG al momento del ricovero in unità coronarica: ritmo sinusale a 100 bpm, asse a 60o, PR normale, QRS stretto. QT normale. Corretta progressione di R nelle derivazioni precordiali. Nessuna anomalia acuta della ripolarizzazione. Nessun pattern di ripolarizzazione precoce.
+Analisi post-PCR all'ammissione:
+Parametri biochimici nella norma, compreso il profilo lipidico, con funzione renale e ioni (magnesio, sodio, calcio, potassio) nella norma. Emogramma e coagulazione normali.
+Marcatori iniziali di danno miocardico: CK 181 U/l e TnT ultrasensibile 187 ng/l (N: 0-14); con picco massimo CK 2.127 U/l e TnT ultrasensibile 951 ng/l. Test di tossicità delle urine: negativo.
+Ecocardiografia d'urgenza: LV non dilatato né ipertrofico con funzione sistolica globale e segmentale conservata, iperdinamico. Nessuna valvulopatia significativa. RV non dilatato con buona funzione. Assenza di versamento pericardico.
+
+Esami di emergenza eseguiti all'arrivo:
+Angiografia coronarica d'urgenza: arterie coronarie senza lesioni.
+TC cerebrale e angiografia TC toraco-addominale: nessun risultato significativo.
+Ecocardiogramma transtoracico (in unità coronarica): ventricolo sinistro (LV) non dilatato o ipertrofico con funzione sistolica conservata (LVEF 65%) senza alterazioni della contrattilità segmentale. Pattern diastolico di rilassamento allungato (E/E'9). Atrio sinistro normale (20 cm2). Ventricolo destro (RV) non dilatato e con buona funzione. Valvola aortica trivalve con apertura conservata, senza alterazioni funzionali. Radice aortica non dilatata (30 mm). Valvola mitrale di aspetto normale con insufficienza minima. Valvola tricuspide con lieve insufficienza. Vena cava inferiore non dilatata con collasso inspiratorio > 50%. Pressione sistolica stimata dell'arteria polmonare (PSAP) di 25 mmHg. Assenza di versamento pericardico.
+
+Risonanza magnetica cardiaca (RM) nel reparto di cardiologia generale dell'ospedale: ventricolo sinistro (LV) non dilatato con funzione globale e segmentale conservata (LVEF 62%). Ipertrofia LV concentrica lieve-moderata (12-13 mm). Ventricolo destro (RV) non dilatato con funzione globale e segmentale conservata (RVEF 63%). Nelle sequenze di late enhancement non sono state osservate riprese patologiche. Risultati compatibili con una cardiopatia ipertensiva, con buona funzione biventricolare, senza enhancement patologici.
+
+Negativo per il fenotipo della sindrome del QT lungo: ECG in piedi con QTc normale (440 ms) e test da sforzo con misurazione del QTc al 4° minuto di recupero anch'esso normale (445 ms). Durante la prova da sforzo non si sono verificati eventi aritmici compatibili con la tachicardia ventricolare polimorfa catecolaminergica.
+Negativo per il fenotipo della sindrome di Brugada: ECG modificato negativo per il pattern di Brugada nelle derivazioni precordiali destre e test alla flecainide negativo: ritmo sinusale basale normale, conduzione atrioventricolare (AV) normale e QRS normale. Il test è risultato negativo, anche se durante il test farmacologico con flecainide ha attirato l'attenzione la frequente comparsa di extrasistoli ventricolari monomorfe con morfologia di blocco di branca destro (RBBB) e asse superiore, suggestive di un'origine nel fascicolo posteriore.
+Infine, vista l'anamnesi di sopraslivellamento del tratto ST all'ECG dopo l'arresto, si è deciso di eseguire un test ecocardiografico con ergobasina: clinicamente, elettricamente ed ecocardiograficamente negativo.
+
+EVOLUZIONE CLINICA
+Il paziente è stato ricoverato in unità coronarica dopo angiografia coronarica, TC cerebro-toraco-addominale e TTE senza alterazioni. Dopo una stabilizzazione emodinamica con un lento ma progressivo miglioramento neurologico e senza nuovi eventi aritmici in telemetria, si è deciso di trasferirlo nel reparto di cardiologia generale per completare lo studio con imaging cardiaco avanzato e test di provocazione per canalopatie o vasospasmo coronarico, i cui risultati sono stati illustrati in precedenza.
+Il paziente rimane cardiologicamente asintomatico per tutta la durata della degenza. È stato monitorato con telemetria, senza registrare eventi aritmici, e sono stati eseguiti ECG giornalieri, con QTc normale in tutti.
+
+Gli esami eseguiti durante il ricovero hanno escluso le principali cause di arresto cardiaco:
+1. Ischemia: rete coronarica normale nell'angiografia coronarica urgente. Anche la risonanza magnetica cardiaca non ha mostrato miglioramenti ischemici patologici.
+2. Strutturali: nessuna evidenza di tromboembolismo polmonare (PTE) o tamponamento cardiaco all'ecocardiografia o alla TC d'urgenza; nessuna evidenza di cardiomiopatia sottostante all'ecocardiografia transtoracica regolare o alla risonanza magnetica cardiaca.
+3. Canalopatie: test di provocazione negativi per sindrome del QT lungo, Brugada e tachicardia ventricolare polimorfa catecolaminergica. Anche l'ECG basale non mostra morfologia del QTc corto o pattern di ripolarizzazione precoce.
+4. Vasospasmo coronarico: test ecocardiografico con ergobasina negativo. 5. Nessuna alterazione tossico-metabolica che giustifichi il quadro.
+Il paziente non aveva un'anamnesi familiare di morte improvvisa o di cardiopatia ischemica precoce.
+Il padre ha una fibrillazione atriale permanente e la madre una fibrillazione atriale parossistica. Alla dimissione, i due figli e la sorella, tutti sani, sono stati indirizzati all'ambulatorio di cardiopatia familiare per un ECG e un ecocardiogramma transtoracico.
+È stata stabilita una diagnosi di fibrillazione ventricolare idiopatica. È stato posizionato un defibrillatore cardioverter impiantabile (ICD) sottocutaneo per la prevenzione secondaria e il paziente è stato sottoposto a monitoraggio ambulatoriale nel reparto di elettrofisiologia.
+
+DIAGNOSI
+CRA extraospedaliero rianimato da ritmo defibrillabile. Fibrillazione ventricolare idiopatica:
+Rete coronarica angiograficamente normale.
+Nessuna cardiopatia strutturale.
+Buona funzione biventricolare.
+Test farmacologici per smascherare la canalopatia e il vasospasmo negativi.

@@ -1,0 +1,74 @@
+A 70-year-old male patient presented to the emergency department with fever of two weeks' duration, with chills, shivering, up to 39oC, predominantly in the evening, which resolved well with paracetamol but reappeared a few hours later. The fever is accompanied by asthenia and generalised osteoarticular pain.
+No cough, no expectoration, no dyspnoea, no chest pain. No nausea or vomiting. Soft stools, without pathological products in the last weeks. No micturition symptoms.
+Since coming to the emergency department, on treatment with levofloxacin for 5 days with clinical improvement, but relapse of fever and general malaise 48 hours after finishing the antibiotic.
+No trips abroad. No skin lesions or dental interventions. The family reports that the patient has been more depressed for the last 6 months, coinciding with the last pacemaker replacement. Since then, his activity has been progressively decreasing, with the appearance of joint pain. Weight loss, but no loss of appetite.
+
+
+BACKGROUND
+- ADR: Hypersensitivity to beta-lactams.
+- Toxic habits: Non-smoker. Drinker of 2 glasses of wine a day for 3-4 months.
+- Personal history: AHT, IIDM, dyslipidaemia, hyperuricaemia with gout, permanent AF since 2013 (anticoagulated with Acenocoumarol), chronic ischaemic heart disease since 2004, AOTHETIC PROSTHESIS J-21, carotid sinus hypersensitivity of unknown aetiology. DDDR pacemaker wearer since December 2004 and since 2013 in VVIR mode due to AF. Last pacemaker replacement in July 2016, without complications. Vertebral ankylosing hyperostosis and gout, seen in rheumatology in November 2016 and in follow-up by general practitioner. Community-acquired pneumonia in 2015
+- Surgical history: appendectomy, prosthesisaortic.
+- Retired, former car body repairer, lives in El Palmar. Self-employed for all ABVD, drives his car, has a small vegetable garden
+
+
+PHYSICAL EXAMINATION
+- BP: 120/40mmHG HR: 70lpm T: 37"2 oC. Eupneic at rest
+- No adenopathies in the main lymph node groups.
+- Normal colour. Not hydrated. No jaundice
+- Septic mouth. Normal pharynx without exudate.
+- No crepitus, no signs of inflammation over the pacemaker stack.
+- AC: Rhythmic. Mitral regurgitation murmur and valvular click in aortic murmur.
+- AP: Normal respiratory sounds.
+- Abdomen: soft, tender, non-painful, no palpable masses or visceromegaly.
+- Extremities without oedema, with palpable pulses, no signs of DVT.
+- No skin lesions or loss of skin continuity.
+- Conscious, oriented, cooperative, normal speech, mobilises all 4 limbs, normal cranial nerves. Negative meningeal signs.
+
+COMPLEMENTARY EXPLORATIONS
+- ECG: pacemaker rhythm at 70lpm, with ventricular stimulation, left bundle branch block.
+- Chest X-ray: global cardiomegaly, signs of LVI. Pacemaker with electrodes in AD and VD.
+- Biochemistry: glucose 168 mg/dl Urea:78 mg/dl Creatinine: 1.65 mg/dl Ck: 48 ui/l
+- Sodium 131 CRP: 134 FG: 41 Fibrinogen: 667
+- Blood gases
+- Haematology: Leucocytes: 15"2x10e9/lneutrófilos 11"9x10e9/l
+- Brucellamelitensisrosa de bengala: negative
+- Abnormal and sediment: normal.
+
+DIAGNOSTIC SUSPICION: BACTERIAL ENDOCARDITIS
+
+PLAN
+- Blood cultures
+- Complete blood test
+- Echocardiogram
+- Allergology consultation
+
+
+HAEMOCULTURES
+- Anaerobic flask -> Enterococcus faecalis
+- Sensitive to penicillin
+- Resistant to :
+- Quinupristin/dalfopristin
+- Cefuroxime-axetil
+- Cefuroxime
+- Trimethoprim/sulfamethoxazole
+- Clindamycin
+- Erythromycin
+
+ECHOCARDIOGRAM
+- Impossibility of performing a TE echocardiogram due to lack of collaboration
+- Performance of TT echocardiogram -> Slight left atrial dilatation, the rest of the chambers being of normal size, with preserved EF. Presence of concentric LV hypertrophy. Vegetation of 12x7mm at the level of the atrial segment of the posterior mitral leaflet without haemodynamic repercussions. Biological aortic prosthesis, normal function, with no signs suggestive of endocarditic involvement.
+
+CONCLUSIONS:
+Endocarditismitral. Positive blood cultures + echocardiographic confirmation
+
+PET CT
+- Due to limited TTE
+- RESULT: focal increase of activity on mitral valve. While in biological aortic valve prosthesis no focal metabolic uptake is observed, suggesting infection in the current study.
+
+ALLERGOLOGY INTERCONSULTATION
+- Initially: allergy to beta-lactams, treatment with VANCOMICIN/GENTAMYCIN After consultation: no allergy -> AMPICYLINE 2G/4H + CEFTRIAXONE 2G/12H
+
+TREATMENT
+- Infection on native valve -> 4 weeks of treatment
+- Infection in complex patient, with prosthetic valve and pacemaker -> we extend treatment to 6 weeks.

@@ -1,0 +1,38 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Anamnesi
+Uomo di 80 anni. Nessuna allergia nota ai farmaci. Ex fumatore da 20 anni (AE 15 pacchetti/anno). I fattori di rischio cardiovascolare includono ipertensione arteriosa (AHT) in trattamento con candesartan 32 mg al giorno e diabete mellito di tipo 2 in trattamento con empagliflozin/metformina 5/1.000 mg al giorno. Nessuna anamnesi cardiologica nota. L'anamnesi comprende solo l'iperplasia prostatica benigna e l'intervento di cataratta in entrambi gli occhi. Indipendenza da tutte le attività di base della vita quotidiana, comprese quelle avanzate (Rankin 0).
+
+Malattia attuale
+Il paziente è stato portato al pronto soccorso del nostro centro con il supporto vitale di base dopo essere stato trovato dalla sorella sul pavimento di casa sua alle ore 15:00 con una sintomatologia clinica che consisteva nella deviazione dell'angolo destro della bocca, nella deviazione oculare verso sinistra e in un disturbo del linguaggio. Presentava una lesione al cuoio capelluto suggestiva di un trauma cranioencefalico. L'ultima volta che era stato visto asintomatico era stato il giorno precedente, intorno alle 11:00 del mattino.
+
+Esame fisico
+Pressione arteriosa (BP) 187/98 mmHg, frequenza cardiaca (HR) 98 bpm, saturazione basale di ossigeno 94%.
+Afasia mista: linguaggio poco fluente, anche se la comunicazione è possibile. Comprende alcuni semplici comandi. Alterazione della denominazione. Preferenza visiva a sinistra. Emianopsia omonima destra su campimetria a confronto. Paresi sopranucleare facciale sinistra. Il resto dei nervi cranici è conservato. Claudicatio dell'arto inferiore destro (NIHSS di 8 punti).
+Auscultazione cardiaca: suoni regolari senza soffi. Auscultazione polmonare: murmure vescicolare conservato, senza suoni patologici. L'addome era normale. Pulsazioni normali e simmetriche.
+
+
+ESAMI COMPLEMENTARI
+Elettrocardiogramma (ECG): ritmo sinusale a 95 bpm. PR 140 ms. QRS stretto con asse normale. R embrionale nelle precordiali fino a V4 con T negative in I, aVL, V5-V6.
+Emocromo: glucosio 138 mg/dl. Urea 39 mg/dl. Creatinina 0,91 mg/dl. Sodio 141 mmol/l. Potassio 4,4 mmol/l. CPK 98 U/l. CRP 7,0 mg/l. Hb 15,7 g/dl. MCV 92 fl. Leucociti 4,6x10^9/l. Piastrine 165 x10^9/l. INR 1,07. Troponina T ultrasensibile 76 pg/ml -> 68,3 a 6 ore (normale < 14).
+Radiografia del torace: nessun consolidamento o versamento pleurico.
+Tomografia computerizzata (TC) cranica a vuoto: discreta atrofia cerebrale corticosottocorticale. Ipodensità occipitale sinistra e del talamo sinistro di origine ischemica acuta di nuova insorgenza, non presenti nella TC precedente (2015). Ipodensità nell'insula sinistra di probabile origine ischemica cronica già presente nella precedente TC.
+Angio-TC dei tronchi sovra-aortici e del poligono di Willis dopo somministrazione di contrasto endovenoso (immagine 2): difetto di replezione nel segmento P2A dell'arteria cerebrale posteriore sinistra. Le altre arterie del poligono di Willis sono libere, senza dilatazioni aneurismatiche o stenosi significative o immagini suggestive di trombosi/occlusione.
+TC di perfusione dopo la somministrazione di IVC: area di penombra nel territorio dell'arteria cerebrale posteriore sinistra, con mismatch superiore al 20%.
+Risonanza magnetica (RM) con angio-RM: infarto ischemico acuto esteso nel territorio temporo-occipitale sinistro e talamico sinistro (quest'ultimo con trasformazione emorragica). Le sequenze angiografiche identificano tronchi sovra-aortici senza evidenza di stenosi significative. Le strutture arteriose del poligono di Willis mostrano un sistema carotideo e un sistema basilare normali, senza evidenza di malformazioni vascolari o stenosi significative.
+Ecocardiografia transtoracica: cavità cardiache di dimensioni normali, con moderata ipertrofia, prevalentemente settale. LVEF leggermente depressa (48% secondo Simpson) a scapito dell'acinesia del setto e della parete anteriore nei segmenti apicali e della stretta acinesia apicale. TAPSE normale. Nessuna valvulopatia significativa. Era presente una massa attaccata alla parete settoapicale, sporgente e mobile, di 20x17 mm, compatibile con un trombo intraventricolare sinistro.
+Risonanza magnetica cardiaca (CMR). Sequenza di late enhancement: trombo arrotondato di 11x16x15 mm aderente alla parete settoapicale. Ipocinesia laterale, segmenti apicali e apice stretto. Assenza di edema miocardico. Necrosi subendocardica non transmurale sull'aspetto laterale. Assenza di necrosi nei segmenti apicali.
+Ecocardiografia transtoracica a due mesi dalla dimissione: risoluzione del trombo osservato nell'ecografia precedente con persistenza delle alterazioni della contrattilità descritte nelle ecocardiografie precedenti.
+
+EVOLUZIONE CLINICA
+Il paziente, di 80 anni, con un buon livello funzionale, si è presentato con sintomi clinici compatibili con un ictus ischemico nel territorio dell'arteria cerebrale posteriore sinistra con NISS > 6. Il dipartimento di emergenza ha attivato il codice ictus, osservando l'occlusione del segmento P2 nell'angiografia TC.
+Il trattamento fibrinolitico è stato escluso a causa del tempo di evoluzione incerto e la radiologia interventistica è stata contattata per valutare un trattamento endovascolare, anch'esso escluso a causa dell'ipodensità riscontrata nella TC a vuoto e dell'occlusione distale a P1.
+Successivamente, è stata osservata ischemia in diversi territori arteriosi alla RMN cerebrale. L'angiografia ha mostrato un sistema carotideo e basilare normale, senza evidenza di malformazioni vascolari o stenosi significative.
+Nell'ambito dello studio eziologico dell'ictus, è stata richiesta una regolare ecocardiografia transtoracica, che ha mostrato un trombo intraventricolare aderente alla parete settoapicale. È stato consultato il reparto di cardiologia e lo studio è stato completato con la risonanza magnetica cardiaca, che ha mostrato anche ipocinesia laterale dei segmenti apicali e necrosi subendocardica apicale e non transmurale sull'aspetto laterale compatibile con un vecchio infarto. Nell'anamnesi diretta, il paziente non aveva precedenti sintomi di dolore toracico, dispnea o altri sintomi cardiologici.
+Date le caratteristiche del paziente, anziano e con un recente ictus con trasformazione emorragica in alcuni dei territori cerebrali interessati, è stata concordata con il reparto di neurologia l'anticoagulazione con rivaroxaban 20 mg al giorno. Dato che il paziente non aveva avuto in precedenza dolore toracico, la LVEF non era gravemente compromessa e data la situazione acuta di ictus con trasformazione emorragica, si è deciso di non eseguire per il momento il cateterismo coronarico e di valutare dopo la risoluzione del trombo apicale. Alla dimissione, il linguaggio del paziente non era molto fluente, ma capiva gli ordini, li nominava correttamente e li ripeteva. Persistenza del deficit campimetrico costituito da emianopsia omonima destra. Nessun deficit motorio (NIHSS di 3 punti).
+L'ecocardiografia di controllo a un mese su base ambulatoriale ha mostrato una diminuzione delle dimensioni del trombo e nell'ecocardiografia di controllo a due mesi la risoluzione del trombo con persistenza delle alterazioni della contrattilità descritte nelle ecocardiografie precedenti.
+
+DIAGNOSI
+Ictus ischemico nel territorio dell'arteria cerebrale posteriore sinistra ad eziologia embolica. Trombo intraventricolare.
+Vecchio infarto miocardico nella faccia laterale e nei segmenti apicali.
+Diabete mellito di tipo 2.
+Ipertensione arteriosa.

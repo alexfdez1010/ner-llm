@@ -1,0 +1,37 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Donna di 53 anni senza reazioni allergiche note ai farmaci.
+
+Anamnesi
+Anamnesi familiare: morte improvvisa durante il sonno del nonno materno a 70 anni e di uno zio materno a 50 anni, sempre durante il sonno. Figlia con QT lungo all'ECG basale e figlio con fenotipo di cardiomiopatia ipertrofica incipiente.
+
+Anamnesi personale:
+Nessuna abitudine tossica, nessuna ipertensione arteriosa (AHT), nessun diabete, nessuna dislipidemia.
+Cardiomiopatia ipertrofica non ostruttiva: diagnosi accidentale in un altro centro dopo aver iniziato uno studio a causa di palpitazioni. Fenotipo con ipertrofia settale asimmetrica, con spessore massimo di 18 mm nel setto anteriore basale, gradiente massimo di 15 mmHg, LVEF 65% e debole fibrosi mesocardica nelle aree di ipertrofia e nel punto di inserzione inferiore del RV nella RM cardiaca. Holter: ritmo sinusale con frequenza cardiaca media di 60 bpm, extrasistoli sopraventricolari aneddotiche con una salva SVT di 4 battiti, extrasistoli ventricolari aneddotiche con una tripletta notturna a 90 bpm, senza altri eventi. Ergometria con 8,8 METS, clinicamente negativa, elettrocardiograficamente positiva dal minuto 5 (depressione del segmento ST ascendente in II, III, aVF, V5 e V6 fino a 1,5 mm, che persiste al minuto 2 di recupero, attenuandosi spontaneamente), con calo della pressione arteriosa al massimo sforzo, sebbene asintomatica.
+Sovrapposizione con la sindrome del QT lungo (LQTS).
+Studio genetico: non è stata identificata alcuna variante patogena/probabilmente patogena legata alla cardiomiopatia ipertrofica. Viene identificata una variante probabilmente patogena in KCNQ1 compatibile con la LQTS di tipo 1, confermata anche nella figlia.
+Altro: fibromialgia, lombalgia cronica.
+Interventi chirurgici: isterectomia e doppia annessectomia per metrorragia.
+Trattamento abituale: propanololo 10 mg ogni 8 ore, duloxetina 60 mg ogni 24 ore.
+
+Malattia attuale
+La paziente è stata indirizzata da un altro centro per un episodio di perdita di coscienza la notte precedente a letto, a cui ha assistito il marito, che ha riferito russamento, estroflessione oculare e spasmo tonico della durata di pochi secondi, per il quale non si è consultata. La mattina seguente ha presentato una pressione precordiale e si è recata al pronto soccorso, dove è stata osservata una fibrillazione atriale con risposta controllata, che è regredita spontaneamente a bradicardia sinusale con cessazione completa della pressione precordiale. Negli ultimi 2 anni ha riferito palpitazioni quasi quotidiane della durata di alcuni minuti, non correlate allo sforzo, e dispnea in caso di sforzo moderato.
+
+Esame fisico
+Pressione arteriosa (BP) 120/80 mmHg; frequenza cardiaca (HR) 55 bpm. Buone condizioni generali. Cosciente e orientato, eupneico, ben perfuso.
+Auscultazione cardiaca: ritmica, senza soffi a riposo o con manovre di Valsalva. Auscultazione polmonare: murmure vescicolare conservato senza suoni aggiunti. Arti inferiori: nessun edema o segno di trombosi venosa profonda, pulsazioni presenti e simmetriche.
+
+ESAMI COMPLEMENTARI
+ECG basale: bradicardia sinusale a 50 bpm, PR normale, QRS stretto con asse normale, onda T bifasica (con predominanza della componente negativa) in III, aVF, V4 e V5, dentellata in V2 e V3. QTc 511 ms.
+Esami di laboratorio: emoglobina 12,9 g/dl, leucociti 6.370/μl, piastrine 191.000 /μl.000 /μl, HbA1C 5,5%, colesterolo totale 190 mg/dl, HDL 40 mg/dl, LDL 110 mg/dl, trigliceridi 130 mg/dl, creatinina 0,63 mg/dl, velocità di filtrazione glomerulare > 90 ml/min, sodio 142 mmol/l, potassio 4,8 mmol/l, CRP 1,1 mg/l, TSH 2,13 μIU/ml, troponina I (hs-TnI) 10, CK 50 U/l.
+Ecocardiogramma transtoracico: ventricolo sinistro di dimensioni normali con grave ipertrofia settale asimmetrica (IVSd 18 mm; PPd 13 mm) che genera accelerazione nel tratto di efflusso LV senza ostruzione significativa né al basale né con Valsalva (gradiente massimo 15 mmHg). Funzione sistolica globale conservata senza alterazioni segmentali della contrattilità (LVEF 65%). Pattern diastolico compatibile con un rilassamento alterato. Atrio sinistro moderatamente dilatato (area 30 cm2). RVEF conservata. Valvola mitrale con buona apertura e lieve insufficienza mitralica (MI). Non è visibile alcun SAM. Valvola aortica scarsamente visualizzata con impronta trivalve e assenza di flusso patologico. Valvola tricuspide scarsamente visualizzata che appare normale senza insufficienza tricuspidale (TI) che consentirebbe di stimare la pressione sistolica dell'arteria polmonare (PSAP). Nessuna evidenza indiretta di ipertensione polmonare (PHT). Vena cava inferiore non dilatata con adeguato collasso inspiratorio. Radice aortica di dimensioni normali con lieve dilatazione dell'aorta ascendente tubulare (40 mm), con arco aortico non dilatato. Assenza di versamento pericardico.
+Radiografia del torace post-impianto: defibrillatore cardioverter impiantabile (ICD) bicamerale (elettrodi AD e RV non inseriti), clip chirurgiche, indice cardiotoracico nella norma, parenchima polmonare senza alterazioni, nessun segno di pneumotorace.
+Elettrocardiogramma (ECG) alla dimissione: attività atriale stimolata da pacemaker a 60 bpm, QRS stretto con asse normale, onda T bifasica in III, aVF, V4 e V5, dentellata in V2. QTc 480 ms.
+
+EVOLUZIONE CLINICA
+Si tratta di un paziente con una precedente diagnosi di cardiomiopatia ipertrofica non ostruttiva con sovrapposizione di sindrome del QT lungo di tipo 1 che ha presentato una sincope di profilo cardiogeno in trattamento con beta-bloccanti. Dato il rischio di HCM-SCD della paziente, pari al 3,52% (basso rischio a 5 anni), il profilo notturno della sincope e l'anamnesi familiare di morte improvvisa notturna (SD), sembra probabile che l'evento sincopale sia legato alla sindrome del QT lungo di tipo 1 piuttosto che alla sua cardiomiopatia ipertrofica. In presenza di sincope cardiogena in trattamento con beta-bloccanti, è stato deciso l'impianto di un ICD. Data la diagnosi di cardiomiopatia ipertrofica e il riscontro di una fibrillazione atriale parossistica non documentata in precedenza, è stato avviato un trattamento anticoagulante. L'impianto di ICD bicamerale è stato eseguito senza incidenti, programmato in modalità ICD DDDR, con una frequenza di stimolazione di 60 bpm.
+
+DIAGNOSI
+Sincope con profilo cardiogeno.
+Cardiomiopatia ipertrofica non ostruttiva con sovrapposizione di sindrome del QT lungo di tipo 1 (probabile variante patogena in KCNQ1).
+Fibrillazione atriale parossistica sintomatica (angina emodinamica in relazione alla rapida risposta ventricolare).
+Impianto di ICD bicamerale.

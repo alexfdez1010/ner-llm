@@ -1,0 +1,33 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+BACKGROUND:
+Essential arterial hypertension.
+Grade II obesity of central predominance.
+Non-ST-elevation acute coronary syndrome (NSTEACS) in 87 and 98, being treated with conventional stent in the second episode in the right coronary artery.
+Heterozygous familial hypercholesterolemia with pathogenic LDL receptor mutation.
+Two sons with the same mutation.
+Atheromatosis of large vessels, with carotid involvement detected by echo-Doppler.
+Restrictive pulmonary disorder in relation to obesity hypoventilation syndrome.
+Pending polysomnographic study.
+No known allergies. Intolerance to statins, with clinical manifestations of myalgias and elevated muscle damage enzymes (CK).
+Previous treatment: acetylsalicylic acid (ASA) 100 mg, atenolol 50 mg, atorvastatin 40 mg, ezetimibe 10 mg.
+
+CURRENT DISEASE:
+A 79-year-old man with the history described above came to the endocrinology department for review of lipid-lowering treatment for secondary prevention after NSTEACS. The patient presented poor tolerance to statins, with muscle pain and elevated CK levels after attempting to increase the dose of 40 mg of atorvastatin. Despite the combination of 40 mg atorvastatin with 10 mg ezetimibe, the patient has LDL cholesterol levels of 145 mg/dl (well above the recommended limit of 70 mg/dl for this patient group). Therefore, treatment with PCSK9 protein inhibitors, specifically evolocumab, is proposed and accepted, starting at a dose of 140 mg subcutaneous every two weeks.
+
+PHYSICAL EXAMINATION:
+Congestive appearance. Weight 93.5 kg. Height 166 cm. Muscle mass index (BMI) 34 kg/m2.
+Blood pressure (BP) 140/80. Cardiac auscultation: rhythmic without murmurs. Pulmonary auscultation: hypoventilation in the bases. Peripheral pulses present. Discrete oedema with fovea in the lower limbs.
+
+COMPLEMENTARY TESTS
+Last blood test (22/02/2018): glucose 101 mg/dl. Creatinine 0.79 mg/dl. GFR MDRD 6 97.50 ml/min. Urea 37 mg/dl. Uric acid 7.8 mg/dl. Sodium 141 mm/l. Potassium 4.9 mm/l. Chlorine 106 mm/l.
+Calcium 9.1 mg/dl. Phosphorus 3.1 mg/dl. Magnesium 1.80 mg/dl. Albumin 4,0 g/dl. Total bilirubin 0.78 mg/dl. AST/GOT 33 U/l. ALT/GPT 44 U/l. GGT 24 U/l. Alkaline phosphatase 54 U/l.
+Creatine kinase (CK) 170 U/l. Total cholesterol 102 mg/dl, HDL cholesterol 30 mg/dl, LDL cholesterol calc. 37 mg/dl, triglycerides 174 mg/dl. C-reactive protein (ultra) 2.38 mg/l. Glycated haemoglobin (DCCT) 5.9%.
+ECG: sinus rhythm at 66 bpm, PR of 180 ms, narrow QRS at 60 degrees without acute repolarisation alterations.
+
+CLINICAL EVOLUTION
+The patient started treatment with evolocumab with LDL-cholesterol levels of 145 mg/dl. After one month of treatment the LDL-cholesterol level dropped to 26 mg/dl.
+Because of this sharp drop, both the patient and his general practitioner decide to discontinue evolocumab without consulting his cardiologist or endocrinologist, for fear of adverse effects related to such low cholesterol levels. Despite the endocrinologist explaining the absence of complications due to such low cholesterol levels, the patient has poor adherence to treatment with a rise in LDL cholesterol levels for one year, after which the patient agrees to resume treatment correctly. A further decrease in LDL cholesterol levels to 19 is obtained, so the patient is de-escalated by withdrawing ezetimibe, and the control observed in the last analysis is obtained. Image 2 shows the cholesterol evolution profile during this time.
+
+DIAGNOSIS
+Heterozygous familial hypercholesterolemia with established vascular damage and good control of cholesterol levels after starting treatment with PCSK9 protein inhibitors.

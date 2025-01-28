@@ -1,0 +1,26 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 26 años que ingresa por dolor torácico y elevación de marcadores de daño miocárdico.
+
+ANTECEDENTES PERSONALES
+Situación basal: natural de Colombia. Residente en España desde hace un mes. Trabaja como jardinero. Sin alergias medicamentosas conocidas. Sin factores de riesgo cardiovascular. Sin hábitos tóxicos. Sin antecedentes cardiológicos personales ni familiares. Intervenciones quirúrgicas: esplenectomía tras accidente de tráfico. Medicación previa: ninguna.
+
+ENFERMEDAD ACTUAL
+Paciente asintomático desde el punto de vista cardiovascular, que dos semanas antes del ingreso inicia episodios de dolor centrotorácico opresivo irradiado a ambas mandíbulas, sin relación con el ejercicio ni movimientos respiratorios. No asocia cortejo vegetativo. Cese autolimitado de los mismos en pocos minutos. También refiere mareos inespecíficos y sensación distérmica ocasional, sin fiebre termometrada. No palpitaciones, disnea ni clínica sincopal. Niega clínica infecciosa previa.
+
+EXPLORACIÓN FÍSICA
+Afebril, tensión arterial 106/62 mmHg, frecuencia cardiaca 60 lpm, saturación O2 basal 98%, peso referido 70 kg. Consciente, orientado y colaborador. Bien hidratado y perfundido. Buen estado general. Eupneico en reposo. Presión venosa yugular normal. No se palpan adenopatías. Auscultación cardiaca: rítmica sin soplos ni roces.
+Auscultación pulmonar: ruidos respiratorios preservados sin sobreañadidos. Abdomen: blando, depresible y no doloroso. No se palpan masas ni megalias. Peristaltismo presente. Extremidades inferiores: sin edema. Pulsos distales presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma: bradicardia sinusal a 50 lpm. PR normal. QRS estrecho. Onda Q en el límite de significación patológica y ascenso del ST 0,5 mm en cara inferior.
+Analítica al ingreso: hemoglobina 15 g/dl, plaquetas 350.000 u/mm3, leucocitos 11,3 x103/mm3 (neutrófilos 33,4%- 3790 u/l, linfocitos 31,4%- 3560 u/l, eosinófilos 27,7%- 3150 u/l), glucosa basal 81 mg/dl, urea 23 mg/dl, creatinina 0,79 mg/dl, sodio 131 mEq/l, potasio 4,2 mEq/l, troponina I convencional 2,7 ng/dl (normal < 0,01).
+Radiografía de tórax: índice cardio-torácico normal. Sin lesiones pleuroparenquimatosas agudas.
+Ecocardiograma transtorácico: ventrículo izquierdo no dilatado, de grosor normal, sin alteraciones de la contractilidad segmentaria. Función sistólica normal (FEVI Simpson biplano 65%). Apariencia hiperecogénica del miocardio de pared inferolateral respetando endocardio. Ventrículo derecho de tamaño normal con función sistólica conservada. Válvula mitral de aspecto y función normal. Válvula aórtica trivalva, sin insuficiencia ni estenosis. Válvula tricúspide de aspecto normal, con insuficiencia mínima. Válvula pulmonar normofuncionante. Raíz aórtica de tamaño normal, no coartación. Sin derrame pericárdico.
+Cardio-RM: ventrículos de tamaño y función conservadas. Se objetiva hipocinesia, edema y realce tardío intramiocárdico de predominio subepicárdico en cara inferolateral; hallazgos que pueden estar en relación con miocarditis en el contexto clínico adecuado.
+TAC de arterias coronarias: puntuación total de calcio según índice de Agatson 0. Arterias coronarias sin variantes anatómicas, observando permeabilidad conservada de las mismas, sin imágenes trombóticas ni estenóticas.
+
+EVOLUCIÓN CLÍNICA
+El paciente ingresa en la unidad coronaria para monitorización y ampliación de pruebas complementarias. Como prueba cardiológica específica se realiza en primer lugar ecocardiograma transtorácico que resulta normal y posteriormente una resonancia magnética cardiaca (RMC) que resulta compatible con miocarditis. Tras 48 horas sin desarrollo de complicaciones arrítmicas ni insuficiencia cardiaca pasa a la planta de hospitalización para continuación de cuidados y completar estudios. En la analítica al ingreso se objetiva una leucocitosis a expensas de una marcada eosinofilia que persiste en analíticas posteriores por lo que, se solicita valoración por parte de medicina interna que amplía batería de pruebas con autoinmunidad, virus y serología infecciosa que resulta positiva para IgM Toxocara spp. Posteriormente se solicita TAC arterias coronarias para descartar embolismos, que resulta también normal. Ante sospecha de miocarditis eosinofílica secundaria a infección parasitaria por Toxocara, se inicia tratamiento con albendazol. El paciente presenta buena evolución clínica y es dado de alta hospitalaria a los 7 días asintomático, con normalización de marcadores de daño miocárdico y eosinofilia en descenso.
+
+DIAGNÓSTICO
+Miocarditis eosinofílica en contexto de toxocariasis.

@@ -1,0 +1,46 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+50-year-old male, no known drug allergies. No toxic habits. No cardiovascular risk factors. No relevant family history. No medical or surgical history. No chronic treatments.
+
+First consultation:
+Referred to cardiology consultation from the emergency department. He had consulted for an episode of palpitations and supraventricular tachycardia (SVT) was identified, which slowed with vagal manoeuvres but was reversed with IV atenolol. Physical examination was unaltered.
+At the consultation, the diagnosis of paroxysmal supraventricular tachycardia was established and it was decided to start treatment with beta-blockers (bisoprolol 2.5 mg at breakfast), request 24-hour Holter and transthoracic echocardiography (TTE).
+
+Second consultation (at 5 months):
+In the time between consultations, he attended the emergency department three times for palpitations related to SVT episodes that sometimes reverted with vagal manoeuvres. Several medication changes due to intolerance or ineffectiveness. At the time of the second assessment she was on atenolol 50 mg c/24 hours.
+Prior to the consultation, a TTE was performed which showed dilatation of the right chambers with normal RV systolic function and PSAP 26 + PVC. An agitated saline test was performed with no evidence of bubble passage between cavities, which was interpreted as an improbable sign of shunt.
+24-hour Holter in sinus rhythm with adequate heart rate (HR) and one episode of non-sustained SVT (< 30 seconds).
+
+Given the frequency of tachyarrhythmic episodes, the patient was referred to the electrophysiology department for evaluation of ablation. In view of the echocardiographic findings, cardiac magnetic resonance imaging (MRI) was requested in order to try to identify the aetiology of the dilatation of the right chambers.
+Electrophysiology consultation:
+It was decided to request an electrophysiological study and ablation in the face of symptomatic and recurrent TPSV of one year's evolution, despite beta-blockers and which were suppressed by vagal manoeuvres.
+
+COMPLEMENTARY TESTS
+Electrocardiogram (ECG) in the emergency department: supraventricular rhythm at 120 bpm, one sinus beat and in the rest with variable RP-PR intervals and RP > 70ms. Narrow QRS with 60o axis. ST-segment depression of 1mm from V3-V5.
+Baseline ECG: sinus rhythm. No data of pre-excitation. No other specific alterations.
+CBC: glucose 108 mg/dl, urea 48 mg/dl, creatinine 0.86 mg/dl, sodium 137 mEq/l, potassium 4.2 mEq/l, TSH 1.83 mU/l, haemoglobin 16.6 g/dl, leucocytes 9250/microL, platelets 331000/microL.
+24-hour Holter: 24-hour electrocardiographic recording. Sinus rhythm throughout the tracing, mean HR 85 bpm. No significant block or pauses. Streak of non-sustained supraventricular tachycardia.
+TTE: right ventricular dilatation (RV/LV ratio 1.1, baseline DTD 55 mm and RV outflow tract 43 mm), with preserved systolic function. Mild functional tricuspid regurgitation. Estimated PSAP of 26 mmHg (+PVC). Non-dilated left ventricle with normal wall thickness. Preserved systolic function. Prolonged relaxation. No significant valvulopathies.
+TTE with agitated saline: injection of agitated saline without bubbles passing into the left cavities either at baseline or after the Valsalva manoeuvre. The existence of intra- or extracardiac shunt is unlikely.
+
+MRI of the heart:
+Conclusion: LV of normal size and systolic function. No areas of hypertrophy, no compaction or late enhancement. Dilated RV with normal systolic function. Extracardiac left-right shunt due to anomalous venous drainage from the right superior pulmonary vein to the superior vena cava with Qp/Qs of 1.7.
+
+Most relevant data:
+RV: dilated, without morphological alterations, with VTD of 125 ml/m2 (range 55-105 ml/m2) and STV of 51 ml/m2 (range 15-43 ml/m2). EF 59%, cardiac output 7.9 l/min and stroke volume/beat 149 ml. Normal contractility.
+Anomalous venous drainage from the right superior pulmonary vein to the superior vena cava.
+LA: area 21 cm2, slightly dilated. RA: area of 29 cm2, slightly dilated. Flow quantification in aortic root (phase contrast velocity coding). Anterograde volume 80 ml and retrograde volume 4.7 ml. Regurgitation fraction: 5.9%.
+Quantification of flow in main pulmonary artery (phase contrast velocity coding). Anterograde volume 139 ml and retrograde volume 4 ml. Regurgitation fraction: 3%.
+Qp/Qs: 1.7.
+
+CLINICAL EVOLUTION
+In the time until the next consultation, an electrophysiological study was carried out with the finding of focal atrial tachycardia, with greater precocities at the level of the superior vena cava to the RA. Radiofrequency ablation of the focus was performed and proved effective.
+As can be seen in the results of the cardiac MRI, an anomalous pulmonary venous connection (APVC) was found due to drainage of the right superior pulmonary vein to the superior vena cava, which caused a volume overload of the right cavities that explained the dilatation, with a significant left-right conshunt (Qp/Qs 1.7). No evidence of other associated defects.
+After ablation, the episodes of supraventricular tachycardia ceased and the patient was in very good functional class.
+At this time, according to the adult congenital heart disease guidelines (AHA/ACC 2018), we find that surgical repair in our patient has a grade IIA recommendation: "surgery may be useful for partial anomalous connections of both left and right pulmonary veins, in asymptomatic adults with RV volume overload, left-right shunt large enough to cause physiological sequelae (e.g., QP/QS > or = 1.7), and in those with a left-right shunt large enough to cause physiological sequelae (e.g., QP/QS > or = 1.7), and in those with a left-right shunt large enough to cause physiological sequelae (e.g., QP/QS > or = 1.7)". QP/QS >or= 1.5), in the presence of pulmonary pressures that are 50% lower than systemic pressures and pulmonary resistances less than one third of systemic pressures".
+It was decided to refer the patient to the adult congenital heart disease clinic where the need to request a right heart catheterisation to complete the haemodynamic study will be assessed before referring to cardiac surgery for repair.
+
+DIAGNOSIS
+Anomalous pulmonary venous connection: drainage from right superior pulmonary vein to superior vena cava.
+Significant left-right shunt with right ventricular volume overload. Normal RV systolic function.
+Focal atrial tachycardia. Radiofrequency ablation effective.

@@ -1,0 +1,23 @@
+T20	FARMACO 715 724	enalapril
+T21	FARMACO 731 748	hidroclorotiazida
+T22	FARMACO 785 797	sitagliptina
+T23	FARMACO 2337 2359	ácido acetilsalicílico
+T24	FARMACO 2361 2364	AAS
+T25	FARMACO 2442 2469	enalapril/hidroclorotiazida
+T26	FARMACO 2507 2517	bisoprolol
+T27	FARMACO 2549 2562	atorvastatina
+T28	FARMACO 2598 2607	omeprazol
+T29	FARMACO 2649 2662	canaglifozina
+T30	FARMACO 2696 2719	sitagliptina/metformina
+T31	FARMACO 4003 4015	sitagliptina
+T32	FARMACO 4064 4087	sitagliptina/metformina
+T33	FARMACO 4108 4121	canaglifozina
+T34	FARMACO 4281 4291	metformina
+T37	FARMACO 5380 5391	semaglutida
+T38	FARMACO 5794 5802	insulina
+T39	FARMACO 6433 6443	metformina
+T57	FARMACO 4627 4679	inhibidores del cotransportador sodio-glucosa tipo 2
+T8	FARMACO 2399 2409	ticagrelor
+T36	FARMACO 4681 4687	iSGLT2
+T88	FARMACO 5051 5057	iSGLT2
+T18	FARMACO 6485 6491	iSGLT2

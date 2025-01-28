@@ -1,0 +1,46 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+Personal history
+74-year-old woman.
+Cardiovascular risk factors: hypertension. Dyslipidaemia.
+Cardiological history: paroxysmal atrial fibrillation since 2002, on treatment with sintrom. She continued treatment with amiodarone until 2010, withdrawing due to interstitial pneumopathy. In relation to an episode of rapid atrial fibrillation, he required admission for acute pulmonary oedema and electrical cardioversion in 2002. The echocardiogram prior to admission showed moderate rheumatic mitral regurgitation, normal LVEF and severe dilatation of the left atrium.
+Other antecedents: episode of DVT and PTE in 2002 (in the same admission in which atrial fibrillation was diagnosed). Breast carcinoma (surgery and radiotherapy in 2006). Interstitial pneumopathy probably related to amiodarone.
+Baseline situation: IABVD. NYHA CF II.
+Usual treatment: enalapril 5 mg/12h, torasemide 5 mg/d, acenocoumarol according to guideline (10.5 mg/week), atorvastatin 20 mg/d.
+
+Current illness
+The patient was admitted for an episode of atrial fibrillation at 200 bpm, treated with beta-blockers (producing spontaneous cardioversion). A transesophageal echocardiogram was performed, showing a thrombus in the left atrial appendage. On admission she had an INR of 3.5, but with great variability in previous controls, several below 2. On discharge, treatment with atenolol and enoxaparin was prescribed. Two months later, the patient returned to the ED for common atrial flutter, with resolution of the atrial appendage thrombus. It was then decided to ablate the tricuspid cavus isthmus. On a subsequent admission he developed left atrial flutter and treatment was started with atenolol, digoxin and acenocoumarol was reintroduced at this time.
+She again came to the emergency department for abdominal pain, with an INR of 4.4 and a CT scan showed an abdominal wall haematoma with active bleeding from the epigastric artery.
+
+Physical examination
+General condition, skin pallor, sweating, tachypnoea. BP 135/75, HR 132, Sat 94 %. Afebrile. No jugular ingurgitation. Cardiopulmonary auscultation normal. Painful abdomen on palpation in the left flank, with haematoma in the wall at the level of the lower abdomen. No peritoneal irritation. Extremities with signs of chronic venous insufficiency, minimal malleolar oedema, symmetrical pulses
+
+COMPLEMENTARY TESTS
+During admission for rapid atrial fibrillation:
+CBC: Hb 14.5, leukocytes 7200, platelets 283,000, INR 3.5, Cr 0.8, Na 141, K 4.9,
+PCR negative. We reviewed previous INR with very fluctuating values.
+ECG: atrial fibrillation at 170 bpm, narrow QRS, normal axis, no evidence of enlargement or overload.
+Transesophageal echocardiogram: mobile thrombus in the left atrial appendage measuring 2.0 x 1.3 cm.
+Mitral valve without stenosis and with moderate insufficiency. Aneurysmal dilatation of the left atrium. Sclerocalcified aortic valve with mild insufficiency. Mild TR allowing an estimated PSAP of 50 mmHg. Preserved biventricular systolic function, without dilatation of cavities.
+During admission for atrial flutter:
+Transesophageal echocardiogram: no thrombus in the left atrial appendage except for spontaneous contrast. Degenerative organic mitral lesion causing moderate insufficiency. Moderate tricuspid insufficiency. Dilatation of the left atrium.
+MR Vmax: 583.3 cm/s, MR GP max: 136.1 mmHg, MR ERO: 0.22 cm2. MRI PISA radius: 0.74 cm.
+During admission for haematoma of the abdominal wall:
+Emergency ECG: atrial fibrillation alternating with left atrial flutter with cycle length of 380 msec and variable conduction (2:1 / 1:1).
+Emergency laboratory tests: Hb 10; Ht 32; leucocytes 6,600; neutrophils 80 %; platelets 192,000; INR 1.2; sodium 140; potassium 5.7; glycaemia 396; creatinine 0.9; urea 42.
+Abdominal CT scan: anterior abdominal wall haematoma, located in the left anterior rectus muscle, with heterogeneous attenuation, measuring 6 x 8 x 16 cm.
+Intravenous contrast extravasation is identified in the arterial phase, which increases in the venous phase, compatible with active arterial bleeding dependent on the left inferior epigastric artery.
+
+EVOLUTION
+The patient was admitted to the ICU. Anticoagulation was reversed with vitamin K and prothrombin complex (Octaplex), the bleeding point was embolised by the Interventional Radiology Service, and 2 red blood cell concentrates were transfused, with clinical and haemodynamic stabilisation.
+During admission, atrial fibrillation alternated with atypical flutter and, given the impossibility of frequency control, Cardiology was notified: the patient was transferred to the Coronary Unit and intravenous atenolol and digoxin were prescribed, but the patient presented new bouts of 200 bpm and symptomatic bradycardia. Anticoagulation was not given for the first two episodes. Subsequently, given the history of bleeding and the high thrombotic risk, a continuous infusion of sodium heparin was started. Once on the ward, apixaban was substituted, initially 2.5 mg every 12 hours, and then the dose was increased to 5 mg every 12 hours. The transesophageal echocardiogram was repeated, again confirming the absence of a thrombus in the atrial appendage.
+As for the management of atrial fibrillation and atrial flutter, considering the poor control with medical treatment, AV node ablation and DDDR pacemaker implantation were chosen, which was performed without complications. The patient evolved favourably and was discharged on treatment with apixaban 5 mg/12h, atenolol 50 mg/12h (as an antihypertensive), atorvastatin 20 mg/day, pantoprazole 40 mg/day and furosemide 40 mg/day.
+One year later, he presented severe mitral insufficiency with worsening functional class and it was decided to perform surgery to replace the mitral valve with a 27 mm Epic Mitral bioprosthesis, with surgical ligation of the left atrial appendage at the same time.
+
+DIAGNOSIS
+Paroxysmal atrial fibrillation. Common atrial flutter with ablation of the tricuspid caval isthmus. Left atrial flutter. Bradycardia-tachycardia syndrome.
+CHADS-VASc: 3 points. HAS-BLED: 4.
+Moderate rheumatic mitral insufficiency. Valve replacement with biological mitral prosthesis.
+Thrombus in left atrial appendage, resolved. Surgical ligation of the left atrial appendage.
+Spontaneous haematoma of the rectum due to bleeding from the left epigastric artery, in relation to anticoagulation with acenocoumarol, with significant anaemia. Embolisation of the left epigastric artery.
+AV node ablation. Implantation of DDDR pacemaker.

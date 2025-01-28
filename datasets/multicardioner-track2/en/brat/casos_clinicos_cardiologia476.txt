@@ -1,0 +1,28 @@
+HISTORY, CURRENT DISEASE AND PHYSICAL EXAMINATION
+The patient is a 61-year-old woman, a former smoker, recently diagnosed with LADA type 1 autoimmune diabetes mellitus, dyslipidaemic, with a history of spinocerebellar ataxia, who consulted the emergency department due to a non-productive cough and a feeling of dystrophy that had been evolving for days.
+She was haemodynamically stable, hypertensive (BP 189/114 mmHg), sinus tachycardia at 130 bpm, tachypneic with a respiratory rate of 30 rpm at rest, without tugging, and oxygen saturation of 94% with Ventimask 40%, flapping and afebrile. ECG with sinus rhythm without repolarisation alterations. The physical examination showed evidence of severe bronchospasm on respiratory auscultation and cardiac auscultation with rhythmic twists without murmurs. The rest of the patient had no pathological findings.
+
+COMPLEMENTARY TESTS
+Emergency ECG: sinus rhythm at 70 bpm, PR 140 ms, narrow QRS QTc 448 ms without repolarisation alterations. ICU ECG: sinus rhythm at 78 bpm, PR 140 ms, narrow QRS, QTc 579 ms diffuse symmetrical negative T waves.
+ED ABG: pH 7.18; PCO2 79.9 mmHg; PO2 142.3 mmHg; bicarbonate 29.6 mmol/l; BS 1.4; SaO2 98 %.
+Serial troponin I: 0.12- 1.45-2.51- 3.4- 2.8 ng/ml.
+Emergency blood tests: creatinine 0.73 mg/dl; urea 54 mg/dl; haemoglobin 13.2 g/dl; haematocrit 42.3 %; leucocytes 23,000/μl; CRP 2.4 mg/dl.
+Blood tests during admission to Cardiology: highlights: HbA1C 7.1 mg/dl, total cholesterol 172 mg/dl, HDL 49mg/dl, LDL 91.58 mg/dl. Normal thyroid profile; D-Dimer 571 ng/Ml.
+Chest X-ray in ICU: hilar thickening. Apical redistribution.
+Transthoracic echocardiography: LV appears normal in size, slightly increased wall thickness, hyperdynamic symmetrical contractility. Normal LVEF.
+LA of normal size. RV of normal size and function. RA of normal size. IVC of normal size with inspiratory collapse greater than 50%. No pericardial effusion. Aortic root of normal size. VAo trivalva, appears to open correctly. MV with thin leaflets, correct kinetics. Competent. No IT detected. PV visualised subcostal, appears to have normal echostructure and flow.
+LV findings of normal size and function. LA normal. RV of normal size and function. RA of normal size and function. No significant valvulopathies are appreciated by this study route. Signs of normal PVC. No pericardial effusion.
+Cardiac magnetic resonance: LV of normal size, normal walls, symmetrical contractility. Normal LVEF. LA normal size. RV of normal size and function. RA of normal size. No significant valvulopathies.
+Mild pericardial effusion. No evidence of oedema or abnormalities in gadolinium uptake.
+Catheterisation: right dominance. Coronary arteries without angiographic lesions with normal flow.
+
+
+EVOLUTION
+He progressed with progressive respiratory failure and hypertensive crisis, starting intravenous diuretic treatment, non-invasive mechanical ventilation, antibiotic treatment, bronchodilators and intravenous corticoids, and was admitted to the Intensive Care Unit, with early improvement and early withdrawal of ventilatory support. During his stay with early improvement and withdrawal of ventilatory support, an ECG with diffuse symmetrical T-negatives with elongated QTc and peak troponin 3.4 ng/ml was observed in this context. An echocardiogram was performed showing a slightly hypertrophic LV with preserved EF without clear segmentarism, and the patient was initially referred to STEMI Killip II and started on double antiplatelet therapy and anticoagulation. Cardiology was consulted, and given the possibility of type 2 AMI secondary to hypertensive crisis and bronchospasm in a patient with cardiovascular risk factors as opposed to type 1 AMI without clear alterations in the echocardiogram, the patient was referred to Cardiology and it was decided to perform coronary angiography, which showed no coronary lesions. In order to rule out other causes of myocardial necrosis without coronary lesions, cardiac magnetic resonance imaging was requested, which was compatible with normality.
+Since no evidence was found of transient global or segmental ventricular function impairment, it was decided to withdraw double antiplatelet therapy and the most likely diagnosis was type 2 myocardial infarction in the context of respiratory infection with severe bronchospasm.
+After several days of hospitalisation, she was discharged home without incident.
+
+DIAGNOSIS
+Respiratory infection with severe bronchospasm.
+Type 2 myocardial infarction.
+Absence of coronary lesions.

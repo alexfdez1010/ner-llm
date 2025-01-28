@@ -1,0 +1,34 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Obiettivo: l'interpretazione dell'ECG e del contesto clinico è fondamentale per la diagnosi e il successivo trattamento.
+Una donna primigravida di 31 anni e 33 settimane è stata trasferita al reparto di Cardiologia dell'Hospital Central de Asturias a causa di vertigini, palpitazioni e alterazioni elettrocardiografiche.
+AP: allergia al diclofenac e al naprossene. Lavora in un supermercato.
+Fattori di rischio cardiovascolare
+Nessuna abitudine tossica.
+Nessuna ipertensione, dislipidemia mista (attualmente dimessa dall'endocrinologo, trattata con simvastatina e fenofibrato, nessun follow-up).
+Diabete gestazionale trattato con insulina Lispro 25/75: 12 unità al mattino, 10 unità alla sera.
+Nessun precedente cardiologico.
+Steatosi epatica. Ernia del disco.
+Intervento di riduzione del seno.
+
+Malattia attuale
+La paziente si è recata presso il suo ospedale di riferimento a causa di vertigini che evolvono da 24 ore in relazione alla posizione eretta. I sintomi migliorano con il decubito. Nessun dolore toracico o dispnea. Occasionali episodi di palpitazioni. Il paziente ha riferito sintomi catarrali qualche giorno prima. L'ECG è stato eseguito e descritto come una tachicardia a QRS largo a 180 bpm. Sono state eseguite manovre vagali che si sono rivelate inefficaci e sono stati prescritti 6 e 12 mg di adenosina senza alcuna risposta, per cui il paziente è stato indirizzato al nostro centro. Non disponiamo dell'ECG basale del paziente. All'arrivo nel nostro centro, il paziente era asintomatico ed emodinamicamente stabile.
+
+Esame fisico
+Pressione arteriosa: 110/75 mmHg.
+FC: 188 bpm.
+O2 Sat: 98% senza ossigenoterapia. Cosciente, orientato, collaborativo. Normoidratazione e colorito normale.
+AP: murmure vescicolare conservato senza altri rumori sovrapposti.
+AC: suoni cardiaci ritmici con SS III/IV mitrale e S2 normale.
+Addome: 33 settimane di gravidanza. Cicatrice sul seno.
+MMII: nessun edema, nessun segno di TVP.
+
+
+ESAMI COMPLEMENTARI
+Emocromo: Hb 12,5 g/dl, MCV 82,6 fL, leucociti 12500 uL (formula normale), piastrine 239000 uL. Biochimica: glucosio 125 mg/dl, urea 17 mg/dl, creatinina 0,61 mg/dl, sodio 135 mg/dl, CK 56 U/L, troponina T 33 ng/L. Coagulazione: PT 87%, INR 1,09, fibrinogeno 686, D-dimero 1187 ng/ml. ECG ecocardiografia transtoracica: studio eseguito a 160 bpm. LV non dilatato, non ipertrofico, ipercontrattile, senza alterazioni della contrattilità regionale. LVEF conservata, nessuna dilatazione delle camere destre. Insufficienza mitralica moderata.
+
+EVOLUZIONE
+Ricovero nell'Unità di Terapia Cardiaca Avanzata per il monitoraggio e il trattamento. Sono state ripetute manovre vagali e adenosina 6 e 12 mg, entrambe senza successo. È stato prescritto atenololo 4 mg per via endovenosa, senza risposta, quindi è stata decisa la cardioversione elettrica (ECV). Il caso è stato discusso con i reparti di ginecologia e anestesiologia e sono state eseguite due ECV (100 e 200J) sotto sedazione materna con propofol e monitoraggio fetale, entrambe senza successo. Non è stata osservata alcuna sofferenza fetale in nessun momento. La paziente è rimasta sempre asintomatica ed emodinamicamente stabile. Il monitoraggio ha mostrato una tachicardia persistente a QRS largo (stessa morfologia dell'ECG di arrivo) a frequenze simili (170-190 bpm). Data la persistenza dell'aritmia, si è deciso di iniziare il trattamento con un'infusione di beta-bloccanti (labetalolo a 20 ml/h) e una fiala di digossina da 0,5 mg per via endovenosa. La frequenza della tachicardia è stata inizialmente ridotta a circa 150 bpm, con presenza progressivamente più frequente di battiti sinusali intervallati dall'aritmia, seguiti da trigemini (visualizzazione su registrazione telemetrica). Alcune ore dopo si è osservato un ritmo sinusale, con la persistenza di extrasistoli ventricolari isolate. A 12 ore dall'inizio della perfusione, dopo diverse ore in ritmo sinusale stabile, la perfusione di beta-bloccanti è stata interrotta e l'ECG del paziente era quello mostrato nella figura 2. Il paziente ha riferito solo sintomi di reflusso gastro-esofageo, per i quali è stata prescritta ranitindina orale se necessario. Dopo altre 8 ore di monitoraggio con ritmo sinusale persistente, la paziente è stata trasferita nel reparto di cardiologia e il TTE è stato ripetuto.
+La paziente è rimasta ricoverata per altre 48 ore e, dopo aver constatato l'assenza di complicanze ginecologiche e il mantenimento di un quadro asintomatico con un ECG in ritmo sinusale senza alterazioni, è stata decisa la dimissione con trattamento profilattico con metropololo in attesa di un consulto ambulatoriale con la sezione Aritmie del nostro centro. Dopo la valutazione ginecologica, non sono state rilevate complicazioni legate alla gravidanza, per cui il follow-up ambulatoriale è stato deciso come previsto.
+
+DIAGNOSI
+La diagnosi deve essere risolta dal concorrente attraverso l'interpretazione dell'ECG.

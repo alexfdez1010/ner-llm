@@ -1,0 +1,20 @@
+Historia clínica y enfermedad actual
+Hombre de 73 años que ingresa en el Servicio de Infecciosas por nuevo síndrome febril de 4 días de evolución, sin clínica focalizadora clara y con exploración física sin hallazgos significativos. No alergias medicamentosas conocidas. Exfumador importante. HTA en tratamiento farmacológico. Intervenido en 2008 de bypass femoropopliteo derecho con trombosis del bypass un año más tarde y síndrome febril autolimitado en relación a la trombosis. Anemia ferropénica y extirpación de varios pólipos colónicos en 2009.
+Tratamiento habitual: amlodipino, lisinopril/HCTZ, clopidogrel, ranitidina, hemovas. ECG al ingreso: ritmo sinusal a 45 lpm, PR 260 mseg, HBAI, BCRDHH, odas T negativas en III y aVF. Rx tórax al ingreso: sin alteraciones.
+Desde el servicio de urgencias se extraen hemocultivos, se pauta tratamiento con augmentine iv y se ingresa en el Servicio de Infecciosas. Durante su estancia en planta, tras la infusión de una dosis de augmentine iv el paciente refiere comenzar con prurito intenso en toda la superficie corporal con aparición de lesiones cutáneas exantemáticas, hipotensión arterial, opresión precordial y episodio de síncope al levantarse de la cama con recuperación espontánea en unos segundos.
+Se realiza nuevo ECG en ese momento que muestra BAV completo con elevación del ST de 4mm en cara inferior y descenso especular en I, aVL y V1-V4. Se inicia tratamiento con corticoides iv + polaramine iv + sueroterapia con lo que mejora la TA y el cuadro alérgico.
+Tras esta mejoría clínica se repite el ECG en el que desaparecen las alteraciones antes descritas volviendo a ser un ECG similar al del ingreso. Dadas las alteraciones del ECG y la presencia dolor torácico el paciente es trasladado al Servicio de Cardiología.
+
+Pruebas complementarias
+• Curva de marcadores de daño miocárdico: negativa.
+• Cateterismo cardiaco: muestra arterias coronarias sin lesiones significativas y ectasia de CD y DA media.
+• Holter ECG: RS estable con FC media baja. No EV. No pausas significativas.
+• Ecocardiografía TT: VI ligeramente dilatado con espesores parietales levemente aumentados y función sistólica global y segmentaria conservadas. Patrón diastólico de relajación alargada. VM esclerosa con IM leve. Válvula aórtica sin alteraciones. AI ligeramente dilatada. VD no dilatado, sin disfunción. IT leve con gradiente VD-AD de 30 mmHg y PSAP estimada de 40 mmHg. No derrame pericárdico.
+
+Evolución clínica
+Una vez superada la reacción alérgica el paciente queda asintomático y no vuelve a presentar episodios de dolor torácico. Tras el resultado de estas pruebas complementarias se interpretó el cuadro como vasoespasmo de arteria coronaria derecha secundario anafilaxia por la infusión de augmentine iv, ocasionando lo que se denomina angina alérgica o síndrome de Kounis. Se envió al paciente al Servicio de Alergias comprobando que presentaba alergia a: penicilina G, penicilina V, ampicilina y amoxicilina. El paciente evolucionó de forma favorable y fue dado de alta.  
+
+Diagnóstico
+• Angina alérgica-Sd Kounis
+• Vasoespasmo coronario secundario a anafilaxia
+• Reacción anafiláctica secundaria a la infusión de amoxicilina-clavulánico

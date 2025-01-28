@@ -1,0 +1,32 @@
+T48	FARMACO 670 679	enalapril
+T50	FARMACO 686 702	idroclorotiazide
+T52	FARMACO 736 747	sitagliptin
+T56	FARMACO 2345 2367	acido acetilsalicilico
+T1	FARMACO 2369 2372	ASA
+T73	FARMACO 2408 2418	ticagrelor
+T49	FARMACO 2452 2461	enalapril
+T57	FARMACO 2452 2478	enalapril/idroclorotiazide
+T51	FARMACO 2462 2478	idroclorotiazide
+T58	FARMACO 2517 2528	bisoprololo
+T59	FARMACO 2561 2574	atorvastatina
+T60	FARMACO 2606 2616	omeprazolo
+T61	FARMACO 2657 2669	canaglifozin
+T53	FARMACO 2704 2715	sitagliptin
+T63	FARMACO 2704 2726	sitagliptin/metformina
+T65	FARMACO 2716 2726	metformina
+T54	FARMACO 4083 4094	sitagliptin
+T55	FARMACO 4140 4151	sitagliptin
+T64	FARMACO 4140 4162	sitagliptin/metformina
+T66	FARMACO 4152 4162	metformina
+T62	FARMACO 4191 4203	canaglifozin
+T67	FARMACO 4372 4382	metformina
+T72	FARMACO 4713 4767	inibitori del cotrasportatore sodio-glucosio di tipo 2
+T74	FARMACO 4769 4775	iSGLT2
+T75	FARMACO 5117 5123	iSGLT2
+T70	FARMACO 5170 5178	insulina
+T2	FARMACO 5369 5430	agonista del recettore del peptide glucagone-simile di tipo 1
+T3	FARMACO 5432 5438	arGLP1
+T69	FARMACO 5487 5498	semaglutide
+T71	FARMACO 5898 5906	insulina
+T68	FARMACO 6613 6623	metformina
+T76	FARMACO 6667 6673	iSGLT2

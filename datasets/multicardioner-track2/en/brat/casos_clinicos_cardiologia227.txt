@@ -1,0 +1,39 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+No known allergic drug reactions. Active smoking.
+Morbid obesity with a body mass index (BMI) of 41.
+Diabetes mellitus treated with oral antidiabetics.
+Dyslipidaemia.
+Stage 3A chronic kidney disease.
+Chronic ischaemic heart disease: three-vessel lesion surgically revascularised in 1981, by endarterectomy and resection of endothelial membrane of left coronary ostium and saphenous bypass to anterior descending artery (LAD), with posterior occlusion of the bypass. Chronic total occlusion of the LAD since 2012. Several admissions for non-ST-segment elevation acute coronary syndrome (NSTEACS) since 2012, with multiple percutaneous revascularisations: left main coronary artery (LMCA), first marginal branch (MB), circumflex bifurcation (Cx)-first MB, right coronary artery (RCA).
+Usual treatment: acetylsalicylic acid (ASA) 100 mg daily, clopidogrel 75 mg daily, enalapril 5 mg every 12 hours, metoprolol 100 mg every 12 hours, amlodipine 5 mg every 12 hours, isosorbide mononitrate 40 mg daily, ranolazine 500 mg every 12 hours, furosemide 40 mg daily, atorvastatin 80 mg daily, empagliflozin/metformin 5/1000 mg every 12 hours, omeprazole 20 mg daily.
+
+Present illness
+A 72-year-old man with complex chronic ischaemic heart disease, with multiple revascularisations, came to the emergency department for an episode of oppressive central thoracic pain at rest lasting about 15 minutes, with partial relief after taking sublingual nitroglycerin, with residual discomfort remaining afterwards. During the previous two months she had presented episodes of chest pain with moderate exertion (climbing stairs), which resolved with rest or taking nitroglycerine, which is why ranolazine had been associated with her last visit.
+She denied other symptoms, such as dyspnoea, oedema of the lower limbs, palpitations or infectious symptoms.
+
+Physical examination
+Vital signs: blood pressure 182/132 mmHg. Heart rate 69 bpm. Oxygen saturation 98% basal.
+Good general condition. Conscious and oriented, cooperative, normohydrated and normoperfused.
+Cardiac auscultation: rhythmic, no murmurs. Pulmonary auscultation: preserved vesicular murmur, no extra sounds. Abdomen: hydro-aerial sounds preserved, soft and depressible, not painful on palpation. Lower limbs: no oedema, distal pulses preserved.
+
+COMPLEMENTARY TESTS
+Laboratory tests on admission: glucose 83 mg/dl, creatinine 1.46 mg/dl, glomerular filtration rate 47.30 ml/min, sodium 139 mmol/l, potassium 3.9 mmol/l, chlorine 106 mmol/l, C-reactive protein 2.6 mg/l (0 - 5), two troponin I determinations 0.0 ng/ml, natriuretic peptide (BNP) 83.8 pg/ml.
+Analysis of cardiovascular risk factors: HbA1c 7.6%, LDL 73 mg/dl, triglycerides 110 mg/dl.
+Electrocardiogram (ECG) with chest pain: sinus rhythm at 78 bpm. ST-segment elevation downward sloping by 1 mm, especially in precordial leads, I and aVL.
+Pain-free ECG (image 2): sinus rhythm at 72 bpm. Correction of dynamic repolarisation changes.
+Coronary angiography: LMCA with a mild calcified plaque in the distal segment of 30%. Calcified LAD with total occlusion in the middle segment, with retrograde distal collateral filling. Cx of good calibre and development with a stent in the middle segment permeable and without restenosis, and another stent in the first marginal branch permeable and without restenosis. Distally in the obtuse marginal branch he has a significant lesion of 70%, evaluated with pressure guide and intracoronary adenosine with a result of 0.77 (significant). Dominant DC of good calibre and development with a moderate plaque in the proximal segment of 60% evaluated with pressure guide and intracoronary adenosine with FFR = 0.87 (not significant), distally with diffuse irregularities and an under-occlusion of the PL branch of chronic aspect.
+Echocardiogram: non-dilated left ventricle with preserved ejection fraction, without gross alterations of segmental contractility. Mild left ventricular hypertrophy. Right ventricle of normal size and function. No significant valvulopathies.
+
+CLINICAL EVOLUTION
+The patient was admitted to cardiology and, given the progression of his symptoms over the last few months despite the adjustment of anti-anginal medication, it was decided to perform coronary angiography, where a significant lesion was found in the first MVO (assessed by pressure guidewire), which was revascularised with a drug-eluting stent. During hospitalisation, the patient had no new episodes of chest pain and was discharged early.
+Despite being a patient widely known to cardiology, cardiovascular risk factors are not controlled, so special emphasis is placed on this aspect.
+It seems particularly important to optimise glycaemic control and, given that the patient is obese, it is decided to associate a GLP1 agonist (semaglutide 0.25 mg once a week), with a target HbA1c of less than 7%. In addition, ezetimibe was added to his treatment, with a target LDL of less than 55 mg/dl.
+At the follow-up consultation after completion of the cardiac rehabilitation programme, the patient had achieved weight loss of 8 kg, smoking cessation and better laboratory control (HbA1c 6.8%, LDL 54 mg/dl).
+
+DIAGNOSIS
+NSTEACS type unstable angina. Significant lesion of 70% in the first OM assessed by pressure guidewire (FFR 0.77) revascularised percutaneously by means of a pharmacoactive destenting implant.
+Chronic total occlusion of the middle anterior descending artery.
+Complex chronic ischaemic heart disease, revascularised in a mixed form on multiple occasions.
+Type 2 diabetes mellitus with poor glycaemic control.

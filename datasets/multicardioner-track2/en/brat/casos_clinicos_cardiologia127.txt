@@ -1,0 +1,26 @@
+A 17-year-old federated sportsman who consulted the Emergency Department on up to six occasions for episodes of fainting, leading to loss of consciousness in the middle of a sporting competition, over the last two months.
+
+History, current illness and physical examination
+Personal history: 17-year-old male. Federated sportsman. No known drug allergies. No cardiovascular risk factors. No toxic habits. No personal or family history of heart disease.
+Present illness: A 17-year-old federated sportsman who consulted the Emergency Department on up to 6 occasions for episodes of fainting, leading to loss of consciousness in the middle of a sporting competition, over the last two months. Given the presence of repeated syncopes related to exercise, the patient was admitted to Cardiology for screening for a cardiac cause. He also reported other episodes of dizziness and syncope with a vaso-vagal profile (syncope preceded by abdominal discomfort, nausea and dizziness lasting seconds). As additional symptoms, she reported occasional headache that increased with coughing and exertion. She did not report dyspnoea, chest pain or palpitations. Given the normality of the initial complementary tests performed (ECG, chest X-ray, echocardiogram, ECG monitoring and ergometry), the patient was discharged with the diagnosis of syncope of probable neuromediated origin, and it was recommended that the maximum heart rate should not be exceeded during physical exertion. Two weeks later, he was admitted again after presenting three syncopal episodes, one of them just after performing an exercise stress test, where he reached 197 bpm. It is reported that at the end of the test, once the recovery period was over and the ECG electrodes had been disconnected, he presented syncope with very severe hypotension and without giving time for electrocardiographic monitoring. The second episode occurred after playing a football match preceded by abdominal discomfort, and finally the third episode occurred after a shower, taking about 4 minutes to recover, according to the family. To complete the study, a cardiac MRI was performed to rule out arrhythmogenic dysplasia, a flecainide test to simulate a Brugada type II ECG pattern, a tilt table test and a neurological study given the prolonged duration of the last episode. The cardiac MRI was reported as normal, as well as the flecainide test and the electroencephalogram.
+
+Neurology was consulted and a cranial MRI was requested, which gave the diagnosis as the cerebellar tonsils were found to be descended with rectification of the floor of the fourth ventricle. The patient was discharged with the diagnosis of Chiari malformation type I.
+
+Physical examination: BP 90/50. HR 60lpm. Conscious and oriented. Normohydrated and normoperfused. Eupneic at rest. ACR: rhythmic tones without audible murmurs. VCM without superimposed noises. Abdomen: soft, depressible, without masses or megaliths. Not painful on palpation. Lower extremities with preserved and symmetrical pulses.
+
+Complementary tests
+- Complementary examination.
+- ECG: Sinus rhythm at 75 bpm and incomplete right bundle branch block with J point elevation in right precordial leads and normal QTc interval.
+- Chest X-ray: Cardiothoracic index within normal limits. No congestive signs.
+- Echocardiogram: Left ventricle not dilated or hypertrophic, with global and segmental systolic function within normal limits. Left atrium not dilated. Normal right chambers. Normal left ventricular filling pattern. No valvular or pericardial abnormalities. Normal aortic root and ascending aorta. Atrial septum and interventricular septum intact. No gradient in descending aorta.
+- Ergometry: Stopped due to twin contracture, at 78% of submaximal heart rate. No clinical or electrical events of interest were observed.
+- Flecainide test: Stopped after 7 minutes of infusion (2/3 dose of the drug) as the patient felt dizziness and without any electrocardiographic alteration suspicious of Brugada syndrome.
+- Cardiac MRI: non-dilated right ventricle, with a free wall of normal thickness, without irregularities or images of pseudoaneurysm. There was no fatty infiltration of the wall. There was no RV dysfunction, with volumes and EF within normal limits.
+- Electroencephalogram: baseline cerebral bioelectrical activity was normal. No focal or generalised paroxysmal abnormalities were observed.
+- Cerebral MRI: Cerebellar tonsil descent with rectification of the floor of the fourth ventricle. No signs of hydrocephalus or intracerebral lesions were observed. The diagnosis of Arnold-Chiari is confirmed.
+
+Clinical evolution
+The patient was referred to neurosurgery and underwent a suboccipital craniectomy and laminectomy of C1. The patient has progressively resumed sporting activity without new syncopal episodes.
+
+Diagnosis
+Recurrent syncope in a patient with Chiari malformation type I.

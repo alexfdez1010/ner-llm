@@ -1,0 +1,42 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+PERSONAL HISTORY
+The patient is a 52-year-old female active smoker with chronic non-revascularised ischaemic heart disease and preserved ventricular function. She made her debut in October 2018 as a non-ST-elevation Killip I acute myocardial infarction, diagnosed by coronary angiography as spontaneous coronary artery dissection with haematoma image in the posterior interventricular branch.
+She progressed favourably with medical treatment and was discharged without complications after 72 hours of hospitalisation. She had no family history of early sudden death or cardiovascular disease. She is being treated with acetylsalicylic acid 100 mg at lunch, bisoprolol 2.5 mg at breakfast, atorvastatin 40 mg at dinner and omeprazole 20 mg at breakfast.
+
+CURRENT ILLNESS
+Consultation in November 2018 for sudden syncope while standing upright, with spontaneous recovery and no periepisodic symptoms (palpitations, dizziness, sweating, nausea, etc.).
+She denied recurrent angina in the previous days, changes in medication or other intercurrent events (infections, etc.) that could have acted as triggers.
+On arrival at the emergency department, telemetry monitoring was started pending the results of the complementary tests and assessment by the on-call cardiologist. In the meantime, he presented with polymorphic ventricular tachycardia that rapidly degenerated into ventricular fibrillation. ROSC (return of spontaneous circulation) after single electrical cardioversion (ECV) and iv amiodarone embolisation. Subsequently, she presented with a new rhythm of ventricular fibrillation (VF) with ROSC after two ECV. She remained asymptomatic and was admitted to the acute cardiac care unit (ACCU) for monitoring. With no new arrhythmic events or heart failure since admission, she was transferred to the hospital ward.
+
+PHYSICAL EXAMINATION
+Blood pressure (BP) 165/80 mmHg, heart rate (HR) 85 bpm.
+Good general appearance. Capillary refill < 2 seconds, no sweating. Eupneic in decubitus.
+No jugular ingurgitation.
+Rhythmic cardiac auscultation without murmurs.
+Pulmonary auscultation with preserved vesicular murmur, without added sounds.
+No oedema in the lower limbs or signs of deep vein thrombosis.
+
+COMPLEMENTARY TESTS
+Electrocardiogram (ECG) on admission: sinus rhythm at 80 bpm with normopositioned narrow QRS and adequate progression in precordial leads. Small non-significant q wave in III and aVF. No repolarisation alterations.
+ECG on discharge: no relevant changes.
+Urgent blood tests on arrival: haemoglobin 14 g/dl (volumes and indices within normal ranges), platelets 275000/ul, leukocytes 9520/ul with normal formula. INR 1.02, APTT 27.2 sec. Glucose 99 mg/dl. Uric acid 4.8 mg/dl. ALT 28 U/l. GGT 34 U/l. Alkaline phosphatase 110 U/l. Creatinine 0.57 mg/dl (estimated glomerular filtration rate > 60 ml/min/1.73 m2), sodium 144 mmol/l, potassium 4.1 mmol/l, C-reactive protein 1.7 mg/dl.
+Peak myocardial damage markers on serialisation: ultrasensitive troponin I 392 ng/l (normal < 15.6), CK 186 U/l (normal < 192).
+Blood tests with profiles: glycosylated haemoglobin 6.3%, TSH 1.55 mIU/l, total cholesterol 125 mg/dl, LDL cholesterol 51 mg/dl, HDL cholesterol 47 mg/dl, triglycerides 134 mg/dl.
+Transthoracic echocardiogram: biventricular function preserved without valvulopathy or cavity dilatation. Akinesia of the middle and distal segments of the inferior face and hypokinesia of the middle and distal segments of the inferolateral face.
+Cardiac MRI with contrast: non-dilated left ventricle, with normal thickness. Focal dyskinesia of the mediodistal segment of the inferior face. Akinesia of the inferior distal segment and inferolateral segment respecting the strictly apical segment. Rest of segmental contraction without alterations.
+Normal global systolic function (LVEF 55%). T2-STIR sequences show a very localised hyperintense transmural area in the distal segment of the inferior face with subendocardial extension towards the apex. Perfusion in first subendocardial perfusion defect affecting the distal thirds of the inferior septum, inferior and inferolateral aspect. T2 MAPs at septal level: 49 ms (within normal limits), at distal lateral level: 72 ms (value above normal, suggestive of acute inflammation) T1 MAPs native septal value: 1013 +/- 30 ms (within normal limits). Late enhancement: an area of enhancement compatible with an ischaemic eschar occupying approximately 70% of the myocardial thickness is observed in the distal segment of the inferior and inferolateral face respecting the apex. Minimal subendocardial focus in the distal lateral aspect.
+Right ventricle neither dilated nor hypertrophic. No alterations of segmental contraction. Normal systolic function. No late enhancement foci. Left and right atrium of normal size. Mitral valve with thin leaflets, normal opening.
+Trivalve aortic valve, functionally normal. Sinus aorta not dilated.
+Coronary angiography: short left main coronary artery, without lesions.
+Anterior descending artery of good development and calibre, without lesions. Circumflex artery of good development and calibre, without lesions. Right coronary artery: vessel of good development and calibre, with an image suggestive of haematoma in the posterior interventricular branch, with a vessel distal to the lesion of small calibre and short course. Study superimposed on the one performed 10 days earlier.
+
+CLINICAL EVOLUTION
+The patient evolved favourably, with no new arrhythmic events after transfer to the hospital ward. Beta-blockers were prescribed up to the maximum tolerated dose, as well as other antihypertensive drugs.
+Coronary angiography showed persistence of haematoma in PVI and only discrete acute myocardial damage in the context of ventricular arrhythmias and resuscitation. Therefore, ruling out the existence of new dissections, progression of the previous one or other potential triggers of ventricular fibrillation, it was decided to implant a subcutaneous ICD for secondary prevention in a patient with ischaemic heart disease with preserved ventricular function and recovered sudden death. After this, the patient was discharged
+
+DIAGNOSIS
+In-hospital cardiac arrest recovered in ventricular fibrillation.
+Chronic ischaemic heart disease: inferior infarction. Spontaneous PVI coronary artery dissection.
+Preserved systolic ventricular function.
+Subcutaneous ICD implantation.

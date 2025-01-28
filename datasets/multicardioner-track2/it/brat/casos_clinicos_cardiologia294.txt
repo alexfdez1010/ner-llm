@@ -1,0 +1,36 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Maschio, 35 anni. Originario del Marocco.
+Nessuna allergia nota ai farmaci.
+Fumatore di 1 pacchetto al giorno (AI 20 anni di pacchetti). Non beve.
+Nessun fattore di rischio cardiovascolare. Nessuna storia di malattia cardiaca nota.
+Unico ricovero in Spagna per polmonite al lobo medio nel 2015. Ha riferito di aver effettuato pochi controlli medici nel suo Paese in precedenza. Storia di febbre reumatica a 10 anni.
+Nessun intervento chirurgico. Nessun trattamento abituale.
+
+Malattia attuale
+È giunta al pronto soccorso con tosse con espettorazione giallastra e sensazione di distrofia, con un'evoluzione di 2 giorni.
+Riferiva inoltre una dispnea di media intensità con insorgenza progressiva negli ultimi 6-12 mesi, per la quale non si era consultata.
+
+Esame fisico
+Pressione arteriosa (BP) 108/72 mmHg, frequenza cardiaca (HR) 96 bpm, temperatura 36,3 oC, saturazione di ossigeno 96% al basale.
+Cosciente e orientata in tutte e 3 le sfere. Buone condizioni generali. Buono stato di idratazione e perfusione. Eupnea a riposo.
+Testa e collo: nessuna IY.
+Auscultazione cardiaca: ritmica a 110 bpm, scatto di apertura del focus mitralico e rimbombo diastolico.
+Auscultazione polmonare: murmure vescicolare conservato.
+Addome: morbido, depressibile, non dolente alla palpazione. Assenza di masse o megaliti. Nessun segno di irritazione peritoneale.
+Arti inferiori: nessun edema.
+
+
+ESAMI COMPLEMENTARI
+Elettrocardiogramma (ECG): ritmo sinusale a 70 bpm. Onda P di 0,12 msec, bimodale, prevalentemente negativa in V1, compatibile con crescita del LA. PR normale. QRS stretto con asse a 90o. Nessuna alterazione acuta della ripolarizzazione.
+Radiografia del torace: proiezioni PA/LAT: silhouette cardiomediastinica normale. Pattern di ridistribuzione vascolare. Fluido in cistole. Nessuna condensazione polmonare o versamento pleurico.
+Esami del sangue: glucosio 85 mg/dl, urea 44 mg/dl, creatinina 0,99 mg/dl, sodio 137 mEq/l, potassio 4,4 mEq/l, albumina 4,5 g/dl, proteina C-reattiva (CRP) 1,75 mg/l, emoglobina 13,7 g/dl, piastrine 157 *10^3/ƒÊL, leucociti 17,2 *10^3/ƒÊL, neutrofili 87,1% 43.
+Ecocardiogramma: ventricolo sinistro (LV) non dilatato o ipertrofico con funzione conservata. Modello diastolico di rilassamento allungato. Lieve disfunzione del ventricolo destro (RV). LA da moderatamente a gravemente dilatato. Valvola mitrale e apparato subvalvolare gravemente calcificati e ispessiti, prevalentemente a livello dei bordi liberi, con fusione bicommissurale, con conseguente stenosi grave (area calcolata con il tempo di emi-pressione 0,94 cm2 e con la planimetria 0,76 cm, con gradiente massimo di 17 mmHg e gradiente medio di 13 mmHg). Scala Wilkins 13-14 punti (mobilità 3 punti: la valvola continua a muoversi in avanti in diastole; ispessimento subvalvolare 3-4 punti: ispessimento esteso che si estende al terzo distale delle corde - fino ai muscoli papillari; ispessimento valvolare 4 punti: si estende sull'intero foglietto [8-10 mm]; calcificazione 3 punti: la lucentezza raggiunge le aree centrali dei foglietti). Nessuna insufficienza mitralica. Valvola aortica calcificata con lieve rigurgito. Lieve insufficienza tricuspidale. Pressione polmonare normale. Assenza di versamento pericardico.
+
+EVOLUZIONE CLINICA
+Al paziente, che inizialmente si era recato al pronto soccorso con sintomi compatibili con un'infezione respiratoria, è stata infine diagnosticata una stenosi mitralica grave sulla base dei risultati esplorativi ed ecocardiografici.
+Date le manifestazioni cliniche e la gravità della malattia valvolare, si è deciso di programmare un intervento chirurgico. Prima, il paziente è stato sottoposto a un'angio-TC che ha escluso la presenza di lesioni coronariche. Dato il punteggio di 13-14 sulla scala Wilkins, si è deciso di sostituire la valvola con una protesi meccanica, che è stata eseguita senza incidenti. Il paziente è stato dimesso a casa.
+
+DIAGNOSI
+Grave stenosi mitralica di origine reumatica. Storia di febbre reumatica nell'infanzia. Infezione delle vie respiratorie.

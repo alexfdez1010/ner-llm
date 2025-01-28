@@ -1,0 +1,46 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi personale
+Donna di 74 anni.
+Fattori di rischio cardiovascolare: ipertensione. Dislipidemia.
+Anamnesi cardiologica: fibrillazione atriale parossistica dal 2002, in trattamento con sintrom. Ha continuato il trattamento con amiodarone fino al 2010, interrompendolo a causa di una pneumopatia interstiziale. In relazione a un episodio di fibrillazione atriale rapida, nel 2002 ha richiesto il ricovero per edema polmonare acuto e cardioversione elettrica. L'ecocardiogramma precedente al ricovero mostrava un moderato rigurgito mitralico reumatico, una LVEF normale e una grave dilatazione dell'atrio sinistro.
+Altri antecedenti: episodio di TVP e PTE nel 2002 (nello stesso ricovero in cui è stata diagnosticata la fibrillazione atriale). Carcinoma mammario (intervento chirurgico e radioterapia nel 2006). Pneumopatia interstiziale probabilmente correlata all'amiodarone.
+Situazione di partenza: IABVD. NYHA CF II.
+Trattamento abituale: enalapril 5 mg/12h, torasemide 5 mg/d, acenocumarolo secondo le linee guida (10,5 mg/settimana), atorvastatina 20 mg/d.
+
+Malattia attuale
+Il paziente è stato ricoverato per un episodio di fibrillazione atriale a 200 bpm, trattato con beta-bloccanti (che ha prodotto una cardioversione spontanea). È stato eseguito un ecocardiogramma transesofageo che ha mostrato un trombo nell'appendice atriale sinistra. Al momento del ricovero aveva un INR di 3,5, ma con grande variabilità nei controlli precedenti, diversi inferiori a 2. Alla dimissione è stato prescritto un trattamento con atenololo ed enoxaparina. Due mesi dopo, la paziente è tornata al pronto soccorso per un flutter atriale comune, con risoluzione del trombo dell'appendice atriale. Si è quindi deciso di ablare l'istmo della cavità tricuspide. In un successivo ricovero ha sviluppato un flutter atriale sinistro e il trattamento è stato iniziato con atenololo, digossina e acenocumarolo è stato reintrodotto in questo periodo.
+La donna si è nuovamente recata al pronto soccorso per dolori addominali, con un INR di 4,4 e una TC ha mostrato un ematoma della parete addominale con emorragia attiva dall'arteria epigastrica.
+
+Esame fisico
+Stato generale, pallore cutaneo, sudorazione, tachipnea. Pressione 135/75, FC 132, saturazione 94%. Febbrile. Non c'è ingorgo giugulare. Auscultazione cardiopolmonare normale. Addome dolente alla palpazione nel fianco sinistro, con ematoma nella parete a livello del basso ventre. Nessuna irritazione peritoneale. Estremità con segni di insufficienza venosa cronica, minimo edema malleolare, pulsazioni simmetriche
+
+ESAMI COMPLEMENTARI
+Durante il ricovero per fibrillazione atriale rapida:
+Emocromo: Hb 14,5, leucociti 7200, piastrine 283.000, INR 3,5, Cr 0,8, Na 141, K 4,9,
+PCR negativa. Abbiamo rivisto l'INR precedente con valori molto fluttuanti.
+ECG: fibrillazione atriale a 170 bpm, QRS stretto, asse normale, nessuna evidenza di ingrossamento o sovraccarico.
+Ecocardiogramma transesofageo: trombo mobile nell'appendice atriale sinistra di 2,0 x 1,3 cm.
+Valvola mitrale senza stenosi e con insufficienza moderata. Dilatazione aneurismatica dell'atrio sinistro. Valvola aortica sclerocalizzata con lieve insufficienza. TR lieve che consente una PSAP stimata di 50 mmHg. Funzione sistolica biventricolare conservata, senza dilatazione delle cavità.
+Durante il ricovero per flutter atriale:
+Ecocardiogramma transesofageo: nessun trombo nell'appendice atriale sinistra, tranne che per contrasto spontaneo. Lesione organica degenerativa della mitrale che causa una moderata insufficienza. Insufficienza tricuspidale moderata. Dilatazione dell'atrio sinistro.
+MR Vmax: 583,3 cm/s, MR GP max: 136,1 mmHg, MR ERO: 0,22 cm2. Raggio PISA RM: 0,74 cm.
+Durante il ricovero per ematoma della parete addominale:
+ECG d'urgenza: fibrillazione atriale alternata a flutter atriale sinistro con lunghezza del ciclo di 380 msec e conduzione variabile (2:1 / 1:1).
+Esami di laboratorio d'urgenza: Hb 10; Ht 32; leucociti 6.600; neutrofili 80%; piastrine 192.000; INR 1,2; sodio 140; potassio 5,7; glicemia 396; creatinina 0,9; urea 42.
+TC addominale: ematoma della parete addominale anteriore, localizzato nel muscolo retto anteriore sinistro, con attenuazione eterogenea, di 6 x 8 x 16 cm.
+Si identifica uno stravaso di contrasto endovenoso nella fase arteriosa, che aumenta nella fase venosa, compatibile con un'emorragia arteriosa attiva dipendente dall'arteria epigastrica inferiore sinistra.
+
+EVOLUZIONE
+Il paziente è stato ricoverato in terapia intensiva. L'anticoagulazione è stata invertita con vitamina K e complesso protrombinico (Octaplex), il punto di sanguinamento è stato embolizzato dal Servizio di Radiologia Interventistica e sono stati trasfusi 2 concentrati di globuli rossi, con stabilizzazione clinica ed emodinamica.
+Durante il ricovero, la fibrillazione atriale si è alternata a un flutter atipico e, data l'impossibilità di controllare la frequenza, è stata avvisata la Cardiologia: il paziente è stato trasferito nell'Unità Coronarica e sono stati prescritti atenololo e digossina per via endovenosa, ma il paziente ha presentato nuovi attacchi di 200 bpm e bradicardia sintomatica. L'anticoagulazione non è stata somministrata per i primi due episodi. Successivamente, data l'anamnesi di emorragia e l'elevato rischio trombotico, è stata avviata un'infusione continua di eparina sodica. Una volta in reparto, è stato sostituito con apixaban, inizialmente 2,5 mg ogni 12 ore, poi la dose è stata aumentata a 5 mg ogni 12 ore. L'ecocardiogramma transesofageo è stato ripetuto, confermando nuovamente l'assenza di un trombo nell'appendice atriale.
+Per quanto riguarda la gestione della fibrillazione e del flutter atriale, considerato lo scarso controllo con la terapia medica, si è optato per l'ablazione del nodo AV e l'impianto di pacemaker DDDR, che sono stati eseguiti senza complicazioni. Il paziente ha avuto un'evoluzione favorevole ed è stato dimesso in trattamento con apixaban 5 mg/12h, atenololo 50 mg/12h (come antipertensivo), atorvastatina 20 mg/die, pantoprazolo 40 mg/die e furosemide 40 mg/die.
+Un anno dopo, ha presentato una grave insufficienza mitralica con peggioramento della classe funzionale ed è stato deciso di eseguire un intervento chirurgico per sostituire la valvola mitrale con una bioprotesi Epic Mitral da 27 mm, con contestuale legatura chirurgica dell'appendice atriale sinistra.
+
+DIAGNOSI
+Fibrillazione atriale parossistica. Flutter atriale comune con ablazione dell'istmo cavale tricuspidale. Flutter atriale sinistro. Sindrome bradicardia-tachicardia.
+CHADS-VASc: 3 punti. HAS-BLED: 4.
+Insufficienza mitralica reumatica moderata. Sostituzione valvolare con protesi mitralica biologica.
+Trombo nell'appendice atriale sinistra, risolto. Legatura chirurgica dell'appendice atriale sinistra.
+Ematoma spontaneo del retto dovuto a emorragia dall'arteria epigastrica sinistra, in relazione all'anticoagulazione con acenocumarolo, con anemia significativa. Embolizzazione dell'arteria epigastrica sinistra.
+Ablazione del nodo AV. Impianto di pacemaker DDDR.

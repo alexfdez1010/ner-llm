@@ -1,0 +1,30 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Il paziente è un uomo di 68 anni con ipertensione, dislipidemia e obesità di grado 1 dell'Organizzazione Mondiale della Sanità (OMS). Il paziente soffre anche di diabete mellito di tipo 2, in trattamento con insulina in regime di bolo-basale (lantus 60 UI al giorno), ma con un controllo non ottimale (HbA1C 8,6%). Era un ex-fumatore da 3 anni con un indice P/A di 40.
+L'anamnesi comprendeva una cardiopatia ischemica cronica con coronaropatia a tre vasi rivascolarizzata in più occasioni.
+Aveva esordito nel 1998 con un infarto inferiore rivascolarizzato con un'angioplastica primaria all'arteria coronaria destra e, dopo un infarto miocardico acuto senza innalzamento del segmento ST (NSTEMI) nel marzo 2009, è stata eseguita una rivascolarizzazione percutanea con stent a rilascio di farmaco nelle arterie discendente anteriore (DA), coronaria destra nativa (CD) e circonflessa (Cx). In precedenza era stato scartato per un intervento di rivascolarizzazione a causa di letti vascolari distali insufficienti. Ha presentato nuovi episodi acuti nell'agosto 2011, nel luglio 2012 e nel gennaio 2013, con impianto di stent in lesioni de novo e in un'occasione su una restenosi dello stent precedentemente impiantato nella Cx prossimale. Nel periodo intercorrente, il paziente presentava un'angina da sforzo stabile, la cui soglia si era lentamente e progressivamente accorciata nonostante il trattamento antianginoso fino a raggiungere la classe funzionale CCS III/IV.
+Inoltre, il suo coinvolgimento micro e macrovascolare metadiabetico comprendeva polineuropatia, malattia renale cronica di stadio IIIb e ischemia cronica degli arti inferiori con occlusione femoropoplitea bilaterale trattata per via percutanea in diverse occasioni. Infine, in relazione alla BPCO moderata con fenotipo esacerbante e alla grave SAHS, era in trattamento con inalatori, ossigeno domiciliare 16 ore al giorno e CPAP notturna.
+È stato ricoverato in Cardiologia dopo un intervento chirurgico per l'amputazione della quarta e quinta articolazione metatarso-falangea sinistra nel contesto del trattamento completo del piede diabetico. Nonostante l'evoluzione post-operatoria favorevole, il paziente presentava episodi quotidiani di angina a riposo scatenati dal dolore al piede, scarsamente controllati nonostante l'uso di oppioidi.
+L'esame fisico ha rivelato buone condizioni generali e il paziente era eupneico.
+I segni vitali erano: pressione arteriosa 120/60 mmHg, FC 70 bpm, SatO2 con GN a 2 bpm 92%. L'auscultazione cardiopolmonare era irrilevante, non c'era edema agli arti inferiori e il 1° e il 2° dito sinistro presentavano un'eritrocianosi conclamata, insieme a lesioni necrotiche all'apice. Anche il 3° dito presentava una lesione necrotica di 0,5 cm di diametro.
+
+ESAMI COMPLEMENTARI
+ECG: ritmo sinusale a 60 bpm, BAV di 1° grado, QRS 110 ms con HBAI, rettifica ST in I, aVL, V5-V6, simile ai precedenti. Nessun cambiamento con e senza dolore.
+Esami del sangue: Hb 10 g/dl, leucociti 16.900, piastrine e coagulazione normali, creatinina 1,65 mg/dl, ioni normali, troponina T sierica US 26 - 25 (normale < 10 ng/l), CK e CK-MB normali.
+Ecocardiogramma: ventricolo sinistro non dilatato, con spessore della parete leggermente aumentato. Acinesia della faccia basale inferiore e dei segmenti basale e mediale della faccia laterale inferiore. Ipocinesia del setto inferiore. Frazione di eiezione al limite inferiore della norma (52%). Pattern di riempimento transmitralico pseudonormalizzato. Ventricolo destro non dilatato, con funzione sistolica globale normale. Nessuna cardiopatia valvolare significativa. Vena cava inferiore non dilatata con collasso inspiratorio fisiologico. Assenza di versamento pericardico. Radice aortica non dilatata.
+Angiografia coronarica: stent brevettati precedentemente impiantati. Coronaropatia multivessuale con letti distali poveri, calibro sottile e malattia diffusa, non sussidiaria di una nuova rivascolarizzazione.
+
+EVOLUZIONE
+È stato effettuato il trattamento locale del piede diabetico, è stato completato il ciclo di antibiotici e sono stati titolati i farmaci antianginosi; il paziente ha tollerato bisoprololo 10 mg/die, amlodipina 10 mg/die, Uniket retard 50 mg/die, ranolazina 750 mg/12 h e ivabradina 5 mg/12 h.
+Dal punto di vista analgesico, tollera paracetamolo c/8 h, metamizolo 1c/8 h, cerotti di fentanil 75 mcg/72 h, morfina di soccorso e NTG sublinguale.
+Nonostante un certo miglioramento sintomatico, continuava a presentare un'angina da sforzo lieve molto limitante, con picchi di dolore agli arti inferiori difficili da controllare, che richiedevano l'uso costante di farmaci di soccorso.
+Dopo aver escluso la possibilità di un'ulteriore rivascolarizzazione, è stata scelta la terapia di stimolazione midollare con due elettrodi epidurali posteriori a livello cervico-toracico (C7-T4) e lombare (T9-L2), rispettivamente per l'angina e il piede diabetico con ischemia cronica. Con questi dispositivi, un generatore è stato posizionato in una tasca sottocutanea a livello del fianco sinistro.
+L'evoluzione successiva all'impianto è stata favorevole, consentendo un'attività quotidiana senza angina alla dimissione, evitando attività fisiche intense e sforzi eccessivi.
+
+DIAGNOSI
+Cardiopatia ischemica cronica con rivascolarizzazione mista percutanea e chirurgica della malattia a tre vasi. Malattia diffusa dei vasi terziari.
+Angina refrattaria.
+Ischemia cronica degli arti inferiori. Piede diabetico.
+Malattia renale cronica.
+BPCO con ossigeno domiciliare cronico. SAHS con CPAP.
+Diabete insulino-dipendente di tipo 2. IPERTENSIONE. Dislipidemia. Obesità.
+Nell'evoluzione a lungo termine ha avuto un'angina stabile in FC II-III/IV della CCS e la necessità di un'amputazione infrapoplitea sinistra un anno dopo.

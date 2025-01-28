@@ -1,0 +1,40 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Anamnesi personale
+Paziente maschio di 28 anni.
+Nessuna reazione allergica nota ai farmaci.
+Nessun fattore di rischio cardiovascolare. Nessun consumo noto di sostanze tossiche.
+Anamnesi cardiologica: nessuna malattia cardiaca nota.
+Nessuna altra patologia rilevante.
+Anamnesi familiare: lo zio paterno è stato colpito da tumore del colon-retto all'età di 58 anni. Nessun'altra storia familiare di interesse.
+Non assume regolarmente terapie.
+
+Malattia attuale
+Il paziente si è presentato al pronto soccorso per un'improvvisa perdita di coscienza mentre guardava una partita di calcio. Non ha presentato dolore toracico prima o dopo l'episodio, ma ha riferito una brusca insorgenza di palpitazioni ad alta frequenza nei momenti precedenti l'evento. Ha riferito un malessere generale precedente, ma ha negato febbre o sintomi infettivi. Ha negato l'uso di farmaci o sostanze tossiche.
+Gli osservatori non hanno descritto tremori o segni attribuibili a focalità neurologiche. Il paziente ha conservato la memoria dei momenti successivi alla ripresa di coscienza.
+Durante il trasferimento al servizio medico extraospedaliero, ha presentato un nuovo episodio di perdita di coscienza; in quel momento la registrazione elettrocardiografica ha mostrato un ritmo compatibile con la fibrillazione ventricolare, che si è risolto dopo 2 shock a 100 J, ripristinando il ritmo sinusale.
+
+Esame fisico
+Temperatura 36o C; pressione arteriosa 159/83 mmHg; frequenza cardiaca 86 bpm; saturazione di O2 97% senza apporti. Nessun segno di tachipnea a riposo. Esame neurologico senza alterazioni. L'auscultazione cardiaca era ritmica, senza soffi e l'auscultazione polmonare senza suoni patologici. L'esame addominale non mostrava organomegalia palpabile, il reflusso epatogiugulare era negativo. Gli arti inferiori erano privi di edema e non vi erano segni di trombosi venosa profonda. Le pulsazioni erano forti e simmetriche.
+
+ESAMI COMPLEMENTARI
+Esami di laboratorio in ED: leucociti 8300 /ml, emoglobina 15,3 g/dl; piastrine 235000 u/l. Nessuna alterazione della coagulazione; glucosio basale 108 mg/dl; urea 43 mg/dl; creatinina 0,67 mg/dl; velocità di filtrazione glomerulare stimata (MDRD-4) 97 ml/min/1,73 m2; bilirubina totale 0,6 mg/dl; GOT 22 UI/l; CPK 107 UI/l; Na 136 mmol/l; potassio 4,4 mmol/l; calcio corretto 9,5 mg/dl; magnesio 2 mg/dl; tossine/droghe d'abuso nelle urine: negativo.
+Elettrocardiogramma (ECG) extraospedaliero durante la perdita di coscienza: ritmo di fibrillazione ventricolare evidenziato durante il monitoraggio extraospedaliero.
+ECG di superficie a 12 derivazioni al basale: ritmo sinusale senza pre-eccitazione o blocco di conduzione atrioventricolare (AV). QRS con morfologia di tipo Ic-ved di Brugada. Si osserva una morfologia di blocco di branca destro con complesso "rsR", che prosegue con un ST discendente che attraversa la linea isoelettrica per proseguire con una T negativa. L'intervallo QT corretto è normale.
+L'intervallo QT corretto è normale. Quando il posizionamento elettrostatico viene spostato verso l'alto di uno spazio intercostale, il pattern diventa più evidente.
+Ecocardiogramma transtoracico urgente: funzione sistolica conservata, senza alterazioni della contrattilità segmentale. Camere non dilatate né ipertrofiche. Valvola aortica tricuspide senza valvulopatie degne di nota. Valvola mitrale normalmente funzionante. Non sono state osservate altre valvulopatie significative. Assenza di versamento pericardico. Vena cava inferiore non dilatata, con adeguata collassabilità inspiratoria. Conclusione: studio nella norma
+Risonanza magnetica cardiaca (RM): studio RM con sequenze anatomiche sul piano assiale potenziate in T1 e T2, sequenze cine in asse corto, quattro camere e tratto di efflusso del ventricolo destro (RV) e, infine, late enhancement in asse corto e quattro camere. Valutazione anatomica: cavità né ipertrofiche né dilatate, nei limiti della norma: atrio sinistro 58 x 20 mm; atrio destro 52 x 46 mm; ventricolo sinistro 55 x 98 mm; ventricolo destro 42 x 88 mm. Setto interventricolare di 9 mm con parete libera di 7 mm. Parete ventricolare destra di 3 mm. Non sono state osservate alterazioni della contrattilità. Non si nota edema nelle sequenze T2. Non è stato riscontrato alcun miglioramento tardivo dopo la somministrazione di gadolinio. Non c'è stato versamento pericardico. Nello studio funzionale sono stati rilevati i seguenti parametri: frazione di eiezione ventricolare sinistra 58,8%; volume di ictus 104,3 ml; gittata cardiaca 5,5 l/min; volume end-diastolico 177,5 ml; volume end-sistolico 73,2 ml. Conclusione: studio senza reperti patologici. Studio non suggestivo di cardiomiopatia strutturale (video 1).
+Studio genetico: pannello delle canalopatie. Mutazione missenso in geSnCN5. Sequenza NM_198056. Mutazione nucleotidica G298S.
+
+
+
+EVOLUZIONE CLINICA
+Il paziente è stato ricoverato nel reparto di cardiologia per lo studio della cardiopatia sottostante e per il monitoraggio intensivo con l'opzione della defibrillazione.
+È stato eseguito uno studio morfologico con ecocardiografia transtoracica e risonanza magnetica cardiaca (CMR) (video 1). Dopo aver completato uno studio che escludeva altre patologie cardiache e dopo che l'ECG di superficie di uno dei controlli giornalieri ha mostrato un pattern di Brugada spontaneo di tipo 1 (pinna di squalo), al paziente è stata diagnosticata la sindrome di Brugada ed è stato indicato l'impianto di un defibrillatore cardioverter impiantabile (ICD) per la prevenzione secondaria. Trattandosi del primo evento noto, sono state formulate raccomandazioni igienico-dietetiche e sullo stile di vita, ma non è stato indicato alcun ulteriore trattamento.
+Durante il follow-up, con revisioni trimestrali del dispositivo, sono state rilevate extrasistoli ventricolari asintomatiche a bassa densità ed è stato iniziato un trattamento beta-bloccante con carvedilolo 6,25 mg al giorno. È stato eseguito uno studio genetico per la consulenza familiare (che presentava una mutazione missense nel gene SCN5) e la valutazione clinica della famiglia, in cui il padre è risultato portatore della mutazione, sebbene con un ECG di superficie anodino e un test di provocazione negativo. La madre presentava un quadro elettrocardiografico di tipo 2, sebbene il test di provocazione e lo studio genetico fossero negativi.
+Al successivo follow-up, a 7 mesi, la donna ha presentato un nuovo episodio sincopale con appropriata dimissione del dispositivo per la presenza di fibrillazione ventricolare (VF) con ciclo di 180 ms apparentemente innescata da extrasistole ventricolari con morfologia del tratto di efflusso del ventricolo destro. È stato eseguito un nuovo studio morfologico, che è risultato anodino, sono stati esclusi precipitanti esogeni (farmaci, tossine, alterazioni metaboliche, ecc.) ed è stato proposto di iniziare il trattamento con chinidina, che il paziente ha rifiutato. La dose di carvedilolo è stata aumentata a 12,5 mg al giorno.
+Il follow-up ambulatoriale è proseguito quando, dopo 7 mesi, ha presentato un altro episodio con 2 shock dovuti a fibrillazione ventricolare con caratteristiche simili a quelle precedentemente descritte. È stato quindi iniziato un trattamento con chinidina alla dose di 200 mg ogni 6 ore.
+Dopo 13 mesi di trattamento con chinidina, il paziente non ha avuto nuovi shock o eventi durante il follow-up. Non si sono verificati effetti avversi legati al trattamento farmacologico.
+
+DIAGNOSI
+Sindrome di Brugada con pattern spontaneo di tipo I e mutazione patologica. Fibrillazione ventricolare ricorrente.
+Portatore di defibrillatore automatico impiantabile in prevenzione secondaria. Assenza di cardiopatia strutturale negli studi morfologici.

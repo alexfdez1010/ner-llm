@@ -1,0 +1,44 @@
+A 58-year-old male patient, a high-intensity sportsman, with an electrocardiogram (ECG) compatible with left ventricular hypertrophy and cardiac magnetic resonance imaging (MRI) suggestive of athlete's heart. Subsequent follow-up in the arrhythmia unit following an episode of flutter, with persistence of the electrocardiographic alterations described.
+
+HISTORY, CURRENT DISEASE AND PHYSICAL EXAMINATION
+
+History
+No family history of heart disease or early sudden death.
+Active high-intensity sportsman (cyclist, cycling about 100 km per day).
+Allergy to acetylsalicylic acid.
+Ex-smoker of half a pack/day until 4 years ago. Non-drinker.
+High blood pressure (HBP) under treatment with good control as usual. No known diabetes mellitus (DM) or dyslipidaemia (DLP).
+Admission to cardiology in February 2016 due to chest pain with atypical characteristics for ischaemic heart disease associated with hypertensive crisis, ECG with negative inferolateral T findings and echocardiogram with preserved LVEF, without segmental alterations of contractility and concentric ventricular hypertrophy (IVS 15 mm, PIL 15 mm), without intraventricular dynamic gradient. Ergometry was performed with negative results for myocardial ischaemia and ventricular arrhythmias. Cardiac MRI was requested on discharge to complete the study, which was performed at another centre due to lack of availability at our centre, with the finding of maximum thickness at the level of the basal septum of 12 mm (upper limit of normality), with the rest of the segments with preserved thicknesses and without late enhancement, classifying it as an athlete's heart.
+Episode of palpitations in May 2018, ECG in the emergency department compatible with paroxysmal counterclockwise atrial flutter. Programmed electrical cardioversion was performed after anticoagulation for 3 weeks, and the patient went into sinus rhythm. In September 2018, cavotricuspid isthmus ablation (CTI) was performed with the CARTO system without the use of scopy.
+Subsequent follow-up in the arrhythmia unit showed that the patient remained asymptomatic and in sinus rhythm, with persistent negative inferolateral T-segments and concentric hypertrophy on serial echocardiograms. The patient was instructed to cease high-intensity exercise for further re-evaluation. No surgical interventions of interest.
+
+Usual treatment:
+Ramipril 2.5 mg one tablet at breakfast.
+
+Current illness
+The patient was reviewed at the arrhythmia clinic after having stopped all physical exercise for the last 8 months. The patient remains asymptomatic, with no new episodes of palpitations. He denied exertional dyspnoea, syncope or other symptoms.
+An ECG was performed in consultation, with persistence of left ventricular hypertrophy criteria together with deep and asymmetrical negative T in precordial leads and inferior face. An echocardiogram was performed, with the finding of mild-moderate concentric hypertrophy of its walls (IVS 13 mm, LIP 11 mm) but with the presence at the apical level of a greater myocardial thickness of about 15-16 mm, with systolic closure in "ace of spades" morphology with slight hypokinesia of the most apical segments. No SAM or intraventricular gradient was observed.
+Given the electrocardiographic and echocardiographic findings after stopping exercise, despite the patient having a cardiac MRI 3 years earlier compatible with athlete's heart and without findings compatible with hypertrophic cardiomyopathy, it was decided to request a new cardiac MRI to complete the study.
+
+Physical examination
+Acceptable general condition. Eupneic at rest. O2 saturation 98% without oxygen therapy. Blood pressure 142/83. Heart rate 55 bpm.
+Cardiac auscultation: rhythmic, at a good frequency. No audible murmurs at baseline or after Valsalva manoeuvre. Bladder murmur preserved, without pathological noises added. Lower limbs: no oedema or signs of deep vein thrombosis (DVT). Distal pulses preserved and symmetrical.
+
+COMPLEMENTARY TESTS
+Cardiac MRI (February/2016): left ventricle (LV) not dilated, with preserved global and segmental mobility. EF measured with the Simpson method of 72%. Maximum basal septal thickness of 12 mm, with the rest of the segments with preserved thicknesses. The myocardial mass is 107 g, indexed at 61.43 g/m . The right ventricle is normal. No abnormalities were observed in the late enhancement sequence.
+
+Electrocardiogram (June/2019): sinus bradycardia at 50 bpm, 30o axis, PR 224 ms,
+Narrow QRS with criteria of left ventricular hypertrophy by Sokolow criteria, biphasic T in V1-V2, negative in I, II, III, aVF and deep and asymmetric negative in V3-V6, with ST rectification in these leads, QTc 428 ms.
+Echocardiogram (June/2019): non-dilated left ventricle with mild concentric hypertrophy of its walls (IVS 13.5 mm, LIP 11.5 mm), a greater myocardial thickness is seen at the apical level, about 15-16 mm, with systolic closure in "ace of spades" morphology with slight hypokinesia of the most apical segments, so it could not be ruled out that it is an apical hypertrophic cardiomyopathy with little myocardial involvement.
+
+Biauricular dilatation. Mitral with mild insufficiency, without SAM. Mild aortic insufficiency due to slight dilatation of the aortic root. Rest of valves without alterations. Preserved LV systolic function with LVEF 65-70%. LV diastolic and RV systolic function unaltered.
+
+Cardiac MRI (June/2019): non-dilated left ventricle with hypertrophy only at the apical level, mainly of the lower apical segments and the true apex with thicknesses between 12-13 mm and maximum thickness in the lower apical segment reaching 15 mm. In cine sequences in the vertical long axis plane, the left ventricle shows the typical "ace of spades" morphology. The EF measured with the Simpson method is 60%. Myocardial mass 93 g, indexed by body surface area of 54 g/m. Right ventricle without alterations. In the first-pass perfusion sequence, no basal perfusion defects. Late enhancement/viability sequence shows no fibrosis or necrosis.
+
+CLINICAL EVOLUTION
+The patient underwent a new outpatient cardiac MRI at our centre, with the finding of a non-dilated left ventricle with hypertrophy only at the apical level, mainly of the lower apical segments and the true apex with thicknesses of between 12-13 mm, with the lower apical segment reaching 15 mm and the left ventricle presenting the typical "ace of spades" morphology in cine 2C. The EF measured with the Simpson method is 60%. The late enhancement/viability sequence showed no fibrosis or necrosis.
+The patient subsequently visited the clinic to collect the results and reported to be completely asymptomatic. The nature of the disease and its hereditary nature were explained to the patient, and it was decided, given the low diagnostic yield of the genetic study in the apical variant of hypertrophic cardiomyopathy (HCM) and that the patient had no children and only one sibling, to continue the family study by echocardiography and/or cardiac MRI if this was inconclusive. Subsequent follow-up in the arrhythmia unit with 24-hour Holter monitoring is indicated.
+
+DIAGNOSIS
+Non-obstructive apical hypertrophic cardiomyopathy. No fibrosis by cardiac MRI. HCM-SCD Score 0.99%.
+Paroxysmal counterclockwise atrial flutter. Effective CTI ablation without the use of scopy.

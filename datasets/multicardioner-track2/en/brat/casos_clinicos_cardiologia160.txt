@@ -1,0 +1,21 @@
+Medical history and current illness
+51-year-old male. Cardiovascular risk factors: former smoking, hypertension since 1998, type 2 diabetes mellitus treated with oral antidiabetics. Anaplastic T-cell lymphoma in 2007 treated with chemotherapy, radiotherapy and BEAM-conditioned autotransplantation, currently in complete remission. Refractory myelodysplastic cytopenia syndrome with multilineage dysplasia and complex karyotype treated with azacitidine as a bridge to bone marrow transplant. Idiopathic thrombopenic purpura. No known allergies. Cardiological check-up in 2006 with normal ECG, echocardiogram and stress test. He usually reports being asymptomatic cardiovascular.
+Patient presented to the Emergency Department for 3 days with fever of up to 38.3oC, asthenia, general malaise and general aches and pains. Also, on the day of consultation, he had started with oppressive retrosternal pain of increasing intensity, radiating to the back, shoulders and jaw, which increased in intensity with deep inspiration and supine decubitus, with accompanying malaise and dyspnoea and BP levels of 70/40 mmHg.
+Physical examination was normal, except for hypoventilation in both lung bases.
+
+Complementary tests
+- ECG: sinus tachycardia with mild diffuse ST-segment elevation slightly higher than the previous one and non-specific repolarisation alterations.
+- Laboratory tests showed an increase in infectious-inflammatory parameters (CRP 32; procalcitonin 10); macrocytic anaemia, plateletopenia and leukopenia. Slight increase in myocardial damage markers: CPK 210; CPK MB 19 and troponin T 0.62. Acute renal failure (Cr 2.1) with preserved diuresis (GFR 36 mL/min). Acid-base balance and the rest of the laboratory tests were normal.
+- Urgent Doppler echocardiogram: global and segmental contractility alterations, pericardial effusion and acute pathology were ruled out.
+- Chest CT scan: ruled out the existence of acute aortic pathology, pulmonary thromboembolism or significant infectious process.
+
+
+Clinical evolution
+During his admission, broad-spectrum antibiotics and antifungals were administered empirically, without microbiological isolation in blood cultures, urine cultures and sputum cultures. Viral serologies were also negative. Monitoring of myocardial damage markers was performed, with maximum troponin T of 1.59, CPK of 279 and CPK of 43 four days after admission, with progressive decrease and normalisation at discharge. ProBNP was determined and reached a maximum of 8319 pg/mL 5 days after admission.
+In the absence of an infectious focus, a transesophageal echocardiogram was performed 5 days later, showing borderline left ventricular function (LVEF: 0.45-0.50), with no images suggestive of endocarditis or other significant findings. Treatment was started with corticoids, beta-blockers, ACE inhibitors and diuretics with clinical and analytical improvement, with borderline systolic function persisting in the echocardiogram at discharge. Seen in consultation ten days later, he reported being asymptomatic cardiovascular. He underwent a control electrocardiogram in which the aforementioned alterations persisted, an echocardiogram in which a dilated left ventricle with borderline systolic function was observed, without pericardial effusion or alterations in contractility, and a blood test in which slight thrombopenia and leukopenia persisted, with normal infectious-inflammatory parameters.
+The following day, an MRI of the heart was performed with adenosine stress, showing signs compatible with acute myopericarditis and borderline systolic function, without inducing myocardial ischaemia. The same treatment was maintained and the patient was scheduled for a follow-up appointment one month later.  
+
+Diagnosis
+- Septic shock with an unfiltered focus
+- Acute myopericarditis
+- Myelodysplastic syndrome refractory cytopenia type

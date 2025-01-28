@@ -1,0 +1,33 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+Personal history
+Steinert's myotonic dystrophy.
+Works in a car parts factory.
+Intervened 8 years earlier for OS type ASD by minimally invasive surgery (modified Heart Port type right mini-thoracotomy). Postoperative course without apparent complications.
+
+Present illness
+A 45-year-old woman presented to the emergency department with dyspnoea on exertion of about 5 years' duration (NYHA functional class I-II/IV), progressing to minimal exertion (NYHA III/IV) with the appearance of cyanosis in recent months.
+
+Physical examination
+Weight 50 kg, height 1.60 m. Body mass index (BMI) 19.5 kg/m .
+Blood pressure (BP) 104/82 mmHg. Heart rate (HR) 80 bpm. O2 saturation (SatO2) 75% on room air.
+Eupneic at rest, without orthopnoea or platypnoea. Generalised cyanosis.
+Jugular venous pressure normal. Negative hepatojugular reflex. Absence of acropacities. Cardiac auscultation: regular, no murmurs. Pulmonary auscultation: preserved vesicular murmur. No aggregates. Extremities: No oedema. Peripheral pulses preserved and symmetrical.
+
+COMPLEMENTARY TESTS
+Electrocardiogram (ECG): sinus rhythm at 93 bpm. PR 120 ms. QRS 60 ms. QTc 398ms. No repolarisation alterations.
+CBC: haemoglobin 20 g/dl, haematocrit 62%, platelets 144,000 /μl, leukocytes 7400/μl. Erythropoietin 7.71 mlU/ml (2.59-18.5). International normalised ratio (INR) 1.05. Basal glycaemia 82 mg/dl. Urea 36 mg/dl, creatinine 0.81 mg/dl, sodium 137 mEq/l, potassium 4.1 mEq/l.
+Arterial blood gases: pH 7.42, pCO2 35 mmHg, pO2 41 mmHg, HCO3 22.7, SpO2 70.7%, lactate 1 mmol/l.
+Chest X-ray: cardiomediastinal silhouette centred. Cardiothoracic index (CTI) less than 0.5. Translucent lung fields without pleural effusion or condensation.
+Transthoracic and transesophageal echocardiogram: transesophageal examination (without sedation due to baseline hypoxaemia): atrial septal defect without significant residual shunt (minimal shunt at the level of the pericardial patch without any functional repercussions). Left ventricle with preserved diameters, volumes and global systolic function. No alterations in segmental contractility were observed. No significant valvulopathies. Left ventricular diastolic pattern within normality. Right ventricle of normal diameters with preserved global systolic function. Mild tricuspid insufficiency allowing PAPs 20-25 mmHg to be quantified. Normal inferior vena cava. Sinus rhythm. Injection of gelafundin shows no bubble passage to left cavities when administered in both upper limbs.
+Angio-CT: no evidence of repletion defects in main, lobar, segmental or sub-segmental pulmonary arteries suggestive of pulmonary thromboembolism (PTE). No signs of pulmonary hypertension or pulmonary infarcts. No pulmonary nodules or pulmonary consolidations are evident. No pleural or pericardial effusion. No bone lesions suggestive of malignancy. No other relevant findings by this technique.
+Ventilation/perfusion scintigraphy: scintigraphic study with no perfusion or ventilation defects.
+Spirometry: discrete pulmonary restriction, with normal diffusion.
+Cardiac magnetic resonance: left ventricle (LV) with small volumes (LVOT 38 ml/m, STV 13 ml/m, LVMI 35 g/m) without significant hypertrophy of its walls or alterations of segmental contractility at rest and with preserved global systolic function (GSF) (LVEF 66%). Non-dilated right ventricle (RV) (RVOT 14 ml/m, STV 5 ml/m) with preserved global systolic function (LVEF 62%). Aorta and great vessels of normal diameter and morphology. Atria of normal dimensions. QP/QS (1.4/4.1)= 0.34, indicative of right left shunt. Gadoteric acid (0.15 mM/kg) was administered for 3D vascular study: aorta and pulmonary trunk with normal diameters and morphology. Abnormal systemic drainage is observed with drainage of the inferior vena cava into the left atrium (LA). Normal pulmonary vein drainage. Necrosis and viability study: absence of myocardial LGE suggestive of necrosis/fibrosis. Conclusion: anomalous systemic drainage with inferior vena cava draining into the LA with QP/QS of 0.34 (indicative of left right shunt) with LV and RV volumes and preserved GSF.
+
+CLINICAL EVOLUTION
+Given the clinical suspicion of a residual right-to-left shunt, transthoracic echocardiography (TTE) and transesophageal echocardiography (TEE) were initially requested to try to confirm the diagnosis. Both studies demonstrated normal biventricular function without associated pulmonary hypertension. Contrast was administered through both upper limbs with no evidence of bubble passage to the left cavities. Continuing with the diagnostic process, a pulmonary CT scan and a ventilation/perfusion scan were performed, both with normal results. However, given the high clinical suspicion, it was decided to conclude the study with a cardiac magnetic resonance (CMR) in which an anomalous drainage of the inferior vena cava (IVC) to the left atrium was observed.
+In view of these findings, an anatomical correction of the anomalous IVC drainage was performed. During the operation, a repaired atrial septal defect (ASD) located in the lower portion of the atrial septum was observed, with a prominent Eustachian valve and an erroneous suture causing drainage of the IVC into the left atrium (LA). In the absence of postoperative complications, the patient was discharged and remained asymptomatic with normal arterial blood gases and echocardiography.
+
+DIAGNOSIS
+Anomalous drainage of the inferior vena cava in the left atrium after surgical repair of atrial septal defect.

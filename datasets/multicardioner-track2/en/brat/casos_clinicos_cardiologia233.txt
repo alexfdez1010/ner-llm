@@ -1,0 +1,52 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+
+Male, 73 years old.
+No general or cardiovascular family history of interest.
+No known drug allergies.
+No toxic habits.
+No known cardiovascular risk factors.
+Chronic hypokalaemia (previous analyses recorded in the computer system show previous values of around 3 mEq/l, possible renal tubulopathy). No history of renal colic, diarrhoea, liquorice intake or low potassium diet.
+Previous episodes of benign paroxysmal positional vertigo.
+Under dermatological control for lichen planus and psoriasis.
+Lumboarthrosis with L5-S1 disc disease.
+Usual treatment: omeprazole 20 mg: 1 tablet at breakfast.
+
+Present illness
+A 78-year-old man was admitted from the emergency department to the internal medicine department for painless swelling of the right knee for the last 1 month with no history of trauma and no additional inflammatory semiology. An anamnesis was carried out by apparatus and was anodyne, with no clinical manifestations of the cardiovascular system either at the present time or previously (no dyspnoea, angina, syncope, palpitations or congestive symptoms).
+
+Physical examination
+Patient conscious and oriented. Well perfused, hydrated and nourished. Eupneic at rest.
+Head and neck: no jugular engorgement. No palpable adenopathies. Oropharynx without alterations.
+Cardiac auscultation: rhythmic, no murmurs or extratonos.
+Pulmonary auscultation: preserved vesicular murmur.
+Abdomen: soft, depressible, not painful on palpation. No masses or megaliths were palpable.
+No signs of peritoneal irritation. Preserved hydro-aerial sounds.
+No oedema or signs of deep vein thrombosis (DVT). Peripheral venous insufficiency. Swelling of both knees, without skin erythema or local temperature increase. Mild pain on movement.
+
+COMPLEMENTARY TESTS
+ECG performed in the emergency department with magnesium 1.15 mg/dl and potassium 2.5 mg/dl: sinus rhythm at 80 beats per minute. Normal PR. Narrow QRS. ST segment elevation of 2 mm in V1-V2 with rectilinear morphology and crossing the baseline, continuing with a negative and symmetrical T wave. Normal QTc.
+Laboratory tests performed in the emergency department:
+Biochemistry: glucose 121 mg/dl, urea 46 mg/dl, creatinine 0.85 mg/dl, GPT 63 U/l, bilirubin 0.5 mg/dl, calcium 9.2 mg/dl, magnesium 1.15 mg/dl, albumin 4 g/dl, sodium 138 mEq/l, potassium 2.5 mEq/l, CRP 131 mg/l, CK 70 U/l, LDH 317 U/l.
+Venous blood gases (Fi02 21%): pH 7.48, pCO2 40 mmHg, pO2 48 mmHg, bicarbonate 30 mmol/l, base excess 5.8, lactate 1.7 mmol/l.
+Haemogram: haemoglobin 13.5 g/dl, platelets 252,000 per microlitre, 7,790 leukocytes per microlitre with 91% neutrophils and 5.4% lymphocytes.
+Haemostasis: aPTT 33 sec, prothrombin time 92%, INR 1.1, fibrinogen 652 mg/dl.
+Knee X-ray: bilateral condocalcinosis, more striking in the right knee.
+ECG performed with magnesium correction and potassium 3.1 mEq/l: sinus rhythm at 75 beats per minute. Normal PR. Narrow QRS. Negative T waves in V1-V2 with Rsr' morphology in V2. Normal QTc.
+ECG performed with magnesium and potassium correction: sinus rhythm at 80 beats per minute. Normal PR. Narrow QRS. No acute repolarisation alterations. Normal QTc.
+Transthoracic echocardiography: mild ventricular hypertrophy. Preserved LVEF.
+Flecainide test: after infusion of flecainide at a dose of 2 mg/kg, the patient develops a Brugada type 1 pattern.
+Genetic test for Brugada syndrome: negative.
+
+CLINICAL COURSE
+The gonalgia was treated with non-steroidal anti-inflammatory drugs (NSAIDs) with suspicion of a pseudogout crisis due to probable chondrocalcinosis, with complete resolution of the symptoms within several days.
+In view of the ECG findings described above, the ionic alterations were corrected and the ECG pattern evolved as shown in the images.
+The patient remained completely asymptomatic from the cardiovascular point of view, and was discharged with subsequent controls in outpatient electrophysiology consultations, with suspicion of Brugada pattern phenocopy in the context of ionic alterations.
+A flecainide test was performed on an outpatient basis with intravenous administration of this drug at a dose of 2 mg/kg in 10 minutes, obtaining a Brugada type 1 pattern. He remained in the hospital for several hours with telemetry without observing arrhythmic events. Subsequently, echocardiography was performed without showing notable alterations (preserved LVEF, without significant valvular heart disease). A genetic study of p channelopathies/myocardiopathy was performed, which was negative.
+The patient has remained asymptomatic in his 73 years of life from the cardiovascular point of view, with no notable family history or sudden deaths. An echocardiogram was also performed without showing any notable alterations (preserved LVEF, no significant valvular heart disease). Therefore, what initially appeared to be only a Brugada pattern phenocopy turned out to be true Brugada syndrome.
+He was informed of the current process and of the prohibited drugs, prohibition of alcohol and the rapid treatment of fever with antipyretics, which is also reflected in his history. At present, she has also started the family study for the control of her relatives.
+
+DIAGNOSIS
+Brugada syndrome.
+No structural heart disease (preserved LVEF).

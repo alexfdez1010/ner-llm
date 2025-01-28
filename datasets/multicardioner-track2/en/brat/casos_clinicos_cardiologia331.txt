@@ -1,0 +1,49 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+PERSONAL HISTORY
+Intolerance to acetylsalicylic acid (ASA) due to duodenal ulcer.
+CVRF: smoking (20 pack-years).
+No known cardiological history.
+Other history: duodenal ulcer 10 years ago. No relevant surgical interventions.
+Usual treatment: not reported.
+
+CURRENT ILLNESS
+A 57-year-old male patient with the aforementioned history attended the emergency department of our centre due to oppressive central thoracic pain, of about 30 minutes' evolution, radiating to both upper limbs (MMSS) and neck, which started suddenly while at rest, with associated mild vegetative cramping. On arrival at the emergency department, the clinical manifestations persisted.
+She denied previous episodes of central thoracic pain. She reported an active daily life. No clinical signs of CHF or infectious disease in previous days.
+
+PHYSICAL EXAMINATION
+Blood pressure (BP) 140/60 mmHg (left arm), 90/50 mmHg (right arm), heart rate (HR) 65 bpm. SpO2 (FiO2 21%) 99%.
+Regular general condition, affected by severe pain. Eupneic at rest. Normal colour and normohydrated. Sweating.
+Patient conscious and oriented, cooperative and alert. No neurological focality.
+Cardiopulmonary auscultation: regular sounds, diastolic murmur predominantly in the left sternal border. Conservative vesicular murmur (VCM) with no added noise.
+Abdomen: soft and depressible, without mass or megaliths, not painful on palpation.
+MMSS: asymmetric radial pulses.
+Lower limbs: weak and symmetrical distal pulses.
+
+
+COMPLEMENTARY TESTS
+ECG on arrival at the ED: sinus rhythm at 95 bpm, PR 170 ms, narrow QRS, 0o axis, LVH criteria. No changes in serial ECG.
+Initial laboratory tests:
+CBC: red blood cells *4,62 10*12/l. Haemoglobin 14.3 g/dl. Haematocrit 42.9%.
+VCM 92.9 fl. HCM 30.9 pg. CHCM 33.3 g/l. ADE 13.1%. Leukocytes 8.6 10*9/l.
+Neutrophils 54.6%. Lymphocytes 32,2%. Platelets 198 10*9/l.
+Haemostasis: prothrombin time (PT) 11 sec. Quick's index 100%, INR 0.95.
+APTT 28.7 sec.
+Biochemistry: glucose *103 mg/dl. Sodium 139 mEq/l. Potassium 4.3 mEq/l. Chlorine 103 mEq/l. Urea 34.2 mg/dl. Creatinine 0.86 mg/dl.
+Biomarkers of myocardial damage: troponin I (hsTnI) 3,2 ng/l.
+Urgent echocardiogram (TTE) in critical care unit (no images available): left ventricle with slight concentric hypertrophy, normal diameters and preserved systolic function, with no alterations in segmental contractility at rest.
+Significant aortic insufficiency, without other valvulopathies. Right ventricle of normal size and function. Aortic root with increased diameters (45 mm), without a clear flap image. Normal inferior vena cava (IVC). Mild pericardial effusion.
+Angio-CT of the aorta: type A aortic dissection with involvement of the aortic root extending along the anterior aspect of the aortic wall close to the left coronary trunk (LMCA) from the valvular plane to the origin of the inferior mesenteric artery with involvement of the proximal origin of the ASD. Dilatation of aortic root and tubular portion of ascending aorta (47 mm). Descending aorta 37 mm. Descending aorta 31 mm. At the level of the thoraco-abdominal aorta, the true lumen has a reduced calibre. The celiac, superior mesenteric and right renal trunks originate from the true lumen. The left renal arises from a gateway between the true lumen and the false lumen with good renal perfusion. Distal aorta and normal iliofemoral sector. Conclusion: type A dissection extending from the aortic root to the aortic segment proximal to the inferior mesenteric origin.
+
+CLINICAL EVOLUTION
+In a patient with intense oppressive chest pain, without significant ECG alterations suggestive of ischaemia, it was decided to perform an urgent TTE, which revealed aortic root dilatation with significant insufficiency. In view of these findings, it was decided to request an angio-CT scan, which confirmed the diagnosis of type A aortic dissection.
+With the results of the complementary examinations and the diagnosis, the cardiac surgery department was contacted and emergency surgery was performed using the mechanical Bono-Bentall technique (Carboseal 29 mm) (consisting of aortic valve replacement, aortic root and ascending aorta replacement, as well as coronary ostium reimplantation in the same surgical procedure), under extracorporeal circulation, electromechanical heart arrest and circulatory arrest with selective bicarotídeal cerebral perfusion. No replacement of the aortic arch or descending aorta was performed, given the critical condition of the patient, the complexity of the intervention and the improvement after elimination of the main tear and reinstatement of true lumen flow.
+Evolution in ICU: prolonged stay to 8 days after emergent Bentall surgery. Early extubation at 12 h post IQ without incident. At 48 hours the patient developed global respiratory failure oriented as postoperative acute respiratory distress syndrome (ARDS) by congruent radiography with image of scattered infiltrates in both lung fields with heterogeneous distribution. Influenza A negative PCR. He required high-flow nasal spectacles, with progressive improvement. On the other hand, acute renal failure resolved. Haemodynamically, the patient remained stable from the immediate postoperative period, with no signs of active bleeding and no transfusion requirements.
+Good evolution in the cardiac surgery room, with discharge home on 7/3/19.
+
+DIAGNOSIS
+Type A acute aortic dissection. Emergent surgery with metallic Bono-Bentall.
+Smoking.
+Arterial hypertension.
+Acute respiratory failure due to ARDS.
+Resolved prerenal renal failure.

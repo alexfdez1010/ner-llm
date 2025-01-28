@@ -1,0 +1,44 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+ANAMNESI PERSONALE
+Nessuna reazione avversa ai farmaci.
+Fattori di rischio cardiovascolare (CVRF): fumo 10 sigarette al giorno, dislipidemia.
+Incidentale surrenalico sotto monitoraggio endocrino: catecolamine e metanefrine urinarie negative e cortisolo normale.
+
+Anamnesi cardiologica:
+Ricovero per sindrome di tako-tsubo nel 2017. L'elettrocardiogramma (ECG) al momento del ricovero mostrava un sopraslivellamento ST nella faccia inferiore, per il quale è stato inizialmente attivato il codice di infarto, mostrando arterie coronarie normali. La ventricolografia e l'ecocardiografia hanno mostrato acinesia di tutti i segmenti apicali con contrattilità conservata al basale (frazione di eiezione ventricolare sinistra [LVEF] di Simpson 42%), con un'immagine di ballooning apicale compatibile con la sindrome di tako-tsubo. Picco di troponina T ultrasensibile 568,4 pg/ml. La paziente è stata dimessa con beta-bloccanti (bisoprololo 2,5 mg) e inibitore dell'enzima di conversione dell'angiotensina (ACE-inibitore) (enalapril 2,5 mg). Quattro mesi dopo la dimissione, è stato eseguito un ecocardiogramma di controllo, che ha mostrato una completa normalizzazione delle alterazioni della contrattilità e una LVEF del 67%.
+Nuovo ricovero nel 2018 per infarto del miocardio non-ST-segment elevation (NSTEMI). L'ECG al pronto soccorso mostrava onde T prominenti sul lato inferolaterale.
+Elevazione della troponina T Us fino a 487 pg/ml. Il cateterismo ha evidenziato arterie coronarie normali, con fistole multiple dall'albero coronarico sinistro al ventricolo sinistro. È stata richiesta anche la risonanza magnetica cardiaca (CMR), senza segni di ischemia acuta, miocardite o necrosi transmurale. È stato deciso di aumentare la dose di beta-bloccante (bisoprololo a 5 mg/die), sono state aggiunte aspirina 100 mg/die e atorvastatina 40 mg/die.
+
+MALATTIA ATTUALE
+Una donna di 60 anni è giunta al Pronto Soccorso un mese dopo l'ultimo ricovero per un episodio di oppressione toracica centrale della durata di un'ora, iniziato a riposo e accompagnato da un'importante corteccia vegetativa sotto forma di sudorazione profusa e nausea. All'arrivo al Pronto Soccorso, ancora sintomatico con lieve fastidio all'emitorace sinistro.
+Trattamento al momento del ricovero: bisoprololo 5 mg, atorvastatina 40 mg/die, acido acetilsalicilico (ASA) 100 mg/die, idroferolo 0,266 1 capsula al mese.
+
+ESAME FISICO
+Pressione arteriosa (BP) 135/65 mmHg. Frequenza cardiaca (FC) 75 bpm. SatO2 98% (FIO2 21%).
+Condizioni generali regolari, cosciente e orientato, collaborante, senza focalità.
+Auscultazione cardiaca: ritmica, senza soffi.
+Auscultazione polmonare: murmure vescicolare conservato (CVM) senza sovra-aggregazione.
+Arti inferiori: simmetrici senza edema, pulsazioni periferiche palpabili.
+
+ESAMI COMPLEMENTARI
+ECG all'arrivo, con dolore: ritmo nodale a 80 bpm che precede l'onda P sinusale con una frequenza di circa 70 bpm. QRS stretto, depressione del segmento ST inferiore a 0,5 mm in II e avF e fino a 1,5 mm in V4-V6, che si normalizza completamente dopo la cafinitrina /nitrati sublinguale.
+Esami di laboratorio:
+Biochimica: glucosio 162 mg/dl. Urea 42 mg/d. Creatinina 1,03 mg/dl. Sodio 139 mmol/l. Potassio 3,4 mmol/l. Proteina C-reattiva (CRP) 3,0 mg/dl. Colesterolo totale 121 mg/dl. Trigliceridi 57 mg/dl. Colesterolo HDL 43 mg/dl. Colesterolo LDL calcolato 78 mg/dl.
+Emogramma: globuli bianchi 15,88 x10^9/l. Globuli rossi 4,45 x10^12/l. Emoglobina 14,4 g/dl. Piastrine 249 x10^9/l.
+Emostasi: PT: 14s, aPTT 35s. Rapido 85%. INR 1.0.
+Marcatori di danno miocardico: troponina T ultrasensibile 10,5 pg/ml --> 280 pg/ml --> 17 pg/ml.
+Ecocardiografia: ventricolo sinistro (LV) con diametri normali (LVEDD 46 mm), senza ipertrofia delle sue pareti e con funzione sistolica conservata (EF 65%). Non sono state osservate alterazioni della contrattilità segmentale a riposo. Ventricolo destro non dilatato con funzione sistolica conservata. Modello diastolico LV normale. Atri di dimensioni normali. Radice aortica di diametro normale con foglietti sigmoidei di spessore e apertura normali. Nessuna disfunzione valvolare. Valvola mitrale con foglietti di spessore e mobilità normali. Banale getto di rigurgito centrale. Minima insufficienza tricuspidale (TI), in assenza di ipertensione polmonare. Assenza di versamento pericardico.
+Ergometria con test di iperventilazione: il test di iperventilazione viene eseguito per 2 minuti senza apprezzare variazioni significative della ripolarizzazione ventricolare.
+Successivamente, si è esercitato secondo il protocollo Bruce, interrompendo il test all'inizio della quarta fase del protocollo Bruce (11 METS) a causa del disadattamento al tapis roulant, non raggiungendo la FC submassimale (81% della FCMT) sotto l'effetto dei beta-bloccanti. Assenza di angina o di sopraslivellamento del segmento ST. Corretto adattamento cronotropo. Assenza di induzione di aritmia. Buona capacità funzionale (> 120% per le donne attive).
+Cateterismo coronarico: arteria coronaria principale sinistra (LMCA): nessuna lesione. Arteria discendente anteriore (ADA): buon calibro e sviluppo, senza lesioni. Fistole coronariche verso il LV. Arteria circonflessa (ACX): non dominante senza lesioni. Arteria coronaria destra (RCA): dominante, senza lesioni.
+Test del vasospasmo con acetilcolina: il test dell'acetilcolina è stato eseguito a dosi crescenti nell'arteria coronaria sinistra, senza osservare cambiamenti clinici nell'ECG o nel vasospasmo. Nell'ACD è stato osservato uno spasmo significativo (> 75%) associato a ritmo nodale, seguito da un blocco atrioventricolare completo (AVB) transitorio, che riproduce le alterazioni elettrocardiografiche nella faccia inferolaterale, presenti nell'ECG di ammissione. È stata somministrata nitroglicerina intracoronarica (NTG) e la procedura è stata completata senza ulteriori complicazioni.
+
+EVOLUZIONE CLINICA
+La paziente è rimasta stabile dal ricovero nel reparto di cardiologia, senza recidive dei sintomi che avevano portato al ricovero. Data la presenza di alterazioni ischemiche nell'ECG di ammissione e di angiogrammi coronarici relativamente recenti senza lesioni, è stato richiesto un test di iperventilazione con sospetto di vasospasmo coronarico, che è risultato normale, per cui è stato richiesto un test di vasospasmo coronarico con acetilcolina. Sono state eseguite quattro iniezioni a dosi crescenti nell'albero sinistro senza produrre alterazioni angiografiche o elettrocardiografiche e un'iniezione nell'arteria coronaria destra che ha innescato uno spasmo superiore al 75% del calibro del vaso iniziale con alterazioni ischemiche nell'elettrocardiogramma.
+Dato che il paziente in trattamento con beta-bloccanti e ASA ha presentato recidive del quadro clinico attuale, si è deciso di sospenderli e di iniziare cerotti di NTG, che il paziente non ha tollerato a causa di cefalea e debolezza; il diltiazem è stato prescritto a basse dosi, con una buona tolleranza, per cui questo farmaco è stato mantenuto alla dimissione. È stata sottolineata l'importanza di smettere di fumare.
+Alcuni mesi dopo il ricovero, la paziente è rimasta asintomatica, con una buona tolleranza ai farmaci, nessuna variazione della classe funzionale e nessuna ricorrenza di episodi di dolore toracico.
+
+DIAGNOSI
+Sindrome coronarica acuta (SCA) ricorrente, con arterie coronarie normali.
+Angina vasospastica.

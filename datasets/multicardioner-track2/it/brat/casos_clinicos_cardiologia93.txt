@@ -1,0 +1,36 @@
+Anamnesi, malattia attuale ed esame fisico
+Un paziente maschio di 25 anni si è presentato per un consulto cardiologico dopo un episodio di fibrillazione atriale con rapida risposta ventricolare durante un esercizio fisico sulla spiaggia, trattato con cardioversione farmacologica con amiodarone al pronto soccorso. Da un anno il paziente accusava episodi di palpitazioni legate a sforzi intensi. Non presentava deterioramento della classe funzionale o altri sintomi cardiovascolari.
+
+Storia personale:
+In preparazione all'addestramento agonistico dei vigili del fuoco.
+Episodi di ansia etichettati con dolore al petto, sensazione di dispnea e innalzamento acuto della pressione arteriosa.
+Nessun altro fattore di rischio cardiovascolare o uso di farmaci.
+Sindrome di Mallory Weiss. non assume regolarmente farmaci.
+
+
+Anamnesi familiare: un fratello era morto per trasposizione dei grandi vasi e difetto del setto ventricolare, un altro fratello era morto in utero a causa dell'interruzione dell'arco aortico e aveva un cugino con sindrome da pre-eccitazione.
+
+Esame fisico: cosciente, orientato, di colore normale, eupneico. Fenotipo normale. Pressione arteriosa 218/110 mmHg all'arto superiore destro, 169/86 mmHg all'arto superiore sinistro. Presenti le pulsazioni periferiche. Auscultazione polmonare con murmure vescicolare conservato, auscultazione cardiaca: murmure eiettivo proto-mesosistolico nel focus aortico e sul bordo parasternale sinistro di grado II sopra la LV, udibile anche nel focus interscapolare. Addome e arti inferiori non presentano reperti.
+
+Esami complementari
+Elettrocardiogramma: ritmo sinusale con asse cardiaco normale. Presenza di blocco di branca destro incompleto e segni suggestivi di ipertrofia ventricolare sinistra.
+Radiografia del torace: assenza di cardiomegalia, di versamento pleurico e di infiltrati polmonari. Si osservano rientranze costali.
+Ecocardiogramma transtoracico: lieve ipertrofia settale, lieve prolasso del lembo anterolaterale della mitrale con banale insufficienza mitralica. Nella finestra soprasternale è stata notata un'accelerazione del flusso e un gradiente di 86,6 mmHg nell'aorta toracica discendente al di sotto dell'efflusso della succlavia sinistra. Il resto dello studio, comprese le dimensioni dell'atrio sinistro e la funzione diastolica del ventricolo sinistro, era normale.
+Angiografia TC toraco-addominale: presenza di coartazione aortica distale all'ostio dell'arteria succlavia sinistra con riduzione del lume aortico a 0,6 cm di diametro, con ipertrofia delle arterie intercostali di sinistra distali alla coartazione, dell'arteria succlavia sinistra e dell'arteria mammaria sinistra.
+Angiografia a risonanza magnetica nucleare: aneurisma sacculare adiacente alla biforcazione dell'arteria cerebrale media destra.
+Cariotipo normale, assenza di selezione 22q11.2.
+
+
+Decorso clinico
+Dati i reperti compatibili con la coartazione dell'aorta discendente e la diagnosi di fibrillazione atriale parossistica, il paziente è stato ricoverato nel reparto di cardiologia per completare lo studio e decidere l'approccio terapeutico. È stata eseguita un'angiografia TC toraco-addominale, che ha confermato la coartazione distale all'ostio dell'arteria succlavia sinistra. Data l'associazione di questa patologia aortica con le malformazioni cerebrovascolari, si è deciso di eseguire un'angiografia a risonanza magnetica cerebrale, che ha rivelato un aneurisma nell'arteria cerebrale media. Inoltre, data l'anamnesi familiare, è stata eseguita una cariotipizzazione e uno studio di ibridazione FISH di una delle delezioni associate a questo tipo di patologia: entrambi i test sono risultati normali. Con le diagnosi descritte, il caso è stato presentato alla sessione clinica e si è deciso di operare prima l'aneurisma cerebrale e poi di correggere chirurgicamente la coartazione dell'aorta. Il paziente è stato operato con successo e attualmente è asintomatico.
+
+
+Diagnosi
+
+Principale
+Coartazione dell'aorta nell'AO toracica discendente
+Aneurisma intracranico nell'arteria cerebrale media
+
+Secondario
+FA parossistica, MI lieve con MVP
+Ipertensione arteriosa nel contesto clinico

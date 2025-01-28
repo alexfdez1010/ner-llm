@@ -1,0 +1,21 @@
+HISTORY, CURRENT DISEASE AND PHYSICAL EXAMINATION
+A 55-year-old woman, asymptomatic from the cardiovascular point of view to date, suddenly started with oppressive chest pain radiating to the left upper limb.
+The medical history of interest included the presence of arterial hypertension, hypercholesterolemia and type 2 diabetes mellitus, all of them under medical treatment with telmisartan 80 mg/24 h, atorvastatin 20 mg/24 h and metformin 850 mg/24 h, respectively. One year earlier, during a periodic company check-up, an incidental LBBB of the His bundle had been observed, and for this reason a transthoracic cardiac ultrasound had been performed, with no pathological findings.
+The patient was a non-smoker, had no family history of early ischaemic heart disease and had never undergone surgery or any other medical condition under treatment.
+Within 30 minutes of the onset of the symptoms, which had been preceded by a heated discussion, the Emergency Services were notified and, after observing the presence of an LBBB in the ECG, they activated the Infarction Code. He was transferred urgently to our hospital (tertiary level) for primary angioplasty.
+On arrival, the chest pain had disappeared, the blood pressure was 133/70 mmHg and the heart rate was 70 beats per minute, with no evidence of heart failure on physical examination.
+
+COMPLEMENTARY TESTS
+At the urgent coronary angiography, it was decided to first catheterise the right coronary artery with a JR4 diagnostic catheter, with no evidence of atheromatous lesions. The left coronary artery was then catheterised with an EBU3.5 guide catheter, revealing an anterior descending artery without lesions, as well as a fine, diffuse and progressive narrowing of the first obtuse marginal branch (OM1; the only branch of the circumflex territory; involving the two branches into which the artery subsequently bifurcated. Despite the lesion being practically subocclusive at the distal level of the first branch, flow was preserved in both branches (TIMI III).
+To further diagnose the pathology underlying the coronary finding, it was decided to analyse the vessel with an intracoronary imaging technique, the interventional cardiologist opting for optical coherence tomography (OCT) given its higher spatial resolution. After probing OM1 with two angioplasty guides, progressing the OCT monorail, and analysing the withdrawn artery together with the administration of 16 cc of iodinated contrast, a clear progression of the lumen involvement was evidenced, reaching the circumflex ostium. Despite this, the patient remained asymptomatic, with distal TIMI III flow in all branches, and with the coronary trunk intact.
+During her hospital admission, a clear ultrasensitive troponin T curve was observed (242 ng/ml to 1,860 ng/ml to 1,691 ng/ml to 800 ng/ml), as well as a reasonably controlled lipid profile (triglycerides 213 mg/dl, total cholesterol 217 mg/dl, HDL 34 mg/dl, LDL 140 mg/dl. Hba1C 6.7%). The rest of the blood tests and chest X-ray were unremarkable.
+Transthoracic echocardiography showed significant akinesia of the OM1-dependent territory, with a left ventricular ejection fraction of 40 %, without other pathological findings. In this sense, the study of myocardial function and its possible sequelae was extended with cardiac magnetic resonance imaging, which corroborated the presence of mild ventricular dysfunction, as well as the presence of late gadolinium enhancement (of 50 % of the myocardial thickness) in lateral and lateral-inferior aspect.
+
+EVOLUTION
+Given the angiographic and OCT features of the coronary artery disease, and the fact that the patient was haemodynamically stable and pain-free, it was decided to opt for strictly conservative medical management.
+Since the patient did not develop new symptoms of ischaemia, and after having tolerated starting carvedilol 6.25 mg/12 h together with dual antiplatelet therapy (ASA and clopidogrel) and the previous dose of ARA-II, the patient was discharged 5 days after admission.
+Subsequent outpatient follow-up (1 year) showed no new coronary events, and the patient is in NYHA functional class I/IV and without exertional angina.
+
+DIAGNOSIS
+Acute coronary syndrome in the presence of left bundle branch block.
+HYPERTENSION. Dyslipidaemia. Type 2 diabetes mellitus.

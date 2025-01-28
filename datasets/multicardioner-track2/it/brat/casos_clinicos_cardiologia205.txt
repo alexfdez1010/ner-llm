@@ -1,0 +1,31 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Giovane maschio di 19 anni
+Anamnesi familiare: il nonno paterno è morto in età avanzata a causa di una tromboembolia polmonare massiva. Padre e madre senza trombosi. Madre senza aborti spontanei.
+Nessuna allergia nota ai farmaci.
+Sindrome antifosfolipidica primaria: diagnosticata dopo un episodio di trombosi venosa profonda (TVP) nel 2017. Profilo sierologico ad alto rischio: tripla positività anticorpale (AL + aCL + Antiβ2-GPI positivi).
+Fumatore attivo di 3-5 sigarette al giorno. Nessuna anamnesi chirurgica. Trattamento abituale: acenocumarolo.
+
+Malattia attuale
+Un uomo di 19 anni si è presentato al pronto soccorso per un dolore toracico centrale opprimente con associata crociata vegetativa della durata di 3 ore, che è iniziato durante l'esercizio fisico e non si è attenuato con il riposo. Non si irradiava, non cambiava con il movimento o la respirazione, non c'erano palpitazioni, dispnea o sintomi infettivi.
+Ammette di non aver assunto la dose di acenocumarolo nei 5 giorni precedenti per paura della sua interazione con l'alcol, che aveva consumato.
+
+Esame fisico
+Pressione arteriosa (BP) 130/85 mmHg. Frequenza cardiaca (FC) 65 bpm. Saturazione basale dell'ossigeno 99%. Frequenza respiratoria 16 rpm. Buone condizioni generali. Cosciente e orientato. Afebbrile. Sudorazione. Auscultazione cardiaca: ritmica senza soffi. Auscultazione polmonare: murmure vescicolare conservato, senza suoni aggiunti. Arti inferiori senza edema o segni di TVP.
+
+ESAMI COMPLEMENTARI
+ECG d'emergenza: bradicardia sinusale a 55 bpm. PR normale. QRS stretto con asse normale. Innalzamento ST di 3-4 mm in DII, DIII e aVF e di 1-1,5 mm in V5-V6, discesa ST speculare in DI e aVL.
+Esami di laboratorio: INR all'arrivo 1,1. Emoglobina 15,6 g/dl, leucociti 11.040 /μl, piastrine 177.000 /μl. Troponina I (hs-TnI range normale 0-53,5) iniziale 5.122,3, picco 116.052,8 ng/l, HbA1C 5,5%, colesterolo totale 136 mg/dl, HDL 37 mg/dl, LDL 62 mg/dl, trigliceridi 188 mg/dl, creatinina 0,86 mg/dl, velocità di filtrazione glomerulare > 90 ml/min, sodio 136 mmol/l, potassio 3,5 mmol/l, TSH 1 μIU/ml, profilo del ferro normale.
+Cateterismo coronarico urgente: accesso radiale destro. Tronco: nessuna lesione. Coronaria discendente anteriore (AD): sviluppo normale, nessuna lesione angiografica. Arteria coronaria circonflessa (Cx): nessuna lesione angiografica. Arteria coronaria destra (RCA): dominante, occlusione trombotica completa nel segmento medio.
+Interventismo coronarico percutaneo (PCI): il filo guida viene fatto avanzare fino alla RCA distale e vengono eseguite diverse aspirazioni del trombo, ottenendo un abbondante trombo rosso. Il flusso TIMI 3 è stato recuperato e si è osservata una lunga lesione con una leggera stenosi e resti di trombo nella RCA medio-distale. Letto distale di buon sviluppo e senza lesioni. È stata eseguita una tomografia a coerenza ottica (OCT), che ha mostrato resti di trombo rosso aderenti alla parete, senza immagini suggestive di rottura della placca, in un vaso senza segni di aterosclerosi, sebbene in alcuni punti la parete arteriosa non fosse visibile a causa della presenza del trombo. Alla luce di questi risultati, si è deciso di non impiantare uno stent.
+Ecocardiogramma transtoracico: ventricolo sinistro non dilatato né ipertrofico, con funzione sistolica complessiva normale (LVEF secondo Simpson biplano del 54%). Acinesia dei segmenti mediali e basali della faccia inferiore e inferolaterale. Rapporto E/E' di 7,5. Ventricolo destro di dimensioni e funzione normali. Atri di dimensioni normali. Lieve insufficienza mitralica. Lieve insufficienza tricuspidale che consente di stimare una PSAP di 35 mmHg. Radice aortica e aorta ascendente normali. Assenza di versamento pericardico.
+ECG alla dimissione: ritmo sinusale a 75 bpm. PR normale. QRS stretto con onda Q e onde T negative nelle zone inferiori (DII, DIII, aVF) e laterali (V4-V6).
+
+EVOLUZIONE CLINICA
+All'arrivo è stato eseguito un elettrocardiogramma che ha mostrato un innalzamento del tratto ST ed è stato attivato l'allarme emodinamico per il cateterismo coronarico urgente. È stata osservata un'occlusione trombotica nell'arteria coronaria destra ed è stata eseguita una tromboaspirazione e un'angioplastica con palloncino, recuperando un flusso TIMI 3. È stata eseguita un'imaging intracoronarico con OCT che ha permesso di visualizzare un trombo rosso residuo aderente alla parete, senza alcuna evidenza di rottura della placca o aterosclerosi. Alla luce di questi risultati, si è deciso di non impiantare uno stent.
+È stato eseguito un ecocardiogramma transtoracico con una funzione globale normale e un'alterazione segmentale nel territorio del DC. Sono state avviate la doppia terapia antiaggregante e l'anticoagulazione. Il paziente è rimasto monitorato durante il ricovero, stabile, reintroducendo l'anticoagulazione orale, senza complicazioni della funzione renale o della puntura radiale. Trattandosi di un evento trombotico, in un contesto di anticoagulazione non corretta e con arterie coronariche prive di lesioni, si è deciso di mantenere l'anticoagulazione e le statine a tempo indeterminato insieme alla terapia antiaggregante con acido acetilsalicilico per un mese. Alla dimissione, il paziente è stato indirizzato al programma di riabilitazione cardiaca. Una TC coronarica a 2 mesi ha mostrato arterie coronarie epicardiche senza lesioni.
+
+DIAGNOSI
+Infarto miocardico acuto inferolaterale di origine trombotica. Rivascolarizzazione urgente della coronaria destra. Funzione sistolica LV conservata.
+Sindrome antifosfolipidica primaria con profilo ad alto rischio. Abbandono della terapia anticoagulante orale.

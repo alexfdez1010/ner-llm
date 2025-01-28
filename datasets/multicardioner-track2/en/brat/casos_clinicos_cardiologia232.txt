@@ -1,0 +1,37 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+53-year-old woman with no known allergic reactions to medications.
+
+History
+Family history: sudden death during sleep of maternal grandfather at 70 years of age and of a maternal uncle at 50 years of age, also during sleep. Daughter with long QT on baseline ECG and son with incipient hypertrophic cardiomyopathy phenotype.
+
+Personal history:
+No toxic habits, no arterial hypertension (AHT), no diabetes, no dyslipidaemia.
+Non-obstructive hypertrophic cardiomyopathy: accidental diagnosis in another centre after starting a study due to palpitations. Phenotype with asymmetric septal hypertrophy, with a maximum thickness of 18 mm in the basal anterior septum, maximum gradient of 15 mmHg, LVEF 65% and faint mesocardial fibrosis in areas of hypertrophy and at the lower insertion point of the RV in cardiac MRI. Holter: sinus rhythm with an average heart rate of 60 bpm, anecdotal supraventricular extrasystoles with a SVT salvo of 4 beats, anecdotal ventricular extrasystoles with a nocturnal triplet at 90 bpm, with no other events. Ergometry with 8.8 METS, clinically negative, electrocardiographically positive from minute 5 (upward sloping ST-segment depression in II, III, aVF, V5 and V6 of up to 1.5 mm, which persists at minute 2 of recovery, subsiding spontaneously), with a drop in blood pressure at maximum effort, although asymptomatic.
+Overlap with long QT syndrome (LQTS).
+Genetic study: no pathogenic/probably pathogenic variant related to hypertrophic cardiomyopathy is identified. A probably pathogenic variant in KCNQ1 compatible with LQTS type 1 is identified, also confirmed in his daughter.
+Other: fibromyalgia, chronic low back pain.
+Surgical interventions: hysterectomy and double adnexectomy due to metrorrhagia.
+Usual treatment: propanolol 10 mg every 8 hours, duloxetine 60 mg every 24 hours.
+
+Present illness
+The patient was referred from another centre for an episode of loss of consciousness the previous night in bed, witnessed by her husband, who reported snoring, ocular eversion and tonic spasm lasting a few seconds, for which she did not consult. The following morning she presented with precordial pressure and went to the emergency department, where atrial fibrillation with controlled response was observed, which spontaneously reverted to sinus bradycardia with complete cessation of the precordial pressure. He reported almost daily palpitations lasting a few minutes, unrelated to exertion, for the last 2 years, as well as dyspnoea on moderate exertion.
+
+Physical examination
+Blood pressure (BP) 120/80 mmHg; heart rate (HR) 55 bpm. Good general condition. Conscious and oriented, eupneic, well perfused.
+Cardiac auscultation: rhythmic, no murmurs at rest or with Valsalva manoeuvres. Pulmonary auscultation: preserved vesicular murmur with no added sounds. Lower limbs: no oedema or signs of deep vein thrombosis, pulses present and symmetrical.
+
+COMPLEMENTARY TESTS
+Baseline ECG: sinus bradycardia at 50 bpm, normal PR, narrow QRS with normal axis, biphasic T wave (with predominance of the negative component) in III, aVF, V4 and V5, notched in V2 and V3. QTc 511 ms.
+Laboratory tests: haemoglobin 12.9 g/dl, leukocytes 6,370/μl, platelets 191.000 /μl, HbA1C 5.5%, total cholesterol 190 mg/dl, HDL 40 mg/dl, LDL 110 mg/dl, triglycerides 130 mg/dl, creatinine 0.63 mg/dl, glomerular filtration rate > 90 ml/min, sodium 142 mmol/l, potassium 4.8 mmol/l, CRP 1.1 mg/l, TSH 2.13 μIU/ml, troponin I (hs-TnI) 10, CK 50 U/l.
+Transthoracic echocardiogram: left ventricle of normal size with severe asymmetric septal hypertrophy (IVSd 18 mm; PPd 13 mm) generating acceleration in the LV outflow tract without significant obstruction either at baseline or with Valsalva (maximum gradient 15 mmHg). Preserved global systolic function without segmental alterations of contractility (LVEF 65%). Diastolic pattern compatible with impaired relaxation. Moderately dilated left atrium (area 30 cm2). Preserved RVEF. Mitral valve with good opening and mild mitral insufficiency (MI). No SAM is seen. Poorly visualised aortic valve with trivalve impression and no pathological flow. Poorly visualised tricuspid valve that appears normal without tricuspid insufficiency (TI) that would allow estimation of pulmonary artery systolic pressure (PSAP). No indirect evidence of pulmonary hypertension (PHT). Inferior vena cava not dilated with adequate inspiratory collapse. Aortic root of normal size with slight dilatation of tubular ascending aorta (40 mm), with non-dilated aortic arch. No pericardial effusion.
+Post-implantation chest X-ray: bicameral implantable cardioverter defibrillator (ICD) (normo-inserted AD and RV electrodes), surgical clamps, cardiothoracic index within normal, lung parenchyma without alterations, no signs of pneumothorax.
+Electrocardiogram (ECG) at discharge: atrial activity stimulated by pacemaker at 60 bpm, narrow QRS with normal axis, biphasic T wave in III, aVF, V4 and V5, notched in V2. QTc 480 ms.
+
+CLINICAL EVOLUTION
+This is a patient with a previous diagnosis of non-obstructive hypertrophic cardiomyopathy with overlapping long QT syndrome type 1 who presented with syncope of cardiogenic profile under beta-blocker treatment. Given the patient's HCM Risk-SCD of 3.52% (low 5-year risk), the nocturnal profile of syncope and family history of nocturnal sudden death (SD), it seems likely that the syncopal event is related to long QT syndrome type 1 rather than to her hypertrophic cardiomyopathy. In the presence of cardiogenic syncope under beta-blocker treatment, ICD implantation was decided. Given the diagnosis of hypertrophic cardiomyopathy and the finding of paroxysmal atrial fibrillation not previously documented, anticoagulant treatment was started. Bicameral ICD implantation was performed without incident, being programmed in DDDR ICD mode, at a pacing rate of 60 bpm.
+
+DIAGNOSIS
+Syncope with cardiogenic profile.
+Non-obstructive hypertrophic cardiomyopathy with overlapping long QT syndrome type 1 (probably pathogenic variant in KCNQ1).
+Symptomatic paroxysmal atrial fibrillation (haemodynamic angina in relation to rapid ventricular response).
+Implantation of bicameral ICD.

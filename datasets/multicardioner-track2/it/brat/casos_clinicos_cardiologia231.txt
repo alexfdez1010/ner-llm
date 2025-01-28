@@ -1,0 +1,33 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Maschio di 32 anni senza allergie note a farmaci, bevitore moderato senza altri fattori di rischio cardiovascolare (CVRF), senza anamnesi medica o chirurgica di interesse e non in trattamento medico cronico. L'anamnesi familiare comprende tre zii materni deceduti per morte improvvisa in giovane età (specificare gli anni, se li si possiede), la cui eziologia è sconosciuta. Padre e madre non presentano malattie cardiache o eventi di morte improvvisa. Conducono una vita attiva adeguata alla loro età.
+
+Malattia attuale
+Il paziente riferisce sintomi ricorrenti e intermittenti caratterizzati da palpitazioni, fin dall'adolescenza. I sintomi sono peggiorati negli ultimi mesi con episodi sincopali con perdita della posizione posturale e del livello di coscienza, per i quali si è rivolto in ambulatorio.
+
+Esame fisico
+Pressione arteriosa (BP) 120/80 mmHG, frequenza cardiaca (HR) 70 bpm, frequenza respiratoria (RR) 20 rpm, saturazione di ossigeno (O2 Sat) 95%.
+Colorito normale e normoidratazione.
+Non c'è ingorgo giugulare.
+Auscultazione cardiaca: suoni cardiaci ritmici senza soffi.
+Auscultazione polmonare: murmure vescicolare conservato.
+Addome: morbido, non dolente, senza masse o megaliti.
+Arti inferiori: nessun edema, nessun segno di trombosi venosa profonda (TVP).
+
+ESAMI COMPLEMENTARI
+Laboratorio: emogramma: leucociti 7x10*9/l, Hb 13 g/dl, piastrine 310x10*9/l. Biochimica: glucosio 181 mg/dl [70-110], urea 59 mg/dl [10-50], creatinina 1,53 mg/dl [.40-1,20] bilirubina totale 1,47 mg/dl [0-1,2], GPT 154 U/L [5-41].
+Elettrocardiogramma (ECG): ritmo sinusale regolare con frequenza di 70 bpm, rSr ́ in V1 e V2, con sopraslivellamento del segmento ST di 5 mm e T invertita in queste derivazioni, quadro di Brugada tipo I.
+Ecocardiogramma Doppler a colori: DDVI/DSVI 50/30, SIVD/PPD 11/11, EF 68%, RV 20, spessore della parete libera 10 mm. Area dell'atrio sinistro 23 cm2 senza disturbi della motilità ventricolare, nessuna alterazione del flusso transvalvolare, PSAP 20.
+ECG Holter delle 24 ore: rilevamento di un tracciato di tachicardia ventricolare monomorfa non sostenuta (NSVT) di breve durata fino a 200 bpm che correla con i sintomi del paziente.
+Radiografia del torace dopo l'impianto dell'ICD: indice cardiotoracico inferiore a 0,5 con presenza del generatore nell'emitorace sinistro e dell'elettrocatetere in RV.
+Telemetria dell'ICD al follow-up (1 o 6 mesi): evidenza nei controlli evolutivi di scariche appropriate dell'ICD in caso di eventi aritmici sotto forma di fibrillazione ventricolare rapida (VF) e tachicardia ventricolare (VT).
+
+EVOLUZIONE CLINICA
+Paziente con episodi clinici sincopali e anamnesi cardiovascolare di morte improvvisa nei parenti (senza studio genetico), con studi morfologici con ecocardiogramma senza reperti patologici. Tenendo conto dell'ECG basale con pattern di Brugada tipo I, dell'anamnesi familiare, dei ripetuti eventi clinici sincopali e dell'evidenza di eventi aritmici sintomatici (NSVT) all'Holter delle 24 ore, è stata stabilita la diagnosi di sindrome di Brugada ed è stato deciso l'impianto di un defibrillatore cardioverter impiantabile (ICD) come prevenzione primaria in un paziente con sindrome di Brugada ad altissimo rischio di morte improvvisa.
+L'impianto non ha avuto alcun esito e il paziente ha riferito di essere in GF I nei controlli successivi (6 mesi dopo l'impianto) e di aver avuto alcuni episodi sincopali molto isolati. Alla revisione del dispositivo (ICD), sono stati osservati episodi di VT in VT2 (180 bpm) e VF (200 bpm) con terapia di stimolazione ventricolare antitachicardica (ATP) e shock ICD appropriati.
+
+DIAGNOSI
+Sindrome di Brugada.
+Impianto di un defibrillatore cardioverter impiantabile (ICD). Nessuna cardiopatia strutturale (LVEF normale).
+GF I.

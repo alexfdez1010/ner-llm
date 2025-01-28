@@ -1,0 +1,34 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+BACKGROUND:
+Uomo di 64 anni con diagnosi di destrocardia all'età di 54 anni, a seguito di uno screening familiare. Abitudini tossiche: non fumatore, bevitore moderato. Conduce una vita attiva.
+
+MALATTIA ATTUALE:
+Al momento della diagnosi in classe funzionale I della New York Heart Association (NYHA) con sintomi ricorrenti di palpitazioni, vertigini e sincope, che limitano la sua qualità di vita. La sera prima del ricovero ha presentato dolore precordiale e palpitazioni insieme a perdita del tono posturale e del livello di coscienza, per cui ha consultato il suo medico, che ha disposto il ricovero in ospedale per cure mediche ed esami.
+
+ESAME FISICO:
+Pressione arteriosa 120/80 mmHg. Frequenza cardiaca (FC) 100 bpm. Saturazione di ossigeno 97%. Assenza di ingorgo giugulare. Auscultazione cardiaca: ritmica senza soffi. Auscultazione polmonare: normoventilazione, nessun crepitio. Addome non descritto. Arti inferiori senza edema.
+Esame neurologico: pupille isocoriche normoreattive. Nervi cranici normali. Linguaggio normale. Forza e sensibilità conservate. Andatura normale.
+
+ESAMI COMPLEMENTARI
+RADIOGRAFIA TORACE: destrocardia. Indice cardiotoracico superiore a 0,5 con lieve ridistribuzione vascolare nei campi superiori.
+
+ELETTROCARDIOGRAMMA (ECG): ritmo sinusale. Conduzione atrioventricolare conservata, QRS 120 ms con asse -30o. Onda Q iniziale in aVL. Onda T negativa in DIII-aVF, DI-aVL e V5-V6.
+ANALISI: Hb 14 g/dl, Ht 42, Cr 0,9 mg/dl, NT-proBNP 1.000 pg/ml.
+ECG HOLTER: ritmo sinusale con FC massima di 93 bpm, minima di 50 bpm, media di 61 bpm.
+Extrasistoli ventricolari in forma ripetitiva, tre attacchi di tachicardia ventricolare non sostenuta, della durata di secondi, con FC massima di 166 bpm.
+ECOCARDIOGRAMMA: atrio sinistro (LA) leggermente dilatato. Ventricolo sinistro (LV) di diametro normale con moderata ipertrofia settale asimmetrica (> 15 mm) senza ostruzione attraverso il tratto di efflusso LV e senza movimento anteriore sistolico della valvola mitrale. Disfunzione sistolica LV lieve (EF 55%) e disfunzione diastolica di grado 1.
+RISONANZA MAGNETICA NUCLEARE CARDIACA (CMRI): aumento tardivo del gadolinio irregolarmente distribuito nella parete mediale dell'intero setto, nella parete anteriore e nella parete libera del ventricolo destro. Setto interventricolare spesso 15 mm.
+CONTROLLO DEL CARDIODESFIBRILLATORE: il programmatore mostra shock appropriati.
+
+EVOLUZIONE CLINICA
+Durante il ricovero, al paziente è stata chiesta l'anamnesi familiare: il nonno paterno e due zii sono morti di SM. Abbiamo trovato un paziente con sintomi clinici che limitavano la sua qualità di vita e, dopo gli studi effettuati, è stata confermata la diagnosi di cardiomiopatia ipertrofica. È stato stimato un rischio intermedio di SD (HCM Risk-SCD Calculator: rischio a 5 anni del 4,68%) e si è deciso di impiantare un defibrillatore cardioverter impiantabile (ICD) per la prevenzione primaria della SD.
+Dopo un periodo stabile di 11 mesi, il paziente ha presentato shock ICD appropriati a 80 J, dimostrando l'efficacia della terapia nella prevenzione della SD in un paziente con cardiomiopatia ipertrofica.
+L'evoluzione a un anno di distanza è favorevole. Il trattamento medico è stato ottimizzato e nei controlli è stata riscontrata l'assenza di scariche dell'ICD e l'elettrocardiogramma di controllo era in ritmo sinusale. È stato eseguito un ecocardiogramma di controllo, che mostra un LV con moderata ipertrofia settale asimmetrica, che non è progredita, e il mantenimento della funzione sistolica LV (EF 57%). Non è stato osservato alcun gradiente dinamico nel tratto di efflusso LV.
+
+DIAGNOSI
+Cardiomiopatia ipertrofica settale asimmetrica non ostruttiva (HCM).
+Anamnesi familiare di SM (2° grado). Sincope ripetuta.
+Record di tachicardia ventricolare non sostenuta (NSVT).
+Miglioramento intramiocardico tardivo alla risonanza magnetica cardiaca.
+Portatore di ICD con shock appropriati.

@@ -1,0 +1,44 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+PERSONAL HISTORY
+No known drug allergies.
+Active smoker of 20 cigarettes/day (cumulative consumption of 20 packs/year).
+Cardiovascular risk factors: hypertension (HT) and dyslipidaemia. No type 2 diabetes mellitus (DM2).
+Anxiety-depressive syndrome.
+Surgical intervention: left inguinal hernia and appendicitis.
+Family history of ischaemic heart disease in his father at 78 years of age.
+Usual treatment: losartan 50 mg (1 tablet every 24 hours), simvastatin 40 mg (1 tablet every 24 hours).
+
+CURRENT DISEASE
+The patient is a 47-year-old man, with the previously described personal history, who one summer morning, while working in his field, presented with an episode of central thoracic pain, with oppressive characteristics, radiating to the throat, accompanied by cold sweating and nausea without vomiting. There were no symptoms of dyspnoea or palpitations. The patient leads an active life. He had never before presented episodes similar to the one that prompted the consultation. No intercurrent infectious conditions or fever. No clinical signs of heart failure.
+He was attended by the emergency services who found the patient haemodynamically stable with blood pressure (BP) 135/85 mmHG, heart rate (HR) 84 bpm, conscious, oriented and cooperative. An ECG was performed on arrival documenting ST-segment elevation of 2 mm in the inferior aspect and V6, and the patient was transferred urgently to our hospital. The pain subsided during the transfer with sublingual nitroglycerine.
+On arrival at the emergency department of our hospital, the patient was asymptomatic from the cardiovascular point of view. A new ECG was performed showing normalisation of the electrical changes (no ST segment elevation). The patient was monitored and on-call cardiology was contacted for urgent assessment.
+Given that the patient remained clinically and haemodynamically stable, with no changes suggestive of ischaemia on the electrocardiogram and with normal bedside echocardioscopy (Vscan), it was decided not to activate the infarction code, and the patient was classified as non-ST-segment elevation acute coronary syndrome (NSTEACS) due to transient ST-segment elevation.
+
+PHYSICAL EXAMINATION
+When assessed by cardiology, the patient was asymptomatic from the cardiovascular point of view, with no new episodes of chest pain or any other anginal symptoms.
+Haemodynamically stable with BP 125/76 mmHg, HR 79 bpm. Eupneic at rest and speech, without supplementary oxygen therapy. Tolerating decubitus at 0 ̊. Afebrile.
+Cardiac auscultation: rhythmic tones, no audible murmurs.
+Pulmonary auscultation: preserved vesicular murmur, without added pathological sounds.
+Lower limbs: no oedema, no signs of deep vein thrombosis.
+
+COMPLEMENTARY TESTS
+ECG with pain: sinus rhythm at 80 bpm, normal axis, PR 120 ms, narrow QRS with ST segment elevation of maximum 2 mm in inferior face and V6; 1 mm ST decrease in V1 and aVR with negative T waves in these leads.
+Chest X-ray: normal cardiothoracic index. Free costophrenic sinuses. No evidence of pulmonary congestion. No evidence of pneumothorax or consolidation.
+CBC: glucose 125 mg/dl, creatinine 1.05 mg/dl, ions in normal range. No leukocytosis. Haemoglobin 14.2 g/dl. Platelets 235,000. Coagulation without alterations (INR 1.02). Myocardial damage markers: TnTus 135 - 580 - 420 - 289 ng/l. CPK 320 - 450 - 177 - 102 mU/ml. Lipid profile: total cholesterol 233 mg/dl, HDL 35 mg/dl, LDL 166 mg/dl, triglycerides 156 mg/dl. Glycated haemoglobin 5.1%
+Bedside echocardioscopy: left ventricle not appearing dilated, with normal qualitative systolic function (55-60%), without segmental alterations of contractility. Right ventricle with normal qualitative systolic function. Aortic root not dilated (sinuses of Valsalva 36 mm), no flap image visualised. Inferior vena cava not dilated, respiratory variations. No pericardial effusion. No valvulopathies of entity are visualized.
+Echocardiography: left atrium of normal dimensions (AP 37 mm, volume 19 ml/m2). Normal mitral valve, with leaflets without organic involvement or insufficiency. Left ventricle with normal volumes (DTD 49 mm, VTD 125 ml, VTDi 70 ml/m2, VTS 55 ml). EF 59% without segmental alterations of contractility.
+Normal myocardial thickness, with 8 mm septum and 8 mm posterior wall. Normal mitral filling pattern with E wave 78 cm/s and A wave 45 cm/s. Trivalve aortic valve, with anatomically normal leaflets, without insufficiency. Sine of Valsalva 36 mm. Right ventricle of normal dimensions and contractility. TAPSE 22 mm, tricuspid S" 12.7 cm/s. Tricuspid valve without insufficiency. Pulmonary valve with slight central jet. Normal inferior vena cava with adequate inspiratory collapse. No pericardial effusion. No indirect evidence of pulmonary hypertension (PH).
+Coronary angiography: right radial artery. Ectatic right coronary artery (RCA) with severe stenosis (90%) in its middle segment treated by implantation of a direct drug-eluting stent (Synergy 4 x 38 mm) and post-dilatation with non-compliant balloon (4.5 x 20 mm). Mild atheromatosis of the anterior descending artery (ADA) and circumflex artery (ACx).
+
+CLINICAL EVOLUTION
+The patient was admitted to the cardiology intermediate care unit. During his stay in the unit, his evolution was favourable; he remained haemodynamically stable at all times, with no new episodes of chest pain or electrical changes. Continuous monitoring did not detect any arrhythmic events.
+Coronary angiography was performed 36 hours after admission to the unit, revealing a significant lesion in the middle segment of the RCA, which was revascularised by implanting a drug-eluting stent and post-dilatation with a balloon. The procedure passed without complications.
+Medical treatment was adjusted during admission, insisting on secondary prevention measures for ischaemic heart disease and, above all, smoking cessation.
+On discharge he was referred to the cardiac rehabilitation unit, with the following treatment: acetylsalicylic acid (ASA) 100 mg (1 tablet every 24 hours), ticagrelor 90 mg (1 tablet every 12 hours), atorvastatin 80 mg (1 tablet every 24 hours), losartan 50 mg (1 tablet every 24 hours), bisoprolol 5 mg (1 tablet every 24 hours), omeprazole 20 mg (1 tablet every 24 hours), sublingual nitroglycerin if chest pain.
+
+DIAGNOSIS
+NSTEACS type transient ST-elevation secondary to severe mid RCA lesion revascularised by 1 drug-eluting stent.
+Preserved ventricular function.
+Hypertension and dyslipidaemia.
+Smoker.

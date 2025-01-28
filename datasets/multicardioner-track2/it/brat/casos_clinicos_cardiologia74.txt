@@ -1,0 +1,32 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Maschio, 36 anni.
+
+Anamnesi
+AHT
+Insufficienza renale cronica al III stadio secondaria a reflusso vescico-ureterale Malattia attuale Il paziente ha riferito febbre e vomito per 3 giorni, malessere generale, dolori generalizzati, sensazione distrofica, brividi, sudorazione e vomito.
+
+Esame fisico
+PRESSIONE ARTERIOSA: 100/40
+Ta: 39,5 °C
+Colorito normale, idratato e perfuso
+Eupneico a 0°
+Auscultazione cardiaca: ritmica con soffio sistolico in EIB
+Auscultazione polmonare: CVM
+Addome: nessuna evidenza di irritazione peritoneale
+
+ESAMI COMPLEMENTARI
+ECOCARDIOGRAFIA: RS, BCRIHH.
+Radiografia del torace: normale.
+Esami di laboratorio: biochimica: creatinina 7,99 mg/gl; Na 131 mEq/l; K 4,59 mEq/l, CRP 23,09 mg/dl. Gas: pH 7,23, pCO2 36 mmHg, pO2 14 mmHg, HCO3 15 mmol/l, Ebb - 11,6 mmol/l.
+Emogramma: Hb 11,6 g/dl, piastrine 80 x1000/ul, leucociti 16,30x1000/ ul, neutrofili 94,7%.
+Coagulazione: attività protrombinica 65%, INR 1,34
+TC addome con sezioni del torace: addome normale. Le sezioni del torace incluse nello studio hanno mostrato un nodulo di 1 cm in LID, due in LII (il più grande misura 5 mm) e un altro nella parte anteriore della lingula, tutti indeterminati, con un'eziologia infettiva da valutare.
+Emocolture: S. aureus sensibile alla meticillina.
+Ecocardiogramma transtoracico: immagine compatibile con verruca endocardica di 15x10 mm ancorata al IV setto. Difetto del setto ventricolare restrittivo. Si consiglia l'ecocardiogramma transesofageo. Ecocardiogramma transesofageo: esclude il coinvolgimento di altre valvole.
+
+EVOLUZIONE
+In considerazione della sindrome febbrile presentata dal paziente, sono state richieste due serie di emocolture. Sulla base delle manifestazioni cliniche, è stato sospettato un possibile focolaio addominale ed è stata eseguita una TC addominale, che lo ha escluso, sebbene fossero evidenti possibili focolai infettivi nei polmoni.
+Sono state effettuate due serie di emocolture che sono risultate positive per lo Staphylococcus aureus. Dopo l'isolamento dello S. aureus in entrambe le serie e la presenza di un blocco di branca sinistra e di un soffio precedentemente sconosciuti, è stato eseguito un ecocardiogramma transtoracico che ha mostrato una verruca endocardica dipendente dall'apparato tricuspidale subvalvolare o dal setto interventricolare; e un difetto del setto ventricolare restrittivo (GP max 140 mmHg). È stata iniziata una terapia antibiotica con cloxacillina per via endovenosa, dopo la quale il paziente è rimasto asintomatico, con una diminuzione dei reagenti di fase acuta e con emocolture seriali sterili. Un ecocardiogramma transtoracico di controllo è stato eseguito 7 giorni dopo l'inizio della terapia antibiotica e si è constatato che l'immagine della verruca non era diminuita di dimensioni. È stato mantenuto un atteggiamento di attesa e 14 giorni dopo l'inizio della terapia antibiotica è stato eseguito un nuovo controllo ecocardiografico, che non ha mostrato cambiamenti rispetto all'ecocardiogramma diagnostico. Data la persistenza della vegetazione, è stato indicato un intervento chirurgico in collaborazione con il Servizio di Cardiochirurgia. Le possibilità sono state spiegate al paziente, che ha accettato. La vegetazione è stata resecata e la VSD è stata chiusa con sutura diretta. Il paziente ha avuto un'evoluzione positiva ed è stato inserito nel programma di emodialisi.
+
+DIAGNOSI
+Endocardite tricuspidale dovuta a S. aureus.

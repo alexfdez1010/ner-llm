@@ -1,0 +1,25 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 72 años que acude a urgencias por episodio de disnea brusca.
+Antecedentes personales de interés: accidente cerebrovascular isquémico en 2009 de etiología no filiada (eco-Doppler de troncos supraaórticos sin hallazgos patológicos), aneurisma de aorta abdominal infrarrenal y carcinoma escamoso de pulmón intervenido con lobectomía superior derecha hace 5 meses.
+Se encontraba en tratamiento crónico con ácido acetilsalicílico 300 mg/24 horas y salmeterol/propionato de fluticasona inhalado 50/500 mcg/12 horas.
+Refiere varios episodios de disnea desde hace un mes, siempre estando en bipedestación, sin relación con los esfuerzos. Sin ortopnea ni disnea paroxística nocturna. Sin tos, ni expectoración ni dolor torácico.
+A la exploración física destaca desaturación de oxígeno hasta alcanzar el 80% que mejora con el decúbito. Presión venosa yugular normal. Auscultación cardiaca rítmica, sin soplos ni extratonos.
+Auscultación pulmonar con hipofonesis en base pulmonar derecha, ausencia de crepitantes ni roncus. Ausencia de edemas en extremidades.
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA: glucosa 80 mg/dl, urea 50 mg/dl, creatinina 0,85 mg/dl, sodio 136 mEq/l, potasio 4,1 mEq/l, troponina I < 0,01 ng/ml, BNP 102,6 pg/ml, hemoglobina 16,1 g/dl, hematocrito 50,8%, VCM 96,8 fl, leucocitos 9.100, plaquetas 111.000, dímero D 2.005 ng/l. Coagulación normal.
+GASOMETRÍA ARTERIAL: pH 7,43, pCO2 26,5 mmHg, p02 100,3 mmHg, saturación de oxígeno (SatO2) 98,7%, bicarbonato 17,5 mEq/l.
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal a 95 lpm. PR 200 ms, QRS de 100 ms, con morfología de hemibloqueo anterosuperior izquierdo. Sin alteraciones de la repolarización.
+RADIOGRAFÍA DE TÓRAX: elevación de hemidiafragama derecho. Silueta cardiaca normal.
+TC TORÁCICO: pérdida de volumen en lóbulo superior derecho en relación con lobectomía. Atelectasia residual de lóbulo medio y elevación de hemidiafragma derecho. No se observan defectos de repleción en arterias pulmonares sugestivos de tromboembolismo pulmonar.
+ECOCARDIOGRAMA TRANSTORÁCICO: ventrículo izquierdo de dimensiones y función sistólica normales, sin alteraciones segmentarias de la contractilidad.
+Cavidades derechas normales con función ventricular conservada. Válvulas mitral y aórtica sin anomalías. Septo interauricular hipermóvil. Presión pulmonar normal. Se realiza test de burbujas con suero salino agitado con paso masivo de burbujas de cavidades derechas a izquierdas en el primer y segundo latido que sugiere shunt derecha-izquierda.
+ECOCARDIOGRAMA TRANSESOFÁGICO: septo interauricular aneurismático con amplio despegamiento de la membrana de la fosa oval y paso masivo de burbujas con suero fisiológico agitado desde la aurícula derecha a la izquierda.
+
+EVOLUCIÓN CLÍNICA
+Inicialmente el paciente responde a oxigenoterapia con gafas nasales, por lo que ingresa en planta para estudio. Se realiza en primer lugar un TC torácico para descartar tromboembolia pulmonar (TEP) o complicación de la reciente lobectomía. Ante la ausencia de patología pulmonar que justifique el cuadro, se solicita ecocardiograma con vistas a descartar shunt intracardiaco. El estudio basal muestra septo interauricular hipermóvil con posible shunt que se hace evidente en el test de burbujas con suero salino agitado. Se completa estudio con ecocardiograma transesofágico que confirma la presencia de aneurisma de septo interauricular con foramen oval permeable (FOP) y shunt derecha izquierda.
+El paciente presenta empeoramiento rápidamente progresivo, con hipoxemia mantenida grave (SatO2 65%) que no se corrige con la posición ni con oxigenoterapia. Ante esta situación se decide cierre percutáneo urgente del FOP bajo control con eco intracardiaco. Tras el cierre del FOP, normalización de la saturación de oxígeno y desaparición de la disnea.
+
+DIAGNÓSTICO
+Síndrome platipnea-ortodeoxia por foramen oval permeable tras lobectomía derecha.
+Cierre percutáneo urgente de foramen oval permeable.

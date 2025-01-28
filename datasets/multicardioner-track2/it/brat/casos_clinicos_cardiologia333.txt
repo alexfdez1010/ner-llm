@@ -1,0 +1,49 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+STORIA PERSONALE
+Maschio, 43 anni, sportivo regolare di intensità moderata-alta.
+Nessuna allergia a farmaci.
+Nessuna abitudine tossica o fattore di rischio cardiovascolare.
+Nessuna storia cardiologica precedente.
+Emicrania con aura studiata nel 2015 con RMN cerebrale senza reperti patologici e da allora asintomatica.
+Nessun intervento chirurgico o trattamento cronico.
+
+MALATTIA ATTUALE
+Un uomo di 43 anni ha presentato un'improvvisa perdita di coscienza durante un esercizio fisico di moderata intensità (corsa), senza precedenti manifestazioni cliniche. I testimoni che lo accompagnavano hanno riferito di averlo osservato cadere a terra senza risposta agli stimoli, senza respirazione spontanea e senza polso palpabile, quindi hanno iniziato le manovre di rianimazione cardiopolmonare (RCP) di base e hanno chiamato i servizi di emergenza.
+All'arrivo dell'équipe medica è stata rilevata una fibrillazione ventricolare. È stato somministrato un singolo shock efficace, ottenendo un ritmo sinusale con polso. Il paziente è stato immediatamente trasferito al centro di riferimento sedato e anestetizzato, con intubazione orotracheale e ventilazione meccanica, emodinamicamente stabile senza amine.
+
+ESAME FISICO
+Dati antropometrici: peso 74 kg, altezza 1,82 m. Indice di massa corporea (BMI) 22,3 kg/m2.
+Segni vitali: pressione arteriosa (BP) 104/82 mmHg. Frequenza cardiaca (FC) 62 bpm.
+Saturazione di O2 (SatO2) 98% con FiO2 al 21%.
+Cardiovascolare: pressione venosa giugulare normale. Riflesso epatogiugulare negativo.
+Auscultazione cardiaca: regolare, senza soffi.
+Auscultazione polmonare: murmure vescicolare conservato. Assenza di aggregati.
+Addome: piatto. Suoni idroaerei presenti. Morbido, depressibile. Assenza di visceromegalia.
+Neurologia: pupille isocoriche. Riflessi pupillari conservati. Riflessi motori delle estremità senza alterazioni (II/IV).
+Estremità: nessun edema. Polsi periferici conservati e simmetrici.
+
+ESAMI COMPLEMENTARI
+Elettrocardiogramma (ECG): ritmo sinusale a 93 bpm. PR 120 ms. QRS 60 ms. QTc 398 ms. Nessuna alterazione della ripolarizzazione.
+Esami del sangue all'ammissione: emoglobina 16 g/dl, ematocrito 47,5%, piastrine 223.000 /μl, leucociti 7.400 /μl. Rapporto internazionale normalizzato (INR) 1,05. Glicemia basale 82 mg/dl.
+Urea 36 mg/dl. Creatinina 0,81 mg/dl. Sodio 137 mEq/l. Potassio 4,1 mEq/l.
+Marcatori di danno miocardico: troponina I US: 0,0 ng/ml.
+Radiografia del torace: silhouette cardiomediastinica centrata. CTI inferiore a 0,5. Campi polmonari senza condensazione o versamento pleurico.
+Ecocardiogramma transtoracico: ventricolo sinistro con diametri, volumi e funzione sistolica globale conservati (LVEF 65%). Assenza di alterazioni della contrattilità segmentale a riposo. Modello di riempimento transmitralico normale. Assenza di valvulopatie significative. Atrio sinistro normale. Ventricolo destro normale. Assenza di insufficienza tricuspidale (TI) che consenta di stimare la pressione sistolica dell'arteria polmonare (PAP) senza dati suggestivi di ipertensione polmonare (PHT). Vena cava inferiore (IVC) normale. Esplorazione in ritmo sinusale.
+Angiografia coronarica: arterie coronarie epicardiche senza ateromatosi.
+Origine anomala della coronaria sinistra (LCT) nel seno di Valsalva destro, alta e anteriore, opposta all'origine della coronaria destra (RCA) che viene riempita durante la somministrazione di contrasto nell'incannulamento della LCT. Possibile tratto interarterioso della LMCA.
+Angiografia coronarica TC: valvola aortica trivalve con diametri conservati. Si conferma la presenza di una LMCA con origine nel seno di Valsalva destro e tragitto interarterioso (tra il tronco polmonare e l'aorta). Arteria discendente con evidenza di ampia diagonale senza lesioni significative. Arteria circonflessa senza lesioni. Origine dell'arteria coronaria destra nel seno di Valsalva destro senza lesioni. Conclusione: origine dell'arteria coronaria sinistra nel seno di Valsalva destro con traiettoria interarteriosa.
+Ergometria post-chirurgica: test massimale interrotto alle 13:33 del protocollo Bruce (14,5 METS) per esaurimento fisico. Nessuna angina o alterazione del segmento ST che soddisfi i criteri di positività rispetto all'elettrocardiogramma basale. Nessuna aritmia. Pressione arteriosa e risposta cronotropa adeguate. Buona capacità funzionale.
+Ecocardiogramma da sforzo post-chirurgico: test da sforzo con cicloergometro. Test massimo che raggiunge il 103% della frequenza cardiaca massima teorica. Esegue un totale di 15 minuti e 26 secondi di esercizio, corrispondenti a 1 minuto e 27 secondi della fase 8 del protocollo OMS (200 watt). Non sono state osservate alterazioni della contrattilità segmentale a riposo o su sforzo, né alterazioni elettriche o dolore toracico.
+
+EVOLUZIONE CLINICA
+Un giovane uomo con arresto cardiorespiratorio si è ripreso in fibrillazione ventricolare durante uno sforzo moderato, presentando un elettrocardiogramma post-CRP in ritmo sinusale, senza alterazioni della ripolarizzazione e con un intervallo QTc normale. Un ecocardiogramma d'urgenza non ha mostrato anomalie con LVEF normale, nessun segno indiretto di tromboembolia polmonare massiva (PTE), nessun flap aortico e nessun versamento pericardico. La radiografia del torace d'emergenza ha escluso il pneumotorace. L'emogasanalisi arteriosa ha mostrato iperlattacidemia con altri parametri e livelli di emoglobina normali. La tomografia computerizzata (TC) cerebrale d'urgenza non ha evidenziato eventi emorragici o ischemici acuti.
+Data la normalità degli studi eziologici iniziali, si è deciso di eseguire un'angiografia coronarica d'urgenza in cui sono state trovate arterie epicardiche senza lesioni angiografiche con origine anomala dell'arteria coronaria principale sinistra (LMCA) nel seno di Valsalva destro con una possibile traiettoria interarteriosa.
+Ricoverato nell'unità coronarica, emodinamicamente stabile senza necessità di amine, in ritmo sinusale senza eventi aritmici e consentendo un progresso nello svezzamento con estubazione precoce nelle prime 48 ore senza deficit neurologici. Gli studi sono stati completati con la TC delle arterie coronarie che ha confermato l'origine anomala della LMCA nel seno di Valsalva destro con traiettoria interarteriosa.
+Durante il ricovero in unità coronarica il paziente è rimasto asintomatico ed emodinamicamente stabile. Il caso è stato discusso in una sessione medico-chirurgica e si è deciso di eseguire un intervento chirurgico con doppio impianto di bypass: dall'arteria mammaria destra all'arteria marginale ottusa e dall'arteria mammaria sinistra all'arteria discendente anteriore con un periodo post-operatorio favorevole senza incidenti.
+La paziente è rimasta asintomatica nei successivi controlli ambulatoriali. Sono state eseguite un'ergometria e un'ecocardiografia da sforzo; entrambi i test sono risultati massimali e negativi per l'ischemia.
+
+DIAGNOSI
+Arresto cardiorespiratorio durante esercizio fisico in fibrillazione ventricolare.
+Origine anomala del tronco coronarico sinistro dal seno di Valsalva destro con traiettoria interarteriosa.
+Rivascolarizzazione chirurgica con doppio bypass.

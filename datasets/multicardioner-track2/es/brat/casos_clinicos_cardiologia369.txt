@@ -1,0 +1,42 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 67 años en seguimiento con consulta de cardiología.
+
+ANTECEDENTES:
+Alergia al ácido acetilsalicílico (AAS).
+Cardiopatía isquémica coronaria con enfermedad de un vaso: angioplastia coronaria transluminal percutánea (ACTP) e implante de stent farmacoactivo en arteria descendente anterior (DA) media. Función VI normal.
+Hipertensión arterial (HTA).
+Insuficiencia renal crónica estadio III.
+Trombosis venosa profunda con mutación del factor V de Leiden (Arg506Gln).
+Marcapaso bicameral por bloqueo auriculoventricular (BAV) completo (2015).
+Fibrilación auricular paroxística.
+Tratamiento domiciliario: clopidogrel 75, esomeprazol 20 mg, bisoprolol 5 mg 1-0-0, losartán 50 mg 1-0-0, acenocumarol, simvastatina 40 mg 0-0-1, tamsulosina.
+
+ENFERMEDAD ACTUAL:
+Paciente en seguimiento ambulatorio por enfermedad coronaria de un vaso y fibrilación auricular paroxística, que acude a revisión en consulta de cardiología al año del evento. Refiere encontrarse sin angina, pero con astenia y disnea a moderados esfuerzos.
+
+EXPLORACIÓN FÍSICA:
+Tensión arterial (TA) 130/70 mmHg. Frecuencia cardiaca (FC) 54 lpm. Peso 66 lpm. Talla 175 cm.
+Perímetro abdominal 85 cm.
+Ruidos cardiacos rítmicos sin soplos. Auscultación pulmonar con murmullo vesicular conservado.
+Abdomen sin masas palpables. No edemas en miembros inferiores. Pulsos pedios presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA: hemoglobina 13,8 gr/dl, plaquetas 200.000, creatinina 3,2 mg/dl, MDRD-4 20 ml/min/sup, sodio 140 meq/l, potasio 5,1 mel/l, GOT 9 U/L, GPT 15 U/l. Perfil lipídico: colesterol total 244 mg/dl, 251 mg/dl, HDL 31 mg/dl, LDL 162 mg/dl.
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal con estimulación ventricular.
+ECOCARDIOGRAFÍA: ventrículo izquierdo no dilatado con función sistólica global conservada, sin trastornos segmentarios de la contractilidad.
+ANALÍTICA (tras el inicio de los inhibidores de la proproteína convertasa subtilisina/kexina tipo 9 [PCSK9]: colesterol total 108 mg/dl, HDL 46 mg/dl, LDL 45 mg/dl.
+
+EVOLUCIÓN CLÍNICA
+En la valoración anual de seguimiento se solicita ecocardiograma de esfuerzo debido a la disnea de esfuerzo que presentaba el paciente.
+En el perfil lipídico se detectan cifras elevadas de colesterol unido a lipoproteínas de baja densidad (cLDL), motivo por el que se intensifica tratamiento hipolipemiante, sustituyendo simvastatina 40 por rosuvastatina de 10 mg.
+El paciente acude nuevamente a consulta con el resultado del ecocardiograma de esfuerzo, siendo este negativo para isquemia (85% de FCMO; 7 equivalentes metabólicos (MET); sin datos de isquemia en ecocardiografía).
+Asimismo, el paciente refiere molestias musculares desde la última consulta y decide suspender el tratamiento con rosuvastatina. Por este motivo, se solicita un nuevo perfil lipídico y se pauta pitavastatina 2 mg y ezetimiba 10 mg. Paralelamente se reduce la dosis de betabloqueante del paciente, por si la sensación de astenia pudiera estar en relación con ello (bisoprolol 2,5 mg/24 horas).
+El paciente acude a consulta a los 3 meses refiriendo la misma sintomatología y que no tolera la nueva estatina. En la analítica no se detectan alteración hepática o daño muscular (GOT/GPT 19/18 U/L), pero debido a la mala tolerancia del paciente con hasta tres estatinas diferentes, se propone para iniciar tratamiento con evolocumab.
+Se inicia evolocumab 140 mg/2 semanas, con buena tolerancia.
+En el control analítico a los 2 meses de inicio del tratamiento se solicita control lipídico con cifras de LDL 45 mg/dl.
+Al año de seguimiento y, debido a que precisaba anticoagulación oral, se decidió suspender el clopidogrel y mantener el acenocumarol, con el fin de reducir el riesgo hemorrágico.
+
+DIAGNÓSTICO
+Enfermedad arterial coronaria de un vaso.
+Fibrilación auricular paroxística.
+Intolerancia a estatinas, con muy alto riesgo cardiovascular.

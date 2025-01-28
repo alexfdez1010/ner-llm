@@ -1,0 +1,32 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+BACKGROUND:
+Paziente di 60 anni, con anamnesi di fumo attivo di 1 pacchetto al giorno, dislipidemia, esofagite eosinofila (in trattamento con corticosteroidi per via inalatoria) e cisti di Tarlov con compressione delle radici sacrali di sinistra. Anamnesi familiare di cardiopatia ischemica.
+Anamnesi cardiologica: episodi ricorrenti di dolore toracico. Nel 2015 è stato eseguito un test di ischemia, che è risultato negativo, e successivamente una TC coronarica ha mostrato una significativa coronaropatia. L'angiografia coronarica ha mostrato una grave malattia dell'arteria circonflessa e coronarica destra ed è stato eseguito un intervento coronarico percutaneo (PCI) con stent a rilascio di farmaco.
+
+MALATTIA ATTUALE:
+Dopo aver assunto moxifloxacina per una bronchite, ha presentato un episodio di dispnea improvvisa con prurito generalizzato e oppressione toracica che si irradiava a entrambe le estremità.
+Ha poi avuto un episodio sincopale. È stata assistita da 061 che ha osservato: condizioni generali precarie, pressione arteriosa (BP) 69/20, saturazione di ossigeno (SatO2) 82% e all'elettrocardiogramma (ECG) onde T acute con innalzamento del punto J di 2 mm in V3-V6. Sono stati avviati O2, fluidoterapia e trattamento come sindrome coronarica acuta con innalzamento del segmento ST (STEMI) e il paziente è stato trasferito in ospedale per una PCI primaria. Il paziente è arrivato nel reparto di emodinamica con una pressione arteriosa sistolica (SBP) di 60 mmHg e sonnolenza; è stato iniziato un trattamento con plasma espansivi e inotropi. Angiografia coronarica: arterie coronarie senza lesioni e ottimi risultati degli stent precedentemente impiantati. Assenza di dissezione aortica. Ventricolografia senza alterazioni segmentali e con mitrale competente. All'arrivo in reparto, eritema cutaneo.
+ECG di controllo successivo in sala di osservazione: normalizzazione della ripolarizzazione con appiattimento delle onde T sul lato anterolaterale. Evoluzione clinica favorevole con progressiva scomparsa dell'eritema cutaneo e normalizzazione della pressione arteriosa; è stato possibile ritirare il supporto inotropo. Leggera elevazione della troponina I (picco TnI 0,46) nel siero biomarker. Ricoverato in cardiologia con una diagnosi di shock anafilattico dopo l'assunzione di moxifloxacina + probabile sindrome di Kounis (KS) (spasmo coronarico nel contesto di una reazione allergica).
+
+ESAME FISICO:
+Pressione arteriosa 122/71, frequenza cardiaca (FC) 82 bpm, SatO2 95%. Cosciente e orientato, congestione cutanea, normoidratato. Auscultazione cardiaca: suoni cardiaci ritmici, nessun soffio. Non c'è ingorgo giugulare. Auscultazione polmonare: ventilazione normale. Addome: morbido, depressibile, non dolente alla palpazione. Assenza di masse o megaliti. Nessun segno di irritazione peritoneale.
+Peristalsi conservata. Arti inferiori: nessun edema o segno di trombosi venosa profonda.
+
+ESAMI COMPLEMENTARI
+ANALITICI: glucosio 96 mg/dl. Creatinina 0,54 mg/dl, Na 130 mEq/l, TSH normale. Colesterolo 116 mg/dl, HDL 46 mg/dl, LDL 54 mg/dl. Emoglobina 11,1 g/dl, piastrine 236 x 10^3/microl.
+Radiografia del torace: nessun reperto rilevante.
+ECG (061): ritmo sinusale a 97 bpm, onde T iperacute con elevazione del punto J di circa 2 mm in V3-V6.
+ECG alla dimissione: ritmo sinusale a 63 bpm. rs in III, aVF. T negativo in III. ST rettilineo in V5-V6.
+ECOCARDIOGRAMMA: ventricolo sinistro (LV) di dimensioni e spessore di parete normali. Funzione sistolica globale normale, senza asimmetrie segmentali della contrattilità. Modello diastolico normale. Atrio sinistro di dimensioni normali. Camere destre normali, ventricolo destro (RV) normocontrattile. Valvola mitrale (MV): foglietti sottili, apertura non limitata, competente. Valvola aortica (VAo): trivalve, foglietti sigmoidei normali, apertura non limitata, competente. Radice aortica e porzione visualizzata dell'aorta ascendente prossimale normali.
+Insufficienza tricuspidale (TI) minima. Vena cava inferiore (IVC) non dilatata con normale collasso inspiratorio. Pressione sistolica stimata dell'arteria polmonare (PAP) normale. Assenza di versamento pericardico e di masse intracavitarie attraverso questa via di accesso.
+CORONARIE: albero coronarico senza lesioni di interesse, con flusso TIMI 3 e ottimi risultati degli stent precedentemente impiantati. Assenza di dissezione aortica. Buona funzione ventricolare sinistra, senza alterazioni segmentali e con valvola mitrale competente.
+
+EVOLUZIONE CLINICA
+In reparto il paziente è rimasto stabile, sempre asintomatico. È stato eseguito un ecocardiogramma di controllo che ha mostrato una funzione sistolica normale, senza altre alterazioni di interesse. A causa di un'anamnesi di iperreattività in un paziente con funzione sistolica normale, senza precedente infarto miocardico acuto (IMA), i beta-bloccanti sono stati sospesi. Il paziente è stato indirizzato preferibilmente al reparto di allergologia per il monitoraggio. Asintomatico e stabile, il paziente è stato dimesso dall'ospedale.
+
+
+DIAGNOSI
+Shock anafilattico dopo l'assunzione di moxifloxacina. Sindrome di Kounis.
+Cardiopatia ischemica cronica: arterie coronarie senza lesioni angiografiche significative.
+Buoni risultati di precedenti stent.

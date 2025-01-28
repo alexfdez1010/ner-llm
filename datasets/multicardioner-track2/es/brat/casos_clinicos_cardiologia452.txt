@@ -1,0 +1,46 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+Mujer de 74 años.
+Factores de riesgo cardiovascular: hipertensión. Dislipemia.
+Historia cardiológica: fibrilación auricular paroxística desde 2002, en tratamiento con sintrom. Siguió tratamiento con amiodarona hasta 2010, retirándose por neumopatía intersticial. En relación con episodio de fibrilación auricular rápida, requirió ingreso por edema agudo de pulmón y cardioversión eléctrica en 2002. En el ecocardiograma previo al ingreso presentaba insuficiencia mitral moderada reumática, FEVI normal y dilatación severa de aurícula izquierda.
+Otros antecedentes: episodio de TVP y TEP en 2002 (en el mismo ingreso en el que se diagnostica fibrilación auricular). Carcinoma de mama intervenido (cirugía y radioterapia en 2006). Neumopatía intersticial en probable relación a amiodarona.
+Situación basal: IABVD. CF II de la NYHA.
+Tratamiento habitual: enalapril 5 mg/12h, torasemida 5 mg/d, acenocumarol según pauta (10,5 mg/semana), atorvastatina 20 mg/d.
+
+Enfermedad actual
+La paciente ingresa por episodio de fibrilación auricular a 200 lpm, tratada con betabloqueantes (produciéndose cardioversión espontánea). Se realiza ecocardiograma transesofágico en el que se observa trombo en orejuela izquierda. En el momento del ingreso presentaba INR de 3,5, pero con gran variabilidad en los controles previos, varios por debajo de 2. Al alta se prescribe tratamiento con atenolol y enoxaparina. Dos meses después, la paciente vuelve a Urgencias por flúter auricular común, objetivándose resolución del trombo de la orejuela. Se decide entonces realizar ablación del istmo cavo tricuspídeo. En un ingreso posterior desarrolla un flúter izquierdo iniciándose tratamiento con atenolol, digoxina y reintroduciéndose en este momento el acenocumarol.
+Acude nuevamente a Urgencias por dolor abdominal, objetivándose un INR 4,4 y visualizándose en el TAC: hematoma de pared abdominal con sangrado activo de la arteria epigástrica.
+
+Exploración física
+Regular estado general, palidez cutánea, sudorosa, taquipneica. TA 135/75, FC 132, Sat 94 %. Afebril. No ingurgitación yugular. Auscultación cardiopulmonar normal. Abdomen doloroso a la palpación en flanco izquierdo, con hematoma en pared a nivel del hemiabdomen inferior. No irritación peritoneal. Extremidades con signos de insuficiencia venosa crónica, mínimos edemas maleolares, pulsos simétricos
+
+PRUEBAS COMPLEMENTARIAS
+Durante el ingreso por fibrilación auricular rápida:
+Analítica: Hb 14,5, leucocitos 7200, plaquetas 283.000, INR 3,5, Cr 0,8, Na 141, K 4,9,
+PCR negativa. Revisamos INR previos con valores muy fluctuantes.
+ECG: fibrilación auricular a 170 lpm, QRS estrecho, eje normal, sin datos de crecimiento ni sobrecarga.
+Ecocardiograma transesofágico: trombo móvil en orejuela izquierda de 2,0 x 1,3 cm.
+Válvula mitral sin estenosis y con insuficiencia moderada. Dilatación aneurismática de aurícula izquierda. Válvula aórtica esclerocalcificada y con insuficiencia leve. IT leve que permite estimar una PSAP en 50 mmHg. Función sistólica biventricular conservada, sin dilatación de cavidades.
+Durante el ingreso por flúter auricular:
+Ecocardiograma transesofágico: no existe trombo en orejuela izquierda salvo contraste espontáneo. Lesión orgánica mitral degenerativa que genera una insuficiencia moderada. Insuficiencia tricúspide moderada. Dilatación de aurícula izquierda.
+Vmáx RM: 583,3 cm/s, GP máx RM: 136,1 mmHg, ERO RM: 0,22 cm2. Radio PISA RM: 0,74 cm.
+Durante el ingreso por hematoma de la pared abdominal:
+ECG en Urgencias: fibrilación auricular que alterna con flúter izquierdocon longitud de ciclo de 380 mseg. y conducción variable (2:1 / 1:1).
+Analítica en Urgencias: Hb 10; Hto 32; leucocitos 6.600; neutrófilos 80 %; plaquetas 192.000; INR 1,2; sodio 140; potasio 5,7; glucemia 396; creatinina 0,9; urea 42.
+TC abdominal: hematoma de pared abdominal anterior, localizado en el músculo recto anterior izquierdo, de atenuación heterogénea, que mide 6 x 8 x 16 cm.
+Se identifica extravasado de contraste intravenoso en fase arterial, que aumenta en fase venosa, compatible con sangrado activo arterial dependiente de la arteria epigástrica inferior izquierda.
+
+EVOLUCIÓN
+La paciente ingresó en UCI. Se revirtió la anticoagulación con vitamina K y complejo protrombínico (Octaplex), se embolizó el punto sangrante por parte del Servicio de Radiología intervencionista, y se transfundieron 2 concentrados de hematíes, con estabilización clínica y hemodinámica.
+Durante el ingreso alterna fibrilación auricular con flúter atípico y ante la imposibilidad de control de frecuencia se avisa a Cardiología: se traslada a Unidad Coronaria y se pauta atenolol y digoxina intravenosos, pero la paciente presenta nuevas rachas a 200 lpm y de bradicardia sintomática. Los dos primeros no se instaura anticoagulación. Posteriormente, dado el antecedente del sangrado y el alto riesgo trombótico, se inicia perfusión continua de heparina sódica. Ya en planta se sustituye por apixabán, inicialmente 2,5 mg cada 12 horas, y luego se aumenta la dosis a 5 mg cada 12 horas. Se repite el ecocardiograma transesofágico en el que se comprueba nuevamente la ausencia de trombo en la orejuela.
+En cuanto al manejo de la fibrilación y flúter auricular, considerando el mal control con tratamiento médico, se opta por ablación del nodo AV e implantación de marcapasos DDDR, que se lleva a cabo sin complicaciones. La paciente evolucionó favorablemente y fue dada de alta, en tratamiento con apixabán 5 mg/12h, atenolol 50 mg/12h (como antihipertensivo), atorvastatina 20 mg/día, pantoprazol 40 mg/día y furosemida 40 mg/día.
+Un año después, presentaba insuficiencia mitral severa con empeoramiento de clase funcional y se decidió intervención quirúrgica con sustitución valvular mitral por bioprótesis Epic Mitral de 27 mm, realizándose ligadura quirúrgica de la orejuela izquierda en el mismo acto.
+
+DIAGNÓSTICO
+Fibrilación auricular paroxística. Flúter auricular común con ablación del istmo cavo tricuspídeo. Flúter auricular izquierdo. Síndrome de bradicardia-taquicardia.
+CHADS-VASc: 3 puntos. HAS-BLED: 4.
+Insuficiencia mitral moderada reumática. Sustitución valvular con prótesis mitral biológica.
+Trombo en orejuela izquierda, resuelto. Ligadura quirúrgica de la orejuela izquierda.
+Hematoma espontáneo de los rectos por sangrado de arteria epigástrica izquierda, en relación a anticoagulación con acenocumarol, con anemización importante. Embolización de arteria epigástrica izquierda.
+Ablación del nodo AV. Implante de marcapasos DDDR.

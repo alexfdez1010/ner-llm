@@ -1,0 +1,58 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+PERSONAL HISTORY
+Patient aged 49 years, no known drug allergies, Romanian nationality. No known family history. Personal history of:
+Cardiovascular risk factors (CVRF): ex-smoker since 2014, dyslipidaemic with poor control with statins and overweight.
+Chronic ischaemic heart disease: acute myocardial infarction (AMI) q inferior in March 2014, fibrinolised with reperfusion criteria. Epistenocardial pericarditis during admission.
+Coronary angiography 2014: 2-vessel coronary artery disease.
+Severe right coronary artery (RCA) (artery responsible for AMI): implantation of two drug-eluting stents proximally and distally.
+Descending anterior descending (DA) with moderate stenosis, no action taken.
+Echocardiogram at discharge: preserved LVEF, with basal inferior and inferior septal hypokinesia.
+Isotope stress test at one month after discharge with inferior necrosis. LVEF 47% and the rest of the segments without evidence of ischaemia or contractility alterations.
+At discharge on treatment with acetylsalicylic acid 100 mg/24 hours, clopidogrel 75 mg/24 hours, bisoprolol 5 mg/24 hours and atorvastatin 80 mg/24 hours.
+
+CURRENT ILLNESS
+Since discharge he has been monitored in cardiology consultations. He was asymptomatic, in class I, with no recurrence of chest pain or evidence of inducible ischaemia in an isotope stress test performed one month later. He was started on a low-dose angiotensin-converting enzyme inhibitor (ACE inhibitor), which he had not tolerated during admission due to hypotension, and clopidogrel was withdrawn after one year without incident.
+However, from the time of admission, LDL cholesterol levels > 180 mg/dL despite switching to a high-dose high-potency statin (atorvastatin) and elevated levels of lipoprotein A, apoB and homocystinuria were striking. In 2016, he reported myalgias and laboratory tests showed elevated CPK and mild AST and insufficient LDL control, so atorvastatin was replaced by rosuvastatin 20 mg/day and ezetimibe was added.
+The patient stopped coming for check-ups, until 2018, when he was again referred to our clinic for analytical abnormalities in lipid metabolism. According to the patient, he continues to be asymptomatic from a cardiovascular point of view, reporting only mild myalgias.
+He is taking medication correctly, including the two lipid-lowering drugs. At this consultation it was decided to study the patient further.
+
+PHYSICAL EXAMINATION
+At consultation in 2018:
+Blood pressure (BP) 115/60 mmHg, heart rate (HR) 60 bpm. Baseline SpO2 97%. No jugular venous engorgement.
+Cardiac auscultation: rhythmic sounds without murmurs or extratonos.
+Pulmonary auscultation: normal.
+Abdomen: nondescript.
+Lower extremities: no oedema or signs of deep vein thrombosis.
+
+COMPLEMENTARY TESTS
+Electrocardiogram (ECG) (AMI 2014): sinus rhythm at 66 bpm, normal PR, narrow QRS, normal axis, up to 1.5 mm ST supradelevation in inferior face, V5-V6 with specular image in I, and AVL.
+ECG in consultation 2018: sinus rhythm at 56 bpm, normal PR, narrow QRS, lower qR with negative asymmetric T wave in II, III, AVF, and flattened in I, AVL, V5-V6, unchanged from ECG of previous consultation in 2015. Normal QTc.
+Coronary angiography 2014: 2-vessel coronary artery disease:
+CD: severe stenosis due to complicated plaque extending from the end of the proximal segment (responsible for AMI). Significant stenosis in the mid-distal segment: percutaneous transluminal coronary angioplasty (PTCA) + implantation of two non-overlapping drug-eluting stents proximally and distally.
+AD: moderate stenosis in medial proximal segment, uncomplicated, assessed by intravascular echocardiography (IVUS).
+Echocardiogram at discharge 2014: left ventricle neither dilated nor hypertrophied (LVEDDVI 56 mm, IVUS 10 mm, PP 10 mm) with preserved systolic function (LVEF 54%) and inferior septal and basal inferior segment hypokinesia. Mild mitral and aortic regurgitation. Minimal pericardial effusion of 3 mm in posterior sac.
+Blood tests in AMI 2014: haemogram: Hb 14.2 g/dl; Hct 43.1%; leukocytes 10.9 mil/mm3; platelets 241 mil/mm3. Biochemistry: basal glucose 96 mg/dl; creatinine 0.91 mg/dl; total cholesterol 234 mg/dl; triglycerides 102 mg/dl; HDL-C 30 mg/dl; LDL-C 183.6 mg/dl; APO-B 148 mg/dl. Lipoprotein A 49.4mg/dl, basal homocysteine 16.34 micromol/l, 16.34U/l, AST 24 U/l; ALT 31 U/l; GGT 54 U/l. Maximal myocardial necrosis markers: TnI > 97 ng/ml (0-0.04); CPK 4443 U/l (39-308), CK-MB 510 U/l (5-24).
+Isotope stress test (one month after discharge): inferior necrosis. LVEF 47%.
+Rest of segments without evidence of ischaemia or contractility alterations.
+Blood tests at consultation in January 2016: haemogram: normal. Biochemistry: basal glucose 117 mg/dl; creatinine 1.05 mg/dl; total cholesterol 261 mg/dl; triglycerides 117 mg/dl; HDL-C 47 mg/dl; LDL-C 190.6 mg/dl, AST 63 U/l (0-37); ALT 70 U/l (0-41); GGT 64 U/l (0-60),
+CPK 507 U/l (39-308).
+Blood tests in consultation, September 2018: total cholesterol 196 mg/dl; triglycerides 67 mg/dl; HDL-C 42 mg/dl; LDL-C 145 mg/dl, AST 28 U/l (0-37); CPK 305 U/l (39-308).
+Genetic study of familial hypercholesterolemia: positive.
+Heterozygosis of the variant c.2478del, p.(Val827Serfs*102), of the LDLR gene, classified as pathogenic with respect to familial hypercholesterolemia.
+Heterozygosis: rs4149056 polymorphism in the SLCO1B1 gene and rs17244841 of the HMGCR gene.
+Homozygosis: rs2032582 polymorphism of the ABCB1 gene.
+Blood tests at consultation after starting iPCSK9 in April 2019: total cholesterol 120 mg/dl; triglycerides 99 mg/dl; HDL-C 49 mg/dl; LDL-C 58 mg/dl.
+
+CLINICAL EVOLUTION
+This is a smoker, sedentary, obese and dyslipidaemic patient on treatment with simvastatin with LDL who debuted in 2014 with a lower AMI. On admission, LDL levels > 180 mg/dl were found despite a change to a high-dose high-potency statin since the event.
+In the first consultations after the coronary event, the patient had not presented chest pain again, and isotope exercise stress test showed no inducible ischaemia in the anterior descending artery territory, so percutaneous coronary intervention (PCI) was not performed on this lesion. On anamnesis, he reported weakness and myalgia in the extremities, in addition to a discrete elevation of AST and CPK, for which reason intolerance to atorvastatin was assumed, so it was replaced by rosuvastatin 20 mg/day and ezetimibe was added to optimise LDL control.
+In 2016, he stopped coming for check-ups, until 2018, when he was again referred to our offices for analytical alterations in lipid metabolism. According to him, he remains asymptomatic from a cardiovascular point of view. He was taking medication correctly, including the two lipid-lowering drugs, but his LDL levels were still around 150 mg/dl. At this consultation, it was decided to further study the patient and request genetic testing for familial hypercholesterolaemia, which was positive. For this reason, treatment was finally started with a PCSK9 inhibitor, evolocumab at a dose of 140 mg every 2 weeks, achieving a greater than 50% decrease with respect to the previous LDL figures with combined treatment.
+
+DIAGNOSIS
+Chronic ischaemic heart disease: AMI Q lower Killip I in 2014
+2-vessel coronary artery disease (DC [responsible] and LAD): effective fibrinolysis and subsequent PCI with implantation of two drug-eluting stents in DC.
+Absence of inducible ischaemia in the LAD territory.
+Preserved LVEF.
+Familial hypercholesterolemia in heterozygosis.
+Intolerance to atorvastatin.

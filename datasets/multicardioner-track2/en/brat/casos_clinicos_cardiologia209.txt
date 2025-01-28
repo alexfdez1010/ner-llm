@@ -1,0 +1,40 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+Personal history
+Male patient aged 28 years.
+No known allergic reactions to medication.
+No cardiovascular risk factors. No known consumption of toxic substances.
+Cardiological history: no known heart disease.
+No other relevant pathologies.
+Family history: paternal uncle suffered from colorectal cancer at the age of 58. No other family history of interest.
+He does not take treatments on a regular basis.
+
+Current illness
+Patient presented to the emergency department for sudden loss of consciousness while watching a football match. He did not present chest pain before or after the episode, but did report an abrupt onset of palpitations at a high frequency in the moments prior to the event. He reported some previous general malaise, but denied fever or infectious symptoms. He denied the use of drugs or toxic substances.
+The observers did not describe shaking or signs attributable to neurological focality. The patient's memory of the moments after regaining consciousness was preserved.
+During his transfer to out-of-hospital medical services, he presented a new episode of loss of consciousness, at which time the electrocardiographic recording showed a rhythm compatible with ventricular fibrillation, which resolved after 2 shocks at 100 J, restoring sinus rhythm.
+
+Physical examination
+Temperature 36o C; blood pressure 159/83 mmHg; heart rate 86 bpm; O2 saturation 97% without contributions. No signs of tachypnoea at rest. Neurological examination without alterations. Cardiac auscultation was rhythmic, without murmurs and pulmonary auscultation without pathological sounds. Abdominal examination showed no palpable organomegaly, hepatojugular reflux was negative. The lower limbs were free of oedema and there were no signs of deep vein thrombosis. Pulses were strong and symmetrical.
+
+COMPLEMENTARY TESTS
+Laboratory tests in the ED: leukocytes 8300 /ml, haemoglobin 15.3 g/dl; platelets 235000 u/l. No coagulation alterations; basal glucose 108 mg/dl; urea 43 mg/dl; creatinine 0.67 mg/dl; estimated glomerular filtration rate (MDRD-4) 97 ml/min/1.73 m2; total bilirubin 0.6 mg/dl; GOT 22 IU/l; CPK 107 IU/l; Na 136 mmol/l; potassium 4.4 mmol/l; corrected calcium 9.5 mg/dl; magnesium 2 mg/dl; urine toxins/drugs of abuse: negative.
+Out-of-hospital electrocardiogram (ECG) during loss of consciousness: ventricular fibrillation rhythm evidenced during out-of-hospital monitoring.
+Baseline 12-lead surface ECG: sinus rhythm without pre-excitation or atrioventricular (AV) conduction block. QRS with Ic-oved type Brugada pattern morphology. A right bundle branch block morphology with rsR" complex is observed, which continues with a descending ST that crosses the isoelectric line to continue with a negative T. The corrected QT interval is normal.
+The corrected QT interval is normal. As the electrostatic positioning is moved up one intercostal space the pattern becomes more evident.
+Urgent transthoracic echocardiogram: preserved systolic function, without alterations of segmental contractility. Chambers neither dilated nor hypertrophic. Tricuspid aortic valve with no remarkable valvulopathy. Normally functioning mitral valve. No other significant valvulopathies were observed. No pericardial effusion. Inferior vena cava not dilated, with adequate inspiratory collapsibility. Conclusion: study within normal parameters
+Cardiac magnetic resonance imaging (MRI): MRI study with anatomical sequences in the axial plane enhanced in T1 and T2, cine sequences in short axis, four chambers and right ventricular outflow tract (RV) and, finally, late enhancement in short axis and four chambers. Anatomical assessment: cavities neither hypertrophic nor dilated, within normal limits: left atrium 58 x 20 mm; right atrium 52 x 46 mm; left ventricle 55 x 98 mm; right ventricle 42 x 88 mm. Interventricular septum 9 mm with free wall 7 mm. Right ventricle wall 3 mm. No contractility alterations were observed. No oedema is seen in the T2 sequences. No late enhancement after gadolinium administration. There was no pericardial effusion. In the functional study the following parameters were found: left ventricular ejection fraction 58.8%; stroke volume 104.3 ml; cardiac output 5.5 l/min; end-diastolic volume 177.5 ml; end-systolic volume 73.2 ml. Conclusion: no pathological findings. Study not suggestive of structural cardiomyopathy (video 1).
+Genetic study: channelopathies panel. Missense mutation in geSnCN5. Sequence NM_198056. Nucleotide change G298S.
+
+
+
+CLINICAL EVOLUTION
+The patient was admitted to the cardiology department for study of underlying heart disease and intensive monitoring with the option of defibrillation.
+A morphological study was performed with transthoracic echocardiography and cardiac magnetic resonance (CMR) (video 1). After completing a study that ruled out other heart disease and after the surface ECG of one of the daily controls showed a spontaneous Brugada pattern type 1 (shark fin), the patient was diagnosed with Brugada syndrome and the implantation of an implantable cardioverter defibrillator (ICD) was indicated for secondary prevention. As this was the first known event, hygienic-dietary and lifestyle recommendations were made, but no further treatment was indicated.
+During follow-up, with quarterly reviews of the device, asymptomatic low-density ventricular extrasystoles were detected, and beta-blocker treatment with carvedilol 6.25 mg daily was started. A genetic study was performed for family counselling (presenting a missense mutation in the SCN5 gene) and clinical assessment of the family, in which the father was found to be a carrier of the mutation, although with an anodyne surface ECG and negative provocation test. The mother had a type 2 electrocardiographic pattern, although the provocation test and genetic study were negative.
+At subsequent follow-up, at 7 months, she presented a new syncopal episode with appropriate discharge of the device due to the presence of ventricular fibrillation (VF) with a 180 ms cycle apparently triggered by ventricular extrasystole with right ventricular outflow tract morphology. A new morphological study was performed, which was anodyne, exogenous precipitants were ruled out (drugs, toxins, metabolic alterations, etc.) and it was proposed to start treatment with quinidine, which the patient refused. The dose of carvedilol was increased to 12.5 mg daily.
+Outpatient follow-up continued when, after 7 months, he presented another episode with 2 shocks due to ventricular fibrillation with similar characteristics to those previously described. Treatment was then started with quinidine at a dose of 200 mg every 6 hours.
+After 13 months of treatment with quinidine, the patient had no new shocks or events during follow-up. There have been no adverse effects related to drug treatment.
+
+DIAGNOSIS
+Brugada syndrome with spontaneous type I pattern and pathological mutation. Recurrent ventricular fibrillation.
+Carrier of implantable automatic defibrillator in secondary prevention. Absence of structural heart disease in morphological studies.

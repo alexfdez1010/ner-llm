@@ -1,0 +1,36 @@
+STORIA, MALATTIA ATTUALE ED ESAME FISICO
+Maschio, 41 anni, rumeno. Iperteso e fumatore. Storia di sincope:
+1999 in Romania: attribuita, secondo il paziente, a un primo episodio di CHF (non sono disponibili rapporti).
+2012: sintomi non specifici con sospetta eziologia vasovagale.
+2015: nuovo episodio con prodromi e periodo post-critico, che ha portato a uno studio neurologico con tomografia computerizzata (TC) cranica, risultata normale.
+2016: due episodi, con profilo cardiogeno. Ricovero nel reparto di cardiologia.
+Si è presentata al pronto soccorso per due episodi sincopali consecutivi, il primo dei quali non testimoniato, mentre camminava, senza prodromi, con caduta a terra e trauma alla mandibola e alla bocca. Mentre si riprendeva da questo (si è alzato ed è andato a bere dell'acqua), ha avuto un altro episodio, questa volta preceduto da calore intenso e vertigini, con perdita di coscienza della durata di secondi. Successivamente si è ripreso completamente. Nessun movimento tonico-clonico o rilassamento sfinterico. Successivamente asintomatico. Nessun dolore toracico clinico o palpitazioni. Nessuna dispnea o segni di insufficienza cardiaca.
+
+Esame fisico
+Pressione arteriosa (BP) 144/91 mmHg, Spo2 99%, frequenza cardiaca (HR) 72 bpm. Cosciente e orientato. Eupnea.
+Auscultazione cardiopolmonare normale.
+Arti inferiori: nessun edema. Polsi palpabili e simmetrici.
+
+ESAMI COMPLEMENTARI
+Elettrocardiogramma (ECG): ritmo sinusale a 52 bpm, asse 90o, QRS stretto, T asimmetrica negativa in III e fino a V2, bifasica in V3. QRS dentellato in V3. Ripolarizzazione precoce in V6.
+Radiografia del torace: spostamento cardiaco verso sinistra. Cancellazione del bordo cardiaco destro (sovrapposizione della colonna vertebrale). Pectus excavatum.
+Emocromo: troponina T ultrasensibile 4 pg/ml. Glucosio 85 mg/dl, urea 35 mg/dl, creatinina 0,95 mg/dl. Sodio 137 mmol/l. Potassio 4,2 mmol/l. CK 279 U/l. Emoglobina 14,5 x10^3/mcl, piastrine 304x10^3/mcl, leucociti 13,29x10^3/mcl (N 86%). D-dimero 198 μg/ml.
+Protocollo PET: nessun difetto di replezione nelle arterie polmonari principali, lobari o segmentali. Nessuna adenopatia mediastinica o ilare di dimensioni significative. Nessuna immagine compatibile con infiltrati, noduli o versamento pleurico.
+Ecocardiogramma: ventricolo sinistro (LV) non dilatato o ipertrofico con LVEF conservato e nessuna alterazione della contrattilità segmentale, eccetto l'appiattimento settale e il movimento anomalo in relazione alla dilatazione del ventricolo destro. Atrio sinistro (LA) non dilatato con diametro AP di 26 mm e area di 14 cm. Ventricolo destro (RV) dilatato con diametri di 45 mm basalmente, 40 mm medialmente e 59 mm longitudinalmente con RVEF borderline (TAPSE 16, S DTI 14) con ipocinesia della parete libera e acinesia-discinesia all'apice. Radice aortica e aorta ascendente non dilatate. Valvola aortica tricommissurale con apertura conservata. Mitrale e tricuspide di morfologia normale. Vena cava inferiore (IVC) non dilatata. Aneurisma del setto interatriale (AIS) che appare intatto. Non viene visualizzato alcun versamento pericardico. Funzione diastolica normale. Banale rigurgito mitralico (MR). Lieve rigurgito tricuspidale (TR).
+ECG mediato dal segnale: durata del QRS filtrato: 108 ms, RMS40: 37 mcV, SAB: 23 ms. Nessun criterio positivo. Studio di mediazione del segnale negativo.
+Risonanza magnetica cardiaca (RM): le sequenze morfologiche e funzionali mostrano un LV non dilatato con normale spessore della parete e normale EF globale e regionale. LA normale. RA non dilatato. RV non dilatato, con RVEF stimato del 47%. A livello del tratto di efflusso del RV, un'area ipocinetica molto localizzata, senza altre alterazioni significative della contrattilità segmentale o aree aneurismatiche. Spostamento cardiaco verso l'emitorace sinistro, con significativa orizzontalizzazione dell'asse cardiaco. Non si osserva edema nelle sequenze T2. Le sequenze di perfusione non mostrano difetti di primo passaggio. Nelle sequenze di vitalità non è stato osservato alcun enhancement che indichi un substrato patologico. Reperti extracardiaci: polmoni con vascolarizzazione normale, sebbene vi sia una perdita di volume nei segmenti linguali associata allo spostamento cardiaco.
+
+Conclusioni:
+LV normale. RV non dilatato, con EF borderline (47%), senza dati conclusivi per la diagnosi di displasia.
+Studio elettrofisiologico: studio negativo, nessun dato di canalopatia. Al termine dello studio e per completarlo, è stato impiantato un Holter sottocutaneo SJM modello Confirm DM2100.
+TAC coronarica (immagine 4): cavità cardiache normali. Atri non dilatati. Valvola aortica: tricuspide, morfologicamente normale. Valvola mitrale: morfologicamente normale. Albero coronarico: Agatston 0. Dominanza: destra. Anatomia coronarica normale. Nessuna anomalia o stenosi. Rotazione della silhouette cardiaca verso sinistra e posteriormente e assenza virtuale del pericardio, con alcuni tratti residui nel margine anteriore del ventricolo destro.
+
+EVOLUZIONE CLINICA
+Il paziente è stato ricoverato nel reparto di cardiologia per ulteriori accertamenti. Al pronto soccorso, l'angio-TC ha escluso la PTE. Inizialmente si sospettava una displasia del ventricolo destro (ECG con T1-V2 negativo, ecocardiogramma con un'immagine aneurismatica dubbia nel ventricolo destro), quindi lo studio è stato completato con la RMN e si è ripetuto un nuovo ecocardiogramma: il ventricolo destro era di dimensioni normali, senza dilatazione o chiari criteri di displasia.
+Durante il ricovero, il paziente è rimasto asintomatico e stabile, senza vertigini o sincope e con una telemetria che non ha registrato alcun evento (nessuna extrasistole ventricolare o sopraventricolare o aritmie di alcun tipo). Lo studio della sincope è stato completato con ECG mediato dal segnale, test alla flecainide e studio elettrofisiologico senza inducibilità di tachicardia ventricolare o risultati che giustificassero un meccanismo aritmico. È stato impiantato un Holter sottocutaneo.
+È stata eseguita anche una TAC coronarica che ha escluso anomalie coronariche, con probabile agenesia quasi totale del pericardio sinistro (anche la radiografia del torace è compatibile con questa diagnosi), che non giustifica il quadro clinico attuale.
+
+DIAGNOSI
+Sincope ripetuta di origine non filariale (probabilmente neuromediata). Studio elettrofisiologico negativo. Holter impiantabile.
+TAC coronarica senza lesioni o anomalie coronariche.
+Agenesia pericardica quasi totale.

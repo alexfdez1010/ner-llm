@@ -1,0 +1,33 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+Paciente de 47 años de edad, sin alergias conocidas.
+Sin antecedentes personales de interés.
+Antecedentes familiares padre con infarto agudo de miocardio (IAM) > 70 años.
+
+ENFERMEDAD ACTUAL:
+Encontrándose previamente asintomático, sufre episodio de palpitaciones, con sensación de mareo, relajación de esfínteres, sin crisis tónico-clónica, mordedura de lengua y pérdida de conciencia. A la llegada del 061, el electrocardiograma (ECG) muestra fibrilación ventricular (FV) precisando tres desfibrilaciones para recuperar el ritmo cardiaco y nivel de conciencia. El ECG posterior presentaba taquicardia rítmica de QRS estrecho a 150 lpm con elevación de ST de V1 a V4 en cara lateral y descenso del mismo en la cara inferior. Se activa el código infarto y se realiza cateterismo cardiaco con DA mostrando estenosis ligera proximal y estenosis del 40% a nivel del segmento medio. En conclusión, sin lesiones coronarias significativas. Se decide ingreso en la unidad de cuidados intensivos (UCI).
+
+EXPLORACIÓN FÍSICA:
+A su llegada a UCI, paciente consciente y orientado. Eupneico en reposo. Auscultación cardiaca: rítmico, sin soplos. Auscultación pulmonar: normoventila. Sin signos congestivos.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal, BRD y elevación de punto J y ST anteroseptal que normaliza en evolución.
+ANALÍTICA: bioquímica: glucosa 94 mg/dl, hemoglobina glicada 5,8 %, urea 40 mg/dl, creatinina 0,94 mg/dl, ácido úrico 5,2 mg/dl, triglicéridos 138 mg/dl, colesterol total 157 mg/dl, HDL 37 mg/dl, LDL 92 mg/dl, Apo A1 121 mg/dl, Apo B 82,6 mg/dl, sodio 138 mEq/l, potasio 4,3 mEq/l, AST 19 U/l, ALT 29 U/l, GGT 127 U/l, FA 102 U/L, proteinograma normal. Marcadores cardiacos: troponina I 0,03 ng/ml, mioglobina 20,9 ng/ml, pro-BNP 430,9 pg/ml. Función tiroidea: TSH 3,37 mUI/l, T4 0,83 ng/dl. Hemograma: hematíes 4,55 mill/mm3, hemoglobina 13,8 g/dl, hematocrito 39,8%, VCM 87,50 fl, leucocitos 9200/mm3 (N 66,2%, L 18,2%), plaquetas 242.000/mm3.
+Coagulación: INR 1,07, actividad de protrombina 90%.
+CORONARIOGRAFÍA (23/04/18): acceso radial derecho (6F): dominancia derecha. Arterias coronarias sin estenosis significativas. Flujo coronario normal. Tronco común: Sin lesiones.
+Descendente anterior: estenosis ligera proximal. Estenosis 40% en segmento medio. Circunfleja: sin estenosis. Derecha: sin estenosis. Ventriculografía: correcta función sistólica global. Sin alteraciones segmentarias. Se observa insuficiencia mitral (IM) que no es cuantificable por EV durante la inyección de contraste, podría ser significativa. Valoración por ecocardiografía.
+ECOCARDIOGRAMA (24/04/18): ventrículo izquierdo (VI) no dilatado ni hipertrófico. Función sistólica global conservada o correcta, sin defectos segmentarios. Aurícula izquierda de tamaño en límite superior de la normalidad, así como la raíz aórtica. Dilatación VD. Impresiona de hiperplasia de músculos pailares y pared de hasta 8 mm de espesor. Sin insuficiencia tricuspídea (IT). Puede ser musculatura anormal. Cava inferior no dilatada y con colapso inspiratorio mayor de aórtica normal. Mitral normal sin regurgitación. Patrón diastólico normal. Arteria pulmonar con muy leve aumento de diámetro. Flujo pulmonar tipo I hasta plano valvular, donde impresiona como de tipo 2, con acortamiento del tiempo de aceleración. Leve hipertensión arterial pulmonar (HAP).
+RESONANCIA MAGNÉTICA: VI de tamaño normal, con función sistólica normal. Leve dilatación del ventrículo derecho (VD), con función conservada. Músculo accesorio papilar en el seno del ventrículo. No se detectan áreas focales de realce tardio miocárdico. Aurículas no dilatadas.
+RADIOGRAFÍA DE TÓRAX (posimplante de desfibrilador automático implantable [DAI] subcutáneo): sin alteraciones reseñables.
+
+EVOLUCIÓN CLÍNICA
+El paciente evoluciona en UCI favorablemente, permaneciendo asintomático tolerando bajas dosis de betabloqueantes. Se realiza ecocardiograma, que muestra función del VI normal.
+Dilatación de VD con impresión de hiperplasia de músculos papilares y pared anterior de hasta 8 mm de espesor, leve aumento del diámetro de arteria pulmonar (HAP) ligera.
+Se decide implante de DAI subcutáneo, cumpliendo screening previo y después de la realización de test de flecainida por sospecha de síndrome de Brugada subyacente, que se confirma. Se da de alta con diagnóstico de parada cardiorrespiratoria (PCR) por FV recuperada por síndrome de Brugada, pendiente de resultados de test genético.
+
+DIAGNÓSTICO
+PCR por FV.
+Coronarias libres de lesiones significativas.
+Síndrome de Brugada (pendiente de estudio genético).
+Implante de DAI subcutáneo.

@@ -1,0 +1,28 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Un uomo di 69 anni è stato indirizzato al reparto di cardiologia ambulatoriale per la presenza di calcificazioni coronariche evidenziate in una TC toracica per lo screening del cancro ai polmoni.
+Il paziente ha un'anamnesi di ipertensione arteriosa (AHT) con un buon controllo domiciliare, alterata glicemia a digiuno (pre-diabete), obesità (indice di massa corporea [BMI] 33,2 kg/m2), fumo pregresso con esposizione cumulativa di 50 anni di pacchetti, broncopneumopatia cronica ostruttiva (BPCO) di tipo bronchitico e ipertrofia prostatica benigna (IPB). Il trattamento abituale consiste in simvastatina 10 mg/die, terazosina 2 mg/die, valsartan/idroclorotiazide 320/25 mg/die e omeprazolo 20 mg/die.
+Non presenta dolore toracico a riposo o sotto sforzo né sintomi suggestivi di insufficienza cardiaca.
+È completamente asintomatico.
+Durante la consultazione, era in buone condizioni generali, di colorito normale e non idratato.
+Eupneico a riposo. Pressione arteriosa (BP) 125/70 mmHg, frequenza cardiaca (HR) 65 bpm, SatO2 98% (con aria ambiente). Pressione venosa giugulare normale. L'auscultazione cardiaca è ritmica e non presenta soffi udibili. L'auscultazione polmonare mostra un murmure vescicolare conservato senza suoni aggiunti. Le pulsazioni radiali e pediali sono palpabili, ritmiche e simmetriche. Non c'è edema.
+Alla luce dei dati disponibili, è stato richiesto un test da sforzo su tapis roulant per escludere un'ischemia miocardica silente.
+
+
+ESAMI COMPLEMENTARI
+TC del torace senza contrasto: segni di enfisema polmonare prevalentemente nei lobi superiori. Nessuna massa o nodulo polmonare visibile. Nessuna adenopatia nella regione mediastinica. Grave calcificazione delle arterie coronarie (CAC-DRS visiva: 3). Lieve calcificazione dell'aorta.
+Radiografia del torace (PA e laterale): nessuna alterazione della silhouette cardiomediastinica. Nessun segno di consolidamento, masse o versamento pleurico. Apparenti calcificazioni nelle arterie coronarie e nell'aorta.
+Esami del sangue: glucosio 110 mg/dl, creatinina 0,89 mg/dl, GFR stimato da CKD-EPI 87,51 mg/dl, colesterolo totale 215 mg/dl, colesterolo HDL 58 mg/dl, colesterolo LDL 149 mg/dl, HbA1c 5,6%, emogramma e coagulazione senza alterazioni.
+ECG basale: ritmo sinusale a 85 bpm. PR normale (160 ms). Asse sinistro (HSAI).
+QRS stretto, onda q in I e aVL. Inversione dell'onda T in aVL. Occasionali extrasistoli sopraventricolari.
+Ergometria su tapis roulant: eseguita secondo il protocollo Bruce e interrotta per esaurimento fisico. Test di sforzo massimo (FC massima 157 bpm, 103% FC massima teorica) normale. Ben tollerato. Adeguato adattamento della frequenza cardiaca e della pressione arteriosa (pressione massima 200/100 mmHg). Normale capacità funzionale aerobica (esercitata per 8 minuti e raggiunto un livello di lavoro di 10,2 METS), adeguata riserva di doppio prodotto (19.385). Non si sono verificate aritmie significative. Nessun segno elettrocardiografico o clinico di ischemia inducibile durante il test.
+
+EVOLUZIONE CLINICA
+Il paziente è rimasto cardiologicamente asintomatico. Dato il riscontro di una grave calcificazione delle arterie coronarie mediante punteggio visivo, senza angina clinica o evidenza di ischemia all'ergometria, è stato deciso un trattamento conservativo con ottimizzazione del trattamento farmacologico.
+Il paziente è stato considerato ad altissimo rischio, pertanto la simvastatina 10 mg/die è stata sostituita dalla rosuvastatina 20 mg/die con un obiettivo di LDL < 70 mg/dl e l'acido acetilsalicilico (ASA) 100 mg/die è stato aggiunto al trattamento abituale.
+Abbiamo insistito sulle misure igienico-dietetiche, sulla misurazione della pressione arteriosa a domicilio e sulla necessità di perdere peso, oltre che sui sintomi per i quali la paziente dovrebbe consultarsi. È stato programmato un follow-up con esami del sangue per valutare i livelli di colesterolo LDL e di glicemia a digiuno alterata.
+
+DIAGNOSI
+Aterosclerosi coronarica subclinica. Grave calcificazione coronarica, asintomatica.
+Rischio cardiovascolare molto elevato: esobtachismo. Dislipidemia con controllo non ottimale.
+Ipertensione con buon controllo. Glicemia a digiuno alterata. Obesità.

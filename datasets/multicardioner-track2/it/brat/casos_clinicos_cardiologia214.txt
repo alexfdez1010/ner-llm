@@ -1,0 +1,44 @@
+Paziente maschio di 58 anni, sportivo ad alta intensità, con elettrocardiogramma (ECG) compatibile con ipertrofia ventricolare sinistra e risonanza magnetica cardiaca (RMN) suggestiva di cuore d'atleta. Un successivo follow-up nell'unità di aritmia a seguito di un episodio di flutter, con persistenza delle alterazioni elettrocardiografiche descritte.
+
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Nessuna storia familiare di cardiopatia o morte improvvisa precoce.
+Sportivo attivo ad alta intensità (ciclista, che percorre circa 100 km al giorno).
+Allergia all'acido acetilsalicilico.
+Ex fumatore di mezzo pacchetto al giorno fino a 4 anni fa. Non beve.
+Ipertensione arteriosa (HBP) in trattamento con buon controllo come di consueto. Nessun diabete mellito (DM) o dislipidemia (DLP) noti.
+Ricovero in cardiologia nel febbraio 2016 per dolore toracico con caratteristiche atipiche per cardiopatia ischemica associata a crisi ipertensiva, ECG con reperto T inferolaterale negativo ed ecocardiogramma con LVEF conservato, senza alterazioni segmentali della contrattilità e ipertrofia ventricolare concentrica (IVS 15 mm, PIL 15 mm), senza gradiente dinamico intraventricolare. L'ergometria è stata eseguita con risultati negativi per ischemia miocardica e aritmie ventricolari. Alla dimissione è stata richiesta la RMN cardiaca per completare lo studio, che è stata eseguita presso un altro centro per mancanza di disponibilità presso il nostro centro, con il riscontro di uno spessore massimo a livello del setto basale di 12 mm (limite superiore della normalità), con il resto dei segmenti con spessori conservati e senza late enhancement, classificandolo come cuore di atleta.
+Episodio di palpitazioni nel maggio 2018, ECG al pronto soccorso compatibile con flutter atriale parossistico antiorario. È stata eseguita una cardioversione elettrica programmata dopo anticoagulazione per 3 settimane e il paziente è passato al ritmo sinusale. Nel settembre 2018 è stata eseguita l'ablazione dell'istmo cavotricuspidale (CTI) con il sistema CARTO senza l'uso di scopia.
+Il successivo follow-up nell'unità di aritmologia ha mostrato che il paziente rimaneva asintomatico e in ritmo sinusale, con segmenti T inferolaterali persistentemente negativi e ipertrofia concentrica sugli ecocardiogrammi seriali. Il paziente è stato istruito a sospendere l'esercizio fisico ad alta intensità per un'ulteriore rivalutazione. Nessun intervento chirurgico di interesse.
+
+Trattamento abituale:
+Ramipril 2,5 mg una compressa a colazione.
+
+Malattia attuale
+Il paziente è stato rivisto presso l'ambulatorio di aritmologia dopo aver interrotto l'attività fisica negli ultimi 8 mesi. Il paziente rimane asintomatico, senza nuovi episodi di palpitazioni. Ha negato dispnea da sforzo, sincope o altri sintomi.
+È stato eseguito un ECG in consultazione, con persistenza dei criteri di ipertrofia ventricolare sinistra insieme a T negative profonde e asimmetriche nelle derivazioni precordiali e nella faccia inferiore. È stato eseguito un ecocardiogramma, con il riscontro di un'ipertrofia concentrica lieve-moderata delle sue pareti (IVS 13 mm, LIP 11 mm) ma con la presenza a livello apicale di uno spessore miocardico maggiore di circa 15-16 mm, con chiusura sistolica a morfologia "asso di picche" con lieve ipocinesia dei segmenti più apicali. Non è stato osservato alcun gradiente SAM o intraventricolare.
+Visti i reperti elettrocardiografici ed ecocardiografici dopo l'interruzione dell'esercizio, nonostante il paziente avesse effettuato una RMN cardiaca 3 anni prima compatibile con cuore d'atleta e senza reperti compatibili con cardiomiopatia ipertrofica, si è deciso di richiedere una nuova RMN cardiaca per completare lo studio.
+
+Esame fisico
+Condizioni generali accettabili. Eupnea a riposo. Saturazione O2 98% senza ossigenoterapia. Pressione arteriosa 142/83. Frequenza cardiaca 55 bpm.
+Auscultazione cardiaca: ritmica, con una buona frequenza. Nessun soffio udibile al basale o dopo la manovra di Valsalva. Murmure vescicale conservato, senza aggiunta di rumori patologici. Arti inferiori: nessun edema o segno di trombosi venosa profonda (TVP). Polsi distali conservati e simmetrici.
+
+ESAMI COMPLEMENTARI
+Risonanza magnetica cardiaca (febbraio/2016): ventricolo sinistro (LV) non dilatato, con mobilità globale e segmentale conservata. EF misurata con il metodo Simpson del 72%. Spessore massimo del setto basale di 12 mm, con il resto dei segmenti con spessori conservati. La massa miocardica è di 107 g, indicizzata a 61,43 g/m . Il ventricolo destro è normale. Non sono state osservate anomalie nella sequenza di late enhancement.
+
+Elettrocardiogramma (giugno/2019): bradicardia sinusale a 50 bpm, asse 30o, PR 224 ms,
+QRS stretto con criteri di ipertrofia ventricolare sinistra secondo i criteri di Sokolow, T bifasica in V1-V2, negativa in I, II, III, aVF e negativa profonda e asimmetrica in V3-V6, con rettifica ST in queste derivazioni, QTc 428 ms.
+Ecocardiogramma (giugno/2019): ventricolo sinistro non dilatato con lieve ipertrofia concentrica delle sue pareti (IVS 13,5 mm, LIP 11.5 mm), si osserva un maggiore spessore miocardico a livello apicale, circa 15-16 mm, con chiusura sistolica a morfologia "asso di picche" con lieve ipocinesia dei segmenti più apicali, per cui non si può escludere che si tratti di una cardiomiopatia ipertrofica apicale con scarso coinvolgimento miocardico.
+
+Dilatazione biauricolare. Mitrale con lieve insufficienza, senza SAM. Lieve insufficienza aortica dovuta a una leggera dilatazione della radice aortica. Resto delle valvole senza alterazioni. Funzione sistolica LV conservata con LVEF 65-70%. Funzione diastolica LV e sistolica RV inalterata.
+
+RMN cardiaca (giugno/2019): ventricolo sinistro non dilatato con ipertrofia solo a livello apicale, principalmente dei segmenti apicali inferiori e dell'apice vero e proprio con spessori compresi tra 12-13 mm e spessore massimo nel segmento apicale inferiore che raggiunge i 15 mm. Nelle sequenze cine sul piano verticale ad asse lungo, il ventricolo sinistro mostra la tipica morfologia ad "asso di picche". L'EF misurata con il metodo Simpson è del 60%. Massa miocardica 93 g, indicizzata dalla superficie corporea di 54 g/m. Ventricolo destro senza alterazioni. Nella sequenza di perfusione di primo passaggio, nessun difetto di perfusione basale. La sequenza di enhancement/viabilità tardiva non mostra fibrosi o necrosi.
+
+EVOLUZIONE CLINICA
+Il paziente è stato sottoposto a una nuova risonanza magnetica cardiaca ambulatoriale presso il nostro centro, con il riscontro di un ventricolo sinistro non dilatato con ipertrofia solo a livello apicale, principalmente dei segmenti apicali inferiori e dell'apice vero con spessori compresi tra 12-13 mm, con il segmento apicale inferiore che raggiunge i 15 mm e il ventricolo sinistro che presenta la tipica morfologia ad "asso di picche" in cine 2C. L'EF misurata con il metodo Simpson è del 60%. La sequenza di miglioramento tardivo/viabilità non ha mostrato fibrosi o necrosi.
+Il paziente si è successivamente recato in clinica per ritirare i risultati e ha riferito di essere completamente asintomatico. La natura della malattia e la sua ereditarietà sono state spiegate al paziente e si è deciso, data la bassa resa diagnostica dello studio genetico nella variante apicale della cardiomiopatia ipertrofica (CMI) e dato che il paziente non aveva figli e un solo fratello, di continuare lo studio familiare mediante ecocardiografia e/o risonanza magnetica cardiaca se questo fosse stato inconcludente. È indicato un successivo follow-up nell'unità di aritmologia con monitoraggio Holter di 24 ore.
+
+DIAGNOSI
+Cardiomiopatia ipertrofica apicale non ostruttiva. Nessuna fibrosi alla risonanza magnetica cardiaca. Punteggio HCM-SCD 0,99%.
+Flutter atriale parossistico antiorario. Ablazione CTI efficace senza l'uso di scopia.

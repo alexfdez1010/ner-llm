@@ -1,0 +1,42 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+STORIA PERSONALE
+La paziente è una donna di 52 anni, fumatrice attiva, con cardiopatia ischemica cronica non rivascolarizzata e funzione ventricolare conservata. Ha esordito nell'ottobre 2018 con un infarto miocardico acuto Killip I, non in fase ST, diagnosticato dall'angiografia coronarica come dissezione coronarica spontanea con immagine di ematoma nel ramo interventricolare posteriore.
+La paziente è progredita positivamente con il trattamento medico ed è stata dimessa senza complicazioni dopo 72 ore di ricovero. Non aveva precedenti familiari di morte improvvisa precoce o di malattie cardiovascolari. È in trattamento con acido acetilsalicilico 100 mg a pranzo, bisoprololo 2,5 mg a colazione, atorvastatina 40 mg a cena e omeprazolo 20 mg a colazione.
+
+MALATTIA ATTUALE
+Consultazione a novembre 2018 per sincope improvvisa in posizione eretta, con ripresa spontanea e assenza di sintomi periepisodici (palpitazioni, vertigini, sudorazione, nausea, ecc.).
+La donna negava angina ricorrente nei giorni precedenti, cambiamenti di farmaci o altri eventi intercorrenti (infezioni, ecc.) che avrebbero potuto fungere da fattori scatenanti.
+All'arrivo al pronto soccorso è stato avviato il monitoraggio telemetrico in attesa dei risultati degli esami complementari e della valutazione del cardiologo di guardia. Nel frattempo, il paziente ha presentato una tachicardia ventricolare polimorfa che è rapidamente degenerata in fibrillazione ventricolare. ROSC (ritorno della circolazione spontanea) dopo singola cardioversione elettrica (ECV) ed embolizzazione di amiodarone in iv. Successivamente, ha presentato un nuovo ritmo di fibrillazione ventricolare (VF) con ROSC dopo due ECV. Rimasta asintomatica, è stata ricoverata nell'unità di terapia cardiaca acuta (ACCU) per il monitoraggio. Non essendoci nuovi eventi aritmici o insufficienza cardiaca dopo il ricovero, è stata trasferita nel reparto ospedaliero.
+
+ESAME FISICO
+Pressione arteriosa (BP) 165/80 mmHg, frequenza cardiaca (HR) 85 bpm.
+Aspetto generale buono. Ricarica capillare < 2 secondi, assenza di sudorazione. Eupnea in decubito.
+Assenza di ingurgito giugulare.
+Auscultazione cardiaca ritmica senza soffi.
+Auscultazione polmonare con murmure vescicolare conservato, senza suoni aggiunti.
+Nessun edema agli arti inferiori o segni di trombosi venosa profonda.
+
+ESAMI COMPLEMENTARI
+Elettrocardiogramma (ECG) all'ammissione: ritmo sinusale a 80 bpm con QRS stretto normoposizionato e progressione adeguata nelle derivazioni precordiali. Piccola onda q non significativa in III e aVF. Nessuna alterazione della ripolarizzazione.
+ECG alla dimissione: nessuna alterazione rilevante.
+Esami ematici urgenti all'arrivo: emoglobina 14 g/dl (volumi e indici nella norma), piastrine 275000/ul, leucociti 9520/ul con formula normale. INR 1,02, APTT 27,2 sec. Glucosio 99 mg/dl. Acido urico 4,8 mg/dl. ALT 28 U/l. GGT 34 U/l. Fosfatasi alcalina 110 U/l. Creatinina 0,57 mg/dl (velocità di filtrazione glomerulare stimata > 60 ml/min/1,73 m2), sodio 144 mmol/l, potassio 4,1 mmol/l, proteina C-reattiva 1,7 mg/dl.
+Marcatori di danno miocardico di picco alla serializzazione: troponina I ultrasensibile 392 ng/l (normale < 15,6), CK 186 U/l (normale < 192).
+Esami del sangue con profili: emoglobina glicosilata 6,3%, TSH 1,55 mIU/l, colesterolo totale 125 mg/dl, colesterolo LDL 51 mg/dl, colesterolo HDL 47 mg/dl, trigliceridi 134 mg/dl.
+Ecocardiogramma transtoracico: funzione biventricolare conservata senza valvulopatia o dilatazione della cavità. Acinesia dei segmenti medi e distali della faccia inferiore e ipocinesia dei segmenti medi e distali della faccia inferolaterale.
+RMN cardiaca con contrasto: ventricolo sinistro non dilatato, con spessore normale. Discinesia focale del segmento mediodistale della faccia inferiore. Acinesia del segmento distale inferiore e del segmento inferolaterale rispetto al segmento strettamente apicale. Resto della contrazione segmentale senza alterazioni.
+Funzione sistolica globale normale (LVEF 55%). Le sequenze T2-STIR mostrano un'area transmurale iperintensa molto localizzata nel segmento distale della faccia inferiore con estensione subendocardica verso l'apice. Difetto di perfusione nel primo difetto di perfusione subendocardico che interessa i terzi distali del setto inferiore, la faccia inferiore e quella inferolaterale. T2 MAP a livello settale: 49 ms (nei limiti della norma), a livello laterale distale: 72 ms (valore superiore alla norma, suggestivo di infiammazione acuta) T1 MAP nativo settale: 1013 +/- 30 ms (nei limiti della norma). Enhancement tardivo: nel segmento distale della faccia inferiore e inferolaterale rispetto all'apice si osserva un'area di enhancement compatibile con un'escara ischemica che occupa circa il 70% dello spessore del miocardio. Minima focalizzazione subendocardica nella faccia laterale distale.
+Ventricolo destro non dilatato né ipertrofico. Nessuna alterazione della contrazione segmentale. Funzione sistolica normale. Nessun focolaio di enhancement tardivo. Atrio destro e sinistro di dimensioni normali. Valvola mitrale con foglietti sottili, apertura normale.
+Valvola aortica trivalve, funzionalmente normale. Seno dell'aorta non dilatato.
+Angiografia coronarica: coronaria principale sinistra corta, senza lesioni.
+Arteria discendente anteriore di buon sviluppo e calibro, senza lesioni. Arteria circonflessa di buon sviluppo e calibro, senza lesioni. Arteria coronaria destra: vaso di buon sviluppo e calibro, con un'immagine suggestiva di ematoma nel ramo interventricolare posteriore, con un vaso distale alla lesione di piccolo calibro e breve decorso. Studio sovrapposto a quello eseguito 10 giorni prima.
+
+EVOLUZIONE CLINICA
+Il paziente ha avuto un'evoluzione favorevole, senza nuovi eventi aritmici dopo il trasferimento nel reparto ospedaliero. Sono stati prescritti beta-bloccanti fino alla dose massima tollerata e altri farmaci antipertensivi.
+L'angiografia coronarica ha mostrato la persistenza dell'ematoma nella PVI e solo un discreto danno miocardico acuto nel contesto delle aritmie ventricolari e della rianimazione. Pertanto, escludendo l'esistenza di nuove dissezioni, la progressione di quella precedente o altri potenziali fattori scatenanti la fibrillazione ventricolare, si è deciso di impiantare un ICD sottocutaneo per la prevenzione secondaria in un paziente con cardiopatia ischemica con funzione ventricolare conservata e morte improvvisa recuperata. Successivamente, il paziente è stato dimesso
+
+DIAGNOSI
+Arresto cardiaco ospedaliero recuperato in fibrillazione ventricolare.
+Cardiopatia ischemica cronica: infarto inferiore. Dissezione coronarica PVI spontanea.
+Funzione ventricolare sistolica conservata.
+Impianto di ICD sottocutaneo.

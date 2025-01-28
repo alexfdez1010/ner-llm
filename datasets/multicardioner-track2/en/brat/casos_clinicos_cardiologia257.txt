@@ -1,0 +1,61 @@
+This is a 50-year-old woman with a finding of complete left bundle branch block (LBBB) and long QT (QTc) on a routine electrocardiogram (ECG). The main diagnostic tests for the complete study of long QT syndrome (LQTS) were performed and she was diagnosed with LQTS but no underlying genetic mutation was found.
+
+HISTORY, CURRENT DISEASE AND PHYSICAL EXAMINATION
+
+History
+Family history
+No history of heart disease or sudden death.
+Maternal cousin studied for recurrent syncope.
+
+Personal history
+No known drug allergies
+Smoker of 5 cigarettes/day (8 packs/year). Non-drinker.
+Arterial hypertension under pharmacological treatment, with good control as usual. No known diabetes mellitus or dyslipidaemia.
+Admitted for acute bacterial meningitis at the age of 20, with no sequelae.
+Surgical interventions: appendectomy. Left inguinal herniaplasty
+
+Usual treatment:
+Ramipril 5 mg per day.
+
+Present illness
+A 50-year-old woman was referred to the cardiology department for routine ECG findings of LBBB. The patient reported being completely asymptomatic, without dyspnoea on exertion, without episodes of chest pain, palpitations or syncope.
+
+Physical examination
+Good general condition. Well hydrated and perfused. Eupneic at rest. SatO2 99% with FiO2 0.21. Blood pressure (BP) 128/64 mmHg. Heart rate (HR) 63 bpm.
+Neck: absence of IY. No palpable lymph nodes. Carotid arteries without murmurs.
+Cardiac and pulmonary auscultation: rhythmic, at a good frequency. No murmurs or audible extratonos. Vesicular murmur preserved, no pathological sounds.
+Abdomen: soft and depressible. Not painful on palpation, no signs of peritonism. No masses or megaliths.
+Lower limbs: no oedema or signs of deep vein thrombosis (DVT). Distal pulses present and symmetrical.
+
+COMPLEMENTARY TESTS
+ECG in consultation: sinus bradycardia at 57 bpm, normal axis, PR 120 ms, wide QRS (130 ms) with LBBB morphology with secondary repolarisation alterations, QT 480ms, QTc 470 ms.
+
+Echocardiogram:
+Cavities and great vessels: left ventricle not dilated (DTDVI 42mm), with slight concentric hypertrophy of its walls (SIV 12mm, PIL 11mm). Non-dilated left atrium. Right ventricle of normal dimensions. Normal right atrium. Normal visualisation of the aorta.
+Valves: Trivalve aortic valve with mild degenerative signs and jet of mild insufficiency, with normal anterograde gradients. Mitral valve with normal appearance and function.
+No tricuspid insufficiency detected.
+Ventricular function: Preserved LV systolic function, estimated at 55% by Simpson BP.
+No segmental alterations in contractility were observed, although there was a marked asynchrony of the interventricular septum by LBBB. Diastolic function compatible with impaired relaxation, with no increase in filling pressures.
+Preserved RV systolic function.
+Other: Inferior vena cava not dilated and with adequate inspiratory collapse. No pericardial effusion.
+Cardiac single photon emission tomography (SPECT): negative for myocardial ischaemia.
+24-hour Holter: tracing in sinus rhythm with LBBB, with minimum HR 49 bpm, mean 68 bpm and maximum 115 bpm, without significant pauses. QTc minimum 391 ms, mean 461 ms and maximum 562ms. No T wave alternans or ventricular arrhythmias were observed.
+Ergometry (images 2, 3 and 4): Baseline HR 63 bpm. Basal QT 480 ms. Basal QTc 511 ms. Maximum HR of 138 bpm (81% of maximum HR) reached at 5:20 minutes of exercise. Peak exercise QT 320 ms. Maximal exercise QTc 482 ms. Presence of isolated ventricular extrasystoles during exercise. In recovery phase (5 minutes): HR 74 bpm, QT 460 ms and QTc 490 ms.
+No evidence of ischaemic signs throughout the test.
+Viskin bideptation test. At rest: HR 60 bpm, QT 480 ms and QTc 480 ms.
+After standing: HR 70 bpm, QT 500 ms, QTc 559 ms.
+Genetic test (channelopathy panel): negative.
+
+CLINICAL EVOLUTION
+The patient was referred by her primary care physician due to a routine ECG finding of LBBB. The ECG at the consultation confirmed this finding together with the presence of secondary repolarisation alterations, a QT of 480 ms and a QTc of 470 ms. The patient denied at all times having presented any symptoms, denying syncopal episodes, palpitations or chest pain on exertion.
+Given the electrical alterations, it was decided to complete the study with an echocardiogram, which showed a left ventricle with mild concentric hypertrophy of its walls with normal function and mild degenerative aortic insufficiency, with the rest of the study compatible with normality. Myocardial SPECT was also requested, which ruled out the presence of ischaemia.
+To complete the study of the suspected long QT syndrome, the Viskin standing test was performed, which showed a lengthening of the QTc interval, from 480 ms in the supine position after 10 minutes of rest to 559 ms after standing. An ergometry test was also performed with baseline QTc and at maximum exercise, presence of isolated ventricular extrasystoles and QTc in recovery of 490 ms. Finally, a 24-hour Holter is requested without observing arrhythmic events or T wave alternation.
+Based on these tests, the patient was diagnosed with asymptomatic long QT syndrome (LQTS) and treatment was started with beta-blockers (bisoprolol 2.5 mg per day). In addition, a genetic study was requested, but it was negative.
+Subsequently, the patient explained to us that her two maternal cousins had been diagnosed with LQTS but both had a negative genetic study.
+Currently the patient remains asymptomatic, with no cardiac events during follow-up.
+
+DIAGNOSIS
+Long QT syndrome (negative genetics).
+Mild aortic insufficiency.
+Normal systolic function.
+Complete left bundle branch block.

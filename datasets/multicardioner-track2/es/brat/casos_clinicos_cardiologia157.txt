@@ -1,0 +1,27 @@
+Historia clínica y enfermedad actual
+Varón de 43 años que ingresa por síndrome coronario agudo sin elevación del segmento ST (SCASEST). 
+
+Antecedentes personales
+• Alergia a polen y ácaros
+• Rinitis alérgica. Asma bronquial estrínseca con frecuentes reagudizaciones
+• Fumador
+• No HTA, dislipemia ni DM conocidas
+• IQ: apendicectomizado y fractura cubito-radio derechos
+
+Tratamiento habitual: seretide 50/500. Ventolin a demanda. Omeprazol y almax ocasional. Enfermedad actual: el 15/10/2011 se despertó de madrugada con dolor torácico opresivo irradiado a brazo izquierdo. Acude a Urgencias del hospital a las 12 horas de inicio del dolor presentando en ECG infradesnivel de segmento ST y elevación de enzimas cardíacas.
+Exploración física: buen estado general. T.A. 100/70. Eurpneico. No IY. A.C.: rítmica, sin soplos ni roce. A.P.: normal. Abdomen y EEII: sin hallazgos significativos.
+
+Pruebas complementarias
+• ECG: ritmo sinusal con ligero infradesnivel de ST en II, V3 a V5, sin ondas Q.
+• Analítica: creatinina 1,14. Glucosa 78, Urato 7,6. Colesterol 182. HDL-C 30. TG 136. LDL-C 125. TnT ultrasensible al ingreso 306, TnT ultrasensible pico 1.503, ProBNP 105, CPK 98. GOT 47. GPT 61. Proteína C reactiva 12,2. TSH 1,68. Hemograma con 12300 leucocitos.
+• Coronariografía: coronarias angiográficamente normales. FE conservada y sin trastornos de motilidad regional.
+• Ecocardiograma: ventrículo izquierdo no dilatado ni hipertrófico, con FE normal (60%). No se observan alteraciones en la contractilidad segmentaria. E: 52, A: 57, TDE: 190. Válvulas anatómica y funcionalmente normales. Aurícula izquierda no dilatada. Cavidades derechas no dilatadas. TAPSE: 19 mm. Raíz aórtica y aorta ascendente de calibre normal. No derrame pericárdico.
+• RMN cardiaca: múltiples áreas de afectación parcheada subepicárdicas e intramiocárdicas que afectan cara anterolateral, lateral, apical, inferomedial en ventrículo izquierdo. Función sistólica conservada.
+
+Evolución clínica
+Al ingreso se interpretó el cuadro como SCASEST y se inició tratamiento con doble antiagregación, HBPM, nitratos e IECA. No se inició tratamiento betabloqueante por su antecedente de asma con frecuentes reagudizaciones. La evolución clínica fue buena sin volver a presentar dolor torácico ni signos de insuficiencia cardiaca. No presentó evolución electrocardiográfica ni presentó aparición de nuevas ondas Q. Sin embargo, la TnT ultrasensible continuó elevándose después del ingreso. Se realizó cateterismo cardiaco al día siguiente del ingreso mostrando arterias coronarias angiográficamente normales y función sistólica global conservada sin alteraciones segmentarias de contractilidad en ventriculografía ni en ecocardiograma. Se realizó RMN cardiaca mostrando un realce tardío con gadolinio típico de miocarditis.
+
+Diagnóstico
+• Miocarditis aguda
+• Arterias coronarias angiográficamente normales
+• Función sistólica ventricular izquierda conservada

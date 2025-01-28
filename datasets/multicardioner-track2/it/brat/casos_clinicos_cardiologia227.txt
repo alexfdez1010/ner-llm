@@ -1,0 +1,39 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Nessuna reazione allergica nota ai farmaci. Fumo attivo.
+Obesità patologica con un indice di massa corporea (BMI) di 41.
+Diabete mellito trattato con antidiabetici orali.
+Dislipidemia.
+Malattia renale cronica di stadio 3A.
+Cardiopatia ischemica cronica: lesione a tre vasi rivascolarizzata chirurgicamente nel 1981, mediante endarterectomia e resezione della membrana endoteliale dell'ostio coronarico sinistro e bypass safenico all'arteria discendente anteriore (LAD), con occlusione posteriore del bypass. Occlusione totale cronica della LAD dal 2012. Diversi ricoveri per sindrome coronarica acuta non-ST-segment elevation (NSTEACS) dal 2012, con rivascolarizzazioni percutanee multiple: arteria coronaria principale sinistra (LMCA), primo ramo marginale (MB), biforcazione circonflessa (Cx)-primo MB, arteria coronaria destra (RCA).
+Trattamento abituale: acido acetilsalicilico (ASA) 100 mg al giorno, clopidogrel 75 mg al giorno, enalapril 5 mg ogni 12 ore, metoprololo 100 mg ogni 12 ore, amlodipina 5 mg ogni 12 ore, isosorbide mononitrato 40 mg al giorno, ranolazina 500 mg ogni 12 ore, furosemide 40 mg al giorno, atorvastatina 80 mg al giorno, empagliflozin/metformina 5/1000 mg ogni 12 ore, omeprazolo 20 mg al giorno.
+
+Malattia attuale
+Un uomo di 72 anni con cardiopatia ischemica cronica complessa, con rivascolarizzazioni multiple, si è presentato al pronto soccorso per un episodio di dolore toracico centrale opprimente a riposo della durata di circa 15 minuti, con parziale sollievo dopo l'assunzione di nitroglicerina sublinguale, con residuo disagio in seguito. Nei due mesi precedenti aveva presentato episodi di dolore toracico con uno sforzo moderato (salire le scale), che si risolvevano con il riposo o l'assunzione di nitroglicerina, motivo per cui la ranolazina era stata associata all'ultima visita.
+Negava altri sintomi, come dispnea, edema degli arti inferiori, palpitazioni o sintomi infettivi.
+
+Esame fisico
+Segni vitali: pressione arteriosa 182/132 mmHg. Frequenza cardiaca 69 bpm. Saturazione di ossigeno 98% al basale.
+Buone condizioni generali. Cosciente e orientato, cooperativo, normoidratato e normoperfuso.
+Auscultazione cardiaca: ritmica, senza soffi. Auscultazione polmonare: murmure vescicolare conservato, nessun suono extra. Addome: suoni idroaerei conservati, morbidi e depressibili, non dolenti alla palpazione. Arti inferiori: nessun edema, pulsazioni distali conservate.
+
+ESAMI COMPLEMENTARI
+Esami di laboratorio all'ammissione: glucosio 83 mg/dl, creatinina 1,46 mg/dl, velocità di filtrazione glomerulare 47,30 ml/min, sodio 139 mmol/l, potassio 3,9 mmol/l, cloro 106 mmol/l, proteina C reattiva 2,6 mg/l (0 - 5), due determinazioni di troponina I 0,0 ng/ml, peptide natriuretico (BNP) 83,8 pg/ml.
+Analisi dei fattori di rischio cardiovascolare: HbA1c 7,6%, LDL 73 mg/dl, trigliceridi 110 mg/dl.
+Elettrocardiogramma (ECG) con dolore toracico: ritmo sinusale a 78 bpm. Innalzamento del segmento ST verso il basso di 1 mm, soprattutto nelle derivazioni precordiali I e aVL.
+ECG senza dolore (immagine 2): ritmo sinusale a 72 bpm. Correzione delle alterazioni dinamiche della ripolarizzazione.
+Angiografia coronarica: LMCA con una lieve placca calcificata nel segmento distale del 30%. LAD calcificata con occlusione totale nel segmento medio, con riempimento collaterale distale retrogrado. Cx di buon calibro e sviluppo con uno stent nel segmento medio permeabile e senza restenosi e un altro stent nel primo ramo marginale permeabile e senza restenosi. A distanza nel ramo marginale ottuso ha una lesione significativa del 70%, valutata con guida pressoria e adenosina intracoronarica con un risultato di 0,77 (significativo). DC dominante di buon calibro e sviluppo con una placca moderata nel segmento prossimale del 60% valutata con guida pressoria e adenosina intracoronarica con FFR = 0,87 (non significativo), distalmente con irregolarità diffuse e una sotto-occlusione del ramo PL di aspetto cronico.
+Ecocardiogramma: ventricolo sinistro non dilatato con frazione di eiezione conservata, senza grossolane alterazioni della contrattilità segmentale. Lieve ipertrofia ventricolare sinistra. Ventricolo destro di dimensioni e funzione normali. Nessuna valvulopatia significativa.
+
+EVOLUZIONE CLINICA
+Il paziente è stato ricoverato in cardiologia e, data la progressione della sintomatologia negli ultimi mesi nonostante l'aggiustamento dei farmaci antianginosi, si è deciso di eseguire un'angiografia coronarica, dove è stata riscontrata una lesione significativa nel primo MVO (valutata con filo guida a pressione), che è stata rivascolarizzata con uno stent a rilascio di farmaco. Durante il ricovero, il paziente non ha avuto nuovi episodi di dolore toracico ed è stato dimesso precocemente.
+Nonostante si tratti di un paziente ampiamente conosciuto dalla cardiologia, i fattori di rischio cardiovascolare non sono controllati, per cui viene posta particolare enfasi su questo aspetto.
+Appare particolarmente importante ottimizzare il controllo glicemico e, dato che il paziente è obeso, si decide di associare un agonista GLP1 (semaglutide 0,25 mg una volta alla settimana), con un target di HbA1c inferiore al 7%. Inoltre, viene aggiunto al trattamento l'ezetimibe, con un obiettivo di LDL inferiore a 55 mg/dl.
+Alla visita di controllo dopo il completamento del programma di riabilitazione cardiaca, il paziente aveva ottenuto una perdita di peso di 8 kg, la cessazione del fumo e un migliore controllo di laboratorio (HbA1c 6,8%, LDL 54 mg/dl).
+
+DIAGNOSI
+Angina instabile di tipo NSTEACS. Lesione significativa del 70% nella prima OM valutata con filo guida a pressione (FFR 0,77) rivascolarizzata per via percutanea mediante impianto di destrutturazione farmacoattiva.
+Occlusione totale cronica dell'arteria discendente anteriore media.
+Cardiopatia ischemica cronica complessa, rivascolarizzata in forma mista in più occasioni.
+Diabete mellito di tipo 2 con scarso controllo glicemico.

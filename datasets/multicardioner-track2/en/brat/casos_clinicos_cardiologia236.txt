@@ -1,0 +1,42 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+No known allergic drug reactions.
+Active smoking: 30 cigarettes a day.
+Morbid obesity. Arterial hypertension. Insulin-dependent diabetes mellitus. Dyslipidaemia. Hyperuricaemia. Hypothyroidism.
+Stage 3B chronic kidney disease (basal glomerular filtration rate 30-35 ml/min).
+Peripheral arterial disease: intermittent claudication Fontaine grade IIa.
+Ischaemic heart disease: admitted for unstable angina in 2008. Catheterisation revealed severe damage to three vessels (anterior descending [DA], right coronary [CD], first obtuse marginal [OM]). Only the LAD was surgically revascularised with a left internal mammary artery graft.
+Usual treatment: acetylsalicylic acid (ASA) 100 mg per day, enalapril 20 mg per day, atenolol 12.5 mg per day, furosemide 40 mg at breakfast and lunch, metformin 850 mg every 12 hours, mixed insulin (regular 30%, isophane 70%) 30 units in the morning and 20 units in the evening, simvastatin 40 mg per day, allopurinol 100 mg per day, eutirox 50 mcg per day, omeprazole 20 mg per day.
+
+Present illness
+An 84-year-old woman came to the emergency department for an episode of non-radiating central thoracic pain that appeared with minimal effort, lasting minutes and ceased spontaneously, with similar characteristics to her previous angina, although of lesser intensity. While in the emergency department, she presented another episode, during which dynamic electrocardiographic changes were observed, which subsided with the administration of sublingual nitroglycerine.
+The patient had been asymptomatic from the cardiovascular point of view since her previous admission in 2008.
+
+Physical examination
+Vital signs: blood pressure in left arm 125/63 mmHg, in right arm 143/75 mmHg. Heart rate 63 bpm. Oxygen saturation 97% basal.
+Good general condition. Conscious and oriented, cooperative, normohydrated and normoperfused.
+Cardiac auscultation: rhythmic, systolic murmur II/VI predominantly in aortic focus, with second noise present.
+Pulmonary auscultation: preserved vesicular murmur, with no added sounds.
+Abdomen: hydro-aerial sounds preserved, soft and depressible, not painful on palpation.
+Lower limbs: no oedema, weak distal pulses.
+
+COMPLEMENTARY TESTS
+CBC on admission: haemoglobin 16.6 g/dL without alterations, no leukocytosis. Normal haemostasis. Glucose 152 mg/dl, creatinine 1.44 mg/dl, glomerular filtration 35.20 ml/min, sodium 143 mmol/l, potassium 4.1 mmol/l, chlorine 106 mmol/l, C-reactive protein 3.8 mg/l, two determinations of troponin I 0.0 ng/ml. LDL 119 mg/dl. HbA1c 8.6%.
+Electrocardiogram (ECG) with chest pain: atrial fibrillation at 95 bpm. Narrow QRS. Low voltages. Infradevelation of 1 mm and ST rectification from V2 to V6, DI and aVL.
+Painless ECG: sinus rhythm at 65 bpm. Correction of repolarisation alterations.
+Coronary angiography: 90% lesion in the mid-segment of the LAD. Mammary bridge to mid-distal LAD is observed, which fills retrograde from the LAD. Dominant circumflex (Cx) chronically occluded from the proximal segment, with poor filling by homocoronary collaterals distally. Poorly developed DC with chronic occlusion in the middle segment, distally filled by homocoronary collateral circulation. The bridge from the mammary to the LAD is patent and without lesions. Significant stenosis is observed at the origin of the left subclavian artery with a pressure gradient across it of 60 mmHg.
+Angio-CT scan: chronic stenosis of the proximal left subclavian artery about 32 mm from its origin, conditioned by a mixed plaque. The origin of the left internal mammary artery is 11 mm from the plaque.
+Echocardiogram: non-dilated left ventricle with preserved ejection fraction. Alterations of segmental contractility in inferior and inferolateral segments. Mild left ventricular hypertrophy. Right ventricle of normal size and function. Biauricular dilatation. No significant valvulopathies.
+
+CLINICAL EVOLUTION
+After finding significant stenosis of the left subclavian artery with compromised flow towards the mammary bypass to the anterior descending artery, CT angiography was performed to evaluate the three-dimensional anatomy of the stenosis. Given the patient's profile and her high surgical risk, percutaneous revascularisation was chosen, with angioplasty and destent implantation in the left subclavian artery, which proceeded without complications.
+During admission, deterioration of renal function was observed in relation to contrast administration and insufficient fluid intake, which improved with serum therapy, returning to baseline creatinine and glomerular filtration rates.
+The patient was discharged with special emphasis on the control of cardiovascular risk factors: smoking cessation, heart-healthy diet, weight loss, physical exercise... As for pharmacological treatment of risk factors, liraglutide was added to improve glycaemic control and promote weight loss, and simvastatin 40 mg was replaced by atorvastatin 80 mg to achieve LDL target of less than 55 mg/dl.
+Regarding the antithrombotic regimen, at discharge, double therapy was prescribed with rivaroxaban 10 mg per day and clopidogrel 75 mg per day, suspending the ASA previously taken by the patient.
+After the intervention, the patient remained asymptomatic, with no new episodes of chest pain during admission and subsequent follow-up in outpatient clinics.
+
+DIAGNOSIS
+Unstable angina due to subclavian-coronary steal syndrome. In a patient with severe three-vessel coronary artery disease and partial surgical revascularisation with left internal mammary bypass to anterior descending artery in 2008. Preserved LV systolic function.
+Paroxysmal atrial fibrillation in this context.
+Acute renal failure AKIN III on chronic kidney disease, prerenal origin and iodinated contrast nephrotoxicity.

@@ -1,0 +1,28 @@
+Antecedentes, enfermedad actual y exploración física
+Varón de 64 años que consulta por amaurosis brusca derecha. Antecedentes personales: alergia a penicilina, hipertensión arterial, dislipemia, obesidad y tabaquismo. Sin aportar informes, refiere que ingresó en otro centro hospitalario en 2007 por accidente cerebrovascular hemisférico izquierdo del que se recuperó sin secuelas y realizaba seguimiento por valvulopatía.
+Tratamiento habitual con enalapril, simvastatina y clopidogrel. Enfermedad actual: pérdida visual total brusca de ojo derecho de 24 h de evolución. No presentaba disnea ni dolor torácico ni fiebre ni ninguna otra sintomatología.
+
+Exploración física:
+TA 145/88 mmHg, 88 ppm, 36,7 oC, consciente, orientado, eupneico, hidratado y normocoloreado. Auscultación cardiopulmonar: murmullo vesicular conservado sin ruidos sobreañadidos. A la auscultación cardiaca se apreciaba un soplo sistólico eyectivo aórtico grado III/VI, irradiado a carótidas y soplo sistólico grado III/VI en borde esternal izquierdo irradiado hacia axila. Abdomen y miembros sin hallazgos destacables.
+
+Pruebas complementarias
+Radiografía PA de tórax: ausencia de cardiomegalia, sin derrame pleural ni infiltrados ni consolidaciones.
+Electrocardiografía: ritmo sinusal a 91 lpm, eje cardiaco izquierdo a -45o. Crecimiento de aurícula izquierda. Criterios de hipertrofia ventricular izquierda por Cornell. Hemibloqueo anterior izquierdo. Descenso de 1 mm descendente de ST en I y AvL con onda T negativa en dichas derivaciones. Sin cambios dinámicos en repolarización. QTc 443 mseg.
+Analítica: 12.000 leucocitos, Hb 11,5 g/dl, 335.000 plaquetas. Coagulación normal. VSG de 39 mm/h, PCR 4,27 mg/L. Bioquímica y función tiroidea normal. Los ANA, anti-DNA y ANCA negativos. Estudio de hipercoagulabilidad sin hallazgos patológicos.
+Serologías (Mycoplasma, Chlamydia, Coxiella, Lúes, Brucella y VHB) negativas.
+Fondo de ojo derecho: se aprecia mácula de color rojo-cereza, edema blanquecino por isquemia, estrechamiento de arterias retinianas y exudados blanquecinos.
+Ecocardiograma transesofágico: válvula aórtica muy desestructurada y con severo engrosamiento y calcificación con estenosis aórtica severa (gradiente medio 50 mmHg), insuficiencia aórtica ligera. Válvula mitral con varias imágenes que sugieren verrugas. En la cara auricular del velo posterior se aprecian dos imágenes de vegetaciones móviles, la más grande de 6 mm. Se produce un jet de insuficiencia mitral leve que sugiere perforación de la valva posterior. Hipertrofia ventricular izquierda severa y FEVI conservada. Ausencia de foramen oval permeable mediante inyección de suero agitado.
+Angio TAC de troncos supraórticos: objetivó ateroesclerosis carotídea y en el angio-TAC de TSA, estenosis de carótida interna derecha del 60-70%.
+Hemocultivos independientes x3: positivos para Streptococcus viridans.
+
+Evolución clínica
+Tras la evaluación por oftalmología de nuestro centro se diagnóstico de oclusión de arteria central de la retina derecha (OACR). El paciente fue ingresado en medicina interna para estudio. En el dúplex de troncos supra-aórticos (TSA) se objetivó ateroesclerosis carotídea y en el angio-TAC de TSA, estenosis de carótida interna derecha del 60-70 %. A pesar de los hallazgos carotídeos que podrían justificar el cuadro, se realizó ecocardiograma tras-torácico (ETT) como búsqueda de fuente embolica, apreciándose estenosis aórtica severa, signos degenerativos en válvula mitral (VM) con insuficiencia mitral (IM) leve y calcio en su anillo. Debido a la mala ventana ecocardiográfica se realizó ecocardiograma transesofágico (ETE), que confirmó la existencia de estenosis aórtica severa con fracción de eyección ventricular izquierda conservada (FEVI), visualizando vegetaciones sobre VM y perforación del velo posterior. Encontrándose afebril, se extrajeron tres hemocultivos creciendo en todas las muestras Streptococcus viridans.
+Con el diagnóstico de endocarditis infecciosa (EI) subaguda mitral sobre válvula nativa (y posiblemente aórtica) y los antecedentes descritos, fue tratado con vancomicina y gentamicina siguiendo pauta habitual.
+El paciente se mantuvo afebril durante todo el ingreso, con hemocultivos negativos de control. Se realizaron ETT y ETE de control con desaparición de vegetaciones, e IM leve-moderada como secuela. Resolviéndose la endocarditis infecciosa fue remitido a consulta externa de cirugía vascular para valoración de endarterectomía carotídea y a cardiología para seguimiento de su valvulopatía. A los dos meses del ingreso se procedió a la cirugía carotídea y posteriormente por inicio de sintomatología se realizó recambio valvular aórtico con prótesis metálica, sin complicaciones y con buena evolución cardiovascular. Sin embargo, el paciente no ha recuperado la visión del ojo derecho.
+
+
+Diagnóstico
+Oclusión de arteria central de la retina derecha.
+Endocarditis subaguda sobre válvula nativa mitral por Streptococcus viridans.
+Estenosis aórtica severa asintomática con FEVI conservada.
+Estenosis carotídea derecha significativa.

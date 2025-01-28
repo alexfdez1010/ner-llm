@@ -1,0 +1,48 @@
+We present the case of a 70-year-old man with ischaemic heart disease and atrial fibrillation with indication for anticoagulation.
+
+HISTORY, CURRENT DISEASE AND PHYSICAL EXAMINATION
+
+History
+No known drug allergies.
+Cardiovascular risk factors: hypertension, dyslipidaemia, ex-smoker for 12 years (smoking history 20 packs/year). Drinker of two beers per day and one glass of wine per day.
+
+Previous cardiological history:
+Chronic ischaemic heart disease; debut as acute myocardial infarction in 1998.
+Diffuse multivessel coronary artery disease. Catheterisation (4/11/2008): atheromatous and calcified anterior descending artery in proximal and middle segments, diseased vessel not approachable. Circumflex artery with diffuse disease of the whole vessel with poor distal beds. Atheromatous right coronary artery with irregularities.
+Preserved left ventricular ejection fraction.
+Other medical history:
+Mild chronic obstructive pulmonary disease.
+No surgical interventions.
+Current treatment: acetylsalicylic acid 100 mg/24 hours, nitroglycerin patch 15 mg/24 hours, carvedilol 25 mg/12 hours, ivabradine 5 mg/12 hours, candesartan 4 mg/24 hours, rosuvastatin 20 mg/24 hours, ezetimibe 10 mg/24 hours, inhaled tiotropium and budesonide.
+
+Present illness
+70-year-old man with episodes of exertional angina for the past year. When climbing hills or accelerating his pace, he experienced oppressive discomfort in the left hemithorax that sometimes radiated to the inner arm, which self-limited within 5-10 minutes after stopping the activity.
+It is also associated with chest pain during sexual intercourse. No episodes at rest.
+
+
+Physical examination
+Good general condition. Conscious, oriented and cooperative. Normal colour. Blood pressure (BP) 130/71 mmHg. Heart rate (HR) 75 bpm. No semiology of heart failure.
+Cardiopulmonary auscultation: arrhythmic heart, no murmurs. Bladder murmur preserved with no added pathological noises.
+Lower limbs: no oedema or fovea. No evidence of deep vein thrombosis.
+
+COMPLEMENTARY TESTS
+Electrocardiogram: atrial fibrillation at 90 bpm. Narrow QRS, normal axis. No repolarisation alterations.
+Chest X-ray: normal cardiothoracic index. Free costophrenic sinuses. No images of pulmonary condensation.
+Laboratory tests: creatinine 0.8 mg/dl. Haemoglobin 15.4 g/dl. Ultrasensitive troponin T 17 ng/l (normal < 14 ng/l).
+Echocardiogram: normal aortic root, trivalve aortic valve with preserved opening and closing. Left atrium not dilated. Normal mitral valve. Left ventricle of normal size, with normal myocardial thickness. Normal global and segmental systolic function.
+Ventricular filling with monophasic pattern. Normal right chambers. Absence of pericardial effusion. Inferior vena cava not dilated.
+Prognostic ergometry, treadmill, Bruce protocol, under beta-blocker treatment: clinically negative. Electrically positive with ST-segment elevation at the end of stage 2, due to ST-segment elevation in V3-V6 of 1 mm, with an accentuated decrease in recovery up to 3 mm.
+Slow recovery, persisting after 6 minutes with a 2-mm decline in V3 (V2-V6 decline).
+Exercise time 6:06 minutes, limited by leg fatigue. Functional capacity: 7.2 METS. Normal blood pressure response. HR response attenuated by beta-blockers.
+Normal HR recovery. Reached 86% of maximum heart rate. All tracing in atrial fibrillation.
+Immediate post-stress echocardiogram: physiological hypercontractility with apical akinesia.
+Diagnostic and therapeutic coronary angiography: right radial access. Left dominance. Left common trunk practically non-existent giving rise to 2 independent ostia of the anterior descending artery (ADA) and circumflex artery (ACx). ADA very calcified, of small calibre with diffuse atheromatosis along its entire length, causing areas of significant stenosis at mid-distal level over a small calibre, thin and diseased vessel. Dominant circumflex artery, of large calibre and course. It presents significant eccentric stenosis proximally and medially. It emits a first marginal branch of little entity and a second branch of large calibre and route where there is a short and significant stenosis in its proximal segment. Hypodeveloped right coronary artery with diffuse atheromatosis.
+Percutaneous coronary intervention: on marginal branch of the LMCA by means of simple angioplasty with conventional balloon (2 mm). On CAx by implanting two drug-eluting stents after dilatation with conventional balloon at mid-distal (Resolute Onyx 3 x 30 mm, post-dilated at high pressure with a 3.5 mm non-compliant balloon) and proximal (Resolute Onyx 3.5 x 22 mm at 16 atmospheres) levels. Good final angiographic result.
+
+CLINICAL EVOLUTION
+The patient was evaluated in the chest pain unit where an ergometry was performed with electrical positivity with segmental alterations in immediate post-strengthening echocardiography, so it was decided to admit the patient to hospital for coronary angiography. In addition, an electrocardiogram showed atrial fibrillation of uncertain chronology with controlled ventricular response. After coronary angiography revealed approachable coronary lesions, given that the patient had angina despite optimal antianginal treatment and inducible ischaemia in the non-invasive ischaemia detection test, percutaneous intervention was performed on the marginal branch and on the proximal and middle circumflex artery in order to improve the patient's symptoms.
+On discharge, the patient required anticoagulation (atrial fibrillation with CHA2DS2-VASc 3 points) and antiplatelet therapy (coronary revascularisation), so taking into account that the bleeding risk is high (HAS-BLED 4 points) and exceeds the ischaemic risk, a PIONEER strategy was decided and the patient was discharged with clopidogrel 75 mg/24 hours and rivaroxaban 15 mg/24 hours (including acetylsalicylic acid 100 mg/24 hours for the first week). Clopidogrel, if there are no incidents, will be withdrawn after 6 months, to continue with rivaroxaban at a dose of 20 mg per day if the renal glomerular filtration rate remains above 50 ml/min.
+
+DIAGNOSIS
+Chronic ischaemic heart disease with multivessel coronary artery disease and exertional angina despite medical treatment. Preserved LV systolic function. Percutaneous revascularisation of circumflex artery and marginal branch.
+Atrial fibrillation of uncertain chronology (CHA2DS2-VASc 3 points; HAS-BLED 4 points).

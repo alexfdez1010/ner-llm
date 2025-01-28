@@ -1,0 +1,22 @@
+Anamnesi e malattia attuale
+Donna di 46 anni con una storia di ipertensione e dislipidemia. Seguita in cardiologia nell'infanzia per una patologia che la paziente non sa specificare, senza successivi controlli. Ha esordito con sintomi improvvisi di disturbi del linguaggio e paralisi facciale inferiore destra. In assenza di controindicazioni e con una TC cerebrale normale, è stato somministrato un trattamento fibrinolitico con alteplase, con una buona risposta neurologica iniziale. Dopo 3 ore, il paziente ha presentato un nuovo peggioramento clinico ed è stata eseguita una nuova TC cerebrale che ha mostrato un'emorragia frontoparietale sinistra con associata una piccola emorragia subaracnoidea.
+L'esame fisico al momento del ricovero ha mostrato una saturazione basale di O2 dell'88%, con segni di ipoperfusione periferica con cianosi delle labbra. L'auscultazione cardiaca ha mostrato toni ritmici con un soffio sistolico di eiezione udibile in tutti i focolai. Ipoventilazione nel terzo inferiore dell'emitorace sinistro all'auscultazione polmonare. L'esame neurologico ha rivelato afasia di espressione e paresi facciale centrale destra. Durante il ricovero, la cianosi labiale persisteva con una bassa saturazione di ossigeno e una sindrome di torpnea-ortodossia. È stato eseguito un ecocardiogramma transtoracico che ha mostrato la valvola tricuspide con spostamento atriale e grave insufficienza compatibile con la malattia di Ebstein. Inoltre, è stato osservato un difetto del setto atriale ostium secundum (ASD-OS) nel setto posteriore con shunt bidirezionale. Nonostante il riscontro di una cardiopatia ad alto rischio di embolia nell'ecocardiogramma, si è deciso di posticipare l'inizio dell'anticoagulazione orale a causa di un'estesa emorragia cerebrale.
+
+Esami complementari
+- Esami di laboratorio: normali.
+- Gas ematici arteriosi: acidosi respiratoria compensata, SatO2 basale 77%.
+- Elettrocardiogramma: ritmo sinusale a 85 bpm, blocco di branca destro.
+- TC cerebrale iniziale: normale. TC cerebrale post-fibrinolisi: ematoma frontoparietale sinistro e piccola emorragia subaracnoidea associata.
+- Ecocardiogramma transesofageo: tricuspide con spostamento del lembo settale di 38 mm e grave insufficienza, grave dilatazione atriale destra (RA), normale contrattilità ventricolare destra (RV), gradiente RV-RA 20 mmHg. Indice di Celermajer 1,21. Flusso polmonare e altre valvole normali. Difetto del setto atriale (ASD) ostium secundum nel setto posteriore di 15 mm con shunt bidirezionale, assenza di bordo supero-posteriore.
+- Radiografia del torace: cardiomegalia a carico delle cavità destre. Versamento pleurico destro.
+- Angiografia TC toracica: PTE destro con infarto polmonare esteso nel lobo inferiore.
+- Eco-Doppler degli arti inferiori: normale.
+
+Evoluzione clinica
+Durante il ricovero, buona evoluzione neurologica con recupero completo alla fine della degenza. Durante la degenza in reparto, la paziente ha presentato episodi sempre più gravi di desaturazione di ossigeno, raggiungendo saturazioni di ossigeno del 67% al basale, che sono parzialmente migliorate con l'ossigenoterapia. La paziente ha riferito una progressiva dispnea fino al minimo sforzo, con limitata deambulazione in corridoio, che è migliorata in posizione supina. Dati i valori molto bassi di saturazione dell'ossigeno, che il paziente non aveva mai presentato in precedenza, è stata sospettata una patologia polmonare concomitante.
+L'angiografia TC toracica ha mostrato una tromboembolia polmonare destra (PTE) con infarto polmonare esteso nel lobo inferiore. Al momento della diagnosi, erano trascorsi 10 giorni dall'emorragia cerebrale. Al momento del riscontro della PTE, è stato iniziato un trattamento con acenocumarolo, con miglioramento clinico e dei valori di saturazione dell'ossigeno. Da allora, buona evoluzione clinica, senza nuove emorragie cerebrali o altre complicanze emboliche. Dati i dati di TR grave, l'ampia OS-ASD, il deterioramento della classe funzionale e la situazione di embolia multipla (ictus e PTE), è stato indicato l'intervento di riparazione della valvola tricuspide e la chiusura dell'ASD, che sono stati eseguiti senza complicazioni. Il paziente è attualmente in buona classe funzionale.
+
+Diagnosi
+- Ictus frontoparietale sinistro con trasformazione emorragica
+- PTE cardioembolico
+- Anomalia di Ebstein e ASD ostium secundum con shunt bidirezionale

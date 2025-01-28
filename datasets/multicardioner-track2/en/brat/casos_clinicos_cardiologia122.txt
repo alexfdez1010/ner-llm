@@ -1,0 +1,23 @@
+History, current illness and physical examination
+A 12-year-old boy was admitted to the PICU after being transferred by ambulance for cardio-respiratory arrest at home. He presented with a 12-hour history of odynophagia with a fever of 38°C maximum. After administering antipyretic medication, the mother reported noticing pathological respiratory sounds and loss of consciousness, so she called 112. On arrival of the basic support ambulance, an ICD was connected, confirming ventricular fibrillation, and defibrillation and cardiopulmonary resuscitation were performed, achieving an organised rhythm with a pulse after 4 minutes (after two shocks of 360 J). The medicalised ambulance arrived home, and the patient was intubated, sedated and transferred. Estimated time of cardiac arrest (from call to 112 to rhythm with pulse): 16 minutes. Background history: normal pregnancy and delivery. Wheezy bronchitis in infancy. No previous admissions. Vaccination according to schedule. No known allergies. Pending outpatient consultation in paediatric cardiology due to a murmur diagnosed by her paediatrician a month ago.
+Family history with uncle, grandfather and paternal cousin with acquired cardiac pathology.
+
+Physical examination showed an estimated weight of 45 kg. HR: 100 bpm, RR: 20 rpm, BP. 112/57, Sat. 02 100% (FiO2 of 0.3). Sedated, connected to mechanical ventilation. Skin pallor. No oedema. No petechiae. ACP: Good bilateral air entry. Rhythmic heart tones. Abdomen: Soft and depressible, no masses or megaliths.
+
+Complementary tests
+- ECG: Growth of left cavities and marked decrease of ST (especially in I, II, aVR and left precordial. QTC: 400ms.
+- Enzymatic peak: CPK: 1,722, CKMB: 42.7. Troponin T: 360.8, ProBNP: 3,788.
+- Echocardiography: Situs solitus, AV-VA concordance. AIS and IVS intact. Slight dilatation of the left ventricle (DTD 50 mm) with good systolic function (EF 55-60). Normofunctioning valves. Normal aorta and pulmonary artery. No pericardial effusion. Dilated right coronary artery of 6 mm. Left coronary artery is not observed in its normal origin. Flow to pulmonary artery mainly systolic (although it seems continuous), probably due to anomalous origin of the left coronary artery.
+- Angio CT coronary arteries: Anomalous origin of the left coronary artery from the main pulmonary artery with passage of contrast from the left coronary artery to the pulmonary artery. Dilated right coronary artery with origin in right coronary sinus with collateral circulation to the left coronary artery.
+
+Clinical evolution
+On admission, monitoring, connection to mechanical ventilation, hypothermia and serum therapy were started. Respiratory system was connected to conventional mechanical ventilation with adequate oxygenation. Respiratory deterioration from the 4th day of admission with worsening oxygenation and pneumonic condensation. Subsequent progressive improvement with slow withdrawal of FiO2 and PEEP. Haemodynamically on admission, continuous dopamine perfusion was started up to 20 mcg/kg/min for TAM 70. Tendency to bradycardia during hypothermia with QTc lengthening to 0.55, which normalised after withdrawal. There were no arrhythmias during the entire admission.
+Neurological: On admission, he was connected to continuous perfusion of deep sedoanalgesia with midazolam and fentanyl. Therapeutic hypothermia protocol was applied, maintaining a core temperature of 33-34°C for 48 hours. Continuous monitoring with amplitude-integrated EEG was maintained without the appearance of seizure episodes and with stable and symmetrical cerebral oximetry. Rewarming according to protocol without complications. Progressive withdrawal of sedoanalgesia with the appearance of coordinated spontaneous mobility without focality. Renal/Hydrometabolic: Maintained throughout admission with adequate diuresis, requiring occasional isolated doses of furosemide for adequate balances. Normal renal function.
+In view of the echocardiogram findings, a coronary CAT scan was performed which confirmed an anomalous origin of the left coronary artery in the pulmonary artery. With these data, the patient was referred to our paediatric cardiac surgery referral centre where cardiac catheterisation was performed with the same findings as the coronary CT scan. The patient underwent reimplantation of the left coronary artery in the aorta without significant complications.
+
+Diagnosis
+- Cardio-respiratory arrest due to resuscitated ventricular fibrillation.
+- ALCAPA syndrome (anomalous origin of left coronary artery in pulmonary artery).
+- Preserved left ventricular function.
+- Reimplantation of left coronary artery in aorta.
+- Nosocomial pneumonia associated with mechanical ventilation.

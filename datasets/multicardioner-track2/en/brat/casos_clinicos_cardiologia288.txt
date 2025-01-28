@@ -1,0 +1,31 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+58-year-old woman, no known drug allergies.
+
+History
+Cardiovascular risk factors: active smoker (8-10 cigarettes a day). Depressive syndrome.
+Menopause at 50-51 years of age.
+No known cardiological history, neither in relatives. Usual treatment: citalopram 10 mg.
+
+Current illness
+Consultation in the emergency department for chest discomfort onset at rest, with associated presyncopal symptoms lasting approximately 50 minutes. On assessment, she was asymptomatic, with an initial electrocardiogram (ECG) with no abnormalities and positive troponin determination, so the patient was diagnosed as non-ST-segment elevation acute coronary syndrome (NSTEACS) Killip I and admission to the intermediate care unit was decided.
+
+Physical examination
+Blood pressure (BP) 110/60 mmHg. Heart rate (HR) 60 bpm. Oxygen saturation (basal) 96%. Afebrile. Cardiac auscultation: rhythmic without audible murmurs. Pulmonary auscultation: normal. Abdomen: nondescript. Lower limbs: no oedema, no signs of deep vein thrombosis (DVT).
+
+COMPLEMENTARY TESTS
+ECG: sinus rhythm at 72 bpm, normal PR, narrow QRS, without acute repolarisation alterations.
+Laboratory tests: NT-proBNP 22 pg/ml, troponin I US 1,871 -> peak 5,212 pg/ml (normal value <14 pg/ml). Renal function and ions normal. Haemoglobin 14.4 g/dl, platelets 201,000/μl, leucocytes 5,600/μl. Glucose 87 mg/dl, creatinine 0.74 mg/dl, Na 139 mEq/l, K 4.9 mEq/l, TSH normal, total cholesterol 259 mg/dl, HDL 58 mg/dl, LDL 183 mg/dl.
+Chest X-ray: cardiac silhouette, parenchyma and pulmonary vascularisation without pathological findings.
+Cardiac catheterisation: epicardial coronary arteries without angiographic lesions in main vessels. Only a third obtuse marginal branch showed a sudden change in calibre from 1.5 mm to less than 1 mm, which subsequently recovered the size of the vessel, which could correspond to an area of haematoma/spontaneous dissection. Ventriculography: left ventricle (LV) with preserved systolic function, very localised akinesia of the mid-basal inferolateral area.
+Echocardiogram: non-dilated LV, normal wall thickness, preserved systolic function (LVEF 59%), no segmental alterations. Atria not dilated. Right ventricle (RV) not dilated with normal contractility (TAPSE 20 mm, S wave 11.5 cm/s). Slight mitral sclerosis, correct and competent opening. Trivalve aortic valve with calcium spot in non-coronary leaflet and mild sclerosis, not restricted in opening and with mild central insufficiency. Mild tricuspid insufficiency, RV-AD gradient 15 mmHg. Mild pulmonary insufficiency, protodiastolic gradient 6 mmHg. Pulmonary acceleration time 130 ms. Inferior vena cava (IVC) not dilated (13 mm) with normal collapse. Normal PAPs. Absence of pericardial effusion.
+Computed tomography (CT) body: origin of the supra-aortic trunks of normal morphology. Axillary-subclavian arterial axes and carotid axes permeable and of normal calibre. Cervical segment of internal carotid artery with slight irregularity, not conclusive of dysplasia. Left vertebral dominance. Left coronary trunk and circumflex artery of normal calibre. Patent aorta with preserved calibre. Bilateral accessory renal artery with origin cranial to the ipsilateral main renal artery. Main renal arteries of arrosariado-displastic appearance. Patent and ectatic iliac arterial shafts. External iliac arteries with arrosative-dysplastic appearance. None of the focal stenoses that condition the dysplastic appearance of the main renal arteries and the external iliac arteries is significant. Extravascular findings: left adrenal with nodular thickening of adenomatous appearance. Right kidney with small fatty nodule in its lower third compatible with small angiomyolipoma and left kidney with small cortical cyst in its upper third. Calcified uterine myoma. Sigmoid diverticulosis. Conclusion: main renal arteries and external iliac arteries of arrosariado aspect, a finding that suggests fibromuscular dysplasia.
+
+CLINICAL EVOLUTION
+Coronary angiography was performed in the first 24 hours with the finding of epicardial coronary arteries without angiographic lesions in the main vessels, but a sudden decrease in calibre was observed in the third obtuse marginal branch, compatible with spontaneous coronary dissection at that level.
+Subsequent evolution was favourable, with no complications in the vascular access area or clinical recurrence. A transthoracic echocardiogram was requested with overall systolic function preserved, with no segmental asymmetries at discharge, and no notable valvulopathies.
+Given the diagnosis of spontaneous coronary artery dissection, the study was completed with a body CT scan to detect fibromuscular dysplasia, which was finally confirmed, with involvement of the main renal and external iliac arteries. In a situation of clinical stability, the patient was discharged, indicating cessation of smoking and indefinite taking of simple antiplatelet therapy and high-potency statins.
+
+DIAGNOSIS
+Acute myocardial infarction without Q wave due to spontaneous coronary dissection of the third obtuse marginal branch. Normal LV systolic function.
+Fibromuscular dysplasia with involvement of renal and iliac arteries.
+Smoking. Dyslipidaemia.

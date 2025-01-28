@@ -1,0 +1,42 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Donna di 47 anni, ricoverata per una sincope con blocco atrioventricolare 2:1 (AVB).
+
+Anamnesi
+Indipendente per ABVD, ma bisognosa di sostegno. Vive con i genitori. Separati.
+Nessuna allergia nota ai farmaci.
+Nessuna storia familiare di malattie cardiache o di morte cardiaca improvvisa precoce.
+Nessuna abitudine tossica. Nessun fattore di rischio cardiovascolare. Peso normale (57,5 kg, altezza 1,58 m).
+Fenotipo di citopatia mitocondriale MELAS (diagnosi a 23 anni). Predominanza di sordità neurosensoriale grave e intolleranza all'esercizio fisico dovuta a miopatia. In trattamento con valproato e fenobarbital, con ultima crisi tonico-comica complessa 1 anno fa. TAC senza nuove lesioni. Frequente iponatriemia.
+Blocco di branca destro ed emiblocco anteriore sinistro.
+Interventi chirurgici: colecistectomia (2012) e appendicectomia nell'infanzia.
+Farmaci abituali: valproato 500 mg 1-1-1, fenobarbital 50 mg 0-0-1, ubichinone 100 mg 0-1-0, lorazepam 1 mg 0-0-0-1.
+
+Malattia attuale
+Anamnesi attraverso la famiglia per afasia e grave ipoacusia del paziente. Riferiscono che al mattino, al risveglio, la paziente è pallida, con sudorazione e nausea. Successivamente, le vertigini si sono intensificate, cadendo a terra con perdita di coscienza e rapido recupero.
+
+Viene chiamato il servizio di emergenza, ma le manifestazioni cliniche persistono all'arrivo, rivelando un AVB 2:1, battito cardiaco condotto con morfologia di blocco di branca sinistra. È stata indirizzata all'ospedale regionale, essendo asintomatica all'arrivo e con un ECG in ritmo sinusale con conduzione AV 1:1. Non c'erano dolore toracico, palpitazioni, disturbi del sonno e del sonno. Non presentava dolore toracico, palpitazioni, dispnea o altri sintomi di accompagnamento. È stata inviata al nostro centro per una valutazione cardiologica.
+
+Esame fisico
+Pressione arteriosa (BP) 92/62 mmHg, frequenza cardiaca (HR) 72 bpm, SatO99%, temperatura 35 oC.
+Cosciente e orientato. Nessuna focalità neurologica.
+Toni ritmici, assenza di soffi o sfregamenti. Pulsazioni simmetriche. Assenza di ingurgito giugulare. Nessun edema.
+Buona entrata d'aria bilaterale, nessun suono supplementare.
+Addome morbido, leggera distensione a livello epigastrico, non dolente alla palpazione. Peristalsi conservata.
+
+ESAMI COMPLEMENTARI
+Primo ECG (eseguito dal servizio di emergenza al primo contatto medico): BAV 2:1 a 35 bpm, battito condotto con QRS di 110 msec con PR breve di 100 msec e immagine elettrica compatibile con onda delta negativa in V1, positiva in V3-V6, II, III, aVF.
+ECG al momento del ricovero presso il nostro centro: ritmo sinusale a 80 bpm, conduzione AV 1:1 PR 100 ms e QRS di 110 msec con immagine compatibile con preeccitazione, simile al precedente.
+Radiografia del torace posteroanteriore eseguita presso il pronto soccorso del nostro centro: silhouette cardiaca normale. Nessuna condensazione nel parenchima polmonare. Nessun segno di insufficienza cardiaca o di versamento pleurico.
+Esami del sangue iniziali: glucosio 305 mg/dl, creatinina 0,8 mg/dl (GFR > 90 ml/min), urea 61 mmol/l, CK 328 mU/ml, TnUs 61 ng/l, Na 130 mEq/l (corretto 136 mEq/l), K 4,6 mEq/l. Emogramma: leucociti 13,1x109 l (N 53,1%, L 37,3%), emoglobina 12,1 g/dl, ematocrito 36%, piastrine 217 x109 l, INR 0,98.
+Emogas venoso all'ammissione: pH 7,231, pCO2 40,7 mmHg, HCO3 15,5 mEq/L, EB -10,5 mEq/L, lattato 8,6 mEq/l.
+Esami ematici di controllo 5 ore dopo il ricovero: CK 292 mU/ml, troponina I US 100 ng/l, lattato 4,4 m Eq/l.
+Ecocardiogramma transtoracico: ventricolo sinistro non dilatato, leggermente ipertrofizzato concentricamente, con funzione sistolica e diastolica normale. Nessuna valvulopatia significativa. Ipertensione polmonare lieve (PAP stimata 36-38 mmHg). Ventricolo destro normale.
+
+EVOLUZIONE CLINICA
+Una donna di 47 anni con sindrome di MELAS è stata ricoverata per AVB 2:1 sintomatico (sincopale) e con un'immagine compatibile con una pre-eccitazione che persisteva nonostante il disturbo di conduzione, portando alla diagnosi di una via accessoria fasciculoventricolare associata (origine posteriore al nodo atrioventricolare). L'ecocardiogramma ha mostrato una lieve ipertrofia ventricolare con PSAP leggermente elevata. Gli esami di laboratorio hanno mostrato un lattato iniziale di 8 mEq/l e successivamente di 4 mEq/l, con una leggera acidosi iniziale che è rimasta con lattato leggermente elevato ed è stata attribuita alla malattia mitocondriale (lattato precedente sempre elevato 2,5-11).
+Ricoverato in unità coronarica per un attento monitoraggio e l'impianto di un pacemaker permanente. Evoluzione favorevole dal ricovero, rimanendo sempre asintomatico, in ritmo sinusale con conduzione AV 1:1, senza recidive di bradiaritmia. Ventiquattro ore dopo il ricovero, è stato impiantato un pacemaker bicamerale senza incidenti e successivamente, dopo aver verificato il normale funzionamento del dispositivo e l'assenza di complicanze, è stata dimessa a casa.
+
+DIAGNOSI
+Blocco AV 2:1 sintomatico (sincope).
+Immagine elettrocardiografica compatibile con preeccitazione ventricolare da parte di una via accessoria fasciculoventricolare (considerando la persistenza della morfologia QRS nonostante il blocco AV).
+Sindrome MELAS (miopatia mitocondriale, encefalopatia, acidosi lattica e ictus).

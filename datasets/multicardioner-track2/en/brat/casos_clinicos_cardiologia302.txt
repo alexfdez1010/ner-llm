@@ -1,0 +1,44 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+PERSONAL HISTORY
+No adverse drug reaction.
+Cardiovascular risk factors (CVRF): smoking 10 cig/day, dyslipidaemia.
+Suprarenal incidentaloma in follow-up by endocrinologist: negative catecholamines and metanephrines in urine and normal cortisol.
+
+Cardiological history:
+Admission for tako-tsubo syndrome in 2017. The electrocardiogram (ECG) on admission showed ST elevation in the inferior face, so the infarction code was initially activated, showing normal coronary arteries. Ventriculography and echocardiography showed akinesia of all apical segments with preserved contractility at baseline (left ventricular ejection fraction [LVEF] by Simpson 42%), with an image of apical ballooning compatible with tako-tsubo syndrome. Peak ultrasensitive troponin T 568.4 pg/ml. She was discharged with beta-blockers (bisoprolol 2.5 mg) and angiotensin converting enzyme inhibitor (ACE inhibitor) (enalapril 2.5 mg). Four months after discharge, a control echocardiogram was performed, showing complete normalisation of contractility alterations and LVEF of 67%.
+New admission in 2018 for non-ST-segment elevation myocardial infarction (NSTEMI). The ECG in the emergency department showed prominent T waves on the inferolateral side.
+Elevation of troponin T Us up to 487 pg/ml. Catheterisation with normal coronary arteries, with multiple fistulas from the left coronary tree to the left ventricle. Cardiac magnetic resonance (CMR) was also requested, with no signs of acute ischaemia, myocarditis or transmural necrosis. It was decided to increase the dose of beta-blocker (bisoprolol to 5 mg/day), aspirin 100 mg/day and atorvastatin 40 mg/day were added.
+
+CURRENT DISEASE
+A 60-year-old woman came to the emergency department one month after her last admission for an episode of central thoracic oppression lasting one hour, which started at rest and was accompanied by a significant vegetative cortex in the form of profuse sweating and nausea. On arrival at the ED, still symptomatic with slight discomfort in the left hemithorax.
+Treatment on current admission: bisoprolol 5 mg, atorvastatin 40 mg/day, acetylsalicylic acid (ASA) 100 mg/day, hydroferol 0.266 1 capsule per month.
+
+PHYSICAL EXAMINATION
+Blood pressure (BP) 135/65 mmHg. Heart rate (HR) 75 bpm. SatO2 98% (FIO2 21%).
+Regular general condition, conscious and oriented, cooperative, without focality.
+Cardiac auscultation: rhythmic, no murmurs.
+Pulmonary auscultation: preserved vesicular murmur (VCM) without over-aggregation.
+Lower limbs: symmetrical without oedema, palpable peripheral pulses.
+
+COMPLEMENTARY TESTS
+ECG on arrival, with pain: nodal rhythm at 80 bpm that precedes the sinus P wave with a frequency of about 70 bpm. Narrow QRS, ST-segment depression less than 0.5 mm in II and avF, and up to 1.5 mm in V4-V6, which normalises completely after sublingual caffeine.
+Laboratory tests:
+Biochemistry: glucose 162 mg/dl. Urea 42 mg/d. Creatinine 1.03 mg/dl. Sodium 139 mmol/l. Potassium 3.4 mmol/l. C-reactive protein (CRP) 3.0 mg/dl. Total cholesterol 121 mg/dl. Triglycerides 57 mg/dl. HDL cholesterol 43 mg/dl. Calculated LDL cholesterol 78 mg/dl.
+Haemogram: white blood cells 15.88 x10^9/l. Red blood cells 4.45 x10^12/l. Haemoglobin 14.4 g/dl. Platelets 249 x10^9/l.
+Haemostasis: PT: 14s, aPTT 35s. Quick 85%. INR 1.0.
+Myocardial damage markers: ultrasensitive troponin T 10.5 pg/ml --> 280 pg/ml --> 17 pg/ml.
+Echocardiography: left ventricle (LV) with normal diameters (LVEDD 46 mm), without hypertrophy of its walls and with preserved systolic function (EF 65%). No alterations in segmental contractility were observed at rest. Non-dilated right ventricle with preserved systolic function. Normal LV diastolic pattern. Atria of normal size. Aortic root of normal diameter with sigmoid leaflets of normal thickness and opening. No valvular dysfunction. Mitral valve with leaflets of normal thickness and mobility. Trivial central regurgitant jet. Minimal tricuspid insufficiency (TI), in the absence of pulmonary hypertension. Absence of pericardial effusion.
+Ergometry with hyperventilation test: hyperventilation test is performed for 2 minutes without appreciating significant changes in ventricular repolarisation.
+Subsequently, he exercised according to the Bruce protocol, stopping the test at the beginning of the 4th stage of the Bruce protocol (11 METS) due to maladaptation to the treadmill, not reaching submaximal FC (81% of FCMT) under the effect of beta-blockers. No angina or ST-segment elevation. Correct chronotropic adaptation. Absence of arrhythmia induction. Good functional capacity (> 120% for active women).
+Coronary catheterisation: left main coronary artery (LMCA): no lesions. Anterior descending artery (ADA): good calibre and development, without lesions. Coronary fistulas to LV. Circumflex artery (ACX): non-dominant without lesions. Right coronary artery (RCA): dominant, without lesions.
+Vasospasm test with acetylcholine: acetylcholine test was performed with increasing doses in the left coronary artery, with no clinical changes observed in ECG or vasospasm. In ACD, significant spasm was observed (> 75%) associated with nodal rhythm, followed by transient complete atrioventricular block (AVB), reproducing the electrocardiographic alterations in the inferolateral face, present in the admission ECG. Intracoronary nitroglycerin (NTG) was administered, and the procedure was completed without further complications.
+
+CLINICAL EVOLUTION
+The patient has remained stable since admission to the cardiology ward with no recurrence of the symptoms that led to her admission. Given the presence of ischaemic changes in the admission ECG and relatively recent coronary angiograms without lesions, a hyperventilation test was requested with suspicion of coronary vasospasm, which was normal, so a coronary vasospasm test with acetylcholine was requested. Four injections were performed with increasing doses in the left tree without producing any angiographic or electrocardiographic changes and one injection in the right coronary artery which triggered spasm greater than 75% of the initial vessel calibre with ischaemic changes in the electrocardiogram.
+Given that the patient under treatment with beta-blockers and ASA has presented recurrences of the current clinical picture, it was decided to discontinue them and start NTG patches, which the patient did not tolerate due to headache and weakness, diltiazem was prescribed in low doses, with good tolerance, so that this drug was maintained at discharge. The importance of smoking cessation was stressed.
+Several months after admission, the patient remained asymptomatic, with good tolerance to the medication, no changes in her functional class, and no recurrence of episodes of chest pain.
+
+DIAGNOSIS
+Recurrent acute coronary syndrome (ACS), with normal coronary arteries.
+Vasospastic angina.

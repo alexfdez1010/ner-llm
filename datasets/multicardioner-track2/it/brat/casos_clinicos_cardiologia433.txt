@@ -1,0 +1,38 @@
+Presentiamo il caso di un uomo di 83 anni che si è presentato al nostro ospedale con una sincope di eziologia non chiara.
+
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+ANTEFATTI:
+Nessun AMC. Iperteso, diabetico di tipo 2, dislipidemico, ex fumatore. Broncopneumopatia cronica ostruttiva (BPCO) di grado moderato, malattia renale cronica di stadio IIIB e malattia vascolare periferica in follow-up con chirurgia vascolare.
+Interventi chirurgici: endoprotesi dell'aorta ascendente nel 2000 (in un altro centro al di fuori della nostra comunità) con bypass carotideo-sottoclaveare sinistro e occlusione dell'arteria succlavia sinistra. È stato sottoposto a endoprotesi addominale infrarenale aorto-bi-iliaca.
+Trattamento abituale: metformina 850/12 ore, acido acetilsalicilico (ASA) 100 mg/24 ore, nevibololo/idroclorotiazide 5/25 mg/24 ore, atorvastatina 40 mg/24 ore.
+
+MALATTIA ATTUALE:
+Uomo di 83 anni che giunge al pronto soccorso del nostro centro portato da un vicino di casa per averlo trovato caduto in casa. Vive da solo, senza familiari diretti. L'anamnesi è stata difficile a causa del disorientamento del paziente nel tempo e nello spazio. Ripercorrendo la storia del paziente durante la degenza, il giorno prima del ricovero ha iniziato a manifestare un dolore toracico centrale e una paraparesi agli arti inferiori, che gli impediva di stare in piedi, oltre a un diffuso fastidio addominale, senza altri sintomi associati apparenti. Chiedendo al vicino di casa, questi ha riferito di averlo trovato a casa con una ferita nella regione occipitale, senza perdita del controllo sfinterico; apparentemente il paziente era stato asintomatico dal punto di vista cardiovascolare nei giorni precedenti.
+
+ESAME FISICO:
+Disorientato nel tempo e nello spazio. Verboso. Pressione arteriosa (BP) 160/85 mmHg. Frequenza cardiaca 90 bpm. Febbricitante. Nessuna IY. Trauma occipitale. Auscultazione cardiaca: suoni cardiaci ritmici senza soffi. Auscultazione polmonare: ipoventilazione generalizzata con alcuni ronchi sparsi. Arti inferiori: nessun edema, pulsazioni femorali e poplitee presenti con abolizione delle pulsazioni distali. Addome: nessun dolore alla palpazione, suoni idroaerei presenti, nessun segno di irritazione peritoneale. NRL: PPCC bilaterale conservato. Forza e sensibilità conservate in tutti e quattro gli arti.
+
+ESAMI COMPLEMENTARI
+ANALISI (ED): biochimica: glucosio 250 mg/dl. Creatinina 3,19 mg/dl, GFR (MDRD) 19 ml/min/m2. nA 140 mEq/l. K 4,9 mEq/l. Urea 89 mg/dl. GOT 25IU/l. GPT 16IU/l. Bilirubina 05 mg/dl. Emogramma: 21100 leucociti (84% PMN, 4% chiavi), Hb 7,8 g/dl, ematocrito 23%, 192000 piastrine/mm3. Coagulazione: INR 1.0, PT 100%
+ELETTROCARDIOGRAMMA (ECG): ritmo sinusale a 85 bpm, PR 180 ms, QRS largo con blocco di branca destro.
+Radiografia del torace P-A: cardiomegalia. Significativo ingrossamento mediastinico che sposta il polmone sinistro. Versamento pleurico sinistro.
+TC cranica (emergenza): raccolta extra-assiale frontoparietale bilaterale, suggestiva di ematoma subdurale con scarso effetto compressivo sul parenchima cerebrale. Lesioni ischemiche dei piccoli vasi.
+Ecocardiogramma (urgente): ventricolo sinistro di dimensioni normali, con funzione sistolica globale e segmentale conservata (calcolata al 65%). Non sono evidenti alterazioni della contrattilità. Camere destre di dimensioni e funzione conservate. Nessuna valvulopatia significativa. Nessuna evidenza di versamento pericardico
+ANGIO-CT toracica (emergenza): eseguita senza contrasto a causa dei livelli di creatinina. Aumento della sacca aneurismatica rispetto allo studio precedente del dicembre 2011. Le misure attuali sono 11 x 11 x 14 cm negli assi trasversale, anteroposteriore e cranio-caudale rispettivamente (le misure dello studio precedente erano 6 x 6 x 7 x 7 cm). È presente un significativo versamento pleurico sinistro localizzato. Sia nella sacca aneurismatica che nel versamento si individuano aree di maggiore attenuazione che suggeriscono uno stravaso di sangue. Nella protesi situata nell'arco aortico, alla giunzione della porzione distale dell'arco con l'aorta discendente, è presente un'area di irregolarità e di apparente interruzione della continuità delle pareti della protesi.
+Scansione ANGIO-CT dell'aorta (giorno 1 di ricovero): endoprotesi nell'arco aortico, con lieve flessione nelle aree prossimale e distale. Aneurisma aortico di grandi dimensioni (11,5 cm) trombizzato, anche se con aree dense che suggeriscono emorragia e quindi instabilità, soprattutto nella zona anteriore. Questo studio non dimostra alcuna perdita diretta o indiretta. Soprattutto nella zona superiore sono evidenti calcificazioni nel trombo murale, che indicano una dissezione, ma non si nota un falso riempimento del lume. Aorta pre-stent di 36 mm e aorta distale di 31 mm. Anastomosi carotideo-sottoclaveare sinistra pervia. Significativo versamento pleurico sinistro con componente emorragica senza perdite visibili; è localizzato e lobulato, con collasso del LII e atelettasia della lingula. Discreto spostamento mediastinico verso il lato destro. L'aneurisma comprime l'arteria polmonare e il ramo sinistro dell'arteria polmonare. Calcificazioni coronariche. Endoprotesi aorto-bi-iliaca senza complicazioni.
+ARTERIOGRAFIA toracica (secondo giorno di ricovero): eseguita per via omerale destra. Non sono state identificate perdite di contrasto o rami che contribuiscono alla sacca aneurismatica.
+
+
+EVOLUZIONE CLINICA
+Un uomo di 83 anni con l'anamnesi sopra descritta è stato ricoverato al pronto soccorso dell'ospedale per una sincope; dopo aver eseguito gli esami complementari del caso, è stata riscontrata una sindrome aortica acuta ed è stato ricoverato nell'unità coronarica del nostro ospedale.
+In considerazione della stabilità clinica del paziente, della sua comorbilità e in accordo con il reparto di cardiochirurgia del nostro ospedale, sono state decise la sorveglianza intensiva e la gestione conservativa, iniziando innanzitutto con un trattamento antipertensivo, la trasfusione di due concentrati di globuli rossi e la terapia con il siero al fine di migliorare la funzione renale per completare lo studio.
+Il primo giorno di ricovero è stata eseguita una nuova angiografia TC di controllo, questa volta con contrasto, senza evidenti perdite e mostrando una trombosi dell'aneurisma, e il secondo giorno di ricovero, dopo aver stabilizzato la funzione renale del paziente e in una situazione di stabilità emodinamica, è stata eseguita un'arteriografia toracica senza evidenza di perdite di contrasto.
+Durante il ricovero, il paziente ha mostrato una buona evoluzione clinica, con stabilità emodinamica, assenza di deterioramento neurologico e progressivo miglioramento della funzione renale.
+Infine, data l'evoluzione favorevole delle condizioni del paziente, è stata decisa una gestione conservativa della sua sindrome aortica acuta. Alla dimissione, il paziente era emodinamicamente stabile e asintomatico dal punto di vista cardiovascolare e gli è stato prescritto un trattamento con beta-bloccanti e vasodilatatori a basse dosi.
+Allo stesso modo, è stato valutato dal servizio di neurochirurgia senza richiedere un trattamento e, a causa della mancanza di supporto familiare, è stato valutato dall'assistente sociale e istituzionalizzato.
+
+DIAGNOSI
+Sindrome aortica acuta.
+Ematoma intramurale secondario alla fuoriuscita dello stent dell'aorta ascendente.
+Rottura della sacca aneurismatica con emotorace.

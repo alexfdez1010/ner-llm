@@ -1,0 +1,36 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+Varón de 69 años, trabajó en minería de interior. No alergias medicamentosas conocidas. Factores de riesgo cardiovascular (FRCV): exfumador desde hace 40 años, acumulado 25 paq/año. Exbebedor. No conoce metabolopatías.
+Cumple criterios de síndrome antifosfolípico (SAF) y parcialmente de lupus eritematoso sistémico (LES). Tromboembolia pulmonar (TEP) segmentaria en 2015 por el que recibe anticoagulación con acenocumarol.
+Historia cardiológica: en diciembre de 2017 infarto agudo de miocardio sin elevación del segmento ST (IAMSEST) con enfermedad coronaria de 2 vasos (DAm y DP) con revascularización parcial. En dicho ingreso se realiza ecocardiografıa transtorácica (ETT) que detecta hipertrofia ventricular izquierda (HVI) leve sin valvulopatías. Fracción de eyección del ventrículo izquierdo (FEVI) conservada con ventrículo derecho (VD) normofuncionante. Sin historia familiar de muerte súbita precoz.
+Tratamiento: ácido acetilsalicílico (AAS) 100 mg, clopidogrel 75 mg, acenocumarol, atorvastatina 80 mg, bisoprolol 2,5 mg, hidroxicloroquina, hidroxicina y ranitidina.
+
+
+ENFERMEDAD ACTUAL:
+El paciente acude al servicio de urgencias por dolor torácico. Refiere que 2 horas antes de consultar y encontrándose sentado después de comer, comenzó con opresión centrotorácica con irradiación al miembro superior izquierdo que le recordaba al IAMSEST previo, aunque de menor intensidad. Niega haber presentado episodios anginosos desde la revascularización. Buena adherencia al tratamiento pautado.
+A su llegada se realiza electrocardiograma (ECG) en el que se objetiva una taquicardia ventricular monoforma sostenida (TVMS) bien tolerada hemodinámicamente por lo que se decide realizar cardioversión farmacológica con procainamida. Tras 700 mg en bolos de 100 mg se consigue revertir a ritmo sinusal. El paciente ingresa para completar estudios.
+
+EXPLORACIÓN FÍSICA:
+Presión arterial (PA) 140/80 mmHg. Frecuencia cardiaca (FC) 160 lpm. SatO2 sin oxigenoterapia 98%. Afebril.
+Consciente, orientado y colaborador. Auscultación cardiaca: ruidos cardiacos rítmicos, taquicárdico, sin soplos. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos añadidos. Abdomen: blando, depresible, no doloroso a la palpación. Miembros inferiores bien perfundidos, pulsos positivos y simétricos. No focalidad neurológica a la exploración.
+
+PRUEBAS COMPLEMENTARIAS
+BIOQUÍMICA: función renal e iones normales. Troponina T ultrasensible 17 ng/l, sin elevación significativa (límite 35 ng/l).
+HEMOGRAMA: Hemoglobina 14,9 gr/dl, leucocitos 8170 con fórmula normal, plaquetas: 278000.
+RADIOGRAFÍA DE TÓRAX: índice cardiotorácico normal sin datos de patología aguda.
+ECG a su llegada: TV con morfología de bloqueo de rama izquierda del haz de His (BRIHH), eje inferior y transición V3-V4.
+ECG poscardioversión: ritmo sinusal a 60 lpm, T negativa en I y aVL y de V4 a V6.
+ECG basal (2015): RS a 65 lpm, T negativa en I y aVL y de V4 a V6.
+Resonancia magnética cardiaca (RMC): VD de tamaño normal con discinesia en la pared anterior a nivel medio ventricular y pequeñas saculaciones de la pared libre a nivel subtricuspídeo, fracción de eyección del ventrículo derecho (FEVD) 44%. VI de tamaño normal con hipertrofia del septo basal (14 mm) y FEVI levemente deprimida. Pequeña zona de realce tardío intramiocárdico en la unión inferior de ambos ventrículos a nivel medio.
+ETT: HVI leve con FEVI conservada.
+
+EVOLUCIÓN CLÍNICA
+Ante la morfología de la TV, sugestiva de tracto de salida del ventrículo derecho (TSVD), se decide realizar una RMC para descartar escara miocárdica como origen de la misma y se objetiva una FEVI levemente afecta, pero una FEVD del 44% con pequeñas saculaciones a nivel subtricuspídeo y una zona de discinesia. Se realiza un estudio electrofisiológico (EEF) donde se reproduce la TV con morfología de BRIHH, eje inferior y transición en V3 y V4. Además, se determina una zona de máxima precocidad a dicho nivel subtricuspídeo donde se finaliza la taquicardia realizando una ablación efectiva. El paciente permanece asintomático y sin nuevos eventos arrítmicos en el seguimiento posterior al alta.
+No obstante, ante la morfología de la TV, las alteraciones en la RMC y las características del ECG basal, todos criterios menores de displasia arritmogénica de VD, se establece el diagnóstico limítrofe de displasia arritmogénica ventricular derecha (DAVD).
+
+DIAGNÓSTICO
+TVMS de cara anterolateral de VD cardiovertida farmacológicamente con procainamida y ablacionada con éxito.
+Enfermedad coronaria de 2 vasos con revascularización parcial.
+FEVI levemente afecta.
+Posible displasia arritmogénica de VD (3 criterios menores = diagnóstico limítrofe).

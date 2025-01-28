@@ -1,0 +1,16 @@
+Anamnesi e malattia attuale
+Donna di 49 anni con una storia di malattia di Chagas cronica, portatrice di pacemaker da 35 anni, non assume alcun farmaco. Diabete (-), ipertensione (-). Interventi chirurgici: 3 cambi di elettrodi (l'ultimo 9 anni fa).
+
+Esame fisico: pressione 110/65 FC 70 bpm, peso 62 kg, altezza 1,65 m. Auscultazione cardiaca: soffio sistolico ritmico e lieve +/+6 nel focus mitralico, picco di scossa tra la 4a e la 5a EII. Auscultazione polmonare: MV senza rumori aggiunti. Classe funzionale I secondo la NYHA. La paziente ha riferito frequenti vertigini 2 settimane fa e ha persino presentato una sincope quando era seduta e parlava con la sua famiglia a casa, motivo per cui ha deciso di consultare il medico. Riferisce che il pacemaker le è stato impiantato all'età di 14 anni e che non ha mai cambiato il generatore in quanto si trattava di un pacemaker con una batteria basata sull'energia nucleare (plutonio) che le era stato donato nel 1974. Gli interventi chirurgici a cui è stato sottoposto finora sono stati di sostituzione degli elettrodi e non c'è una storia clinica che indichi il motivo del cambiamento.
+
+Esami complementari
+- Analisi del sangue: emoglobina 13 g/dl, leucociti 6.443, piastrine 254.000, glucosio 88, creatinina 1,1, Na 142, K:4,0.
+- ECG: sinusale, con ritmo di pacemaker monocamerale, stimolazione unipolare in ventricolo FC 70 bpm, senza conduzione VA.
+- Radiografia del torace: area cardiaca con lieve ingrandimento, 2 elettrodi endocardici abbandonati e 1 elettrodo epicardico collegato a un generatore con una compressa di plutonio all'interno.
+- Ecocardiogramma: EF 59%, LVED 57 mm, LA: 45 mm, IV setto 10 mm. Lieve ipocinesia della parete inferiore, nessun trombo, nessun versamento pericardico. Holter 24 ore. Ritmo VVI PM 70 bpm isolato polimorfico, PVC infrequenti, periodi di perdita di comando ventricolare che generano asistolia tra 5 e 7 secondi in veglia e di notte (lo spicchio non viene registrato durante la perdita di cattura).
+
+Evoluzione clinica
+Poiché non era disponibile alcun programmatore per questo modello di pacemaker, si è deciso di eseguire un intervento chirurgico per valutare l'integrità del sistema di stimolazione (la paziente ha chiesto che, se si fosse trattato di un caso di guasto agli elettrodi, venisse mantenuto lo stesso pacemaker, dato che lo possiede da quasi tutta la vita e sa che ha un'energia illimitata). Durante l'intervento chirurgico, quando il generatore è stato rimosso dalla tasca, è stato osservato che il connettore era danneggiato e che entrava in contatto con l'elettrodo con materiale siliconico che era stato inserito nell'intervento precedente, con conseguente contatto intermittente a 9 anni dall'intervento. La paziente ha ricevuto un nuovo sistema di stimolazione St. Jude Zephyr SR programmato VVIR 70 bpm, epicardico, poiché non era possibile accedere per via venosa. È stata dimessa entro 48 ore ed è rimasta asintomatica per circa 12 mesi.
+
+Diagnosi
+Insufficienza di cattura dovuta a un blocco intermittente del deflusso.

@@ -1,0 +1,52 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Paziente di 60 anni che si è recato al Pronto Soccorso il 26/08/2016 per un dolore all'arto inferiore destro
+
+Anamnesi personale
+Intolleranza all'amoxicillina-acido clavulanico.
+Ipertensione arteriosa in trattamento farmacologico con scarso controllo.
+Dislipidemia in trattamento farmacologico.
+Sindrome ansiosa.
+
+Anamnesi cardiologica: fibrillazione atriale parossistica diagnosticata il 01/08/2016 con CHA2DS2-VASc = 2 e HAS-BLED = 1. È stato iniziato un trattamento con beta-bloccanti e acenocumarolo. Ecocardiogramma: LVEF 60%. Dilatazione del LA. Stenosi mitralica lieve. Episodio di lieve insufficienza cardiaca nel contesto della FA con risposta ventricolare rapida il 13/08/2016, trattato al pronto soccorso con diuretici e digossina.
+
+Malattia attuale
+Il paziente si è presentato al Pronto Soccorso con dolore, freddezza e impotenza funzionale dell'arto inferiore destro.
+
+Esame fisico
+Pressione arteriosa 178/99 mmHg, FC 109 bpm, SatO2 99 %.
+Auscultazione cardiaca: suoni aritmici a 110 bpm con soffio sistolico II/VI con 2R conservati.
+Auscultazione polmonare: crepitii bibasali minimi.
+Arto inferiore destro: diminuzione del polso e freddezza in MID con dolore intenso alla palpazione.
+
+ESAMI COMPLEMENTARI
+Esami del sangue: urea 24 mg/dl, creatinina 0,89 mg/dl, Na 139 mmol/L, K 3,9 mmol/L, Hb 15,8 g/dL, Ht 45,8%, piastrine 396.000, INR 1,47. D-dimero > 5000 ug/L.
+ECG: fibrillazione atriale con risposta ventricolare rapida a 120 bpm. Rettifica del segmento ST con dati di sovraccarico LV e onda T negativa in DIII e aVF.
+Radiografia del torace: cardiomegalia. Ilazioni congestizie. Ridistribuzione vascolare.
+Assenza di condensazione o pizzicamento dei seni costofrenici.
+Ecografia Doppler MID: diminuzione del flusso sanguigno monofasico nell'arteria femorale superficiale con materiale ecogeno che riempie parzialmente il lume dell'arteria. Il flusso diminuisce ulteriormente di intensità nelle arterie distali senza essere rilevato nelle arterie tibiali posteriori e pediali anteriori. Conclusione: ischemia arteriosa MID dovuta a trombosi.
+Ecografia Doppler MII: occupazione della poplitea sinistra a. Poplitea sinistra da materiale ecogeno non nella sua interezza senza flusso nello studio Doppler e con morfologia post-stenotica a livello dell'arteria tibiale posteriore. Conclusione: ischemia arteriosa nell'arteria poplitea.
+Tomografia computerizzata cranica/perfusione: ictus ischemico acuto nel territorio MCA sinistro secondario a occlusione carotidea dell'ICA, dell'ICA, dell'IMCA-M1 e dell'ACA-A1 di origine cardioembolica
+ACA-A1 di profilo cardioembolico con mismatch del 30%.
+Angio-TC: trombo fluttuante a livello dell'arco aortico distalmente all'uscita dell'ICA che occlude l'origine dell'arteria succlavia sinistra.
+Ecocardiografia: stenosi mitralica moderata di aspetto reumatico. Grave dilatazione dell'atrio sinistro. LVEF 60%. Sclerosi aortica.
+
+EVOLUZIONE
+Dato che il paziente presentava dolore e freddezza all'arto inferiore destro (MID), è stata eseguita un'ecografia Doppler degli arti inferiori che ha confermato un'ischemia arteriosa acuta dovuta a un'occlusione trombotica a livello dell'arteria femorale superficiale destra. È stato iniziato un trattamento con eparina sodica per via endovenosa ed è stato preso contatto con la Chirurgia Cardiovascolare dell'ospedale di riferimento e il paziente è stato inviato per la valutazione.
+All'arrivo, dato che il paziente mostrava segni di ischemia acuta dell'intero arto nonostante la perfusione, è stata eseguita un'embolectomia meccanica con dissezione del tripode femorale destro e un'embolectomia MID con catetere di Fogarty associata a lavaggio con eparina, emostasi e chiusura.
+A 24 ore, il paziente è rimasto emodinamicamente stabile ed è stata eseguita una ripetizione dell'ecografia Doppler con recupero del flusso bifasico a livello femorale.
+Un esame dell'INR del paziente dall'inizio dell'anticoagulazione ha presentato un INR < 2 con un tempo nel range terapeutico dello 0%. Pur avendo subito un evento embolico con un SAMe-TT2R2 = 2 (che già predice che il paziente avrà un'anticoagulazione di scarsa qualità con antivitamina K), CHA2DS2-VASc = 4 e HAS-BLED = 2, si è deciso di mantenere il trattamento alla dimissione con acenocumarolo.
+Il 19/02/2017 il paziente è tornato al pronto soccorso per dolore, freddezza e impotenza funzionale all'arto inferiore sinistro, questa volta con assenza di polso distale. È stato eseguito un eco-Doppler della MII che ha evidenziato un'ischemia arteriosa nell'arteria poplitea. Poiché l'occlusione era a livello più distale e il materiale ecogeno non occludeva completamente il lume, è stata avviata una perfusione endovenosa di eparina sodica. Il 5° giorno di ricovero (24/02/0217) il paziente ha improvvisamente presentato dolore e freddezza all'arto superiore sinistro e un'ora dopo ha presentato disartria con emiplegia degli arti destri. Nel sospetto di un'emorragia intracranica nel contesto della perfusione endovenosa eparina sodica, è stata eseguita una TC cranica che ha escluso un'emorragia intracranica.
+Nelle ore successive, il paziente ha presentato un improvviso peggioramento del livello di coscienza con afasia e deviazione dello sguardo a sinistra. Con il sospetto di ictus nell'arteria cerebrale media (MCA) di sinistra, è stato attivato il codice ictus (NIHSS = 22) e il paziente è stato inviato all'ospedale di riferimento. All'arrivo, è stata eseguita una TC cerebrale che ha confermato un ictus ischemico acuto nel territorio dell'MCA di sinistra secondario a un'occlusione carotidea dell'ICA-MCA. Tuttavia, l'angio-TC ha mostrato anche un trombo fluttuante a livello dell'arco aortico, distalmente all'uscita della LMCA (carotide comune sinistra) che occludeva l'arteria succlavia.
+Data la gravità della paziente e il fatto che fosse in trattamento con eparina sodica, si è deciso di eseguire una trombectomia meccanica primaria intra-arteriosa con aspirazione del trombo cervicale e dei frammenti a livello della LMCA-ICCA. Una TC di controllo ha mostrato un infarto esteso con effetto massa che è migliorato progressivamente nei giorni successivi in terapia intensiva, con un miglioramento dell'afasia ma con un'emiplegia destra che è rimasta come sequela alla dimissione. A livello di MSI, si è registrato un miglioramento dell'ischemia arteriosa e del recupero del polso, per cui è stata decisa una gestione conservativa. Tuttavia, non c'è stato alcun miglioramento nel MII, che presentava un polso femorale e popliteo molto debole con assenza a livello distale, per cui si è deciso di eseguire una trombectomia arteriosa con dissezione del tripode femorale sinistro ed estrazione del materiale trombotico a livello femoro-popliteo sinistro con un catetere di Fogarty.
+Dal punto di vista cardiologico, il paziente ha inizialmente mostrato segni di insufficienza cardiaca scompensata dovuta a una rapida fibrillazione atriale, migliorata con diuretici e beta-blocco. È stata eseguita un'ecocardiografia che ha mostrato una stenosi mitralica reumatica moderata con una grave dilatazione dell'atrio sinistro e una LVEF normale. Tutti gli INR sono stati rivisti dalla dimissione nell'agosto 2016 e solo 2 di essi erano nel range terapeutico con un TRT dello 0%.
+
+DIAGNOSI
+Ictus ischemico nel territorio dell'arteria cerebrale media secondario a occlusione tandem ICA-MCA con profilo cardioembolico.
+Trombo galleggiante a livello dell'arco con occlusione di origine dell'arteria succlavia sinistra.
+Ischemia arteriosa acuta di MSI con risoluzione spontanea.
+Ischemia arteriosa acuta dell'IIM risolta con trombectomia meccanica con catetere di Fogarty.
+Ischemia arteriosa acuta della MID risolta con trombectomia meccanica con catetere di Fogarty.
+Stenosi mitralica reumatica moderata con LVEF normale.
+Fibrillazione atriale permanente: CHA2DS2-VASc = 4, HAS-BLED = 3, SAMe- TT2R2 = 2.
+Scarsa qualità dell'anticoagulazione con antivitamina K.
+Ipertensione.

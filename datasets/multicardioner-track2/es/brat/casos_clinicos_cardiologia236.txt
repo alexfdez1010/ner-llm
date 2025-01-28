@@ -1,0 +1,42 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Sin reacciones alérgicas medicamentosas conocidas.
+Hábito tabáquico activo: 30 cigarrillos diarios.
+Obesidad mórbida. Hipertensión arterial. Diabetes mellitus insulinodependiente. Dislipemia. Hiperuricemia. Hipotiroidismo.
+Enfermedad renal crónica estadio 3B (filtrado glomerular basal 30-35 ml/min).
+Arteriopatía periférica: claudicación intermitente grado IIa de Fontaine.
+Cardiopatía isquémica: ingreso por angina inestable en 2008. En cateterismo se objetiva lesión grave de tres vasos (descendente anterior [DA], coronaria derecha [CD], primera obtusa marginal [OM]). Se revasculariza quirúrgicamente únicamente la DA con injerto de arteria mamaria interna izquierda.
+Tratamiento habitual: ácido acetilsalicílico (AAS) 100 mg al día, enalapril 20 mg al día, atenolol 12,5 mg al día, furosemida 40 mg en desayuno y comida, metformina 850 mg cada 12 horas, insulina mixta (regular 30%, isofánica 70%) 30 unidades por la mañana y 20 unidades por la noche, simvastatina 40 mg al día, alopurinol 100 mg al día, eutirox 50 mcg al día, omeprazol 20 mg al día.
+
+Enfermedad actual
+Mujer de 84 años, que acude a urgencias por episodio de dolor centrotorácico no irradiado de aparición con mínimo esfuerzo, de minutos de duración y cese espontáneo, de características similares a su angina previa, aunque de menor intensidad. Estando en urgencias presenta otro episodio, durante el cual se objetivan cambios electrocardiográficos dinámicos, que cede con administración de nitroglicerina sublingual.
+La paciente se había encontrado asintomática desde el punto de vista cardiovascular desde el ingreso previo en 2008.
+
+Exploración física
+Constantes vitales: tensión arterial en brazo izquierdo 125/63 mmHg, en brazo derecho 143/75 mmHg. Frecuencia cardiaca 63 lpm. Saturación de oxígeno 97% basal.
+Buen estado general. Consciente y orientada, colaboradora, normohidratada y normoperfundida.
+Auscultación cardiaca: rıt́ mica, soplo sistólico II/VI de predominio en foco aórtico, con segundo ruido presente.
+Auscultación pulmonar: murmullo vesicular conservado, sin ruidos sobreañadidos.
+Abdomen: ruidos hidroaéreos conservados, blando y depresible, no doloroso a la palpación.
+Miembros inferiores: sin edema, pulsos distales débiles.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica al ingreso: hemograma sin alteraciones con hemoglobina 16,6 g/dl sin leucocitosis. Hemostasia normal. Glucosa 152 mg/dl, creatinina 1,44 mg/dl, filtrado glomerular 35,20 ml/min, sodio 143 mmol/l, potasio 4,1 mmol/l, cloro 106 mmol/l, proteína C reactiva 3,8 mg/l, dos determinaciones de troponina I 0,0 ng/ml. LDL 119 mg/dl. HbA1c 8,6%.
+Electrocardiograma (ECG) con dolor torácico: fibrilación auricular a 95 lpm. QRS estrecho. Bajos voltajes. Infradesnivelación de 1 mm y rectificación de ST de V2 a V6, DI y aVL.
+ECG sin dolor: ritmo sinusal a 65 lpm. Corrección de alteraciones de la repolarización.
+Coronariografía: lesión del 90% en segmento medio de DA. Se observa puente de mamaria a DA media-distal que se rellena de forma retrógrada desde la DA. Circunfleja (Cx) dominante crónicamente ocluida desde el segmento proximal, con pobre llenado por colaterales homocoronarias a nivel distal. CD poco desarrollada con una oclusión crónica en el segmento medio, distalmente se llena por circulación colateral homocoronaria. Puente de mamaria a DA permeable y sin lesiones. Se observa estenosis significativa en el origen de la arteria subclavia izquierda observándose un gradiente de presión a través de ella de 60 mmHg.
+Angio-TC: estenosis crıt́ica de la arteria subclavia izquierda proximal a unos 32 mm de su origen, condicionada por una placa mixta. El origen de la arteria mamaria interna izquierda se encuentra a 11 mm de dicha placa.
+Ecocardiograma: ventrículo izquierdo no dilatado con fracción de eyección conservada. Alteraciones de la contractilidad segmentaria en segmentos inferiores e inferolaterales. Hipertrofia ventricular izquierda leve. Ventrículo derecho de tamaño y función normales. Dilatación biauricular. Sinvalvulopatıás significativas.
+
+EVOLUCIÓN CLÍNICA
+Tras objetivar estenosis significativa de arteria subclavia izquierda con compromiso de flujo hacia el bypass de mamaria a descendente anterior, se realiza angio-TC para evaluar la anatomía tridimensional de la estenosis. Dado el perfil de la paciente y su elevado riesgo quirúrgico, se opta por revascularización percutánea, con angioplastia e implante destent en subclavia izquierda, que cursa sin complicaciones.
+Durante el ingreso se observa deterioro de la función renal en relación con la administración de contraste y un insuficiente aporte hıd́rico, que mejora con sueroterapia, volviendo a las cifras de creatinina y filtrado glomerular basales.
+La paciente es dada de alta insistiendo especialmente en el control de factores de riesgo cardiovascular: abandono del hábito tabáquico, dieta cardiosaludable, pérdida de peso, ejercicio físico... En cuanto al tratamiento farmacológico de los factores de riesgo, se añadió liraglutida para mejorar el control glucémico y favorecer la pérdida de peso y se sustituyó simvastatina 40 mg por atorvastatina 80 mg para lograr objetivo de LDL menor de 55 mg/dl.
+Respecto al régimen antitrombótico, al alta se pautó doble terapia con rivaroxabán 10 mg al día y clopidogrel 75 mg al día, suspendiendo el AAS que tomaba previamente la paciente.
+Tras la intervención, la paciente ha permanecido asintomática, sin nuevos episodios de dolor torácico durante el ingreso y el seguimiento posterior en consultas externas.
+
+DIAGNÓSTICO
+Angina inestable por síndrome de robo subclavio-coronario. En paciente con enfermedad coronaria grave de tres vasos y revascularización quirúrgica parcial con puente de mamaria interna izquierda a descendente anterior en 2008. Función sistólica de VI conservada.
+Fibrilación auricular paroxística en este contexto.
+Fracaso renal agudo AKIN III sobre enfermedad renal crónica, de origen prerrenal y nefrotoxicidad por contraste yodado.

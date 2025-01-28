@@ -1,0 +1,39 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Fratello con precedente miocardite ricorrente nel 2000, con diagnosi clinica e nessun follow-up successivo.
+Nessuna storia di morte improvvisa o di altre malattie cardiache nei parenti di primo grado. Nessuna allergia nota ai farmaci.
+Nessuna abitudine tossica.
+Non presentava fattori di rischio cardiovascolare o anamnesi medica o chirurgica di interesse.
+
+Malattia attuale
+Un uomo di 36 anni si è consultato per un dolore toracico centrale, non radiante e opprimente, che iniziava a riposo e lo svegliava dal sonno. Il dolore era accompagnato da nausea, sudorazione e sensazione di dispnea e migliorava leggermente quando si metteva a letto. Il paziente ha menzionato la presenza di febbre e dolore faringeo 2 giorni prima della comparsa dei sintomi.
+All'arrivo in ospedale sono state osservate alterazioni elettrocardiografiche e marcatori elevati di danno miocardico nell'intervallo infartuale, per cui è stata eseguita un'angiografia coronarica urgente in cui non sono state riscontrate lesioni coronariche.
+
+Esame fisico
+Buone condizioni generali, cosciente e orientato in tutte e 3 le sfere. Emodinamicamente stabile. Eupnea a riposo. Colorito normale, ben idratato e perfuso. Afebbrile. Pressione arteriosa (BP) 151/84 mmHg, frequenza cardiaca (HR) 72 bpm, SatO2 99% senza contributi. Nessun segno di insufficienza cardiaca. Auscultazione cardiorespiratoria: ritmica con una buona frequenza, senza soffi o extratoni. Murmure vescicolare conservato, nessun rumore patologico aggiunto. Addome: morbido e depressibile, non dolente alla palpazione. Nessun segno di difesa o irritazione peritoneale. Arti inferiori senza edema o segni di trombosi venosa profonda.
+
+
+ESAMI COMPLEMENTARI
+ECG all'ammissione in reparto: ritmo sinusale a 64 bpm. PR normale. QTc 441 msec. Elevazione del punto J di < 1 mm da V4 a V6. Onda T negativa da V4 a V6.
+Esami di laboratorio d'urgenza:
+Emocromo: leucociti 10420 (1360 linfociti), Hb 15,7 g/dl, piastrine 182000. Biochimica: glucosio 142 mg/dl, AST 42 U/l, funzione renale e ioni normali, CRP 195,4 mg/l.
+Enzimi sierici: creatina chinasi 270 - 641 - 723 U/l, troponina T ultrasensibile 500 - 1061 - 1744 - 1184 - 1225 ng/dl.
+Radiografia del torace: normale. Indice cardiotoracico normale. Nessun segno di congestione, condensazione o versamento polmonare.
+Angiografia coronarica: arterie coronarie angiograficamente normali. Anomalo deflusso dell'arteria coronaria destra dal seno sinistro, senza lesioni angiograficamente significative.
+Sierologia: negativa per HIV, sifilide e Mycoplasma pneumoniae. Positivo per infezioni pregresse da adenovirus, CMV, Echovirus, EBV, parvovirus B19 e Coxsackie.
+Esami di laboratorio:
+Biochimica: glucosio 87 mg/dl, funzione renale e ioni normali, LDH 388,00 U/l, profilo epatobiliare senza alterazioni. Proteine totali 7,7 g/dl. NT-proBNP 379 pg/ml. Proteina C-reattiva 65,0 mg/l.
+Profilo lipidico: colesterolo 210 mg/dl, LDL 153 mg/dl, HDL 26 mg/dl, trigliceridi 156,00 mg/dl.
+Ormoni tiroidei e HbA1c normali. Emocromo: tre serie normali.
+Risonanza magnetica cardiaca (RM): ventricolo sinistro non dilatato né ipertrofico, con mobilità globale e segmentale conservata. Frazione di eiezione (EF) misurata con il metodo Simpson: 68,8%. LVEDV di 140 ml, indicizzato per la superficie corporea di 67 ml/m2, LVESV di 44 ml, indicizzato per la superficie corporea di 21 ml/m2. Massa miocardica di 119 g, indicizzata dalla superficie corporea di 57 g/m.Ventricolo destro non dilatato né ipertrofico, con mobilità globale e segmentale conservata; EF misurata con il metodo di Simpson dell'81% VTDVD di 110 ml, indicizzata dalla superficie corporea di 53 ml/m. VTSVD di 21 ml, indicizzata dalla superficie corporea di 10 ml/m. Entrambi gli atri di dimensioni normali (atrio sinistro con area di 22 cm, indicizzata a 11 cm/m e atrio destro di 19 cm, indicizzato a 9 cm/m). Nella sequenza
+STIR si evidenzia un segnale iperintenso compatibile con edema nei segmenti basale e mediale inferiore e anteriore, laterale mediale e in tutti i segmenti apicali. La sequenza di perfusione di primo passaggio non mostra difetti di perfusione basale. Nella sequenza di enhancement/viabilità tardiva, era presente un'estesa fibrosi subepicardica e intramiocardica nei segmenti basale e medio-inferiore, medio-anteriore e inferolaterale e in tutti i segmenti apicali. Conclusione: miocardite acuta con fibrosi estesa e funzione biventricolare conservata.
+
+EVOLUZIONE CLINICA
+Dopo un'evoluzione favorevole durante il ricovero, il nostro paziente è stato dimesso, con l'inizio di 5 mg di enalapril al giorno. Dopo 4 mesi in cui era asintomatico, è stato nuovamente ricoverato per sintomi compatibili con una miopericardite acuta (picco ultrasensibile di troponina T di 2174 ng/dl), con una gastroenterite di probabile origine virale come possibile causa scatenante. È stato eseguito un nuovo ecocardiogramma transtoracico, che ha mostrato una lieve ipocinesia globale con un EF del 50%. Dopo un'evoluzione soddisfacente, il paziente è stato dimesso e la colchicina è stata prescritta come trattamento preventivo per nuove recidive.
+Una nuova risonanza magnetica cardiaca è stata eseguita ambulatorialmente, nelle prime 2 settimane dopo la dimissione, che ha mostrato la persistenza di un'estesa fibrosi di distribuzione simile a quella dello studio precedente, oltre a una denovo fibrosi a livello del setto basale e mediale (immagini 5 e 6). Entrambi i ventricoli avevano morfologia e volumi normali, senza disturbi rilevabili della contrattilità segmentale, e la funzione sistolica biventricolare era conservata. Nelle sequenze STIR e black blood non erano presenti depositi di grasso intramiocardico, mentre era presente un edema significativo a livello del setto.
+Alla luce dei risultati della risonanza magnetica, è stato richiesto un monitor Holter delle 24 ore, che ha mostrato extrasistoli ventricolari isolate monotopiche con morfologia di blocco di branca destro con transizione in V3 e asse superiore, ed è stato deciso di aumentare le dosi di ACE-inibitori (enalapril 5 mg/12 ore) e di iniziare un trattamento con beta-bloccanti (bisoprololo 2,5 mg/24 ore). Il fratello è stato visitato presso la nostra clinica a causa di un'anamnesi di miocardite ricorrente ed è stata eseguita una risonanza magnetica cardiaca, che ha confermato la presenza di fibrosi subepicardica nella parete libera del ventricolo sinistro, compatibile con una pregressa miocardite.
+Infine, dato il pattern di fibrosi della RM e l'anamnesi di un parente di primo grado con miocardite ricorrente, è stata presa in considerazione la diagnosi differenziale tra miocardite acuta ricorrente con fibrosi estesa e cardiomiopatia aritmogena del ventricolo sinistro e si è deciso di richiedere uno studio genetico con un panel di cardiomiopatie, i cui risultati sono ancora in attesa.
+
+DIAGNOSI
+Miocardite acuta con fibrosi estesa e funzione biventricolare conservata versus displasia aritmogena del ventricolo sinistro con flares di miocardite-e.

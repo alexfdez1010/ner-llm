@@ -1,0 +1,26 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+26-year-old male admitted for chest pain and elevated markers of myocardial damage.
+
+PERSONAL HISTORY
+Baseline: native of Colombia. Resident in Spain for the last month. Works as a gardener. No known drug allergies. No cardiovascular risk factors. No toxic habits. No personal or family cardiological history. Surgical interventions: splenectomy after traffic accident. Previous medication: none.
+
+CURRENT DISEASE
+Asymptomatic patient from the cardiovascular point of view, who two weeks before admission started episodes of oppressive central thoracic pain radiating to both jaws, unrelated to exercise or respiratory movements. No vegetative cortex associated. Self-limited cessation of these episodes within a few minutes. She also reported non-specific dizziness and occasional dystrophic sensation, without thermometric fever. No palpitations, dyspnoea or syncopal symptoms. She denied previous infectious symptoms.
+
+PHYSICAL EXAMINATION
+Afebrile, blood pressure 106/62 mmHg, heart rate 60 bpm, baseline O2 saturation 98%, referred weight 70 kg. Conscious, oriented and cooperative. Well hydrated and perfused. Good general condition. Eupneic at rest. Jugular venous pressure normal. No palpable lymph nodes. Cardiac auscultation: rhythmic without murmurs or rubbing.
+Pulmonary auscultation: respiratory sounds were preserved with no over-additions. Abdomen: soft, depressible and non-painful. No masses or megaliths palpable. Peristalsis present. Lower extremities: no oedema. Distal pulses present and symmetrical.
+
+COMPLEMENTARY TESTS
+Electrocardiogram: sinus bradycardia at 50 bpm. Normal PR. Narrow QRS. Q wave at the limit of pathological significance and ST elevation 0.5 mm in the inferior face.
+Laboratory tests on admission: haemoglobin 15 g/dl, platelets 350.000 u/mm3, leukocytes 11.3 x103/mm3 (neutrophils 33.4%-3790 u/l, lymphocytes 31.4%-3560 u/l, eosinophils 27.7%-3150 u/l), basal glucose 81 mg/dl, urea 23 mg/dl, creatinine 0.79 mg/dl, sodium 131 mEq/l, potassium 4.2 mEq/l, conventional troponin I 2.7 ng/dl (normal < 0.01).
+Chest X-ray: normal cardio-thoracic index. No acute pleuroparenchymal lesions.
+Transthoracic echocardiogram: non-dilated left ventricle, normal thickness, no alterations in segmental contractility. Normal systolic function (biplane Simpson LVEF 65%). Hyperechogenic appearance of the inferolateral wall myocardium respecting the endocardium. Right ventricle of normal size with preserved systolic function. Mitral valve of normal appearance and function. Trivalve aortic valve, without insufficiency or stenosis. Tricuspid valve of normal appearance, with minimal insufficiency. Normal functioning pulmonary valve. Aortic root of normal size, no coarctation. No pericardial effusion.
+Cardio-MRI: ventricles of preserved size and function. Hypokinesia, oedema and late intramyocardial enhancement of subepicardial predominance in the inferolateral face are observed; findings that may be related to myocarditis in the appropriate clinical context.
+CT of coronary arteries: total calcium score according to Agatson index 0. Coronary arteries without anatomical variants, with preserved patency, without thrombotic or stenotic images.
+
+CLINICAL EVOLUTION
+The patient was admitted to the coronary unit for monitoring and further complementary tests. As a specific cardiological test, a transthoracic echocardiogram was performed, which was normal, followed by cardiac magnetic resonance imaging (CMR), which was found to be compatible with myocarditis. After 48 hours without development of arrhythmic complications or heart failure, he was transferred to the hospital ward for further care and to complete studies. The analysis on admission showed leukocytosis due to marked eosinophilia that persisted in subsequent analyses, so an assessment was requested by internal medicine, which expanded the battery of tests with autoimmunity, virus and infectious serology, which was positive for IgM Toxocara spp. Subsequently, a CT scan of the coronary arteries was requested to rule out embolisms, which was also normal. Suspicion of eosinophilic myocarditis secondary to Toxocara parasite infection led to treatment with albendazole. The patient had a good clinical evolution and was discharged from hospital after 7 days asymptomatic, with normalisation of myocardial damage markers and decreasing eosinophilia.
+
+DIAGNOSIS
+Eosinophilic myocarditis in the context of toxocariasis.

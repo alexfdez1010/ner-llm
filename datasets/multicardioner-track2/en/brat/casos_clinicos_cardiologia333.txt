@@ -1,0 +1,49 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+PERSONAL HISTORY
+Male, 43 years old, regular moderate-high intensity sportsman.
+No drug allergies.
+No toxic habits or cardiovascular risk factors.
+No previous cardiological history.
+Migraine with aura studied in 2015 with brain MRI without pathological findings and asymptomatic since then.
+No surgical interventions or chronic treatments.
+
+CURRENT ILLNESS
+A 43-year-old male presented with sudden loss of consciousness while performing moderate-intensity physical exercise (running), with no previous clinical manifestations. The witnesses who accompanied him reported having observed him fall to the ground with no response to stimuli and with no spontaneous breathing and no palpable pulse, so they started basic cardiopulmonary resuscitation (CPR) manoeuvres and called the emergency services.
+On arrival of the medical team, ventricular fibrillation was detected. A single effective shock was administered, achieving sinus rhythm with a pulse. He was immediately transferred to the reference centre sedated and anaesthetised, with orotracheal intubation on mechanical ventilation and haemodynamically stable without amines.
+
+PHYSICAL EXAMINATION
+Anthropometric data: weight 74 kg, height 1.82m. Body mass index (BMI) 22.3 kg/m2.
+Vital signs: blood pressure (BP) 104/82 mmHg. Heart rate (HR) 62 bpm.
+O2 saturation (SatO2) 98% with FiO2 at 21%.
+Cardiovascular: jugular venous pressure normal. Hepatojugular reflex negative.
+Cardiac auscultation: regular, no murmurs.
+Pulmonary auscultation: preserved vesicular murmur. No aggregates.
+Abdomen: flat. Hydro-aerial sounds present. Soft, depressible. No visceromegaly.
+Neurological: isochoric pupils. Pupillary reflexes preserved. Motor reflexes in extremities without alterations (II/IV).
+Extremities: no oedema. Peripheral pulses preserved and symmetrical.
+
+COMPLEMENTARY TESTS
+Electrocardiogram (ECG): sinus rhythm at 93 bpm. PR 120 ms. QRS 60 ms. QTc 398ms. No repolarisation alterations.
+Admission blood tests: haemoglobin 16 g/dl, haematocrit 47.5%, platelets 223,000 /μl, leukocytes 7,400 /μl. International normalised ratio (INR) 1.05. Basal glycaemia 82 mg/dl.
+Urea 36 mg/dl. Creatinine 0.81 mg/dl. Sodium 137 mEq/l. Potassium 4.1 mEq/l.
+Myocardial damage markers: troponin I US: 0.0 ng/ml.
+Chest X-ray: centred cardiomediastinal silhouette. CTI less than 0.5. Lung fields without condensation or pleural effusion.
+Transthoracic echocardiogram: left ventricle with preserved diameters, volumes and global systolic function (LVEF 65%). Absence of alterations in segmental contractility at rest. Normal transmitral filling pattern. Absence of significant valvulopathies. Normal left atrium. Normal right ventricle. Absence of tricuspid insufficiency (TI) allowing estimation of pulmonary artery systolic pressure (PAPs) without data suggestive of pulmonary hypertension (PHT). Normal inferior vena cava (IVC). Exploration in sinus rhythm.
+Coronary angiography: epicardial coronary arteries without atheromatosis.
+Anomalous origin of the left coronary throne (LCT) in the right sinus of Valsalva, high and anterior, opposite to the origin of the right coronary artery (RCA) which is filled during the administration of contrast in the cannulation of the LCT. Possible interarterial tract of the LMCA.
+Coronary CT angiography: trivalve aortic valve with preserved diameters. The presence of an LMCA with origin in the right sinus of Valsalva and interarterial trajectory (between the pulmonary trunk and the aorta) is confirmed. Descending artery with evidence of large diagonal without significant lesions. Circumflex artery without lesions. Origin of the right coronary artery in the right sinus of Valsalva without lesions. Conclusion: origin of the left coronary artery in the right sinus of Valsalva with interarterial trajectory.
+Post-surgical ergometry: maximal test stopped at 13:33 minutes of the Bruce protocol (14.5 METS) due to physical exhaustion. No angina or ST segment alterations that meet the criteria for positivity in relation to the baseline electrocardiogram. No arrhythmias. Adequate blood pressure and chronotropic response. Good functional capacity.
+Post-surgical stress echocardiogram: cycloergometer stress test. Maximum test reaching 103% of the maximum theoretical heart rate. Performs a total of 15 minutes 26 seconds of exercise, corresponding to 1 minute 27 seconds of stage 8 of the WHO protocol (200 watts). No alterations in segmental contractility were observed at rest or on exertion, with no electrical changes or chest pain.
+
+CLINICAL EVOLUTION
+Young man with cardiorespiratory arrest recovered in ventricular fibrillation during moderate exertion, presenting post-CRP electrocardiogram in sinus rhythm, without repolarisation alterations and with normal QTc interval. An emergent echocardiogram showed no abnormalities with normal LVEF, no indirect signs of massive pulmonary thromboembolism (PTE), no aortic flap and no pericardial effusion. The emergency chest X-ray ruled out pneumothorax. Arterial blood gas analysis showed hyperlactacidemia with other parameters and normal haemoglobin levels. Emergent brain computed tomography (CT) without haemorrhagic or acute ischaemic event.
+Given the normality of the initial aetiological studies, it was decided to perform an emergent coronary angiography where epicardial arteries were found without angiographic lesions with anomalous origin of the left main coronary artery (LMCA) in the right sinus of Valsalva with a possible interarterial trajectory.
+Admitted to the coronary unit, haemodynamically stable without the need for amines, in sinus rhythm without arrhythmic events and allowing progress in weaning with early extubation in the first 48 hours with no neurological deficit. Studies were completed with CT of the coronary arteries which confirmed the anomalous origin of the LMCA in the right sinus of Valsalva with interarterial trajectory.
+During his admission to the coronary unit he remained asymptomatic and haemodynamically stable. The case was discussed in a medical-surgical session and it was decided to perform surgery with double bypass implantation: right mammary artery to obtuse marginal artery and left mammary artery to anterior descending artery with a favourable postoperative period with no incidents.
+The patient remained asymptomatic in subsequent outpatient check-ups. Ergometry and stress echocardiography were performed, both tests being maximal and negative for ischaemia.
+
+DIAGNOSIS
+Cardiorespiratory arrest during physical exercise in ventricular fibrillation.
+Anomalous origin of the left coronary trunk from the right sinus of Valsalva with interarterial trajectory.
+Surgical revascularisation with double bypass.

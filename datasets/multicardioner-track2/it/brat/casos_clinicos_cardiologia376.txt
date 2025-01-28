@@ -1,0 +1,25 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Un uomo di 72 anni si è recato al pronto soccorso per un episodio di dispnea improvvisa.
+Anamnesi personale interessante: incidente cerebrovascolare ischemico nel 2009 ad eziologia non identificata (ecodoppler dei tronchi sovraaortici senza reperti patologici), aneurisma dell'aorta addominale infrarenale e carcinoma a cellule squamose del polmone operato con lobectomia superiore destra 5 mesi fa.
+Era in trattamento cronico con acido acetilsalicilico 300 mg/24 ore e salmeterolo/fluticasone propionato per via inalatoria 50/500 mcg/12 ore.
+Ha riferito diversi episodi di dispnea nell'ultimo mese, sempre in posizione eretta, non correlati allo sforzo. Nessuna ortopnea o dispnea parossistica notturna. Non c'è tosse, espettorazione o dolore toracico.
+L'esame fisico ha rivelato una desaturazione di ossigeno fino all'80%, migliorata con il decubito. La pressione venosa giugulare era normale. L'auscultazione cardiaca era ritmica, senza soffi o extratoni.
+Auscultazione polmonare con ipofonesi alla base del polmone destro, assenza di crepitii o ronchi. Assenza di edema alle estremità.
+
+ESAMI COMPLEMENTARI
+ANALISI: glucosio 80 mg/dl, urea 50 mg/dl, creatinina 0,85 mg/dl, sodio 136 mEq/l, potassio 4,1 mEq/l, troponina I < 0,01 ng/ml, BNP 102,6 pg/ml, emoglobina 16,1 g/dl, ematocrito 50,8%, MCV 96,8 fl, leucociti 9.100, piastrine 111.000, D-dimero 2.005 ng/l. Coagulazione normale.
+GASOMETRIA ARTERIALE: pH 7,43, pCO2 26,5 mmHg, p02 100,3 mmHg, saturazione di ossigeno (SatO2) 98,7%, bicarbonato 17,5 mEq/l.
+ELETTROCARDIOGRAMMA (ECG): ritmo sinusale a 95 bpm. PR 200 ms, QRS di 100 ms, con morfologia di emiblocco anterosuperiore sinistro. Nessuna alterazione della ripolarizzazione.
+RADIOGRAFIA TORACE: elevazione dell'emidiaframma destro. Silhouette cardiaca normale.
+TC TORACICA: perdita di volume nel lobo superiore destro in relazione alla lobectomia. Atelettasia residua del lobo medio ed emidiaframma destro elevato. Nessun difetto di replezione nelle arterie polmonari suggestivo di tromboembolia polmonare.
+Ecocardiogramma transtoracico: ventricolo sinistro di dimensioni e funzione sistolica normali, senza alterazioni segmentali della contrattilità.
+Camere destre normali con funzione ventricolare conservata. Valvole mitrale e aortica senza anomalie. Setto interatriale ipermobile. Pressione polmonare normale. Il test delle bolle è stato eseguito con soluzione fisiologica agitata, con passaggio massiccio di bolle dalla cavità destra a quella sinistra nel primo e nel secondo battito, suggerendo uno shunt destro-sinistro.
+Ecocardiogramma transesofageo: setto interatriale aneurismatico con esteso distacco della membrana della fossa ovalis e massiccio passaggio di bolle con soluzione fisiologica agitata dall'atrio destro a quello sinistro.
+
+DECORSO CLINICO
+Inizialmente il paziente ha risposto all'ossigenoterapia con occhiali nasali ed è stato ricoverato in reparto per accertamenti. È stata innanzitutto eseguita una TC toracica per escludere una tromboembolia polmonare (PTE) o una complicazione della recente lobectomia. In assenza di patologia polmonare che giustificasse i sintomi, è stato richiesto un ecocardiogramma per escludere uno shunt intracardiaco. Lo studio basale ha mostrato un setto interatriale ipermobile con possibile shunt, evidente nel test delle bolle con soluzione fisiologica agitata. Lo studio è stato completato con un ecocardiogramma transesofageo che ha confermato la presenza di un aneurisma del setto atriale con forame ovale pervio (PFO) e shunt destro sinistro.
+Il paziente ha presentato un rapido e progressivo peggioramento, con una grave ipossiemia sostenuta (SatO2 65%) che non è stata corretta con la posizione o l'ossigenoterapia. In considerazione di questa situazione, è stata decisa la chiusura percutanea urgente del PFO sotto monitoraggio ecografico intracardiaco. Dopo la chiusura del PFO, la saturazione di ossigeno si è normalizzata e la dispnea è scomparsa.
+
+DIAGNOSI
+Sindrome da ortopnea-ortodossia dovuta al forame ovale pervio dopo lobectomia destra.
+Chiusura percutanea urgente del forame ovale pervio.

@@ -1,0 +1,42 @@
+Uomo di 59 anni con febbre alta (39o) da 2 giorni e un episodio di crisi convulsiva. Appare stuporoso.
+
+Pressione arteriosa 97/80 mmHg. Fc 132 bpm. SatO2 95%. Fr 22 rpm. Ta 34,2oC.
+
+Soddisfa i criteri della SEPSI SERIA: Ta34,2o. Insufficienza renale acuta (Creatinina 2,2); PCT e CRP elevate (infezione batterica); ipotensione (97/80) con segni di cattiva perfusione (freddo e sudorazione), acidosi metabolica (bicarbonato basso), lattato elevato (ipoperfusione); oligoanuria; piastrinopenia molto evidente (16.000); tachicardia (FA a 132 x ́), tachipnea a 132 x ́.000); tachicardia (FA a 132 x ́), tachipnea a 26 x ́ (bassa pCO2). Il FOCO è sconosciuto.
+
+Procediamo per parti:
+
+1) Ipotensione indotta dalla sepsi: vengono somministrati 2.000 cc di soluzione fisiologica e successivamente in terapia intensiva 1.500 cc di SF. -> mantiene la BP 105/75
+
+2) Fibrillazione atriale a 130 x ́ -> AMIODARONE IV .... -> Ritmo sinusale.
+
+3) Antibiotico? Dopo 2 emocolture -> MEROPENEM IV, -> CLOXACILLINA + CEFOTAXIME + CIPROFLOXACINA è stata scelta in terapia intensiva. -> e successivamente: CLOXACILLINA + DAPTOMICINA -> attualmente CLOXACILLINA + GENTAMICINA.
+
+4) Crisi convulsiva che si è ripresentata dopo poche ore. TAC: EMORRAGIA SUBARACNOIDEA, probabilmente legata a piastrinopenia o aneurisma micotico (= infettivo) -> inizio trattamento con LEVETIRACETAM IV.
+
+5) Piastrinopenia. -> Consultazione con l'ematologia: "non soddisfa i criteri per la TTP, la HIT o la sindrome emofagocitica; non si esclude una ITP versus vasculite in aggiunta al quadro settico". Il trattamento è stato avviato con corticoidi + perfusione piastrinica: un pool giornaliero.
+
+6) Ricerca di FOCO: è stato eseguito un ecocardiogramma transtoracico: non sono state visualizzate verruche.
+
+7) Emocolture positive per STAPHILOCOCCUS AUREUS (sensibile alla meticillina)
+
+8) È stato eseguito un ecocardiogramma transesofageo: è stata visualizzata un'immagine di VERGINE nel foglietto anteriore della valvola mitrale.
+
+9) Consultazione con la Chirurgia Cardiovascolare: il trattamento chirurgico è stato escluso al momento a causa della SAH. Rivalutazione dopo 6 settimane.
+
+10) Comparsa di lesioni purpuriche (ecchimotiche) di probabile origine embolica sulla punta delle dita e sulla pianta dei piedi.
+
+Dopo una settimana in terapia intensiva, la paziente è rimasta stabile. È stata trasferita in reparto.
+
+GIUDIZIO DIAGNOSTICO:
+
+- Degenerazione mixomatosa dovuta a S. AUREUS.
+
+- SEPsi grave con insufficienza renale (corretta alla dimissione). GRAVE PIASTRINOPENIA.
+
+- EMORRAGIA SUBARACNOIDEA. CRISI EPILETTICA generalizzata
+
+- ACxFA (ritorno al ritmo sinusale)
+
+Commento:
+Staphylococcus aureus: S.Aureus vive sulla pelle umana -> causa infezioni cutanee: follicolite, impetigine, ascessi cutanei, foruncolosi, mastite, cellulite, infezione delle ferite...(anche ferite chirurgiche)....

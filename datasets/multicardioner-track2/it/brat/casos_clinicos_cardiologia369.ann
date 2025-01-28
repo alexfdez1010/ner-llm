@@ -1,0 +1,24 @@
+T43	FARMACO 125 147	acido acetilsalicilico
+T1	FARMACO 149 152	ASA
+T44	FARMACO 673 684	clopidogrel
+T46	FARMACO 689 701	esomeprazolo
+T47	FARMACO 709 720	bisoprololo
+T49	FARMACO 733 741	losartan
+T50	FARMACO 755 768	acenocumarolo
+T52	FARMACO 770 782	simvastatina
+T54	FARMACO 796 807	tamsulosina
+T2	FARMACO 1958 2022	inibitori della proproteina convertasi subtilisina/kexina tipo 9
+T62	FARMACO 2024 2029	PCSK9
+T53	FARMACO 2431 2443	simvastatina
+T55	FARMACO 2454 2467	rosuvastatina
+T56	FARMACO 2806 2819	rosuvastatina
+T57	FARMACO 2908 2921	pitavastatina
+T58	FARMACO 2930 2939	ezetimibe
+T48	FARMACO 3100 3111	bisoprololo
+T59	FARMACO 3247 3254	statina
+T41	FARMACO 3418 3425	statine
+T60	FARMACO 3483 3493	evolocumab
+T61	FARMACO 3512 3522	Evolocumab
+T45	FARMACO 3796 3807	clopidogrel
+T51	FARMACO 3825 3838	acenocumarolo
+T42	FARMACO 3978 3985	statine

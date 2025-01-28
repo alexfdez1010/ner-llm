@@ -1,0 +1,33 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi personale
+Distrofia miotonica di Steinert.
+Lavora in una fabbrica di ricambi per auto.
+Intervento di 8 anni prima per ASD di tipo OS con chirurgia mini-invasiva (mini-toracotomia destra di tipo Heart Port modificato). Decorso postoperatorio senza complicazioni apparenti.
+
+Malattia attuale
+Una donna di 45 anni si è presentata al pronto soccorso con dispnea da sforzo di circa 5 anni (classe funzionale NYHA I-II/IV), in progressione verso lo sforzo minimo (NYHA III/IV) con comparsa di cianosi negli ultimi mesi.
+
+Esame fisico
+Peso 50 kg, altezza 1,60 m. Indice di massa corporea (BMI) 19,5 kg/m .
+Pressione arteriosa (BP) 104/82 mmHg. Frequenza cardiaca (FC) 80 bpm. Saturazione di O2 (SatO2) 75% con aria ambiente.
+Eupnea a riposo, senza ortopnea o piattezza. Cianosi generalizzata.
+Pressione venosa giugulare normale. Riflesso epatogiugulare negativo. Assenza di acropatie. Auscultazione cardiaca: regolare, senza soffi. All'auscultazione polmonare: murmure vescicolare conservato. Assenza di aggregati. Estremità: nessun edema. Polsi periferici conservati e simmetrici.
+
+ESAMI COMPLEMENTARI
+Elettrocardiogramma (ECG): ritmo sinusale a 93 bpm. PR 120 ms. QRS 60 ms. QTc 398 ms. Nessuna alterazione della ripolarizzazione.
+Emocromo: emoglobina 20 g/dl, ematocrito 62%, piastrine 144.000 /μl, leucociti 7400/μl. Eritropoietina 7,71 mlU/ml (2,59-18,5). Rapporto internazionale normalizzato (INR) 1,05. Glicemia basale 82 mg/dl. Urea 36 mg/dl, creatinina 0,81 mg/dl, sodio 137 mEq/l, potassio 4,1 mEq/l.
+Gas ematici arteriosi: pH 7,42, pCO2 35 mmHg, pO2 41 mmHg, HCO3 22,7, SpO2 70,7%, lattato 1 mmol/l.
+Radiografia del torace: silhouette cardiomediastinica centrata. Indice cardiotoracico (CTI) inferiore a 0,5. Campi polmonari traslucidi senza versamento pleurico o condensazione.
+Ecocardiogramma transtoracico e transesofageo: esame transesofageo (senza sedazione a causa dell'ipossiemia basale): difetto del setto atriale senza shunt significativo residuo (shunt minimo a livello del cerotto pericardico senza ripercussioni funzionali). Ventricolo sinistro con diametri, volumi e funzione sistolica globale conservati. Non sono state osservate alterazioni della contrattilità segmentale. Nessuna valvulopatia significativa. Pattern diastolico del ventricolo sinistro nella norma. Ventricolo destro di diametro normale con funzione sistolica globale conservata. Lieve insufficienza tricuspidale che consente di quantificare una PAP di 20-25 mmHg. Vena cava inferiore normale. Ritmo sinusale. L'iniezione di gelafundin non mostra alcun passaggio di bolle alla cavità sinistra quando viene somministrato in entrambi gli arti superiori.
+Angio-TC: nessuna evidenza di difetti di replezione nelle arterie polmonari principali, lobari, segmentali o sub-segmentali suggestive di tromboembolismo polmonare (PTE). Nessun segno di ipertensione polmonare o infarti polmonari. Non sono evidenti noduli o consolidamenti polmonari. Nessun versamento pleurico o pericardico. Nessuna lesione ossea suggestiva di malignità. Nessun altro risultato rilevante con questa tecnica.
+Scintigrafia di ventilazione/perfusione: studio scintigrafico senza difetti di perfusione o ventilazione.
+Spirometria: restrizione polmonare discreta, con diffusione normale.
+Risonanza magnetica cardiaca: ventricolo sinistro (LV) con volumi ridotti (LVOT 38 ml/m, STV 13 ml/m, LVMI 35 g/m) senza ipertrofia significativa delle sue pareti o alterazioni della contrattilità segmentale a riposo e con funzione sistolica globale (GSF) conservata (LVEF 66%). Ventricolo destro (RV) non dilatato (RVOT 14 ml/m, STV 5 ml/m) con funzione sistolica globale conservata (LVEF 62%). Aorta e grandi vasi di diametro e morfologia normali. Atri di dimensioni normali. QP/QS (1,4/4,1)= 0,34, indicativo di shunt destro-sinistro. È stato somministrato acido gadoterico (0,15 mM/kg) per lo studio vascolare 3D: aorta e tronco polmonare con diametri e morfologia normali. Si osserva un drenaggio sistemico anomalo con drenaggio della vena cava inferiore nell'atrio sinistro (LA). Drenaggio della vena polmonare normale. Studio di necrosi e vitalità: assenza di LGE miocardica suggestiva di necrosi/fibrosi. Conclusione: drenaggio sistemico anomalo con vena cava inferiore che drena nel LA con QP/QS di 0,34 (indicativo di shunt sinistro-destro) con volumi LV e RV e GSF conservati.
+
+EVOLUZIONE CLINICA
+Dato il sospetto clinico di uno shunt residuo destro-sinistro, sono state inizialmente richieste l'ecocardiografia transtoracica (TTE) e l'ecocardiografia transesofagea (TEE) per cercare di confermare la diagnosi. Entrambi gli studi hanno dimostrato una normale funzione biventricolare senza ipertensione polmonare associata. Il contrasto è stato somministrato attraverso entrambi gli arti superiori senza alcuna evidenza di passaggio di bolle alle cavità sinistre. Proseguendo nel processo diagnostico, sono state eseguite una TC polmonare e una scansione di ventilazione/perfusione, entrambe con risultati normali. Tuttavia, dato l'elevato sospetto clinico, si è deciso di concludere lo studio con una risonanza magnetica cardiaca (CMR) in cui è stato osservato un drenaggio anomalo della vena cava inferiore (IVC) verso l'atrio sinistro.
+Alla luce di questi risultati, è stata eseguita una correzione anatomica del drenaggio anomalo della IVC. Durante l'intervento è stato osservato un difetto del setto atriale (ASD) riparato, situato nella porzione inferiore del setto atriale, con una valvola di Eustachio prominente e una sutura errata che causava il drenaggio dell'IVC nell'atrio sinistro (LA). In assenza di complicazioni postoperatorie, il paziente è stato dimesso ed è rimasto asintomatico con gas arteriosi ed ecocardiografia normali.
+
+DIAGNOSI
+Drenaggio anomalo della vena cava inferiore nell'atrio sinistro dopo riparazione chirurgica di un difetto del setto atriale.

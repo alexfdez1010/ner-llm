@@ -1,0 +1,30 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+BACKGROUND:
+29-year-old male ex-smoker for the last year of a pack a day for 15 years, with no other personal history of interest. He does not take any treatment on a regular basis. As family history, his paternal uncle and grandfather died of acute myocardial infarction (AMI) at an age over 65 years.
+Previous baseline ECG is in sinus rhythm with normal axis, narrow QRS with no repolarisation abnormalities.
+
+CURRENT ILLNESS:
+The patient comes to the emergency department of our centre in July 2017 for a 48-hour course of intense odynophagia, making swallowing difficult and thermometric fever at home of up to 39 oC. She denies dyspnoea, cough or purulent expectoration. He has also been complaining for months of mechanical central thoracic discomfort that does not limit his usual activity.
+
+PHYSICAL EXAMINATION:
+On arrival at the ED, fever of 38°C and sinus tachycardia at 110 bpm were observed. He was haemodynamically stable with adequate blood pressure and good baseline oxygen saturation. Physical examination revealed an erythematous oropharynx with bilateral tonsillar pustular plaques and traces of secretions in the posterior pharyngeal wall, with no palpable lymphadenopathies. Cardiopulmonary auscultation was normal.
+
+COMPLEMENTARY TESTS
+ANALYSIS: leukocytosis with neutrophilia, normal ions.
+VENOUS GASOMETRY: respiratory alkalosis.
+ECG on arrival at the ED (with fever of 38oC): sinus tachycardia at 110 bpm, normal PR,
+QRS 120 milliseconds. In V1-V2 there was an image of RsR' with descending ST-segment elevation and negative T wave. Compatible with Brugada type I pattern.
+ESG after an iv dose of paracetamol, 37 oC: sinus rhythm at 95 bpm, normal PR, QRS 113 milliseconds. In V1-V2 there is an image of RsR' with descending ST-segment elevation but less pronounced than in previous ECG and negative T wave.
+THORAX RADIOGRAPHY: normal.
+Transthoracic echocardiogram: no data of structural heart disease. Non-dilated left ventricle with normal wall thickness and normal systolic function. Right ventricle of normal size with normal systolic function. Normal sized atria. No valvular heart disease.
+Absence of pericardial effusion.
+
+CLINICAL EVOLUTION
+Following these findings, the patient was re-interviewed and reported syncopal episodes of vasovagal profile (one episode in the last two years) related to heat or blood draws, with no other cardiovascular symptoms. He also denies a history of sudden death in his family.
+The patient was discharged with antibiotic treatment with amoxicillin for acute pharyngotonsillitis and was referred to the arrhythmia unit to complete the study, where a provocation test with flecainide was performed, which was positive.
+An electrophysiological study was performed, during which no inducible ventricular arrhythmias or prolongation of the HV interval were found. As the patient had no history of sudden death in the family, no spontaneous Brugada type 1 pattern, very low recurrence of syncope and a clear vasovagal profile, it was decided not to implant an implantable cardioverter defibrillator (ICD) and to perform clinical follow-up.
+
+DIAGNOSIS
+Electrocardiographic pattern of Brugada type I unmasked by fever.
+Syncope with a probable vasovagal profile.

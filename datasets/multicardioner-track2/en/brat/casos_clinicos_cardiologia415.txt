@@ -1,0 +1,33 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+BACKGROUND:
+Patient aged 47 years, with no known allergies.
+No personal history of interest.
+Family history of father with acute myocardial infarction (AMI) > 70 years.
+
+CURRENT ILLNESS:
+Previously asymptomatic, suffers episode of palpitations, with sensation of dizziness, sphincter relaxation, without tonic-clonic crisis, tongue biting and loss of consciousness. On arrival of 061, the electrocardiogram (ECG) showed ventricular fibrillation (VF), requiring three defibrillations to restore cardiac rhythm and level of consciousness. The subsequent ECG showed rhythmic tachycardia with narrow QRS at 150 bpm with ST elevation from V1 to V4 on the lateral side and a decrease on the inferior side. The infarction code was activated and cardiac catheterisation was performed with LAD showing mild proximal stenosis and 40% stenosis at the mid-segment level. In conclusion, there were no significant coronary lesions. Admission to the intensive care unit (ICU) was decided.
+
+PHYSICAL EXAMINATION:
+On arrival at the ICU, the patient was conscious and oriented. Eupneic at rest. Cardiac auscultation: rhythmic, no murmurs. Pulmonary auscultation: normoventila. No congestive signs.
+
+COMPLEMENTARY TESTS
+ECG: sinus rhythm, BRD and elevation of J point and anteroseptal ST that normalizes in evolution.
+ANALYTICS: biochemistry: glucose 94 mg/dl, glycated haemoglobin 5.8%, urea 40 mg/dl, creatinine 0.94 mg/dl, uric acid 5.2 mg/dl, triglycerides 138 mg/dl, total cholesterol 157 mg/dl, HDL 37 mg/dl, LDL 92 mg/dl, Apo A1 121 mg/dl, Apo B 82.6 mg/dl, sodium 138 mEq/l, potassium 4.3 mEq/l, AST 19 U/l, ALT 29 U/l, GGT 127 U/l, FA 102 U/l, proteinogram normal. Cardiac markers: troponin I 0.03 ng/ml, myoglobin 20.9 ng/ml, pro-BNP 430.9 pg/ml. Thyroid function: TSH 3.37 mIU/l, T4 0.83 ng/dl. CBC: red blood cells 4.55 mill/mm3, haemoglobin 13.8 g/dl, haematocrit 39.8%, MCV 87.50 fl, leukocytes 9200/mm3 (N 66.2%, L 18.2%), platelets 242,000/mm3.
+Coagulation: INR 1.07, prothrombin activity 90%.
+CORONARYGRAPHY (23/04/18): right radial access (6F): right dominance. Coronary arteries without significant stenosis. Coronary flow normal. Common trunk: No lesions.
+Anterior descending: slight proximal stenosis. Stenosis 40% in the middle segment. Circumflex: no stenosis. Right: no stenosis. Ventriculography: correct global systolic function. No segmental alterations. Mitral insufficiency (MI) is observed which is not quantifiable by EV during contrast injection, it could be significant. Evaluation by echocardiography.
+ECOCARDIOGRAM (24/04/18): left ventricle (LV) neither dilated nor hypertrophic. Global systolic function preserved or correct, without segmental defects. Left atrium of size at the upper limit of normality, as well as the aortic root. RV dilatation. Impression of pailary muscle hyperplasia and wall thickness up to 8 mm. No tricuspid insufficiency (TI). May be abnormal musculature. Inferior cava not dilated and with inspiratory collapse greater than normal aortic. Normal mitral without regurgitation. Normal diastolic pattern. Pulmonary artery with very slight increase in diameter. Pulmonary flow type I up to valvular plane, where it appears as type 2, with shortened acceleration time. Mild pulmonary arterial hypertension (PAH).
+MRI: LV normal size, with normal systolic function. Mild dilatation of the right ventricle (RV), with preserved function. Papillary accessory muscle in the ventricular sinus. No focal areas of late myocardial enhancement. Atria are not dilated.
+THORAX RADIOGRAPHY (post-implantation of a subcutaneous implantable cardioverter defibrillator [ICD]): no notable alterations.
+
+CLINICAL EVOLUTION
+The patient evolved favourably in the ICU, remaining asymptomatic and tolerating low doses of beta-blockers. An echocardiogram was performed, showing normal LV function.
+RV dilatation with impression of hyperplasia of papillary muscles and anterior wall up to 8 mm thick, slight increase in pulmonary artery diameter (mild PAH).
+It was decided to implant a subcutaneous ICD, following prior screening and after performing a flecainide test due to suspicion of underlying Brugada syndrome, which was confirmed. She was discharged with a diagnosis of cardiorespiratory arrest (CRP) due to VF recovered by Brugada syndrome, pending the results of the genetic test.
+
+DIAGNOSIS
+CRA due to VF.
+Coronary arteries free of significant lesions.
+Brugada syndrome (pending genetic study).
+Subcutaneous ICD implantation.

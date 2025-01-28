@@ -1,0 +1,67 @@
+ANAMNESIS
+Female, 58 years old.
+Non-smoker. Moderate drinker.
+High blood pressure on treatment.
+Insomnia on treatment with BDZ.
+Lumbociatalgia.
+Usual treatment: Omeprazole, ASA, Calcium, Celecoxib, Mometasone, Flunitrazepam and Lormetazepam.
+
+Current illness
+She attended the emergency department on 17/09/2012 due to febrile symptoms with shivering associated with drowsiness and marked disorientation.
+In the anamnesis she reported clinical symptoms of two weeks' evolution, consisting of asthenia and anorexia, with fever since 14/09/2012 associated with odynophagia, with partial improvement with clarithromycin.
+
+Physical examination
+BP: 85/55 Fc: 95x" Ta: 37.3oC
+Conscious, disoriented in time and space. Eupneic at rest. Mucocutaneous pallor.
+No adenopathies, no neck rigidity.
+PCA: Tachycardic, no murmurs. Global hypoventilation without pathological sounds.
+Rest anodyne.
+
+Complementary tests in the Emergency Department
+ECG: Sinus rhythm at 90x".
+Chest X-ray: No cardiomegaly or pathological findings.
+Laboratory tests:
+Blood: Lactate 35 mg/dL, Procalcitonin 89.8ng/mL, Urea 62 mg/dL, Creatinine 1.36 mg/dL, Na 131 mEq/L, CRP 7 mg/dL, Hb 10.9 g/dL, Hto 31.6%, MCV 100.8 fL, Platelets 126000/μL, Leukocytes 27300/μL, IP 48%, INR 1.67.
+Arterial blood gas: pH 7.43, pCO2 33, pO2 49, HCO3 22, EB -1.8, Sat02 85%
+Urine sediment: Blood ++, Leukocytes +++
+Cranial CT:
+No acute intracranial pathology.
+Cerebrospinal fluid:
+Clear, transparent.
+Proteins 63 mg/dL, Glucose 66mg/dL, Hematies 110 cells/mm3, Others: 7 cells/mm3 (Lymphocytes 18%, Segmented 74%, Monocytes 8%)
+Abdominal ultrasound:
+Homogeneous splenomegaly of 14.4 cm. Rest within normality.
+
+Evolution
+Admitted to ICU on 18/09/2012 with the diagnosis of septic shock of unidentified aetiology, with urinary focus as the most likely, requiring low doses of inotropics and vasopressors.
+Five hours later, the patient is haemodynamically stable, and inotropes and vasopressors can be withdrawn. However, disorientation and somnolence persisted, with aphasia and new onset right hemiplegia.
+An urgent cranial CT scan was performed
+She was assessed by Neurology, without an invasive intravascular procedure due to a history of lumbar puncture in the previous 24 hours, and antiplatelet therapy with ASA was administered.
+Urgent TTE was performed, which revealed a non-dilated LV with severe MI.
+On 19/09/2012, in the morning, he presented with a deterioration in the level of consciousness, with clear pupillary asymmetry and decortication posture. OTI and connection to mechanical ventilation and a new cranial CT scan were required.
+Despite treatment, neurological deterioration progressed, and she remained intubated with only some trunk reflexes.
+There was no fever peak at any time.
+In the anamnesis of the relatives, there was no evidence of endocarditis.
+
+TEE 19/09/2012
+Lowly mobile vegetation and homogeneous density of 15x14 mm, with associated perforated aneurysm on the anterior mitral leaflet.
+Severe mitral insufficiency with 2 jets, one originating through the perforation of the aneurysm and directed towards the posterior wall of the left atrium with coanda effect, with another smaller one at the central level.
+Severe tricuspid regurgitation due to prolapse.
+Mild degenerative aortic regurgitation.
+
+Cultures
+Blood cultures
+Collected on admission.
+Positive for Streptococcus mitis
+Sensitive to Penicillin, Amoxicillin, Ceftriaxone, Cotrimoxazole
+Resistant to Clindamycin and Erythromycin.
+
+The clinical course progressed to brain death on 21/09/2012, 96 hours after admission to the ICU.
+A cervico-thoracic-abdomino-pelvic CT scan was requested, in case he could be considered a donor.
+Body CT scan: lesions in the spleen and right kidney compatible with small embolic infarcts.
+
+DIAGNOSTIC IMPRESSION
+INFECTIVE ENDOCARDITIS ON NATIVE MITRAL VALVE DUE TO STREPTOCOCCUS MITIS.
+SEVERE MITRAL INSUFFICIENCY DUE TO PERFORATION AT THE LEVEL OF THE ANTERIOR MITRAL LEAFLET VEGETATION.
+SEPTIC SHOCK.
+SEPTIC EMBOLISM AT CEREBRAL LEVEL WITH HAEMORRHAGIC TRANSFORMATION AND ENCEPHALIC DEATH.

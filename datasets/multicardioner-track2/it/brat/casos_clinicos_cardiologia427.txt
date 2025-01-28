@@ -1,0 +1,30 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+ANTEFATTI:
+Maschio di 29 anni, ex fumatore da un anno di un pacchetto al giorno per 15 anni, senza altre storie personali di interesse. Non assume regolarmente alcun trattamento. Come anamnesi familiare, lo zio paterno e il nonno sono morti di infarto miocardico acuto (IMA) a un'età superiore ai 65 anni.
+Il precedente ECG basale è in ritmo sinusale con asse normale, QRS stretto e nessuna anomalia di ripolarizzazione.
+
+MALATTIA ATTUALE:
+La paziente giunge al dipartimento di emergenza del nostro centro nel luglio 2017 per un decorso di 48 ore di odinofagia intensa che rende difficile la deglutizione e febbre termometrica a casa fino a 39 oC. Nega dispnea, tosse o espettorazione purulenta. Da mesi lamenta anche un disagio meccanico toracico centrale che non limita la sua attività abituale.
+
+ESAME FISICO:
+All'arrivo al Pronto Soccorso sono stati osservati febbre a 38°C e tachicardia sinusale a 110 bpm. Il paziente era emodinamicamente stabile, con una pressione arteriosa adeguata e una buona saturazione di ossigeno al basale. L'esame fisico ha rivelato un'orofaringe eritematosa con placche pustolose tonsillari bilaterali e tracce di secrezioni nella parete faringea posteriore, senza linfadenopatie palpabili. L'auscultazione cardiopolmonare era normale.
+
+ESAMI COMPLEMENTARI
+ANALISI: leucocitosi con neutrofilia, ioni normali.
+GASOMETRIA VENOSA: alcalosi respiratoria.
+ECG all'arrivo al Pronto Soccorso (con febbre a 38°C): tachicardia sinusale a 110 bpm, PR normale,
+QRS 120 millisecondi. In V1-V2 era presente un'immagine di RsR' con sopraslivellamento del segmento ST discendente e onda T negativa. Compatibile con il modello Brugada di tipo I.
+ESG dopo una dose endovenosa di paracetamolo, 37 oC: ritmo sinusale a 95 bpm, PR normale, QRS 113 millisecondi. In V1-V2 è presente un'immagine di RsR' con sopraslivellamento del segmento ST discendente ma meno pronunciato rispetto all'ECG precedente e onda T negativa.
+RADIOGRAFIA TORACICA: normale.
+Ecocardiogramma transtoracico: nessun dato di cardiopatia strutturale. Ventricolo sinistro non dilatato con normale spessore della parete e normale funzione sistolica. Ventricolo destro di dimensioni normali con normale funzione sistolica. Atri di dimensioni normali. Assenza di cardiopatia valvolare.
+Assenza di versamento pericardico.
+
+EVOLUZIONE CLINICA
+In seguito a questi risultati, il paziente è stato nuovamente intervistato e ha riferito episodi sincopali di profilo vasovagale (un episodio negli ultimi due anni) legati al caldo o a prelievi di sangue, senza altri sintomi cardiovascolari. Nega inoltre una storia di morte improvvisa in famiglia.
+Il paziente è stato dimesso con un trattamento antibiotico con amoxicillina per una faringotonsillite acuta ed è stato indirizzato all'unità di aritmologia per completare lo studio, dove è stato eseguito un test di provocazione con flecainide, che è risultato positivo.
+È stato eseguito uno studio elettrofisiologico, durante il quale non sono state riscontrate aritmie ventricolari inducibili o un prolungamento dell'intervallo HV. Poiché il paziente non aveva una storia di morte improvvisa in famiglia, non presentava un quadro spontaneo di Brugada di tipo 1, le recidive di sincope erano molto basse e il profilo vasovagale era chiaro, si è deciso di non impiantare un defibrillatore cardioverter impiantabile (ICD) e di eseguire un follow-up clinico.
+
+DIAGNOSI
+Quadro elettrocardiografico di Brugada tipo I smascherato dalla febbre.
+Sincope con probabile profilo vasovagale.

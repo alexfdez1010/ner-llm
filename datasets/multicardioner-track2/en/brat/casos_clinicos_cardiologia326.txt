@@ -1,0 +1,51 @@
+HISTORY, CURRENT DISEASE AND PHYSICAL EXAMINATION
+We present the case of a 45-year-old man with an active life, currently asymptomatic, who came to the echocardiography department of our hospital for transesophageal monitoring after percutaneous closure of the left atrial appendage with an Amulet device (St Jude Medical) due to repeated strokes despite having been under anticoagulant treatment.
+
+PERSONAL HISTORY
+Cardiovascular risk factors (CVRF): hypertension. Dyslipidaemia. Smoker of 7-8 cigarettes a day (10.5 packs a year)
+Cardiological history:
+Permanent atrial fibrillation diagnosed in December 2001 (2 unsuccessful attempts at CVE in 2002 after which frequency control strategy was chosen).
+Transthoracic echocardiography: left ventricle of normal diameters and volumes, with preserved global systolic function (LVEF 58%). Very dilated left atrium (volume 4c 154 ml). Transmitral filling with single E wave. Absence of significant valvular heart disease. Right ventricle with preserved diameters and global systolic function. Absence of tricuspid insufficiency (TI) allowing estimation of pulmonary arterial systolic pressure (PsAP).
+Percutaneous closure of the left atrial appendage with Amulet device (St. Jude Medical) in 2018:
+In 2016, the patient presented with a stroke with a cardioembolic profile under treatment with acenocoumarol anticoagulation with poor INR control, so acenocoumarol was discontinued and rivaroxaban was started.
+Under treatment with rivaroxaban 20 mg/24 hours correctly adjusted to his renal function, he suffered a new cardioembolic stroke in 2017, so it was decided to close his left atrial appendage.
+In 2018, percutaneous closure of the left atrial appendage was performed with an Amulet device (St. Jude Medical) without complications. On discharge, following the recommendations of the commercial company, double antiplatelet therapy was started with aspirin 100 mg and clopidogrel 75 mg. Although, according to the guidelines, the patient had an indication for anticoagulant treatment due to the risk of stroke, this was rejected because he had experienced minor bleeding episodes during treatment with rivaroxaban.
+Other medical history:
+Repeated cardioembolic stroke (2016 and 2017) expressed as TIA, despite anticoagulation.
+The first of these was located in the left occipital lobe, confirmed by imaging techniques.
+The second was in the left carotid profile and was not confirmed by imaging techniques.
+Clinical criteria of chronic bronchitis without respiratory functional tests
+Surgical interventions: gastric bypass. Supraumbilical hernia.
+Current treatment: Foli-Doce 1 (tablet per day), olmesartan + HCT 40/25 mg, atenolol 50 mg (1 tablet per day), atorvastatin 20 mg (1 tablet per day), acetylsalicylic acid 100 mg (1 tablet per day).
+
+PHYSICAL EXAMINATION
+Good general condition, conscious, oriented, normohydrated and normal colour.
+Blood pressure (BP) 132/76 mmHg, heart rate (HR) 67 bpm, SatO2 94% (FiO2 21%).
+Cardiac auscultation: irregular sounds without murmurs.
+Pulmonary auscultation: slight global hypophonesis, with scattered rhonchi.
+Soft abdomen with no masses or megaliths, not painful on palpation.
+Lower extremities without oedema. Peripheral pulses present and symmetrical.
+
+COMPLEMENTARY TESTS
+Laboratory tests:
+Blood count: haemoglobin 15.1 g/dL. MCV 84 fl. MCH 30.7 pg. Leukocytes 5.8x10*9/l.
+Platelets 316x10*9/l.
+Biochemistry: glucose 83 mg/dl. HbA1c 5.8%. Sodium 138 mEq/l. Potassium 4.3 mEq/l.
+Chlorine 104 mEq/l. Bilirubin 0.46 mg/dl. GOT 16 U/l. GPT 14 U/l. Alkaline phosphatase 77 U/l. Gamma-glutamyl transferase 13 U/l. Creatinine 0.96 mg/dl (GFR CKD-EPI > 90 ml/min/1.73 m2).
+Iron metabolism: transferrin 249 mg/dl. Ferritin 26 ug/l. Iron 60 ug/l, IST 17.8%.
+Lipid metabolism: total cholesterol 150 mg/dl. Triglycerides 64 mg/dl. HDLc 34 mg/dl. LDLc 126 mg/dl.
+Haemostasis: prothrombin time 12 s, IQ 84%. INR 1.03. APTT 27.3 s.
+Electrocardiogram (ECG): atrial fibrillation with MVR at 67 bpm. Axis 15o. QRS 90 ms. non-significant Q wave and negative T in dIII. Flattened T in avF. No other repolarisation alterations.
+Transesophageal echocardiography (TEE) (2D and 3D) 5 months after implantation of atrial appendage closure device: marked left atrial dilatation (volume 4c 175 ml) with presence of spontaneous echocontrast. An image suggestive of a small protruding thrombus is seen on the disc of the normally positioned atrial appendage closure device. Left ventricle with increased diameters and normal global systolic function (LVEF 60%). Absence of significant valvular heart disease. Right ventricle with normal diameters and preserved function. Absence of IT allowing estimation of PsAP.
+Exploration in atrial fibrillation.
+
+CLINICAL EVOLUTION
+Taking into account that the patient was an asymptomatic 45-year-old man who, although he had correctly completed the double antiplatelet therapy prescribed according to the recommendations of the device manufacturer, without anticoagulant treatment by the patient's own decision, a thrombosis of the Amulet device (St Jude Medical) for closure of the left atrial appendage was detected in the control TEE. It was decided to restart anticoagulant treatment with acenocoumarol with INR targets (2-3). Three months later a new follow-up TEE was performed and the thrombus had resolved.
+However, despite the resolution of the condition, it was decided to maintain oral anticoagulation with acenocoumarol (INR 2-3) and to perform a new echocardiographic control in 12 months, in order to assess the definitive withdrawal of anticoagulant treatment.
+At present, 8 months have passed and the patient remains asymptomatic, without haemorrhagic or thrombotic complications, under treatment with acenocoumarol and awaiting a repeat transesophageal echocardiography control.
+
+DIAGNOSIS
+Permanent atrial fibrillation with controlled ventricular response. CHA2DS2VAS-c 3, HASBLED 2.
+Two strokes with cardioembolic profile despite anticoagulation with acenocoumarol or rivaroxaban (left atrial appendage preclosure).
+Left atrial appendage closure with Amulet device (St Jude Medical).
+Thrombosis on left atrial appendage closure device, resolved with oral anticoagulation with acenocoumarol.

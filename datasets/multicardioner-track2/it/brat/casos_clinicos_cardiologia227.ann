@@ -1,0 +1,18 @@
+T59	FARMACO 912 934	acido acetilsalicilico
+T1	FARMACO 936 939	ASA
+T60	FARMACO 959 970	clopidogrel
+T61	FARMACO 988 997	enalapril
+T62	FARMACO 1016 1027	metoprololo
+T63	FARMACO 1048 1058	amlodipina
+T64	FARMACO 1077 1099	isosorbide mononitrato
+T65	FARMACO 1117 1127	ranolazina
+T67	FARMACO 1148 1158	furosemide
+T68	FARMACO 1176 1189	atorvastatina
+T69	FARMACO 1207 1231	empagliflozin/metformina
+T70	FARMACO 1255 1265	omeprazolo
+T71	FARMACO 1574 1588	nitroglicerina
+T72	FARMACO 1796 1810	nitroglicerina
+T66	FARMACO 1830 1840	ranolazina
+T2	FARMACO 5124 5137	agonista GLP1
+T73	FARMACO 5139 5150	semaglutide
+T74	FARMACO 5267 5276	ezetimibe

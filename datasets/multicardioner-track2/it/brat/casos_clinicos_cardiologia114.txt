@@ -1,0 +1,18 @@
+Presentiamo il caso di un paziente di 41 anni che è stato inviato in clinica lo stesso giorno per la valutazione di un ECG patologico, che era stato eseguito come parte del work-up preoperatorio per un intervento chirurgico alla spalla destra, dove soffriva di dolore cronico.
+
+Anamnesi, malattia attuale ed esame fisico
+Non soffriva di alcuna malattia, a parte un dolore alla schiena e alla spalla destra per il quale assumeva sporadicamente degli antidolorifici. Praticava regolarmente sport ed era in ottime condizioni fisiche, anche se negli ultimi mesi riferiva una maggiore stanchezza. Il paziente presentava un'evidente assenza di diverse falangi della mano sinistra, attribuita, nel Paese di nascita (era figlio di lavoratori agricoli stagionali), a una possibile esposizione materna alla talidomide. Aveva anche altre anomalie muscolo-scheletriche e sosteneva di avere altri parenti con alcuni difetti minori agli arti superiori.
+L'esame fisico ha rivelato un pectus excavatum e altre anomalie muscoloscheletriche agli arti superiori e inferiori. All'auscultazione cardiaca è stato riscontrato un battito cardiaco ritmico a 35 bpm e un soffio sistolico con sdoppiamento fisso del secondo suono. Nessun segno di insufficienza cardiaca. PRESSIONE ARTERIOSA 100/60. L'ECG ha mostrato la presenza di un blocco AV completo. È stata eseguita un'ecocardiografia transtoracica e si è deciso di posizionare un pacemaker bicamerale definitivo e di continuare lo studio del paziente.
+
+Esami complementari
+- Ecocardiografia transtoracica: aveva mostrato una dilatazione delle camere destre, una lieve insufficienza tricuspidale con una PAP di 50 mmHg e una funzione ventricolare conservata.
+A causa del pectus excavatum, non è stato possibile visualizzare correttamente il setto atriale.
+- Angiografia TC del torace: mostrava dilatazione delle camere destre e del cono polmonare.
+- Ecocardiografia transesofagea: è stato possibile verificare l'esistenza di un difetto del setto atriale di tipo ostium secundum di 21 mm, con shunt sinistro-destro.
+- Studio traumatologico: ha riportato la presenza di pectus excavatum, sublussazione gleno-omerale della spalla destra, sublussazione rotulea del ginocchio destro, agenesia di diverse falangi delle dita della mano sinistra, sinostosi radioulnare del gomito sinistro, pes cavus e agenesia della falange distale del primo dito del piede destro.
+
+Decorso clinico
+Data la combinazione di difetti muscolo-scheletrici, blocco AV completo e ASD ostium secundum, è stato richiesto uno studio genetico. L'albero genealogico mostrava diversi casi di difetti muscolo-scheletrici e anche alcuni casi di morte improvvisa. Il test genetico ha rivelato una mutazione (c.100-101insG) nel gene TBX5 ed è stata posta la diagnosi di sindrome di Holt Oram. Infine, il paziente è stato sottoposto a un intervento chirurgico e il difetto interatriale è stato chiuso utilizzando un patch pericardico autologo, senza complicazioni postoperatorie. Ad oggi, il paziente rimane asintomatico dal punto di vista cardiovascolare.
+
+Diagnosi
+Sindrome di Holt Oram: varie alterazioni muscolo-scheletriche, difetto del setto atriale Ostium Secundum e blocco atrioventricolare completo.

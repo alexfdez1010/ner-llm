@@ -1,0 +1,56 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Motivo della consultazione: dolore toracico e sincope.
+
+Storia personale
+Donna di 37 anni con reazione avversa a Dexketoprofene e paracetamolo (rash cutaneo). Ex fumatrice da 4 anni (AOD: 25 p/a).
+Interventi chirurgici: ernia discale cervicale operata in clinica privata alla fine del 2012, appendicectomia.
+Anamnesi familiare: padre con IMA a 38 anni e successivo reinfarto, madre con IMA a 57 anni.
+
+Anamnesi cardiologica: secondo il referto fornito dalla clinica privata: ottobre 2010: insorgenza di dolore toracico e cateterismo cardiaco in cui non vi era evidenza di lesioni coronariche. Il paziente è stato asintomatico dopo l'episodio fino a gennaio 2013, pochi mesi dopo l'intervento di ernia cervicale.
+Nel febbraio 2013 è stato eseguito un cateterismo cardiaco: LMCA senza lesioni, LAD prossimale lesionata al 52%, Cx e CD senza lesioni. È stata eseguita una MIBI ed è stata segnalata una piccola ischemia settale, quindi è stato impiantato uno stent a rilascio di farmaco Biomatrix da 11 mm nella LAD. Dopo il posizionamento dello stent, i sintomi persistevano e il cateterismo è stato ripetuto nell'aprile 2013, senza evidenza di nuove lesioni o restenosi intra-stent. Dimensioni e contrattilità dell'LV normali
+Da aprile, i sintomi sono peggiorati con affaticamento e dolore toracico progressivamente invalidante su sforzo minimo, senza risposta a più trattamenti; a un certo punto sono stati osservati tachicardia sinusale a 130 bpm e LBBB transitorio. Si sospetta un'angina microvascolare e un LBBB doloroso.
+È stato eseguito un EPS senza inducibilità aritmica e successivamente la CMR ha mostrato una lieve ischemia a livello settoapicale.
+Baseline: da 1 mese dispnea su sforzo minimo, incapacità di condurre una vita attiva. In precedenza svolgeva attività sportive, anche se ha riferito un disagio toracico di lunga data legato all'esercizio fisico senza riscaldamento.
+Trattamento abituale: ASA 100 mg 0-1-0, propanololo 20 mg 1-1/2-1/2, simvastatina 10 mg 0-0-1.
+
+Malattia attuale
+Una paziente di 37 anni si è presentata al pronto soccorso con una sincope nel contesto di un dolore toracico. Salendo le scale ha presentato un dolore toracico centrale opprimente che si irradiava alla mascella e all'emitorace sinistro insieme a dispnea con successiva perdita di coscienza della durata di pochi secondi. Il dolore è durato complessivamente 5 minuti, attenuandosi in posizione seduta e a riposo. Non c'è stato rilassamento sfinterico, né movimenti tonico-clonici, né confusione post-sincopale.
+Nell'ultimo mese il paziente ha accusato quotidianamente un dolore toracico con uno sforzo sempre minore, negli ultimi giorni con uno sforzo minimo.
+
+Esame fisico
+Febbrile, FC 55 bpm, PA 119/56 mmHg, Sat(aa) 98%. C e O in tutte e tre le sfere, tranquillamente collaborante. BEG; NC e NH. Eupneico. ACV: RCR, nessun soffio o extratono, nessuna IY. Pulsazioni pediali palpabili e simmetriche, pulsazioni femorali palpabili e simmetriche.
+AR: CVM senza suoni aggiunti. ABD: morbido e depressibile, senza megaliti, senza segni di irritazione peritoneale. Nessun soffio, peristalsi conservata.
+
+ESAMI COMPLEMENTARI
+ECG: Rs a 60 bpm, PR normale, QRS stretto, T isolata negativa in V1.
+Radiografia del torace: CTI nei limiti della norma, mediastino non allargato, SCF libero, nessuna condensazione nel parenchima polmonare.
+Emocromo 05/05: leucociti 6.180 ^3/uL (76%), Hb 12,6 g/dl, Hto 35,8%, piastrine 213,00 10^3/uL, INR 0,99, D-dimero 149 ng/ml, glucosio 88 mg/dl, urea 27 mg/dl, creatinina 0,69 mg/dl, Na 141 mEq/l, K 3,8 mEq/l.
+Curva dei biomarcatori: negativa. Esami del sangue all'ammissione (06/06): Quick: 81%, INR: 1,16. Glucosio 91 mg/dl, U 22 mg/dl, Cr 0,67 mg/dl, urato 5 mg/dl, TG 65 mg/dl, CT 162 mg/dl (HDL 54, LDL 95), bili totale 0,7 mg/dl, GOT/GPT 16/14 u/l, GGT/FAL 15/63 u/l, prot. totale 63,5 g/l, albumina 38,7 g/l, Na+ 141 mEq/l, K+ 3.8 mEq/l, Cl 108 mmol/l, HbA1c: 4,9%.
+Ecocardiogramma transtoracico (giugno 2014): funzione sistolica complessivamente normale. Ventricolo sinistro di dimensioni normali. Funzione sistolica globale LV normale. EF 59%. Nessuna anomalia della contrazione segmentale o coinvolgimento della deformazione longitudinale. Funzione diastolica non valutabile a causa delle lesioni associate. Nessuna ipertrofia LV. Atrio sinistro di dimensioni normali. Ventricolo destro di dimensioni normali.
+Cateterismo sinistro (giugno 2014): stent nell'arteria discendente anteriore prossimale permeabile senza iperplasia o restenosi. Resto dell'arteria senza lesioni.
+Arteria circonflessa e arteria coronaria destra senza lesioni significative. È stato eseguito il test dell'ergonovina. Ha iniziato alla dose massima con dolore precordiale senza alterazioni angiografiche, ma elettrocardiograficamente presentava AVB completa con ritmo di fuga che rispondeva spontaneamente al ritmo sinusale.
+Ergometria 09/06/14: Bruce 03:05, FC massima 171 bpm, PA massima 150/90, carico massimo: 4,8 METS. ECG a riposo normale, capacità funzionale molto limitata. Conclusioni: test da sforzo terminato per affaticamento e dolore toracico, alla fine della prima fase senza alterazioni elettriche. Tachicardia anomala con la stazione eretta, all'inizio del test FC 130 bpm. Ormoni: TSH 0,43 μUI/mL, FT4 1,04 ng/dl, NT-ProBNP 41 pg/mL.
+Studio dell'autoimmunità: LDH 178 u/l, CK 63 U/l, aldolasi 3,7 U/l, CRP 0,36 mg/dl, ANA negativo, RF < 20 UI/mL, capacità emolitica CD 78 U/mL.
+Metanefrine nelle urine delle 24 ore: diuresi acida delle 24 ore, 80 ml. Metanefrina, normetanefrina, metossitiramina in attesa.
+Cateterismo cardiaco destro Giugno 2014: cateterismo cardiaco destro attraverso la vena giugulare destra senza complicazioni immediate. PVC 5 mmHg, VD 26/0 mmHg, PAPs 18-19 mmHg, PAPd 4-5 mmHg, PAPm 10 mmHg, PCP 5 mmHg, GTP 5 mmHg, GC 6,2 L/min, IC 3,5 L/min/m2. Resistenze vascolari sistemiche 1100 dyncm5. Resistenza vascolare polmonare inferiore a 1 unità di Wood. Conclusioni: pressioni polmonari, gittata cardiaca, PCP, PVC, resistenze sistemiche e resistenze polmonari nella norma. Non c'è gradiente RV-PA, il che esclude la stenosi polmonare.
+PFR (giugno 2014): normale, SatO2 invariata in posizione eretta. Lieve alterazione della MEF.
+TLM: eventi: RS con LBBB intermittente a qualsiasi frequenza, attacchi di tachicardia sinusale spesso rilevati a 130-140 bpm in posizione eretta e a partire da 150 bpm con conduzione LBBB.
+Test in piedi: con la stazione eretta riproducibile, una tachicardia sproporzionata (> 30 bpm della FC basale, > 150 bpm, tachicardia sinusale con o senza LBBB) senza ipotensione, che riproduce i suoi sintomi di debolezza, malessere, nausea, pallore, fastidio toracico, cianosi distale con intensa astenia anche esacerbata dalla parola; questi sintomi scompaiono insieme alla tachicardia sinusale rapidamente con il decubito.
+
+EVOLUZIONE
+La paziente è una donna di 37 anni, fumatrice, con un'anamnesi di malattia monovasale moderata con stent nella LAD. Il difetto osservato a riposo dopo il farmaco è poco suggestivo di ischemia ed è più legato al suo LBBB.
+Nessuna cardiopatia strutturale, funzione ventricolare, pressioni di riempimento e gittata cardiaca normali. Stent brevettato.
+Le sue manifestazioni cliniche e il test in piedi sono risultati diagnostici di sindrome da tachicardia posturale ortostatica, con sintomi molto avanzati e invalidanti.
+Sono state avviate tre linee di trattamento farmacologico e una progressiva desensibilizzazione attraverso l'esercizio fisico.
+
+Pertanto, il trattamento alla dimissione consiste in:
+Misure posturali, bere frequentemente acqua, dieta con sale.
+Acido acetilsalicilico: 100 mg, 1 compressa, orale, Co.
+Fludrocortisone: 0,1 mg, 1 compressa, orale, De.
+Metildopa: 125 mg, 0,5 compresse, orale, Ce.
+Propranololo: 10 mg, 1 compressa, orale, DeCe.
+Simvastatina: 10 mg, 1 compressa, orale, Ce
+
+DIAGNOSI
+Sindrome da tachicardia posturale ortostatica.
+Blocco di branca sinistro (LBBB) intermittente/frequente dipendente.

@@ -1,0 +1,29 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+51-year-old woman with no known drug allergies, no cardiovascular risk factors.
+
+Cardiological history: Ebstein's anomaly type congenital heart disease. Wolff-
+Parkinson-White syndrome (WPW) diagnosed at 18 years of age. Followed in cardiology outpatient clinic, in usual New York Heart Association (NYHA) functional class II-III/IV.
+Episodes of orthodromic paroxysmal supraventricular tachycardia (PSVT). Holter study (October/2016): sinus rhythm without arrhythmic events. She does not take any treatment on a regular basis.
+Admitted to a regional hospital due to progressive worsening of his functional class in the last 3 months with progressive dyspnoea until becoming minimal effort. She reported a case of upper respiratory tract infection (one month prior to admission), coinciding with worsening dyspnoea until she was at rest and orthopnoea. No other symptoms. During his admission to El Bierzo Hospital, depletive treatment was started for congestive heart failure with a tendency to hypotension. Transfer to our centre was requested to complete studies and assess treatment options. When assessed in our department, she reported intense asthenia with improvement in dyspnoea.
+Blood pressure 124/88 mmHg, heart rate 80 bpm. Cyanosis. Acropaquias. Basal oxygen saturation in the supine position 80%, in the sitting position 65%. Jugular venous pressure normal. Cardiac auscultation: rhythmic, systolic murmur in tricuspid focus III/VI, holosystolic.
+Pulmonary auscultation: preserved vesicular murmur without added noise. Abdomen soft, depressible, not painful on palpation. No palpation of hepatomegaly or other masses.
+Lower extremities without oedema, no signs of deep vein thrombosis and symmetrical peripheral pulses.
+
+COMPLEMENTARY TESTS
+ELECTROCARDIOGRAM (ECG): sinus rhythm at 75 bpm. PR 200ms. Qtc 480ms. Right bundle branch block (RBBB). Predominance of positive P wave component in V1.
+THORAX RADIOGRAPHY: cardiomegaly, without signs of vascular redistribution. Free costophrenic sinuses. No condensation.
+ANALYSIS: haemogram: leucocytes 9000 mil/mm3 (N 78%, L 11%), Hb 13.9 g/dl, haematocrit 41.7%. MCV 92.4 fl, platelets 114000/mm3, haptoglobin 100 mg%. Coagulation: INR 1.2, PT 72%, TTPa 32 seconds. Biochemistry: glucose 87 mg/dl, urea 30 mg/dl, creatinine 0.98 mg/dl (FG 60), total cholesterol 108 mg/dl, HDL 31 mg/dl, LDL 64 mg/dl, triglycerides 64 mg/dl, GOT 24 U/l, GPT 2624U/l, total bilirubin 0.72 mg/dl, NT-proBNP 207 pg/ml. Arterial blood gases: pH 7.53, PCO2 30.4, PO2 51, bicarbonate 25.2.
+Echocardiogram: severely dilated right ventricle with depressed contractility. Normal sized left ventricle with preserved function. Severely dilated right atrium (RA) with interventricular septum bulging to the left. Thin leaflet pulmonary valve with normal opening. Post-valvular flow of 1 m/s with symmetrical branch Doppler flow. Tricuspid valve with Ebstein's morphology, more apical implantation of the septal leaflet, 48 mm from the mitral annulus, with IV/IV regurgitation. Triangular morphology in spectral Doppler, with maximum velocity of 2.4 m/sg. Normal mitral and aortic valves. After the injection of agitated saline, there was abundant spontaneous passage of bubbles to the left cavities, presenting syncope during the procedure, with subsequent progressive recovery and headache. No obvious atrial septal defect (ASD) was observed, so it was attributed to PFO. Conclusion: Ebstein's disease, IV/IV tricuspid regurgitation with ventricular dysfunction, right-to-left shunt due to probable PFO.
+HEMODYNAMIC STUDY (right femoral artery): ventriculography shows right-left shunt. After temporary occlusion of the defect with a balloon, it was found that the pressures in the right atrium did not increase and the arterial pressures did not fall. With the use of a 35 mm Amplatzer FOP Tribiform MF 35 mm device, the defect is almost completely occluded, with minimal residual shunt, with arterial saturation from 81% to 99% (video 4). No complications. Under control with intracardiac echocardiography and transesophageal echocardiography (TEE), an 18 mm balloon test was performed, showing no significant haemodynamic changes (blood pressure and right atrial pressure).
+
+CLINICAL EVOLUTION
+The patient was admitted to complete the study due to progressive worsening of functional class. An echocardiographic study showed significant right-to-left interatrial shunt suggestive of PFO with platypnoea-ortodesoxia behaviour. With these results, it was decided to perform a percutaneous technique on PFO. Prior to definitive closure, haemodynamic response was assessed with transient balloon closure, which was favourable, so a 35 mm Amplatzer cribriform closure device was implanted, with good final results and arterial saturation increased from 81% baseline to 99%. Post-procedure, the patient was stable and asymptomatic, with improvement in functional class and baseline saturation, and it was decided to transfer her to her hospital of reference.
+
+DIAGNOSIS
+Platypnoea-ortodesoxia syndrome.
+PFO with significant spontaneous right-left shunt.
+Congenital heart disease of the Ebstein's anomaly type.
+Global respiratory failure secondary to intracardiac shunt, resolved.
+Implantation of a percutaneous Amplatzer cribriform 35 mm PFO closure device.
+Massive tricuspid regurgitation with no signs of pulmonary hypertension. Preserved LVEF.
+Intermittent WPW syndrome. Episodes of orthodromic TPSV.

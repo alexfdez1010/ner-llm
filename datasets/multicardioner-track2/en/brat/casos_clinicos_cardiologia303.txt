@@ -1,0 +1,34 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+A 37-year-old woman reported an episode of transfixing interscapular pain radiating to the cervical region and to both upper limbs (MMSS), which had been going on for hours. She reported episodes of chest pain of identical characteristics related to exertion, which subsided with rest, of several months' evolution, without having presented episodes of prolonged chest pain up to the present time, for which she had not consulted.
+As personal history, he had no known cardiovascular risk factors (CVRF) and was being followed up by cardiology at a private centre for moderate aortic insufficiency of unknown aetiology, without access to previous echocardiogram images.
+Vital signs at triage. Blood pressure (BP) 140/80 mmHg. Heart rate (HR) 110 bpm. SatO2 (FiO2 21%) 93%. Temperature 37.2 ̊C.
+
+PHYSICAL EXAMINATION
+Good general condition, normal colour and normal hydration. Eupneic at rest. Cardiac auscultation: rhythmic with systolic murmur III/VI (already known previously). Pulmonary auscultation: preserved vesicular murmur without added noise. No lower limb oedema. Radial, femoral and pedial pulses present, bilateral and symmetrical.
+
+COMPLEMENTARY TESTS
+Electrocardiogram (ECG) on arrival at the MEDU (with pain): sinus rhythm at 85 bpm. PR 150ms. Narrow QRS with axis in the lower left quadrant. ST elevation of up to 3 mm in avR with generalised ST descent of up to 5 mm.
+Chest X-ray: normal cardiomediastinal silhouette, without images of consolidation or pleural effusion.
+Urgent transthoracic echocardiogram: left ventricle (LV) neither dilated nor hypertrophied, with moderately depressed systolic function (Simpson 40-45% with study performed with HR 120-130 bpm), with inferior and lateral hypokinesia at mid and apical levels. Non-dilated right ventricle (RV) with normal TDI. Aortic valve (VAo) apparently tricuspid with hypoplastic non-coronary leaflet and moderate-severe aortic insufficiency with diastolic reverse flow in descending aorta. Mild eccentric mitral insufficiency. No biauricular dilatation. Aortic root, ascending aorta, aortic arch and descending aorta of normal size. Doubtful image in the arch. No IT signal detected to estimate pulmonary artery pressure. Absence of pericardial effusion.
+CT of the aorta: no signs of aortic dissection, penetrating ulcer or intramural haematoma. No pericardial or pleural effusion. Cardiomegaly. No signs suggestive of pulmonary thromboembolism in pulmonary, lobar or segmental arteries. Bilateral diffuse septal thickening suggestive of interstitial oedema. No pulmonary nodules or masses. Air trapping in the apical segment of the left lower lobe (LII). Small area of subpleural ground glass in LII. No mediastinal, hilar or axillary adenopathy.
+Laboratory tests:
+Myocardial damage marker curve: ultrasensitive troponin T (TnT us) 480 ----- (4 h) 499. Normal values < 14 pg/ml.
+N-terminal pro-brain natriuretic peptide (NT-proBNP) 2050 pg/ml.
+Rest of biochemistry, haemogram and coagulation anodine.
+
+CLINICAL EVOLUTION
+After the introduction of perfused nitrates, symptomatology was controlled, the patient remained asymptomatic and the generalised decrease in the ST segment normalised.
+Given the electrical changes, signs of systolic dysfunction in the urgent echocardiogram and elevated markers of myocardial damage, admission to the coronary unit was decided with a diagnosis of non-ST-segment elevation myocardial infarction (NSTEMI), and double antiplatelet therapy (DAPT) was initiated (acetylsalicylic acid [ASA] + clopidogrel) and antiplatelet treatment with subcutaneous fondaparinux 2.5 mg.
+14 hours after admission, early coronary angiography was performed, showing a conical aortic root morphology that made catheterisation of the left coronary trunk (LMCA) impossible due to the recurrent drop in pressure, which was visualised indirectly, with an image of impingement at its origin. The ostium of the right coronary artery (RCA) also appears to be compromised.
+After performing the diagnostic coronary angiography, the case was discussed again with radiology who, after re-evaluating the images, commented that there was a striking deformity of the circumference of the aortic root, with areas of flattening in the medial wall (forming a conical morphology and thickening of the lateral wall. Both findings may correspond to an intramural haematoma in the aortic root. Absence of visualisation of the outflow ostium of both coronary arteries.
+The diagnostic study was completed by transesophageal echocardiography, which showed a retraction of the non-coronary leaflet with a regurgitation jet originating at its junction with the right coronary artery, leading to valvular insufficiency that was classified as severe. With this information, the case was discussed with the cardiac surgery department, and the patient was left pending surgical revascularisation. In the following 12 hours, the patient continued to present episodes of precordial pain with dynamic electrical changes, similar to those described previously, which were controlled with antianginal drugs, with markers of myocardial damage on the rise (maximum TnT us of 6000), and she was scheduled for coronary revascularisation surgery 24 hours after her consultation in the emergency department.
+The surgical report highlights "a severely thickened aortic root wall, which appears to be aortitis. A small ulcer in the wall of the aorta (Ao) is also identified.
+Trivalve AoA, with thickened leaflets and non-coronary leaflet collapse, which would justify the picture of severe aortic insufficiency (AIo). Coronary ostia with complete occlusion of ACDp and subtotal occlusion of the LMCA. Healthy coronary arteries". With all this, aortic valve replacement (AVR) with a 23 mm mechanical valve + double coronary artery bypass (saphenous to ADAp and saphenous to ACDp) was performed, and samples of the aortic root were sent to pathological anatomy.
+The patient had a favourable postoperative evaluation, with no complications and a control transthoracic echocardiogram with a normofunctioning aortic valve and left ventricular ejection fraction (LVEF) of 50%, with no new episodes of precordial pain and was discharged home 7 days after surgery, with early clinical control in cardiology outpatient clinics.
+A few weeks later, the results of the pathological anatomy showed a chronic inflammatory infiltrate with congestive blood vessels accompanied by haemorrhagic areas suggestive of active aortitis.
+The excisional biopsy of the valve showed extensive sclerosis and abundant areas of myxoid degeneration, corresponding to scar tissue.
+
+DIAGNOSIS
+Acute non-infectious aortitis with NSTEMI secondary to involvement of the coronary ostia.
+Severe aortic insufficiency.
+Aortic valve replacement and double coronary artery bypass grafting.

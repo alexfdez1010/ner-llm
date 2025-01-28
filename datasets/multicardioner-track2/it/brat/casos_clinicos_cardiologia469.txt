@@ -1,0 +1,31 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Presentiamo un uomo di 49 anni, senza precedenti allergie, che ha consultato il pronto soccorso per una condizione compatibile con una reazione allergica.
+
+Anamnesi
+Fattori di rischio cardiovascolare: fumatore di 15 sigarette al giorno. Nessuna ipertensione, diabete o dislipidemia. Nessuna storia cardiologica nota.
+Come altra anamnesi, gli è stata diagnosticata una BPCO moderata: spirometria: FVC 3,27 L ( 68 %) FEV1 1,90 l ( 51 %), FEV1 % 58 % disturbo ostruttivo moderato. Volumi: TGV 5,51 L (147 %), TLC 8,44 L (116 %), RV 4,76 L (204 %) RV/TLC 56 %). Iperinflazione con intrappolamento dell'aria. DLCO 27/88 (91 %). Trattamento cronico con inalatori: tiotropio 1 inalazione ogni 24 ore, budesonide/formoterolo 1 inalazione ogni 12 ore e salbutamolo al bisogno.
+
+Malattia attuale
+Il paziente è vittima di una caduta accidentale, che lo colpisce al fianco e al braccio destro, e decide di assumere l'analgesia abituale (Nolotil). Inizia quindi ad accusare prurito, eruzione cutanea generalizzata e dispnea molto intensa. Viene portato in ambulanza al pronto soccorso dell'ospedale.
+Il paziente è arrivato al pronto soccorso con grandi difficoltà respiratorie, per cui è stato iniziato un trattamento immediato con corticosteroidi, salbutamolo e antistaminici, con un significativo miglioramento dei sintomi clinici e della saturazione di ossigeno.
+Quando il paziente è stato in grado di parlare (dopo il miglioramento della dispnea), ha riferito di aver iniziato con un dolore toracico di intensità 10/10 ed è stato eseguito un ECG.
+
+Esame fisico
+Febbrile (36,8°C). Pressione 135/90, FC 80, eupnea (dopo il trattamento), eruzione cutanea su viso e tronco. AC: RsCsRs senza soffi AP: CVM, alcuni rantoli espiratori isolati (dopo il trattamento). Addome morbido, non dolente, senza masse o megaliti. EEEII senza edema e con pulsazioni pediatriche positive.
+
+ESAMI COMPLEMENTARI
+Esami di laboratorio all'ammissione: biochimica: glucosio 202 mg/dl, urea 25 mg/dl, creatinina 0,87 mg/dl, ione sodio 140 mmol/l 136 - 145, alanina aminotransferasi 8 U/l, bilirubina totale < 1,0 mg/dl. Emocromo: globuli rossi 4.78 x10^6/μL, emoglobina 16.7 g/dl, ematocrito 47.5 %, V.C.M 99.4 fl, H.C.M 34.9 pg, C.H.C.M. 35.2 g/dl, R.D.W. (C.V.) 15,9 %, leucociti 12,07 x10^3 /ul, neutrofili 7,01 x10^3 /μL, neutrofili % 58,1 %, linfociti 4,35 x10^3/μL, linfociti % 36,0 %, monociti 0,60 x 10^3/μL, monociti % 5,0 %, eosinofili 0,08 x10^3/μL, eosinofili % 0,7 %, basofili 0,03 x10^3/μL, basofili % 0,2 %, granulociti immaturi 0,04 x10^3/μL, granulociti immaturi % 0,30 %, piastrine 241 x10^3/μL. V.P.M. 11,6 fl. Coagulazione: T. protrombinico 10,70 sec. T. protrombinico (%) 101,0 % T. protrombinico (rapporto) 0,99. T. di protrombina parziale 28,50 sec. Fibrinogeno derivato 447 mg/dl. I.N.R. 0,99.
+ECG d'emergenza: innalzamento del segmento ST di V3-V6 e della faccia inferiore.
+Radiografia del torace: nessun segno di HF. Nessuna linea di pneumotorace.
+Frattura dell'ottavo arco costale destro.
+Angiografia coronarica: discendente anteriore: stenosi del 75% nel terzo prossimale con flusso TIMI 3 e buon letto distale. Stenosi del 90% nel terzo distale con flusso TIMI
+Durante il ricovero, il paziente rimane asintomatico per angina e dispnea, con dolore meccanico alle costole legato a una frattura dell'ottavo arco costale.
+Il paziente è stato dimesso a casa ed è stato richiesto un consulto con l'Allergologia per completare gli studi. È stato eseguito un test cutaneo che è risultato positivo, portando a una diagnosi di ipersensibilità di tipo I (immediata, IgE-mediata) al metamizolo (FANS derivato dal pirazolone). Inoltre, questo meccanismo è stato riaffermato in vitro, con l'induzione dell'attivazione dei basofili in risposta alla stimolazione del metamizolo.
+
+DIAGNOSI
+Sindrome coronarica acuta (ACS) con sopraslivellamento ST (STEACS) nel contesto di una reazione anafilattica in un paziente con coronaropatia a 1 vaso: sindrome di Kounis di tipo II.
+Allergia al metamizolo (Nolotil).
+PTCA + 2 STENTI FARMACOATTIVI in pAD.
+LVEF 45%.
+Frattura 8 arco costale destro.

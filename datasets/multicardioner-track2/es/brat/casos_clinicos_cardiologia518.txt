@@ -1,0 +1,17 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+HTA. Dislipemia. Fibrilación auricular paroxística en tratamiento con ACO.
+Diagnosticada de tumor vesical, realizada RTU por servicio de Urología. En seguimiento ambulatorio. Portadora desde hace 2 meses de marcapasos definitivo DDDR por enfermedad del nodo sinusal diagnosticada a raíz de episodio sincopal. Electrodo de fijación activa.  Enfermedad actual Ingresa inicialmente en Neumología por clínica de disnea de esfuerzo, astenia y dolor torácico tipo pleurítico.
+
+Exploración física
+TA 110/60 mmHg. FC 90 lpm. SatO2 98 % con gafas nasales a 2 l/min. Auscultación cardiaca: R1 y R2 rítmicos y regulares, sin soplos. Ausculatación pulmonar: hipoventilación en campo medio e inferior de hemitórax izquierdo. Abdomen: no doloroso, sin signos de irritación peritoneal. EEII: sin edemas. Examen neurológico: funciones conservadas.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal a 75 lpm, BRDHH, HBAS. T negativas cara inferior y lateral. Analítica: leucocitos 6.800/uL con 63,7 % de neutrófilos, Hb 11,5 g/dL, Hto: 33,8 %, plaquetas 255.000/uL, urea 23 mg/dL, creatinina 0,91 mg/dl, Na 142 mEq/L, K 4,3 mEq/L. Radiografía de tórax: portadora de marcapasos bicameral. Derrame pleural izquierdo de importante cuantía. Ecocardioscopia: VI de dimensiones normales. FEVI conservada. Sin aparentes alteraciones segmentarias de la contractilidad. Cavidades derechas normales con contractilidad visual conservada. Sin valvulopatías significativas. Ausencia de derrame pericárdico. Tomografía computarizada (TC) de tórax: marcapasos bicameral con cables en aurícula y ventrículo derechos. Se confirma perforación del ápex del ventrículo derecho por el electrodo ventricular, cuyo extremo se sitúa unos 4 cm por fuera del contorno cardiaco. Existe pequeño hematoma en el seno de la grasa cardiofrénica. No existe derrame pericárdico. Abundante derrame pleural izquierdo, de densidad elevada, compatible con hemotórax. No se identifica neumotórax. Atelectasia pasiva parcial de LSI y completa de LII.
+
+EVOLUCIÓN
+A las 24 horas de su ingreso presenta mareo e inestabilidad postural sin pérdida de consciencia y dolor torácico de características pleuríticas, por lo que se nos solicita valoración. Se lleva a cabo revisión del dispositivo marcapasos, objetivando fallo de sensado y de estimulación de electrodo ventricular. Ecocardioscopia sin derrame pericárdico. A pesar de la ausencia de este último, debido a la sospecha de perforación miocárdica por electrodo ventricular se solicita TC torácico urgente donde se confirma el diagnóstico. La paciente es intervenida de urgencia en quirófano, retirándose el electrodo ventricular de forma percutánea con recolocación en TSVD, comprobando correctos umbrales, sensado e impedancia; así como implantándose en el mismo procedimiento el drenaje torácico respectivo. La evolución fue favorable, con resolución del hemotórax, correcto funcionamiento del dispositivo marcapasos y asintomática al alta.
+
+DIAGNÓSTICO
+Perforación miocárdica tardía de ápex de VD por electrodo de marcapasos. Reimplante de electrodo ventricular en TSVD. Hemotórax secundario resuelto al alta.

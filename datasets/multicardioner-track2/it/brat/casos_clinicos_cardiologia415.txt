@@ -1,0 +1,33 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+BACKGROUND:
+Paziente di 47 anni, senza allergie note.
+Nessuna storia personale di interesse.
+Anamnesi familiare di padre con infarto miocardico acuto (IMA) > 70 anni.
+
+MALATTIA ATTUALE:
+Precedentemente asintomatico, soffre di un episodio di palpitazioni, con sensazione di vertigine, rilassamento sfinterico, senza crisi tonico-cloniche, morso della lingua e perdita di coscienza. All'arrivo della 061, l'elettrocardiogramma (ECG) ha mostrato una fibrillazione ventricolare (VF), che ha richiesto tre defibrillazioni per ripristinare il ritmo cardiaco e il livello di coscienza. Il successivo ECG ha mostrato una tachicardia ritmica con QRS stretto a 150 bpm con innalzamento del tratto ST da V1 a V4 sul lato laterale e una diminuzione sul lato inferiore. È stato attivato il codice di infarto ed è stato eseguito un cateterismo cardiaco con LAD che mostrava una lieve stenosi prossimale e una stenosi del 40% a livello del segmento medio. In conclusione, non vi erano lesioni coronariche significative. È stato deciso il ricovero in terapia intensiva (ICU).
+
+ESAME FISICO:
+All'arrivo in terapia intensiva, il paziente era cosciente e orientato. Eupnea a riposo. Auscultazione cardiaca: ritmica, senza soffi. Auscultazione polmonare: normoventilata. Nessun segno congestizio.
+
+ESAMI COMPLEMENTARI
+ECG: ritmo sinusale, BRD e innalzamento del punto J e del tratto ST anterosettale che si normalizza in evoluzione.
+ANALISI: biochimica: glucosio 94 mg/dl, emoglobina glicata 5,8%, urea 40 mg/dl, creatinina 0,94 mg/dl, acido urico 5,2 mg/dl, trigliceridi 138 mg/dl, colesterolo totale 157 mg/dl, HDL 37 mg/dl, LDL 92 mg/dl, Apo A1 121 mg/dl, Apo B 82,6 mg/dl, sodio 138 mEq/l, potassio 4,3 mEq/l, AST 19 U/l, ALT 29 U/l, GGT 127 U/l, FA 102 U/l, proteinogramma normale. Marcatori cardiaci: troponina I 0,03 ng/ml, mioglobina 20,9 ng/ml, pro-BNP 430,9 pg/ml. Funzione tiroidea: TSH 3,37 mIU/l, T4 0,83 ng/dl. Emocromo: globuli rossi 4,55 mill/mm3, emoglobina 13,8 g/dl, ematocrito 39,8%, MCV 87,50 fl, leucociti 9200/mm3 (N 66,2%, L 18,2%), piastrine 242.000/mm3.
+Coagulazione: INR 1,07, attività protrombinica 90%.
+CORONAROGRAFIA (23/04/18): accesso radiale destro (6F): dominante destra. Arterie coronarie senza stenosi significative. Flusso coronarico normale. Tronco comune: nessuna lesione.
+Discendente anteriore: lieve stenosi prossimale. Stenosi del 40% nel segmento medio. Circonflesso: nessuna stenosi. Destra: nessuna stenosi. Ventricolografia: funzione sistolica globale corretta. Nessuna alterazione segmentale. Si osserva un'insufficienza mitralica (MI) che non è quantificabile con l'EV durante l'iniezione di contrasto, ma potrebbe essere significativa. Valutazione mediante ecocardiografia.
+ECOCARDIOGRAMMA (24/04/18): ventricolo sinistro (LV) non dilatato né ipertrofico. Funzione sistolica globale conservata o corretta, senza difetti segmentali. Atrio sinistro di dimensioni al limite superiore della normalità, così come la radice aortica. Dilatazione dell'RV. Impressione di iperplasia del muscolo pailare e spessore della parete fino a 8 mm. Assenza di insufficienza tricuspidale (TI). Può essere presente una muscolatura anomala. Cava inferiore non dilatata e con collasso inspiratorio maggiore del normale aortico. Mitrale normale senza rigurgito. Schema diastolico normale. Arteria polmonare con lievissimo aumento del diametro. Flusso polmonare di tipo I fino al piano valvolare, dove appare come tipo 2, con tempo di accelerazione ridotto. Lieve ipertensione arteriosa polmonare (PAH).
+RM: LV di dimensioni normali, con funzione sistolica normale. Lieve dilatazione del ventricolo destro (RV), con funzione conservata. Muscolo accessorio papillare nel seno ventricolare. Nessuna area focale di enhancement miocardico tardivo. Gli atri non sono dilatati.
+RADIOGRAFIA TORACE (dopo l'impianto di un defibrillatore cardioverter impiantabile sottocutaneo [ICD]): nessuna alterazione degna di nota.
+
+EVOLUZIONE CLINICA
+Il paziente ha avuto un'evoluzione favorevole in terapia intensiva, rimanendo asintomatico e tollerando basse dosi di beta-bloccanti. È stato eseguito un ecocardiogramma che ha mostrato una funzione LV normale.
+Dilatazione della RV con impressione di iperplasia dei muscoli papillari e parete anteriore spessa fino a 8 mm, leggero aumento del diametro dell'arteria polmonare (lieve PAH).
+Si è deciso di impiantare un ICD sottocutaneo, dopo uno screening preliminare e dopo aver eseguito un test alla flecainide per il sospetto di una sindrome di Brugada sottostante, che è stato confermato. La paziente è stata dimessa con una diagnosi di arresto cardiorespiratorio (CRP) dovuto a VF recuperata dalla sindrome di Brugada, in attesa dei risultati del test genetico.
+
+DIAGNOSI
+CRA dovuta a FV.
+Arterie coronarie prive di lesioni significative.
+Sindrome di Brugada (in attesa dello studio genetico).
+Impianto di ICD sottocutaneo.

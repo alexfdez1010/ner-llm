@@ -1,0 +1,29 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+La paziente è una donna di 42 anni con ipertensione in trattamento con enalapril/idroclorotiazide 20/12,5 mg/die, dislipidemia in trattamento con atorvastatina 20 mg/die ed ex fumatrice di 10 pacchetti/anno.
+Storia di lupus eritematoso sistemico (LES) diagnosticato all'età di 27 anni in seguito a interessamento cutaneo e renale, in trattamento cronico con prednisone a basso dosaggio (5 mg/die). Nefropatia lupica di classe IIIB, con biopsia compatibile con glomerulonefrite segmentaria e focale. Anticorpi antifosfolipidi positivi (anti-cardiolipina IgG, anti-cardiolipina IgM, anti-beta-2 glicoproteina-I e lupus anticoagulant positivo). Non ci sono precedenti di trombosi o problemi ostetrici e ginecologici.
+Ha consultato il Pronto Soccorso per due giorni di sintomi consistenti in parestesia, dolore e freddezza al piede destro che peggioravano con il decubito supino e claudicazione della deambulazione dopo 50 m. Ha avuto anche un episodio di vertigini e giramenti di testa. Inoltre, episodio di vertigini e sudorazione senza dolore toracico evidente o altri sintomi.
+All'esame era in buone condizioni generali. Eupnea. Pressione 115/75 mmHg, FC 75 bpm. Auscultazione cardiaca ritmica, senza soffi o extratoni. Auscultazione polmonare con murmure vescicolare conservato. Arto inferiore destro con polso femorale di grado 3, polso popliteo di grado 3, senza pulsazioni distali. Pallore e freddezza del piede destro, riempimento venocapillare molto lento rispetto al controlaterale. Mobilità e sensibilità conservate. Assenza di lesioni trofiche.
+
+ESAMI COMPLEMENTARI
+ECG: ritmo sinusale a 91 bpm. PR normale. QRS stretto, asse normale. Onda Q in V1-V5 con onda T negativa in V1-V2, appiattita in V3-V6.
+Ecodoppler dell'arto inferiore destro: occlusione della seconda porzione dell'arteria poplitea con ricanalizzazione nella tibiale posteriore.
+Ecocardiogramma transtoracico: ventricolo sinistro non dilatato, con spessore di parete normale. Discinesia apicale e acinesia dei terzi distali di tutte le facce; ipocinesia del terzo medio del setto anteriore e della faccia anteriore. LVEF conservata (Simpson biplano 55%). Occupazione dell'apice da parte di una massa sessile e crescentiforme; prima possibilità diagnostica: trombo intraventricolare.
+Valvola mitrale con una massa arrotondata di circa 1 x 1 cm attaccata al lato atriale dell'anulus posteriore e alla base del foglietto posteriore, causando un'insufficienza molto eccentrica diretta verso il setto interatriale.
+Il ventricolo destro non è dilatato, con una normale funzione sistolica globale. Nessuna altra cardiopatia valvolare.
+Assenza di versamento pericardico.
+Ecocardiogramma transesofageo: valvola mitrale con foglietti sottili, apertura normale. Si osserva un'immagine tondeggiante di ecogenicità omogenea e bordi ben definiti, aderente al lato atriale della porzione posteriore dell'anulus e alla base del foglietto posteriore, a livello della giunzione dei festoni P2 e P3, con un diametro massimo di 1,12 cm, che indica un'insufficienza II/IV.
+TC coronarica: dissezione trombizzata del segmento medio dell'arteria discendente anteriore, con coinvolgimento dell'origine del secondo ramo diagonale. Trombo intraventricolare sinistro.
+Angiografia coronarica: dominanza destra. Malattia di un vaso con lunga lesione nel terzo medio dell'arteria discendente anteriore compatibile con dissezione, vaso distale con flusso TIMI 3.
+
+EVOLUZIONE
+È stata posta una diagnosi iniziale di ischemia subacuta dell'arto inferiore destro secondaria a trombosi infrapoplitea, correlata alla sindrome da antifosfolipidi. Il trattamento medico con anticoagulazione e prostaglandine è stato avviato con una buona risposta. Tuttavia, l'ECG ha mostrato un QS anterosettale, che ha portato a un ecocardiogramma transtoracico con risultati di alterazioni della contrattilità compatibili con un infarto anteriore, un trombo intraventricolare apicale e una massa arrotondata aderente alla valvola mitrale.
+Un ecocardiogramma transesofageo con emocolture negative ha confermato la diagnosi di endocardite emboligena di Libman-Sacks.
+Inoltre, la TC e l'angiografia coronarica hanno mostrato una lunga lesione nella LAD media compatibile con una dissezione coronarica spontanea trombizzata.
+Lo studio è stato completato con una risonanza magnetica cerebrale che ha mostrato piccole lesioni lacunari ischemiche in entrambi gli emisferi cerebrali e un aneurisma localizzato alla biforcazione della carotide interna sinistra.
+È stato eseguito un trattamento aggressivo della riacutizzazione del LES con metilprednisolone a impulsi, rituximab, micofenolato mofetile e idrossiclorochina solfato e un trattamento medico delle trombosi con anticoagulazione. Alla dimissione il paziente era asintomatico ed è stato iniziato un trattamento con basse dosi di beta-bloccanti.
+Il follow-up successivo ha mostrato una buona evoluzione: LV con funzione sistolica conservata, nessun nuovo episodio di ischemia e risoluzione dell'endocardite di Libman-Sacks con scomparsa della massa.
+
+DIAGNOSI
+Riacutizzazione acuta del lupus eritematoso sistemico:
+Endocardite di Libman-Sacks emboligena. Trombo ventricolare sinistro. Ischemia infrapoplitea subacuta dell'arto inferiore destro.
+Dissezione coronarica spontanea dell'arteria coronaria discendente anteriore. Infarto miocardico anteriore evoluto con funzione ventricolare globale conservata.

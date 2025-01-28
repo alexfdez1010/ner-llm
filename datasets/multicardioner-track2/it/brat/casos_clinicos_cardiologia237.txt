@@ -1,0 +1,49 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Nessuna allergia nota ai farmaci.
+Fattori di rischio cardiovascolare: fumo e consumo occasionale di alcol (carico molto basso). Nessun altro uso di farmaci. Nessuna ipertensione arteriosa (AHT), nessuna dislipidemia, nessun diabete mellito.
+Anamnesi cardiologica: nessuna storia cardiologica nota, nessuna storia familiare di malattie cardiache o di morte improvvisa in famiglia.
+Interventi chirurgici: tonsillectomia.
+Nessun trattamento abituale.
+
+Malattia attuale
+Un paziente maschio di 36 anni è arrivato al pronto soccorso dal suo centro di salute per palpitazioni e sincope, con un elettrocardiogramma (ECG) che mostrava una tachicardia irregolare con QRS largo.
+Dopo essersi alzato rapidamente dal divano, il paziente ha riferito l'improvvisa comparsa di palpitazioni, senza vertigini iniziali. Successivamente, dopo circa un minuto, si è recato in bagno per urinare e, dopo aver urinato, ha riferito una rapida sensazione di vertigine ed è caduto a terra, con recupero spontaneo della coscienza (ha riferito circa 10 minuti di perdita di coscienza, era solo in casa, senza testimoni). Dopo l'episodio ha riferito solo palpitazioni, negando dolore al petto, dispnea o altri sintomi. Data la persistenza delle palpitazioni e dopo essersi ripreso dalla sincope, ha deciso di rivolgersi al suo centro di salute ed è stato indirizzato al nostro centro. Il paziente nega l'uso di sostanze tossiche. Ha riferito 4 episodi simili di palpitazioni legate a sforzi fisici per i quali non si era mai rivolto prima, auto-limitati, senza sincope.
+
+Esame fisico
+All'arrivo al pronto soccorso, buone condizioni generali, colorito normale, normoidratato, eupneico a riposo.
+Pressione arteriosa (BP) 147/68 mmHg. Frequenza cardiaca (FC) 180-210 bpm. SpO2 (FiO2 21%) 99%.
+Esame neurologico: cosciente e orientato, vigile, collaborativo. Nessuna focalità neurologica.
+Auscultazione cardiaca e polmonare: suoni tachicardici irregolari, nessun soffio. Mormorio vescicolare (CVM) conservato, senza rumori aggiunti.
+Addome morbido, depressibile, senza masse o megaliti. Nessun dolore alla palpazione. Nessun segno di irritazione peritoneale.
+Arti inferiori: nessun edema, nessun segno di trombosi venosa profonda (TVP).
+
+
+ESAMI COMPLEMENTARI
+
+ECG:
+ECG iniziale all'arrivo al pronto soccorso: tachicardia irregolare a QRS largo con risposta ventricolare approssimativa tra 180-210 bpm. Occasionalmente sono presenti battiti a QRS stretto.
+ECG dopo il CVE: ritmo sinusale a 95 bpm, PR 100 ms, asse 60o, QRS 120 ms con onda delta positiva nella parte inferiore e da V3 a V5. Nessuna anomalia della ripolarizzazione. ECG alla dimissione: ritmo sinusale 80 bpm. PR 150 msg. QRS stretto senza alterazioni della ripolarizzazione.
+
+Radiografia del torace: indice cardiotoracico (CTI) nella norma, nessuna condensazione o versamento pleurico, nessun segno di pneumotorace.
+
+Esami di laboratorio:
+Emocromo: globuli rossi 5,08 10*12/l, emoglobina 15,6 g/dl, ematocrito 47%, leucociti * 11,6 10*9/l, neutrofili 50,5%, linfociti 38,3%, piastrine 295 10*9/l.
+Biochimica: glucosio * 111 mg/dl, sodio 139 mEq/l, potassio 3,6 mEq/l, cloro 102 mEq/l, GPT 39 U/l, urea 23,1 mg/dl, creatinina 0,87 mg/dl, proteina C-reattiva 0,06 mg/dl.
+Emostasi basale: tempo di protrombina 10,3 sec; I. Quick 99; INR 1,02; aPTT 25,9 sec.
+Ecocardiogramma: ventricolo sinistro con diametri e funzione sistolica globale conservati. Assenza di alterazioni della contrattilità segmentale a riposo. Insufficienza mitralica banale. Radice aortica di 36 mm, senza valvulopatie. Ventricolo destro di dimensioni e funzione conservate. Minima insufficienza tricuspidale che consente di stimare una PAP di circa 30 mmHg. Vena cava inferiore normale.
+Studio elettrofisiologico (EEF): nel sospetto ECG di una possibile via accessoria laterale sinistra, è stato ottenuto l'accesso per via aortica retrograda e un catetere di ablazione è stato posizionato nell'anulus mitralico laterale, ottenendo precocità fino a -10 ms rispetto all'onda delta e al QS in unipolare, eseguendo 3 applicazioni di RF fino a 56 oC di temperatura con cessazione della conduzione anterograda e retrograda della via. Con st. programmato. A programmato (600/260), si induce una tachicardia ortodromica da un'altra via accessoria posteriore sinistra e si esegue l'ablazione durante la tachicardia, osservando la cessazione della tachicardia con una V senza salita ad A. Successivamente, non si osserva alcuna conduzione retrograda eccentrica e la tachicardia non viene indotta. Il risultato è stato mantenuto dopo 20 minuti di attesa e la procedura è stata interrotta.
+
+
+EVOLUZIONE CLINICA
+All'arrivo al Pronto Soccorso del nostro centro, visti i risultati clinici ed ECG del centro sanitario, il paziente è stato trasferito direttamente all'unità di terapia critica. È stato eseguito un ECG con tachicardia irregolare persistente a QRS largo e, data la stabilità emodinamica e la buona tolleranza clinica alla tachicardia, è stata decisa la cardioversione farmacologica con procainamide 200 mg i.v. senza cessazione della tachicardia. Successivamente, il paziente è stato sedato con 2 mg di midazolam e 6 mg di etomidato e la cardioversione elettrica (ECV) è stata eseguita con uno shock da 200 J. Il paziente è andato in ritmo sinusale a 75 bpm. L'ECG post-CVE ha mostrato ritmo sinusale con PR breve con onda delta + nelle derivazioni inferiori e laterali.
+Alla luce degli ECG, il paziente è stato etichettato come affetto da fibrillazione atriale sincopale preeccitata ed è stato ricoverato in cardiologia con monitoraggio continuo per completare lo studio e il trattamento.
+Durante la degenza in cardiologia il paziente è rimasto asintomatico e senza eventi aritmici al monitoraggio. Gli studi morfologici sono stati completati con l'ecocardiografia transtoracica (TTE), che non ha mostrato alterazioni significative. La convenienza di eseguire l'ablazione delle vie accessorie è stata spiegata al paziente, così come i rischi di non farlo, e il paziente ha accettato la procedura. Nell'EPS sono state individuate 2 vie accessorie (laterale sinistra e posteriore sinistra) ed entrambe sono state efficacemente ablate.
+In assenza di complicazioni 24 ore dopo la procedura, il paziente è stato dimesso a casa con un ECG senza segni di preeccitazione.
+Nei successivi controlli ambulatoriali, il paziente è rimasto asintomatico e non è stata osservata alcuna preeccitazione negli ECG di controllo.
+
+DIAGNOSI
+Fibrillazione atriale (FA) sincopale preeccitata.
+Ablazione della via accessoria laterale sinistra e posteriore sinistra.
+Frazione d'eiezione del ventricolo sinistro (LVEF) normale con un banale rigurgito mitralico (MR).

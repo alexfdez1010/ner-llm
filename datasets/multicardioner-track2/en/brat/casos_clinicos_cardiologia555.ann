@@ -1,0 +1,21 @@
+T33	FARMACO 291 300	docetaxel
+T34	FARMACO 302 313	oxaliplatin
+T35	FARMACO 315 325	leucovorin
+T36	FARMACO 329 341	fluorouracil
+T39	FARMACO 458 468	metamizole
+T40	FARMACO 480 494	metoclopramide
+T41	FARMACO 505 516	paracetamol
+T42	FARMACO 525 533	tramadol
+T43	FARMACO 544 557	dexamethasone
+T44	FARMACO 568 578	omeprazole
+T46	FARMACO 633 647	5-fluorouracil
+T1	FARMACO 1375 1388	nitroglycerin
+T47	FARMACO 1756 1770	5-fluorouracil
+T2	FARMACO 1792 1805	nitroglycerin
+T48	FARMACO 4628 4632	5-FU
+T49	FARMACO 4711 4721	irinotecan
+T50	FARMACO 4806 4826	acetylsalicylic acid
+T51	FARMACO 4841 4851	nifedipine
+T52	FARMACO 4865 4887	isosorbide mononitrate
+T53	FARMACO 4904 4915	fluvastatin
+T54	FARMACO 4974 4987	5-fluoruracil

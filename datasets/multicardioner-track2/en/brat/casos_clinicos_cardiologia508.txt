@@ -1,0 +1,37 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+54-year-old man with no toxic habits and a history of hypertension and dyslipidaemia. No diabetes mellitus. Fracture of 5th metacarpal. Reactive depressive syndrome. Admitted in March 2017 for NSTEACS without coronary lesions in coronary angiography, being documented atrial fibrillation with subsequent transition to RS. Preserved systolic function.
+On treatment on admission with: atorvastatin 40 mg, lorazepam 1 mg, bisoprolol 2.5 mg, pantoprazole 40 mg, adiro 100 mg, orfidal 1 mg, escitalopram 10 mg.
+
+Present illness
+On the day of his admission, he came to the emergency department for an episode of oppressive chest pain and rapid palpitations of sudden onset with irradiation to the neck. The symptoms were precipitated by an argument. On arrival, a wide QRS rhythmic tachycardia at 237 bpm was observed. He was assessed in the emergency department and underwent electrical cardioversion to stable sinus rhythm. He was admitted for further investigation and treatment.
+
+Physical examination
+On arrival at the ED: blood pressure 101/65, heart rate 190 bpm, oxygen saturation 100. Conscious, oriented, normal colour and normohydrated.
+Eupneic. No jugular ingurgitation. Pulmonary auscultation: normoventilation, no extra sounds. Cardiac auscultation: rhythmic tones, tachycardic.
+Abdomen soft and depressible, not painful on palpation, without signs of peritoneal irritation. Peristalsis preserved. Lower extremities: no oedema or signs of DVT.
+
+COMPLEMENTARY TESTS
+ECG on admission: wide QRS tachycardia. QRS 0.24. QS in I. BRD morphology. R in V1 to V4. R R" aVR QRS in V6 with rS morphology. Visualisation of p" without dissociation at > 80 ms of preceding QRS.
+Discharge ECG: sinus rhythm at 55 bpm, narrow QRS, no repolarisation abnormalities.
+Chest X-ray: preserved silhouette. No congestive signs.
+Chest X-ray at discharge: automatic defibrillator with distal end of subcutaneous electrode in chest wall. Surgical staples.
+CBC: Biochemistry: glucose 107 mg/dl, urea 37 mg/dl, creatinine 1.04 mg/dl, uric acid 5.00 mg/dl, triglycerides 135 mg/dl, total cholesterol 105 mg/dl, HDL 40 mg/dl, LDL 38 mg/dl, sodium 137 mEq/l, potassium 5.0 mEq/l, CK 56 U/L, FA 125 U/L, GGT 101 U/L, AST 29 U/L, ALT 54 U/L. Cardiac markers (peak numbers): troponin I 0.23 ng/ml. Thyroid function: TSH 3.65 mIU/l, T4 0.65 ng/dl. -CBC: red blood cells 4.67 mill/mm3, haemoglobin 14.8 g/dl, haematocrit 43 %, MCV 92 fl, leukocytes 6.6/mm3 (59 % N, 28 % L), platelets 150 /mm3.
+
+
+Echocardiogram: LV dimensions at the upper limit of normality (taking into account body surface area). Parietal thickness preserved.
+Global systolic function preserved (57% by Simpson ́s biplanar) and GLS -19%. No clear contractile asymmetries. No conclusive data suggesting LVOT elevation. LA slightly dilated (biplanar volume 36 ml/m2). Normal right chambers. Aortic root of normal size. MV and VAo without alterations.
+I do not detect IT adequately to estimate PAPs. Absence of pericardial effusion or intracavitary masses by this access route.
+Cardiac magnetic resonance (CMR): acute myocarditis (LV) with oedema (subepicardial linear hypersignal in middle and apical inferior segments and middle lateral segments) and fibrosis (subepicardial linear late enhancement in basal and middle anterior segments, basal and middle lateral segments, middle and apical inferior segments and middle inferoseptal segment). Moderately dilated left ventricle (DTD: 60 mm); with normal systolic function: (EF 52 %). Normal RV function. Atria not dilated. Mild AI.
+Electrophysiological study: no significant findings. No evidence of accessory pathway or double nodal pathway. Programmed stimulation does not induce ventricular arrhythmias.
+
+EVOLUTION
+Since admission, the patient had a favourable evolution with no new episodes of arrhythmias.
+CMR was performed which showed the existence of myocardial oedema and findings suggestive of acute myocarditis. The case was discussed with the
+Arrhythmia Unit, which decided to implant a subcutaneous ICD. The EMBLEM MRI model subcutaneous ICD was implanted without complications or incidents. The implanted system was checked for proper functioning. Tolerates ambulation without limitations.
+Tension levels tended to be on the low limit, so beta-blocker and ARAII treatment was adjusted, with good tolerance, asymptomatic.
+In a situation of clinical stability it was decided to discharge him from hospital.
+
+DIAGNOSIS
+Sustained ventricular tachycardia in the context of acute myocarditis.

@@ -1,0 +1,52 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Paciente de 60 años que acude a Urgencias el 26/08/2016 por presentar dolor en miembro inferior derecho
+
+Antecedentes personales
+Intolerancia a amoxicilina-clavulánico.
+Hipertensión arterial en tratamiento farmacológico con mal control.
+Dislipemia en tratamiento farmacológico.
+Síndrome ansioso.
+
+Antecedentes cardiológicos: fibrilación auricular paroxística diagnosticada el 01/08/2016 con CHA2DS2-VASc = 2 y HAS-BLED = 1. Se inició tratamiento con betabloqueantes y acenocumarol. Ecocardiograma: FEVI 60 %. Dilatación de AI. Estenosis mitral ligera. Episodio de insuficiencia cardiaca leve en contexto de FA con respuesta ventricular rápida el día 13/08/2016 que fue tratado en Urgencias con diuréticos y digoxina.
+
+Enfermedad actual
+La paciente acude a urgencias por dolor, frialdad e impotencia funcional de miembro inferior derecho.
+
+Exploración física
+TA 178/99 mmHg, FC 109 lpm, SatO2 99 %.
+Auscultación cardiaca: ruidos arrítmicos a 110 lpm con soplo sistólico II/VI con 2R conservado.
+Auscultación pulmonar: mínimos crepitantes bibasales.
+Extremidad inferior derecha: disminución de pulso y frialdad en MID con dolor intenso a la palpación.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica sanguínea: urea 24 mg/dl, creatinina 0,89 mg/dl, Na 139 mmol/L, K 3,9 mmol/L, Hb 15,8 gr/dL, Hto 45,8 %, plaquetas 396.000, INR 1,47. Dímero D > 5000 ug/L.
+ECG: fibrilación auricular con respuesta ventricular rápida a 120 lpm. Rectificación del segmento ST con datos de sobrecarga de VI y onda T negativa en DIII y aVF.
+Radiografía de tórax: cardiomegalia. Hilios congestivos. Redistribución vascular.
+No condensaciones ni pinzamiento de senos costofrénicos.
+Ecografía Doppler MID: se observa flujo sanguíneo disminuido monofásico en la arteria femoral superficial con presencia de material ecogénico que rellena parcialmente la luz de la arteria. El flujo disminuye aún más en intensidad en las arterias distales sin que logremos detectarlo en las arterias tibial posterior distal y pedia anterior. Conclusión: isquemia arterial de MID por trombosis.
+Ecografía Doppler MII: ocupación de la a. Poplítea izquierda por material ecogénico no en su totalidad sin flujo en estudio Doppler y con morfología postestenótica a nivel de arteria tibial posterior. Conclusión: isquemia arterial en arteria poplítea.
+Tomografía computarizada craneal/perfusión: ictus isquémico agudo en territorio de la ACM izquierda secundario a oclusión carotídea de ACCI, ACI, ACMI-M1 y
+ACA-A1 de perfil cardioembólico con mismatch 30 %.
+Angio-TC: trombo flotante a nivel de cayado aórtico distal a la salida de la ACII que ocluye el origen de la arteria subclavia izquierda.
+Ecocardiografía: estenosis mitral moderada de aspecto reumático. Severa dilatación de aurícula izquierda. FEVI 60 %. Esclerosis aórtica.
+
+EVOLUCIÓN
+Dado que la paciente presenta dolor y frialdad en miembro inferior derecho (MID), se realiza eco Doppler de miembros inferiores que confirma isquemia arterial aguda por oclusión trombótica a nivel de arteria femoral superficial derecha. Se inicia tratamiento con heparina sódica intarvenosa y se contacta con Cirugía Cardiovascular del hospital de referencia remitiéndose a la paciente para evaluación.
+A su llegada, dado que la paciente presenta signos de isquemia aguda de toda la extremidad a pesar de la perfusión, se realiza embolectomía mecánica con disección del trípode femoral derecho y embolectomía de MID con catéter de Fogarty asociado a lavado de heparina, hemostasia y cierre.
+A las 24 horas, la paciente permanece hemodinámicamente estable y se repite ecografía Doppler de control con recuperación del flujo bifásico a nivel femoral.
+Se realiza una revisión de los INR de la paciente desde el inicio de la anticoagulación había presentado INR < 2 con tiempo en rango terapéutico de 0 %. A pesar de tener haber sufrido un evento embólico con un SAMe-TT2R2 = 2 (que ya predice que la paciente va a tener mala calidad de anticoagulación con antivitamina K), CHA2DS2-VASc = 4 y HAS-BLED = 2, se decide mantener tratamiento al alta con acenocumarol.
+El día 19/02/2017 la paciente vuelve a acudir a Urgencias por dolor, frialdad e impotencia funcional en miembro inferior izquierdo en esta ocasión con ausencia de pulso distal. Se realiza eco Doppler de MII y se evidencia isquemia arterial en arteria poplítea. Dado que la oclusión está a nivel más distal y el material ecogénico no ocluye la luz en su totalidad, se inicia perfusión de heparina sódica intravenosa. Al 5o día de ingreso (24/02/0217) la paciente presenta de forma brusca dolor y frialdad en miembro superior izquierdo y 1 hora después presenta disartria con hemiplejia de extremidades derechas. Ante la sospecha de sangrado intracraneal en contexto de perfusión de heparina sódica intravenosa, se realiza TC craneal que descarta sangrado intracraneal.
+La paciente en las horas siguientes presenta deterioro brusco del nivel de consciencia con afasia y desviación de la mirada hacia la izquierda. Ante la sospecha de ictus en territorio de arteria cerebral media izquierda (ACM), se activa el Código Ictus (NIHSS = 22) y se remite al hospital de referencia. A su llegada se realiza TC cerebral que confirma ictus isquémico agudo en territorio de ACM izquierda secundario a oclusión carotídea ACI-ACM. Pero además presenta en angio-TC trombo flotante a nivel del cayado aórtico distal a la salida de la ACCI (arteria carótida común izquierda) que ocluye la arteria subclavia.
+Dada la situación de gravedad de la paciente y que estaba en tratamiento con heparina sódica, se decide realizar trombectomía intraarterial mecánica primaria con aspiración del trombo cervical y fragmentos a nivel de ACCI-ACM. En TC de control se aprecia infarto extenso con efecto masa que mejora progresivamente los siguientes días en UCI, con mejoría de la afasia pero quedando como secuela al alta hemiplejia derecha. A nivel del MSI, presenta mejoría de la isquemia arterial recuperando pulso por lo que se decide manejo conservador. Sin embargo, a nivel del MII no se produce mejoría presentando pulso femoral y poplíteo muy débil con ausencia a nivel distal por lo que se decide realizar trombectomía arterial con disección del trípode femoral izquierdo y extracción de material trombótico a nivel femoro-poplíteo izquierdo con catéter Fogarty.
+A nivel cardiológico, la paciente inicialmente presenta signos de insuficiencia cardiaca descompensada por FA rápida que mejora con diuréticos y betabloqueo. Se realiza ecocardio y se evidencia estenosis mitral reumática moderada con dilatación severa de aurícula izquierda y FEVI normal. Se revisan todos los INR desde el alta de agosto de 2016 y solo ha presentado 2 de ellos en rango terapéutico con un TRT del 0 %.
+
+DIAGNÓSTICO
+Ictus isquémico en territorio de arteria cerebral media secundario a oclusión en tándem de ACI-ACM de perfil cardioembólico.
+Trombo flotante a nivel de cayado con oclusión de origen de arteria subclavia izquierda.
+Isquemia arterial aguda de MSI con resolución espontánea.
+Isquemia arterial aguda de MII resuelta con trombectomía mecánica con catéter de Fogarty.
+Isquemia arterial aguda de MID resuelta con trombectomía mecánica con catéter de Fogarty.
+Estenosis mitral reumática moderada con FEVI normal.
+Fibrilación auricular permanente: CHA2DS2-VASc = 4, HAS-BLED = 3, SAMe- TT2R2 = 2.
+Pobre calidad de anticoagulación con antivitamina K.
+Hipertensión arterial.

@@ -1,0 +1,22 @@
+A 20-year-old man with chest pain presented to the Emergency Department with a clinical picture of epigastric pain of approximately three hours' duration that started after eating, accompanied by vomiting, sweating and palpitations. He reported no other symptoms.
+
+History, current illness and physical examination
+The patient denied any previous infectious symptoms or other episodes similar to the present one. At the time of assessment by Cardiology the patient is asymptomatic. No known drug allergies. Smoker of 10 cigarettes/day. No toxic habits or other personal history of interest. Family history (not referred during the first assessment): Maternal grandfather with a history of pulmonary thromboembolism in relation to orthopaedic surgery and diagnosis of protein C deficiency and antiphospholipid syndrome and mother with a history of deep vein thrombosis with positive thrombophilia study for protein C deficiency.
+
+Physical examination: Blood pressure 150/90 mmHg. Heart rate 93 bpm, Ta 36 oC. Conscious, oriented and cooperative. Normal hydration, normal colour and normal depth. Facial flushing. Head and neck: No jugular venous engorgement. Carotids rhythmic and symmetrical with no murmurs. Cardiac auscultation: rhythmic, tachycardic, no murmurs or superimposed sounds. Pulmonary auscultation: Bladder murmur preserved. Lower extremities: Pulses present and symmetrical, no oedema.
+
+Complementary tests
+- CBC: Leukocytes 16300/mm3 (87.8% neutrophils). Platelets 245,000/mm3. Haemoglobin 16.6 g/dl. Coagulation normal. Triglycerides 113 mg/dl. Total cholesterol 254 mg/dl (LDL 195, HDL 36). Peak myocardial necrosis markers: CPK total 1907 U/L, CPK-MB 114 U/L, TnI 39.02 ng/ml. - Chest X-ray: No evidence of acute pleuropulmonary pathology.
+- Electrocardiogram in the emergency department.
+- Electrocardiogram at discharge.
+- Echocardiogram in the emergency department: left ventricle of normal dimensions Left ventricular ejection fraction preserved by Simpson biplane technique. However, the visual impression is of generalised hypokinesia, more marked in the apical region, determining a slight depression of the ejection fraction. No significant valvular heart disease. No evidence of pulmonary arterial hypertension. No pericardial effusion. The aortic arch and descending thoracic aorta are not correctly visualised.
+- Coronary angiography. - Stenosis of 70% of AMD at the expense of thrombus at that level. IVUS was performed which confirmed a large amount of thrombus.
+- Thromboaspiration with Hunter device was successful, leaving the artery with TIMI III flow and no residual stenosis.
+- Coagulation study: Prothrombin time: 12.9 sec. PT ratio: 1.14. Activated partial thromboplastin time: 35.1 sec (normal up to 37 sec). Fibrinogen: 523 mg/dl. Lupus anticoagulant: negative. Antithrombin III: 89% (normal 80-120%). Factor VIII: 111% (normal 80-200%). Protein C activity: 55% (normal 80-140%). Free protein S: 81% (normal 60-140%). Prothrombin gene mutation: not detected. Homocysteine: 10.4 mcmol/L (normal up to 15 mcmol/L). IgG anticardiolipin: 4.2 U/mL (normal 0-10 U/mL). IgM anticardiolipin: 3.1 U/mL (normal 0-7 U/mL).  
+
+Clinical course
+Asymptomatic for chest pain on arrival at the Emergency Department, given the evolution of the ECG and the alterations in the echocardiogram, coronary angiography was requested, with the aforementioned results in complementary tests. During his hospital stay, the patient remained asymptomatic and stable at all times. A coagulation study was carried out which confirmed the existence of protein C deficiency, so on discharge oral anticoagulation with acenocoumarol was started in addition to the medical treatment indicated as secondary prevention of ischaemic heart disease. Six months after discharge from the outpatient cardiology department, the patient was asymptomatic and adhered well to medical treatment. Given the incidental finding of pre-excitation in the baseline electrocardiogram during his hospital stay, conventional ergometry was performed which showed its almost complete disappearance during exercise, which, added to his asymptomatic status in this respect, indicated clinical follow-up without the introduction of other measures.
+
+Diagnosis
+- Ischaemic heart disease: Iamest anterior Killip I. Middle-aged mid-segment thrombosis in the context of protein C deficiency.
+- Wolff-Parkinson-White electrocardiographic pattern.

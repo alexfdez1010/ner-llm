@@ -1,0 +1,33 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+BACKGROUND:
+Ipertensione arteriosa essenziale.
+Obesità di grado II a predominanza centrale.
+Sindrome coronarica acuta non ST-elevation (NSTEACS) nell'87 e nel 98, trattata con stent convenzionale nel secondo episodio nell'arteria coronaria destra.
+Ipercolesterolemia familiare eterozigote con mutazione patogena del recettore LDL.
+Due figli con la stessa mutazione.
+Ateromatosi dei grossi vasi, con coinvolgimento della carotide rilevato mediante ecodoppler.
+Disturbo polmonare restrittivo in relazione alla sindrome da ipoventilazione da obesità.
+In attesa di studio polisonnografico.
+Nessuna allergia nota. Intolleranza alle statine, con manifestazioni cliniche di mialgie ed elevati enzimi di danno muscolare (CK).
+Trattamento precedente: acido acetilsalicilico (ASA) 100 mg, atenololo 50 mg, atorvastatina 40 mg, ezetimibe 10 mg.
+
+MALATTIA ATTUALE:
+Un uomo di 79 anni con l'anamnesi sopra descritta si è presentato al reparto di endocrinologia per una revisione del trattamento lipidico per la prevenzione secondaria dopo NSTEACS. Il paziente ha presentato una scarsa tolleranza alle statine, con dolori muscolari e livelli elevati di CK dopo aver tentato di aumentare la dose di 40 mg di atorvastatina. Nonostante la combinazione di 40 mg di atorvastatina con 10 mg di ezetimibe, il paziente presenta livelli di colesterolo LDL di 145 mg/dl (ben al di sopra del limite raccomandato di 70 mg/dl per questo gruppo di pazienti). Pertanto, viene proposto e accettato il trattamento con inibitori della proteina PCSK9, in particolare evolocumab, iniziando con una dose di 140 mg sottocute ogni due settimane.
+
+ESAME FISICO:
+Aspetto congestizio. Peso 93,5 kg. Altezza 166 cm. Indice di massa muscolare (IMC) 34 kg/m2.
+Pressione arteriosa (BP) 140/80. Auscultazione cardiaca: ritmica senza soffi. Auscultazione polmonare: ipoventilazione nelle basi. Polsi periferici presenti. Edema discreto con fovea agli arti inferiori.
+
+ESAMI COMPLEMENTARI
+Ultimo esame del sangue (22/02/2018): glucosio 101 mg/dl. Creatinina 0,79 mg/dl. GFR MDRD 6 97,50 ml/min. Urea 37 mg/dl. Acido urico 7,8 mg/dl. Sodio 141 mm/l. Potassio 4,9 mm/l. Cloro 106 mm/l.
+Calcio 9,1 mg/dl. Fosforo 3,1 mg/dl. Magnesio 1,80 mg/dl. Albumina 4,0 g/dl. Bilirubina totale 0,78 mg/dl. AST/GOT 33 U/l. ALT/GPT 44 U/l. GGT 24 U/l. Fosfatasi alcalina 54 U/l.
+Creatina chinasi (CK) 170 U/l. Colesterolo totale 102 mg/dl, colesterolo HDL 30 mg/dl, colesterolo LDL calc. 37 mg/dl, trigliceridi 174 mg/dl. Proteina C-reattiva (ultra) 2,38 mg/l. Emoglobina glicata (DCCT) 5,9%.
+ECG: ritmo sinusale a 66 bpm, PR di 180 ms, QRS stretto a 60 gradi senza alterazioni acute della ripolarizzazione.
+
+EVOLUZIONE CLINICA
+Il paziente ha iniziato il trattamento con evolocumab con livelli di colesterolo LDL di 145 mg/dl. Dopo un mese di trattamento il livello di colesterolo LDL è sceso a 26 mg/dl.
+A causa di questo brusco calo, sia il paziente che il suo medico di base decidono di sospendere evolocumab senza consultare il cardiologo o l'endocrinologo, per paura di effetti avversi legati a livelli di colesterolo così bassi. Nonostante l'endocrinologo spieghi l'assenza di complicazioni dovute a livelli di colesterolo così bassi, il paziente ha una scarsa aderenza al trattamento con un aumento dei livelli di colesterolo LDL per un anno, dopo il quale il paziente accetta di riprendere correttamente il trattamento. Si ottiene un'ulteriore diminuzione dei livelli di colesterolo LDL a 19, quindi il paziente viene de-escalato ritirando ezetimibe e si ottiene il controllo osservato nell'ultima analisi. L'immagine 2 mostra il profilo di evoluzione del colesterolo in questo periodo.
+
+DIAGNOSI
+Ipercolesterolemia familiare eterozigote con danno vascolare accertato e buon controllo dei livelli di colesterolo dopo l'inizio del trattamento con inibitori della proteina PCSK9.

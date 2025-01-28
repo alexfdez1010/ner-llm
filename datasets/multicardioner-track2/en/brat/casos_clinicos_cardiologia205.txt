@@ -1,0 +1,31 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+Young 19-year-old male
+Family history: paternal grandfather died at an advanced age due to massive pulmonary thromboembolism. Father and mother without thrombosis. Mother without miscarriages.
+No known drug allergies.
+Primary antiphospholipid syndrome: diagnosed after an episode of deep vein thrombosis (DVT) in 2017. High-risk serological profile: triple antibody positivity (AL + aCL + Antiβ2-GPI positive).
+Active smoker of 3-5 cigarettes/day. No surgical history. Usual treatment: acenocoumarol.
+
+Present illness
+A 19-year-old male presented to the emergency department for oppressive central thoracic pain with associated vegetative crusade of 3 hours' duration that started during exercise and did not subside with rest. It did not radiate, did not change with movement or breathing, no palpitations, dyspnoea or infectious symptoms.
+He admits not having taken the dose of acenocoumarol for the previous 5 days for fear of its interaction with alcohol, which he had consumed.
+
+Physical examination
+Blood pressure (BP) 130/85 mmHg. Heart rate (HR) 65 bpm. Basal oxygen saturation 99%. Respiratory rate 16 rpm. Good general condition. Conscious and oriented. Afebrile. Sweating. Cardiac auscultation: rhythmic without murmurs. Pulmonary auscultation: preserved vesicular murmur, without added sounds. Lower extremities without oedema or signs of DVT.
+
+COMPLEMENTARY TESTS
+Emergency ECG: Sinus bradycardia at 55 bpm. Normal PR. Narrow QRS with normal axis. ST elevation of 3-4 mm in DII, DIII and aVF and 1-1.5 mm in V5-V6, specular ST descent in DI and aVL.
+Laboratory tests: INR on arrival 1.1. Haemoglobin 15.6 g/dl, leukocytes 11,040 /μl, platelets 177,000 /μl. Troponin I (hs-TnI normal range 0-53.5) initial 5,122.3, peak 116,052.8 ng/l, HbA1C 5.5%, total cholesterol 136 mg/dl, HDL 37 mg/dl, LDL 62 mg/dl, triglycerides 188 mg/dl, creatinine 0.86 mg/dl, glomerular filtration rate > 90 ml/min, sodium 136 mmol/l, potassium 3.5 mmol/l, TSH 1 μIU/ml, iron profile normal.
+Emergent coronary catheterisation: right radial access. Truncus: no lesions. Anterior descending coronary artery (AD): normal development, no angiographic lesions. Circumflex coronary artery (Cx): no angiographic lesions. Right coronary artery (RCA): dominant, complete thrombotic occlusion in the middle segment.
+Percutaneous coronary interventionism (PCI): guidewire is advanced to the distal RCA and several thrombus aspirations are performed, obtaining abundant red thrombus. TIMI 3 flow was recovered and a long lesion was observed with slight stenosis and remnants of thrombus in the mid-distal DC. Distal bed of good development and without lesions. Optical coherence tomography (OCT) was performed, which showed remains of red thrombus adhered to the wall, without images suggestive of plaque rupture, in a vessel with no signs of atherosclerosis, although at some points the arterial wall was not visible due to the presence of thrombus. In view of these findings, it was decided not to implant a stent.
+Transthoracic echocardiogram: left ventricle not dilated or hypertrophic, with normal overall systolic function (LVEF by Simpson biplane of 54%). Akinesia of medial and basal segments of inferior and inferolateral face. E/E' ratio of 7.5. Right ventricle of normal size and function. Atria of normal size. Mild mitral insufficiency. Mild tricuspid insufficiency that allows estimating a PSAP of 35 mmHg. Normal aortic root and ascending aorta. No pericardial effusion.
+ECG at discharge: sinus rhythm at 75 bpm. Normal PR. Narrow QRS with Q wave and negative T waves in inferior (DII, DIII, aVF) and lateral (V4-V6).
+
+CLINICAL EVOLUTION
+On arrival, an electrocardiogram was performed showing ST elevation and the haemodynamic alert was activated for emergent coronary catheterisation. Thrombotic occlusion was observed in the right coronary artery, and thromboaspiration and balloon angioplasty were performed, recovering TIMI 3 flow. Intracoronary imaging with OCT was performed with visualisation of residual red thrombus adhered to the wall, with no evidence of plaque rupture or atherosclerosis. In view of these findings, it was decided not to implant a stent.
+A transthoracic echocardiogram was performed with normal global function and segmental alteration in the DC territory. Double antiplatelet therapy and anticoagulation were started. The patient remained monitored during admission, stable, reintroducing oral anticoagulation, with no complications of renal function or radial puncture. Since this was a thrombotic event, in the context of incorrect anticoagulation and with coronary arteries without lesions, it was decided to maintain anticoagulation and indefinite statins together with antiplatelet therapy with acetylsalicylic acid for one month. On discharge, the patient was referred to the cardiac rehabilitation programme. A coronary CT scan at 2 months showed epicardial coronary arteries without lesions.
+
+DIAGNOSIS
+Acute inferolateral myocardial infarction of thrombotic origin. Urgent right coronary artery revascularisation. Preserved LV systolic function.
+Primary antiphospholipid syndrome with high-risk profile. Abandonment of oral anticoagulant therapy.

@@ -1,0 +1,41 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Uomo di 85 anni. Nessuna allergia ai farmaci. Indipendente per le attività di base della vita quotidiana.
+Fattori di rischio cardiovascolare (CVRF): ipertensione.
+Anamnesi cardiologica: dolore toracico con angiografia coronarica nel 2017 con lesioni moderate nel segmento medio dell'arteria discendente anteriore e nel segmento medio dell'arteria coronaria destra etichettate con angina stabile (sindrome coronarica cronica), con ecocardiogramma con normale frazione di eiezione ventricolare sinistra.
+Altri dati anamnestici: malattia renale cronica non studiata con creatinina al basale intorno a 1,3 mg/dl, gastrite, infezione da Helicobacter pylori non eradicata, ernia iatale, anello di Schatzki e diverticolosi.
+Trattamenti precedenti: clortalidone 50 mg 1-0-0-0; losartan 100 mg 1-0-0-0, pitavastatina 1 mg 0-0-1-0: ranitidina 150 mg 0-0-1-0; clopidogrel 75 mg 1-0-0-0; isosorbide mononitrato 50 mg 1-0-0-0-0.
+
+Malattia attuale
+È stato portato in ambulanza a causa di un disturbo iniziato alle 5 del mattino e che lo ha svegliato, consistente in un dolore toracico centrale di intensità 10/10, opprimente, che si irradiava alla mascella e alla schiena, accompagnato da nausea senza vomito. A casa ha assunto paracetamolo con parziale sollievo del dolore, che si è attenuato dopo 3 ore. Riferisce che il giorno precedente aveva svolto uno sforzo fisico intenso a casa (levigatura del parquet). Ha negato febbre o altri sintomi clinici nei giorni precedenti. L'équipe di emergenza (SUMMA) ha inizialmente somministrato 275 mg di acido acetilsalicilico, ha eseguito un elettrocardiogramma senza alterazioni degne di nota e lo ha trasferito al pronto soccorso dell'ospedale.
+
+Esame fisico
+All'arrivo in ospedale è stata rilevata una pressione arteriosa di 156/68 mmHg, una frequenza cardiaca di 55 bpm, una saturazione dell'aria ambiente del 98% e una temperatura di 35,3oC. È stato inoltre trovato in buone condizioni generali, cosciente e orientato, eupneico a riposo e ben perfuso. Nessuna IY.
+Auscultazione cardiopolmonare senza alterazioni. Addome morbido e non dolente. Arti inferiori senza edema o segni di trombosi venosa profonda (TVP).
+
+ESAMI COMPLEMENTARI
+Esami del sangue:
+Biochimica: glucosio 133,6 mg/dl, creatinina 1,69 (precedente 1,3) mg/dl, sodio 136,6 mEq/l, potassio 4.53 mEq/l, cloro 94,5 mEq/l, proteine totali 7,31 g/dl, albumina 4,2 g/dl, ALT (GPT) 18,1 U/l, AST (GOT) emolisi, gamma-GT 11 U/l fosfatasi alcalina 56 U/l, LDH emolisi, bilirubina .6 mg/dl, proteina C reattiva .79 mg/dl, CK 188 U/l (seconda determinazione 309), troponina T hs 44,75 ng/l (secondo profilo 599,2).
+Ematologia: leucociti 8,3 x1000/μl, globuli rossi 4,59 xmill/μl, emoglobina 14,6 g/dl, ematocrito 43%, MCV 93,5 fl, MCH 31,9 pg, MCHC 34,1 g/dl, RDW 13,3%, piastrine 80 x1000/μl, MPV 10,1 fl, neutrofili 7 x1000/μl, neutrofili %: 84,6, linfociti .8 x1000/μl, linfociti % 9,2, monociti .4 x1000/μl, monociti % 5,3, eosinofili 0 x1000/μl, eosinofili % .6, basofili: 0 x1000/μl, basofili % .3.
+Emostasi: attività protrombinica 92%, tempo di protrombina 12,2 sec, INR (laboratorio) 1,06, TTPa 34 sec, fibrinogeno (derivato) 594 mg/dl, D-dimero 257 ng/ml.
+Elettrocardiogramma (ECG): ritmo sinusale a 75 bpm, PR nel range, asse normale, QRS stretto, QTc non prolungato, senza alterazioni acute della ripolarizzazione, con onda T appiattita in faccia laterale alta e precordiale sinistra. Simile ai precedenti.
+Radiografia del torace: indice cardiotoracico (CTI) normale, senza segni di congestione polmonare o altre alterazioni.
+Ecocardiografia: ventricolo sinistro non dilatato né ipertrofico. Funzione sistolica soggettiva conservata, discinesia del segmento medio della faccia anterosettale, senza altre alterazioni della contrattilità segmentale. Insufficienza mitralica, che appare lieve-moderata al color Doppler.
+Ecocardiogramma transtoracico (video 1): ventricolo sinistro non dilatato, con lieve aumento dello spessore della parete. Acinesia localizzata a livello del setto interventricolare medio, sia anteriore che inferiore, con il resto dei segmenti normocontrattili. Funzione sistolica conservata (LVEF 70% secondo Simpson biplano). Funzione diastolica normale. Ventricolo destro non dilatato con funzione sistolica normale. Nessun altro reperto.
+Cateterismo cardiaco: tronco comune senza lesioni. Circonflessa dominante, di buon calibro e grande sviluppo, senza lesioni significative. Arteria discendente anteriore con placca moderata di aspetto stabile nel segmento medio, con buon vaso distale, senza altre lesioni significative. Arteria coronaria destra non dominante, con una lieve placca nel segmento prossimale, senza altre lesioni, essendo un vaso poco sviluppato.
+RMN cardiaca: ventricoli non dilatati né ipertrofici. Nelle sequenze per la valutazione dell'edema miocardico (T2-STIR), è stato osservato un aumento patologico dell'intensità del segnale nel segmento medio del setto anteriore, suggestivo di edema. Nelle sequenze di late enhancement sono state riscontrate aree frammentarie di enhancement intramiocardico nel segmento medio del setto anteriore e posteriore, nel segmento basale del setto anteriore, nell'inserzione della parete libera del RV e piccoli focolai di enhancement intramiocardico nel segmento basale e medio della faccia laterale e nel segmento basale della faccia posteriore.
+Tampone nasofaringeo per SARS-CoV-2: negativo.
+
+EVOLUZIONE CLINICA
+Dato il quadro clinico in ED di dolore toracico con esami iniziali privi di reperti particolarmente degni di nota se non una prima troponina leggermente aumentata (in un paziente con malattia renale cronica acuta), si è deciso di eseguire una sierologia enzimatica, con una seconda determinazione sostanzialmente superiore alla precedente, per cui l'ED ha avvisato la cardiologia.
+L'ecocardiografia urgente ha rivelato un segmento discinetico a livello del setto, che insieme all'elevazione dei marcatori di danno miocardico ha portato alla diagnosi iniziale di infarto miocardico acuto senza sopraslivellamento ST, per cui è stato mantenuto il trattamento precedente con clopidogrel e sono stati aggiunti fondaparinux, acido acetilsalicilico e atorvastatina.
+Nelle prime 24 ore è stata eseguita un'angiografia coronarica urgente, che non ha rivelato lesioni coronariche significative, per cui il paziente è stato classificato come infarto miocardico senza lesioni coronariche ostruttive (MINOCA) ed è stato trasferito nel reparto ospedaliero di cardiologia, monitorato per ulteriori studi.
+Qui è stato eseguito un ecocardiogramma transtoracico regolato che ha confermato i risultati precedenti e una risonanza magnetica cardiaca che ha mostrato risultati compatibili con una miocardite acuta, con un picco di troponina di 678,9 ng/l. È stato prescritto paracetamolo come trattamento sintomatico e il paziente è stato dimesso a casa dopo alcuni giorni di stabilità, senza recidiva dei sintomi o comparsa di eventi significativi in telemetria. Inoltre, a causa della presenza di coronaropatia e di un LDL di 171 mg/dl, è stato deciso di passare dalla pitavastatina alla rosuvastatina-ezetimibe (la paziente ha riferito una precedente intolleranza all'atorvastatina) con un obiettivo di colesterolo LDL < 55 mg/dl e un appuntamento per una revisione alla prossima visita.
+
+DIAGNOSI
+Miocardite acuta non occlusa.
+Funzione ventricolare sinistra normale.
+Malattia renale cronica acuta all'ammissione di probabile origine pre-renale.
+Sindrome coronarica cronica con coronaropatia a due vasi non significativa.
+Ipercolesterolemia con LDL fuori target (paziente ad altissimo rischio cardiovascolare).

@@ -1,0 +1,42 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+67-year-old male under follow-up with cardiology consultation.
+
+BACKGROUND:
+Allergy to acetylsalicylic acid (ASA).
+Coronary ischaemic heart disease with single-vessel disease: percutaneous transluminal coronary angioplasty (PTCA) and drug-eluting stent implantation in the middle anterior descending artery (AD). Normal LV function.
+Arterial hypertension (AHT).
+Stage III chronic renal failure.
+Deep vein thrombosis with factor V Leiden mutation (Arg506Gln).
+Bicameral pacing due to complete atrioventricular block (AVB) (2015).
+Paroxysmal atrial fibrillation.
+Home treatment: clopidogrel 75, esomeprazole 20 mg, bisoprolol 5 mg 1-0-0, losartan 50 mg 1-0-0, acenocoumarol, simvastatin 40 mg 0-0-1, tamsulosin.
+
+CURRENT ILLNESS:
+Patient under outpatient follow-up for single-vessel coronary artery disease and paroxysmal atrial fibrillation, who came for cardiology consultation one year after the event. He reported not having angina, but with asthenia and dyspnoea on moderate exertion.
+
+PHYSICAL EXAMINATION:
+Blood pressure (BP) 130/70 mmHg. Heart rate (HR) 54 bpm. Weight 66 bpm. Height 175 cm.
+Abdominal circumference 85 cm.
+Rhythmic heart sounds without murmurs. Pulmonary auscultation with preserved vesicular murmur.
+Abdomen without palpable masses. No oedema in the lower limbs. Pedial pulses present and symmetrical.
+
+COMPLEMENTARY TESTS
+ANALYTICS: haemoglobin 13.8 g/dl, platelets 200,000, creatinine 3.2 mg/dl, MDRD-4 20 ml/min/sup, sodium 140 meq/l, potassium 5.1 mel/l, GOT 9 U/L, GPT 15 U/l. Lipid profile: total cholesterol 244 mg/dl, 251 mg/dl, HDL 31 mg/dl, LDL 162 mg/dl.
+ELECTROCARDIOGRAM (ECG): sinus rhythm with ventricular stimulation.
+ECOCARDIOGRAPHY: non-dilated left ventricle with preserved global systolic function, without segmental contractility disorders.
+ANALYSIS (after starting proprotein convertase subtilisin/kexin type 9 [PCSK9] inhibitors: total cholesterol 108 mg/dl, HDL 46 mg/dl, LDL 45 mg/dl.
+
+CLINICAL COURSE
+In the annual follow-up assessment, a stress echocardiogram was requested due to the patient's dyspnoea on exertion.
+In the lipid profile, high levels of low-density lipoprotein cholesterol (LDL-C) were detected, so lipid-lowering treatment was intensified, replacing simvastatin 40 with rosuvastatin 10 mg.
+The patient returned to the clinic with the results of the stress echocardiogram, which was negative for ischaemia (85% of BMF; 7 metabolic equivalents (MET); no data of ischaemia in echocardiography).
+The patient also reported muscle discomfort since the last visit and decided to discontinue treatment with rosuvastatin. For this reason, a new lipid profile was requested and pitavastatin 2 mg and ezetimibe 10 mg were prescribed. At the same time, the patient's beta-blocker dose was reduced, in case the feeling of asthenia could be related to this (bisoprolol 2.5 mg/24 hours).
+The patient returned for consultation 3 months later, reporting the same symptoms and that he could not tolerate the new statin. The blood test did not detect any liver alteration or muscle damage (GOT/GPT 19/18 U/L), but due to the patient's poor tolerance with up to three different statins, it was proposed to start treatment with evolocumab.
+Evolocumab 140 mg/2 weeks was started, with good tolerance.
+In the analytical control 2 months after starting treatment, a lipid control was requested with LDL 45 mg/dl.
+After one year of follow-up, and due to the need for oral anticoagulation, it was decided to discontinue clopidogrel and maintain acenocoumarol, in order to reduce the risk of haemorrhage.
+
+DIAGNOSIS
+Single-vessel coronary artery disease.
+Paroxysmal atrial fibrillation.
+Intolerance to statins, with very high cardiovascular risk.

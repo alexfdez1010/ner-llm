@@ -1,0 +1,52 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+60 year old patient who attended the Emergency Department on 26/08/2016 due to pain in the right lower limb
+
+Personal history
+Intolerance to amoxicillin-clavulanic acid.
+Arterial hypertension under pharmacological treatment with poor control.
+Dyslipidaemia under pharmacological treatment.
+Anxiety syndrome.
+
+Cardiological history: paroxysmal atrial fibrillation diagnosed on 01/08/2016 with CHA2DS2-VASc = 2 and HAS-BLED = 1. Treatment was started with beta-blockers and acenocoumarol. Echocardiogram: LVEF 60%. LA dilatation. Mild mitral stenosis. Episode of mild heart failure in the context of AF with rapid ventricular response on 13/08/2016 which was treated in the emergency department with diuretics and digoxin.
+
+Current illness
+The patient came to the ED with pain, coldness and functional impotence of the right lower limb.
+
+Physical examination
+BP 178/99 mmHg, HR 109 bpm, SatO2 99 %.
+Cardiac auscultation: arrhythmic sounds at 110 bpm with systolic murmur II/VI with preserved 2R.
+Pulmonary auscultation: minimal bibasal crackles.
+Right lower extremity: decreased pulse and coldness in MID with intense pain on palpation.
+
+COMPLEMENTARY TESTS
+Blood tests: urea 24 mg/dl, creatinine 0.89 mg/dl, Na 139 mmol/L, K 3.9 mmol/L, Hb 15.8 g/dL, Ht 45.8%, platelets 396,000, INR 1.47. D-dimer > 5000 ug/L.
+ECG: atrial fibrillation with rapid ventricular response at 120 bpm. ST segment rectification with data of LV overload and negative T wave in DIII and aVF.
+Chest X-ray: cardiomegaly. Congestive hilae. Vascular redistribution.
+No condensation or pinching of costophrenic sinuses.
+MID Doppler ultrasound: decreased monophasic blood flow in the superficial femoral artery with echogenic material partially filling the lumen of the artery. The flow decreases even more in intensity in the distal arteries without being detected in the distal posterior tibial and anterior pedial arteries. Conclusion: MID arterial ischaemia due to thrombosis.
+Ultrasound Doppler MII: occupation of the left popliteal a. Popliteal left by echogenic material not in its entirety without flow in Doppler study and with post-stenotic morphology at the level of posterior tibial artery. Conclusion: arterial ischaemia in popliteal artery.
+Cranial/perfusion computed tomography: acute ischaemic stroke in the left MCA territory secondary to carotid occlusion of the ICA, ICA, IMCA-M1 and
+ACA-A1 of cardioembolic profile with mismatch 30%.
+Angio-CT: floating thrombus at the level of the aortic arch distal to the ICA exit occluding the origin of the left subclavian artery.
+Echocardiography: moderate mitral stenosis of rheumatic aspect. Severe dilatation of the left atrium. LVEF 60%. Aortic sclerosis.
+
+EVOLUTION
+Given that the patient presented pain and coldness in the right lower limb (MID), a Doppler ultrasound of the lower limbs was performed which confirmed acute arterial ischaemia due to thrombotic occlusion at the level of the right superficial femoral artery. Treatment was started with intravenous sodium heparin and contact was made with Cardiovascular Surgery at the referral hospital and the patient was referred for evaluation.
+On arrival, given that the patient showed signs of acute ischaemia of the entire limb despite perfusion, mechanical embolectomy was performed with dissection of the right femoral tripod and MID embolectomy with Fogarty catheter associated with heparin lavage, haemostasis and closure.
+At 24 hours, the patient remained haemodynamically stable and a repeat Doppler ultrasound scan was performed with recovery of biphasic flow at femoral level.
+A review of the patient's INR since the start of anticoagulation had presented INR < 2 with time in therapeutic range of 0 %. Despite having suffered an embolic event with a SAMe-TT2R2 = 2 (which already predicts that the patient will have poor quality anticoagulation with antivitamin K), CHA2DS2-VASc = 4 and HAS-BLED = 2, it was decided to maintain treatment at discharge with acenocoumarol.
+On 19/02/2017 the patient returned to the emergency department for pain, coldness and functional impotence in the left lower limb, this time with absence of distal pulse. An echo Doppler of the MII was performed and showed arterial ischaemia in the popliteal artery. Given that the occlusion was at a more distal level and the echogenic material did not occlude the lumen completely, intravenous sodium heparin perfusion was started. On the 5th day of admission (24/02/0217) the patient suddenly presented pain and coldness in the left upper limb and 1 hour later presented dysarthria with haemiplegia of the right limbs. On suspicion of intracranial bleeding in the context of intravenous sodium heparin perfusion, a cranial CT scan was performed which ruled out intracranial bleeding.
+In the following hours, the patient presented a sudden deterioration in the level of consciousness with aphasia and left gaze deviation. With suspicion of stroke in the left middle cerebral artery (MCA) territory, the Stroke Code was activated (NIHSS = 22) and the patient was referred to the reference hospital. On arrival, a brain CT scan was performed which confirmed acute ischaemic stroke in the left MCA territory secondary to carotid occlusion of the ICA-MCA. However, the angio-CT scan also showed a floating thrombus at the level of the aortic arch distal to the exit of the LMCA (left common carotid artery) occluding the subclavian artery.
+Given the seriousness of the patient and the fact that she was being treated with sodium heparin, it was decided to perform a primary mechanical intra-arterial thrombectomy with aspiration of the cervical thrombus and fragments at the level of the LMCA-ICCA. A control CT scan showed extensive infarction with mass effect that improved progressively over the following days in the ICU, with improvement in aphasia but with right hemiplegia remaining as a sequela on discharge. At the MSI level, there was an improvement in arterial ischaemia and pulse recovery, so conservative management was decided. However, there was no improvement in the MII, presenting a very weak femoral and popliteal pulse with absence at distal level, so it was decided to perform arterial thrombectomy with dissection of the left femoral tripod and extraction of thrombotic material at the left femoro-popliteal level with a Fogarty catheter.
+Cardiologically, the patient initially showed signs of decompensated heart failure due to rapid AF that improved with diuretics and beta-blockade. Echocardiography was performed and showed moderate rheumatic mitral stenosis with severe dilatation of the left atrium and normal LVEF. All INRs were reviewed since discharge in August 2016 and only 2 of them were in therapeutic range with a TRT of 0%.
+
+DIAGNOSIS
+Ischaemic stroke in the middle cerebral artery territory secondary to tandem ICA-MCA occlusion with a cardioembolic profile.
+Floating thrombus at the level of the arch with occlusion of origin of the left subclavian artery.
+Acute arterial ischaemia of MSI with spontaneous resolution.
+Acute arterial ischaemia of IIM resolved with mechanical thrombectomy with Fogarty catheter.
+Acute arterial ischaemia of MID resolved with mechanical thrombectomy with Fogarty catheter.
+Moderate rheumatic mitral stenosis with normal LVEF.
+Permanent atrial fibrillation: CHA2DS2-VASc = 4, HAS-BLED = 3, SAMe- TT2R2 = 2.
+Poor quality of anticoagulation with antivitamin K.
+Hypertension.

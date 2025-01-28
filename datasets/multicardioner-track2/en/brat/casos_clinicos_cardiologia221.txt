@@ -1,0 +1,45 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+A 60-year-old man attended the emergency department of our centre due to chest pain.
+
+History
+The patient had the following medical history:
+Cardiovascular risk factors: type 2 diabetes mellitus, non-insulin-dependent, on treatment with two drugs, with good metabolic control (HbA1c 6.8%); well-controlled arterial hypertension (home blood pressure (BP) < 140/80 mmHg) with two drugs.
+No previous cardiological history.
+Other relevant medical history: peripheral vascular disease, with stenosis in the right superficial femoral artery and absence of right pedal pulse, treated with drug-eluting balloon angioplasty with good results.
+
+Usual treatment:
+Sitagliptin + metformin 50/1000 mg, 1 tablet every 12 hours. Valsartan + amlodipine 40/10 mg, 1 tablet per day. Omeprazole 20 mg, 1 capsule per day. Acetylsalicylic acid (ASA) 100 mg, 1 tablet per day.
+
+Present illness
+On arrival at the emergency department, the patient presented with oppressive central thoracic pain radiating to the neck and both arms, lasting 2 hours from onset at rest, associated with cold sweating. No previous similar episodes. No symptoms suggestive of exertional angina with usual physical activity.
+
+Physical examination
+BP 105/70 mmHg, heart rate (HR) 100 bpm, oxygen saturation 95% on room air. Jugular venous pressure normal. Cardiac auscultation: rhythmic, no murmurs or pathological sounds. Pulmonary auscultation: preserved vesicular murmur with no extra sounds. Abdomen: soft and depressible, not painful on palpation, no masses or megaliths, Blumberg and Murphy negative. Extremities: no oedema in the lower extremities, peripheral pulses preserved and symmetrical, no signs of phlebitis
+An electrocardiogram (ECG) was performed in less than 10 minutes, which showed the presence of subepicardial lesion current in the inferior face, so a haemodynamic alert was activated.
+
+COMPLEMENTARY TESTS
+ECG on arrival at the emergency department: sinus rhythm at 100 bpm. Normal PR. QRS 90 ms. qS in V1. ST-segment elevation up to 3 mm in DII, DIII and aVF with specular decrease in DI and aVL.
+Portable chest X-ray: slightly increased cardiothoracic index in this anteroposterior projection. No pleural effusion, no signs of vascular redistribution. No condensation.
+Emergent coronary angiography: right dominance. Left main coronary artery (LMCA) without lesions. Anterior descending artery (AD) with severe lesion of 90% in the middle segment. Circumflex with 40% lesion in distal segment. Right coronary artery (RCA) with 90% long lesion that starts in the proximal segment and extends to the middle segment. Good distal bed. It was decided to perform percutaneous coronary intervention (PCI) on the DC lesion. After predilating with a 2.5 x 20 mm semi-compliant balloon, a 2.75 x 30 mm sirolimus-eluting drug-eluting stent was implanted with a good final angiographic result.
+Echocardiogram in the coronary unit: mild left ventricular (LV) hypertrophy, with preserved diameters and slightly depressed LVEF (Simpson BP 50%) secondary to inferolateral and inferior mediobasal hypokinesia. Absence of significant valvular heart disease. Normal transmitral filling, estimated normal LV end-diastolic pressure (E/E' = 7). RV with normal diameters and preserved function. Absence of tricuspid insufficiency (TI) allowing estimation of pulmonary artery systolic pressure (PSAP). Normal inferior vena cava (IVC). Absence of pericardial effusion.
+
+Ordinary laboratory tests:
+Blood count: haemoglobin 13.9 g/dl, without leukocytosis or left shift. Platelets 241 x 10^9/l.
+Haemostasis: INR 0.99, TTPa 29.3 sec.
+Biochemistry: fasting glucose 118 mg/dl, sodium 139 mEq/l, potassium 4 mEq/l, creatinine 0.49 mg/dl (GFR > 90 ml/min/1.72 m2), NT-proBNP 266 pg/ml, C-reactive protein 0.7 mg/dl, HbA1c 6.8%, total cholesterol 176 mg/dl, triglycerides 102 mg/dl, HDL cholesterol 37 mg/dl, LDL cholesterol 119 mg/dl.
+Myocardial damage biomarker curve (hsTnI, normal < 19.8 ng/l): 53 - 24,900 (above detection limit) - 15,000 - 4,408 - 2,977 ng/l.
+ECG at discharge (image 3): sinus rhythm at 65 bpm. Normal PR. QRS 90 ms with axis at 60o. Negative T wave in DII, DIII and aVF.
+Elective coronary angiography (video 4): good result of stent implanted in CD. PCI on LAD: lesion is predilated with SC balloon 2.5 x 20 mm and NC 3 x 20 mm, implanting a 3 x 26 mm zotarolimus-eluting drug-eluting stent, with a good final angiographic result.
+
+CLINICAL EVOLUTION
+After finding ST-segment elevation in the inferior face in a patient with anginal chest pain, a loading dose of prasugrel was administered (the patient was already receiving chronic treatment with ASA 100 mg) and the infarction code was activated. Emergent coronary angiography showed three-vessel disease, with two severe lesions (in the MD and DCM) and a moderate lesion in the distal circumflex (DC). A decision was made to perform constant pharmacoactive PCI on the middle DC, the artery responsible for the infarction (ARI), which was performed without incident.
+After angioplasty, he was admitted to the coronary unit, where beta-blocker and lipid-lowering treatment was started, and he remained asymptomatic and haemodynamically stable. After 48 hours without arrhythmic events, it was decided to discharge him to the cardiology ward and, after mobilisation without incident, to his home.
+Medical treatment at discharge was:
+Acetylsalicylic acid 100 mg, 1 tablet per day. Prasugrel 10 mg, 1 tablet per day. Rosuvastatin 20 mg, 1 tablet at night. Dapagliflozin + metformin 5/1000 mg, 1 tablet every 12 hours. Nebivolol 2.5 mg, 1 tablet per day. Omeprazole 20 mg, 1 capsule per day. Valsartan + amlodipine 40/10 mg, 1 tablet per day.
+After discharge, the patient was scheduled 3 weeks later for elective outpatient angioplasty on the severe lesion of the middle anterior descending artery, which was performed without complications.
+After this second procedure, the patient was included in the cardiovascular rehabilitation programme of our centre.
+
+DIAGNOSIS
+Acute myocardial infarction with ST-segment elevation of inferior location. Killip I. Three-vessel coronary artery disease: Mid CD (ARI) 90%, mid DA 90%, distal Cx 40%. Primary PCI with drug-eluting stentliberator over mid-CD. Second outpatient elective PCI on severe mid LAD lesion. Mild left ventricular dysfunction (LVEF 50%).
+Peripheral arterial disease.
+Type 2 diabetes mellitus with good metabolic control. LDL cholesterol above target (< 50 mg/dl). Arterial hypertension.

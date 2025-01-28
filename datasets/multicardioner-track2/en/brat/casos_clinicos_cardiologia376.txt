@@ -1,0 +1,25 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+A 72-year-old man attended the emergency department for an episode of sudden dyspnoea.
+Personal history of interest: ischaemic cerebrovascular accident in 2009 with an unidentified aetiology (echo-Doppler of supra-aortic trunks with no pathological findings), infrarenal abdominal aortic aneurysm and squamous cell carcinoma of the lung operated on with right upper lobectomy 5 months ago.
+He was under chronic treatment with acetylsalicylic acid 300 mg/24 hours and inhaled salmeterol/fluticasone propionate 50/500 mcg/12 hours.
+He reported several episodes of dyspnoea over the last month, always standing upright, unrelated to exertion. No orthopnoea or paroxysmal nocturnal dyspnoea. No cough, expectoration or chest pain.
+Physical examination revealed oxygen desaturation up to 80%, which improved with decubitus. Jugular venous pressure was normal. Cardiac auscultation rhythmic, without murmurs or extratonos.
+Pulmonary auscultation with hypophonesis in the right lung base, absence of crackles or rhonchi. Absence of oedema in the extremities.
+
+COMPLEMENTARY TESTS
+ANALYSIS: glucose 80 mg/dl, urea 50 mg/dl, creatinine 0.85 mg/dl, sodium 136 mEq/l, potassium 4.1 mEq/l, troponin I < 0.01 ng/ml, BNP 102.6 pg/ml, haemoglobin 16.1 g/dl, haematocrit 50.8%, MCV 96.8 fl, leukocytes 9,100, platelets 111,000, D-dimer 2,005 ng/l. Coagulation normal.
+ARTERIAL GASOMETRY: pH 7,43, pCO2 26,5 mmHg, p02 100,3 mmHg, oxygen saturation (SatO2) 98,7%, bicarbonate 17,5 mEq/l.
+ELECTROCARDIOGRAM (ECG): sinus rhythm at 95 bpm. PR 200 ms, QRS of 100 ms, with morphology of left anterosuperior hemiblock. No repolarisation alterations.
+THORAX RADIOGRAPHY: elevation of the right hemidiaphragm. Normal cardiac silhouette.
+THORACIC CT scan: loss of volume in the right upper lobe in relation to lobectomy. Residual middle lobe atelectasis and elevated right hemidiaphragm. No repletion defects in pulmonary arteries suggestive of pulmonary thromboembolism.
+Transthoracic echocardiogram: left ventricle of normal dimensions and systolic function, without segmental alterations of contractility.
+Normal right chambers with preserved ventricular function. Mitral and aortic valves without abnormalities. Hypermobile interatrial septum. Normal pulmonary pressure. Bubble test was performed with agitated saline with massive passage of bubbles from right to left cavities in the first and second beats suggesting right-left shunt.
+Transesophageal echocardiogram: aneurysmal interatrial septum with extensive detachment of the membrane of the fossa ovalis and massive passage of bubbles with agitated physiological saline from the right to the left atrium.
+
+CLINICAL COURSE
+Initially the patient responded to oxygen therapy with nasal goggles and was admitted to the ward for investigation. A thoracic CT scan was first performed to rule out pulmonary thromboembolism (PTE) or a complication of the recent lobectomy. In the absence of pulmonary pathology to justify the symptoms, an echocardiogram was requested to rule out intracardiac shunt. The baseline study showed a hypermobile interatrial septum with possible shunt, which was evident in the bubble test with agitated saline. The study was completed with a transesophageal echocardiogram that confirmed the presence of an atrial septal aneurysm with patent foramen ovale (PFO) and left right shunt.
+The patient presented rapidly progressive worsening, with severe sustained hypoxaemia (SatO2 65%) that was not corrected with position or oxygen therapy. In view of this situation, urgent percutaneous closure of the PFO was decided under intracardiac echo monitoring. After PFO closure, oxygen saturation normalised and dyspnoea disappeared.
+
+DIAGNOSIS
+Platypnoea-orthodeoxia syndrome due to patent foramen ovale after right lobectomy.
+Urgent percutaneous closure of patent foramen ovale.

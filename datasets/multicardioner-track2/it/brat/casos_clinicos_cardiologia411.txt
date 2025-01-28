@@ -1,0 +1,24 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+BACKGROUND:
+Si tratta di un paziente maschio di 17 anni, il più giovane di due fratelli. La sorella maggiore (caso indice) ha il sospetto clinico di MFS, presentando habitus marfanoide ed ectopia lentis ma senza dilatazione aortica (è il caso indice ma non soddisfa i criteri diagnostici per la MFS).
+La madre della paziente ha un habitus marfanoide, ma non ha sviluppato ectopia lentis o dilatazione aortica.
+Dopo lo screening familiare, il nostro paziente, uno sportivo agonista (basket), è stato studiato.
+
+ESAME FISICO:
+Il paziente era normoteso e astemio, ben perfuso, eupneico a riposo e con buona colorazione di cute e mucose. Pulsazioni carotidee ritmiche e simmetriche. Assenza di ingorgo giugulare. Deformità toracica dovuta a pectus carinatum. Auscultazione cardiopolmonare con toni ritmici e assenza di soffi, con soffio vescicolare conservato. Polsi pediali e tibiali posteriori presenti e simmetrici senza edema malleolare o stigmate di insufficienza venosa o trombosi venosa profonda. Segno del polso e del pollice positivo. Aumento del rapporto braccio/statura. Scoliosi. Sublussazione del cristallino.
+
+ESAMI COMPLEMENTARI
+ELETTROCARDIOGRAMMA (ECG): RS a 47 bpm. QRS stretto. Asse normale. Nessuna alterazione della ripolarizzazione.
+ECOCARDIOGRAMMA: ventricolo sinistro non dilatato, con spessore normale e funzione conservata (EF 60%), evidenzia ipertrabecolazione inferolaterale e apicale. Cavità destre normali.
+Assenza di cardiopatia valvolare. Aorta non dilatata con diametro massimo a livello del seno: 31 mm.
+
+RISONANZA MAGNETICA NUCLEARE CARDIACA (RM): nessuna alterazione di interesse, tranne un aumento della trabecolatura nelle aree indicate nell'ecocardiogramma, senza soddisfare i criteri di miocardio non compattato. Aorta nella norma.
+TEST DI ESERCIZIO: interrotto al minuto 14.30 del protocollo Bruce dopo aver raggiunto la massima frequenza cardiaca teorica (FC). Tensione e risposta cronotropa normali. Isolate extrasistoli sopraventricolari. Conclusione: clinicamente ed elettricamente negativo per ischemia. Buona capacità funzionale. Nessuna aritmia significativa.
+HOLTER-ECG: nessuna aritmia significativa.
+STUDIO GENETICO: studiato con metodo di sequenziamento massivo parallelo utilizzando una libreria che comprende 35 geni correlati alle sindromi aorto-vascolari. Sono state identificate una mutazione eterozigote nel gene FBN1 (p.Glu 1811Lys) precedentemente descritta e considerata patogena o associata alla malattia e un'altra mutazione eterozigote nel gene FBN1 (p.Arg2Cys) precedentemente non descritta e con patogenicità incerta.
+EVOLUZIONE CLINICA
+Il paziente si presenta con habitus marfanoide (più di 7 punti tra i reperti sistemici caratteristici, tra cui pectus carinatum e scoliosi) e sublussazione del cristallino. Tuttavia, non è stata riscontrata alcuna dilatazione aortica. In assenza di un'anamnesi familiare di MFS, la diagnosi non è confermata e sono necessari test genetici. Dopo aver confermato la mutazione patogena nel gene FBN1, la diagnosi di MFS è stata confermata e al paziente è stato sconsigliato l'esercizio fisico intenso e la competizione.
+
+DIAGNOSI
+MFS (punteggi sistemici > 7 punti e sublussazione del cristallino) senza coinvolgimento del sistema cardiovascolare, con mutazione eterozigote del gene FBN1.

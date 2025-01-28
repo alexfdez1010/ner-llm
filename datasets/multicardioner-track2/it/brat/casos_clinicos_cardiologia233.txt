@@ -1,0 +1,52 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+
+Maschio, 73 anni.
+Nessuna storia familiare generale o cardiovascolare di interesse.
+Nessuna allergia nota ai farmaci.
+Nessuna abitudine tossica.
+Nessun fattore di rischio cardiovascolare noto.
+Ipokaliemia cronica (precedenti analisi registrate nel sistema informatico mostrano valori precedenti di circa 3 mEq/l, possibile tubulopatia renale). Nessuna storia di coliche renali, diarrea, assunzione di liquirizia o dieta a basso contenuto di potassio.
+Precedenti episodi di vertigine posizionale parossistica benigna.
+Sotto controllo dermatologico per lichen planus e psoriasi.
+Lumboartrosi con discopatia L5-S1.
+Trattamento abituale: omeprazolo 20 mg: 1 compressa a colazione.
+
+Malattia attuale
+Un uomo di 78 anni è stato ricoverato dal pronto soccorso al reparto di medicina interna per una tumefazione indolore del ginocchio destro da un mese, senza storia di traumi e senza ulteriore semiologia infiammatoria. L'anamnesi è stata effettuata con l'apparecchio ed è risultata anodina, senza manifestazioni cliniche del sistema cardiovascolare né al momento né in precedenza (assenza di dispnea, angina, sincope, palpitazioni o sintomi congestizi).
+
+Esame fisico
+Paziente cosciente e orientato. Ben perfuso, idratato e nutrito. Eupnea a riposo.
+Testa e collo: nessun ingorgo giugulare. Nessuna adenopatia palpabile. Orofaringe senza alterazioni.
+Auscultazione cardiaca: ritmica, senza soffi o extratoni.
+Auscultazione polmonare: murmure vescicolare conservato.
+Addome: morbido, depressibile, non dolente alla palpazione. Non erano palpabili masse o megaliti.
+Nessun segno di irritazione peritoneale. Suoni idroaerei conservati.
+Nessun edema o segno di trombosi venosa profonda (TVP). Insufficienza venosa periferica. Gonfiore di entrambe le ginocchia, senza eritema cutaneo o aumento della temperatura locale. Lieve dolore al movimento.
+
+ESAMI COMPLEMENTARI
+ECG eseguito al pronto soccorso con magnesio 1,15 mg/dl e potassio 2,5 mg/dl: ritmo sinusale a 80 battiti al minuto. PR normale. QRS stretto. Innalzamento del segmento ST di 2 mm in V1-V2 con morfologia rettilinea e attraversamento della linea di base, che prosegue con un'onda T negativa e simmetrica. QTc normale.
+Esami di laboratorio eseguiti al pronto soccorso:
+Biochimica: glucosio 121 mg/dl, urea 46 mg/dl, creatinina 0,85 mg/dl, GPT 63 U/l, bilirubina 0,5 mg/dl, calcio 9,2 mg/dl, magnesio 1,15 mg/dl, albumina 4 g/dl, sodio 138 mEq/l, potassio 2,5 mEq/l, CRP 131 mg/l, CK 70 U/l, LDH 317 U/l.
+Gas del sangue venoso (Fi02 21%): pH 7,48, pCO2 40 mmHg, pO2 48 mmHg, bicarbonato 30 mmol/l, eccesso di basi 5,8, lattato 1,7 mmol/l.
+Emogramma: emoglobina 13,5 g/dl, piastrine 252.000 per microlitro, 7.790 leucociti per microlitro con il 91% di neutrofili e il 5,4% di linfociti.
+Emostasi: aPTT 33 sec, tempo di protrombina 92%, INR 1,1, fibrinogeno 652 mg/dl.
+Radiografia del ginocchio: condocalcinosi bilaterale, più evidente nel ginocchio destro.
+ECG eseguito con correzione del magnesio e potassio 3,1 mEq/l: ritmo sinusale a 75 battiti al minuto. PR normale. QRS stretto. Onde T negative in V1-V2 con morfologia Rsr' in V2. QTc normale.
+ECG eseguito con correzione del magnesio e del potassio: ritmo sinusale a 80 battiti al minuto. PR normale. QRS stretto. Nessuna alterazione acuta della ripolarizzazione. QTc normale.
+Ecocardiografia transtoracica: lieve ipertrofia ventricolare. LVEF conservata.
+Test alla flecainide: dopo infusione di flecainide alla dose di 2 mg/kg, il paziente sviluppa un pattern Brugada di tipo 1.
+Test genetico per la sindrome di Brugada: negativo.
+
+DECORSO CLINICO
+La gonalgia è stata trattata con farmaci antinfiammatori non steroidei (FANS) con il sospetto di una crisi di pseudogotta dovuta a una probabile condrocalcinosi, con risoluzione completa dei sintomi entro alcuni giorni.
+Alla luce dei risultati ECG sopra descritti, le alterazioni ioniche sono state corrette e il pattern ECG si è evoluto come mostrato nelle immagini.
+Il paziente è rimasto completamente asintomatico dal punto di vista cardiovascolare ed è stato dimesso con successivi controlli nelle consultazioni elettrofisiologiche ambulatoriali, con il sospetto di fenocopia del pattern di Brugada nel contesto delle alterazioni ioniche.
+È stato eseguito ambulatorialmente un test con flecainide, somministrato per via endovenosa alla dose di 2 mg/kg in 10 minuti, ottenendo un pattern di Brugada di tipo 1. Il paziente è rimasto in ospedale per diverse ore. Il paziente è rimasto in ospedale per diverse ore con la telemetria senza osservare eventi aritmici. Successivamente, è stata eseguita un'ecocardiografia senza mostrare alterazioni degne di nota (LVEF conservata, senza valvulopatia significativa). È stato eseguito uno studio genetico delle p-canalopatie/miocardiopatie, che è risultato negativo.
+Il paziente è rimasto asintomatico nei suoi 73 anni di vita dal punto di vista cardiovascolare, senza precedenti familiari degni di nota o morti improvvise. È stato eseguito anche un ecocardiogramma che non ha mostrato alterazioni degne di nota (LVEF conservata, nessuna cardiopatia valvolare significativa). Pertanto, quella che inizialmente sembrava essere solo una fenocopia del pattern di Brugada si è rivelata una vera e propria sindrome di Brugada.
+È stato informato del processo in corso e dei farmaci proibiti, della proibizione dell'alcol e del trattamento rapido della febbre con antipiretici, che si riflette anche nella sua anamnesi. Attualmente ha anche iniziato lo studio familiare per il controllo dei suoi parenti.
+
+DIAGNOSI
+Sindrome di Brugada.
+Nessuna cardiopatia strutturale (LVEF conservata).

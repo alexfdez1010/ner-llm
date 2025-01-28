@@ -1,0 +1,43 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+ANAMNESI PERSONALE
+Nessuna allergia nota ai farmaci.
+Nessuna abitudine tossica.
+Fattori di rischio cardiovascolare: ipertensione regolarmente controllata. Nessuna dislipidemia o diabete noti. Sovrappeso.
+Nessuna anamnesi medica o chirurgica di interesse.
+Trattamento abituale: losartan 50 mg/idroclorotiazide 12,5 mg 1 compressa ogni 24 ore.
+
+MALATTIA ATTUALE
+Un uomo di 53 anni con ipertensione arteriosa da circa due anni con scarso controllo domiciliare, che ha consultato il pronto soccorso per un dolore clinico descritto come lancinante/oppressivo nella regione interscapolare che si irradia verso la regione anteriore del torace e la faccia interna dell'arto superiore sinistro in caso di sforzo di intensità moderata/elevata, che si attenua gradualmente con il riposo, da 2 settimane. Riferiva inoltre una lieve sensazione di dispnea, senza palpitazioni o corteccia vegetativa, e negava precedenti episodi simili.
+Dopo aver eseguito esami complementari in Pronto Soccorso (dettagliati di seguito), si è deciso di monitorarla per le prime 24 ore in osservazione, senza nuovi eventi.
+
+ESAME FISICO
+Buone condizioni generali. Cosciente e orientata. Collaborativa. Ben idratato e perfuso.
+Afebbrile.
+Emodinamicamente stabile con pressione arteriosa di 132/87 mmHg (all'arrivo in ED 200/112 mmHg) e frequenza cardiaca di 70 bpm. Eupneico a riposo e quando parla, tollera il decubito completo e non necessita di ossigenoterapia supplementare.
+All'auscultazione, toni cardiaci ritmici senza soffi udibili. Il soffio vescicale era conservato senza crepitii o altri rumori patologici.
+L'esame addominale non ha dato risultati. Gli arti inferiori non presentano edema o segni di trombosi venosa profonda (TVP).
+Nessun altro reperto degno di nota all'esame.
+
+ESAMI COMPLEMENTARI
+ECG all'ammissione: ritmo sinusale a 65 bpm. Asse normale. PR 160 msec. QRS stretto con scarsa progressione dell'onda R nelle derivazioni precordiali destre. Onde T negative simmetriche e profonde da V1 a V4 e isodifasiche in V5 (schema di Wellens).
+ECG dopo intervento coronarico percutaneo: ritmo sinusale a 70 bpm. Asse normale. PR normale. QRS stretto con scarsa progressione della R nelle precordiali destre e normalizzazione delle onde T nelle serie precordiali.
+Esami del sangue: glicemia 102 mg/dl. Creatinina 1,24 mg/dl. Urea 36 mg/dl. Sodio 143 mEq/l.
+Potassio 4,3 mEq/l. Profilo lipidico: colesterolo totale 206 mg/dl, colesterolo HDL 43 mg/dl, colesterolo LDL 133 mg/dl, trigliceridi 148 mg/dl. Profili epatici e tiroidei normali.
+Emoglobina glicata 5,9%. Marcatori di danno miocardico con picco ultrasensibile di cTnT di 121,8 ng/l. Emogramma senza leucocitosi con formula normale. Hb 150 g/l. Piastrine 229.000. Studio della coagulazione normale.
+Radiografia del torace: indice cardiotoracico normale. Ilarità ben definita, nessuna evidenza di congestione polmonare o condensazione parenchimale. Seni costofrenici liberi.
+Ecocardiografia transtoracica: ventricolo sinistro non dilatato (LVEDD 45 mm, LVOT 148 ml, STV 54 ml) con setto medio-basale di 12,5 mm, con funzione sistolica ampiamente conservata (LVEF 63% secondo Simpson biplano). Non si notano difetti di contrattilità segmentaria. Atrio sinistro al limite superiore della normalità (diametro AP 36 mm, volume indicizzato 30 ml/m2). Valvola mitrale normale. Velocità dell'onda E mitrale 5 cm/sec, onda A 61 cm/sec. E" settale 7,7, E" laterale 8,8, E/E" 7,6. Valvola aortica trivalve con flussi normali. Radice aortica non dilatata (seni di Valsalva 38 mm).
+Camere destre non dilatate, senza insufficienza tricuspidale che permetta di stimare la pressione sistolica dell'arteria polmonare (PAPs) (nessun dato indiretto di PHT). Vena cava inferiore (IVC) non dilatata. Assenza di versamento pericardico.
+Angiografia coronarica: accesso radiale destro. Arteria coronaria principale sinistra senza lesioni. Arteria discendente anteriore con lesione subtotale prossimale con buon vaso distale.
+Arteria circonflessa dominante senza lesioni. Arteria coronaria destra ipodensa senza lesioni. L'impianto diretto di uno stent a rilascio di zotarolimus (Resolute Onyx 3,5 x 18 mm) è stato eseguito sull'arteria discendente anteriore prossimale (ADA), senza complicazioni immediate e con buoni risultati angiografici finali.
+
+EVOLUZIONE CLINICA
+Durante la degenza, il paziente ha presentato un episodio di dolore toracico con un profilo tipico per ischemia senza corteccia vegetativa associata, durante il quale è stato osservato un minimo innalzamento del segmento ST nella faccia anteriore, che si è attenuato dopo la somministrazione di nitrati, mentre persisteva l'inversione dell'onda T descritta prima del ricovero.
+Controlli analitici seriali hanno mostrato una discreta mobilizzazione di biomarcatori di danno miocardico (picco di TnTus 121,8 ng/l). Sulla base dei sintomi clinici compatibili con un'angina di recente insorgenza e dei reperti descritti, è stata richiesta un'angiografia coronarica preferenziale, che ha rivelato una lesione subtotale a livello prossimale dell'arteria discendente anteriore, senza altre lesioni coronariche associate. Questa lesione è stata rivascolarizzata per via percutanea e uno stent a rilascio di farmaco è stato impiantato senza incidenti e con buoni risultati angiografici. Al termine della procedura, è stato eseguito un nuovo elettrocardiogramma che ha mostrato la normalizzazione dei disturbi della ripolarizzazione descritti al ricovero.
+Per quanto riguarda gli esami di imaging, l'ecocardiografia ha mostrato un ventricolo di dimensioni e morfologia normali con frazione di eiezione conservata (LVEF 63%), senza identificare alterazioni segmentali della contrattilità.
+Dopo l'intervento coronarico, il paziente è rimasto completamente asintomatico e senza complicazioni derivanti dalla procedura ed è stato dimesso. Attualmente sta seguendo un programma di riabilitazione cardiaca presso il nostro centro, con una buona tolleranza agli esercizi eseguiti in palestra, rimanendo asintomatico e senza incidenti clinici degni di nota.
+
+DIAGNOSI
+Infarto miocardico acuto non-ST-segment elevation (NSTEMI) con coronaropatia a un solo vaso (lesione subtotale della LAD prossimale). Intervento coronarico percutaneo (PCI) con stent a rilascio di farmaco diretto (DES) senza incidenti.
+Manifestazione elettrica iniziale con pattern di Wellens.
+Ipertensione mal controllata.

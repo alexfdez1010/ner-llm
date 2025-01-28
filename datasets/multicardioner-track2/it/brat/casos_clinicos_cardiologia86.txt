@@ -1,0 +1,19 @@
+Anamnesi, malattia attuale ed esame fisico
+Paziente maschio di 54 anni con storia di ipertensione arteriosa, diabete mellito di tipo 2, senza allergie note.
+Trattamento domiciliare con insulina Lantus 24 UI/24h e insulina rapida 4 UI/8h, losartan 100 mg/24h. Si è presentata al pronto soccorso con una sensazione di intorpidimento dell'arto superiore destro (DMS) la notte precedente, e al risveglio non riusciva a muoverlo. Negava altri sintomi. Cosciente, orientata, vigile. Linguaggio normale. EOM normale. Nervi cranici normali. Paresi in MSD 3/5 e lieve ipoestesia. Toni cardiaci ritmici senza soffi. MV conservata senza rumori aggiunti. Nessun edema agli arti inferiori. Riposo normale.
+
+Esami complementari
+Emocromo: emogramma normale, coagulazione normale. Biochimica con G 123 mg/dl, Cr 1 mg/dl. Colesterolo 192 mg/dl, LDL 133 mg/dl, TG 97 mg/dl. A riposo normale.
+ECG: ritmo sinusale a 54 bpm, asse normale, nessuna alterazione della ripolarizzazione.
+TC cranica: lesione ischemica nella porzione più posteriore del lobo parietale sinistro. Un'altra immagine ipodensa di morfologia triangolare nel lobo frontale sinistro suggerisce una lesione ischemica. Nessun altro reperto rilevante.
+Eco-Doppler del TSA: onda parvus tardus a livello dell'ICA in disaccordo con quanto osservato in B-mode e colore, che potrebbe essere correlato alla stenosi, per cui si raccomanda l'angio-RM.
+Angio-RM del TSA: non si osservano dati significativi di stenosi nei bulbi carotidei o nelle arterie carotidi interne o esterne su entrambi i lati. Le arterie basilari e vertebrali sono libere.
+RMN cerebrale: diverse lesioni nel territorio MCA sinistro con restrizione della diffusione, corrispondenti a lesioni ischemiche acute di probabile origine embolica.
+Ecocardiogramma transtoracico: aI 35,9 mm e Ao 32 mm. Funzione sistolica LV conservata con LVEF del 64%. Riempimento ventricolare con pattern di rilassamento alterato. Lieve LVH. È stato iniettato FSS per via endovenosa periferica e non sono state osservate bolle che passavano attraverso il setto interatriale, suggerendo un PFO.
+
+Evoluzione clinica
+Il paziente ha recuperato la forza muscolare, ma ha presentato una lieve ipoestesia al braccio destro. È stata dimessa con una diagnosi di infarto cerebrale parietale e frontale sinistro di natura incerta; in trattamento con acido acetilsalicilico 300 mg/24h e atorvastatina 80 mg/24h. È stata riammessa dopo 8 mesi a causa di sintomi vertiginosi, vomito, disartria e instabilità dell'andatura, nonché nistagmo orizzontale a sinistra che, oltre ai precedenti infarti, ha mostrato una nuova lesione alla TAC cranica, compatibile con un infarto acuto nel territorio del PICA sinistro. Lo studio cardiologico è risultato normale e l'ecocardiografia transesofagea (TEE) è stata richiesta su base programmata. Il paziente è stato dimesso con una diagnosi di ictus ischemico cerebellare sinistro criptogenetico e un trattamento con Sintrom, sospendendo acido acetilsalicilico. La TEE è stata eseguita e ha riportato l'assenza di dilatazione delle cavità. Assottigliamento del setto interatriale a livello del forame ovale senza distacco macroscopico e senza anomalie di mobilità, senza segni di shunt visti al color Doppler. L'ecocontrasto è stato eseguito con soluzione colloidale agitata sia al basale che dopo la manovra di Valsalva. Dopo la manovra di Valsalva è stato osservato un passaggio precoce di microbolle alla cavità sinistra. Il paziente è rimasto stabile durante il follow-up senza nuovi episodi cardioembolici.
+
+Diagnosi
+Forame ovale pervio
+Ictus ischemico criptogenetico ricorrente

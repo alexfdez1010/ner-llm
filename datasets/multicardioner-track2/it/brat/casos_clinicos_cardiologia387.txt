@@ -1,0 +1,35 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+ANAMNESI:
+Nessuna allergia nota ai farmaci.
+CVRF: ex fumatore di un pacchetto di sigarette al giorno per 2 anni dopo un infarto miocardico acuto (AMI). Dislipidemia in trattamento farmacologico.
+Anamnesi cardiologica: sotto controllo ambulatoriale per cardiopatia ischemica cronica e dislipidemia.
+Nel 2016, sindrome coronarica acuta (STEMI) con elevazione del segmento ST inferoposterolaterale: il cateterismo ha rivelato una grave coronaropatia in due vasi: circonflesso (lesione acuta) e coronaria destra, con impianto di uno stent a rilascio di farmaco in ciascuno dei vasi.
+Ultimo ecocardiogramma (luglio 2017): ventricolo sinistro (LV) non dilatato, lievemente ipertrofico, con funzione sistolica globale conservata e ipocinesia inferoposteriore. Valvola aortica trivalve senza alterazioni funzionali. Valvola mitrale senza alterazioni funzionali rilevabili. Ventricolo destro (RV) non dilatato con buona funzione. Non è stata rilevata alcuna insufficienza tricuspidale (TI). Curva di accelerazione polmonare non suggestiva di ipertensione polmonare. Assenza di versamento pericardico.
+Nessuna broncopatia nota.
+Nessuna storia di interventi chirurgici.
+Trattamento abituale: omeprazolo 20 mg (1-0-0), acido aceltisalicilico (ASA) 100 mg (0-1-0), ramipril 2,5 mg (0-1-0), rosuvastatina 20 mg (0-0-1), ezetimibe 10 mg (0-0-1).
+
+MALATTIA ATTUALE:
+Il paziente si presenta alla visita cardiologica ambulatoriale, un anno dopo l'infarto.
+Soggettivamente sta bene, senza dispnea o nuovi episodi di dolore toracico da sforzo. Dopo l'ultima modifica del trattamento con statine, non ha più avuto dolori muscolari. Esce tutti i giorni e cammina per più di un'ora. Sale le scale della sua abitazione abituale (3° piano) senza soffrire di dispnea che lo costringe a fermarsi per riposare. Nega l'ortopnea e la dispnea parossistica notturna.
+Impaziente di ricevere i risultati degli esami del sangue. Dopo il ricovero per IMA, gli è stata diagnosticata una dislipidemia, iniziando un trattamento con atorvastatina 80 mg, che ha dovuto essere sospeso 4 mesi dopo l'inizio a causa di dolori muscolari invalidanti. Attualmente è in trattamento con rosuvastatina 20 mg ed ezetimibe 10 mg.
+
+ESAME FISICO:
+Pressione arteriosa (BP) 135/70 mmHg, frequenza cardiaca (HR) 85 bpm, saturazione arteriosa di ossigeno misurata con pulsimetria (SpO2) 98% aria ambiente. Eupnea a riposo. C/C: nessuna pletora giugulare. Auscultazione cardiaca: ritmica senza soffi. Auscultazione polmonare: murmure vescicolare conservato. Estremità: nessun edema o evidenza di trombosi venosa profonda (TVP).
+
+ESAMI COMPLEMENTARI
+ELETTROCARDIOGRAMMA (ECG): ritmo sinusale a 80 bpm. Asse normale. PR normale. QRS stretto. Onda Q in DIII e avF, senza alterazioni acute della ripolarizzazione.
+ANALISI: glucosio 83 mg/dl, urea 53 mg/dl, creatinina 0,93mg/dl, colesterolo totale 160 mg/dl, colesterolo HDL 47mg/dl, colesterolo LDL 70 mg/dl, trigliceridi 130 mg/dl, CK 112 U/l, GOT 17 U/l, GPT 30 U/l, GGT 45 U/l, sodio 141 mmol/l, potassio 4,6 mmol/l, emoglobina 14,6 g/dl, leucociti 8.40010^3/μl (N 45%), piastrine 267.000 10^3/μl.
+Ecocardiogramma transtoracico: LV non dilatato, lievemente ipertrofico con funzione sistolica globale conservata e ipocinesia basale inferoposteriore. Pattern diastolico pseudonormalizzato. Radice aortica normale (35 mm). Valvola aortica trivalve senza alterazioni funzionali. Valvola mitrale normale per struttura e funzione. RV non dilatato con buona funzione. Non è stato rilevato alcun TR. Curva di accelerazione polmonare non suggestiva di ipertensione polmonare. Assenza di versamento pericardico.
+
+EVOLUZIONE CLINICA
+Dopo l'IMA, al paziente è stata diagnosticata una dislipidemia. Inizialmente ha iniziato un trattamento con atorvastatina 80 mg, che ha dovuto essere interrotto dopo 3 mesi a causa di mialgie invalidanti, senza evidenza di miosite o rabdomiolisi. Successivamente, è stata prescritta rosuvastatina 40 mg, ottenendo un miglioramento dei dolori muscolari, ma senza una cessazione completa, che ha richiesto una riduzione della dose a rosuvastatina 20 mg nel quarto mese dell'evento. Questo ha portato a un grande miglioramento sintomatico con la scomparsa delle mialgie, e la donna è stata in grado di mantenere una normale vita attiva. Tuttavia, al successivo controllo ambulatoriale, 6 mesi dopo l'evento cardiovascolare, i livelli di colesterolo lipoproteico a bassa densità (LDL-C) raccomandati per la prevenzione secondaria non erano stati raggiunti, per cui è stato aggiunto al trattamento l'ezetimibe e si è posta particolare enfasi sull'importanza del rispetto delle misure igieniche e dietetiche. Il paziente è stato rivisto un anno dopo l'IMA.
+Attualmente, il paziente riferisce di essere completamente asintomatico dal punto di vista cardiologico, anche se un po' nervoso e disperato a causa dell'impossibilità di ottenere un controllo adeguato dei livelli di LDL-C. Segue una dieta mediterranea con un basso apporto di grassi, cammina quotidianamente a passo sostenuto per 2 ore e assume tutti i suoi farmaci in modo esaustivo.
+Con tutto questo, finalmente, sono stati raggiunti i livelli target ottimali di LDL-C, sapendo che il nostro paziente ha un rischio cardiovascolare accertato molto elevato.
+
+DIAGNOSI
+Cardiopatia ischemica cronica.
+Dislipidemia difficile da controllare.
+Intolleranza alle statine (mialgie).
+Funzione sistolica LV conservata.

@@ -1,0 +1,17 @@
+T104	FARMACO 511 521	cisplatino
+T109	FARMACO 524 533	etoposide
+T112	FARMACO 636 649	atorvastatina
+T113	FARMACO 840 852	paracetamolo
+T105	FARMACO 4433 4443	cisplatino
+T110	FARMACO 4446 4455	etoposide
+T119	FARMACO 4879 4910	eparina a basso peso molecolare
+T114	FARMACO 4947 4969	acido acetilsalicilico
+T115	FARMACO 4978 4989	clopidogrel
+T116	FARMACO 5222 5231	tirofiban
+T117	FARMACO 5264 5274	ticagrelor
+T120	FARMACO 5317 5348	eparina a basso peso molecolare
+T118	FARMACO 5990 6000	ticagrelor
+T106	FARMACO 6188 6198	cisplatino
+T107	FARMACO 6416 6426	cisplatino
+T108	FARMACO 6658 6668	cisplatino
+T111	FARMACO 6671 6680	etoposide

@@ -1,0 +1,24 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+51-year-old male, no known drug allergies to date. Cardiovascular risk factors: ex-smoker for 3 years and dyslipidaemia on treatment with atorvastatin 40 mg/24 hours. No family history of heart disease or sudden death. No other pathological history of interest.
+She came to the emergency department the previous night while walking to the toilet, presenting with oppressive central thoracic pain radiating to the left upper limb with accompanying vegetative symptoms that subsided self-limited in approximately 20 minutes. No previous history of syncope, exertional angina or palpitations. Usual NYHA functional class I.
+Physical examination: blood pressure (BP) 120/80. Baseline SatO2 99%. Heart rate (HR) 90 bpm. Jugular venous pressure normal. Cardiac auscultation: rhythmic heart sounds, without murmurs or extratonos. Pulmonary auscultation: normal ventilation. Lower limbs: no oedema, no signs of deep vein thrombosis. Palpable and symmetrical distal pulses.
+
+COMPLEMENTARY TESTS
+Blood tests: creatinine 0.74 mg/dl, urea 43 mg/dl, total cholesterol 207 mg/dl, LDL 128 mg/dl, triglycerides 182 mg/dl, Na 138 mEq/l, potassium 5 mEq/l, troponin I US 15 → 40 ng/l (normal 0-19.8), Hb1AC 5.5%, haemoglobin 16.4 g/dl, leukocytes 7,500/mm3, platelets 201,000/mm3. Basic coagulation without alterations.
+Chest X-ray: normal cardiothoracic index. No pleuroparenchymal alterations.
+Electrocardiogram (ECG): sinus rhythm with rectified ST segment in lateral leads. No dynamic changes in successive ECGs.
+
+Transthoracic echocardiogram: left ventricle of normal size and systolic function (EF estimated by Simpson biplane 65%), without segmental alterations of contractility. Normal wall thickness. Altered relaxation pattern. Trivalve aortic valve with thin leaflets, competent. Mitral valve with thin leaflets, without restriction to its opening, with central trivial reflux. Right ventricle not dilated, with normal systolic function (TAPSE 20 mm). Tricuspid valve with thin leaflets, minimal insufficiency that prevents estimation of PAPs. Inferior vena cava (IVC) not dilated with preserved inspiratory collapse. Aortic root and ascending thoracic aorta visualised as normal. Absence of pericardial effusion or intracavitary masses by this technique.
+Cardiac catheterisation: left coronary artery (LMCA): no lesions. Anterior descending (LAD): no angiographically significant lesions. Sign of non-perfused myocardium, with avascular area in the posterolateral area of the left ventricle. Circumflex (Cx): anomalous origin of its origin from the right coronary sinus adjacent to the DC ostium, with retroaortic trajectory. Subocclusive artery from its origin that receives collateral circulation to the marginal branch from the CD artery. Right coronary (RCA): dominant. Diffuse atheromatosis with two moderate tandem lesions in distal RCA. The posterior descending (PD) artery presents angiographically moderate lesion at the ostium level and significant at the medial level.
+Percutaneous coronary interventionism (PCI) was performed on: Cx: multipurpose catheter and hydrophilic guide. Predilatation with conventional 2 x 20 mm balloon. Implantation of two overlapping drug-eluting stents, everolimus-eluting, 2.25 x 28 and 2.25 x 32 mm. Good angiographic result.
+PD: AR2 catheter and hydrophilic guidewire. Implantation of a 2.75 x 26 mm everolimus-eluting drug-eluting stent. Good angiographic result.
+
+CLINICAL EVOLUTION
+With the diagnosis of NSTEACS, the patient was admitted to the coronary unit. Anti-aggregation treatment was started with acetylsalicylic acid and ticagrelor and anticoagulation with fondaparinux. In the first 24 hours, cardiac catheterisation showed a suboccluded circumflex artery with anomalous origin from the right coronary sinus adjacent to the ostium of the right coronary artery, with a retroaortic trajectory, which received collateral circulation from the right coronary artery. Given the favourable coronary anatomy, two overlapping drug-eluting stents were implanted over the circumflex artery and one drug-eluting stent over the significant lesion in the posterior descending artery.
+The patient had a good clinical evolution during his admission, with no heart failure or arrhythmic events. No clinical events occurred after three months of outpatient follow-up.
+
+DIAGNOSIS
+Acute coronary syndrome without ST elevation of lateral location. Evolution to non-Q AMI. Killip I.
+Anomalous origin of circumflex coronary artery from right coronary sinus with retroaortic course. Two-vessel coronary artery disease: circumflex artery suboccluded at the origin, significant stenosis in the posterior descending branch of the right coronary artery.
+Complete percutaneous revascularisation with drug-eluting stents.
+Preserved left ventricular systolic function.

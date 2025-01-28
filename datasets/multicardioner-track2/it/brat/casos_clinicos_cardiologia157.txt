@@ -1,0 +1,27 @@
+Storia clinica e malattia attuale
+Uomo di 43 anni ricoverato per una sindrome coronarica acuta non a innalzamento del segmento ST (NSTEACS).
+
+Storia personale
+- Allergia a pollini e acari
+- Rinite allergica. Asma bronchiale strinseca con frequenti riacutizzazioni
+- Fumatore
+- Non sono noti ipertensione, dislipidemia o DM
+- QI: appendicectomia e frattura del radio ulnare destro
+
+Trattamento abituale: seretide 50/500. Ventolin al bisogno. Omeprazolo e occasionalmente almax. Malattia attuale: il 15/10/2011 si è svegliata nelle prime ore del mattino con un dolore toracico opprimente che si irradiava al braccio sinistro. Si è recata al pronto soccorso dell'ospedale 12 ore dopo l'inizio del dolore, presentando una depressione del segmento ST ed enzimi cardiaci elevati all'ECG.
+Esame fisico: buone condizioni generali. T.A. 100/70. Eurnico. Assenza di IY. C.C.: ritmico, senza soffi o frizioni. A.P.: normale. Addome e EEII: nessun reperto significativo.
+
+Esami complementari
+- ECG: ritmo sinusale con lieve innalzamento del segmento ST in II, da V3 a V5, senza onde Q.
+- Esami di laboratorio: creatinina 1,14. Glucosio 78, urato 7,6. Colesterolo 182. HDL-C 30. TG 136. LDL-C 125. TnT ultrasensibile all'ammissione 306, picco TnT ultrasensibile 1.503, ProBNP 105, CPK 98. GOT 47. GPT 61. Proteina C-reattiva 12,2. TSH 1,68. Emogramma con 12300 leucociti.
+- Angiografia coronarica: arterie coronarie angiograficamente normali. EF conservata e nessun disturbo della motilità regionale.
+- Ecocardiogramma: ventricolo sinistro non dilatato né ipertrofico, con EF normale (60%). Non sono state osservate alterazioni della contrattilità segmentale. E: 52, A: 57, TDE: 190. Valvole anatomicamente e funzionalmente normali. Atrio sinistro non dilatato. Camere destre non dilatate. TAPSE: 19 mm. Radice aortica e aorta ascendente di calibro normale. Assenza di versamento pericardico.
+- Risonanza magnetica cardiaca: aree multiple di interessamento subepicardico e intramiocardico a livello anterolaterale, laterale, apicale e inferomediale del ventricolo sinistro. Funzione sistolica conservata.
+
+Decorso clinico
+Al momento del ricovero i sintomi sono stati interpretati come NSTEACS e il trattamento è stato iniziato con una doppia terapia antiaggregante, LMWH, nitrati e ACE-inibitori. Il trattamento con beta-bloccanti non è stato iniziato a causa di una storia di asma con frequenti riacutizzazioni. L'evoluzione clinica è stata buona, senza recidive di dolore toracico o segni di insufficienza cardiaca. Non vi è stata alcuna evoluzione elettrocardiografica e non sono comparse nuove onde Q. Tuttavia, la TnT ultrasensibile è rimasta elevata dopo il ricovero. Il giorno successivo al ricovero è stato eseguito un cateterismo cardiaco, che ha mostrato arterie coronarie normali dal punto di vista angiografico e una funzione sistolica globale conservata senza alterazioni segmentali della contrattilità in ventricolografia o ecocardiografia. È stata eseguita una risonanza magnetica cardiaca che ha mostrato un aumento tardivo del gadolinio tipico della miocardite.
+
+Diagnosi
+- Miocardite acuta
+- Arterie coronarie angiograficamente normali
+- Funzione sistolica del ventricolo sinistro conservata

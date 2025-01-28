@@ -1,0 +1,42 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Nessuna reazione allergica nota ai farmaci.
+Fumo attivo: 30 sigarette al giorno.
+Obesità patologica. Ipertensione arteriosa. Diabete mellito insulino-dipendente. Dislipidemia. Iperuricemia. Ipotiroidismo.
+Malattia renale cronica allo stadio 3B (velocità di filtrazione glomerulare al basale 30-35 ml/min).
+Malattia arteriosa periferica: claudicazione intermittente di grado Fontaine IIa.
+Cardiopatia ischemica: ricoverato per angina instabile nel 2008. Il cateterismo ha rivelato un grave danno a tre vasi (discendente anteriore [DA], coronaria destra [CD], prima marginale ottusa [OM]). Solo la LAD è stata rivascolarizzata chirurgicamente con un innesto di arteria mammaria interna sinistra.
+Trattamento abituale: acido acetilsalicilico (ASA) 100 mg al giorno, enalapril 20 mg al giorno, atenololo 12,5 mg al giorno, furosemide 40 mg a colazione e a pranzo, metformina 850 mg ogni 12 ore, insulina mista (normale 30%, isofano 70%) 30 unità al mattino e 20 unità alla sera, simvastatina 40 mg al giorno, allopurinolo 100 mg al giorno, eutirox 50 mcg al giorno, omeprazolo 20 mg al giorno.
+
+Malattia attuale
+Una donna di 84 anni si è presentata al pronto soccorso per un episodio di dolore toracico centrale non irradiante che si manifestava con uno sforzo minimo, durava pochi minuti e cessava spontaneamente, con caratteristiche simili alla sua precedente angina, anche se di intensità minore. Durante la permanenza al pronto soccorso, la paziente ha presentato un altro episodio, durante il quale sono state osservate alterazioni elettrocardiografiche dinamiche, che si sono attenuate con la somministrazione di nitroglicerina sublinguale.
+La paziente era asintomatica dal punto di vista cardiovascolare dal suo precedente ricovero nel 2008.
+
+Esame fisico
+Segni vitali: pressione arteriosa nel braccio sinistro 125/63 mmHg, nel braccio destro 143/75 mmHg. Frequenza cardiaca 63 bpm. Saturazione di ossigeno 97% al basale.
+Buone condizioni generali. Cosciente e orientato, collaborante, normoidratato e normoperfuso.
+Auscultazione cardiaca: murmure ritmico e sistolico II/VI prevalentemente a livello aortico, con presenza di un secondo rumore.
+Auscultazione polmonare: murmure vescicolare conservato, senza suoni aggiunti.
+Addome: suoni idroaerei conservati, morbidi e depressibili, non dolenti alla palpazione.
+Arti inferiori: nessun edema, pulsazioni distali deboli.
+
+ESAMI COMPLEMENTARI
+Emocromo all'ammissione: emoglobina 16,6 g/dL senza alterazioni, assenza di leucocitosi. Emostasi normale. Glucosio 152 mg/dl, creatinina 1,44 mg/dl, filtrazione glomerulare 35,20 ml/min, sodio 143 mmol/l, potassio 4,1 mmol/l, cloro 106 mmol/l, proteina C reattiva 3,8 mg/l, due determinazioni di troponina I 0,0 ng/ml. LDL 119 mg/dl. HbA1c 8,6%.
+Elettrocardiogramma (ECG) con dolore toracico: fibrillazione atriale a 95 bpm. QRS stretto. Tensioni basse. Infradeviazione di 1 mm e rettifica ST da V2 a V6, DI e aVL.
+ECG senza dolore: ritmo sinusale a 65 bpm. Correzione delle alterazioni della ripolarizzazione.
+Angiografia coronarica: lesione del 90% nel segmento medio della LAD. Si osserva un ponte mammario verso la LAD medio-distale, che si riempie retrogradamente dalla LAD. Circonflessa dominante (Cx) cronicamente occlusa dal segmento prossimale, con scarso riempimento da parte delle collaterali omocoronariche distalmente. CC scarsamente sviluppata con occlusione cronica nel segmento medio, riempita distalmente da una circolazione collaterale omocoronarica. Il ponte tra la mammella e la LAD è libero e privo di lesioni. All'origine dell'arteria succlavia sinistra si osserva una stenosi significativa con un gradiente di pressione di 60 mmHg.
+Angio-TC: stenosi cronica dell'arteria succlavia sinistra prossimale a circa 32 mm dalla sua origine, condizionata da una placca mista. L'origine dell'arteria mammaria interna sinistra dista 11 mm dalla placca.
+Ecocardiogramma: ventricolo sinistro non dilatato con frazione di eiezione conservata. Alterazioni della contrattilità segmentale nei segmenti inferiore e inferolaterale. Lieve ipertrofia ventricolare sinistra. Ventricolo destro di dimensioni e funzione normali. Dilatazione biauricolare. Nessuna valvulopatia significativa.
+
+EVOLUZIONE CLINICA
+Dopo aver riscontrato una stenosi significativa dell'arteria succlavia sinistra con compromissione del flusso verso il bypass mammario dell'arteria discendente anteriore, è stata eseguita un'angiografia TC per valutare l'anatomia tridimensionale della stenosi. Dato il profilo della paziente e il suo elevato rischio chirurgico, è stata scelta la rivascolarizzazione percutanea, con angioplastica e impianto di destent nell'arteria succlavia sinistra, che si è svolta senza complicazioni.
+Durante il ricovero è stato osservato un deterioramento della funzione renale in relazione alla somministrazione di contrasto e all'insufficiente assunzione di liquidi, che è migliorato con la terapia con il siero, riportando ai valori basali la creatinina e il tasso di filtrazione glomerulare.
+Il paziente è stato dimesso con particolare attenzione al controllo dei fattori di rischio cardiovascolare: cessazione del fumo, dieta sana per il cuore, perdita di peso, esercizio fisico... Per quanto riguarda il trattamento farmacologico dei fattori di rischio, è stata aggiunta la liraglutide per migliorare il controllo glicemico e promuovere la perdita di peso, e la simvastatina 40 mg è stata sostituita dall'atorvastatina 80 mg per raggiungere un obiettivo di LDL inferiore a 55 mg/dl.
+Per quanto riguarda il regime antitrombotico, alla dimissione è stata prescritta una doppia terapia con rivaroxaban 10 mg al giorno e clopidogrel 75 mg al giorno, sospendendo l'ASA precedentemente assunto dal paziente.
+Dopo l'intervento, il paziente è rimasto asintomatico, senza nuovi episodi di dolore toracico durante il ricovero e il successivo follow-up in ambulatorio.
+
+DIAGNOSI
+Angina instabile dovuta alla sindrome da furto della succlavia-coronaria. In un paziente con grave coronaropatia a tre vasi e parziale rivascolarizzazione chirurgica con bypass mammario interno sinistro all'arteria discendente anteriore nel 2008. Funzione sistolica LV conservata.
+Fibrillazione atriale parossistica in questo contesto.
+Insufficienza renale acuta AKIN III su malattia renale cronica, origine prerenale e nefrotossicità da contrasto iodato.

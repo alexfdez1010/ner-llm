@@ -1,0 +1,39 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+ANTEFATTI:
+Maschio di 72 anni. Nessuna allergia nota. Lavoratore amministrativo in pensione.
+Fattori di rischio cardiovascolare (CVR): ipertensione arteriosa (AHT) di 10 anni di evoluzione con buon controllo con due farmaci. Diabete mellito (DM) tipo 2 di 3 anni di evoluzione in trattamento con un antidiabetico orale (ADO), con buon controllo. Dislipidemia trattata con statine dal 2002. Ex fumatore dal 2002 (20 pacchetti/anno).
+Anamnesi cardiologica precedente:
+Cardiopatia ischemica. Esordio nel 2002 con sindrome coronarica acuta (ACS) di tipo angina instabile con malattia di un vaso: discendente anteriore prossimale (LAD) con stenosi dell'80%, rivascolarizzato con stent convenzionale. Frazione di eiezione del ventricolo sinistro (LVEF) normale. Successivamente stabile, senza angina.
+Stenosi aortica lieve con ultimo studio ecocardiografico nell'ottobre 2016: aorta ascendente normale. Atrio sinistro (LA) leggermente dilatato (area di 28 cm2).
+Ventricolo sinistro (LV) leggermente ipertrofico, non dilatato, senza alterazioni della contrattilità segmentale e LVEF conservato. Pattern diastolico di scarso rilassamento.
+Malattia degenerativa della valvola aortica con stenosi lieve (gradiente massimo di 31 mmHg), senza insufficienza. Valvola mitrale con buona apertura e assenza di insufficienza. Camere destre normali. Insufficienza tricuspidale banale. Pressione arteriosa polmonare sistolica (PSAP) 32 mmHg + pressione venosa centrale (CVP) (stimata a 3-5 mmHg). Vena cava inferiore e pericardio normali.
+Fibrillazione atriale parossistica. CHA2DS2-VASc = 4, in trattamento con rivaroxaban dal 2016 senza eventi emorragici.
+Nessun'altra anamnesi di interesse, né interventi chirurgici.
+Farmaci domiciliari: acido acetilsalicilico (ASA) 100 mg (0-1-0), diltiazem 60 mg (1-0-0), simvastatina 20 mg (0-0-1), enalapril 10 mg (1-0-0), metformina 850 mg (1-0-1), omeprazolo 20 mg (1-0-0), rivaroxaban 20 mg (1-0-0).
+
+MALATTIA ATTUALE:
+La paziente è giunta al pronto soccorso del nostro centro per episodi di dolore toracico centrale opprimente, accompagnato da dispnea e corteccia vegetativa, iniziati 3 settimane prima. Inizialmente sono comparsi con uno sforzo intenso, ma nel corso dei giorni sono diventati più frequenti e si sono scatenati con uno sforzo progressivamente minore. Il giorno del ricovero ha avuto un episodio di 15 minuti a riposo che si è attenuato spontaneamente.
+
+ESAME FISICO:
+Pressione arteriosa (BP) 136/82 mmHg, frequenza cardiaca (HR) 66 bpm, saturazione di ossigeno basale (SatO2) 96%. Afebbrile. COC. BEG. NH. NC. Indice di massa corporea (BMI) 28 kg/m2. Pressione venosa giugulare normale. Auscultazione cardiaca: murmure sistolico aortico ritmico II/VI con secondo suono rispettato. Auscultazione polmonare: murmure vescicolare conservato. Addome morbido, depressibile, non dolente, senza masse o megaliti. Arti inferiori senza edema, con evidenza di dermopatia diabetica e pulsazioni pediatriche deboli ma presenti.
+
+ESAMI COMPLEMENTARI
+ANALISI: coagulazione: tempo di protrombina 12,9 sec, tempo di protrombina (rapporto) 1,15. Tempo di tromboplastina parziale 26,6 sec, tempo di tromboplastina parziale (rapporto): 0,89, INR 1,15. Emogramma: ematociti 4,14 x106/μl, emoglobina 11,7 g/dl, ematocrito 34,6%, volume corpuscolare medio 83,6 fl, MCH 28,3 pg, MCHC 33,8 g/dl. Leucociti 4,82 x103/μl con formula normale. Piastrine 158 x103/μl. Biochimica completa: glucosio 89 mg/dl, urea 32 mg/dl, creatinina 0,73 mg/dl, velocità di filtrazione glomerulare (GRF) 90 ml/min, sodio 142 mmol/l, potassio 4,7 mmol/l. Amilasi 67 U/l, lipasi 30 U/l. Fosfatasi alcalina 44 U/l, aspartato aminotransferasi 16 U/l, alanina aminotransferasi 19 U/l, gamma glutamil transferasi 41 U/l, bilirubina totale < 1 mg/dl, colesterolo totale 163 mg/dl, colesterolo HDL 53 mg/dl, trigliceridi 82 mg/dl, colesterolo LDL calcolato 94 mg/dl. HbA1c 6,5%, TSH 2,4 mU/l. Enzimi cardiaci: creatinchinasi 48 U/l con aumento a 50 U/l a 3 ore, troponina T ultrasensibile (TnT-us) 22 ng/l con aumento a 70 ng/l a 3 ore (normale fino a 14 ng/l).
+ELETTROCARDIOGRAMMA (ECG): ritmo sinusale a 62 bpm, blocco di branca sinistro completo senza criteri di Sgarbossa (LBBB già presente in ECG precedenti). ECG seriale senza variazioni.
+RADIOGRAFIA TORACE: portatile, proiezione AP. Indice cardiotoracico normale, senza pizzicamento del seno costofrenico o dati di ridistribuzione vascolare. Assenza di condensazione pneumonica.
+TELEMETRIA durante il ricovero: ritmo sinusale senza eventi aritmici.
+Ecocardiografia transtoracica (TTE): atrio sinistro (LA) moderatamente dilatato. Ventricolo sinistro (LV) non dilatato, con moderata ipertrofia e LVEF conservato. Nessuna alterazione segmentale. Rilassamento LV prolungato. Ventricolo destro (RV) di dimensioni e funzione normali. Valvola mitrale fibrosa, non stenotica. Lieve insufficienza mitralica. Valvola aortica calcificata, mobile, con stenosi aortica lieve per gradiente, moderata per area stimata. Lieve insufficienza tricuspidale. PSAP 32 mmHg + PVC.
+CORONARIGRAFIA: tronco coronarico sinistro: nessuna stenosi. LAD prossimale con stenosi dell'80% nel contesto di una restenosi in-stent, flusso TIMI di grado 3 con buon letto distale. LAD media con stenosi del 70%, flusso TIMI di grado 3 con buon letto distale. DA distale con stenosi del 70% e flusso TIMI di grado 3. Arteria circonflessa distale (Cx) con stenosi del 60%, flusso TIMI di grado 3 e buon letto distale. Arteria coronaria destra: nessuna stenosi.
+INTERVENTO CORONARIO PERCUTANEO (PCI) sulla LAD: l'angioplastica coronarica percutanea transluminale (PTCA) viene eseguita sulla restenosi in-stent nella LAD prossimale, con predilatazione e successivo impianto di uno stent a rilascio di everolimus di 3 x 20 mm. Un altro stent a rilascio di everolimus di 3 x 12 mm viene sovrapposto distalmente alla stenosi del terzo medio. Infine, abbiamo impiantato un altro stent a rilascio di everolimus di 2,5 x 12 mm sulla stenosi distale della LAD.
+
+EVOLUZIONE CLINICA
+Il paziente è stato ricoverato nel reparto di degenza come sindrome coronarica acuta non-ST-segment elevation (NSTEACS) del tipo infarto miocardico acuto non Q (AMI) in una situazione emodinamica stabile (Killip Kimball [KK] I). Dato il soffio aortico e l'anamnesi di lieve malattia della valvola aortica, è stata eseguita un'ecocardiografia per confermare l'assenza di stenosi gravi e valutare la funzione sistolica del ventricolo sinistro. La TTE rivela una stenosi aortica lievemente moderata con LVEF conservata. In presenza di una SCA ad alto rischio, nelle prime 24 ore è stata eseguita un'angiografia coronarica, che ha rivelato una grave restenosi in-stent nella LAD prossimale e lesioni gravi nella LAD media e distale con lesioni moderate nella Cx distale. Nella stessa procedura, è stata eseguita una PCI sulla LAD con l'impianto di tre stent a rilascio di farmaco sovrapposti da prossimale a distale. Il paziente ha avuto un'evoluzione favorevole senza complicazioni.
+Per quanto riguarda la sua CVRF, sembra chiaro che il colesterolo LDL è fuori target e aumenteremo la statina; ma sarà sufficiente? Per quanto riguarda il DM di tipo 2, è ben controllato con la metformina (HbA1c 6,5%). Quindi, devo mantenere il suo trattamento o devo approfittare di questo momento per fare qualcos'altro?
+
+DIAGNOSI
+Cardiopatia ischemica. NSTEACS non Q AMI. KKI. Coronaropatia a 2 vasi: LAD prossimale grave con restenosi in-stent e LAD media e distale grave; Cx distale moderata. PCI su LAD con tre stent a rilascio di farmaco sovrapposti. LVEF conservata senza asinergie.
+Malattia degenerativa della valvola aortica, stenosi aortica lieve-moderata.
+Fibrillazione atriale parossistica, CHA2DS2-VASc = 4, HAS-BLED = 2.
+DM di tipo 2 con buon controllo (HbA1c 6,5%).
+Colesterolo LDL fuori target.

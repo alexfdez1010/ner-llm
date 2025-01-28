@@ -1,0 +1,15 @@
+HISTORY, CURRENT DISEASE AND PHYSICAL EXAMINATION
+An 81-year-old hypertensive woman, type 2 diabetic, dyslipidaemic, ex-smoker and hypothyroid, with a history of rectorrhagia and a transient cerebrovascular accident in the middle cerebral artery territory 10 years ago, who came to the emergency department for chest pain and dyspnoea. For the last 5 hours, she reported intermittent episodes of about 10 minutes duration, oppressive central chest pain, non-radiating, not clearly related to exertion, with associated dyspnoea and no vegetative cortex.
+On first assessment, the patient was haemodynamically stable (blood pressure [BP] 105/65 mmHg, heart rate [HR] 75 bpm), well perfused, basal saturation 94%, eupneic, in good general condition, conscious and oriented. Carotid pulses were rhythmic and symmetrical, with no jugular engorgement. Cardiopulmonary auscultation revealed an aortic systolic murmur that respected the second tone, with normal pulmonary auscultation. There was no oedema in the lower limbs and pulses were preserved.
+
+COMPLEMENTARY TESTS
+ELECTROCARDIOGRAM (ECG): AF at 120 bpm, narrow QRS, left axis, left anterior hemiblock, right bundle branch conduction disorder, with no evidence of acute ischaemia.
+ANALYSIS: creatinine 0.86 mg/dl, no ionic alterations, liver profile within normality, first troponin T 100 ng/dl, second troponin T 60 ng/dl, Hb 10 mg/dl, platelets 140,000, no leukocytosis or neutrophilia, no coagulopathy.
+Transthoracic echocardiogram (TTE): non-dilated left ventricle (LV) with severe hypertrophy of the basal septum (17 mm). Left ventricular ejection fraction (LVEF) preserved (65%) with normal segmental contractility and impaired relaxation. Normal right ventricle (RV). Mild aortic stenosis without other valvulopathies. No pericardial effusion.
+CORONARYGRAPHY: severe lesion in the ostium of the right coronary artery (RCA) which is revascularised with a drug-eluting stent (DES) of biolimus without polymer. Moderate lesion in the first diagonal, with no lesions in the rest of the coronary arteries.
+
+CLINICAL EVOLUTION
+In view of these findings, the patient was admitted to the coronary unit and, after a loading dose, was started on double antiplatelet therapy with acetylsalicylic acid (ASA) 100 mg/24 hours by mouth and ticagrelor 90 mg/24 hours by mouth. On the fourth day of admission, she presented an episode of AF with rapid ventricular response that was cardioverted pharmacologically with amiodarone. As this was a patient with a high embolic risk (CHA2DS2-VASc 7) and a history of previous haemorrhage (HASBLED of 5), the problem of triple therapy was raised and it was decided to opt for the Redual-PCI strategy, continuing treatment with ticagrelor 90 mg/12 hours by mouth for one year, and dabigatran 110 mg/12 hours by mouth indefinitely. To date, no thrombotic or haemorrhagic events have been documented in the patient.
+DIAGNOSIS
+Acute non-ST-segment elevation myocardial infarction (NSTEMI). Critical lesion in ostial DC revascularised with DES.
+Newly diagnosed AF CHA2DS2-VASc 7+ HASBLED 5.

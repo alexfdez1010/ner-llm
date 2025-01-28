@@ -1,0 +1,38 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón 41 años, sin alergias medicamentosas.
+
+ANTECEDENTES:
+Factores de riesgo cardiovascular (FRCV): dislipemia. Exfumador de 20 cigarillos/día.
+Consumidor esporádico de cocaína y alcohol.
+ACV isquémico frontoparietal izquierdo en el contexto de consumo de cocaína (2009). Estudios complementarios realizados (monitorización electrocardiograma [ECG], Doppler de troncos supraaórticos, ecocardiografía transtorácico (ETT) con test de burbujas, estudio de coagulopatía) compatibles con la normalidad. Sin secuelas en la actualidad. Sin antecedentes cardiológicos personales ni familiares.
+Tratamiento habitual: ácido acetilsalicílico 300 mg/día, simvastatina 20 mg/día.
+
+ENFERMEDAD ACTUAL:
+Acude a urgencias por focalidad neurológica consistente en afasia motora y disartria de inicio hace 30 minutos. Se realiza tomografía computarizada (TAC) craneal que muestra lesión conocida frontoparietal izquierda, sin hallazgos agudos isquémicos o hemorrágicos. Se contacta con neurología de guardia que ante puntuación en escala de la National institute of Health Stroke (NIHSS) inferior a 4 (sintomatología poco incapacitante), no se considera candidato a tratamiento de reperfusión. Ingresa en la unidad de ictus para control hemodinámico, evolución y estudio.
+
+EXPLORACIÓN FÍSICA:
+Tensión arterial (TA) 130/70 mmHg. Frecuencia cardiaca (FC) 65 lpm. Saturación de oxígeno (SatO2) 96% (con aire ambiente). Afebril. Auscultación cardiaca: rítmica sin soplos. Auscultación pulmonar: normoventilación. Abdomen anodino. Extremidades inferiores sin edemas o signos indirectos de trombosis venosa profunda (TVP). Pulsos pedios presentes y simétricos.
+Exploración neurológica: pupilas isocóricas normorreactivas. Pares craneales normales. Afasia motora con disartria leve. Fuerza y sensibilidad conservadas y simétricas. Sin alteraciones campimétricas, dismetrías o alteraciones de la marcha.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal a 65 lpm, sin trastornos de conducción, sin alteraciones de la repolarización.
+RADIOGRAFÍA DE TÓRAX: índice cardiotorácico dentro de la normalidad, campos pulmonares sin condensaciones.
+ANALÍTICA: Bioquímica: glucosa 90 mg/dl, urea 24 mg/dl, creatinina 0,9 mg/dl, cloro 99 mEq/l, sodio 141 mEq/l, potasio 4,5 mEq/l. Función tiroidea, vitamina B12 y ácido fólico normales.
+Hemograma: leucocitos 10.100, Hb 16,4 g/dl, Hto 47'8%, plaquetas 260.000. Serologías: negativas. Tóxicos en orina: negativos.
+ESTUDIO DE TROMBOFILIA: heterocigoto para el polimorfismo C677T, normal para mutaciones del factor V Leyden y de la protrombina G20210A.
+ETT: ventrículo izquierdo (VI) no dilatado ni hipertrófico, función sistólica global y segmentaria normales. Aurícula izquierda ligeramente dilatada. Cavidades derechas normales, contractilidad de ventrículo derecho (VD) normal. Válvula mitral: sobre borde libre de valva anterior mitral se aprecia imagen nodular, homogénea, que no interfiere en la cinética valvular.
+Válvula aórtica: trivalva, velos finos, competente. Insuficiencia tricuspídea (IT) ligera. Vena cava inferior (VCI) no dilatada con colapso inspiratorio conservado. Presión arterial pulmonar sistólica (PAPS) normal. Ausencia de derrame pericárdico.
+RESONANCIA MAGNÉTICA NUCLEAR (RMN) CARDIACA: se insinúa imagen nodular de unos 7 mm adherida a valva septal de la válvula mitral, mal definida, que pudiera corresponder a fibroelastoma. Las secuencias de realce tardío no muestran focos de captación que indiquen áreas de necrosis o fibrosis miocárdica. Dada la sospecha, se recomienda ecocardiograma transesofágico.
+ECOCARDIOGRAMA TRANSESOFÁGICO: septo interauricular íntegro.
+Orejuela izquierda libre de trombos. Válvula mitral: velos finos, movilidad y apertura conservadas. Sobre cara auricular de velo anterior mitral (festón A1-A2) se visualiza masa ovalada, de aspecto heterogéneo, sésil, sin interferir en el funcionamiento valvular, que sugiere como primera posibilidad diagnóstica fibroelastoma papilar. Resto de estudio superponible a estudio transtorácico.
+CATETERISMO CARDIACO: coronariografía: dominancia derecha. Tronco coronario izquierdo (TCI): buen calibre, sin lesiones. Arteria descente anterios (DA): sin estenosis, segmento medio intramiocárdico con ligero milking asociado. Circunfleja (Cx): moderado desarrollo, sin lesiones.
+Bisectriz: larga y de buen calibre, sin estenosis. CD: sin estenosis. Aortografía: aorta ascendente de dimensión normal, válvula aórtica trivalva, normofuncionante.
+
+EVOLUCIÓN CLÍNICA
+Durante su estancia en planta, mejoría progresiva con resolución completa de la clínica neurológica en 24 horas. No se objetivan eventos arrítmicos en la monitorización ECG. En el estudio ecocardiográfico se objetiva una masa en velo anterior mitral que sugiere fibroelastoma papilar, como proceso subyacente etiológico del evento vascular presentado por el enfermo.
+Dado el riesgo de potenciales complicaciones embólicas, se decide completar el estudio de forma ambulatoria y plantear exéresis tumoral, por lo que el paciente se remite al servicio de cirugía cardiaca, aceptando el caso.
+Se realiza cirugía de reparación valvular y exéresis tumoral (tiempo de CEC 100 minutos): resección triangular del velo anterior (festón A1) donde se localiza el tumor y anuloplastia con anillo Physio no 34. Se comprueba mediante ETE intraoperatorio que el resultado quirúrgico es correcto. Posoperatorio en la unidad de cuidados intensivos (UCI) sin incidencias, iniciando en planta rehabilitación y alta precoz.
+Se remite la biopsia al servicio de anatomía patológica, confirmando el diagnóstico definitivo de fibroelastoma papilar.
+
+DIAGNÓSTICO
+Accidente isquémico transitorio cardioembólico. Fibroelastoma papilar mitral. Cirugía de resección tumoral y anuloplastia mitral.

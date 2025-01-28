@@ -1,0 +1,20 @@
+Storia clinica e malattia attuale
+Un uomo di 73 anni è stato ricoverato nel reparto di Malattie Infettive per una nuova sindrome febbrile della durata di 4 giorni, senza sintomi focali chiari e con un esame fisico privo di reperti significativi. Nessuna allergia nota ai farmaci. Ex fumatore. Ipertensione arteriosa in trattamento farmacologico. Operato nel 2008 di bypass femoro-popliteo destro con trombosi del bypass un anno dopo e sindrome febbrile autolimitata in relazione alla trombosi. Anemia da carenza di ferro e rimozione di diversi polipi del colon nel 2009.
+Trattamento abituale: amlodipina, lisinopril/HCTZ, clopidogrel, ranitidina, hemovas. ECG all'ammissione: ritmo sinusale a 45 bpm, PR 260 msec, HBAI, BCRDHH, onde T negative in III e aVF. Radiografia del torace all'ammissione: nessuna alterazione.
+Al pronto soccorso sono state prelevate delle emocolture, è stato prescritto un trattamento con augmentin iv e il paziente è stato ricoverato nel reparto di Malattie Infettive. Durante la degenza in reparto, dopo l'infusione di una dose di augmentin iv, il paziente ha riferito prurito intenso su tutto il corpo con comparsa di lesioni cutanee esantematiche, ipotensione arteriosa, pressione precordiale ed episodio di sincope al momento di alzarsi dal letto con ripresa spontanea in pochi secondi.
+In quel momento è stato eseguito un nuovo ECG che ha mostrato un'AVB completa con sopraslivellamento ST di 4 mm nella faccia inferiore e diminuzione speculare in I, aVL e V1-V4. È stato iniziato un trattamento con corticoidi per via endovenosa + polaramina per via endovenosa + sieroterapia, che ha migliorato l'AT e i sintomi allergici.
+In seguito a questo miglioramento clinico, l'ECG è stato ripetuto e le suddette alterazioni sono scomparse, tornando a un ECG simile a quello del ricovero. Viste le alterazioni dell'ECG e la presenza di dolore toracico, il paziente è stato trasferito nel reparto di Cardiologia.
+
+Esami complementari
+- Curva dei marcatori di danno miocardico: negativa.
+- Cateterismo cardiaco: mostra arterie coronarie senza lesioni significative ed ectasia di CD e DA media.
+- ECG Holter: RS stabile con bassa FC media. Nessun VE. Nessuna pausa significativa.
+- Ecocardiografia TT: LV leggermente dilatato con spessore di parete leggermente aumentato e funzione sistolica globale e segmentale conservata. Pattern diastolico di rilassamento allungato. MV sclerificata con lieve MR. Valvola aortica senza alterazioni. LA leggermente dilatato. RV non dilatato, senza disfunzioni. Lieve TR con gradiente RV-AD di 30 mmHg e PSAP stimata di 40 mmHg. Assenza di versamento pericardico.
+
+Evoluzione clinica
+Una volta superata la reazione allergica, il paziente è rimasto asintomatico e non ha presentato ulteriori episodi di dolore toracico. In seguito ai risultati di questi test complementari, il quadro è stato interpretato come vasospasmo dell'arteria coronaria destra secondario ad anafilassi dovuta all'infusione di augmentin iv, causando la cosiddetta angina allergica o sindrome di Kounis. Il paziente è stato inviato al Servizio allergologico ed è risultato allergico alla penicillina G, alla penicillina V, all'ampicillina e all'amoxicillina. Il paziente è progredito positivamente ed è stato dimesso.  
+
+Diagnosi
+- Malattia allergica di Angina-Kounis
+- Vasospasmo coronarico secondario ad anafilassi
+- Reazione anafilattica secondaria all'infusione di amoxicillina-clavulanato

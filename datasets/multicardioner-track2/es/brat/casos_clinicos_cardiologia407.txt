@@ -1,0 +1,34 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+Varón de 64 años de edad con diagnóstico de dextrocardia a los 54 años, a raíz un screening familiar. Hábitos tóxicos: no fumador, bebedor moderado. Realiza una vida activa.
+
+ENFERMEDAD ACTUAL:
+En el momento del diagnóstico en clase funcional I de la New York Heart Association (NYHA) con clínica recurrente de palpitaciones, mareo y síncope, que limitan su calidad de vida. La noche previa al ingreso presentó dolor precordial y palpitaciones junto con pérdida del tono postural y el nivel de conciencia, por lo que consulta a su facultativo, quien coordina ingreso hospitalario para atención médica y estudio.
+
+EXPLORACIÓN FÍSICA:
+Tensión arterial 120/80 mmHg. Frecuencia cardiaca (FC) 100 lpm. Saturación de oxígeno 97%. No ingurgitación yugular. Auscultación cardiaca: rítmico sin soplos. Auscultación pulmonar: normoventilación, sin crepitantes. Abdomen anodino. Miembros inferiores sin edemas.
+Exploración neurológica: pupilas isocóricas normorreactivas. Pares craneales normales. Lenguaje normal. Fuerza y sensibilidad conservadas. Marcha normal.
+
+PRUEBAS COMPLEMENTARIAS
+RADIOGRAFÍA DE TÓRAX: dextrocardia. Índice cardiotorácico mayor de 0,5 con leve redistribución vascular a campos superiores.
+
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal. Conducción auriculoventricular conservada, QRS 120 ms con eje -30o. Onda Q inicial en aVL. Onda T negativa en DIII-aVF, DI-aVL y V5-V6.
+ANALÍTICA: Hb 14 g/dl, Hto 42, Cr 0,9 mg/dl, NT-proBNP 1.000 pg/ml.
+HOLTER ECG: ritmo sinusal con FC máxima de 93 lpm, mínima de 50 lpm, promedio de 61 lpm.
+Extrasístoles ventriculares en formas repetitivas, presenta tres salvas de taquicardia ventricular no sostenida, de segundos de duración, con una FC máxima de 166 lpm.
+ECOCARDIOGRAMA: aurícula izquierda (AI) ligeramente dilatada. Ventrículo izquierdo (VI) de diámetro normal con hipertrofia septal asimétrica moderada (> 15 mm) sin obstrucción a través del tracto de salida del VI, ni movimiento anterior sistólico de la válvula mitral. Disfunción sistólica de VI leve (FE 55 %) y disfunción diastólica de grado 1.
+RESONANCIA MAGNÉTICA NUCLEAR (RMN) CARDIACA: realce tardío con gadolinio distribuido de forma irregular en la pared media de todo el tabique, la pared anterior y la pared libre del ventrículo derecho. Septo interventricular de 15 mm de grosor.
+CONTROL DE CARDIODESFIBRILADOR: programador evidencia descargas apropiadas.
+
+EVOLUCIÓN CLÍNICA
+Durante su ingreso se interroga al paciente sobre los antecedentes familiares: su abuelo paterno y dos de sus tíos fallecieron de MS. Nos encontramos con un paciente con clínica que limita su calidad de vida y, tras los estudios realizados, se confirma el diagnóstico de miocardiopatía hipertrófica. Se estima un riesgo intermedio de MS (HCM Risk-SCD Calculator: riesgo a los 5 años de 4,68%), decidiéndose el implante de desfibrilador automático implantable (DAI) en prevención primaria de MS.
+Después de un periodo estable de 11 meses, presenta descargas apropiadas del DAI a 80 J, demostrando la efectividad de la terapéutica en la prevención de MS en un paciente con miocardiopatía hipertrófica.
+La evolución al año siguiente es favorable. Se optimiza el tratamiento médico, encontrándose en los controles ausencia de descargas de DAI, en el electrocardiograma control está en ritmo sinusal. Se realiza ecocardiograma de control, que muestra VI con hipertrofia septal asimétrica moderada, que no ha progresado, y que mantiene función sistólica del VI (FE 57 %). No se objetiva gradiente dinámico en tracto de salida de VI.
+
+DIAGNÓSTICO
+Miocardiopatía hipertrófica (MCH) septal asimétrica no obstructiva.
+Antecedentes familiares de MS (2o grado). Síncopes de repetición.
+Registro de taquicardia ventricular no sostenida (TVNS).
+Realce tardío intramiocárdico en RMN cardiaca.
+Portador de DAI con descargas apropiadas.

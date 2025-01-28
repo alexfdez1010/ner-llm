@@ -1,0 +1,36 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+ANTEFATTI:
+Uomo di 69 anni, ha lavorato nell'industria mineraria indoor. Nessuna allergia nota ai farmaci. Fattori di rischio cardiovascolare (CVRF): ex fumatore da 40 anni, ha accumulato 25 paq/anno. Ex bevitore. Nessun disturbo metabolico noto.
+Soddisfa i criteri per la sindrome antifosfolipidica (APS) e parzialmente per il lupus eritematoso sistemico (LES). Tromboembolia polmonare segmentaria (PTE) nel 2015 per la quale ha ricevuto anticoagulazione con acenocumarolo.
+Anamnesi cardiologica: nel dicembre 2017, infarto miocardico acuto non-ST-segment elevation (NSTEMI) con coronaropatia a 2 vasi (AMD e PD) con rivascolarizzazione parziale. Al momento del ricovero è stata eseguita un'ecocardiografia transtoracica (TTE) che ha rilevato una lieve ipertrofia ventricolare sinistra (LVH) senza cardiopatia valvolare. La frazione di eiezione del ventricolo sinistro (LVEF) era conservata e il ventricolo destro (RV) non funzionava. Nessuna storia familiare di morte improvvisa precoce.
+Trattamento: acido acetilsalicilico (ASA) 100 mg, clopidogrel 75 mg, acenocumarolo, atorvastatina 80 mg, bisoprololo 2,5 mg, idrossiclorochina, idrossizina e ranitidina.
+
+
+MALATTIA ATTUALE:
+Il paziente si reca al pronto soccorso per un dolore toracico. Riferisce che 2 ore prima della visita e mentre era seduto dopo aver mangiato, ha iniziato ad avvertire un'oppressione toracica centrale con irradiazione all'arto superiore sinistro che gli ricordava il precedente STEMI, anche se di intensità minore. Ha negato di aver avuto episodi anginosi dopo la rivascolarizzazione. Buona l'aderenza alla terapia prescritta.
+All'arrivo è stato eseguito un elettrocardiogramma (ECG) che ha mostrato una tachicardia ventricolare monosistolica sostenuta (SMVT) ben tollerata dal punto di vista emodinamico, per cui si è deciso di eseguire una cardioversione farmacologica con procainamide. Dopo 700 mg in boli da 100 mg, il paziente è tornato al ritmo sinusale. Il paziente è stato ricoverato per completare gli studi.
+
+ESAME FISICO:
+Pressione arteriosa (BP) 140/80 mmHg. Frequenza cardiaca (FC) 160 bpm. SatO2 senza ossigenoterapia 98%. Febbrile.
+Cosciente, orientato e collaborativo. Auscultazione cardiaca: suoni cardiaci ritmici, tachicardia, assenza di soffi. All'auscultazione polmonare: murmure vescicolare conservato, nessun suono aggiunto. Addome: morbido, depressibile, non dolente alla palpazione. Arti inferiori ben perfusi, pulsazioni positive e simmetriche. Nessuna focalità neurologica all'esame.
+
+ESAMI COMPLEMENTARI
+BIOCHIMICA: funzione renale e ioni normali. Troponina T ultrasensibile 17 ng/l, senza elevazione significativa (limite 35 ng/l).
+Emogramma: emoglobina 14,9 g/dl, leucociti 8170 con formula normale, piastrine: 278000.
+RX del torace: indice cardiotoracico normale senza evidenza di patologia acuta.
+ECG all'arrivo: VT con morfologia di blocco di branca sinistra (LBBB), asse inferiore e transizione V3-V4.
+ECG postcardioversione: ritmo sinusale a 60 bpm, T negative in I e aVL e da V4 a V6.
+ECG basale (2015): ritmo sinusale a 65 bpm, T negative in I e aVL e da V4 a V6.
+Risonanza magnetica cardiaca (CMR): RV di dimensioni normali con discinesia della parete anteriore a livello medio-ventricolare e piccole sacculazioni della parete libera a livello sottotricuspidale, frazione di eiezione del ventricolo destro (RVEF) 44%. LV di dimensioni normali con ipertrofia del setto basale (14 mm) e LVEF lievemente depressa. Piccola area di late enhancement intramiocardico alla giunzione inferiore di entrambi i ventricoli a livello medio.
+TTE: LVH lieve con LVEF conservata.
+
+EVOLUZIONE CLINICA
+Data la morfologia del VT, suggestiva del tratto di efflusso del ventricolo destro (RVOT), è stata eseguita una CMR per escludere l'escara miocardica come origine dello stesso ed è stata osservata una LVEF leggermente compromessa, ma una LVEF del 44% con piccole sacculazioni sottotricuspidali e un'area di discinesia. È stato eseguito uno studio elettrofisiologico (EPS), che ha mostrato VT con morfologia LBBB, asse inferiore e transizione in V3 e V4. Inoltre, viene determinata una zona di massima precocità a livello sottotricuspidale, dove la tachicardia viene interrotta eseguendo un'ablazione efficace. Il paziente è rimasto asintomatico e senza nuovi eventi aritmici al follow-up successivo alla dimissione.
+Tuttavia, data la morfologia del VT, le alterazioni della CMR e le caratteristiche dell'ECG basale, tutti criteri minori per la displasia aritmogena del RV, è stata stabilita la diagnosi borderline di displasia aritmogena del ventricolo destro (ARVD).
+
+DIAGNOSI
+TVMS dell'aspetto anterolaterale del RV cardiovertito farmacologicamente con procainamide e ablato con successo.
+Coronaropatia di 2 vasi con rivascolarizzazione parziale.
+LVEF leggermente ridotta.
+Possibile displasia aritmogena del RV (3 criteri minori = diagnosi borderline).

@@ -1,0 +1,34 @@
+HISTORY, CURRENT DISEASE AND PHYSICAL EXAMINATION
+Objective: the interpretation of the ECG and the clinical context is key to diagnosis and subsequent treatment.
+A 31-year-old primigravid 33-week-old woman was transferred to the Cardiology Department of the Hospital Central de Asturias due to dizziness, palpitations and electrocardiographic alterations.
+AP: Allergy to diclofenac and naproxen. She works in a supermarket.
+Cardiovascular risk factors
+No toxic habits.
+No hypertension, mixed dyslipidaemia (currently discharged by endocrinologist, treated with simvastatin and fenofibrate, no follow-up).
+Gestational diabetes treated with insulin Lispro 25/75: 12 units in the morning, 10 units at night.
+No previous cardiological history.
+Hepatic steatosis. Herniated disc.
+Breast reduction surgery.
+
+Present illness
+The patient attended her referral hospital due to dizziness of 24 hours of evolution in relation to standing upright. The symptoms improve with decubitus. No chest pain or dyspnoea. Occasional episodes of palpitations. The patient reported catarrhal symptoms a few days earlier. ECG was performed and described as wide QRS tachycardia at 180 bpm. Vagal manoeuvres were performed but were ineffective and 6 and 12 mg of adenosine were prescribed with no response, so he was referred to our centre. We do not have the patient's baseline ECG. On arrival at our centre, the patient was asymptomatic and haemodynamically stable.
+
+Physical examination
+BP: 110/75 mmHg.
+HR: 188 bpm.
+O2 Sat: 98% without oxygen therapy. Conscious, oriented, cooperative. Normohydrated and normal colour.
+AP: preserved vesicular murmur with no other superimposed noises.
+AC: rhythmic heart sounds with mitral SS III/IV with normal S2.
+Abdomen: 33 weeks pregnant. Scar on the breasts.
+MMII: no oedema, no signs of DVT.
+
+
+COMPLEMENTARY TESTS
+Blood count: Hb 12.5g/dl, MCV 82.6 fL, leukocytes12500 uL (normal formula), platelets 239000 uL. Biochemistry: glucose 125mg/dl, urea 17 mg/dl, creatinine 0.61 mg/dl, sodium 135 mg/dl, CK 56 U/L, troponin T 33 ng/L. Coagulation: PT 87%, INR 1.09, fibrinogen 686, D-dimer 1187 ng/ml. ECG transthoracic echocardiography: study performed at 160 bpm. Non-dilated LV, non-hypertrophic, hypercontractile, without alterations of regional contractility. Preserved LVEF, no dilatation of the right chambers. Moderate mitral insufficiency.
+
+EVOLUTION
+Admission to the Advanced Cardiac Care Unit for monitoring and treatment. Vagal manoeuvres and adenosine 6 and 12 mg were repeated, both without success. IV atenolol 4mg was prescribed, with no response, so electrical cardioversion (ECV) was decided. The case was discussed with the Gynaecology and Anaesthesiology departments and two ECV (100 and 200J) were performed under maternal sedation with propofol and foetal monitoring, both of which were unsuccessful. No foetal distress was observed at any time. The patient remained asymptomatic at all times and haemodynamically stable. Monitoring showed persistent wide QRS tachycardia (same morphology as on the arrival ECG) at similar frequencies (170-190 bpm). Given the persistence of the arrhythmia, it was decided to start treatment with an infusion of beta-blockers (labetalol at 20 ml/h) and an ampoule of 0.5 mg of intravenous digoxin. The tachycardia rate was initially reduced to around 150 bpm, with progressively more frequent presence of sinus beats interspersed with the arrhythmia, followed by trigeminy (visualisation on telemetry recording). A few hours later, sinus rhythm was observed, with isolated ventricular extrasystoles persisting. At 12 hours after the start of perfusion, after several hours in stable sinus rhythm, beta-blocker perfusion was discontinued and the patient's ECG was as shown in figure 2. The patient reported only symptoms of gastro-oesophageal reflux, for which oral ranitindin was prescribed if necessary. After a further 8 hours of monitoring with persistent sinus rhythm, she was transferred to the Cardiology ward and the TTE was repeated.
+The patient remained hospitalised for a further 48 hours and after finding that there were no gynaecological complications and that she remained asymptomatic with an ECG recording in sinus rhythm without alterations, discharge was decided with prophylactic treatment with metropolol pending outpatient consultation with the Arrhythmia section of our centre. After assessment by gynaecology, no complications related to pregnancy were detected, so outpatient follow-up was decided as planned.
+
+DIAGNOSIS
+This must be resolved by the contestant through the interpretation of the ECG.

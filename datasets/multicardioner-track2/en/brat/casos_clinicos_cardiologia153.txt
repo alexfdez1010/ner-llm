@@ -1,0 +1,22 @@
+Medical history and current illness
+46-year-old woman with a history of hypertension and dyslipidaemia. Followed up by cardiology in childhood for a pathology that the patient cannot specify, with no subsequent follow-ups. She began with sudden symptoms of speech impairment and lower right facial paralysis. In the absence of contraindications and with a normal brain CT scan, fibrinolytic treatment with alteplase was administered, with a good initial neurological response. After 3 hours, the patient presented a new clinical deterioration and a new brain CT scan was performed which showed a left frontoparietal haemorrhage with associated small subarachnoid haemorrhage.
+Physical examination on admission showed baseline O2 saturation 88%, with signs of peripheral hypoperfusion with lip cyanosis. Cardiac auscultation showed rhythmic tones with audible systolic ejection murmur in all foci. Hypoventilation in the lower third of the left hemithorax on pulmonary auscultation. Neurological examination revealed aphasia of expression and right central facial paresis. During admission, lip cyanosis persisted with low oxygen saturation and platypnoea-orthodeoxia syndrome. A transthoracic echocardiogram was performed showing tricuspid valve with atrial displacement and severe insufficiency compatible with Ebstein's disease. In addition, an ostium secundum atrial septal defect (ASD-OS) was observed in the posterior septum with bidirectional shunt. Despite the finding of heart disease with a high risk of embolism in the echocardiogram, it was decided to postpone the start of oral anticoagulation due to extensive cerebral bleeding.
+
+Complementary tests
+- Laboratory tests: normal.
+- Arterial blood gases: compensated respiratory acidosis, basal SatO2 77%.
+- Electrocardiogram: sinus rhythm at 85 bpm, right bundle branch block.
+- Initial brain CT scan: normal. Post-fibrinolysis brain CT scan: left frontoparietal haematoma and associated small subarachnoid haemorrhage.
+- Transesophageal echocardiogram: tricuspid with septal leaflet displacement of 38 mm and severe insufficiency, severe right atrial (RA) dilatation, normal right ventricular (RV) contractility, RV-RA gradient 20 mmHg. Celermajer index 1.21. Pulmonary flow and other valves normal. Atrial septal defect (ASD) ostium secundum in posterior septum 15 mm with bidirectional shunt, absence of superoposterior border.
+- Chest X-ray: cardiomegaly at the expense of the right cavities. Right pleural effusion.
+- Thoracic CT angiography: right PTE with extensive pulmonary infarction in the lower lobe.
+- Echo-Doppler of lower limbs: normal.
+
+Clinical evolution
+During admission, good neurological evolution with complete recovery at the end of the stay. During her stay on the ward, the patient presented increasingly severe episodes of oxygen desaturation, reaching oxygen saturations of 67% at baseline, which improved partially with oxygen therapy. The patient reported progressive dyspnoea until minimal exertion, with limited ambulation in the corridor, which improved in the supine position. Given the very low oxygen saturation figures, which the patient had never presented previously, concomitant pulmonary pathology was suspected.
+Thoracic CT angiography showed right pulmonary thromboembolism (PTE) with extensive pulmonary infarction in the lower lobe. At the time of diagnosis, 10 days had passed since the cerebral bleeding. On finding the PTE, treatment with acenocoumarol was started, with clinical improvement and improvement in oxygen saturation figures. Since then, good clinical evolution, with no new brain bleeds or other embolic complications. Given the data of severe TR, the wide OS-ASD, the deterioration of functional class and the multiple embolism situation (stroke and PTE), tricuspid valve repair surgery and ASD closure were indicated and carried out without complications. The patient is currently in good functional class.
+
+Diagnosis
+- Left frontoparietal stroke with haemorrhagic transformation
+- Cardioembolic PTE
+- Ebstein's anomaly and ASD ostium secundum with bidirectional shunt

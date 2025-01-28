@@ -1,0 +1,51 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Un uomo di 52 anni si è consultato per un dolore toracico.
+
+Anamnesi
+Nessuna allergia nota ai farmaci.
+Abitudini tossiche: ex fumatore, 30 pacchetti/anno, ha smesso nel 2013. Bevitore di > 100 g/giorno di alcol fino al 2012. Ex consumatore di droghe per via parenterale tra il 1987 e il 1990.
+Attualmente astinente.
+Nessun fattore di rischio cardiovascolare noto.
+Infezione da virus dell'epatite C di genotipo 1a, curata con tripla terapia con boceprevir nel 2012. Sierologia HIV negativa. Cirrosi epatica secondaria, CHILD-PUGH A.
+Ricoverato nel 2016 per polmonite acquisita in comunità, CURB65 =1, FINE IV e insufficienza respiratoria parziale secondaria.
+Trattamento domiciliare abituale: non eseguito.
+Stato funzionale basale: vita attiva, classe funzionale I della New York Heart Association (NYHA)
+cLASSE FUNZIONALE I (NYHA).
+
+Malattia attuale
+Consultazione per episodi di dolore toracico centrale oppressivo non irradiante, della durata di un mese, non correlati allo sforzo, che regrediscono spontaneamente in circa 5 minuti. Sono associati a dispnea e occasionalmente a diaforesi. La paziente ha riferito anche una sincope con un profilo clinico neuromediato che evolveva da anni. Nell'ultimo episodio, a differenza dei precedenti, ha presentato dolore toracico al momento del recupero.
+Al pronto soccorso dell'ospedale è stata eseguita una prima valutazione, con elettrocardiogramma (ECG) e marcatori sierici di danno miocardico, che sono risultati normali. La paziente è stata ricoverata nel reparto di cardiologia per completare lo studio.
+
+Esame fisico
+Pressione arteriosa (BP) 80/40 mmHg, saturazione di ossigeno 97% senza ossigenoterapia. Cosciente e orientato. Condizioni generali accettabili, cachettico (45 kg all'ammissione), colorito normale. Eupnea a riposo, senza sintomi congestizi. Auscultazione cardiaca: ritmica, circa 65 bpm, senza soffi o extratoni. Auscultazione polmonare: murmure vescicolare conservato senza rumori patologici aggiunti. L'esame addominale non ha dato risultati. Gli arti inferiori non presentano edema o segni di trombosi venosa profonda.
+
+ESAMI COMPLEMENTARI
+ECG d'emergenza: ritmo sinusale a 60 battiti al minuto. QRS stretto, morfologia di blocco di branca destro incompleto. Nessun disturbo della conduzione o della ripolarizzazione.
+QTc normale. Alcune ore dopo il ricovero: bradicardia sinusale a 50 bpm. PR 220 ms.
+QRS 120 ms. Innalzamento del segmento ST di 2 mm nella faccia inferiore. Depressione del segmento ST in V1-V4, aVR e aVL, massima in V3 (5 mm) con onde T profonde negative in V1-V3.
+Esami di laboratorio: emogramma e studio della coagulazione normali. Biochimica: funzione renale e ioni normali. Profilo epatobiliare senza reperti patologici. Autoimmunità negativa. Test di tossicità: positivo per le benzodiazepine, negativo per altre tossine. Proteinogramma con banda monoclonale IgM/Kappa (componente M: 0,24 g/dl). Cortisolo basale: 0,7 g/dl. Synacthen
+Test Synacthen: cortisolo 13 g/dl (risposta intermedia).
+Radiografia del torace: indice cardiotoracico normale. Seni costofrenici liberi. Nessun consolidamento o infiltrato parenchimale.
+Cateterismo cardiaco d'urgenza: grave spasmo dell'arteria coronaria principale sinistra (LMCA), dell'arteria coronaria destra (RCA) e dell'arteria circonflessa (CxA), con calibro sottile dell'intero albero coronarico, risolto con nitroglicerina intracoronarica.
+Ecocardiogramma transtoracico: cavità cardiache di dimensioni e morfologia normali. Valvola mitrale con foglietto anteriore molto ridondante, senza prolasso associato. Grado moderato di insufficienza (volume di rigurgito 23 ml e ORE di PISA 0,12 cm2). Contrattilità segmentale del ventricolo sinistro normale con LVEF del 60% secondo Simpson biplano. Lieve disfunzione diastolica senza evidenza di aumento delle pressioni di riempimento. Normale funzione del ventricolo destro. Pericardio normale, nessun versamento pericardico.
+ECG a 12 derivazioni eseguito nel reparto di cardiologia dopo l'arresto cardiorespiratorio: ritmo sinusale a 65 bpm. QRS stretto. Onde T profonde negative V2-V6. Onde T negative di minore entità in faccia inferiore, I e aVL.
+Risonanza magnetica cerebrale (RM): nessuna evidenza di lesione occupante spazio, emorragia o infarto acuto o subacuto recente.
+TC del torace e dell'addome con contrasto: ispessimento della papilla duodenale. Adenopatie di aspetto aspecifico nel sacco minore, nel mesentere e nel retroperitoneo. Versamento pleurico bilaterale con collasso passivo dei sottosegmenti basali posteriori. Micro-nodulo aspecifico nel lobo inferiore destro.
+
+
+EVOLUZIONE CLINICA
+Dopo essere stato valutato al pronto soccorso con esami complementari normali, è stato ricoverato nel reparto di cardiologia per completare lo studio. Poche ore dopo il ricovero, ha iniziato ad avvertire dolore toracico e l'ECG ha mostrato un innalzamento del tratto ST nel lobo inferiore. L'angiografia coronarica urgente ha mostrato un grave spasmo dell'arteria coronaria principale sinistra, dell'arteria coronaria destra e dell'arteria circonflessa, con un calibro sottile dell'intero albero coronarico, che si è risolto con la nitroglicerina intracoronarica. Dopo la somministrazione di nitroglicerina per via endovenosa, non sono state rilevate lesioni angiograficamente significative. Successivamente, è stato ricoverato nel reparto di terapia intensiva (ICU) dove i marcatori di danno miocardico sono risultati normali e, dopo essere rimasto stabile per 48 ore, è stato riportato nel reparto di cardiologia.
+Una volta in reparto, è stato iniziato un trattamento con calcio antagonisti (ACA) e nitrati, titolati alle dosi massime tollerate. Nonostante ciò, il paziente ha presentato un nuovo episodio di dolore precordiale seguito da arresto cardiorespiratorio (CRA) in dissociazione elettromeccanica.
+Dopo manovre di rianimazione cardiopolmonare avanzata per 10 minuti con necessità di intubazione orotracheale, ha recuperato il polso in tachicardia sinusale per 1 minuto e successivamente ha presentato una tachicardia ventricolare polimorfa che ha richiesto una cardioversione elettrica urgente.
+È stato trasferito in terapia intensiva dove ha registrato nuovamente una tachicardia ventricolare polimorfa, che ha richiesto una nuova cardioversione elettrica, con uscita in ritmo sinusale. Dopo la CRP, i marcatori di danno miocardico sono stati testati nel siero e si è riscontrata una curva enzimatica compatibile con un infarto miocardico acuto e alterazioni elettrocardiografiche compatibili con un'ischemia subendocardica. È stato eseguito un nuovo ecocardiogramma d'urgenza senza variazioni rispetto al precedente. Nelle analisi di controllo effettuate poco prima del CRA, la funzione renale e gli ioni, compresi potassio e magnesio, erano normali. Successivamente, è stato necessario un ricovero prolungato in terapia intensiva a causa dell'instabilità emodinamica che ha richiesto un trattamento con amine vasoattive.
+Dopo aver raggiunto la stabilità emodinamica, è tornato nel reparto di cardiologia, dove il trattamento è stato ottimizzato con l'aggiunta di fluvastatina e di dosi elevate di calcio antagonisti e nitrati, scarsamente tollerati a causa dell'ipotensione. Nonostante ciò, il paziente ha presentato crisi di vasospasmo ricorrenti (con conferma elettrocardiografica).
+In considerazione del grave vasospasmo refrattario al trattamento, è stato condotto uno studio approfondito per individuare patologie sottostanti che potessero essere associate o giustificare il vasospasmo ricorrente (metaboliche, tumorali, autoimmuni, ecc.). Come unico riscontro durante il ricovero, il reparto di endocrinologia ha diagnosticato un'insufficienza surrenalica parziale di origine ipofisaria dovuta a una moderata iponatriemia ipoosmolare con ripercussioni cliniche (sonnolenza), che è stata corretta con idrocortisone. Inoltre, nel proteinogramma è stata rilevata una banda monoclonale IgM Kappa.
+Infine, dopo aver escluso una causa correggibile associata alle crisi di vasospasmo ricorrenti e data la mancata risposta e la scarsa tolleranza dei nitrati, si è deciso di sospendere questi ultimi e di aggiungere empiricamente agli ACA il cilostazolo (inibitore della fosfodiesterasi-3). Dopo aver iniziato questo trattamento, il paziente è rimasto asintomatico, senza nuovi episodi di dolore toracico o vasospasmo.
+Dopo aver escluso altre possibili cause di CRA, è stato stabilito che esisteva un'elevata possibilità che la CRA si fosse verificata nel contesto di un vasospasmo prolungato. Pertanto, si è deciso di impiantare un defibrillatore cardioverter impiantabile (ICD) per la prevenzione secondaria.
+Una volta impiantato l'ICD e controllate le crisi di vasospasmo, abbiamo ridotto progressivamente il cilostazolo fino alla completa sospensione del farmaco, dopo la quale il paziente era asintomatico ed emodinamicamente stabile. Alla dimissione, il trattamento con ACA e fluvastatina è stato mantenuto con una risposta eccellente, senza nuovi eventi nel primo anno di follow-up.
+
+DIAGNOSI
+Angina vasospastica ricorrente refrattaria al trattamento.
+Arresto cardiorespiratorio ospedaliero correlato a infarto miocardico acuto secondario ad angina vasospastica.
+Impianto di un defibrillatore cardioverter impiantabile (ICD VR) in prevenzione secondaria.
+Insufficienza surrenalica parziale di origine ipofisaria.

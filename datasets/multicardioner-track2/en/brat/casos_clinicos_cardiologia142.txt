@@ -1,0 +1,16 @@
+Medical history and current illness
+49-year-old woman with a history of chronic Chagas disease, pacemaker wearer for 35 years, not taking any medication. Diabetes (-), hypertension (-). Surgeries: 3 electrode changes (the last one 9 years ago).
+
+Physical examination: BP 110/65 HR 70 bpm, weight 62 kg, height 1.65m. Cardiac auscultation: rhythmic, mild systolic murmur +/+6 in mitral focus, peak shock between 4th and 5th EII. Pulmonary auscultation: MV without added noises. Functional Class I according to NYHA. The patient reported frequent dizziness 2 weeks ago and even presented syncope when she was sitting and talking with her family at home, which is why she decided to consult the doctor. She reports that the pacemaker was implanted when she was 14 years old and she never changed the generator as it was a pacemaker with a battery based on nuclear energy (plutonium) that was donated to her in 1974. The surgeries he has undergone to date have been electrode replacements, and there is no clinical history to indicate the reason for the change.
+
+Complementary tests
+- Blood tests: haemoglobin 13 g/dl, leucocytes 6,443, platelets 254,000, glucose 88, creatinine 1.1, Na 142, K:4.0.
+- ECG: sinus, with single-chamber pacemaker rhythm, unipolar pacing in ventricle FC 70 bpm, without VA conduction.
+- Chest X-ray: cardiac area with slight enlargement, 2 abandoned endocardial electrodes and 1 epicardial electrode connected to a generator with a plutonium tablet inside.
+- Echocardiogram: EF 59%, LVED 57 mm, LA: 45 mm, IV septum 10 mm. Mild hypokinesia inferior wall, no thrombus, no pericardial effusion. Holter 24 hours. VVI PM rhythm 70 bpm isolated polymorphic infrequent PVCs, periods of loss of ventricular command generating asystole between 5 and 7 seconds in wakefulness and at night (the spicule is not recorded during loss of capture).
+
+Clinical evolution
+As no programmer was available for this model of pacemaker, it was decided to perform a surgical procedure to evaluate the integrity of the pacing system (the patient requested that if it was a case of electrode failure, the same pacemaker should be kept, as she has had it almost all her life and knows that it has unlimited energy). During the surgical procedure, when the generator was removed from the pocket, the connector was observed to be damaged and making contact with the electrode with silicone material that was placed in the previous surgery, resulting in intermittent contact 9 years after surgery. The patient received a new St. Jude Zephyr SR pacing system programmed VVIR 70 bpm, epicardial as she was unable to have access via the venous route. She was discharged within 48 hours and remained asymptomatic for approximately 12 months.
+
+Diagnosis
+Capture failure due to intermittent outflow blockage.

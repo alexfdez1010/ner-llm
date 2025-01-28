@@ -1,0 +1,18 @@
+Presentamos el caso de un paciente de 41 años derivado en el día a consulta para valoración de ECG patológico, el cual había sido realizado como parte del estudio preoperatorio para someterse a una intervención quirúrgica en el hombro derecho, en el que padecía dolor crónico.
+
+Antecedentes, enfermedad actual y exploración física
+No padecía ninguna enfermedad, salvo dolores en espalda y hombro derecho por los que tomaba analgésicos de forma esporádica. Practicaba deporte con regularidad y estaba en muy buen estado físico, aunque refería mayor cansancio en los últimos meses. El paciente mostraba una evidente ausencia de varias falanges en su mano izquierda que fue atribuido, en el país donde nació (era hijo de temporeros de la agricultura), a una posible exposición materna a la talidomida. Además presentaba otras anomalías musculoesqueléticas, y decía tener otros familiares con algunos defectos menores en las extremidades superiores.
+Durante la exploración física, se apreció un pectus excavatum así como otras anomalías musculoesqueléticas en las extremidades superiores e inferiores. A la auscultación cardiaca, presentaba latidos rítmicos a 35 lpm, y se apreciaba un soplo sistólico con desdoblamiento fijo del segundo ruido. Sin signos de insuficiencia cardiaca. TA 100/60. En ECG se detecta la presencia de un bloqueo AV completo. Se realizó ecocardiografía transtorácica y se decidió colocar un marcapasos definitivo bicameral y continuar el estudio del paciente.
+
+Pruebas complementarias
+• Ecocardiografía transtorácica: Había mostrado una dilatación de cavidades derechas, insuficiencia tricuspídea ligera con una PAPs de 50 mmHg y función ventricular conservada.
+Debido al pectus excavatum, no fue posible visualizar correctamente el tabique interauricular.
+• Angio TAC de tórax: Evidenció dilatación de cavidades derechas y del cono de la pulmonar.
+• Ecocardiografía transesofágica: Pudo comprobarse la existencia de una comunicación interauricular tipo ostium secundum de 21mm, con shunt izquierda-derecha.
+• Estudio traumatológico: Informaba de la presencia de pectus excavatum, subluxación glenohumeral en hombro derecho, subluxación rotuliana de rodilla derecha, agenesia de varias falanges de los dedos de la mano izquierda, sinóstosis radioulnar en codo izquierdo, pie cavo y agenesia de falange distal del primer dedo del pie derecho.
+
+Evolución clínica
+Ante la combinación de defectos musculoesqueléticos, bloqueo AV completo y CIA ostium secundum, se solicitó estudio genético. El árbol genealógico mostró diversos casos de defectos musculoesqueléticos e incluso algún caso de muerte súbita. El test genético reveló una mutación (c.100-101insG) en el gen TBX5, siendo diagnóstico de síndrome de Holt Oram. Finalmente el paciente fue intervenido quirúrgicamente y se procedió al cierre del defecto interatrial usando un parche de pericardio autólogo, sin presentar complicaciones postquirúrgicas. A día de hoy, continúa asintomático cardiovascular.
+
+Diagnóstico
+Síndrome de Holt Oram: Alteraciones musculoesquéleticas diversas, comunicación interauricular tipo Ostium Secundum y bloqueo auriculoventricular completo.

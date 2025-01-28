@@ -1,0 +1,31 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Donna di 58 anni, nessuna allergia nota ai farmaci.
+
+Anamnesi
+Fattori di rischio cardiovascolare: fumatore attivo (8-10 sigarette al giorno). Sindrome depressiva.
+Menopausa a 50-51 anni.
+Nessuna storia cardiologica nota, né nei parenti. Trattamento abituale: citalopram 10 mg.
+
+Malattia attuale
+Consultazione al pronto soccorso per un malessere toracico a riposo, con sintomi presincopali associati della durata di circa 50 minuti. Alla valutazione, la paziente è risultata asintomatica, con un elettrocardiogramma (ECG) iniziale privo di anomalie e la determinazione della troponina positiva, per cui è stata diagnosticata una sindrome coronarica acuta non-ST-segment elevation (NSTEACS) Killip I e si è deciso il ricovero nell'unità di cure intermedie.
+
+Esame fisico
+Pressione arteriosa (BP) 110/60 mmHg. Frequenza cardiaca (HR) 60 bpm. Saturazione di ossigeno (basale) 96%. Febbrile. Auscultazione cardiaca: ritmica senza soffi udibili. Auscultazione polmonare: normale. Addome: non descrittivo. Arti inferiori: nessun edema, nessun segno di trombosi venosa profonda (TVP).
+
+ESAMI COMPLEMENTARI
+ECG: ritmo sinusale a 72 bpm, PR normale, QRS stretto, senza alterazioni acute della ripolarizzazione.
+Esami di laboratorio: NT-proBNP 22 pg/ml, troponina I US 1.871 -> picco 5.212 pg/ml (valore normale <14 pg/ml). Funzione renale e ioni normali. Emoglobina 14,4 g/dl, piastrine 201.000/μl, leucociti 5.600/μl. Glucosio 87 mg/dl, creatinina 0,74 mg/dl, Na 139 mEq/l, K 4,9 mEq/l, TSH normale, colesterolo totale 259 mg/dl, HDL 58 mg/dl, LDL 183 mg/dl.
+Radiografia del torace: silhouette cardiaca, parenchima e vascolarizzazione polmonare senza reperti patologici.
+Cateterismo cardiaco: arterie coronarie epicardiche senza lesioni angiografiche nei vasi principali. Solo un terzo ramo marginale ottuso ha mostrato un'improvvisa variazione di calibro da 1,5 mm a meno di 1 mm, che successivamente ha recuperato le dimensioni del vaso, il che potrebbe corrispondere a un'area di ematoma/sezione spontanea. Ventricolografia: ventricolo sinistro (LV) con funzione sistolica conservata, acinesia molto localizzata dell'area inferolaterale medio-basale.
+Ecocardiogramma: LV non dilatato, spessore della parete normale, funzione sistolica conservata (LVEF 59%), nessuna alterazione segmentale. Atri non dilatati. Ventricolo destro (RV) non dilatato con normale contrattilità (TAPSE 20 mm, onda S 11,5 cm/s). Leggera sclerosi mitralica, apertura corretta e competente. Valvola aortica trivalve con macchia di calcio nel foglietto non coronarico e lieve sclerosi, apertura non limitata e lieve insufficienza centrale. Insufficienza tricuspidale lieve, gradiente RV-AD 15 mmHg. Insufficienza polmonare lieve, gradiente protodiastolico 6 mmHg. Tempo di accelerazione polmonare 130 ms. Vena cava inferiore (IVC) non dilatata (13 mm) con collasso normale. PAP normale. Assenza di versamento pericardico.
+Tomografia computerizzata (TC) corporea: origine dei tronchi sovra-aortici di morfologia normale. Assi arteriosi ascellari-sottoclaveari e carotidei permeabili e di normale calibro. Segmento cervicale dell'arteria carotide interna con lieve irregolarità, non conclusiva di displasia. Dominanza vertebrale sinistra. Tronco coronarico sinistro e arteria circonflessa di calibro normale. Aorta pervia con calibro conservato. Arteria renale accessoria bilaterale con origine craniale rispetto all'arteria renale principale omolaterale. Arterie renali principali di aspetto arrosariado-displastico. Fusti arteriosi iliaci brevettati ed ectatici. Arterie iliache esterne di aspetto arrosa-displastico. Nessuna delle stenosi focali che condizionano l'aspetto displasico delle arterie renali principali e delle arterie iliache esterne è significativa. Reperti extravascolari: surrene sinistro con ispessimento nodulare di aspetto adenomatoso. Rene destro con piccolo nodulo adiposo nel terzo inferiore compatibile con un piccolo angiomiolipoma e rene sinistro con piccola cisti corticale nel terzo superiore. Mioma uterino calcificato. Diverticolosi sigmoidea. Conclusione: arterie renali principali e arterie iliache esterne di aspetto arrosariodo, un dato che suggerisce una displasia fibromuscolare.
+
+EVOLUZIONE CLINICA
+Nelle prime 24 ore è stata eseguita un'angiografia coronarica con il riscontro di arterie coronarie epicardiche senza lesioni angiografiche nei vasi principali, ma è stata osservata un'improvvisa riduzione del calibro nel terzo ramo marginale ottuso, compatibile con una dissezione coronarica spontanea a quel livello.
+L'evoluzione successiva è stata favorevole, senza complicazioni nell'area di accesso vascolare o recidive cliniche. È stato richiesto un ecocardiogramma transtoracico con funzione sistolica complessiva conservata, senza asimmetrie segmentali alla dimissione e senza valvulopatie degne di nota.
+Data la diagnosi di dissezione coronarica spontanea, lo studio è stato completato con una TC corporea per rilevare la displasia fibromuscolare, che è stata infine confermata, con coinvolgimento delle principali arterie renali e iliache esterne. In una situazione di stabilità clinica, il paziente è stato dimesso, indicando la cessazione del fumo e l'assunzione a tempo indeterminato di terapia antiaggregante semplice e statine ad alta potenza.
+
+DIAGNOSI
+Infarto miocardico acuto senza onda Q dovuto a dissezione coronarica spontanea del terzo ramo marginale ottuso. Funzione sistolica LV normale.
+Displasia fibromuscolare con coinvolgimento delle arterie renali e iliache.
+Fumo. Dislipidemia.

@@ -1,0 +1,48 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi personale
+Nessuna allergia nota ai farmaci.
+Fattori di rischio cardiovascolare: dislipidemia in trattamento farmacologico. Fumatore attivo di cannabis (7 sigarette al giorno), ex fumatore di tabacco (accumulato 2 pacchetti/anno). Ipertensione arteriosa (AHT) o diabete mellito (DM) non noti.
+Nessuna storia cardiologica precedente.
+
+Altro:
+Tumore del testicolo (seminoma classico in stadio clinico IIA dopo orchiectomia destra) in trattamento attivo con QT (cisplatino + etoposide), ha ricevuto solo un ciclo. Spondilite anchilopoietica diagnosticata 6 anni fa.
+Trattamento cronico: atorvastatina 20 mg, 1 compressa a cena.
+
+Malattia attuale
+Un uomo di 37 anni si è presentato al pronto soccorso con un dolore al petto della durata di circa 1 ora. Si attenua dopo la somministrazione di paracetamolo. Lo descrive come oppressivo, non radiante, senza accompagnamento della corteccia vegetativa e con insorgenza a riposo. Non aumenta con l'ispirazione o i movimenti del torace. Nessuna angina precedente. Tosse con espettorazione da 4 giorni. Nessuna febbre, nessuna dispnea, nessun dolore addominale, nessuna alterazione delle abitudini intestinali. Nessun altro sintomo.
+
+
+Esame fisico
+Pressione arteriosa (BP) 125/82 mmHg, frequenza cardiaca (HR) 72 bpm, O2 Sat basale 98%. Buone condizioni generali. Cosciente, orientato e collaborativo. Normoidratato e di colorito normale. Eupneico a riposo. Nessuna focalità neurologica. Pressione venosa giugulare normale. Auscultazione cardiaca: ritmica, senza soffi. Auscultazione polmonare: soffio vescicolare (vvm), senza rumori aggiunti. Addome: suoni idroaerei normali, morbidi e depressibili, nessun dolore alla palpazione. Nessun segno di irritazione peritoneale. Arti inferiori: pulsazioni conservate, nessun edema o segno di trombosi venosa profonda (TVP).
+
+ESAMI COMPLEMENTARI
+Esami di laboratorio:
+Marcatori seriali di danno miocardico all'ammissione (all'arrivo, a 3 ore, a 24 ore, a 36 ore e alla dimissione):
+Biochimica: glucosio 101 mg/dl, urea 52 mg/dl, creatinina 1,13 mg/dl, sodio 137 mmol/l, potassio 4,5 mmol/l, magnesio 2 mg/dl. Profilo lipidico: colesterolo totale 220 mg/dl, LDL 145 mg/dl, HDL 45 mg/dl, TG 147 mg/dl. HbA1c 5,4%. TSH 1,22 μUI/ml.
+Emogramma: Hb 15,6 g/dl, MCV 85,6 fl, MCH 28,8 pg, leucociti 6.900 /μl, piastrine 222.000 /μl.
+Creatina chinasi: 33 -> 47 -> 102 -> 47 -> 29 U/l.
+Troponina t US (normale < 14): 18 -> 102 -> 267 -> 140 -> 99 ng/l.
+Coagulazione: INR 1,12, tempo di protrombina 83,0 %2. Tempo di tromboplastina parziale 28,6 s, rapporto tempo di tromboplastina parziale 0,95. D-Dimero 411 ng/mg.
+Elettrocardiogramma (ECG): bradicardia sinusale intorno a 50 bpm. PR normale. QRS stretto con asse normale, senza alterazioni acute della ripolarizzazione.
+Radiografia del torace: CTI normale, nessuna massa, nessuna condensazione parenchimale, nessun segno di insufficienza cardiaca.
+
+Angiografia coronarica all'ammissione:
+Arteria coronaria sinistra: nessuna lesione.
+Arteria discendente anteriore (LAD): vaso lungo di buon calibro e sviluppo. Grosso trombo intraluminale organizzato nel segmento medio, che causa una stenosi del 60% e con flusso TIMI 3. Letto distale buono, senza lesioni o materiale trombotico.
+Circonflessa: vaso di buon calibro e sviluppo, senza lesioni.
+Coronaria destra: dominante, senza lesioni.
+
+Angiografia coronarica di controllo (dopo una settimana di tripla terapia antiaggregante e anticoagulante): arterie coronarie senza lesioni angiograficamente significative. Risoluzione completa del trombo precedente.
+Ecocardiogramma transtoracico all'ammissione, prima dell'angiografia coronarica: ventricolo sinistro (LV) di dimensioni e spessore normali, frazione di eiezione conservata (LVEF), senza alterazioni della contrattilità regionale. Nessuna evidenza di trombo ventricolare. Nessuna cardiopatia valvolare. Nessun versamento pericardico.
+Consultazione con il servizio di oncologia medica: la chemioterapia è stata sospesa a causa della sua associazione con eventi trombotici arteriosi. Come trattamento alternativo è stata proposta la radioterapia omolaterale.
+ECG alla dimissione: ritmo sinusale a 60 bpm. PR normale. Nessuna onda Q patologica. QRS stretto con asse normale, senza alterazioni della ripolarizzazione.
+
+EVOLUZIONE CLINICA
+Maschio di 37 anni, fumatore e dislipidemico, con anamnesi di seminoma testicolare e trattamento attivo con chemioterapia (cisplatino + etoposide) con l'ultima dose somministrata 8 giorni prima del ricovero. Ricoverato per dolore toracico con mobilizzazione di marcatori di danno miocardico senza alterazioni dell'ECG, si è deciso di ricoverarlo come infarto miocardico acuto senza sopraslivellamento del tratto ST (STEMI), postulando una possibile relazione con la sua patologia o con il trattamento oncologico. Il trattamento è stato avviato con anticoagulazione con eparina a basso peso molecolare e doppia terapia antiaggregante con acido acetilsalicilico (ASA) e clopidogrel.
+Al momento del ricovero, l'angiografia coronarica ha mostrato un trombo organizzato nel segmento medio della LAD con una stenosi del 60%. Data l'anamnesi, è stata decisa una gestione conservativa, inizialmente con la perfusione di tirofiban per 24 ore e poi il passaggio a ticagrelor insieme ad ASA e all'anticoagulazione con eparina a basso peso molecolare (tripla terapia antitrombotica), con l'idea di ripetere l'angiografia coronarica e cercare di evitare l'impianto di stent. Dopo una settimana di trattamento, l'angiografia coronarica è stata ripetuta e ha mostrato la scomparsa del trombo precedente, senza lesioni significative sottostanti nei tre vasi, e il trattamento anticoagulante è stato quindi sospeso. L'ecocardiogramma transtoracico ha mostrato una LVEF conservata. Buona l'evoluzione clinica: asintomatico, emodinamicamente stabile e con troponine in calo. Infine, è stato dimesso a casa per continuare il trattamento medico con doppia terapia antiaggregante piastrinica con ASA e ticagrelor.
+Dal punto di vista del tumore al testicolo, è stata richiesta una valutazione all'oncologia medica, che ha deciso di sospendere il trattamento chemioterapico a causa della relazione del cisplatino con eventi trombotici coronarici acuti, proponendo un passaggio alla radioterapia (ambulatoriale) e un follow-up da parte sua.
+
+DIAGNOSI
+STEMI. Trombosi acuta della discendente anteriore secondaria al trattamento con cisplatino, risolta dopo una settimana di tripla terapia antiaggregante e anticoagulazione. Arterie coronarie senza lesioni aterosclerotiche sottostanti. LVEF conservata.
+Seminoma classico di stadio IIA con trattamento chemioterapico attivo (cisplatino + etoposide), che è stato interrotto.

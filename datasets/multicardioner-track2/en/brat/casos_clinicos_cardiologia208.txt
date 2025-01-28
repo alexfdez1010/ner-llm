@@ -1,0 +1,48 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+Personal history
+No known drug allergies.
+Cardiovascular risk factors: dyslipidaemia under pharmacological treatment. Active cannabis smoker (7 cigarettes a day), former tobacco smoker (accumulated 2 packs/year). No known arterial hypertension (AHT) or diabetes mellitus (DM).
+No previous cardiological history.
+
+Other:
+Testicular cancer (classic clinical stage IIA seminoma after right orchiectomy) on active treatment with QT (cisplatin + etoposide), he has only received one cycle. Ankylopoietic spondylitis diagnosed 6 years ago.
+Chronic treatment: atorvastatin 20 mg, 1 tablet at dinner.
+
+Present illness
+A 37-year-old man came to the emergency department with chest pain of approximately 1 hour's duration. It subsides after administration of paracetamol. He describes it as oppressive, non-radiating, with no accompanying vegetative cortex and onset at rest. It does not increase with inspiration or chest movements. No previous angina. Cough with expectoration for 4 days. No fever, no dyspnoea, no abdominal pain, no alterations in bowel habits. No other symptoms.
+
+
+Physical examination
+Blood pressure (BP) 125/82 mmHg, heart rate (HR) 72 bpm, basal O2 Sat 98%. Good general condition. Conscious, oriented and cooperative. Normohydrated and normal colour. Eupneic at rest. No neurological focality. Jugular venous pressure normal. Cardiac auscultation: rhythmic, no murmurs. Pulmonary auscultation: vesicular murmur (vvm), without added noises. Abdomen: normal hydro-aerial sounds, soft and depressible, no pain on palpation. No signs of peritoneal irritation. Lower extremities: pulses preserved, no oedema or signs of deep vein thrombosis (DVT).
+
+COMPLEMENTARY TESTS
+Laboratory tests:
+Serial myocardial damage markers on admission (on arrival, at 3 hours, at 24 hours, at 36 hours and at discharge):
+Biochemistry: glucose 101 mg/dl, urea 52 mg/dl, creatinine 1.13 mg/dl, sodium 137 mmol/l, potassium 4.5 mmol/l, magnesium 2 mg/dl. Lipid profile: total cholesterol 220 mg/dl, LDL 145 mg/dl, HDL 45 mg/dl, TG 147 mg/dl. HbA1c 5.4%. TSH 1.22 μUI/ml.
+Haemogram: Hb 15.6 g/dl, MCV 85.6 fl, MCH 28.8 pg, leukocytes 6,900 /μl, platelets 222,000 /μl.
+Creatine kinase: 33 -> 47 -> 102 -> 47 -> 29 U/l.
+Troponin t US (normal < 14): 18 -> 102 -> 267 -> 140 -> 99 ng/l.
+Coagulation: INR 1.12, prothrombin time 83.0 %2. Partial thromboplastin time 28.6 s, partial thromboplastin time ratio 0.95. D-Dimer 411 ng/mg.
+Electrocardiogram (ECG): sinus bradycardia around 50 bpm. Normal PR. Narrow QRS with normal axis, without acute repolarisation alterations.
+Chest X-ray: normal CTI, no masses, no parenchymal condensations, no signs of heart failure.
+
+Coronary angiography on admission:
+Left coronary artery: no lesions.
+Anterior descending artery (LAD): long vessel of good calibre and development. Large intraluminal thrombus organised in the middle segment, causing a stenosis of 60% and with TIMI 3 flow. Distal bed good, without lesions or thrombotic material.
+Circumflex: vessel of good calibre and development, without lesions.
+Right coronary: dominant, without lesions.
+
+Control coronary angiography (after one week of triple antiplatelet and anticoagulant therapy): coronary arteries without angiographically significant lesions. Complete resolution of the previous thrombus.
+Transthoracic echocardiogram on admission, prior to coronary angiography: left ventricle (LV) of normal size and thickness, preserved ejection fraction (LVEF), with no alterations in regional contractility. No evidence of ventricular thrombus. No valvular heart disease. No pericardial effusion.
+Consultation with the medical oncology service: chemotherapy was suspended due to its association with arterial thrombotic events. Ipsilateral radiotherapy was proposed as an alternative treatment.
+ECG at discharge: sinus rhythm at 60 bpm. Normal PR. No pathological Q waves. Narrow QRS with normal axis, without repolarisation alterations.
+
+CLINICAL EVOLUTION
+37-year-old male smoker and dyslipidaemic, with a history of testicular seminoma and active treatment with chemotherapy (cisplatin + etoposide) with the last dose administered 8 days before admission. He was admitted for chest pain with mobilisation of markers of myocardial damage without changes in the ECG, and it was decided to admit him as an acute myocardial infarction without ST segment elevation (STEMI), postulating a possible relationship with his pathology or oncological treatment. Treatment was started with anticoagulation with low molecular weight heparin and double antiplatelet therapy with acetylsalicylic acid (ASA) and clopidogrel.
+On admission, coronary angiography showed an organised thrombus in the middle segment of the LAD with a stenosis of 60%. Given this history, conservative management was decided, initially with tirofiban perfusion for 24 hours and then a change to ticagrelor together with ASA and anticoagulation with low molecular weight heparin (triple antithrombotic therapy), with the idea of repeating the coronary angiography and trying to avoid stent implantation. After a week of treatment, the coronary angiography was repeated and showed disappearance of the previous thrombus, with no significant underlying lesions in the three vessels, and anticoagulant treatment was then suspended. The transthoracic echocardiogram showed preserved LVEF. Good clinical evolution: asymptomatic, haemodynamically stable and with troponins in decline. Finally, he was discharged home to continue medical treatment with double platelet antiplatelet therapy with ASA and ticagrelor.
+From the point of view of his testicular cancer, an assessment was requested from medical oncology, who decided to suspend chemotherapy treatment due to the relationship of cisplatin with acute coronary thrombotic events, proposing a change to radiotherapy (outpatient) and follow-up on his part.
+
+DIAGNOSIS
+STEMI. Acute anterior descending thrombosis secondary to treatment with cisplatin, resolved after one week of triple antiplatelet therapy and anticoagulation. Coronary arteries without underlying atherosclerotic lesions. Preserved LVEF.
+Classic stage IIA seminoma with active chemotherapy treatment (cisplatin + etoposide), which was discontinued.

@@ -1,0 +1,16 @@
+T16	FARMACO 870 892	ácido acetilsalicílico
+T17	FARMACO 894 897	AAS
+T18	FARMACO 912 922	bisoprolol
+T19	FARMACO 934 951	insulina glargina
+T20	FARMACO 964 987	metformina+sitagliptina
+T21	FARMACO 1008 1020	gembifrozilo
+T22	FARMACO 1034 1043	omeprazol
+T23	FARMACO 2471 2480	omeprazol
+T24	FARMACO 2492 2495	AAS
+T25	FARMACO 2532 2542	bisoprolol
+T26	FARMACO 2556 2579	rosuvastatina-ezetimiba
+T27	FARMACO 2595 2612	insulina glargina
+T28	FARMACO 2626 2649	metformina-sitagliptina
+T29	FARMACO 4506 4517	dulaglutida
+T30	FARMACO 4732 4742	insulínica
+T99	FARMACO 2509 2519	ticagrelor

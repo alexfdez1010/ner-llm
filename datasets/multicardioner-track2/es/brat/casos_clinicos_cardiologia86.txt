@@ -1,0 +1,19 @@
+Antecedentes, enfermedad actual y exploración física
+Paciente varón de 54 años con antecedentes de hipertensión arterial, diabetes mellitus tipo 2, sin alergias conocidas.
+Tratamiento domiciliario con insulina Lantus 24 UI/24h y rápida 4 UI/8h, losartán 100 mg/24h. Acude a urgencias por sensación de adormecimiento en miembro superior derecho (MSD) la noche previa, y al momento de despertarse imposibilidad para moverlo. Niega otra sintomatología. Consciente, orientado, alerta. Lenguaje normal. MOE normales. Pares craneales normales. Paresia en MSD 3/5 e hipoestesia ligera. Tonos cardiacos rítmicos sin soplos. MV conservado sin ruidos agregados. No edemas en miembros inferiores. Resto normal.
+
+Pruebas complementarias
+Analítica: hemograma normal, coagulación normal. Bioquímica con G 123 mg/ dl, Cr 1 mg/dl. Colesterol 192 mg/dl, LDL 133 mg/dl, TG 97 mg/dl. Resto normal.
+ECG: ritmo sinusal a 54 lpm, eje normal, sin alteraciones de la repolarización.
+TC craneal: lesión isquémica en porción más posterior del lóbulo parietal izquierdo. Hay otra imagen hipodensa de morfología triangular en lóbulo frontal izquierdo que sugiere lesión isquémica. Sin otros hallazgos relevantes.
+Ecodoppler de TSA: onda de parvus tardus a nivel de ACI en discordancia con lo visto en modo B y color, que puede estar en relación con estenosis, por lo que se recomienda angio-RMN.
+Angio-RMN de TSA: no se aprecian datos de estenosis de significación en los bulbos carotídeos ni en arterias carótidas interna ni externa de ambos lados. Arteria basilar y vertebrales permeables.
+RMI cerebral: varias lesiones en territorio de ACM izquierda con restricción en difusión, que se corresponden con lesiones isquémicas agudas de probable origen embólico.
+Ecocardiograma transtorácico: aI 35,9 mm y Ao 32 mm. Función sistólica del VI conservada con FEVI del 64%. Llenado ventricular con patrón de alteración de la relajación. HVI ligera. Se inyecta SSF por vía endovenosa periférica y no se observa paso de burbujas a través del tabique interauricular sugerente de FOP.
+
+Evolución clínica
+El paciente recupera fuerza muscular, pero presenta hipoestesia en brazo derecho que es leve. Es dado de alta con diagnóstico de infartos cerebrales parietal y frontal izquierdos de naturaleza incierta; bajo tratamiento con Adiro 300 mg/24h y atorvastatina 80 mg/24h. Reingresa luego de 8 meses por cuadro vertiginosos, vómitos, disartria e inestabilidad de la marcha, además de nistagmus horizontal hacia la izquierda que en TAC craneal presenta además de los infartos previos una nueva lesión, compatible con infarto agudo en territorio de la PICA izquierda. Estudio cardiológico normal y se solicita de manera programada ecocardiografía transesofágica (ETE). Es dado de alta con diagnóstico de ictus isquémico cerebeloso izquierdo criptogenético, y tratamiento con Sintrom suspendiendo el Adiro. Se realiza ETE que se informa como no dilatación de cavidades. Adelgazamiento del septo interauricular a nivel del foramen oval sin despegamiento macroscópico y sin anomalías en la movilidad, sin apreciarse signos de cortocircuito con doppler color. Se efectúa ecocontraste con solución coloidal agitada tanto basalmente como tras maniobra de Valsalva. Se aprecia paso temprano de microburbujas a cavidades izquierdas tras maniobra de Valsalva. El paciente durante el seguimiento se ha mantenido estable y sin nuevos episodios cardioembólicos.
+
+Diagnóstico
+Foramen oval permeable
+Ictus isquémico criptogenético recurrente

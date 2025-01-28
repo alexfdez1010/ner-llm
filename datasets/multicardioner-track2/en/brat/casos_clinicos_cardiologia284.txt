@@ -1,0 +1,39 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+Brother with previous recurrent myocarditis in 2000, with clinical diagnosis and no subsequent follow-up.
+No history of sudden death or other heart disease in first-degree relatives. No known drug allergies.
+No toxic habits.
+She had no cardiovascular risk factors or medical or surgical history of interest.
+
+Present illness
+A 36-year-old man consulted for non-radiating, oppressive, central thoracic pain that started at rest and woke him from sleep. The pain was accompanied by nausea, sweating and a sensation of dyspnoea and improved slightly when he got into bed. The patient mentioned the presence of fever and pharyngeal pain 2 days before the onset of the symptoms.
+On arrival at the hospital, electrocardiographic alterations and elevated markers of myocardial damage in the infarct range were observed, so an urgent coronary angiography was performed in which no coronary lesions were found.
+
+Physical examination
+Good general condition, conscious and oriented in all 3 spheres. Haemodynamically stable. Eupneic at rest. Normal colour, well hydrated and perfused. Afebrile. Blood pressure (BP) 151/84 mmHg, heart rate (HR) 72 bpm, SatO2 99% without contributions. No signs of heart failure. Cardiorespiratory auscultation: rhythmic at a good frequency, no murmurs or extratonos. Vesicular murmur preserved, no pathological noises added. Abdomen: soft and depressible, not painful on palpation. No signs of defence or peritoneal irritation. Lower limbs without oedema or signs of deep vein thrombosis.
+
+
+COMPLEMENTARY TESTS
+ECG on admission to the ward: sinus rhythm at 64 bpm. Normal PR. QTc 441 msec. J point elevation of < 1 mm from V4 to V6. Negative T wave from V4 to V6.
+Emergency laboratory tests:
+CBC: leukocytes 10420 (1360 lymphocytes), Hb 15.7 g/dl, platelets 182000. Biochemistry: glucose 142 mg/dl, AST 42 U/l, renal function and ions normal, CRP 195.4 mg/l.
+Enzyme serum: creatine kinase 270 - 641 - 723 U/l, ultrasensitive troponin T 500 - 1061 - 1744 - 1184 - 1225 ng/dl.
+Chest X-ray: normal. Cardiothoracic index normal. No signs of pulmonary congestion, condensation or effusion.
+Coronary angiography: angiographically normal coronary arteries. Anomalous outflow of the right coronary artery from the left sinus, without angiographically significant lesions.
+Serology: negative for HIV, syphilis and Mycoplasma pneumoniae. Positive for past infection by adenovirus, CMV, Echovirus, EBV, parvovirus B19 and Coxsackie.
+Laboratory tests:
+Biochemistry: glucose 87 mg/dl, renal function and ions normal, LDH 388.00 U/l, hepatobiliary profile without alterations. Total protein 7.7 g/dl. NT-proBNP 379 pg/ml. C-reactive protein 65.0 mg/l.
+Lipid profile: cholesterol 210 mg/dl, LDL 153 mg/dl, HDL 26 mg/dl, triglycerides 156.00 mg/dl.
+Thyroid hormones and HbA1c normal. CBC: three normal series.
+Cardiac magnetic resonance imaging (MRI): left ventricle neither dilated nor hypertrophic, with preserved global and segmental mobility. Ejection fraction (EF) measured with the Simpson method: 68.8%. LVEDV of 140 ml, indexed by body surface area of 67 ml/m2, LVESV of 44 ml, indexed by body surface area of 21 ml/m2. Myocardial mass 119 g, indexed by body surface area of 57 g/m.Right ventricle not dilated or hypertrophic, with preserved global and segmental mobility; EF measured by Simpson's method of 81% VTDVD of 110 ml, indexed by body surface area of 53 ml/m. VTSVD of 21 ml, indexed by body surface area 22 of 10 ml/m. Both atria of normal size (left atrium with an area of 22 cm, indexed to 11 cm/m and right atrium of 19 cm, indexed to 9 cm/m). In the sequence
+STIR shows hyperintense signal compatible with oedema in the inferior and anterior basal and medial segments, medial lateral and in all apical segments. The first-pass perfusion sequence shows no basal perfusion defects. In the late enhancement/viability sequence, there was extensive subepicardial and intramyocardial fibrosis in the basal and middle inferior and middle anterior and inferolateral segments and in all apical segments. Conclusion: acute myocarditis with extensive fibrosis and preserved biventricular function.
+
+CLINICAL EVOLUTION
+After a favourable evolution during admission, our patient was discharged, with initiation of 5 mg of enalapril per day. After 4 months during which he was asymptomatic, he was admitted again for symptoms compatible with acute myopericarditis (ultrasensitive troponin T peak of 2174 ng/dl), with gastroenteritis of probable viral origin as a possible trigger. A new transthoracic echocardiogram was performed, showing slight global hypokinesia with an EF of 50%. After a satisfactory evolution, the patient was discharged, and colchicine was prescribed as a preventive treatment for new recurrences.
+A new cardiac MRI was performed on an outpatient basis, in the first 2 weeks after discharge, which showed the persistence of extensive fibrosis of similar distribution to the previous study, as well as denovo fibrosis at the level of the basal and medial septum (images 5 and 6). Both ventricles had normal morphology and volumes, with no detectable segmental contractility disturbances, and biventricular systolic function was preserved. In the STIR and black blood sequences, there were no intramyocardial fatty deposits and there was significant oedema at the level of the septum.
+In view of the results of the MRI, a 24-hour Holter monitor was requested, which showed isolated monotopic ventricular extrasystoles with morphology of right bundle branch block with transition in V3 and superior axis, and it was decided to increase the doses of ACE inhibitors (enalapril 5 mg/12 hours) and to start beta-blocker treatment (bisoprolol 2.5 mg/24 hours). His brother was seen at our clinic due to a history of recurrent myocarditis, and a cardiac MRI was performed, confirming the presence of subepicardial fibrosis in the free wall of the left ventricle, compatible with past myocarditis.
+Finally, given the pattern of fibrosis in the MRI together with the history of a first-degree relative with recurrent myocarditis, the differential diagnosis of acute recurrent myocarditis with extensive fibrosis versus arrhythmogenic cardiomyopathy of the left ventricle was considered and it was decided to request a genetic study with a cardiomyopathy panel, the results of which are still pending.
+
+DIAGNOSIS
+Acute myocarditis with extensive fibrosis and preserved biventricular function versus arrhythmogenic left ventricular dysplasia with myocarditis-e flares.

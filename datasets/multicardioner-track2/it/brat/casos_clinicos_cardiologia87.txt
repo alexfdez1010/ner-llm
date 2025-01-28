@@ -1,0 +1,28 @@
+Anamnesi, malattia attuale ed esame fisico
+Un uomo di 64 anni viene consultato per un'improvvisa amaurosi laterale destra. Anamnesi personale: allergia alla penicillina, ipertensione, dislipidemia, obesità e fumo. Senza fornire i referti, riferisce di essere stato ricoverato in un altro ospedale nel 2007 per un ictus emisferico sinistro da cui è guarito senza sequele e di essere seguito per una cardiopatia valvolare.
+In trattamento regolare con enalapril, simvastatina e clopidogrel. Malattia attuale: improvvisa perdita totale della vista dell'occhio destro dopo 24 ore di evoluzione. Nessuna dispnea, dolore toracico, febbre o altri sintomi.
+
+Esame fisico:
+Pressione 145/88 mmHg, 88 bpm, 36,7 oC, cosciente, orientato, eupneico, idratato e di colore normale. Auscultazione cardiopolmonare: murmure vescicolare conservato senza rumori aggiunti. L'auscultazione cardiaca ha rivelato un soffio sistolico di eiezione di grado III/VI nell'aorta, che si irradia alle arterie carotidi, e un soffio sistolico di grado III/VI nel bordo sternale sinistro, che si irradia all'ascella. Addome e arti non presentano reperti degni di nota.
+
+Esami complementari
+RX torace PA: assenza di cardiomegalia, assenza di versamento pleurico, infiltrati o consolidamenti.
+Elettrocardiografia: ritmo sinusale a 91 bpm, asse cardiaco sinistro a -45o. Ingrandimento dell'atrio sinistro. Criteri Cornell per l'ipertrofia ventricolare sinistra. Emiblocco anteriore sinistro. ST discendente di 1 mm in I e AvL con onda T negativa in queste derivazioni. Nessuna variazione dinamica della ripolarizzazione. QTc 443 msec.
+Emocromo: 12.000 leucociti, Hb 11,5 g/dl, 335.000 piastrine. Coagulazione normale. VES 39 mm/h, CRP 4,27 mg/L. Biochimica e funzionalità tiroidea normali. ANA, anti-DNA e ANCA negativi. Studio di ipercoagulabilità senza reperti patologici.
+Sierologia (Mycoplasma, Chlamydia, Coxiella, Lúes, Brucella e HBV) negativa.
+Fondo dell'occhio destro: macula rosso-ciliegia, edema biancastro dovuto a ischemia, restringimento delle arterie retiniche ed essudati biancastri.
+Ecocardiogramma transesofageo: valvola aortica molto destrutturata con grave ispessimento e calcificazione con stenosi aortica grave (gradiente medio 50 mmHg), lieve insufficienza aortica. Valvola mitrale con diverse immagini suggestive di verruche. Sul lato atriale del foglietto posteriore sono presenti due immagini di vegetazioni mobili, la più grande di 6 mm. È presente un getto di lieve insufficienza mitralica che suggerisce la perforazione del foglietto posteriore. Grave ipertrofia ventricolare sinistra e LVEF conservata. Assenza di forame ovale pervio mediante iniezione di soluzione fisiologica agitata.
+Angiografia TC dei tronchi sovra-aortici: aterosclerosi carotidea e nell'angiografia TC del TSA, stenosi del 60-70% della carotide interna destra.
+Emocolture indipendenti x3: positive per Streptococcus viridans.
+
+Decorso clinico
+Dopo la valutazione dell'oftalmologia del nostro centro, è stata posta la diagnosi di occlusione dell'arteria retinica centrale destra (RTAO). Il paziente è stato ricoverato in medicina interna per ulteriori accertamenti. Nel duplex dei tronchi sovra-aortici (TSA) è stata osservata aterosclerosi carotidea e nella scansione angio-TC TSA una stenosi del 60-70% dell'arteria carotide interna destra. Nonostante i reperti carotidei che potevano giustificare il quadro, è stato eseguito un ecocardiogramma transtoracico (TTE) per cercare una fonte embolica, che ha mostrato una grave stenosi aortica, segni degenerativi nella valvola mitrale (MV) con lieve insufficienza mitralica (MI) e calcio nel suo anulus. A causa della scarsa finestra ecocardiografica, è stato eseguito un ecocardiogramma transesofageo (TEE), che ha confermato l'esistenza di una stenosi aortica grave con frazione di eiezione ventricolare sinistra (LVEF) conservata, visualizzando vegetazioni sulla MV e la perforazione del foglietto posteriore. Il paziente era astemio e sono state effettuate tre emocolture, con crescita di Streptococcus viridans in tutti i campioni.
+Con la diagnosi di endocardite infettiva mitralica subacuta (IE) su valvola nativa (ed eventualmente aortica) e l'anamnesi descritta, il paziente è stato trattato con vancomicina e gentamicina secondo il regime abituale.
+Il paziente è rimasto asettico per tutto il ricovero, con emocolture di controllo negative. Sono state eseguite TTE e TEE di controllo, con scomparsa delle vegetazioni e MI lieve-moderata come sequele. Dopo la risoluzione dell'endocardite infettiva, il paziente è stato indirizzato al reparto ambulatoriale di chirurgia vascolare per la valutazione dell'endarterectomia carotidea e alla cardiologia per il follow-up della cardiopatia valvolare. Due mesi dopo il ricovero, è stata eseguita la chirurgia carotidea e successivamente, a causa dell'insorgenza dei sintomi, è stata eseguita la sostituzione della valvola aortica con protesi metallica senza complicazioni e con una buona evoluzione cardiovascolare. Tuttavia, il paziente non ha recuperato la vista nell'occhio destro.
+
+
+Diagnosi
+Occlusione dell'arteria centrale della retina destra.
+Endocardite subacuta della valvola mitrale nativa dovuta a Streptococcus viridans.
+Stenosi aortica grave asintomatica con LVEF conservata.
+Stenosi carotidea destra significativa.

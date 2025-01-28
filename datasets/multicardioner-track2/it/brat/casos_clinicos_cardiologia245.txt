@@ -1,0 +1,46 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Uomo di 50 anni, nessuna allergia nota ai farmaci. Nessuna abitudine tossica. Nessun fattore di rischio cardiovascolare. Nessuna storia familiare rilevante. Nessun precedente medico o chirurgico. Nessun trattamento cronico.
+
+Prima consultazione:
+Inviato a un consulto cardiologico dal pronto soccorso. Si era consultato per un episodio di palpitazioni ed è stata identificata una tachicardia sopraventricolare (SVT), che ha rallentato con manovre vagali ma è stata invertita con atenololo per via endovenosa. L'esame fisico era inalterato.
+Al consulto è stata posta la diagnosi di tachicardia parossistica sopraventricolare e si è deciso di iniziare il trattamento con beta-bloccanti (bisoprololo 2,5 mg a colazione), richiedere l'Holter delle 24 ore e l'ecocardiografia transtoracica (TTE).
+
+Seconda visita (a 5 mesi):
+Nel periodo intercorso tra le consultazioni, il paziente si è recato tre volte al pronto soccorso per palpitazioni legate a episodi di SVT, che a volte regredivano con manovre vagali. Diversi cambi di farmaci per intolleranza o inefficacia. Al momento della seconda valutazione assumeva atenololo 50 mg c/24 ore.
+Prima del consulto è stato eseguito un TTE che ha mostrato una dilatazione delle camere destre con funzione sistolica RV normale e PSAP 26 + PVC. È stato eseguito un test con soluzione salina agitata senza evidenza di passaggio di bolle tra le cavità, che è stato interpretato come un segno improbabile di shunt.
+Holter di 24 ore in ritmo sinusale con frequenza cardiaca (FC) adeguata e un episodio di SVT non sostenuta (< 30 secondi).
+
+Data la frequenza degli episodi tachiaritmici, il paziente è stato indirizzato al reparto di elettrofisiologia per valutare l'ablazione. Alla luce dei risultati ecocardiografici, è stata richiesta la risonanza magnetica cardiaca (RM) per cercare di identificare l'eziologia della dilatazione della camera destra.
+Consulenza elettrofisiologica:
+Si è deciso di richiedere uno studio elettrofisiologico e l'ablazione a fronte di una TPSV sintomatica e ricorrente di un anno di evoluzione, nonostante i beta-bloccanti e soppressa da manovre vagali.
+
+ESAMI COMPLEMENTARI
+Elettrocardiogramma (ECG) al pronto soccorso: ritmo sopraventricolare a 120 bpm, un battito sinusale e nel resto con intervalli RP-PR variabili e RP > 70ms. QRS stretto con asse di 60o. Depressione del segmento ST di 1 mm da V3 a V5.
+ECG basale: ritmo sinusale. Nessun dato di preeccitazione. Nessun'altra alterazione specifica.
+Emocromo: glucosio 108 mg/dl, urea 48 mg/dl, creatinina 0,86 mg/dl, sodio 137 mEq/l, potassio 4,2 mEq/l, TSH 1,83 mU/l, emoglobina 16,6 g/dl, leucociti 9250/microL, piastrine 331000/microL.
+Holter delle 24 ore: registrazione elettrocardiografica delle 24 ore. Ritmo sinusale per tutto il tracciato, FC media 85 bpm. Nessun blocco o pausa significativa. Tachicardia sopraventricolare non sostenuta.
+TTE: dilatazione del ventricolo destro (rapporto RV/LV 1,1, DTD basale 55 mm e tratto di efflusso RV 43 mm), con funzione sistolica conservata. Lieve rigurgito funzionale della tricuspide. PSAP stimata di 26 mmHg (+PVC). Ventricolo sinistro non dilatato con spessore di parete normale. Funzione sistolica conservata. Rilassamento prolungato. Nessuna valvulopatia significativa.
+TTE con soluzione fisiologica agitata: iniezione di soluzione fisiologica agitata senza passaggio di bolle nella cavità sinistra né al basale né dopo la manovra di Valsalva. L'esistenza di uno shunt intra o extracardiaco è improbabile.
+
+Risonanza magnetica del cuore:
+Conclusione: LV di dimensioni e funzione sistolica normali. Nessuna area di ipertrofia, compattazione o late enhancement. RV dilatato con funzione sistolica normale. Shunt destro-sinistro extracardiaco dovuto a un drenaggio venoso anomalo dalla vena polmonare superiore destra alla vena cava superiore con Qp/Qs di 1,7.
+
+Dati più rilevanti:
+RV: dilatato, senza alterazioni morfologiche, con VTD di 125 ml/m2 (range 55-105 ml/m2) e STV di 51 ml/m2 (range 15-43 ml/m2). EF 59%, gittata cardiaca 7,9 l/min e volume di battito 149 ml. Contrattilità normale.
+Drenaggio venoso anomalo dalla vena polmonare superiore destra alla vena cava superiore.
+LA: area di 21 cm2, leggermente dilatata. RA: area di 29 cm2, leggermente dilatata. Quantificazione del flusso nella radice aortica (codifica della velocità in contrasto di fase). Volume anterogrado 80 ml e volume retrogrado 4,7 ml. Frazione di rigurgito: 5,9%.
+Quantificazione del flusso nell'arteria polmonare principale (codifica della velocità in contrasto di fase). Volume anterogrado 139 ml e volume retrogrado 4 ml. Frazione di rigurgito: 3%.
+Qp/Qs: 1,7.
+
+EVOLUZIONE CLINICA
+In attesa della successiva consultazione, è stato eseguito uno studio elettrofisiologico con il riscontro di una tachicardia atriale focale, con precocità maggiore a livello della vena cava superiore alla RA. È stata eseguita l'ablazione con radiofrequenza del focus, che si è dimostrata efficace.
+Come si evince dai risultati della risonanza magnetica cardiaca, è stata riscontrata una connessione venosa polmonare anomala (APVC) dovuta al drenaggio della vena polmonare superiore destra verso la vena cava superiore, che ha causato un sovraccarico di volume delle cavità destre che spiega la dilatazione, con un conshunt sinistro-destro significativo (Qp/Qs 1,7). Non vi è evidenza di altri difetti associati.
+Dopo l'ablazione, gli episodi di tachicardia sopraventricolare sono cessati e il paziente era in ottima classe funzionale.
+Al momento, secondo le linee guida sulle cardiopatie congenite dell'adulto (AHA/ACC 2018), troviamo che la riparazione chirurgica nel nostro paziente ha una raccomandazione di grado IIA: "l'intervento chirurgico può essere utile per le connessioni anomale parziali delle vene polmonari sia di destra che di sinistra, negli adulti asintomatici con sovraccarico di volume RV, shunt sinistro-destro sufficientemente grande da causare sequele fisiologiche (ad esempio, QP/QS > o = 1,7), e in quelli con uno shunt sinistro-destro sufficientemente grande da causare sequele fisiologiche (ad esempio, QP/QS > o = 1,7), e in quelli con uno shunt sinistro-destro abbastanza grande da causare sequele fisiologiche (ad esempio, QP/QS > o = 1,7)". QP/QS >o= 1,5), in presenza di pressioni polmonari inferiori del 50% rispetto alle pressioni sistemiche e resistenze polmonari inferiori a un terzo delle pressioni sistemiche".
+Si è deciso di indirizzare il paziente all'ambulatorio delle cardiopatie congenite dell'adulto, dove si valuterà la necessità di richiedere un cateterismo cardiaco destro per completare lo studio emodinamico prima di indirizzarlo alla cardiochirurgia per la riparazione.
+
+DIAGNOSI
+Connessione venosa polmonare anomala: drenaggio dalla vena polmonare superiore destra alla vena cava superiore.
+Shunt sinistro-destro significativo con sovraccarico di volume del ventricolo destro. Funzione sistolica RV normale.
+Tachicardia atriale focale. Ablazione con radiofrequenza efficace.

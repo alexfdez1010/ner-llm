@@ -1,0 +1,19 @@
+STORIA, MALATTIA ATTUALE ED ESAME FISICO
+Un uomo di 66 anni, iperteso, diabetico di tipo 2, dislipidemico ed ex fumatore, senza altre anamnesi di interesse, si è recato al pronto soccorso nell'aprile 2020 per dispnea progressiva di diversi giorni e febbre, senza altri sintomi cardiovascolari associati. Trattamento domiciliare con enalapril 5 mg/24 ore, atorvastatina 40 mg/24 ore e metformina 850 mg/24 ore.
+Al primo esame, il paziente era emodinamicamente stabile, anche se le sue condizioni generali erano precarie. Pressione arteriosa (BP) 130/75 mmHg, frequenza cardiaca (HR) 75 bpm, RR 30 rpm, saturazione basale 85%, temperatura 38,3 oC. L'auscultazione polmonare ha mostrato crepitii bilaterali in entrambi i campi, con un'auscultazione cardiaca normale e nessun edema agli arti inferiori.
+
+ESAMI COMPLEMENTARI
+Gas del sangue arterioso Insufficienza respiratoria ipossiemica. pH 7,35, pCO2 30 mmHg, pO2 62 mmHg, HCO3- 25 mmol/l, lattico 2,3.
+Elettrocardiogramma (ECG): ritmo sinusale a 75 bpm, PR normale, QRS stretto, asse normale, alterazioni diffuse della ripolarizzazione (T appiattita nella faccia inferiore e laterale) non suggestive di ischemia acuta.
+Radiografia del torace: infiltrato periferico in campo medio-inferiore a sinistra e di minore densità nella regione periferica del campo medio e nella regione paracardiaca destra, compatibile con infezione da SARS-CoV2 di grado moderato dal punto di vista radiologico.
+Emocromo: creatinina 0,96 mg/dl, nessuna alterazione ionica, profilo epatico con lieve elevazione delle transaminasi, prima troponina T 150 ng/dl, seconda troponina T 200 ng/dl, CK 100U/l, LDH 450U/l, Hb 11mg/dl, piastrine 160.000/ul, leucociti 9000/ul, neutrofili 80%, linfociti 1000/ul, D-dimeri 900 ng/ml.
+PCR nasofaringea per SARS-CoV2: positiva.
+
+DECORSO CLINICO
+Alla luce di questi risultati, al paziente è stata diagnosticata una polmonite bilaterale da SARS-CoV2 con associata insufficienza respiratoria acuta ipossiemica, per cui è stato ricoverato e avviato un trattamento con ossigenoterapia per una SatO2 > 90%, riducendo la frequenza respiratoria del paziente, idrossiclorochina (400 mg/12 ore per le prime 24 ore e poi 200 mg/12 ore v. o.), liponavir e liponavir (400 mg/12 ore per le prime 24 ore e poi 200 mg/12 ore v. o.).o.), liponavir-ritonavir (200/50 mg/12 ore o.v.), azitromicina 500 mg/24 ore o.v. e ceftriaxone 2 g/24 ore i.v.
+Quando i marcatori di danno miocardico erano elevati per il sospetto di una miocardite associata, è stato consultato il reparto di cardiologia. Nell'ecocardiogramma transtoracico, il paziente ha mostrato un ventricolo sinistro non dilatato, leggermente ipertrofico, con ipocinesia dei segmenti medi distali del setto inferiore e una LVEF normale; un ventricolo destro non dilatato e normofunzionante e l'assenza di cardiopatia valvolare significativa o di versamento pericardico (video 1).
+Abbiamo interpretato gli elevati marcatori di danno miocardico come giustificabili dal contesto clinico del paziente (ipossiemia, infezione acuta, possibile cardiopatia sottostante) e non abbiamo eseguito ulteriori esami.
+Il paziente ha avuto un'evoluzione favorevole ed è stato dimesso 10 giorni dopo il ricovero.
+
+DIAGNOSI
+Polmonite bilaterale da SARS-CoV2 con marcatori di danno miocardico elevati in questo contesto.

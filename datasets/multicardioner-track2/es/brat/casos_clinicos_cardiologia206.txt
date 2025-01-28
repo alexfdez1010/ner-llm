@@ -1,0 +1,42 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 47 años derivada por síncope con bloqueo auriculoventricular (BAV) 2:1.
+
+Antecedentes
+Independiente para las ABVD, pero con necesidad de soporte. Vive con sus padres. Separada.
+Sin alergias medicamentosas conocidas.
+Sin antecedentes familiares de cardiopatías ni muerte súbita precoz.
+Sin hábitos tóxicos. Sin factores de riesgo cardiovascular. Normopeso (peso 57,5 kg, talla 1,58 m).
+Citopatía mitocondrial fenotipo MELAS (diagnóstico a los 23 años). Predominio de sordera neurosensorial grave e intolerancia al ejercicio por miopatía. En tratamiento con valproato y fenobarbital, con última crisis comicial tónica compleja hace 1 año. TAC sin nuevas lesiones. Hiponatremia frecuente.
+Bloqueo de rama derecha y hemibloqueo anterior izquierdo.
+Intervenciones quirúrgicas: colecistectomía (2012) y apendicectomía en la infancia.
+Medicación habitual: valproato 500 mg 1-1-1, fenobarbital 50 mg 0-0-1, ubiquinona 100 mg 0-1-0, lorazepam 1 mg 0-0-0-1.
+
+Enfermedad actual
+Anamnesis a través de la familia por afasia e hipoacusia severa de la paciente. Refieren que al levantarse por la mañana presenta palidez con sudoración y náuseas. Posteriormente se intensifica el mareo, cayendo al suelo con pérdida del nivel de consciencia con recuperación rápida.
+
+Avisan al servicio de emergencias, persistiendo la clínica a su llegada, evidenciándose BAV 2:1, latido conducido con morfología de bloqueo de rama izquierda. Se deriva al hospital comarcal, estando a su llegada asintomática y con ECG en ritmo sinusal con conducción AV 1:1. No dolor torácico, palpitaciones, disnea ni otra clínica acompañante. Se deriva a nuestro centro para valoración por cardiología.
+
+Exploración física
+Tensión arterial (TA) 92/62 mmHg, frecuencia cardiaca (FC) 72 lpm, SatO99%, temperatura 35 oC.
+Consciente y orientada. Sin focalidad neurológica.
+Tonos rítmicos, sin soplos ni roces. Pulsos simétricos. No ingurgitación yugular. No edemas.
+Buena entrada de aire bilateral, sin ruidos sobreañadidos.
+Abdomen blando, ligera distensión a nivel epigástrico, no doloroso a la palpación. Peristaltismo conservado.
+
+PRUEBAS COMPLEMENTARIAS
+Primer ECG (realizado por el servicio de emergencias en el primer contacto médico): BAV 2:1 a 35 lpm, latido conducido con QRS de 110 mseg con PR corto de 100 mseg e imagen eléctrica compatible con onda delta negativa en V1, positiva en V3-V6, II, III, aVF.
+ECG al ingreso en nuestro centro: ritmo sinusal a 80 lpm, conducción AV 1:1 PR 100 ms y QRS de 110 mseg con imagen compatible con preexcitación, similar al previo.
+Radiografía de tórax posteroanterior realizada en urgencias de nuestro centro: silueta cardiaca normal. Sin condensaciones en el parénquima pulmonar. No signos de insuficiencia cardiaca ni derrame pleural.
+Analítica sanguínea inicial: glucosa 305 mg/dl, creatinina 0,8 mg/dl (FG > 90 ml/min), urea 61 mmol/l, CK 328 mU/ml, TnUs 61 ng/l, Na 130 mEq/l (corregido 136 mEq/l), K 4,6 mEq/l. Hemograma: leucocitos 13,1x109 l (N 53,1%, L 37,3%), hemoglobina 12,1 g/dl, hematocrito 36%, plaquetas 217 x109 l, INR 0.98.
+Gasometría venosa al ingreso: pH 7,231, pCO2 40,7 mmHg, HCO3 15,5 mEq/L, EB -10,5 mEq/L, lactato 8,6 mEq/l.
+Analítica sanguínea de control a las 5 horas del ingreso: CK 292 mU/ml, troponina I US 100 ng/l, lactato 4,4m Eq/l.
+Ecocardiograma transtorácico: ventrículo izquierdo no dilatado, ligeramente hipertrofiado de forma concéntrica, con función sistodiastólica normal. Sin valvulopatías significativas. Hipertensión pulmonar ligera (PAPs estimada 36-38 mmHg). Ventrículo derecho normal.
+
+EVOLUCIÓN CLÍNICA
+Mujer de 47 años con síndrome de MELAS que ingresa por BAV 2:1 sintomático (sincopal) y con imagen compatible con preexcitación que persiste a pesar del trastorno de conducción, lo que orienta al diagnóstico de una vía accesoria fasciculoventricular asociada (origen posterior al nodo auriculoventricular). El ecocardiograma muestra hipertrofia ventricular leve con PSAP ligeramente elevada. Analíticamente destaca lactato inicial de 8 mEq/l y posterior de 4 mEq/l, con ligera acidosis inicial que permaneció con un lactato ligeramente elevado y que se atribuye a la enfermedad mitocondrial (lactatos previos siempre elevados 2'5-11).
+Ingresa en la unidad coronaria para monitorización estrecha e implante de marcapasos definitivo. Evolución favorable desde el ingreso, manteniéndose asintomática en todo momento, en ritmo sinusal con conducción AV 1:1, sin recurrencia de la bradiarritmia. A las 24 h de ingreso se realiza implante de marcapasos bicameral sin incidencias y posteriormente, tras comprobar el normal funcionamiento del dispositivo y la ausencia de complicaciones, se da de alta a domicilio.
+
+DIAGNÓSTICO
+Bloqueo AV 2:1 sintomático (sincopal).
+Imagen electrocardiográfica compatible con preexcitación ventricular por una vía accesoria fasciculoventricular (considerando persistencia de la morfología del QRS a pesar del BAV).
+Síndrome de MELAS (mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke).

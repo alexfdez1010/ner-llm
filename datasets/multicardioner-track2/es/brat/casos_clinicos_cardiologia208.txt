@@ -1,0 +1,48 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+No alergias medicamentosas conocidas.
+Factores de riesgo cardiovascular: dislipemia a tratamiento farmacológico. Fumador activo de cannabis (7 cigarros al día), exfumador de tabaco (acumulado de 2 paquetes/año). No hipertención arterial (HTA), ni diabetes mellitus (DM) conocidas.
+No historia cardiológica previa.
+
+Otros:
+Cáncer testicular (seminoma clásico estadio IIA clínico tras orquiectomía derecha) a tratamiento activo con QT (cisplatino + etopósido), únicamente ha recibido un ciclo. Espondilitis anquilopoyética diagnosticada hace 6 años.
+Tratamiento crónico: atorvastatina 20 mg, 1 comprimido a la cena.
+
+Enfermedad actual
+Varón de 37 años que acude a urgencias por dolor torácico de 1 hora aproximadamente de evolución. Cede tras administración de paracetamol. Lo describe como opresivo, no irradiado, sin cortejo vegetativo acompañante y de comienzo en reposo. No aumenta con la inspiración, ni con los movimientos torácicos. No clínica anginosa previa. Tos con expectoración desde hace 4 días. No fiebre, no disnea, no dolor abdominal, ni alteraciones del hábito intestinal. No otra clínica.
+
+
+Exploración física
+Tensión arterial (TA) 125/82 mmHg, frecuencia cardiaca (FC )72 lpm, Sat O2 basal 98%. Buen estado general. Consciente, orientado y colaborador. Normohidratado y normcoloreado. Eupneico en reposo. No focalidad neurológica. Presión venosa yugular normal. Auscultación cardiaca: rítmico, sin soplos. Auscultación pulmonar: murmullo vesicular (mvc), sin ruidos sobreañadidos. Abdomen: ruidos hidroaéreos normales, blando y depresible, no dolor a la palpación. No signos de irritación peritoneal. Extremidades inferiores: pulsos conservados, no de edema ni signos de trombosis venosa profunda (TVP).
+
+PRUEBAS COMPLEMENTARIAS
+Analítica:
+Marcadores de daño miocárdico seriados en el ingreso (a su llegada, a las 3 horas, a las 24 horas, a las 36 horas y al alta):
+Bioquímica: glucosa 101 mg/dl, urea 52 mg/dl, creatinina 1,13 mg/dl, sodio 137 mmol/l, potasio 4,5 mmol/l, magnesio 2 mg/dl. Perfil lipídico: colesterol total 220 mg/dl, LDL 145 mg/dl, HDL 45 mg/dl, TG 147 mg/dl. HbA1c 5,4%. TSH 1,22 μUI/ml.
+Hemograma: Hb 15,6 g/dl, VCM 85,6 fl, HCM 28,8 pg, leucocitos 6.900 /μl, plaquetas 222.000 /μl.
+Creatina cinasa: 33 -> 47 -> 102 -> 47 -> 29 U/l.
+Troponina t US (normal < 14): 18 -> 102 -> 267 -> 140 -> 99 ng/l.
+Coagulación: INR 1,12, tiempo de protrombina 83,0 %2. Tiempo de tromboplastina parcial 28,6 s, tiempo de tromboplastina parcial ratio 0,95. D-Dímero 411 ng/mg.
+Electrocardiograma (ECG): bradicardia sinusal en torno a 50 lpm. PR normal. QRS estrecho con eje normal, sin alteraciones agudas en la repolarización.
+Radiografía de tórax: ICT normal, no masas, ni condensaciones parenquimatosas, ni signos de insuficiencia cardiaca.
+
+Coronariografía al ingreso:
+Tronco coronario izquierdo: sin lesiones.
+Descendente anterior (DA): vaso largo de buen calibre y desarrollo. Gran trombo intraluminal organizado en segmento medio, ocasionando una estenosis del 60 % y con flujo TIMI 3. Lecho distal bueno, sin lesiones ni material trombótico.
+Circunfleja: vaso de buen calibre y desarrollo, sin lesiones.
+Coronaria derecha: dominante, sin lesiones.
+
+Coronariografía de control (tras una semana de triple terapia antiagregante y anticoagulante): arterias coronarias sin lesiones angiográficamente significativas. Resolución completa del trombo previo.
+Ecocardiograma transtorácico en el momento del ingreso, previo a la coronariografía: ventrículo izquierdo (VI) de tamaño y grosor normal, fracción de eyección (FEVI) conservada, sin alteraciones de la contractilidad regional. No se evidencian trombo ventricular. Sin valvulopatías. No derrame pericárdico.
+Interconsulta al servicio de oncología médica: se suspende la quimioterapia dada su asociación con eventos trombóticos arteriales. Se propone radioterapia ipsilateral como alternativa de tratamiento.
+ECG al alta: ritmo sinusal a 60 lpm. PR normal. Sin ondas Q patológicas. QRS estrecho con eje normal, sin alteraciones de la repolarización.
+
+EVOLUCIÓN CLÍNICA
+Varón de 37 años fumador y dislipémico, con antecedentes de un seminoma testicular intervenido y a tratamiento activo con quimioterapia (cisplatino + etopósido) con ultima dosis administrada 8 días antes del ingreso. Acude por dolor torácico con movilización de marcadores de daño miocárdico sin cambios en el ECG, decidiéndose ingreso como infarto agudo de miocardio sin elevación del segmente ST (IAMSEST) postulando una posible relación con su patología o tratamiento oncológico. Se inicia tratamiento con anticoagulación con heparina de bajo peso molecular y antiagregación doble con ácido acetilsalicílico (AAS) y clopidogrel.
+Al ingreso se realiza coronariografía en la que se evidencia un trombo organizado en segmento medio de DA con una estenosis del 60%. Dados los antecedentes se decide realizar manejo conservador, inicialmente con perfusión de tirofibán durante 24 horas y posteriormente cambio a ticagrelor junto con AAS y anticoagulación con heparina de bajo peso molecular (triple terapia antitrombótica), con idea de repetir la coronariografía e intentar evitar el implante de stent. Tras una semana de tratamiento, se repite la coronariografía y se evidencia desaparición de trombo previo, sin lesiones significativas subyacentes en los tres vasos, suspendiendose entonces el tratamiento anticoagulante. En el ecocardiograma transtorácico se aprecia FEVI conservada. Buena evolución clínica: asintomático, estable hemodinámicamente y con troponinas en descenso. Finalmente, se decide alta a domicilio para continuar tratamiento médico con doble antiagregación plaquetaria con AAS y ticagrelor.
+Desde el punto de vista de su cáncer testicular, se solicitó valoración a oncología médica que decide suspender el tratamiento quimioterápico ante la relación del cisplatino con eventos trombóticos agudos coronarios, proponiendo cambio a radioterapia (ambulatoria) y seguimiento por su parte.
+
+DIAGNÓSTICO
+IAMSEST. Trombosis aguda de descendente anterior secundaria a tratamiento con cisplatino, resuelta tras una semana de triple antiagregación y anticoagulación. Arterias coronarias sin lesiones ateroscleróticas subyacentes. FEVI conservada.
+Seminoma clásico estadio IIA a tratamiento activo con quimioterapia (cisplatino + etopósido), que se suspende.

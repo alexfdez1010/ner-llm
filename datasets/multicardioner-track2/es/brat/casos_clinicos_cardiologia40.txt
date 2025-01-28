@@ -1,0 +1,42 @@
+Varon de 59 años con fiebre alta (39o) de 2 días de evolución y episodio de crisis convulsiva. Se muestra estuporoso.
+
+PA 97/80 mmHg. Fc 132 lpm. SatO2 95%. Fr 22 rpm. Ta 34,2oC.
+
+Cumple criterios de SEPSIS GRAVE: Ta34,2o. Insuficiencia renal aguda (Creatinina 2,2); PCT y PCR elevadas (infección bacteriana); Hipotensión (97/80) con signos de mala perfusión (frío y sudoroso), Acidosis metabólica (bicarbonato bajo), Lactato elevado (hipoperfusión); Oligoanuria; muy llamativa Plaquetopenia (16.000); Taquicardia (FA a 132 x ́), Taquipnea a 26 x ́(pCO2 baja). El FOCO es desconocido.
+
+Vayamos por partes:
+
+1) Hipotensión inducida por Sepsis: se administran 2.000 cc de Suero Fisiológico y posteriormente en UCI 1.500 cc SF. -> mantiene PA 105/75
+
+2) Fibrilación auricular a 130 x ́ -> AMIODARONA IV .... -> Ritmo sinusal.
+
+3) Antibiótico? Después de cursar 2 hemocultivos -> MEROPENEM IV, –> En UCI se optó por CLOXACILINA + CEFOTAXIMA + CIPROFLOXACINO. –> y posteriormente: CLOXACILINA + DAPTOMICINA -> actualmente CLOXACILINA + GENTAMICINA.
+
+4) Crisis convulsiva que repite al cabo de unas horas. TC: HEMORRAGIA SUBARACNOIDEA, en probable relación con plaquetopenia o con aneurisma micótico (= infeccioso) -> se inicia tto con LEVETIRACETAM IV.
+
+5) Plaquetopenia. -> consulta con Hematología: "no cumple criterios de PTT, TIH, ni de Síndrome Hemofagocítico; no se descarta PTI versus vasculitis además del cuadro séptico". Se inicia tto con corticoides + perfusión de plaquetas: un pool diario.
+
+6) Búsqueda del FOCO: se realiza Ecocardiograma transtorácico: NO se visualizan verrugas.
+
+7) Hemocultivos positivos a STAPHILOCOCCUS AUREUS (sensible a meticilina)
+
+8) Se realiza Ecocardiograma Transesofágico: se visualiza imagen de VERRUGA en valva anterior de la válvula mitral.
+
+9) Interconsulta con Cirugía Cardiovascular: se desestima en el momento actual tto quirúrgico debido a la HSA. Nueva valoración pasadas 6 semanas.
+
+10) Aparición de lesiones purpúricas (equimóticas) de probable origen embólico en pulpejos de dedos de las manos y plantas de los pies.
+
+Pasada una semana en UCI, se mantiene estable. Se traslada a planta.
+
+JUICIO DIAGNÓSTICO:
+
+– ENDOCARDITIS MITRAL sobre válvula con degeneración mixomatosa por S. AUREUS.
+
+– SEPSIS SEVERA con FRACASO RENAL (corregido al alta). PLAQUETOPENIA SEVERA.
+
+– HEMORRAGIA SUBARACNOIDEA. CRISIS EPILÉPTICA generalizada
+
+– ACxFA (revertida a ritmo sinusal)
+
+Comentario:
+El estafilolococo dorado: S.Aureus vive en la piel de los humanos -> causa infecciones cutáneas: foliculitis, impétigo, abscesos cutáneos, forunculosis, mastitis, celulitis, infección de heridas...(también heridas quirúrgicas)...

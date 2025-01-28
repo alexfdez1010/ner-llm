@@ -1,0 +1,36 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+Male, 41 years old, from Romania. Hypertensive and smoker. History of syncope:
+1999 in Romania: attributed according to the patient to a first CHF episode (no reports available).
+2012: non-specific symptoms with suspected vasovagal aetiology.
+2015: new episode with prodromes and post-critical period, leading to a neurological study with cranial computed tomography (CT), which was found to be normal.
+2016: two episodes, with a cardiogenic profile. Admission to the cardiology ward.
+She came to the emergency department for two consecutive syncopal episodes, the first of which was not witnessed, while walking, without prodromes, with a fall to the ground and trauma to the jaw and mouth. While recovering from this (he got up and went to drink water), he had another episode, this time preceded by intense heat and dizziness, with loss of consciousness lasting seconds. Subsequent full recovery. No tonic-clonic movements or sphincter relaxation. Subsequently asymptomatic. No clinical chest pain or palpitations. No dyspnoea or signs of heart failure.
+
+Physical examination
+Blood pressure (BP) 144/91 mmHg, Spo2 99%, heart rate (HR) 72 bpm. Conscious and oriented. Eupneic.
+Cardiopulmonary auscultation normal.
+Lower limbs: no oedema. Palpable and symmetrical pulses.
+
+COMPLEMENTARY TESTS
+Electrocardiogram (ECG): sinus rhythm at 52 bpm, 90o axis, narrow QRS, asymmetric negative T in III and up to V2, biphasic in V3. Notched QRS in V3. Early repolarisation in V6.
+Chest X-ray: cardiac shift to the left. Erasure of the right cardiac border (overlapping of the spinal column). Pectus excavatum.
+CBC: ultrasensitive troponin T 4 pg/ml. Glucose 85 mg/dl, urea 35 mg/dl, creatinine 0.95 mg/dl. Sodium 137 mmol/l. Potassium 4.2 mmol/l. CK 279 U/l. Haemoglobin 14.5 x10^3/mcl, platelets 304x10^3/mcl, leucocytes 13.29x10^3/mcl (N 86%). D-dimer 198 μg/ml.
+PET scan protocol: no repletion defects in main, lobar or segmental pulmonary arteries. No mediastinal or hilar adenopathies of significant size. No images compatible with infiltrates, nodules or pleural effusion.
+Echocardiogram: left ventricle (LV) not dilated or hypertrophic with preserved LVEF and no alterations in segmental contractility except septal flattening and anomalous movement in relation to right ventricular dilatation. Non-dilated left atrium (LA) with an AP diameter of 26 mm and area of 14 cm. Dilated right ventricle (RV) with diameters of 45 mm basally, 40 mm medially and 59 mm longitudinally with borderline RVEF (TAPSE 16, S DTI 14) with free wall hypokinesia and akinesia-dyskinesia at the apex. Aortic root and ascending aorta not dilated. Tricommissural aortic valve with preserved opening. Mitral and tricuspid of normal morphology. Inferior vena cava (IVC) not dilated. Aneurysm of the interatrial septum (AIS) that appears to be intact. No pericardial effusion is visualised. Normal diastolic function. Trivial mitral regurgitation (MR). Mild tricuspid regurgitation (TR).
+Signal-averaged ECG: filtered QRS duration: 108 ms, RMS40: 37 mcV, SAB: 23 ms. No positive criteria. Negative signal averaging study.
+Cardiac magnetic resonance imaging (MRI): morphological and functional sequences show non-dilated LV with normal wall thickness and normal global and regional EF. Normal LA. RA not dilated. RV not dilated, with estimated RVEF 47%. At the level of the RV outflow tract, a very localised hypokinetic area, with no other significant alterations in segmental contractility or aneurysmal areas. Cardiac displacement towards the left hemithorax, with significant horizontalisation of the cardiac axis. No oedema is seen in T2 sequences. Perfusion sequences do not show any first-pass defects. No enhancement indicating pathological substrate was observed in the viability sequences. Extracardiac findings: lungs with normal vascularisation, although there is volume loss in lingular segments associated with cardiac displacement.
+
+Conclusion:
+Normal LV. RV not dilated, with borderline EF (47%), without conclusive data for diagnosis of dysplasia.
+Electrophysiological study: negative study, no data of channelopathy. At the end of the study and to complete the study, a SJM model Confirm DM2100 subcutaneous Holter was implanted.
+Coronary CAT scan (image 4): normal cardiac cavities. Atria not dilated. Aortic valve: tricuspid, morphologically normal. Mitral valve: morphologically normal. Coronary tree: Agatston 0. Dominance: right. Normal coronary anatomy. No abnormalities or stenosis. Rotation of the cardiac silhouette to the left and posterior and virtual absence of the pericardium, with some residual tracts in the anterior margin of the right ventricle.
+
+CLINICAL EVOLUTION
+The patient was admitted to the cardiology ward for further investigation. In the emergency department, angio-CT ruled out PTE. Initially, right ventricular dysplasia was suspected (ECG with negative T1-V2, echocardiogram with a doubtful aneurysmal image in the right ventricle), so the study was completed with MRI and a new echocardiogram was repeated: the right ventricle was of normal size, without dilatation or clear criteria of dysplasia.
+During admission, he remained asymptomatic and stable, without dizziness or syncope and with telemetry that did not record any event (no ventricular or supraventricular extrasystoles or arrhythmias of any kind). The syncope study was completed with signal-averaged ECG, flecainide test and electrophysiological study with no inducibility of ventricular tachycardia or findings justifying an arrhythmic mechanism. A subcutaneous Holter was implanted.
+A coronary CAT scan was also performed which ruled out coronary anomalies, with probable almost total agenesis of the left pericardium (chest X-ray also compatible with this diagnosis), which does not justify the current clinical picture.
+
+DIAGNOSIS
+Repeated syncope of non-filarial origin (probably neuromediated). Negative electrophysiological study. Implantable Holter.
+Coronary CAT scan with no coronary lesions or anomalies.
+Almost total pericardial agenesis.

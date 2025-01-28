@@ -1,0 +1,36 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+Mujer de 18 años.
+No alergias medicamentosas conocidas.
+No hábitos tóxicos.
+Antecedentes cardiológicos: en seguimiento en consultas generales de Cardiología por insuficiencia mitral ligera secundaria a prolapso mitral; asintomática con función sistólica biventricular preservada.
+G1P1A0. Parto instrumentado (ventosa) con anestesia epidural el día 23 de enero por rotura prematura de membranas a la semana 40,3 de gestación.
+
+Enfermedad actual
+Paciente de 18 años que consulta por presentar desde hace dos días episodios erráticos de dolor centrotorácico opresivo, no irradiado, de 15-20 minutos de duración.
+No cuadro catarral o diarreico en días previos. Bajo tratamiento con bromocriptina desde el día 27 de enero.
+
+Exploración Física
+PA 123/71. FC 77 latidos por minuto. Ta 36°C. Consciente, orientada, buena perfusión distal. Buen estado general. Eupneica al aire ambiente sin oxígeno suplementario.
+Tolerando decúbito. Cabeza y cuello: No IVY, no reflujo hepatoyugular negativo. Auscultación cardiaca: rítmica, con soplo mesosistólico II/IV de predominio en ápex. Auscultación pulmonar: murmullo vesicular conservado, sin fenómenos sobreañadidos. Abdomen: blando, depresible, no doloroso a la palpación.
+Extremidades: no edemas, no datos trombosis venosa profunda.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal a 82 latidos por minuto. Elevación del ST en DII, DIII y avF. Descenso especular en V2-v3 y aVL.
+ECG de control: corrección de cambios descritos previamente.
+Analítica de sangre: Leucositos 13200 (N 69,4 %, L 22 %), Hb 14,1, plaquetas 349.000. D Dímero 106. Urea 21. Crreat 0,6. Na 136. K 3,9. Coagulación normal.
+Marcadores de daño miocárdico: 1a Determinación de TnI: 4,95 ng/ml. 2a Determinación: 12,5 ng/ml (pico) (valores normales inferiores a 0,017 ng/ml)
+Radiografía de tórax: sin datos de patología pleuropulmonar aguda. Silueta cardiopericárdica en límite de la normalidad.
+ETT: ventrículo izquierdo no dilatado, no hipertrófico con FEVI global y segmentaria preservada. Patrón diastólico normal. Insuficiencia mitral por prolapso de velo posterior ligera. Válvula aórtica trivalva, sin gradiente transvalvular ni insuficiencia significativa. Cavidades derechas normales. No Insuficiencia tricuspídea. No derrame pericárdico. Colapso inspiratorio de Vena cava superior > 50 % con la respiración.
+Coronariografía: árbol coronario izquierdo: TCI sin lesiones angiográficamente significativas. Descendente anterior sin lesiones significativas. Circunfleja sin lesiones aniográficamente significativas. Dominancia derecha. Coronaria derecha sin lesiones angiográficamente significativas.
+
+EVOLUCIÓN
+La paciente ingresa en Unidad Coronaria con diagnóstico de síndrome coronario agudo con elevación transitoria del segmento ST (se documenta supradesnivel en ECG de centro de salud, con corrección de cambios en ECG de llegada a nuestro hospital comarcal) y se suspende tratamiento con bromocriptina. Se realiza ecocardiograma transtorácico, en el que se objetiva función sistólica ventricular izquierda global y segmentaria preservada, con insuficiencia mitral por prolapso mitral ya conocidas.
+Se lleva a cabo coronariografía en las primeras 24 horas, según recomendaciones de las guías ESC, en el que se descarta lesiones coronarias angiográficamente significativas.
+La evolución de la paciente es favorable, permaneciendo estable hemodinámicamente, sin desarrollo de complicaciones arrítmicas y ni mecánicas, asintomática desde el punto de vista cardiovascular.
+
+DIAGNÓSTICO
+Síndrome coronario agudo con elevación transitoria del segmento ST. Killip 1.
+Vasoespasmo coronario secundario a bromocriptina.
+Función sistólica ventricular izquierda preservada.

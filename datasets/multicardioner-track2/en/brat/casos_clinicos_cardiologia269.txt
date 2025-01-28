@@ -1,0 +1,19 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+A 66-year-old male, hypertensive, type 2 diabetic, dyslipidaemic and ex-smoker, with no other history of interest, attended the emergency department in April 2020 for progressive dyspnoea of several days' evolution and fever, with no other associated cardiovascular symptoms. Home treatment with enalapril 5 mg/24 hours, atorvastatin 40 mg/24 hours and metformin 850 mg/24 hours.
+On first examination, the patient was haemodynamically stable, although his general condition was poor. Blood pressure (BP) 130/75 mmHg, heart rate (HR) 75 bpm, RR 30 rpm, basal saturation 85%, temperature 38.3 oC. Pulmonary auscultation showed bilateral crackles in both fields, with normal cardiac auscultation and no oedema in the lower limbs.
+
+COMPLEMENTARY TESTS
+Arterial blood gases Hypoxaemic respiratory failure. pH 7.35, pCO2 30 mmHg, pO2 62 mmHg, HCO3- 25 mmol/l, lactic 2.3.
+Electrocardiogram (ECG): sinus rhythm at 75 bpm, normal PR, narrow QRS, normal axis, diffuse repolarisation alterations (flattened T in inferior and lateral face) not suggestive of acute ischaemia.
+Chest X-ray: peripheral infiltrate in the left mid-inferior field and of lesser density in the peripheral region of the midfield and right paracardiac region, compatible with SARS-CoV2 infection of moderate degree from the radiological point of view.
+CBC: creatinine 0.96 mg/dl, no ionic alterations, liver profile with mild elevation of transaminases, first troponin T 150 ng/dl, second troponin T 200 ng/dl, CK 100U/l, LDH 450U/l, Hb 11mg/dl, platelets 160,000/ul, leukocytes 9000/ul, neutrophils 80%, lymphocytes 1000/ul, D-dimers 900 ng/ml.
+Nasopharyngeal PCR for SARS-CoV2: positive.
+
+CLINICAL COURSE
+In view of these findings, the patient was diagnosed with bilateral SARS-CoV2 pneumonia with associated acute hypoxaemic respiratory failure, so he was admitted and treatment was started with oxygen therapy for SatO2 > 90%, reducing the patient's respiratory rate, hydroxychloroquine (400 mg/12 hours for the first 24 hours and then 200 mg/12 hours v. o.), liponavir and liponavir (400 mg/12 hours for the first 24 hours and then 200 mg/12 hours v. o.).o.), liponavir-ritonavir (200/50 mg/12 hours o.v.), azithromycin 500 mg/24 hours o.v. and ceftriaxone 2 g/24 hours i.v.
+When markers of myocardial damage were elevated due to suspicion of associated myocarditis, the cardiology department was consulted. In the transthoracic echocardiogram, the patient showed a non-dilated, slightly hypertrophic left ventricle, with hypokinesia of the distal middle segments of the inferior septum, and normal LVEF; a non-dilated, normofunctioning right ventricle, and absence of significant valvular heart disease or pericardial effusion (video 1).
+We interpreted the elevated markers of myocardial damage as justifiable by the clinical context of the patient (hypoxaemia, acute infection, possible underlying heart disease) and did not perform further tests.
+The patient evolved favourably and was discharged 10 days after admission.
+
+DIAGNOSIS
+Bilateral SARS-CoV2 pneumonia with elevated markers of myocardial damage in this context.

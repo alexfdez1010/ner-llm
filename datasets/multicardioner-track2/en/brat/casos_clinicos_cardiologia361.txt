@@ -1,0 +1,43 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+PERSONAL HISTORY
+No known drug allergies.
+No toxic habits.
+Cardiovascular risk factors: regularly controlled hypertension. No known dyslipidaemia or diabetes. Overweight.
+No medical or surgical history of interest.
+Usual treatment: losartan 50 mg/hydrochlorothiazide 12.5 mg 1 tablet every 24 hours.
+
+CURRENT ILLNESS
+A 53-year-old man with hypertension of approximately two years of evolution with poor control at home, who consulted the emergency department for clinical pain described as shooting/oppressive in the interscapular region radiating towards the anterior region of the thorax and internal face of the left upper limb on moderate/high intensity exertion, gradually subsiding with rest, for the last 2 weeks. He also reported a slight sensation of dyspnoea, without palpitations or vegetative cortex, and denied previous similar episodes.
+After performing complementary tests in the emergency department (detailed below), it was decided to monitor her for the first 24 hours in the observation area, with no new events.
+
+PHYSICAL EXAMINATION
+Good general condition. Conscious and oriented. Collaborative. Well hydrated and perfused.
+Afebrile.
+Haemodynamically stable with blood pressure 132/87 mmHg (on arrival at the ED 200/112 mmHg) and heart rate 70 bpm. Eupneic at rest and when speaking, tolerating full decubitus and with no need for supplementary oxygen therapy.
+On auscultation, rhythmic heart tones without audible murmurs. Bladder murmur was preserved without crackles or other pathological noises.
+Abdominal examination was unremarkable. Lower limbs without oedema or signs of deep vein thrombosis (DVT).
+No other noteworthy findings on examination.
+
+COMPLEMENTARY TESTS
+ECG on admission: sinus rhythm at 65 bpm. Normal axis. PR 160 msec. Narrow QRS with little R wave progression in right precordial leads. Symmetrical and deep negative T waves from V1 to V4 and isodiphasic in V5 (Wellens pattern).
+ECG after percutaneous coronary intervention: sinus rhythm at 70 bpm. Normal axis. Normal PR. Narrow QRS with little progression of R in right precordials and normalisation of T waves in precordial series.
+Blood tests: glycaemia 102 mg/dl. Creatinine 1.24 mg/dl. Urea 36 mg/dl. Sodium 143 mEq/l.
+Potassium 4.3 mEq/l. Lipid profile: total cholesterol 206 mg/dl, HDL cholesterol 43 mg/dl, LDL cholesterol 133 mg/dl, triglycerides 148 mg/dl. Normal liver and thyroid profiles.
+Glycated haemoglobin 5.9%. Myocardial damage markers with ultrasensitive cTnT peak of 121.8 ng/l. Haemogram without leukocytosis with normal formula. Hb 150 g/l. Platelets 229,000. Normal coagulation study.
+Chest X-ray: normal cardiothoracic index. Well-defined hilarity, no evidence of pulmonary congestion or parenchymal condensation. Free costophrenic sinuses.
+Transthoracic echocardiography: non-dilated left ventricle (LVEDD 45 mm, LVOT 148 ml, STV 54 ml) with 12.5 mm mid-basal septum, with largely preserved systolic function (LVEF 63 % by Simpson biplane). No segmental contractility defects are seen. Left atrium at the high limit of normality (AP diameter 36 mm, indexed volume 30 ml/m2). Normal mitral valve. Mitral E wave velocity 5 cm/sec, A wave 61 cm/sec. Septal E" 7.7, lateral E" 8.8, E/E" 7.6. Trivalve aortic valve with normal flows. Aortic root not dilated (sinuses of Valsalva 38 mm).
+Right chambers not dilated, without tricuspid insufficiency that would allow estimation of systolic pulmonary artery pressure (PAPs) (no indirect data of PHT). Inferior vena cava (IVC) not dilated. Absence of pericardial effusion.
+Coronary angiography: right radial access. Left main coronary artery without lesions. Anterior descending artery with proximal subtotal lesion with good distal vessel.
+Dominant circumflex artery without lesions. Hypodense right coronary artery without lesions. Direct implantation of a zotarolimus-eluting stent (Resolute Onyx 3.5 x 18 mm) was performed on the proximal anterior descending artery (ADA), without immediate complications and with good final angiographic results.
+
+CLINICAL EVOLUTION
+During his hospital stay, the patient presented an episode of chest pain with a typical profile for ischaemia without associated vegetative cortex, during which minimal ST-segment elevation was observed in the anterior face, which subsided after the administration of nitrates, while the T-wave inversion described prior to admission persisted.
+Serial analytical controls showed discrete mobilisation of biomarkers of myocardial damage (peak TnTus 121.8 ng/l). Based on clinical symptoms compatible with recent-onset angina and the findings described, preferential coronary angiography was requested, which revealed a subtotal lesion at the proximal level of the anterior descending artery, with no other associated coronary lesions. This lesion was percutaneously revascularised and a drug-eluting stent was implanted without incident and with good angiographic results. At the end of the procedure, a new electrocardiogram was performed which showed normalisation of the repolarisation disorders described on admission.
+With regard to the imaging tests, the echocardiography showed a ventricle of normal size and morphology with preserved ejection fraction (LVEF 63%), without identifying segmental alterations in contractility.
+After the coronary intervention, the patient remained completely asymptomatic and without complications derived from the procedure and was discharged. He is currently undergoing a cardiac rehabilitation programme at our centre, with good tolerance to the exercises performed at the gym, remaining asymptomatic and with no notable clinical incidents.
+
+DIAGNOSIS
+Acute non-ST-segment elevation myocardial infarction (NSTEMI) with single-vessel coronary artery disease (subtotal lesion of the proximal LAD). Percutaneous coronary intervention (PCI) with direct drug-eluting stent (DES) without incident.
+Initial electrical manifestation with Wellens pattern.
+Poorly controlled hypertension.

@@ -1,0 +1,42 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi personale
+Uomo di 53 anni, attivo, dipendente pubblico. Non aveva allergie ai farmaci, aveva fumato sporadicamente (1-2 pacchetti/anno accumulati) e gli era stata diagnosticata una lieve ipertensione arteriosa, senza altri fattori di rischio cardiovascolare associati. Assumeva omeprazolo al bisogno per una dispepsia occasionale, ma non assumeva alcun trattamento su base regolare.
+
+Anamnesi attuale
+Ha consultato il suo medico di base per diversi episodi di dolore toracico centrale opprimente, di insorgenza improvvisa, a riposo, della durata di pochi minuti. Il dolore non è correlato ai pasti, non cambia con i movimenti respiratori o i cambiamenti posturali ed è accompagnato solo da una lieve sudorazione.
+Gli è stato prescritto un trattamento con acido acetilsalicilico 100 mg (1-0-0), bisoprololo 2,5 mg (1-0-1), omeprazolo 20 mg (1-0-0) e nitroglicerina sublinguale al bisogno ed è stato indirizzato al reparto di cardiologia.
+Alcuni giorni dopo si è recato al pronto soccorso perché i sintomi persistevano nonostante il trattamento.
+Con l'uso della nitroglicerina, la durata si è ridotta, ma non la frequenza; ha riferito fino a 7 episodi nelle ultime 3 settimane, con una chiara predominanza notturna.
+
+Esame fisico al pronto soccorso
+Pressione arteriosa: 145/89 mmHg. Frequenza cardiaca 60 battiti al minuto, saturazione basale di ossigeno 100%. Temperatura 36,5°C. Buone condizioni generali. Cosciente, orientato, collaborativo. Eupnea a riposo. Non idratato. Colore normale.
+Pressione venosa giugulare normale. Carotide ritmica, senza soffi. Auscultazione cardiaca ritmica senza soffi, sfregamenti o extratoni. Auscultazione polmonare con murmure vescicolare conservato, senza suoni extra. Addome senza alterazioni degne di nota.
+Arti inferiori normali. Pulsazioni periferiche presenti e simmetriche.
+
+ESAMI COMPLEMENTARI
+
+ECG d'emergenza: ritmo sinusale a 55 bpm, PR normale, QRS stretto, senza alterazioni della ripolarizzazione.
+
+Esami di laboratorio d'urgenza: emoglobina 15,8 g/dl, leucociti 8.650/mm3 (formula normale), piastrine 212.000/mm3. Coagulazione: tasso di protrombina 91%, tempo di tromboplastina parziale attivato 26,6 s, fibrinogeno 309 mg/dl. Biochimica: glucosio 113 mg/dl, urea 40 mg/dl, creatinina 1,13 mg/dl, sodio 140 mEq/l, potassio 3,4 mEq/l, troponina I seriale 0,00 ng/ml.
+
+Radiografia del torace al pronto soccorso: normale.
+
+Ecocardiografia al pronto soccorso: ventricolo sinistro di dimensioni normali e funzione sistolica complessiva, senza alterazioni della contrattilità segmentale. Ventricolo destro di dimensioni e funzione sistolica normali Atri normali. Assenza di cardiopatia valvolare significativa. Segmenti visibili dei grandi vasi normali.
+Pericardio normale.
+
+Test da sforzo: interrotto al minuto 10,50 del protocollo Bruce (11,80 METS) per il raggiungimento della massima frequenza cardiaca teorica. Pressione arteriosa e risposta cronotropa normali. Non sono state registrate aritmie. Conclusione: clinicamente ed elettricamente negativo per ischemia.
+
+Holter ECG degli eventi di 10 giorni: in coincidenza con un episodio di dolore toracico identico ai precedenti, si registra un innalzamento del segmento ST della durata di alcuni minuti e frequenti extrasistoli sopraventricolari e ventricolari.
+
+TC delle arterie coronarie: punteggio di calcificazione 191. Sono state osservate placche calcifiche nel terzo prossimale dell'arteria discendente anteriore e dell'arteria circonflessa che non causavano stenosi significative, nonché una placca morbida nel terzo medio dell'arteria discendente anteriore che causava una stenosi del 50%.
+
+EVOLUZIONE
+Durante la permanenza in Pronto Soccorso, il paziente è rimasto sempre asintomatico ed emodinamicamente stabile. I marcatori seriali di danno miocardico erano negativi. È stato valutato dall'équipe cardiologica di guardia, che ha eseguito un'ecocardiografia in cui non sono state osservate alterazioni. Viste le caratteristiche degli episodi, è stata sollevata la possibilità di un vasospasmo coronarico, per cui sono stati aggiunti nitrati alla sua terapia ed è stato deciso di completare lo studio su base ambulatoriale. Il ricovero non è stato ritenuto necessario perché gli episodi di dolore non erano aumentati in intensità o durata e non erano accompagnati da palpitazioni, vertigini o sincope.
+La registrazione Holter degli eventi a lungo termine due settimane dopo ha mostrato un transitorio innalzamento del segmento ST in coincidenza con un nuovo episodio di dolore toracico, identico ai precedenti, confermando la diagnosi di vasospasmo coronarico. Il bisoprololo è stato sospeso (il paziente aveva già sospeso i nitrati a causa della cefalea e l'acido acetilsalicilico a causa della dispepsia) e il diltiazem è stato iniziato alla dose di 120 mg ogni 12 ore. Dato che non faceva sforzi fisici impegnativi, è stata richiesta l'ergometria, che è risultata clinicamente ed elettricamente negativa per ischemia. Nonostante questo risultato, per escludere con maggiore certezza lesioni coronariche ostruttive sottostanti, è stata eseguita una TC delle arterie coronarie, che ha mostrato stenosi non significative nelle arterie discendenti anteriori e circonflesse, ed è stata aggiunta al trattamento la simvastatina alla dose di 20 mg al giorno.
+Il paziente è progredito bene, senza alcuna recidiva dei sintomi.
+Gli viene spiegato che, per evitare il più possibile nuovi episodi, è essenziale che si astenga dal fumo e che aderisca al trattamento farmacologico.
+
+DIAGNOSI
+Angina vasospastica.
+Arterie coronarie senza lesioni significative.

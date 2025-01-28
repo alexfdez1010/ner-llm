@@ -1,0 +1,32 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+58-year-old male. No known drug allergies. Active smoker of 1 pack a day. No other cardiovascular risk factors. Recent diagnosis of gastric adenocarcinoma with lymph node involvement, undergoing adjuvant chemotherapy treatment with docetaxel, oxaliplatin, leucovorin, 5-fluorouracil (FLOT scheme). He started the first cycle 24 hours before admission to the cardiology department.
+Usual medication: metamizole 575 mg/8h, metoclopramide 10 mg/8h, paracetamol 1 g/8h, tramadol 50 mg/8h, dexamethasone 8 mg/24h, omeprazole 20 mg/24h.
+
+Present illness
+Started chemotherapy with 5-fluorouracil in continuous infusion through a reservoir 24 hours ago. He came to the emergency department for an episode of oppressive chest pain, radiating to both extremities and associated with vegetative cortex, with abrupt onset and spontaneous disappearance after 30 minutes, and was subsequently asymptomatic. On arrival at the emergency department, electrocardiogram (ECG) showed isoelectric ST and the patient was haemodynamically stable. After 2 hours in the ED, he presented a second episode of typically angina-like central thoracic pain with electrical evidence of ST elevation of up to 4 mm on the inferolateral side associated with hypertensive reaction (blood pressure [BP] 198/101 mmHg). After administration of sublingual nitroglycerin, there was clinical improvement and retrogradation of electrical changes with flattening of repolarisation in V5-V6. No dyspnoea or other associated symptoms. During his stay in the emergency department he presented a new recurrence of pain with ST elevation in II-III-aVF, V1-V4. Cardiology was contacted and the AMI code was activated.
+
+
+Initially the perfusion of 5-fluorouracil was stopped and i.v. nitroglycerin was started. On arrival in haemodynamics the patient was asymptomatic and the ECG changes had regressed. Emergent coronary angiography was performed with ectatic coronary arteries, without significant angiographic lesions. Aortography ruled out signs of dissection at the level of the ascending aorta, aortic arch and thoracic descending aorta.
+
+Physical examination
+Weight 85 kg, height 1.85m. Good general condition, normohydrated, normoperfused. Conscious and oriented. No signs of heart failure. Cardiac auscultation: rhythmic tones, no murmurs. Peripheral pulses present and symmetrical. Respiratory auscultation: preserved vesicular murmur. Abdomen: normal examination, no pathological findings.
+
+
+COMPLEMENTARY TESTS
+Electrocardiograms: ECG with pain: sinus rhythm at 80 bpm, normal PR, narrow QRS axis at +30o, ST elevation II, III, aVF, V3, V4, V5, V6 (maximum 4 mm in II). ECG without pain and on discharge: sinus rhythm at 74 bpm, normalisation of the previously described changes with isoelectric ST, without other repolarisation alterations.
+AP portable chest X-ray on arrival at the ED: no condensation in the lung parenchyma or signs of pulmonary congestion.
+Laboratory tests: Initial blood tests (in the ED): glucose 160 mg/dl; urea 51 mmol/l; creatinine 1 mg/dl; GFR 82 ml/min; sodium 139 mEq/l; potassium 3.85 mEq/l; leukocytes 10.82 x109/l; haemoglobin 15.6 g/dl; haematocrit 44.1%; platelets 210 x109/l; INR 1.14. Myocardial enzymes: peak TnI-US 29.70 pg/ml (normal 2-25 pg/ml) and peak CK 295 U/l (normal 10-195 U/l). SARS-CoV-2 PCR: negative. Complete laboratory tests 24 hours after admission: Metabolic profile: total cholesterol 186 mg/dl; LDL 123 mg/dl; HDL 40 mg/dl; triglycerides 115 mg/dl; HbA1c 5.1%. Liver function: GOT 23 U/l, GPT 14 U/l, GGT 20 U/l, total bilirubin 0.71. Haemogram without alterations.
+Coronary angiography: right dominance. Ectatic coronary arteries, without significant angiographic lesions.
+Aortography: absence of complications of ascending aorta and aortic arch.
+Transthoracic echocardiogram: left ventricle (LV) neither dilated nor hypertrophied with normal systolic function without regional contractile asymmetries. Right ventricle not dilated and normocontractile. Normal atria. Absence of functionally significant valvular heart disease. Normal pulmonary pressure. No pericardial effusion. No mechanical complications.
+
+
+CLINICAL EVOLUTION
+Medical treatment was maintained with intravenous nitrates, with subsequent enteral conversion after satisfactory blood pressure control, remaining haemodynamically stable and without angina recurrence. After 48 hours of monitoring, we contacted our medical oncology colleagues to adjust and control the medication for her oncological process. During the subsequent evolution, given that he did not require treatment with 5-FU, it was decided to perform a subtotal R2 gastrectomy and start treatment with irinotecan. On discharge, from the cardiological point of view, treatment was maintained with: acetylsalicylic acid 100 mg 0-1-0, nifedipine 20 mg 1-1-1, isosorbide mononitrate 40 mg 0-1-1 and fluvastatin 40 mg 0-0-1-1.
+
+DIAGNOSIS
+Coronary vasospasm secondary to 5-fluoruracil treatment.
+Non-Q acute myocardial infarction (AMI). Killip I.
+Preserved LV systolic function.

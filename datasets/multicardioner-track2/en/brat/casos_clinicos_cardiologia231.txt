@@ -1,0 +1,33 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+32-year-old male with no known drug allergies, moderate drinker with no other cardiovascular risk factors (CVRF), no personal medical or surgical history of interest and not under chronic medical treatment. His family history includes three maternal uncles who died of sudden death at a young age (specify the years, if you have them), the aetiology of which is unknown. Father and mother without heart disease or sudden death events. They lead an active life appropriate to their age.
+
+Current illness
+The patient reports recurrent and intermittent symptoms characterised by palpitations, since adolescence. The symptoms have worsened in recent months with syncopal episodes with loss of postural position and level of consciousness, for which he consulted as an outpatient.
+
+Physical examination
+Blood pressure (BP) 120/80 mmHG, heart rate (HR) 70 bpm, respiratory rate (RR) 20 rpm, oxygen saturation (O2 Sat) 95%.
+Normal colour and normohydrated.
+No jugular ingurgitation.
+Cardiac auscultation: rhythmic heart sounds without murmurs.
+Pulmonary auscultation: preserved vesicular murmur.
+Abdomen: soft, non-painful, no masses or megaliths.
+Lower extremities: no oedema, no signs of deep vein thrombosis (DVT).
+
+COMPLEMENTARY TESTS
+Laboratory: haemogram: leucocytes 7x10*9/l, Hb 13 g/dl, platelets 310x10*9/l. Biochemistry: glucose 181 mg/dl [70-110], urea 59 mg/dl [10-50], creatinine 1.53 mg/dl [.40-1.20] total bilirubin 1.47 mg/dl [0-1.2], GPT 154 U/L [5-41].
+Electrocardiogram (ECG): regular sinus rhythm with a frequency of 70 bpm, rSr ́ in V1 and V2, with ST segment elevation of 5 mm and inverted T in these leads, Brugada type I pattern.
+Colour Doppler echocardiogram: DDVI/DSVI 50/30, SIVD/PPD 11/11, EF 68%, RV 20, free wall thickness 10 mm. Left atrium area 23 cm2 without ventricular motility disorders, no alterations in transvalvular flow, PSAP 20.
+24-hour Holter ECG: detection of monomorphic non-sustained ventricular tachycardia (NSVT) tracing of short duration up to 200 bpm that correlates with the patient's symptoms.
+Chest X-ray after ICD implantation: cardiothoracic index less than 0.5 with presence of generator in left hemithorax and lead to RV.
+ICD telemetry at follow-up (1 or 6 months): evidence in evolutionary controls of appropriate ICD discharges in the event of arrhythmic events in the form of rapid ventricular fibrillation (VF) and ventricular tachycardia (VT).
+
+CLINICAL EVOLUTION
+Patient with clinical syncopal episodes and cardiovascular history of sudden death in relatives (without genetic study), with morphological studies with echocardiogram without pathological findings. Taking into account her baseline ECG with Brugada type I pattern, her family history, repeated syncopal clinical events and evidence of symptomatic arrhythmic events (NSVT) on 24-hour Holter, the diagnosis of Brugada syndrome was established and implantation of an implantable cardioverter defibrillator (ICD) was decided as primary prevention in a patient with Brugada syndrome at very high risk of sudden death.
+The implantation was uneventful and the patient reported being in GF I in subsequent check-ups (6 months post-implantation), and had had a few very isolated syncopal episodes. On review of the device (ICD), VT episodes were observed in VT2 (180 bpm) and VF (200 bpm) with antitachycardia ventricular pacing therapy (ATP) and appropriate ICD shocks.
+
+DIAGNOSIS
+Brugada syndrome.
+Implantation of an implantable cardioverter defibrillator (ICD). No structural heart disease (normal LVEF).
+GF I.

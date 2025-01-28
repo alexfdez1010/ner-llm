@@ -1,0 +1,32 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Varón de 58 años. Sin alergias medicamentosas conocidas. Fumador activo de 1 paquete al día. Sin otros factores de riesgo cardiovascular. Reciente diagnóstico de adenocarcinoma gástrico con afectación ganglionar, en tratamiento adyuvante quimioterápico con docetaxel, oxaliplatino, leucovorina, 5- fluorouracilo (esquema FLOT). Inició el primer ciclo 24 horas antes del ingreso en cardiología.
+Medicación habitual: metamizol 575 mg/8 h, metoclopramida 10 mg/8 h, paracetamol 1 g/8 h, tramadol 50 mg/8 h, dexametasona 8 mg/24 h, omeprazol 20 mg/24 h.
+
+Enfermedad actual
+Inicia esquema de quimioterapia con 5-fluorouracilo en perfusión continua a través de reservorio hace 24 horas. Acude a urgencias por un episodio de dolor torácico opresivo, irradiado a ambas extremidades y asociado a cortejo vegetativo, de inicio brusco y desaparición espontánea a los 30 minutos, quedando posteriormente asintomático. A su llegada a urgencias electrocardiograma (ECG) con ST isoeléctrico y paciente hemodinámicamente estable. Tras 2 horas de estancia en urgencias presenta un segundo episodio de dolor centrotorácico típicamente anginoso con evidencia eléctrica de elevación del ST de hasta 4 mm en cara inferolateral asociado a reacción hipertensiva (tensión arterial [TA] 198/101 mmHg). Tras la administración de nitroglicerina sublingual presenta mejoría clínica y retrogradación de los cambios eléctricos con aplanamiento de la repolarización en V5-V6. No disnea ni otra sintomatología asociada. Durante su estancia en urgencias presenta nueva recurrencia del dolor con elevación del ST en II-III-aVF, V1-V4. Se contacta con cardiología activando código IAM.
+
+
+Inicialmente se detiene la perfusión de 5-fluorouracilo y se inicia nitroglicerina i.v. A su llegada a hemodinámica el paciente está asintomático y han retrogradado los cambios del ECG. Se realiza coronariografía emergente con arterias coronarias ectásicas, sin lesiones angiográficas significativas. La aortografía descarta signos de disección a nivel de aorta ascendente, cayado aórtico y aorta descendente torácica.
+
+Exploración física
+Peso 85 kg, talla 1,85 m. Buen estado general, normohidratado, normoperfundido. Consciente y orientado. Sin signos de insuficiencia cardiaca. Auscultación cardiaca: tonos rítmicos, sin soplos. Pulsos periféricos presentes y simétricos. Auscultación respiratoria: murmullo vesicular conservado. Abdomen: exploración normal, sin hallazgos patológicos.
+
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiogramas: ECG con dolor: ritmo sinusal a 80 lpm, PR normal, QRS estrecho eje a +30o, elevación del ST II, III, aVF, V3, V4, V5, V6 (máximo 4 mm en II). ECG sin dolor y al alta: ritmo sinusal a 74 lpm, normalización de los cambios previamente descritos con ST isoeléctrico, sin otras alteraciones en la repolarización.
+Radiografía de tórax portátil AP a su llegada a urgencias: no se objetivan condensaciones en parénquima pulmonar ni signos de congestión pulmonar.
+Analíticas: Analítica sanguínea inicial (en urgencias): glucosa 160 mg/dl; urea 51 mmol/l; creatinina 1 mg/dl; FG 82 ml/min; sodio 139 mEq/l; potasio 3,85 mEq/l; leucocitos 10,82 x109/l; hemoglobina 15,6 g/dl; hematocrito 44,1%; plaquetas 210 x109/l; INR 1,14. Enzimas miocárdicas: TnI-US pico 29,70 pg/ml (normal 2-25 pg/ml) y CK pico 295 U/l (normal 10-195 U/l). PCR SARS-CoV-2: negativo. Analítica completa a las 24 horas del ingreso: Perfil metabólico: colesterol total 186 mg/dl; LDL 123 mg/dl; HDL 40 mg/dl; triglicéridos 115 mg/dl; HbA1c 5,1%. Función hepática: GOT 23 U/l, GPT 14 U/l, GGT 20 U/l, bilirrubina total 0,71. Hemograma sin alteraciones.
+Coronariografía: dominancia derecha. Arterias coronarias ectásicas, sin lesiones angiográficas significativas.
+Aortografía: ausencia de complicaciones de aorta ascendente y arco aórtico.
+Ecocardiograma transtorácico: ventrículo izquierdo (VI) no dilatado ni hipertrofiado con función sistólica normal sin asimetrías contráctiles regionales. Ventrículo derecho no dilatado y normocontráctil. Aurículas normales. Ausencia de valvulopatías funcionalmente significativas. Normopresión pulmonar. No derrame pericárdico. No complicaciones mecánicas.
+
+
+EVOLUCIÓN CLÍNICA
+Se mantiene tratamiento médico con nitratos intravenosos, con posterior conversión enteral tras control tensional satisfactorio, persistiendo hemodinámicamente estable y sin recurrencia anginosa. Tras 48 horas de vigilancia nos ponemos en contacto con los compañeros de oncología médica para ajuste y control de la medicación de su proceso oncológico. Durante la evolución posterior, dado que no es tributario a tratamiento con 5-FU se decide realizar gastrectomía subtotal R2 e inicio de tratamiento con irinotecan. Al alta, desde el punto de vista cardiológico, se mantuvo tratamiento con: ácido acetilsalicílico 100 mg 0-1-0, nifedipino 20 mg 1-1-1, mononitrato de isosorbida 40 mg 0-1-1 y fluvastatina 40 mg 0-0-1.
+
+DIAGNÓSTICO
+Vasoespasmo coronario secundario a tratamiento con 5-fluoruracilo.
+Infarto agudo de miocardio (IAM) no Q. Killip I.
+Función sistólica de VI conservada.

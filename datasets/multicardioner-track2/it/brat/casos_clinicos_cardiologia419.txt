@@ -1,0 +1,72 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Maschio, 70 anni.
+
+ANAMNESI:
+- Nessuna reazione allergica nota ai farmaci.
+- Abitudini tossiche: ex fumatore.
+- Ipertensione. Non sono noti diabete mellito o dislipidemia.
+- Sostituzione della valvola aortica a causa di una doppia lesione (protesi meccanica Carbomedics no21) il 24 settembre 1993. Molteplici complicazioni successive:
+9 novembre 1993: pseudoaneurisma aortico con compressione del ventricolo destro (RV) e fistola aorto-cutanea con osteolisi sternale. La fistola è stata chiusa a livello dell'aorta ed è stata eseguita un'exeresi sternale e una plastica di entrambi i muscoli pettorali con disinserzione dei muscoli dell'omero (mioplastica del pettorale maggiore). Durante questo ricovero ha richiesto diversi reinterventi per emorragie nel contesto della coagulopatia, sia in cardiochirurgia che in chirurgia plastica. Durante i due mesi di degenza in terapia intensiva (ICU) ha sviluppato un'insufficienza multiorgano.
+23 febbraio 1995: rioperazione per deiscenza della protesi (perdita periprotesica) e impianto di una protesi St. Jude n. 21.
+
+- Pseudoaneurisma femorale dopo angiografia coronarica preoperatoria.
+- Ulcera duodenale con emorragia gastrointestinale nel 1999.
+- Ematoma retroperitoneale spontaneo nel contesto dell'anticoagulazione.
+- Ricovero in cardiologia nel settembre 2017 per sincope con profilo cardiogeno e nessuna causa chiara. Elettrocardiogramma (ECG) in ritmo sinusale con emiblocco anteriore sinistro del fascio di His (HARIHH), assenza di reperti nel monitoraggio telemetrico ed ecocardiogramma senza reperti rilevanti con ipertrofia ventricolare sinistra lieve-moderata, funzione biventricolare normale e protesi aortica non funzionante. Per tutti questi motivi, si è deciso di impiantare un Holter sottocutaneo.
+
+-Altro:
+Ripetute otiti medie acute in entrambe le orecchie, prevalentemente nell'orecchio sinistro.
+Iperplasia prostatica benigna.
+
+Trattamento abituale: acenocumarolo, bisoprololo 2,5 mg/24 ore, simvastatina 40 mg/24 ore, valsartan 160 mg/24 ore, dutasteride/tamsulosina 0,5/0,4 mg/24 ore.
+
+MALATTIA ATTUALE:
+Ricoverato il 7/12/2017 in Terapia Intensiva Polifunzionale dopo aver presentato una lesione cerebrale traumatica (TBI) nel contesto di un nuovo episodio sincopale con amnesia dell'episodio, con testimoni che riferivano un trauma alla regione frontale e che oggettivavano ipotensione e bradicardia. All'arrivo al Pronto Soccorso, il paziente era emodinamicamente e respiratoriamente stabile con pressione arteriosa (BP) 120/70 mmHg, INR 4,65 e ritmo sinusale a 60 bpm. È stata eseguita una TC cranica che ha mostrato un ematoma subdurale nella falce cerebrale senza spostamento della linea mediana. L'Holter sottocutaneo
+Durante l'episodio, il monitor Holter sottocutaneo ha mostrato una bradicardia sinusale a 50 bpm senza pause e l'impianto di pacemaker non è stato raccomandato. Durante la permanenza in Pronto Soccorso, il paziente ha iniziato a presentare paresi dell'arto inferiore destro, per cui è stata ripetuta la TAC, che ha mostrato un aumento dell'ematoma subdurale e focolai di emorragia subaracnoidea, ed è stato deciso il ricovero in Terapia Intensiva.
+Inizialmente, il paziente presentava emiparesi destra e crisi comiche che hanno richiesto l'intubazione orotracheale e la tracheostomia chirurgica. Si è optato per una gestione conservativa con una buona evoluzione successiva e il paziente è stato trasferito in neurochirurgia, che ha richiesto un consulto cardiologico a causa della sincope e della tendenza alla bradicardia senza trattamento con beta-bloccanti; all'esame dell'Holter sottocutaneo, sono stati osservati episodi multipli di bradicardia e momenti di blocco atrioventricolare completo (AVB). Data la presenza di questi episodi, il paziente è stato trasferito in cardiologia per il monitoraggio e per valutare l'impianto di un pacemaker permanente.
+
+ESPLORAZIONE FISICA (al momento del ricovero in terapia intensiva):
+Testa e viso: ferita ai tessuti molli nella regione frontale destra, senza emorragia attiva. Nessun'altra lesione. Collo: non sono state identificate ferite, ematomi o deformità. Torace: ispezione: nessuna contusione, buona meccanica respiratoria. Nessun crepitio alla palpazione. Auscultazione polmonare: murmure vescicolare conservato, nessun suono patologico. Auscultazione cardiaca: toni ovattati e ritmici, click di apertura della protesi, nessun murmure o extratono. Addome: ispezione: addome non disteso, non dolente. Perineo: nessun segno di ematoma, nessuna rettorragia. Dorso: nessun punto doloroso o deformità. Estremità: nessuna escoriazione. Nessuna deformità. Nessuna instabilità articolare. Esame neurologico: GSC 15 (M6, O4, V5). Pupille isocoriche, normoreattive. Motorio: paralisi dell'arto inferiore destro. Forza muscolare arto superiore destro 5/5, arto superiore destro 5/5, arto inferiore sinistro 5/5, arto inferiore destro 0/5.
+
+
+
+ESAMI COMPLEMENTARI
+MICROBIOLOGIA: emocolture (08/01/18): in due set Enterococcus faecalis con antibiogramma: ampicillina/amoxicillina S <=1, gentamicina 500 S <=500, strepto 1000 S < =1.000, vancomicina S 1, teicoplanina S <= 1. Emocolture successive negative.
+
+ANALISI:
+All'ammissione: anemia normocromica normocromica con Hb 9,7 g/dl, piastrine normali, leucociti normali, con proteina C-reattiva (CRP) elevata 10,39 mg/dl, INR 5,22. Biochimica con profilo renale senza alterazioni, tra cui creatinina 0,45 mg/dl che significa una velocità di filtrazione glomerulare (CKD-EPI) > 90 ml/min, profilo epatico e tiroideo normali.
+Alla dimissione (06/03): CRP 0,73 mg/dl, senza leucocitosi o neutrofilia, con Hb 10,2 g/dl.
+ECG d'emergenza: ritmo sinusale a 60 bpm. Asse sinistro, QRS stretto, HARIHH (simile ai precedenti), senza alterazioni della ripolarizzazione.
+TC CRANIALE (07/12/18): ematoma subdurale in falce cerebrale con livelli di ematocrito. Non c'è spostamento della linea mediana. Alterazioni infiammatorie nell'orecchio medio e nei seni mascellari di sinistra.
+
+STUDIO ECOCARDIOGRAFICO (11/1/18):
+TRANSTORACICO (TTE): ventricolo sinistro non dilatato, con funzione sistolica conservata.
+Ventricolo destro normale. Protesi meccanica Bidisc in posizione aortica: movimento di entrambi gli occlusori con aumento dei gradienti transvalvolari (massimo/medio 40/19 mmHg) senza sospetto di ostruzione (morfologia a getto triangolare, tempo di accelerazione di 70 ms, AT/ET 0,3, DVI 0,57). Valvola mitrale: foglietti ispessiti, lieve insufficienza. Valvola tricuspide: scarsa visualizzazione, nessuna insufficienza significativa al color Doppler. Nessun segno indiretto di ipertensione polmonare. Vena cava inferiore non dilatata con collasso inspiratorio fisiologico (DBP stimata 5 mmHg). Radice aortica, aorta ascendente e arco aortico non visualizzati. Setto atriale intatto, senza sospetto di shunt intracardiaco mediante color Doppler. Pericardio di spessore e refrattarietà normali, senza versamento. Conclusioni: gradienti transprotesici aortici aumentati senza sospetto di ostruzione.
+Ecocardiografia transesofagea (TEE): protesi meccanica bidisc in posizione aortica con movimento di entrambi gli occlusori. L'insufficienza del lavaggio intraprotesico è visualizzata con tre banali getti di rigurgito. Immagine arrotondata di 4 mm x 3 mm visualizzata sul lato aortico della protesi, suggestiva di una verruca. Ispessimento della zona posteriore dell'anello protesico, con estensione verso la fibrosi mitroaortica, foglietto mitralico anteriore ispessito (a livello di A1-A2) e verso il setto interatriale; non si visualizzano tratti fistolosi. Valvola mitrale con ispessimento del foglietto anteriore, nessuna immagine compatibile con vegetazione. Nessuna insufficienza mitralica. Il resto delle valvole non presenta immagini compatibili con vegetazione. Conclusioni: segni di IE: ispessimento a livello posteriore dell'anulus aortico, fibrosi mitroaortica e alla base del lembo anteriore della mitrale suggestivi di flemmone. Piccola verruca endocardica, visualizzata sul lato aortico della protesi aortica.
+Protesi aortica normalmente funzionante.
+
+TEE di controllo (23/1/18): segni suggestivi di IE con lieve progressione rispetto allo studio precedente a livello dell'anulus aortico, ma soprattutto progressione a livello del foglietto mitralico anteriore con immagine di una verruca endocardica. Protesi aortica normalmente funzionante. Lieve insufficienza mitralica.
+RMN CRANIALE (15/01/18): microinfarti corticali multipli acuti di localizzazione sovra e infratentoriale. Dato il coinvolgimento multiterritoriale, suggeriscono un'origine embolica. Diminuzione delle dimensioni delle contusioni parenchimali frontali di sinistra e dell'ematoma subdurale.
+TC addominale con contrasto endovenoso (07/02/2018): comparsa di infarti focali nel rene sinistro, di probabile eziologia embolica.
+TEE (16/02/2018): segni suggestivi di IE con ascesso a livello dell'anello mitroaortico/fibroso, protesi aortica con gradienti normali, perdita periprotesica posteriore legata all'area ascessualizzata di grado moderato.
+
+EVOLUZIONE CLINICA
+All'arrivo nel reparto di cardiologia sono stati osservati picchi febbrili, con Enterococcus faecalis in crescita nelle emocolture. Il paziente presentava anche un'urinocoltura positiva per Citrobacter freundii (sensibile alla fosfomicina e trattata). Alla luce dei risultati dell'emocoltura, è stato iniziato un trattamento con ampicillina e ceftriaxone ed è stato richiesto un ecocardiogramma per verificare la presenza di un'endocardite, che ha mostrato un ispessimento a livello posteriore dell'anulus aortico, una fibrosi mitroaortica e la base del foglietto mitralico anteriore suggestivi di un ascesso, mentre allo stesso tempo è stata osservata una piccola verruca sulla protesi aortica, il tutto compatibile con un'endocardite. Nell'ambito del protocollo per la ricerca di embolie settiche, un'angiografia con risonanza magnetica cerebrale ha mostrato molteplici micro-infarti corticali acuti di localizzazione sovra e infratentoriale (che suggeriscono un'origine embolica) e una TC senza evidenza di altre embolie periferiche.
+In considerazione della presenza di un coinvolgimento locale avanzato, il caso è stato presentato in una sessione medico-chirurgica e l'intervento chirurgico è stato rifiutato, data l'anamnesi chirurgica precedente e l'elevata complessità tecnica.
+Dopo 2 settimane di terapia antibiotica è stato eseguito un ecocardiogramma di controllo che ha mostrato una progressione rispetto allo studio precedente con la comparsa di una perdita perivalvolare aortica che ha portato a una lieve insufficienza aortica, la scomparsa della verruca aortica e la comparsa di una verruca a livello mitralico. In questo contesto, si è deciso di aggiungere la tigeciclina al trattamento antibiotico grazie alla sua migliore penetrazione nei tessuti molli.
+Successivamente, alla quarta settimana di terapia antibiotica, il paziente ha sviluppato un dolore improvviso al fianco sinistro con LDH e CRP elevati, per cui è stata eseguita una nuova TC addominale che ha mostrato la comparsa di infarti renali sinistri.
+Durante la sesta settimana di terapia antibiotica, è stato eseguito un nuovo ecocardiogramma transesofageo che ha mostrato una progressione delle lesioni valvolari con ascesso a livello dell'anulus aortico/fibrosi mitroaortica, precedentemente flemmonosa, con scomparsa della verruca mitralica e progressione dell'entità della perdita, che era moderata.
+Tuttavia, il paziente era stabile, senza evidenza di insufficienza cardiaca, sincope o nuove alterazioni rilevanti dell'elettrocardiogramma o della telemetria, rimanendo astemio con tre cicli di emocolture sterili di controllo (dopo 1, 2 e 6 settimane di trattamento antibiotico), completando un ciclo antibiotico endovenoso di 6 settimane di ampicillina e ceftriaxone e 4 settimane di tigeciclina con buona tolleranza. Dal punto di vista neurologico, la paziente ha mostrato un netto miglioramento con la riabilitazione, riuscendo a eseguire esercizi di motricità grossolana e fine con l'arto superiore interessato e a deambulare con l'aiuto di un supporto.
+Data la buona evoluzione clinica e il peggioramento ecocardiografico, è stata decisa l'antibioterapia ambulatoriale con dalbavancina 1.500 mg per via endovenosa ogni 15 giorni, una volta verificata l'adeguata tolleranza, dopo aver somministrato le prime due dosi in ospedale senza complicazioni, febbre o emocolture di controllo positive.
+Per quanto riguarda l'AVB parossistica completa, è stato sospeso il trattamento con beta-bloccanti. Data la presenza di endocardite, si è deciso di non impiantare un pacemaker per il momento, mantenendo il monitoraggio Holter sottocutaneo e il follow-up ambulatoriale sia da parte della cardiologia che dell'unità di malattie infettive, con il paziente che è rimasto clinicamente stabile fino ad oggi.
+
+DIAGNOSI
+Diagnosi principale:
+IE dovuta a Enterococcus faecalis su protesi aortica meccanica con porta di ingresso non determinata (batteriemia), dimessa per trattamento chirurgico.
+Altre diagnosi:
+Ascesso mitroaortico con insufficienza aortica secondaria lieve-moderata.
+Microinfarti cerebrali corticali multipli e infarto renale sinistro secondari a IE.
+Anemia nel contesto dell'IE.
+Ematoma subdurale traumatico e contusioni parenchimali frontali di sinistra nel contesto di una lesione cerebrale traumatica dopo un episodio sincopale, con emiparesi e crisi comiche nella fase acuta.
+AVB parossistica.
+Infezione delle vie urinarie da Citrobacter freundii.

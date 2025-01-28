@@ -1,0 +1,29 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+The patient is a 42-year-old woman with hypertension on treatment with enalapril/hydrochlorothiazide 20/12.5 mg/day, dyslipidaemia on treatment with atorvastatin 20 mg/day and a former smoker of 10 packs/year.
+History of systemic lupus erythematosus (SLE) diagnosed at the age of 27 following skin and renal involvement, on chronic treatment with low-dose prednisone (5 mg/day). Class IIIB lupus nephropathy, with biopsy compatible with segmental and focal glomerulonephritis. Positive antiphospholipid antibodies (anti-cardiolipin IgG, anti-cardiolipin IgM, anti-beta-2 glycoprotein-I and lupus anticoagulant positive). No history of thrombosis or obstetric and gynaecological problems.
+She consulted the emergency department for two days of symptoms consisting of paraesthesia, pain and coldness in the right foot that worsened with supine decubitus and claudication of gait after 50 m. She also had an episode of dizziness and lightheadedness. In addition, episode of dizziness and sweating without clear chest pain or other symptoms.
+On examination she was in good general condition. Eupneic. BP 115/75 mmHg, HR 75 bpm. Cardiac auscultation rhythmic, without murmurs or extratonos. Pulmonary auscultation with preserved vesicular murmur. Right lower limb with grade 3 femoral pulse, grade 3 popliteal pulse, without distal pulses. Pallor and coldness of the right foot, venocapillary filling very slow compared to the contralateral one. Mobility and sensitivity preserved. Absence of trophic lesions.
+
+COMPLEMENTARY TESTS
+ECG: sinus rhythm at 91 bpm. Normal PR. Narrow QRS, normal axis. Q wave in V1-V5 with negative T wave in V1-V2, flattened in V3-V6.
+Echo-Doppler right lower limb: occlusion of 2nd portion of popliteal artery with recanalisation in posterior tibial.
+Transthoracic echocardiogram: non-dilated left ventricle, with normal wall thickness. Apical dyskinesia and akinesia of the distal thirds of all faces; hypokinesia of the middle third of the anterior septum and anterior face. Preserved LVEF (Simpson biplane 55%). Occupation of the apex by a sessile, crescentic mass; first diagnostic possibility: intraventricular thrombus.
+Mitral valve with a rounded mass of approximately 1 x 1 cm attached to the atrial side of the posterior annulus and the base of the posterior leaflet, causing a very eccentric insufficiency directed towards the interatrial septum.
+The right ventricle is not dilated, with normal global systolic function. No other valvular heart disease.
+No pericardial effusion.
+Transesophageal echocardiogram: mitral valve with thin leaflets, normal opening. A rounded image of homogeneous echogenicity and well-defined borders is observed, adhering to the atrial side of the posterior portion of the annulus and the base of the posterior leaflet, at the level of the junction of the P2 and P3 festoons, with a maximum diameter of 1.12 cm, indicating II/IV insufficiency.
+Coronary CT scan: thrombosed dissection of the middle segment of the anterior descending artery, with involvement of the origin of the second diagonal branch. Left intraventricular thrombus.
+Coronary angiography: right dominance. Disease of a vessel with a long lesion in the middle third of the anterior descending artery compatible with dissection, distal vessel with TIMI 3 flow.
+
+EVOLUTION
+An initial diagnosis was made of subacute ischaemia of the right lower limb secondary to infrapopliteal thrombosis, which was related to antiphospholipid syndrome. Medical treatment with anticoagulation and prostaglandins was started with a good response. However, the ECG showed anteroseptal QS, which led to a transthoracic echocardiogram with findings of contractility alterations compatible with anterior infarction, apical intraventricular thrombus, and a rounded mass adhered to the mitral valve.
+A transesophageal echocardiogram with negative blood cultures confirmed the diagnosis of emboligenic Libman-Sacks endocarditis.
+In addition, coronary CT and coronary angiography showed a long lesion in the middle LAD compatible with spontaneous thrombosed coronary artery dissection.
+The study was completed with a cerebral MRI which showed small ischaemic lacunar lesions in both cerebral hemispheres and an aneurysm located at the left-sided internal carotid bifurcation.
+Aggressive treatment of the SLE flare with methylprednisolone pulses, rituximab, mycophenolate mofetil and hydroxychloroquine sulphate and medical treatment of the thromboses with anticoagulation was performed. Asymptomatic at discharge, treatment was started with low doses of beta-blockers.
+Subsequent follow-up showed good evolution: LV with preserved systolic function, no new episodes of ischaemia, and resolution of the Libman-Sacks endocarditis with disappearance of the mass.
+
+DIAGNOSIS
+Acute flare of systemic lupus erythematosus:
+Emboligenic Libman-Sacks endocarditis. Left ventricular thrombus. Subacute infrapopliteal ischaemia of the right lower limb.
+Spontaneous coronary artery dissection of the anterior descending coronary artery. Evolved anterior myocardial infarction with preserved global ventricular function.

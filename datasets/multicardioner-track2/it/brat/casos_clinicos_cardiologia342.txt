@@ -1,0 +1,58 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+ANAMNESI PERSONALE
+Paziente di 49 anni, nessuna allergia nota ai farmaci, nazionalità rumena. Nessuna storia familiare nota. Anamnesi personale di:
+Fattori di rischio cardiovascolare (CVRF): ex fumatore dal 2014, dislipidemia con scarso controllo con statine e sovrappeso.
+Cardiopatia ischemica cronica: infarto miocardico acuto (IMA) q inferiore nel marzo 2014, fibrinoleso con criteri di riperfusione. Pericardite epistenica durante il ricovero.
+Angiografia coronarica 2014: coronaropatia a 2 vasi.
+Coronaria destra (RCA) grave (arteria responsabile dell'IMA): impianto di due stent a rilascio di farmaco a livello prossimale e distale.
+Discendente anteriore (DA) con stenosi moderata, nessun intervento.
+Ecocardiogramma alla dimissione: LVEF conservata, con ipocinesia basale inferiore e settale inferiore.
+Test da sforzo isotopico a un mese dalla dimissione con necrosi inferiore. LVEF 47% e il resto dei segmenti senza evidenza di ischemia o alterazioni della contrattilità.
+Alla dimissione in trattamento con acido acetilsalicilico 100 mg/24 ore, clopidogrel 75 mg/24 ore, bisoprololo 5 mg/24 ore e atorvastatina 80 mg/24 ore.
+
+MALATTIA ATTUALE
+Dal momento della dimissione è stato monitorato nelle consultazioni cardiologiche. È risultato asintomatico, in classe I, senza recidiva di dolore toracico o evidenza di ischemia inducibile in un test da sforzo isotopico eseguito un mese dopo. È stato iniziato un trattamento con un inibitore dell'enzima di conversione dell'angiotensina (ACE-inibitore) a basso dosaggio, che non aveva tollerato durante il ricovero a causa dell'ipotensione, e il clopidogrel è stato ritirato dopo un anno senza incidenti.
+Tuttavia, dal momento del ricovero, si sono evidenziati livelli di colesterolo LDL > 180 mg/dL nonostante il passaggio a una statina ad alta potenza (atorvastatina) e livelli elevati di lipoproteina A, apoB e omocistinuria. Nel 2016 ha riferito mialgie e gli esami di laboratorio hanno mostrato CPK e AST elevate e un controllo insufficiente delle LDL, per cui l'atorvastatina è stata sostituita da rosuvastatina 20 mg/die ed è stato aggiunto ezetimibe.
+Il paziente ha smesso di presentarsi ai controlli, fino al 2018, quando è stato nuovamente indirizzato alla nostra clinica per anomalie analitiche del metabolismo lipidico. Secondo il paziente, continua a essere asintomatico dal punto di vista cardiovascolare, riferendo solo lievi mialgie.
+Sta assumendo correttamente i farmaci, compresi i due farmaci per la riduzione dei lipidi. In occasione di questo consulto si è deciso di approfondire lo studio del paziente.
+
+ESAME FISICO
+Alla consultazione del 2018:
+Pressione arteriosa (BP) 115/60 mmHg, frequenza cardiaca (HR) 60 bpm. SpO2 basale 97%. Nessun ingorgo venoso giugulare.
+Auscultazione cardiaca: suoni ritmici senza soffi o extratoni.
+Auscultazione polmonare: normale.
+Addome: non descrittivo.
+Arti inferiori: nessun edema o segno di trombosi venosa profonda.
+
+ESAMI COMPLEMENTARI
+Elettrocardiogramma (ECG) (AMI 2014): ritmo sinusale a 66 bpm, PR normale, QRS stretto, asse normale, sopradelevazione ST fino a 1,5 mm nella faccia inferiore, V5-V6 con immagine speculare in I, e AVL.
+ECG alla consultazione 2018: ritmo sinusale a 56 bpm, PR normale, QRS stretto, qR inferiore con onda T asimmetrica negativa in II, III, AVF e appiattita in I, AVL, V5-V6, invariato rispetto all'ECG della precedente consultazione del 2015. QTc normale.
+Angiografia coronarica 2014: coronaropatia a 2 vasi:
+CD: stenosi grave dovuta a placca complicata che si estende dalla fine del segmento prossimale (responsabile dell'AMI). Stenosi significativa nel segmento medio-distale: angioplastica coronarica percutanea transluminale (PTCA) + impianto di due stent a rilascio di farmaco non sovrapposti prossimalmente e distalmente.
+AD: stenosi moderata nel segmento prossimale mediale, non complicata, valutata mediante ecocardiografia intravascolare (IVUS).
+Ecocardiogramma alla dimissione 2014: ventricolo sinistro non dilatato né ipertrofizzato (LVEDDVI 56 mm, IVUS 10 mm, PP 10 mm) con funzione sistolica conservata (LVEF 54%) e ipocinesia del setto inferiore e del segmento inferiore basale. Lieve rigurgito mitralico e aortico. Versamento pericardico minimo di 3 mm nel sacco posteriore.
+Esami del sangue in AMI 2014: emogramma: Hb 14,2 g/dl; Hct 43,1%; leucociti 10,9 mil/mm3; piastrine 241 mil/mm3. Biochimica: glucosio basale 96 mg/dl; creatinina 0,91 mg/dl; colesterolo totale 234 mg/dl; trigliceridi 102 mg/dl; HDL-C 30 mg/dl; LDL-C 183,6 mg/dl; APO-B 148 mg/dl. Lipoproteina A 49,4 mg/dl, omocisteina basale 16,34 micromol/l, 16,34 U/l, AST 24 U/l; ALT 31 U/l; GGT 54 U/l. Marcatori massimi di necrosi miocardica: TnI > 97 ng/ml (0-0,04); CPK 4443 U/l (39-308), CK-MB 510 U/l (5-24).
+Test da sforzo isotopico (un mese dopo la dimissione): necrosi inferiore. LVEF 47%.
+Resto dei segmenti senza evidenza di ischemia o alterazioni della contrattilità.
+Esami del sangue alla consultazione di gennaio 2016: emogramma: normale. Biochimica: glucosio basale 117 mg/dl; creatinina 1,05 mg/dl; colesterolo totale 261 mg/dl; trigliceridi 117 mg/dl; HDL-C 47 mg/dl; LDL-C 190,6 mg/dl, AST 63 U/l (0-37); ALT 70 U/l (0-41); GGT 64 U/l (0-60),
+CPK 507 U/l (39-308).
+Esami del sangue in consultazione, settembre 2018: colesterolo totale 196 mg/dl; trigliceridi 67 mg/dl; HDL-C 42 mg/dl; LDL-C 145 mg/dl, AST 28 U/l (0-37); CPK 305 U/l (39-308).
+Studio genetico dell'ipercolesterolemia familiare: positivo.
+Eterozigosi della variante c.2478del, p.(Val827Serfs*102), del gene LDLR, classificata come patogena rispetto all'ipercolesterolemia familiare.
+Eterozigosi: polimorfismo rs4149056 nel gene SLCO1B1 e rs17244841 del gene HMGCR.
+Omozigosi: polimorfismo rs2032582 del gene ABCB1.
+Esami del sangue alla consultazione dopo l'inizio di iPCSK9 nell'aprile 2019: colesterolo totale 120 mg/dl; trigliceridi 99 mg/dl; HDL-C 49 mg/dl; LDL-C 58 mg/dl.
+
+EVOLUZIONE CLINICA
+Si tratta di un paziente fumatore, sedentario, obeso e dislipidemico in trattamento con simvastatina con LDL che ha esordito nel 2014 con un IMA inferiore. Al momento del ricovero sono stati riscontrati livelli di LDL > 180 mg/dl, nonostante il passaggio a una statina ad alto dosaggio ad alta potenza dopo l'evento.
+Nei primi consulti dopo l'evento coronarico, il paziente non aveva più presentato dolore toracico e il test da sforzo isotopico non ha mostrato ischemia inducibile nel territorio dell'arteria discendente anteriore, pertanto non è stato eseguito un intervento coronarico percutaneo (PCI) su questa lesione. All'anamnesi ha riferito debolezza e mialgia alle estremità, oltre a un discreto innalzamento di AST e CPK, per cui è stata ipotizzata un'intolleranza all'atorvastatina, che è stata quindi sostituita con rosuvastatina 20 mg/die e aggiunta di ezetimibe per ottimizzare il controllo delle LDL.
+Nel 2016 ha smesso di venire a fare i controlli, fino al 2018, quando è stato nuovamente indirizzato ai nostri uffici per alterazioni analitiche del metabolismo lipidico. Secondo lui, rimane asintomatico dal punto di vista cardiovascolare. Assumeva correttamente le medicine, compresi i due farmaci per la riduzione dei lipidi, ma i suoi livelli di LDL erano ancora intorno ai 150 mg/dl. In occasione di questo consulto, si è deciso di approfondire lo studio del paziente e di richiedere il test genetico per l'ipercolesterolemia familiare, che è risultato positivo. Per questo motivo, è stato finalmente iniziato un trattamento con un inibitore di PCSK9, evolocumab, alla dose di 140 mg ogni 2 settimane, ottenendo una riduzione superiore al 50% rispetto ai precedenti valori di LDL con il trattamento combinato.
+
+DIAGNOSI
+Cardiopatia ischemica cronica: AMI Q inferiore Killip I nel 2014
+Coronaropatia a 2 vasi (DC [responsabile] e LAD): fibrinolisi efficace e successiva PCI con impianto di due stent a rilascio di farmaco nella DC.
+Assenza di ischemia inducibile nel territorio della LAD.
+LVEF conservata.
+Ipercolesterolemia familiare in eterozigosi.
+Intolleranza all'atorvastatina.

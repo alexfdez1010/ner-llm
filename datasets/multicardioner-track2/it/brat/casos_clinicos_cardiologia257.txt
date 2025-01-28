@@ -1,0 +1,61 @@
+Si tratta di una donna di 50 anni con un riscontro di blocco di branca sinistro completo (LBBB) e QT lungo (QTc) su un elettrocardiogramma (ECG) di routine. Sono stati eseguiti i principali test diagnostici per lo studio completo della sindrome del QT lungo (LQTS) e le è stata diagnosticata la LQTS, ma non è stata trovata alcuna mutazione genetica sottostante.
+
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Anamnesi familiare
+Nessuna storia di malattie cardiache o di morte improvvisa.
+Cugino materno studiato per sincope ricorrente.
+
+Anamnesi personale
+Nessuna allergia nota ai farmaci
+Fumatore di 5 sigarette al giorno (8 pacchetti all'anno). Non beve.
+Ipertensione arteriosa in trattamento farmacologico, con buon controllo come di consueto. Non sono noti diabete mellito o dislipidemia.
+Ricoverato per meningite batterica acuta all'età di 20 anni, senza sequele.
+Interventi chirurgici: appendicectomia. Erniaplastica inguinale sinistra
+
+Trattamento abituale:
+Ramipril 5 mg al giorno.
+
+Malattia attuale
+Una donna di 50 anni è stata indirizzata al reparto di cardiologia per il riscontro di routine di un ECG con LBBB. La paziente riferiva di essere completamente asintomatica, senza dispnea da sforzo, senza episodi di dolore toracico, palpitazioni o sincope.
+
+Esame fisico
+Buone condizioni generali. Ben idratato e perfuso. Eupnea a riposo. SatO2 99% con FiO2 0,21. Pressione arteriosa (BP) 128/64 mmHg. Frequenza cardiaca (HR) 63 bpm.
+Collo: assenza di IY. Nessun linfonodo palpabile. Arterie carotidi senza soffi.
+Auscultazione cardiaca e polmonare: ritmica, con buona frequenza. Nessun soffio o extratono udibile. Mormorio vescicolare conservato, nessun suono patologico.
+Addome: morbido e depressibile. Non doloroso alla palpazione, nessun segno di peritonismo. Assenza di masse o megaliti.
+Arti inferiori: nessun edema o segno di trombosi venosa profonda (TVP). Polsi distali presenti e simmetrici.
+
+ESAMI COMPLEMENTARI
+ECG in consultazione: bradicardia sinusale a 57 bpm, asse normale, PR 120 ms, QRS largo (130 ms) con morfologia LBBB con alterazioni secondarie della ripolarizzazione, QT 480 ms, QTc 470 ms.
+
+Ecocardiogramma:
+Cavità e grandi vasi: ventricolo sinistro non dilatato (DTDVI 42 mm), con lieve ipertrofia concentrica delle sue pareti (SIV 12 mm, PIL 11 mm). Atrio sinistro non dilatato. Ventricolo destro di dimensioni normali. Atrio destro normale. Visualizzazione normale dell'aorta.
+Valvole: valvola aortica trivalve con lievi segni degenerativi e getto di lieve insufficienza, con gradienti anterogradi normali. Valvola mitrale con aspetto e funzione normali.
+Non è stata rilevata alcuna insufficienza tricuspidale.
+Funzione ventricolare: funzione sistolica LV conservata, stimata al 55% dalla Simpson BP.
+Non sono state osservate alterazioni segmentali della contrattilità, sebbene sia stata riscontrata una marcata asincronia del setto interventricolare da LBBB. Funzione diastolica compatibile con un rilassamento alterato, senza aumento delle pressioni di riempimento.
+Funzione sistolica RV conservata.
+Altro: vena cava inferiore non dilatata e con adeguato collasso inspiratorio. Assenza di versamento pericardico.
+Tomografia cardiaca a emissione di fotoni singoli (SPECT): negativa per ischemia miocardica.
+Holter delle 24 ore: tracciato in ritmo sinusale con LBBB, con FC minima 49 bpm, media 68 bpm e massima 115 bpm, senza pause significative. QTc minimo 391 ms, medio 461 ms e massimo 562ms. Non sono state osservate onde T alternate o aritmie ventricolari.
+Ergometria (immagini 2, 3 e 4): FC basale 63 bpm. QT basale 480 ms. QTc basale 511 ms. FC massima di 138 bpm (81% della FC massima) raggiunta a 5:20 minuti di esercizio. QT di picco da sforzo 320 ms. QTc massimo da sforzo 482 ms. Presenza di extrasistoli ventricolari isolate durante l'esercizio. In fase di recupero (5 minuti): FC 74 bpm, QT 460 ms e QTc 490 ms.
+Nessuna evidenza di segni ischemici durante il test.
+Test di Viskin bideptation. A riposo: FC 60 bpm, QT 480 ms e QTc 480 ms.
+Dopo la stazione eretta: FC 70 bpm, QT 500 ms, QTc 559 ms.
+Test genetico (pannello delle canalopatie): negativo.
+
+EVOLUZIONE CLINICA
+La paziente è stata indirizzata dal suo medico di base a causa di un riscontro ECG di routine di LBBB. L'ECG al momento del consulto ha confermato questo risultato insieme alla presenza di alterazioni secondarie della ripolarizzazione, un QT di 480 ms e un QTc di 470 ms. La paziente ha sempre negato di essere stata in contatto con il paziente. Il paziente ha sempre negato di aver presentato sintomi, negando episodi sincopali, palpitazioni o dolore toracico da sforzo.
+Viste le alterazioni elettriche, si è deciso di completare lo studio con un ecocardiogramma, che ha mostrato un ventricolo sinistro con una lieve ipertrofia concentrica delle sue pareti con funzione normale e una lieve insufficienza aortica degenerativa, con il resto dello studio compatibile con la normalità. È stata richiesta anche la SPECT miocardica, che ha escluso la presenza di ischemia.
+Per completare lo studio della sospetta sindrome del QT lungo, è stato eseguito il test di Viskin in piedi, che ha mostrato un allungamento dell'intervallo QTc, da 480 ms in posizione supina dopo 10 minuti di riposo a 559 ms dopo la posizione eretta. È stato eseguito anche un test ergometrico con QTc basale e al massimo esercizio, presenza di extrasistoli ventricolari isolate e QTc in recupero di 490 ms. Infine, è stato richiesto un Holter delle 24 ore senza osservare eventi aritmici o alternanza di onde T.
+Sulla base di questi test, al paziente è stata diagnosticata la sindrome del QT lungo (LQTS) asintomatica ed è stato iniziato un trattamento con beta-bloccanti (bisoprololo 2,5 mg al giorno). Inoltre, è stato richiesto uno studio genetico, che però è risultato negativo.
+Successivamente, la paziente ci ha spiegato che ai suoi due cugini materni era stata diagnosticata la LQTS, ma entrambi avevano avuto uno studio genetico negativo.
+Attualmente la paziente rimane asintomatica, senza eventi cardiaci durante il follow-up.
+
+DIAGNOSI
+Sindrome del QT lungo (genetica negativa).
+Lieve insufficienza aortica.
+Funzione sistolica normale.
+Blocco di branca sinistro completo.

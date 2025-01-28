@@ -1,0 +1,38 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+History
+80-year-old male. No known drug allergies. Ex-smoker for 20 years (AE 15 packs/year). Cardiovascular risk factors include arterial hypertension (AHT) on treatment with candesartan 32 mg per day and type 2 diabetes mellitus on treatment with empagliflozin/metformin 5/1,000 mg per day. No known cardiological history. History only includes benign prostatic hyperplasia and cataract surgery in both eyes. Independent for all basic activities of daily living, including advanced activities (Rankin 0).
+
+Present illness
+The patient was brought to the emergency department of our centre by basic life support after being found by his sister on the floor of her home at 15:00 hours with clinical symptoms consisting of deviation of the right corner of the mouth, ocular deviation to the left and speech impairment. He had a scalp injury suggestive of cranioencephalic trauma. The last time he was seen asymptomatic was the previous day at around 11:00 am.
+
+Physical examination
+Blood pressure (BP) 187/98 mmHg, heart rate (HR) 98 bpm, basal oxygen saturation 94%.
+Mixed aphasia: language not very fluent, although communication is possible. Understands some simple commands. Altered naming. Left visual preference. Right homonymous hemianopsia on confrontational campimetry. Left supranuclear facial paresis. Rest of cranial nerves preserved. Claudication of the right lower limb (NIHSS of 8 points).
+Cardiac auscultation: regular sounds without murmurs. Pulmonary auscultation: preserved vesicular murmur, without pathological sounds. Abdomen was normal. Normal and symmetrical pulses.
+
+
+COMPLEMENTARY TESTS
+Electrocardiogram (ECG): sinus rhythm at 95 bpm. PR 140 ms. Narrow QRS with normal axis. Embryonic R in precordials up to V4 with negative T in I, aVL, V5-V6.
+CBC: glucose 138 mg/dl. Urea 39 mg/dl. Creatinine 0.91 mg/dl. Sodium 141 mmol/l. Potassium 4.4 mmol/l. CPK 98 U/l. CRP 7.0 mg/l. Hb 15.7 g/dl. MCV 92 fl. Leukocytes 4,6x10^9/l. Platelets 165 x10^9/l. INR 1.07. Troponin T ultrasensitive 76 pg/ml -> 68.3 at 6 hours (normal < 14).
+Chest X-ray: no consolidation or pleural effusion.
+Vacuum cranial computed tomography (CT): discrete cerebral corticosubcortical atrophy. Left occipital and left thalamus hypodensities of acute ischaemic origin of new onset, not present in previous CT (2015). Hypodensity in left insula of probable chronic ischaemic origin already present in previous CT scan.
+Angio-CT of supra-aortic trunks and Willis polygon after administration of intravenous contrast (image 2): repletion defect in P2A segment of left posterior cerebral artery. The rest of the arteries of the polygon of Willis are patent, with no aneurysmal dilatations or significant stenosis or images suggestive of thrombosis/occlusion.
+Perfusion CT scan after administration of IVC: penumbra area in the left posterior cerebral artery territory, with mismatch greater than 20%.
+Magnetic resonance imaging (MRI) with angio-MRI: extensive acute ischaemic infarction in the left temporo-occipital and left thalamic territory (the latter with haemorrhagic transformation). Angiographic sequences identify supra-aortic trunks with no evidence of significant stenosis. The arterial structures of the polygon of Willis show a normal carotid system and basilar system with no evidence of vascular malformations or significant stenosis.
+Transthoracic echocardiography: cardiac cavities of normal size, with moderate hypertrophy, predominantly septal. Slightly depressed LVEF (48% by Simpson) at the expense of akinesia of the septum and anterior wall in its apical segments and strict apex akinesia. Normal TAPSE. No significant valvulopathy. There was a mass attached to the septoapical wall, protruding and mobile, measuring 20x17 mm, compatible with left intraventricular thrombus.
+Cardiac magnetic resonance (CMR). Late enhancement sequence: rounded thrombus of 11x16x15 mm adhered to septoapical wall. Lateral hypokinesia, apical segments and strict apex. Absence of myocardial oedema. Non-transmural subendocardial necrosis on the lateral aspect. Absence of necrosis in the apical segments.
+Transthoracic echocardiography two months after discharge: resolution of the thrombus observed in the previous echography with persistence of the contractility alterations described in previous echocardiographies.
+
+CLINICAL EVOLUTION
+The patient was 80 years of age, with a good functional level, who presented with clinical symptoms compatible with ischaemic stroke in the left posterior cerebral artery territory with NISS > 6. The emergency department activated the stroke code, observing P2 segment occlusion in the CT angiography.
+Fibrinolytic treatment was ruled out due to the uncertain evolution time and interventional radiology was contacted for evaluation of endovascular treatment, which was also ruled out due to hypodensity established in the vacuum CT scan and occlusion distal to P1.
+Subsequently, ischaemia was observed in different arterial territories in cerebral MRI. Angiography showed a normal carotid and basilar system with no evidence of vascular malformations or significant stenosis.
+As part of the aetiological study of the stroke, a regular transthoracic echocardiography was requested, showing intraventricular thrombus adhered to the septoapical wall. The cardiology department was consulted and the study was completed with cardiac magnetic resonance imaging, which also showed lateral hypokinesia of the apical segments and strict apex and non-transmural subendocardial necrosis on the lateral aspect compatible with old infarction. In the directed anamnesis, the patient had no previous symptoms of chest pain, dyspnoea or other cardiological symptoms.
+Given the characteristics of the patient; elderly and with a recent stroke with haemorrhagic transformation in some of the affected brain territories, anticoagulation with rivaroxaban 20 mg per day was agreed with the neurology department. Given that the patient had not previously experienced chest pain, LVEF was not severely compromised and given the acute situation of stroke with haemorrhagic transformation, it was decided not to perform coronary catheterisation for the time being and to assess after resolution of the apical thrombus. On discharge, the patient's language was not very fluent, but he understood orders, named correctly and repeated. Persistence of campimetric deficit consisting of right homonymous hemianopsia. No motor deficit (NIHSS of 3 points).
+The control echocardiography at one month on an outpatient basis showed a decrease in the size of the thrombus and in the control echocardiography at two months, resolution of the thrombus with persistence of the contractility alterations described in previous echocardiographies.
+
+DIAGNOSIS
+Ischaemic stroke in the left posterior cerebral artery territory of embolic aetiology. Intraventricular thrombus.
+Old myocardial infarction in lateral face and apical segments.
+Type 2 diabetes mellitus.
+Arterial hypertension.

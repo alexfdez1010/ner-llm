@@ -1,0 +1,28 @@
+STORIA, MALATTIA ATTUALE ED ESAME FISICO
+La paziente è una donna di 61 anni, ex fumatrice, con recente diagnosi di diabete mellito autoimmune LADA di tipo 1, dislipidemica, con una storia di atassia spinocerebellare, che ha consultato il pronto soccorso a causa di una tosse non produttiva e di una sensazione di distrofia che evolveva da giorni.
+Era emodinamicamente stabile, ipertesa (BP 189/114 mmHg), tachicardia sinusale a 130 bpm, tachipnea con frequenza respiratoria di 30 rpm a riposo, senza strattoni, e saturazione di ossigeno del 94% con Ventimask 40%, fluttuante e non febbrile. ECG con ritmo sinusale senza alterazioni della ripolarizzazione. L'esame fisico ha evidenziato un grave broncospasmo all'auscultazione respiratoria e all'auscultazione cardiaca con torsioni ritmiche senza soffi. Il resto del paziente non presentava alcun reperto patologico.
+
+ESAMI COMPLEMENTARI
+ECG d'emergenza: ritmo sinusale a 70 bpm, PR 140 ms, QRS stretto QTc 448 ms senza alterazioni della ripolarizzazione. ECG in terapia intensiva: ritmo sinusale a 78 bpm, PR 140 ms, QRS stretto, QTc 579 ms onde T simmetriche negative diffuse.
+ED ABG: pH 7,18; PCO2 79,9 mmHg; PO2 142,3 mmHg; bicarbonato 29,6 mmol/l; BS 1,4; SaO2 98%.
+Troponina I seriale: 0,12- 1,45-2,51- 3,4- 2,8 ng/ml.
+Esami ematici d'urgenza: creatinina 0,73 mg/dl; urea 54 mg/dl; emoglobina 13,2 g/dl; ematocrito 42,3 %; leucociti 23.000/μl; CRP 2,4 mg/dl.
+Esami del sangue durante il ricovero in Cardiologia: valori salienti: HbA1C 7,1 mg/dl, colesterolo totale 172 mg/dl, HDL 49mg/dl, LDL 91,58 mg/dl. Profilo tiroideo normale; D-Dimero 571 ng/Ml.
+Radiografia del torace in terapia intensiva: ispessimento ilare. Ridistribuzione apicale.
+Ecocardiografia transtoracica: il LV appare di dimensioni normali, spessore della parete leggermente aumentato, contrattilità simmetrica iperdinamica. LVEF normale.
+LA di dimensioni normali. RV di dimensioni e funzione normali. RA di dimensioni normali. IVC di dimensioni normali con collasso inspiratorio superiore al 50%. Assenza di versamento pericardico. Radice aortica di dimensioni normali. VAo trivalve, sembra aprirsi correttamente. MV con foglietti sottili, cinetica corretta. Competente. Non si rileva IT. FV visualizzato sottocostale, sembra avere ecostruttura e flusso normali.
+Reperti LV di dimensioni e funzione normali. LA normale. RV di dimensioni e funzione normali. RA di dimensioni e funzione normali. Non si apprezzano valvulopatie significative per questa via di studio. Segni di PVC normale. Assenza di versamento pericardico.
+Risonanza magnetica cardiaca: LV di dimensioni normali, pareti normali, contrattilità simmetrica. LVEF normale. LA di dimensioni normali. RV di dimensioni e funzione normali. RA di dimensioni normali. Nessuna valvulopatia significativa.
+Lieve versamento pericardico. Nessuna evidenza di edema o anomalie nella captazione del gadolinio.
+Cateterizzazione: dominanza destra. Arterie coronarie senza lesioni angiografiche con flusso normale.
+
+
+EVOLUZIONE
+Il paziente è andato incontro a un'insufficienza respiratoria progressiva e a una crisi ipertensiva, iniziando un trattamento diuretico per via endovenosa, una ventilazione meccanica non invasiva, un trattamento antibiotico, broncodilatatori e corticoidi per via endovenosa, ed è stato ricoverato nell'Unità di Terapia Intensiva, con un precoce miglioramento e una precoce sospensione del supporto ventilatorio. Durante la degenza con miglioramento precoce e sospensione del supporto ventilatorio, è stato osservato un ECG con T-negativi simmetrici diffusi con QTc allungato e picco di troponina 3,4 ng/ml. È stato eseguito un ecocardiogramma che ha mostrato un LV leggermente ipertrofico con EF conservata senza un chiaro segmentarismo, e il paziente è stato inizialmente indirizzato allo STEMI Killip II e avviato a una doppia terapia antiaggregante e anticoagulazione. È stata consultata la Cardiologia e, data la possibilità di un IMA di tipo 2 secondario a crisi ipertensiva e broncospasmo in un paziente con fattori di rischio cardiovascolare rispetto a un IMA di tipo 1 senza chiare alterazioni dell'ecocardiogramma, il paziente è stato indirizzato alla Cardiologia e si è deciso di eseguire un'angiografia coronarica, che non ha mostrato lesioni coronariche. Per escludere altre cause di necrosi miocardica senza lesioni coronariche, è stata richiesta la risonanza magnetica cardiaca, che è risultata compatibile con la normalità.
+Poiché non è stata riscontrata alcuna evidenza di una transitoria alterazione globale o segmentaria della funzione ventricolare, si è deciso di sospendere la doppia terapia antiaggregante e la diagnosi più probabile è stata quella di infarto miocardico di tipo 2 nel contesto di un'infezione respiratoria con grave broncospasmo.
+Dopo alcuni giorni di ricovero, la paziente è stata dimessa senza problemi.
+
+DIAGNOSI
+Infezione respiratoria con grave broncospasmo.
+Infarto miocardico di tipo 2.
+Assenza di lesioni coronariche.

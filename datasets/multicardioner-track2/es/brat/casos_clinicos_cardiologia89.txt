@@ -1,0 +1,13 @@
+Antecedentes, enfermedad actual y exploración física
+Paciente de 43 años, sin antecedentes de interés, que realiza unas 7 horas a la semana de deporte aeróbico intenso (atletismo y pádel) desde la infancia, remitido a consulta de Cardiología por hallazgo de extrasistolia ventricular aislada monomórfica (EV) en ECG realizado durante un reconocimiento laboral. La exploración física es normal.
+
+Pruebas complementarias
+El ecocardiograma, la radiografía de tórax y la analítica no muestran alteraciones. No se registran signos ni síntomas de isquemia en la ergometría, pero la densidad de la extrasistolia ventricular aumenta ligeramente coincidiendo con el máximo esfuerzo.
+
+Evolución clínica
+Se inicia tratamiento con bisoprolol 5 mg al día y se registra en Holter de control desaparición de EV pero bloqueo auriculoventricular (BAV) nocturno con varias pausas, la más larga de 12 segundos. El paciente permanece en todo momento asintomático y niega antecedentes familiares de trastorno de conducción, miocardiopatía dilatada o muerte súbita. Se interpreta el hallazgo del Holter como BAV avanzado, se suspende el bisoprolol y se decide ingreso para estudio y monitorización. Se registran pausas nocturnas en relación con BAV y/o bradicardia sinusal de hasta 7 segundos y EV muy ocasional. Se comprueba que la conducción basal es normal mediante estudio electrofisiológico y se descarta apnea del sueño mediante polisomnografía. Ante la mala situación clínica y las nulas posibilidades de tratamiento curativo se intensificó la analgesia y la paciente falleció.
+
+Diagnóstico
+A la vista de la ausencia de cardiopatía estructural y de antecedentes familiares relevantes es diagnosticado de BAV mediado por hipertonía vagal y se le recomienda reducir su actividad deportiva pero se niega.
+Se le explica el balance riesgo-beneficio del implante de un marcapasos monocameral y lo rechaza. 
+Durante el seguimiento continúa asintomático, aunque se comprueba mediante Holter ECG que persisten pausas nocturnas de hasta 9 segundos de duración.

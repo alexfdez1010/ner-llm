@@ -1,0 +1,21 @@
+Patient referred to Cardiology from Neurology for assessment.
+
+History, current illness and physical examination
+
+Family history: Mother with plicate tongue without facial paralysis. Two brothers and two nephews with Steinert's syndrome. Two healthy children.
+
+Current history: The patient presented with new electrocardiogram (ECG) abnormalities consisting of a PR of 280 milliseconds (msg), QRS of 150 msg, with an image of complete left bundle branch block (LBBB).
+Electrocardiogram two years earlier with no conduction disturbances. He was assessed as an outpatient in the Cardiology Department, and pacemaker implantation was requested. The patient denied syncope, presyncope, palpitations or other symptoms.
+
+Complementary tests
+- ECG on admission: Sinus rhythm at 75 bpm. PR 240-280 msg. QRS of 150 msg. BCRI.
+- ECG in Neurology consultations in 2010: Sinus rhythm at 70 bpm. PR 180-200 msg. QRS of 80 msg. No alterations in intraventricular conduction.
+- Blood tests: Glucose, ions and renal function normal. No anaemia or leukopenia. Plateletopenia of 84,000 platelets mm3.
+- Transthoracic echocardiography: Left ventricle not dilated or hypertrophic. Left atrium not dilated. Non-thickened thin leaflet mitral valve with jet of mild central insufficiency. Mitral filling pattern with E>A wave. Trivalve aortic valve with adequate opening and closing. Aortic root and ascending aorta of normal size. Preserved left ventricular ejection fraction without segmental contractility defects. Right chambers normal in size and function. Mild tricuspid regurgitation directed medially with an atrioventricular gradient of 17 mmHg, which allows estimating a pulmonary artery pressure of 30 mmHg. Trivial pulmonary insufficiency. Non-collapsed, non-dilated vena cava. No pericardial effusion.
+- Chest X-ray: Cardiac silhouette at the limit of normality without alterations at the pulmonary parenchyma level. No pleural effusion.
+
+Clinical evolution
+The patient was admitted on a scheduled basis for pacemaker implantation due to the appearance in the ECG of conduction disturbances that were not previously present and were not associated with structural heart disease.
+
+Diagnosis
+Steinert's disease with conduction disturbances requiring definitive pacing.

@@ -1,0 +1,30 @@
+STORIA, MALATTIA ATTUALE ED ESAME FISICO
+Donna di 59 anni senza fattori di rischio cardiovascolare, affetta da ipotiroidismo iatrogeno in seguito a tiroidectomia per tumore della tiroide, in trattamento regolare con levotiroxina 75 mcg al giorno. Non aveva un'anamnesi familiare degna di nota.
+La paziente è giunta al Pronto Soccorso perché ha subito una perdita di coscienza mentre parlava al telefono con la sorella mentre stavano litigando, senza prodromi e con recupero spontaneo in pochi secondi. Non riferiva una corteccia vegetativa e aveva avuto un episodio simile scendendo le scale mesi prima. Non presentava dispnea, palpitazioni o dolore toracico.
+All'esame fisico la paziente era cosciente, orientata, di colore normale, eupnea, senza ingorgo giugulare, pressione arteriosa 120/70 mmHg, 60 battiti/minuto, saturazione periferica di O2 96% al basale, astemia. L'auscultazione cardiopolmonare ha mostrato un murmure vescicolare conservato con toni ritmici e nessun soffio. Nell'addome non erano presenti megaliti o segni di ascite e negli arti inferiori non c'era edema con pulsazioni distali conservate e nessun segno di trombosi profonda.
+L'esame neurologico era normale.
+Al pronto soccorso sono stati eseguiti un esame del sangue, che ha rilevato una lieve anemia senza altri reperti degni di nota, una radiografia portatile del torace e un elettrocardiogramma.
+Sulla base di questi dati, è stata consultata la Cardiologia ed è stato eseguito un ecocardiogramma transtoracico urgente, nel quale non sono state osservate anomalie degne di nota e il paziente è stato ricoverato nel reparto ospedaliero con monitoraggio.
+
+ESAMI COMPLEMENTARI
+Esami di laboratorio: leucociti 11.500 / mm3, emoglobina 10,57 g/dl, MCV 87 mm3 , MCH 24/cell, piastrine 210.000 / mm3, coagulazione normale, creatinina 0,57 mg/dl, urea 34 mg/dl, velocità di filtrazione glomerulare 98 ml/min/1,73 m2, Na 138 mEq/L, K 4,1 mEq/L, Mg 2,6, CPK 140 UI/L, troponina I 0,04 ng/ml. Le tossine delle urine erano negative e il profilo tiroideo era normale.
+Radiografia portatile del torace: indice cardiotoracico di scarso valore, senza versamento pleurico o infiltrati.
+ECG: ritmo sinusale a 72 battiti/minuto, asse normale, intervallo PR e complesso QRS normali e intervallo QTc normale
+Complesso QRS e intervallo QTc di circa 650 ms.
+Ecocardiogramma transtoracico urgente: ventricolo sinistro non dilatato con DDVI di 40 mm senza ipertrofia significativa, LVEF conservata senza alterazioni segmentali della contrattilità e funzione diastolica normale con pattern diastolico normale e E/E medio di 6,5. Valvola mitrale con struttura e funzione conservate.
+Assenza di dilatazione atriale. Radice aortica non dilatata, valvola aortica trivalve non funzionante. Camere destre non dilatate, normale funzione sistolica del ventricolo destro con TAPSE di 18, assenza di insufficienza tricuspidale, vena cava inferiore non dilatata con collasso inspiratorio senza versamento pericardico.
+ECG: ritmo sinusale con intervallo QT molto prolungato e triplette ventricolari polimorfiche iniziate con fenomeno "R over T". Tracciato telemetrico con torsades de pointes e cardioversione a 100 joule.
+Radiografia del torace: con defibrillatore cardioverter impiantabile bicamerale con posizionamento normale degli elettrodi.
+ECG: ritmo atriale stimolato a 70 battiti/minuto. Si è verificata una riduzione dell'intervallo QT rispetto all'ECG iniziale dopo l'ottimizzazione del trattamento con beta-bloccanti.
+
+EVOLUZIONE
+Nel reparto ospedaliero di Cardiologia, il paziente ha presentato extrasistoli ventricolari polimorfe e tachicardie ventricolari polimorfe non sostenute (PSVT). Alla luce di questi risultati, con un ritmo sinusale basale di 65 bpm, è stato somministrato magnesio per via endovenosa e, in assenza di miglioramenti, il paziente è stato trasferito nell'Unità di Cura Coronarica. Nonostante le misure iniziali, la paziente ha sviluppato una tachicardia ventricolare sostenuta di tipo torsades de pointes, con perdita di coscienza, ed è stata eseguita una cardioversione a 100 joule, che è stata efficace. Tuttavia, la paziente ha presentato nuovamente una TVP non sostenuta, per cui si è deciso di eseguire una sedazione. La paziente ha mostrato segni di distress respiratorio, ipertensione arteriosa e infine ha richiesto una sedoanalgesia profonda e l'intubazione orotracheale. Sono stati somministrati beta-bloccanti e si è ottenuta una stabilizzazione emodinamica e aritmica, anche se questi farmaci sono stati titolati a basse dosi poiché il paziente presentava bradicardia sinusale. È stato completato uno studio analitico con la ricerca di tossine nelle urine, che è risultato negativo, mentre il profilo tiroideo non ha mostrato alterazioni ed è stato escluso l'uso di farmaci che potrebbero prolungare l'intervallo QT.
+Data la presenza di una probabile sindrome congenita del QT lungo e di un arresto cardiorespiratorio rianimato da una TVP sostenuta, si è deciso di impiantare un defibrillatore automatico endovascolare bicamerale, che è stato eseguito senza incidenti, e la paziente è stata successivamente trasferita nel reparto di cardiologia dove la dose di beta-bloccante è stata aumentata a bisoprololo 5 mg ogni 8 ore e sono stati eseguiti esami del sangue per lo studio genetico. Questo ha rilevato una mutazione nel gene KCNQ1 in eterozigosi associata allo sviluppo della sindrome del QT lungo di tipo 1 con un modello di ereditarietà autosomica dominante, ed è stato eseguito uno studio familiare.
+
+DIAGNOSI
+Sindrome del QT lungo di tipo 1.
+Mutazione patogena nel gene KCNQ1.
+Sincope ricorrente.
+Arresto cardiaco rianimato da PSVT.
+Assenza di cardiopatia strutturale significativa.
+Impianto di ICD DR in prevenzione secondaria.

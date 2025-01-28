@@ -1,0 +1,16 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+56-year-old male, no allergies, ex-smoker and paranoid schizophrenia treated in the past with ECT and multiple antipsychotics. He was found unconscious by his brother; on arrival of the ambulance he presented blood pressure of 60/40 mmHg with O2 saturation of 65%, temperature 34.8 °C. On auscultation he had crackles and rhonchi in both lung fields. Orotracheal intubation was performed and catecholamine perfusion (noradrenaline and adrenaline) was started. On arrival at the emergency department, a cardiological assessment was requested for an electrocardiogram (ECG) suggestive of inferolateral infarction. The ECG showed a nodal rhythm with QRS of 120 ms and rSR morphology of V2-V6 with the last R tied to the ST. Echocardioscopy with preserved left ventricular (LV) function and no segmental alterations. Laboratory tests described in evidence. The chest X-ray was compatible with multilobar pneumonia. Cardiology maintained a wait-and-see attitude, and the patient was admitted to the intensive care unit for treatment of the respiratory infectious process.  
+
+COMPLEMENTARY TESTS
+Arrival ECG: nodal rhythm with QRS of 120 ms and rSR morphology of V2-V6 with the last R tied to the ST.
+ECG after temperature correction: virtual disappearance of Osborn waves, returning to normal sinus rhythm.
+ANALYSIS: haemoglobin 14.4 g/dl, haematocrit 41.6%, leukocytes 1700x10^3/μl, neutrophils 93.3%, platelets 133,000x10^3/μl. Coagulation: INR 1.61, IQ 52%, PT 17.1, APTT 42.9, D-dimer 708 ngr/ml.
+BIOCHEMISTRY: glucose 163 mg/dl, urea 57 mg/dl, creatinine 0.39 mg/dl, GFR MDRD4; 60 ml/min/1.73m2, sodium 127 mm/l, potassium 4.4 mm/l, magnesium 2.2 mm/l. Creatine kinase 672 U/L. Lactate 2.37 mm/l. Procalcitonin 0.96 ng/ml. Troponin I < 0.01 ng/dl. CK-MB mass 139.93 ng/ml. Arterial blood gases: pH 7.29. pCO2 67 mmHg. pO2 42 mmHg. HCO3 32.2 mm/l. Base excess 3.36 mm/l.
+THORAX RADIOGRAPHY: compatible with multilobar pneumonia (image 2).
+ECOCARDIOSCOPY: non-dilated left ventricle with preserved function. No segmental alterations of contractility. No aortic valvulopathy. Minimal mitral insufficiency. Right chambers with normal morphology and function. No intracardiac effusion or masses.
+
+CLINICAL EVOLUTION
+The team of intensivists requested a new assessment of the patient due to doubts about the decision taken by cardiology. After re-evaluating the electrocardiograms, a new patient temperature was requested, which was undetectable at the time. The patient was gradually warmed with thermal blankets and warm saline. At 32 °C partial correction of the waves is observed, which disappear completely at 36 °C. A diagnosis of Osborn waves due to hypothermia and acidosis was made. The patient finally died of respiratory failure.
+
+DIAGNOSIS
+Community-acquired multilobar pneumonia. Acute respiratory failure. Hypothermia and acidosis, with Osborn waves on electrocardiogram. Preserved left ventricular function, no structural heart disease. Death.

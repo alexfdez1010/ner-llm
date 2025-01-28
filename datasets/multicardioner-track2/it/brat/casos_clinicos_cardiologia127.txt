@@ -1,0 +1,26 @@
+Uno sportivo federato di 17 anni che negli ultimi due mesi ha consultato il Pronto Soccorso in 6 occasioni per episodi di svenimento, con perdita di coscienza nel bel mezzo di una gara sportiva.
+
+Anamnesi, malattia attuale ed esame fisico
+Storia personale: maschio di 17 anni. Sportivo federato. Nessuna allergia nota ai farmaci. Nessun fattore di rischio cardiovascolare. Nessuna abitudine tossica. Nessuna storia personale o familiare di malattie cardiache.
+Malattia attuale: sportivo federato di 17 anni che negli ultimi due mesi ha consultato il Pronto Soccorso in 6 occasioni per episodi di svenimento, tra cui perdita di coscienza nel bel mezzo di una gara sportiva. Data la presenza di ripetute sincopi legate all'esercizio fisico, il paziente è stato ricoverato in Cardiologia per lo screening di una causa cardiaca. Ha inoltre riferito altri episodi di vertigini e sincope con profilo vaso-vagale (sincope preceduta da malessere addominale, nausea e vertigini della durata di secondi). Come sintomi aggiuntivi, ha riferito una cefalea occasionale che aumentava con la tosse e lo sforzo. Non ha riferito dispnea, dolore toracico o palpitazioni. Data la normalità degli esami complementari iniziali (ECG, radiografia del torace, ecocardiogramma, monitoraggio ECG ed ergometria), il paziente è stato dimesso con la diagnosi di sincope di probabile origine neuromediata, con la raccomandazione di non superare la frequenza cardiaca massima durante lo sforzo fisico. Due settimane dopo, è stato nuovamente ricoverato dopo aver presentato tre episodi sincopali, uno dei quali subito dopo aver eseguito un test da sforzo, in cui ha raggiunto i 197 bpm. È stato riferito che al termine del test, una volta terminato il periodo di recupero e scollegati gli elettrodi ECG, ha presentato una sincope con ipotensione molto grave e senza dare tempo al monitoraggio elettrocardiografico. Il secondo episodio si è verificato dopo aver giocato una partita di calcio, preceduto da malessere addominale, e infine il terzo episodio si è verificato dopo una doccia, impiegando circa 4 minuti per riprendersi, secondo la famiglia. Per completare lo studio, è stata eseguita una risonanza magnetica cardiaca per escludere una displasia aritmogena, un test alla flecainide perché l'ECG simulava un pattern di Brugada di tipo II, un tilt table test e uno studio neurologico data la durata prolungata dell'ultimo episodio. La risonanza magnetica cardiaca è risultata normale, così come il test alla flecainide e l'elettroencefalogramma.
+
+È stata consultata la neurologia ed è stata richiesta una RMN cranica, che ha fornito la diagnosi di discesa delle tonsille cerebellari con rettifica del pavimento del quarto ventricolo. Il paziente è stato dimesso con la diagnosi di malformazione di Chiari di tipo I.
+
+Esame fisico: Pressione arteriosa 90/50. FC 60lpm. Cosciente e orientato. Normoidratato e normoperfuso. Eupneico a riposo. ACR: toni ritmici senza soffi udibili. CVM senza rumori sovrapposti. Addome: morbido, depressibile, senza masse o megaliti. Non doloroso alla palpazione. Arti inferiori con pulsazioni conservate e simmetriche.
+
+Esami complementari
+- Esame complementare.
+- ECG: ritmo sinusale a 75 bpm e blocco di branca destro incompleto con innalzamento del punto J nelle derivazioni precordiali destre e intervallo QTc normale.
+- Radiografia del torace: indice cardiotoracico nei limiti della norma. Nessun segno congestizio.
+- Ecocardiogramma: ventricolo sinistro non dilatato o ipertrofico, con funzione sistolica globale e segmentaria nei limiti della norma. Atrio sinistro non dilatato. Camere destre normali. Modello di riempimento del ventricolo sinistro normale. Nessuna anomalia valvolare o pericardica. Radice aortica e aorta ascendente normali. Setto atriale e setto interventricolare intatti. Nessun gradiente nell'aorta discendente.
+- Ergometria: interrotta a causa della contrattura del gemello, al 78% della frequenza cardiaca submassimale. Non sono stati osservati eventi clinici o elettrici di interesse.
+- Test alla flecainide: interrotto dopo 7 minuti di infusione (2/3 di dose del farmaco) poiché il paziente avvertiva vertigini e senza alcuna alterazione elettrocardiografica sospetta di sindrome di Brugada.
+- RMN cardiaca: ventricolo destro non dilatato, con parete libera di spessore normale, senza irregolarità o immagini di pseudoaneurisma. Non c'era infiltrazione grassa nella parete. Non c'era disfunzione del RV, con volumi ed EF nei limiti della norma.
+- Elettroencefalogramma: l'attività bioelettrica cerebrale al basale era normale. Non sono state osservate anomalie parossistiche focali o generalizzate.
+- RMN cerebrale: discesa della tonsilla cerebellare con rettifica del pavimento del quarto ventricolo. Non sono stati osservati segni di idrocefalo o lesioni intracerebrali. La diagnosi di Arnold-Chiari è confermata.
+
+Evoluzione clinica
+Il paziente è stato indirizzato alla neurochirurgia e sottoposto a craniectomia suboccipitale e laminectomia di C1. Il paziente ha ripreso progressivamente l'attività sportiva senza nuovi episodi sincopali.
+
+Diagnosi
+Sincope ricorrente in un paziente con malformazione di Chiari di tipo I.

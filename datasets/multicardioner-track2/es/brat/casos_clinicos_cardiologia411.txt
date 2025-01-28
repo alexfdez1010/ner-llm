@@ -1,0 +1,24 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+Se trata de un paciente varón de 17 años, el menor de dos hermanos. Su hermana mayor (caso índice) tiene sospecha clínica de SMF, presentando hábito marfanoide y ectopia lentis pero no dilatación aórtica (es el caso índice pero no cumple criterios diagnósticos de SMF).
+La madre del paciente presenta hábito marfanoide, pero no ha desarrollado ectopia lentis ni dilatación aórtica.
+Realizando despistaje familiar, se estudia a nuestro paciente, deportista de competición (baloncesto).
+
+EXPLORACIÓN FÍSICA:
+Paciente normotenso y afebril, bien perfundido, eupnéico en reposo y con buena coloración de piel y mucosas. Pulsos carotídeos rítmicos y simétricos. Sin ingurgitación yugular. Deformidad torácica por pectus carinatum. Auscultación cardiopulmonar con tonos rítmicos y sin soplos, con murmullo vesicular conservado. Pulsos pedios y tibiales posteriores presentes y simétricos sin edemas maleolares ni estigmas de insuficiencia venosa ni trombosis venosa profunda. Signo de la muñeca y el pulgar positivos. Ratio brazo/estatura incrementado. Escoliosis. Subluxación del cristalino.
+
+PRUEBAS COMPLEMENTARIAS
+ELECTROCARDIOGRAMA (ECG): RS a 47 lpm. QRS estrecho. Eje normal. Sin alteraciones en la repolarización.
+ECOCARDIOGRAMA: ventrículo izquierdo no dilatado, con espesor normal y función conservada (FE 60%), destaca hipertrabeculación inferolateral y apical. Cavidades derechas normales.
+Ausencia de valvulopatías. Aorta no dilatada con diámetro máximo a nivel de los senos: 31 mm.
+
+RESONANCIA MAGNÉTICA NUCLEAR (RMN) CARDIACA: sin alteraciones de interés, a excepción de aumento de la trabeculación en las zonas referidas en el ecocardiograma, sin cumplir criterios de miocardio no compactado. Aorta dentro de la normalidad.
+PRUEBA DE ESFUERZO: suspendida en el minuto 14,30 del protocolo de Bruce tras alcanzar la frecuencia cardiaca (FC) máxima teórica. Respuesta tensional y cronotropa normal. Extrasistolia supraventricular aislada. Conclusión: clínica y eléctricamente negativa para isquemia. Buena capacidad funciona. Sin arritmias significativas.
+HOLTER-ECG: sin arritmias significativas.
+ESTUDIO GENÉTICO: se estudia por el método de secuenciación masiva en paralelo utilizando una biblioteca que incluye 35 genes relacionados con síndromes aórticos-vasculares. Se identifica una mutación en heterocigosis en el gen FBN1 (p.Glu 1811Lys) previamente descrita y considerada patogénica o asociada a la enfermedad y otra mutación en heterocigosis en el gen FBN1 (p.Arg2Cys) previamente no descrita y con patogenicidad incierta.
+EVOLUCIÓN CLÍNICA
+El paciente presenta hábito marfanoide (más de 7 puntos entre los hallazgos sistémicos característicos, incluyendo pectus carinatum y escoliosis) y subluxación del cristalino. Sin embargo no presenta dilatación aórtica. En ausencia de antecedentes familiares de SMF no se confirma el diagnóstico siendo necesario el análisis genético. Tras confirmar la mutación patogénica en el gen FBN1 se confirma el diagnóstico de SMF, desaconsejándose la práctica de ejercicio físico intenso y a nivel de competición.
+
+DIAGNÓSTICO
+SMF (scores sistémico > 7 puntos y subluxación del cristalino) sin afectación del sistema cardiovascular, con mutación en heterocigosis del gen FBN1.

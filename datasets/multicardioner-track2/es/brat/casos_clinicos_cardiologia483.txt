@@ -1,0 +1,19 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Paciente mujer de 52 años fumadora, sin historia de HTA, diabetes mellitus o dislipemia.
+Ingresa en febrero de 2016 por episodio sincopal sin pródromos con traumatismo craneoencefálico asociado con ECG basal sin alteraciones y TC craneal en el que se objetivó pequeño foco de hemorragia subaracnoidea en lóbulo parietal y temporal izquierdos. En noviembre de 2016, reingresa por síncope recidivante brusco con fractura de huesos propios de la nariz, realizándose estudio con ecocardiograma sin alteraciones, test ortostatismo y masaje carotideo negativo y test de basculación con respuesta mixta tras NTG sl, con mareo e hipotensión con FC 40 lpm, pero sin pérdida de conciencia. Se decide por ello implantación de Holter subcutáneo (Reveal LINQ).
+Acude para revisión de Reveal, tras activarlo por sufrir episodio de pérdida de conocimiento, estando en el lavabo preparándose para ir a trabajar, precedido por una sensación extraña, no definida, con posterior caída al suelo, con recuperación rápida, sin liberación de esfínteres ni mordedura de lengua. En la monitorización de Reveal se detecta pausa de 15 segundos (con un único escape de QRS ancho), sin taquicardización previa. Se decide ingreso para estudio.
+A la exploración física presenta un buen estado general. TA 125/73 mmHg FC 65 lpm. Sat 02 96 %. AC: tonos cardiacos rítmicos sin soplos. AR: MVC , sin agregados añadidos. EEII: sin edemas.
+
+PRUEBAS COMPLEMENTARIAS
+Analítica: urea 38 mg/dl, creatinina 0,63 mg/dl, Na 142 mEq/L, K 3,7 mEq/l, Hb 12,1 g/dl, leucocitos 8.050, plaquetas 309.000, coagulación dentro de la normalidad.
+Electrocardiograma: RS a 60lpm PR 164 ms QRS estrecho, Elevación punto J 0,5 mm V3-V6.
+Holter de 24 horas: ritmo sinusal durante todo el registro a una FC media de 60 lpm; máxima de 104 lpm y mínima de 49 lpm. Extrasístoles supraventriculares aislados poco frecuentes. Sin pausas significativas, máximo RR 1,33 segundos.
+Ecocardiograma transtorácico: dentro de la normalidad.
+Electrocardiograma posimplantación de marcapasos: ritmo de marcapasos auricular y ventricular.
+
+EVOLUCIÓN
+En planta de Cardiología, se mantiene bajo monitorización continua, realizándose Holter de 24 horas sin evidencia de nuevos episodios arrítmicos y ecocardiograma dentro de la normalidad. Se orienta como síncope vasovagal maligno y se decide implante de marcapasos DDD, sin incidencias, con correctos umbrales de estimulación y sensado. Tras adecuada evolución, es alta a domicilio.
+
+DIAGNÓSTICO
+Síncope vasovagal maligno.

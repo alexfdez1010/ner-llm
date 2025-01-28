@@ -1,0 +1,38 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Maschio, 41 anni, nessuna allergia ai farmaci.
+
+BACKGROUND:
+Fattori di rischio cardiovascolare (CVRF): dislipidemia. Ex fumatore di 20 sigarette al giorno.
+Consumatore sporadico di cocaina e alcol.
+Ictus ischemico frontoparietale sinistro nel contesto dell'uso di cocaina (2009). Studi complementari eseguiti (monitoraggio elettrocardiogramma [ECG], Doppler dei tronchi sovra-aortici, ecocardiografia transtoracica (TTE) con bubble test, studio della coagulopatia) compatibili con la normalità. Nessuna sequela al momento. Nessuna storia cardiologica personale o familiare.
+Trattamento abituale: acido acetilsalicilico 300 mg/die, simvastatina 20 mg/die.
+
+MALATTIA ATTUALE:
+Si è recata al pronto soccorso per una focalità neurologica consistente in afasia motoria e disartria, insorta 30 minuti prima. È stata eseguita una tomografia computerizzata (TC) cranica che ha mostrato una lesione frontoparietale sinistra nota, senza reperti ischemici o emorragici acuti. È stato contattato il reparto di neurologia di turno e, dato un punteggio NIHSS (National Institute of Health Stroke Scale) inferiore a 4 (sintomi non molto invalidanti), non è stato considerato un candidato al trattamento di riperfusione. È stato ricoverato nella stroke unit per il controllo emodinamico, l'evoluzione e lo studio.
+
+ESAME FISICO:
+Pressione arteriosa (BP) 130/70 mmHg. Frequenza cardiaca (HR) 65 bpm. Saturazione di ossigeno (SatO2) 96% (con aria ambiente). Febbrile. Auscultazione cardiaca: ritmica senza soffi. Auscultazione polmonare: normoventilazione. Addome non descritto. Arti inferiori senza edema o segni indiretti di trombosi venosa profonda (TVP). Polsi pediatrici presenti e simmetrici.
+Esame neurologico: pupille isocoriche normoreattive. Nervi cranici normali. Afasia motoria con lieve disartria. Forza e sensibilità conservate e simmetriche. Nessuna alterazione campimetrica, dismetria o disturbi della deambulazione.
+
+ESAMI COMPLEMENTARI
+ECG: ritmo sinusale a 65 bpm, senza disturbi della conduzione, senza alterazioni della ripolarizzazione.
+RX del torace: indice cardiotoracico nella norma, campi polmonari senza condensazione.
+ANALISI: Biochimica: glucosio 90 mg/dl, urea 24 mg/dl, creatinina 0,9 mg/dl, cloro 99 mEq/l, sodio 141 mEq/l, potassio 4,5 mEq/l. Funzione tiroidea, vitamina B12 e acido folico normali.
+Emogramma: leucociti 10.100, Hb 16,4 g/dl, Ht 47,8%, piastrine 260.000. Sierologia: negativa. Tossine nelle urine: negativo.
+STUDIO DI TROMBOFILIA: eterozigote per il polimorfismo C677T, normale per le mutazioni del fattore V Leyden e della protrombina G20210A.
+TTE: ventricolo sinistro (LV) non dilatato o ipertrofico, normale funzione sistolica globale e segmentale. Atrio sinistro leggermente dilatato. Camere destre normali, contrattilità del ventricolo destro (RV) normale. Valvola mitrale: sul bordo libero del foglietto mitralico anteriore è presente un'immagine nodulare e omogenea, che non interferisce con la cinetica della valvola.
+Valvola aortica: trivalve, foglietti sottili, competente. Lieve insufficienza tricuspidale (TI). Vena cava inferiore (IVC) non dilatata con collasso inspiratorio conservato. Pressione sistolica dell'arteria polmonare (PAPS) normale. Assenza di versamento pericardico.
+RISONANZA MAGNETICA CARDIACA NUCLEARE (RM): immagine nodulare di circa 7 mm attaccata al foglietto settale della valvola mitrale, mal definita, che potrebbe corrispondere a un fibroelastoma. Le sequenze di late enhancement non mostrano focolai di captazione che indichino aree di necrosi o fibrosi miocardica. Dato il sospetto, si raccomanda l'ecocardiografia transesofagea.
+Ecocardiogramma transesofageo: Setto atriale intatto.
+Setto atriale sinistro privo di trombi. Valvola mitrale: foglietti sottili, mobilità e apertura conservate. Sul lato atriale del foglietto mitralico anteriore (festone A1-A2) è presente una massa ovale, di aspetto eterogeneo, sessile, che non interferisce con la funzione della valvola, suggerendo come prima possibilità diagnostica un fibroelastoma papillare. Il resto dello studio è sovrapponibile a quello transtoracico.
+CATETROLOGIA CARDIACA: angiografia coronarica: dominanza destra. Arteria coronaria sinistra (LMCA): buon calibro, senza lesioni. Arteria discendente anteriore (DA): nessuna stenosi, segmento medio intramiocardico con lieve mungitura associata. Circonflessa (Cx): sviluppo moderato, senza lesioni.
+Bisettrice: lunga e di buon calibro, senza stenosi. CD: nessuna stenosi. Aortografia: aorta ascendente di dimensioni normali, valvola aortica trivalve, non funzionante.
+
+EVOLUZIONE CLINICA
+Durante la degenza in reparto, miglioramento progressivo con risoluzione completa dei sintomi neurologici entro 24 ore. Non sono stati osservati eventi aritmici al monitoraggio ECG. Lo studio ecocardiografico ha evidenziato una massa nel foglietto mitralico anteriore, suggerendo un fibroelastoma papillare come processo eziologico alla base dell'evento vascolare presentato dal paziente.
+Dato il rischio di potenziali complicazioni emboliche, si è deciso di completare lo studio in regime ambulatoriale e di prendere in considerazione l'asportazione del tumore; il paziente è stato indirizzato al reparto di cardiochirurgia, che ha accettato il caso.
+È stato eseguito un intervento di riparazione valvolare ed escissione del tumore (tempo di CPB 100 minuti): resezione triangolare del lembo anteriore (festone A1) in cui era localizzato il tumore e annuloplastica con anello Physio n. 34. Periodo postoperatorio in terapia intensiva (ICU) senza incidenti, inizio della riabilitazione e dimissione precoce dal reparto.
+La biopsia è stata inviata al servizio di anatomia patologica, confermando la diagnosi definitiva di fibroelastoma papillare.
+
+DIAGNOSI
+Attacco ischemico transitorio cardioembolico. Fibroelastoma papillare mitralico. Intervento di resezione del tumore e annuloplastica mitralica.

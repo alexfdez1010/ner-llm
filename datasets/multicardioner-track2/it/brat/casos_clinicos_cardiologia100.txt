@@ -1,0 +1,21 @@
+Il paziente è stato inviato in Cardiologia dalla Neurologia per una valutazione.
+
+Anamnesi, malattia attuale ed esame fisico
+
+Anamnesi familiare: madre con lingua plicata senza paralisi facciale. Due fratelli e due nipoti con sindrome di Steinert. Due bambini sani.
+
+Anamnesi attuale: il paziente ha presentato nuove anomalie all'elettrocardiogramma (ECG) che consistono in un PR di 280 millisecondi (msg), QRS di 150 msg, con un'immagine di blocco di branca sinistro completo (LBBB).
+L'elettrocardiogramma di due anni prima non presentava disturbi di conduzione. È stato valutato come paziente ambulatoriale presso il reparto di cardiologia ed è stato richiesto l'impianto di pacemaker. Il paziente negava sincope, presincope, palpitazioni o altri sintomi.
+
+Esami complementari
+- ECG all'ammissione: ritmo sinusale a 75 bpm. PR 240-280 msg. QRS di 150 msg. BCRI.
+- ECG durante le visite neurologiche nel 2010: ritmo sinusale a 70 bpm. PR 180-200 msg. QRS di 80 msg. Nessuna alterazione della conduzione intraventricolare.
+- Esami del sangue: glucosio, ioni e funzionalità renale normali. Nessuna anemia o leucopenia. Piastrinopenia di 84.000 piastrine mm3.
+- Ecocardiografia transtoracica: ventricolo sinistro non dilatato o ipertrofico. Atrio sinistro non dilatato. Valvola mitrale a foglietto sottile non ispessito con getto di lieve insufficienza centrale. Modello di riempimento mitralico con onda E>A. Valvola aortica trivalve con apertura e chiusura adeguate. Radice aortica e aorta ascendente di dimensioni normali. Frazione di eiezione del ventricolo sinistro conservata senza difetti di contrattilità segmentaria. Camere destre di dimensioni e funzionalità normali. Lieve rigurgito tricuspidale diretto medialmente con un gradiente atrioventricolare di 17 mmHg, che consente di stimare una pressione dell'arteria polmonare di 30 mmHg. Insufficienza polmonare banale. Vena cava non collassata e non dilatata. Assenza di versamento pericardico.
+- Radiografia del torace: silhouette cardiaca al limite della normalità senza alterazioni a livello del parenchima polmonare. Assenza di versamento pleurico.
+
+Evoluzione clinica
+Il paziente è stato ricoverato su base programmata per l'impianto di pacemaker a causa della comparsa all'ECG di disturbi di conduzione non presenti in precedenza e non associati a una cardiopatia strutturale.
+
+Diagnosi
+Malattia di Steinert con disturbi di conduzione che richiedono una stimolazione definitiva.

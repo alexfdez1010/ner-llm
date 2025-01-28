@@ -1,0 +1,26 @@
+Anamnesi, malattia attuale ed esame fisico
+Una donna di 61 anni, senza fattori di rischio cardiovascolare né anamnesi rilevante, si è recata presso il suo centro sanitario per un dolore toracico opprimente che si irradiava alla schiena, associato a palpitazioni e dispnea, della durata di un'ora.
+All'arrivo, il paziente è apparso in cattive condizioni generali, con una frequenza cardiaca di circa 250 bpm e ipotensione. È stato eseguito un elettrocardiogramma (figura 1), dopo il quale si è deciso di chiamare i servizi di emergenza e di somministrare 300 mg di amiodarone per via endovenosa. All'arrivo dell'unità mobile di terapia intensiva, il paziente rimaneva sintomatico e la cardioversione non era stata ottenuta.
+Data la presenza di una tachiaritmia interpretata come tachicardia ventricolare, scarsamente tollerata dal punto di vista emodinamico, si è deciso di eseguire una cardioversione elettrica.
+Dopo sedazione, la cardioversione è stata eseguita con tre shock (200-300-360 joule) senza successo, dopodiché il paziente è stato trasferito d'urgenza all'ospedale di riferimento.
+
+
+Ulteriori esami
+analisi: emogramma: emoglobina 11,7 g/dl, ematocrito 36%, leucociti 9.000/uL, piastrine 183.000/uL. Coagulazione normale. Glicemia 225 mg/dl, creatinina 1,2 mg/dl, sodio 138 mmol/l, potassio 4,1 mmol/l, magnesio 1,9 mg/dl, lattato 2,4 mmol/l, calcio 8,3 mmol/l e troponina T 130 pg/ml.
+gas del sangue venoso: pH 7,16, pCO2 54, HCO3 19, BE -9,7.
+eCG
+
+Evoluzione clinica
+Ricoverato in terapia intensiva dove è stato iniziato il trattamento con lidocaina endovena, ottenendo la cardioversione con miglioramento della pressione arteriosa. Una volta in ritmo sinusale, l'elettrocardiogramma ha mostrato una riduzione generalizzata del segmento ST con un aumento dell'aVR, per cui la paziente ha contattato l'unità di terapia critica cardiaca del nostro centro ed è stata trasferita per lo studio.
+All'arrivo, la paziente era asintomatica ed emodinamicamente stabile.
+All'interrogatorio, ha negato precedenti episodi di dolore toracico o palpitazioni, nonostante camminasse per diversi chilometri al giorno. L'elettrocardiogramma basale mostrava una preeccitazione.
+
+È stato eseguito un ecocardiogramma che ha evidenziato un'anomalia di Ebstein con foglietto laterale della valvola tricuspide con impianto basso (1,4 cm dalla valvola mitrale) non nota in precedenza. Il ventricolo destro era leggermente dilatato con funzione sistolica leggermente depressa e insufficienza tricuspidale di grado moderato-grave.
+Il registro delle tachicardie è stato rivisto con il servizio di elettrofisiologia e, dato il sospetto che il paziente avesse una tachicardia sopraventricolare, probabilmente una fibrillazione atriale preeccitata, si è deciso di eseguire uno studio elettrofisiologico e l'ablazione.
+Lo studio ha rilevato tre vie accessorie: posterosettale destra, posterosettale sinistra e inferolaterale destra, che sono state efficacemente ablate.
+Come complicanza, la paziente ha presentato un lieve versamento pericardico, rimasto invariato durante l'evoluzione in reparto, ed è stata dimessa asintomatica con monitoraggio ambulatoriale.
+
+Diagnosi
+sindrome di Wolff Parkinson White
+ʟʟʟ Anomalia di Ebstein
+insufficienza tricuspidale grave

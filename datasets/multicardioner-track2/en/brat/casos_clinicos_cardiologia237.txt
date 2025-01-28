@@ -1,0 +1,49 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+No known drug allergies.
+Cardiovascular risk factors: smoking and occasional alcohol consumption (very low burden). No other drug use. No arterial hypertension (AHT), no dyslipidaemia, no diabetes mellitus.
+Cardiological history: no known cardiological history, no family history of heart disease or sudden death in the family.
+Surgical interventions: tonsillectomy.
+No usual treatment.
+
+Present illness
+A 36-year-old male patient came to the emergency department referred from his health centre for palpitations and syncope, with an electrocardiogram (ECG) showing irregular tachycardia with wide QRS.
+After getting up quickly from the sofa, the patient reported sudden onset of palpitations, without initial dizziness. Subsequently, after approximately one minute, he went to the bathroom to urinate and after urinating, he reported a rapid sensation of dizziness and fell to the floor, with spontaneous recovery of consciousness (he reported approximately 10 minutes of loss of consciousness, he was alone at home, with no witnesses). After the episode, he reported only palpitations, denying chest pain, dyspnoea or other symptoms. Given the persistence of the palpitations and after recovering from the syncope, he decided to consult his health centre and was referred to our centre. The patient denies the use of toxic substances. He reported 4 similar episodes of palpitations related to physical effort for which he had never consulted before, self-limited, without syncope.
+
+Physical examination
+On arrival at the emergency department, good general condition, normal colour, normohydrated, eupneic at rest.
+Blood pressure (BP) 147/68 mmHg. Heart rate (HR) 180-210 bpm. SpO2 (FiO2 21%) 99%.
+Neurological examination: conscious and oriented, alert, cooperative. No neurological focality.
+Cardiac and pulmonary auscultation: irregular tachycardic sounds, no murmurs. Preserved vesicular murmur (VCM), without added noises.
+Abdomen soft, depressible, without masses or megaliths. No pain on palpation. No signs of peritoneal irritation.
+Lower limbs: no oedema, no signs of deep vein thrombosis (DVT).
+
+
+COMPLEMENTARY TESTS
+
+ECG:
+Initial ECG on arrival at the ED: wide QRS irregular tachycardia with approximate ventricular response between 180-210 bpm. Occasionally there are narrow QRS beats.
+ECG after CVE: sinus rhythm at 95 bpm, PR 100 ms, 60o axis, QRS 120 ms with positive delta wave in inferior aspect and from V3 to V5. No repolarisation abnormalities. ECG at discharge: sinus rhythm 80 bpm. PR 150 msg. Narrow QRS without repolarisation alterations.
+
+Chest X-ray: cardiothoracic index (CTI) within normal, no condensation or pleural effusion, no signs of pneumothorax.
+
+Laboratory tests:
+CBC: red blood cells 5.08 10*12/l, haemoglobin 15.6 g/dl, haematocrit 47%, leukocytes * 11.6 10*9/l, neutrophils 50.5%, lymphocytes 38.3%, platelets 295 10*9/l.
+Biochemistry: glucose * 111 mg/dl, sodium 139 mEq/l, potassium 3.6 mEq/l, chlorine 102 mEq/l, GPT 39 U/l, urea 23.1 mg/dl, creatinine 0.87 mg/dl, C-reactive protein 0.06 mg/dl.
+Baseline haemostasis: prothrombin time 10.3 sec; I. Quick 99; INR 1.02; aPTT 25.9 sec.
+Echocardiogram: left ventricle with preserved diameters and global systolic function. Absence of alterations in segmental contractility at rest. Trivial mitral insufficiency. Aortic root 36 mm, without valvulopathies. Right ventricle of preserved size and function. Minimal tricuspid insufficiency that allows estimating PAPs of approximately 30 mmHg. Normal inferior vena cava.
+Electrophysiological study (EEF): on ECG suspicion of a possible left lateral accessory pathway, access was gained via the retrograde aortic route and an ablation catheter was located in the lateral mitral annulus, obtaining precocities of up to -10 ms with respect to delta wave and QS in unipolar, performing 3 applications of RF reaching up to 56 oC temperature with cessation of anterograde and retrograde conduction of the pathway. With programmed st. A programmed (600/260), orthodromic tachycardia is induced by another left posterior accessory pathway and ablation is performed during tachycardia, observing cessation of tachycardia with a V without rising to A. After this, no eccentric retrograde conduction is observed and tachycardia is not induced. The result was maintained after 20 min of waiting and the procedure was terminated.
+
+
+CLINICAL EVOLUTION
+On arrival at the emergency department of our centre, given the clinical and ECG findings at the health centre, the patient was transferred directly to the critical care unit. An ECG was performed with persistent wide QRS irregular tachycardia and, given haemodynamic stability and good clinical tolerance to the tachycardia, pharmacological cardioversion was decided with procainamide 200 mg i.v. without cessation of tachycardia. Subsequently, the patient was sedated with 2 mg of midazolam and 6 mg of etomidate, and electrical cardioversion (ECV) was performed with a 200 J shock, and the patient went into sinus rhythm at 75 bpm. The post-CVE ECG showed sinus rhythm with short PR with delta wave + in inferior and lateral leads.
+In light of the ECGs, the patient was labelled as having syncopal pre-excited atrial fibrillation and was admitted to cardiology with continuous monitoring to complete the study and treatment.
+During his stay in cardiology the patient remained asymptomatic and without arrhythmic events on monitoring. Morphological studies were completed with transthoracic echocardiography (TTE), which showed no significant alterations. The convenience of performing accessory pathway ablation was explained to the patient, as well as the risks of not doing so, and the patient accepted the procedure. In the EPS, 2 accessory pathways were located (left lateral and left posterior) and both were effectively ablated.
+In the absence of complications 24 hours after the procedure, the patient was discharged home with ECG with no signs of pre-excitation.
+In subsequent ambulatory controls, the patient remained asymptomatic and no pre-excitation was observed in the control ECGs.
+
+DIAGNOSIS
+Syncopal pre-excited atrial fibrillation (AF).
+Left lateral and left posterior accessory pathway ablation.
+Normal left ventricular ejection fraction (LVEF) with trivial mitral regurgitation (MR).

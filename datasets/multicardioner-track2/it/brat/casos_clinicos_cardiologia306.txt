@@ -1,0 +1,59 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+ANAMNESI PERSONALE
+Malattie precedenti:
+Fattori di rischio cardiovascolare: ipertensione arteriosa.
+Nessuna storia cardiologica precedente.
+Cirrosi biliare primaria (AMA-M2 +) Child-Pugh A6 con ipertensione portale:
+Emorragia da varici esofagee > 10 anni fa. Profilassi secondaria con legatura endoscopica (ultima legatura nel 2014, ultima gastroscopia nell'ottobre 2018: nessuna varice) e beta-bloccante a basso dosaggio (propranololo 10 mg ogni 24 ore).
+Trombosi portale cronica, anticoagulazione sospesa.
+Singolo episodio di encefalopatia epatica di grado II nel marzo 2018 in un contesto di stipsi.
+Osteoporosi.
+Nessuna anamnesi chirurgica.
+Nessuna allergia nota ai farmaci.
+Farmaci precedenti: metamizolo 575 mg/8h, acido alendronico 70 mg settimanali, resincolestiramina 4 g/8h, idrossizina 25 mg/die, propranololo 10 mg/die, idroferolo 266 mcg in 1 fiala settimanale, lattulosio 10 g/8h, rifaximina.
+
+MALATTIA ATTUALE
+La paziente è stata indirizzata al pronto soccorso dal suo medico di base per una progressiva dispnea al minimo sforzo. La paziente ha riferito un progressivo deterioramento della capacità di sforzo nell'ultimo anno fino all'attuale classe funzionale III/IV della New York Heart Association (NYHA). Nega ortopnea o episodi di dispnea parossistica notturna. Non presenta emottisi, oppressione toracica o sincope da sforzo o da riposo. Nessun respiro affannoso, nessun sintomo infettivo, nessuna nuova esternalizzazione di emorragie.
+
+ESAME FISICO
+Pressione arteriosa 110/74 mmHg. Frequenza cardiaca 70 bpm. Emodinamicamente stabile ed eupneico a riposo, tollera il decubito. Ingurgito giugulare fino al terzo superiore, reflusso epatogiugulare positivo. Auscultazione cardiaca: soffio olosistolico III/VI ritmico e ruvido sul bordo sternale sinistro, rinforzo di S2 e terzo rumore udibile. Auscultazione polmonare: murmure vescicolare conservato, nessun altro suono. Addome: epatomegalia a due tratti, non pulsatile e senza semiologia di ascite. Arti inferiori: nessun edema o segno di trombosi venosa profonda (TVP).
+
+ESAMI COMPLEMENTARI
+ECG: bradicardia sinusale a 56 bpm, PR normale, QRS ampio di 150 ms, con morfologia di blocco di branca destro (RBBB), pattern di sovraccarico del ventricolo destro (RV), onda T negativa in V1-V3 in relazione alle alterazioni precedenti.
+Esami del sangue all'ammissione: Hb 13,2 g/dl, piastrine 75.000 /μl, leucociti 3.600/μl. INR spontaneo di 1,45. Glucosio 134 mg/dl, creatinina 0,68 mg/dl, velocità di filtrazione glomerulare stimata (MDRD-4 IDMS) > 60 ml/min/1,73 m2, proteine 6,7 g/dl, albumina 3,2 g/dl, sodio 141 mmol/l, potassio 4,2 mmol/l, NT-proBNP 1.132 ng/l.
+Autoimmunità: ANCA negativo. Anti-DNA nativo 2,30 UI/mL (negativo).
+Anticorpi associati a malattie del tessuto connettivo negativi.
+Sierologie HIV, HCV e HBV negative. CMV: IgG positivo, IgM negativo.
+Ferritina 12 μg/l, ferro 79 μg/dl, TSI 31%, transferrina 200 mg/dl.
+TSH 1,86 mIU/l.
+Proteinogramma: albumina 47,7%, alfa-1 3,7%, alfa-2 7,6%, beta-1 5,5%, beta-2 6,8%, gamma 28,7%, indice albumina/globulina 0,9.
+Emoglobina glicosilata 4,6%.
+Colesterolo HDL 54 mg/dl, colesterolo LDL 48 mg/dl, colesterolo totale 115 mg/dl, indice di aterogenicità 2,1, trigliceridi 63 mg/dl.
+Alla dimissione: NT-proBNP 704 ng/l.
+Radiografia del torace all'ammissione: lieve cardiomegalia, ilarità polmonare prominente, assenza di versamento pleurico e di infiltrati.
+Ecocardiogramma transtoracico: ventricolo sinistro non dilatato, con spessore di parete normale. Marcato appiattimento del setto. Funzione sistolica globale normale (frazione di eiezione ventricolare sinistra stimata [LVEF] 61%), senza alterazioni della contrazione segmentale. Modello di riempimento trasmissivo con rilassamento alterato. Atrio sinistro non dilatato. Atrio destro leggermente dilatato (area 24 cm2). Ventricolo destro gravemente dilatato, ipertrofico e trabecolato con funzione sistolica globale gravemente depressa. Valvola mitrale con calcio nell'anulus e funzionalmente normale. Valvola aortica sclerosata senza segni di stenosi, con lieve insufficienza. Radice aortica non dilatata. Aorta ascendente prossimale non dilatata.
+Valvola tricuspide morfologicamente normale, con insufficienza funzionale moderata-grave (III-IV/IV). Pressione sistolica dell'arteria polmonare stimata a 75 mmHg. Gradiente RV 70 mmHg. La tacca del flusso polmonare sistolico suggerisce un'ipertensione polmonare significativa.
+Vena cava inferiore non dilatata con collasso inspiratorio fisiologico. Assenza di versamento pericardico.
+Scansione V/Q: distribuzione accettabilmente omogenea dei macroaggregati iniettati nello studio di perfusione, senza difetti subsegmentali e/o cuneiformi che sono discordanti nello studio di ventilazione e che potrebbero essere gammagraficamente suggestivi di tromboembolismo polmonare. Conclusione: bassa probabilità di tromboembolismo polmonare.
+Test di funzionalità respiratoria: FEV1 1,47 L (92,7%). FVC 1,85 L (94%). FEV1/FVC 0,79.
+MMEF 75/25 0,42 (18,6%). DLCOc/VA 0,85 (60,6%).
+TC delle arterie polmonari e del parenchima polmonare: piccola quantità di liquido nei recessi pericardici superiori. Calcificazioni dell'albero coronarico. Linfonodi prevascolari millimetrici, bassa adenopatia paratracheale destra, ilare destra e sottocarinale di 10 mm. Aumento del calibro delle arterie polmonari centrali, come segno di ipertensione polmonare precapillare. Non sono stati osservati difetti di replezione nelle arterie polmonari principali, lobari o segmentali, suggerendo un tromboembolismo polmonare. Sebbene vi sia una leggera asimmetria nella vascolarizzazione di entrambi i lobi superiori, non vi sono alterazioni suggestive di malattia tromboembolica cronica. Fegato con contorni polilobati, con ingrossamento del lobo sinistro, come evidenza di malattia epatica cronica. Iperplasia adenomatosa di entrambe le ghiandole surrenali.
+Milza accessoria di 11 mm, adiacente al margine splenico anteriore.
+Cateterismo destro: pressioni: Ao: 128/60/87 mmHg; AD: 10 mmHg; VD: 83/14 mmHg;
+AP: 83/30/48 mmHg; PCP: 14 mmHg. Saturazione O2: Ao: 94%; AP: 68%.
+Calcoli:
+Termodiluizione GC: 5,47 l/min; termodiluizione IC 3,2 l/min/m2. GC Fick: 5,9 l/min; IC Fick: 3,45 l/min/m2.
+SVR: 1.126,14 dynes. PVR: 6,03 UW.
+Gas ematici arteriosi basali: pH 7,46, pCO2 30 mmHg, pO2 59 mmHg, lattato 1,8.
+
+EVOLUZIONE CLINICA
+Ricoverato per lo studio di una possibile ipertensione polmonare sulla base dei risultati dell'ecocardiografia transtoracica, con dati indiretti di ipertensione polmonare, grave dilatazione e disfunzione del ventricolo destro. È stato eseguito uno studio eziologico completo dell'ipertensione polmonare, con esami di laboratorio completi, prove di funzionalità respiratoria e scintigrafia di ventilazione/perfusione, senza riscontri rilevanti. Dopo aver escluso i gruppi Dana Point 2, 3 e 4, è stato eseguito un cateterismo cardiaco destro che ha confermato l'ipertensione polmonare precapillare, con una pressione media dell'arteria polmonare (mPAP) di 48 mmHg, probabilmente legata alla sindrome portopolmonare dato il contesto clinico del paziente. L'ipertensione polmonare è stata classificata come rischio intermedio e il bosentan e il tadalafil orale sono stati iniziati durante il ricovero a basse dosi, con buona tolleranza, per una successiva titolazione su base ambulatoriale. D'altra parte, il propranololo è stato sospeso in accordo con gli specialisti dell'apparato digerente a causa di una grave disfunzione della RV. Alla dimissione, emodinamicamente stabile, con minimi dati di congestione destra controllati con basse dosi di furosemide orale, senza dati di allarme di ipertensione polmonare. Appuntamento per il follow-up presso il consultorio per l'ipertensione polmonare, in attesa di ergospirometria e 6 MWT ambulatoriali per completare la stratificazione del rischio.
+
+DIAGNOSI
+Ipertensione polmonare. Classe funzionale III dell'OMS. Rischio intermedio.
+Cirrosi biliare primaria. Trombosi portale cronica con ipertensione portale.
+Precedente episodio di emorragia gastrointestinale superiore. Assenza di varici esofagee all'ultima visita.
+Precedente episodio di encefalopatia epatica.
+Ipertensione arteriosa.
+Osteoporosi.

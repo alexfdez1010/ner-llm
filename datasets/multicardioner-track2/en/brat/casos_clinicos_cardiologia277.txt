@@ -1,0 +1,41 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+85-year-old male. No drug allergies. Independent for basic activities of daily living.
+Cardiovascular risk factors (CVRF): hypertension.
+Cardiological history: chest pain with coronary angiography in 2017 with moderate lesions in the middle segment of the anterior descending artery and in the middle segment of the right coronary artery labelled with stable angina (chronic coronary syndrome), with echocardiogram with normal left ventricular ejection fraction.
+Other history: chronic kidney disease not studied with baseline creatinine around 1.3 mg/dl, gastritis, Helicobacter pylori infection not eradicated, hiatal hernia, Schatzki's ring and diverticulosis.
+Previous treatments: chlorthalidone 50 mg 1-0-0-0; losartan 100 mg 1-0-0-0-0, pitavastatin 1 mg 0-0-1-0: ranitidine 150 mg 0-0-1-0; clopidogrel 75 mg 1-0-0-0-0; isosorbide mononitrate 50 mg 1-0-0-0-0.
+
+Present illness
+He was brought in by ambulance due to a condition that started at 5 a.m. and woke him up, consisting of central thoracic pain of intensity 10/10, oppressive, radiating to the jaw and back, accompanied by nausea without vomiting. At home he took paracetamol with partial relief of the pain, which subsided after 3 hours. He reports that the previous day he had been doing strenuous physical exertion at home (sanding parquet). He denied fever or other clinical symptoms in the previous days. The emergency team (SUMMA) initially administered 275 mg of acetylsalicylic acid, performed an electrocardiogram with no notable alterations and transferred him to the hospital emergency department.
+
+Physical examination
+On arrival at the hospital, blood pressure of 156/68 mmHg, heart rate of 55 bpm, ambient air saturation of 98% and temperature of 35.3oC were observed. He was also found to be in good general condition, conscious and oriented, eupneic at rest and well perfused. No IY.
+Cardiopulmonary auscultation without alterations. Abdomen soft and not painful. Lower limbs without oedema or signs of deep vein thrombosis (DVT).
+
+COMPLEMENTARY TESTS
+Blood tests:
+Biochemistry: glucose 133.6 mg/dl, creatinine 1.69 (previous 1.3) mg/dl, sodium 136.6 mEq/l, potassium 4.53 mEq/l, chlorine 94.5 mEq/l, total protein 7.31 g/dl, albumin 4.2 g/dl, ALT (GPT) 18.1 U/l, AST (GOT) haemolysis, gamma-GT 11 U/l alkaline phosphatase 56 U/l, LDH haemolysis, bilirubin .6 mg/dl, C-reactive protein .79 mg/dl, CK 188 U/l (second determination 309), troponin T hs 44.75 ng/l (second profile 599.2).
+Haematology: leukocytes 8.3 x1000/μl, red cells 4.59 xmill/μl, haemoglobin 14.6 g/dl, haematocrit 43%, MCV 93.5 fl, MCH 31.9 pg, MCHC 34.1 g/dl, RDW 13.3%, platelets 80 x1000/μl, MPV 10.1 fl, neutrophils 7 x1000/μl, neutrophils %: 84.6, lymphocytes .8 x1000/μl, lymphocytes % 9.2, monocytes .4 x1000/μl, monocytes % 5.3, eosinophils 0 x1000/μl, eosinophils % .6, basophils: 0 x1000/μl, basophils % .3.
+Haemostasis: prothrombin activity 92%, prothrombin time 12.2 sec, INR (lab) 1.06, TTPa 34 sec, fibrinogen (derivative) 594 mg/dl, D-dimer 257 ng/ml.
+Electrocardiogram (ECG): sinus rhythm at 75 bpm, PR in range, normal axis, narrow QRS, QTc not prolonged, without acute repolarisation alterations, with flattened T wave in high lateral face and left precordial. Similar to previous ones.
+Chest X-ray: normal cardiothoracic index (CTI) with no signs of pulmonary congestion or other alterations.
+Echocardioscopy: left ventricle neither dilated nor hypertrophic. Subjective systolic function preserved, dyskinesia of the middle segment of the anteroseptal face, without other alterations of segmental contractility. Mitral insufficiency, which appears mild-moderate by colour Doppler.
+Transthoracic echocardiogram (video 1): non-dilated left ventricle, with a slight increase in wall thickness. Localised akinesia at the level of the middle interventricular septum, both anterior and inferior, with the rest of the segments normocontractile. Preserved systolic function (LVEF 70% by Simpson biplane). Normal diastolic function. Non-dilated right ventricle with normal systolic function. No other findings.
+Cardiac catheterisation: common trunk without lesions. Dominant circumflex, of good calibre and great development, without significant lesions. Anterior descending artery with moderate plaque of stable appearance in the middle segment, with good distal vessel, without other significant lesions. Non-dominant right coronary artery, with a slight plaque in the proximal segment, with no other lesions, being a poorly developed vessel.
+Cardiac MRI: ventricles neither dilated nor hypertrophic. In the sequences for assessment of myocardial oedema (T2-STIR), a pathological increase in signal intensity was observed in the middle segment of the anterior septum, suggestive of oedema. In the late enhancement sequences there are patchy areas of intramyocardial enhancement in the middle segment of the anterior and posterior septum, basal segment of the anterior septum, insertion of the RV free wall, and small foci of intramyocardial enhancement in the basal and middle segment of the lateral face and basal segment of the posterior face.
+Nasopharyngeal swab for SARS-CoV-2: negative.
+
+CLINICAL EVOLUTION
+Given the clinical picture in the ED of chest pain with initial tests with no particularly noteworthy findings except for a slightly increased first troponin (in a patient with acute chronic kidney disease), it was decided to perform enzyme serology, with a second determination substantially higher than the previous one, so that the ED notified cardiology.
+Urgent echocardioscopy revealed a dyskinetic segment at septal level, which together with the elevation of markers of myocardial damage led to the initial diagnosis of acute myocardial infarction without ST elevation, so previous treatment with clopidogrel was maintained and fondaparinux, acetylsalicylic acid and atorvastatin were added.
+Urgent coronary angiography was performed in the first 24 hours, which revealed no significant coronary lesions, so the patient was classified as a myocardial infarction without obstructive coronary lesions (MINOCA) and was transferred to the cardiology hospital ward, monitored for further study.
+Once there, a regulated transthoracic echocardiogram was performed, confirming the previous findings, and a cardiac magnetic resonance was performed, showing findings compatible with acute myocarditis, with peak troponin of 678.9 ng/l. Paracetamol was prescribed as symptomatic treatment and the patient was discharged home after several days of stability, with no recurrence of the symptoms or appearance of significant events on telemetry. In addition, due to the presence of coronary artery disease and LDL of 171 mg/dl, it was decided to change from pitavastatin to rosuvastatin-ezetimibe (the patient reported previous intolerance to atorvastatin) with a target LDL cholesterol < 55 mg/dl, and an appointment for a review at the next consultation.
+
+DIAGNOSIS
+Acute non-COVID myocarditis.
+Normal left ventricular function.
+Acute chronic kidney disease on admission of probable pre-renal origin.
+Chronic coronary syndrome with non-significant two-vessel coronary artery disease.
+Hypercholesterolemia with LDL out of target (very high cardiovascular risk patient).

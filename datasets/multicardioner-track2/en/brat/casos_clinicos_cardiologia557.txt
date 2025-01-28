@@ -1,0 +1,33 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+
+64-year-old female patient, with the following history:
+No family history of interest for the current picture.
+No known adverse drug reactions.
+Cardiovascular risk factors: long-standing arterial hypertension, dyslipidaemia and long-standing type 2 diabetes mellitus, without target organ damage.
+Denies toxic habits.
+Previous surgeries: breast reduction, tubal ligation.
+Previous admissions: admission in 2019 to internal medicine for atypical chest pain, discharged after ergometry, which was inconclusive, and myocardial perfusion SPECT, which was negative.
+Usual treatment: enalapril 20 mg/hydrochlorothiazide 12.5 mg 1 tablet every 24 hours, sitagliptin 100 mg 1 tablet every 24 hours.
+
+Present illness
+She was referred to the emergency department for chest pain of several days' duration. The patient describes the pain as central-thoracic, oppressive, intermittent, non-radiating, not accompanied by vegetative cortex, which appears with exertion and improves with rest, of 5 days' evolution. Today's episode was more intense, so she went to her primary care physician, who referred her to the hospital due to pathological findings on the electrocardiogram (ECG), suggestive of acute coronary syndrome without ST-segment elevation. The main finding of interest in the ED analysis was the presence of mobilisation of markers of myocardial damage in the range of myocardial necrosis: TnT-hs 25 - 47 - 93 ng/l. A diagnosis of non-ST-elevation acute coronary syndrome was therefore made, and coronary angiography was requested, which was performed the following day and showed a lesion in the middle circumflex artery, which was revascularised by implanting a drug-eluting stent. During her stay on the hospital ward, she progressed well, with no new episodes of chest pain. Echocardiography was performed, which showed preserved biventricular function, without segmental contractility disorders. In-hospital laboratory tests showed preserved renal function, an improved lipid profile and high levels of glycosylated haemoglobin. Finally, she was discharged with the following treatment at discharge: acetylsalicylic acid (ASA) 100 mg (1 tablet every 24 h), ticagrelor 90 mg (1 tablet every 12 h), enalapril/hydrochlorothiazide 20/12.5 mg (1 tablet every 24 h), bisoprolol 5 mg (1 tablet every 24 h), atorvastatin 80 mg (1 tablet in the evening), omeprazole 20 mg (1 tablet before breakfast), canaglifozin 100 mg (1 tablet every 24 h), sitagliptin/metformin 50 mg/1g (1 tablet every 12 h).
+
+
+COMPLEMENTARY TESTS
+ECG in the emergency department.
+Coronary angiography: right dominance. Right coronary artery without significant lesions suggestive of revascularisation. Left coronary tree with significant lesion in the middle circumflex artery, revascularised by implanting 1 drug-eluting stent.
+Echocardiography: non-dilated left ventricle with slight concentric hypertrophy of the walls. No segmental contractility disorders were observed. Right ventricle not dilated. Biventricular function preserved (LVEF 58%). Atria not dilated. Absence of significant valvular heart disease. No pericardial effusion.
+Regular laboratory tests: renal function preserved, with baseline creatinine of 0.48 mg/dl and estimated filtration rate of 104 ml/min/1.73 m2. Lipid profile: total cholesterol 174 mg/dl, with LDL cholesterol 98 mg/dl and HDL 46 mg/dl and triglycerides 150 mg/dl. Glycosylated haemoglobin: 7.3%.
+
+
+CLINICAL EVOLUTION
+The patient was referred on discharge to cardiac rehabilitation, where she started a structured exercise programme, in addition to a comprehensive approach to cardiovascular risk factors. She was a diabetic patient with poor control, with an HbA1c of 7.3%, who was on home treatment with sitagliptin and who, on discharge, was upgraded to sitagliptin/metformin and it was decided to add canaglifozin for cardiovascular benefit.
+
+During follow-up, the patient presented gastrointestinal discomfort, which subsided after stopping metformin, so she started to discontinue oral hypoglycaemic treatment and began to have poor daily glycaemic control. Not only that, but practically simultaneously, the patient had several episodes of genitourinary tract infections, all of fungal origin (C. albicans), associated with treatment with sodium-glucose cotransporter type 2 (iSGLT2) inhibitors, which responded to antifungal treatment, but relapsed a few days later. In this situation, it was decided to take general measures to try to prevent new episodes of genitourinary infections, but all these measures were ineffective, so her primary care physician decided to discontinue treatment with iSGLT2 and to start treatment directly with slow-acting insulin. When she was reviewed again in cardiac rehabilitation consultations, it was decided to try a different course of action, which was to start treatment with a glucagon-like peptide type 1 receptor agonist (arGLP1). Therefore, treatment was started with semaglutide 0.25 mg (1 injection per week), which was well tolerated. After 4 weeks, the dose is increased to 0.5 mg (1 injection per week). Again it is well tolerated and with good glycaemic control. Finally, after another 4 weeks, a maximum dose of 1 g per week is reached, with good clinical tolerance and good glycaemic control, even leading to withdrawal of insulin. After 3 months of treatment, the regular blood test showed an HbA1c of 6.4%, reaching the desired target, having lost 3 kg of weight throughout the process. All this led to the decision to maintain this monotherapy treatment indefinitely.
+
+DIAGNOSIS
+Ischaemic heart disease. Acute coronary syndrome without ST-segment elevation, with single-vessel involvement of the circumflex artery, revascularised by implanting 1 stent. Preserved biventricular function.
+Very high cardiovascular risk: hypertension, dyslipidaemia and long-standing type 2 diabetes mellitus with poor metabolic control.
+Intolerance to metformin. Repeated urinary tract infections with iSGLT2.

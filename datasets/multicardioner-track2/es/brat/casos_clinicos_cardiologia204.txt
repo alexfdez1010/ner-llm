@@ -1,0 +1,67 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes personales
+Alergias: dudosa intolerancia a penicilina (síncope en la juventud tras penicilina IM), toxicodermia con ondasetrón.
+Factores de riesgo cardiovascular: no hipertensión. Dislipemia. No diabetes mellitus. Nunca fumador. No alcoholismo. Sobrepeso.
+Antecedentes cardiológicos: no refiere.
+
+Otros antecedentes:
+Poliposis nasosinusal en triada ASA (asma, poliposis nasal e intolerancia a ácido acetilsalicílico). Rinitis con ototubaritis derecha crónica con hipereosinofilia crónica. Adenocarcinoma prostático intervenido en 2012 con radioterapia posterior. Realiza controles y último PET-TC en mayo 2019 con adenopatías paraaórticas izquierdas sugestivas de recaída tumoral.
+Tratamiento habitual: triptorelina (agonista GnRH) semestral.
+
+Enfermedad actual
+Varón de 61 años que acude a urgencias. Refiere dolor centrotorácico tipo pinchazo, de intensidad leve, que aparece con la inspiración profunda desde hace un día. Los 5 días previos ha presentado sudoración nocturna, artromialgias, astenia y sensación distérmica con febrícula de hasta 37,5 oC. Presenta cuadro presincopal en relación con esta clínica, motivo por el cual acude a urgencias. No alteración del hábito intestinal, sin productos patológicos ni sangre en heces. Refiere un viaje a Japón hace 1 mes, sin ninguna incidencia remarcable.
+Se evidencia elevación de biomarcadores de daño miocárdico y en el estudio ecocardioscópico se observa un derrame pericárdico moderado, motivo por el cual ingresa en la unidad coronaria con sospecha de miocarditis.
+
+Exploración física
+Tensión arterial (TA) 105/70 mmHg, frecuencia cardiaca (FC) 70 lpm, Sat2O98% con aire ambiente. Presión venosa yugular normal. Auscultación cardiaca: rítmico, sin soplos ni ruidos patológicos. Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos. Abdomen: blando y depresible, no doloroso a la palpación profunda, no masas ni megalias, Blumberg y Murphy negativos. Extremidades: sin edemas en partes declives, pulsos periféricos conservados y simétricos, no signos de flebitis.
+
+PRUEBAS COMPLEMENTARIAS
+ECG:
+Urgencias: ritmo sinusal a 61 lpm, PR 160 ms, QRS 100 ms con eje a 0o, mínimo descenso del punto J en V3-V6, onda T plana en aVF.
+Al alta: ritmo sinusal a 70 lpm, PR 160 ms, QRS 100 ms con eje a 0o, sin alteraciones de la repolarización.
+
+Radiografía de tórax al ingreso ICT ligeramente aumentado, no infiltrados ni masas pulmonares, no pinzamiento de senos costofrénicos, no signos de congestión venosa.
+
+Analítica:
+Hemograma: hematíes 3,8 10*12/l, hemoglobina 11,8 g/dl, hematocrito 34,9%, VCM 91,8 fl, HCM 31,2 pg, CHCM 34 g/dl, ADE 14%, leucocitos 17,9 10*9/l, neutrófilos 5,8 10*9/l, linfocitos 0,4 10*9/l, monocitos 0,8 10*9/l, eosinófilos 10,9 10*9/l, basófilos 0 10*9/l, plaquetas 286 10*9/l, reticulocitos 1,14%, reticulocitos 43,3 10*9/l, VSG 33 mm/h. Morfología leucocitaria: presencia de algunos eosinófilos con alteración en la distribución citoplasmática de la granulación.
+Hemostasia: tiempo de protrombina (TP) 13,5 seg, índice de Quick 78%, INR 1,16, TTPA 30 seg, ratio (TTPA) 1,01, fibrinógeno de Clauss 498 mg/dl.
+Bioquímica: glucosa 97 mg/dl, sodio 140 mEq/l, potasio 3,9 mEq/l, cloro 105 mEq/l, magnesio 1,9 mg/dl, bilirrubina total 0,51 mg/dl, aspartato aminotransferasa GOT 37 U/l, alanina aminotranferasa GPT 25 U/l, gammaglutamil transferasa 23 U/l, urea 21,1 mg/dl, creatinina 0,78 mg/dl, FG estimado CKD-EPI >= 90 ml/min/1,73 m , ácido úrico 3,3 mg/dl, proteínas 5,1 g/dl, albúmina 2,9 g/dl, creatin fosfokinasa 274 U/l, lactato deshidrogenasa 521 U/l, proteína C reactiva 3,9 mg/dl.
+Metabolismo del hierro: ferritina 376 μg/l, hierro 36 μg/dl, capacidad total fijación Fe 184 g/dl, índice saturación transferrina 19,5%, capacidad latente fijación Fe 148,5 ug/dl.
+Perfil lipídico: colesterol total 134 mg/dl, triglicéridos 99 mg/dl, colesterol HDL 39 mg/dl, colesterol no HDL 95 mg/dl, colesterol LDLc 75 mg/dl, colesterol total / HDL 3,4.
+Biomarcadores de daño miocárdico: troponina I (hsTnI) 3.109 ng/l (0.0 - 19,8 ng/l).
+Inmunología: inmunoglobulina IgG 886 mg/dl, inmunoglobulina IgA 68 mg/dl, inmunoglobulina IgM 38 mg/dl, inmunoglobulina IgE total 988 KU/l, anticuerpos anticitoplasma neutrófilo negativo, ANA inmunofluorescencia negativo, patrón IFI negativo, factor reumatoide 22 U/ml, test de Coombs directo negativo.
+Complementemia: complemento C3 (suero) 108 mg/dl, complemento C4 (suero) 24 mg/dl.
+
+Proteinograma (suero): albúmina 49,8%, alfa 1 globulina 8,3%, alfa 2 globulina 14,4%, beta globulina 12,4%, gammaglobulina 15,1%, cociente albúmina/globulina 1, no se observa pico monoclonal.
+Vitaminas y hormonas: vitamina B12 308 pg/ml, ácido fólico 4,1 ng/ml, cortisol basal 15,2 μg/dl, tirotropina 0,57 uUI/ml.
+Marcadores tumorales: CEA 1,7 ng/ml, antígeno prostático específico PSA 0,0 ng/ml. Microbiología: Ac. antiStrongyloides stercolaris IgG negativo 0,80, hemocultivos negativos, coprocultivos negativos, antigenuria legionella y neumococo negativos, IGRA negativo.
+Evolución cifras de eosinófilos (día por día): 8,4 x109/l -> 10,9 x10 9/l -> 0,4 x10 9/l -> 1,2 x10 9/l -> 0,3 x10 9/l -> 0,9 x10 9/l -> 0,4 x10 9/l.
+Evolución de cifras de troponina I (ng/l): 1.095 -> 3.109 -> 6.549 -> 5.309 -> 5.398 -> 6.143 -> 6.779 -> 4.510 -> 1.753 -> hasta negativización.
+
+Ecocardiograma:
+Al ingreso: ambos ventrículos de diámetros y contractilidad normales (FEVI 60%, TAPSE 24 mm). Patrón diastólico normal. Presiones de llenado normales. AI y aorta normales. Prolapso ligero de valva anterior mitral, sin regurgitación. No datos de aumento de la PAPs. Derrame pericárdico moderado de predominio lateral y apical (máximo 17 mm posterior y 5 mm anterior). VCI normal. No signos de compromiso hemodinámico.
+Al alta: ventrículo izquierdo de diámetros, volúmenes y función sistólica global normales. Ausencia de alteraciones de la contractilidad segmentaria en reposo. Aurículas de tamaño normal. Patrón diastólico normal. Ausencia de valvulopatías significativas. Ventrículo derecho de diámetros normales con función sistólica conservada. Regurgitación tricúspide ligera que permite estimar una presión arterial pulmonar sistólica de 25 mmHg. Vena cava inferior normal. Derrame pericárdico ligero-moderado de distribución global, de predominio posterior y lateral (posterior 12 mm —especialmente posteroapical—, lateral 10 mm, anterior 5 mm), sin repercusión funcional significativa (variación respiratoria de la onda E de 12%).
+Cardio-RM: ventrículo izquierdo no dilatado (IVTDVI: 65 ml/m2), sin hipertrofia ni remodelado (61 g/m2), con función sistólica conservada y FE calculada por Simpson de 56%. Ventrículo derecho no dilatado (IVTDVD: 92 ml/m2) con buena función sistólica y FE calculada por Simpson de 65%. Aurículas normales. En secuencias potenciadas en T2 se observa edema en ápex. En las secuencias de perfusión se observa leve retraso de la perfusión en ápex. Derrame pericárdico ligero-moderado de predominio en cara lateral del ventrículo izquierdo con grosor telediastólico máximo de 18 mm. Realce tardío de gadolinio transmural en ápex (segmento 17). Se aprecia presencia de trombos intraventriculares en la zona de realce transmural.
+
+EVOLUCIÓN CLÍNICA
+Durante su estancia en la unidad coronaria destaca hipereosinofilia secundaria a poliposis nasosinusal (síndrome de triada ASA) que estaba presente en la mayoría de controles analíticos previos al cuadro. Se contacta con hematología que descarta expansión monoclonal y alteración de genes de fusión (tirosina-cinasa).
+Se realiza cardio-RM que muestra hallazgos compatibles con endomiocarditis eosinófila (o de Loeffler) con trombo intraventricular, por lo que se inicia tratamiento con metilprenisolona 1g IV y posterior cambio a prednisona 1 mg/kg/día, con paulatino descenso de cifras de eosinófilos y del derrame pericárdico. Además, se inicia enoxaparina a dosis anticoagulante.
+A las horas de administración de enoxaparina presenta reacción consistente en exantema eritematoso con aclaramiento central que compromete ambas flexuras inguinales, siendo categorizado por dermatología como SDRIFE (symmetric drug-related intertriginous and flexural exanthema) atenuado por corticoides, recomendando sustituir enoxaparina por bemiparina.
+En ecocardiografías posteriores se observa reducción del derrame pericárdico, localizándose sobre todo a nivel posterolateral, que no requiere drenaje.
+Dada la respuesta favorable y hallazgos compatibles en cardio-RM con síndrome hipereosinófilo idiopático con afectación cardiaca (endomiocarditis eosinófila), se desestima endomiocárdica para confirmación de cuadro dada la invasividad de esta prueba y la escasa experiencia en nuestro centro.
+La troponina I presenta meseta en 6.000 ng/l durante los primeros 6 días y posteriormente disminuye hasta su normalización.
+Durante su estancia en la unidad coronaria se mantiene hemodinámicamente estable, sin eventos arrítmicos y resolución de cuadro pseudogripal (artromialgias, febrícula...).
+Tras traslado a planta de cardiología presenta adecuada tolerancia a la deambulación y persiste asintomático, por lo que se procede a alta domiciliaria con ajuste terapéutico y seguimiento en consultas externas.
+
+Tratamiento al alta:
+Bemiparina 10.000 UI subcutáneo cada día como puente a acenocumarol.
+Acenocumarol según pauta.
+Prednisona 110 mg vía oral por la mañana y después de 4 semanas reducir la dosis 10 mg y posteriormente reducir 10 mg cada 3 semanas hasta llegar a dosis de mantenimiento de 5-10 mg durante 6 meses.
+Omeprazol 40 mg 1 comprimido al día.
+Suplemento de calcio 500 mg cada 12 h.
+
+DIAGNÓSTICO
+Endocarditis eosinófila o de Loeffler. Trombo intraventricular. Síndrome hipereosinófilo. Triada ASA.
+Toxicodermia por enoxaparina (SDRIFE).
+Adenocarcinoma prostático.

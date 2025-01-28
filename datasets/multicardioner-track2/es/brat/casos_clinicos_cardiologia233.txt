@@ -1,0 +1,52 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+
+Varón de 73 años.
+Sin antecedentes familiares generales o cardiovasculares de interés.
+No alergias medicamentosas conocidas.
+No hábitos tóxicos.
+Sin factores de riesgo cardiovascular conocidos.
+Hipopotasemia crónica (en analíticas previas registradas en el sistema informático destacan valores previos en torno a 3 mEq/l, posible tubulopatía renal). Sin antecedentes de cólicos renales, diarreas, toma de regaliz o dieta baja en potasio.
+Episodios previos de vértigo posicional paroxístico benigno.
+En control por dermatología por liquen plano y psoriasis.
+Lumboartrosis con discopatía L5-S1.
+Tratamiento habitual: omeprazol 20 mg: 1 comprimido al desayuno.
+
+Enfermedad actual
+Varón de 78 años que ingresa desde el servicio de urgencias a cargo de medicina interna por tumefacción de rodilla derecha no dolorosa desde hace 1 mes sin antecedente traumático y sin semiología inflamatoria adicional. Se realizó una anamnesis por aparatos siendo la misma anodina, sin clínica a nivel del sistema cardiovascular ni en el momento actual ni previamente (sin disnea, angor, síncopes, palpitaciones o clínica congestiva).
+
+Exploración física
+Paciente consciente y orientado. Bien perfundido, hidratado y nutrido. Eupneico en reposo.
+Cabeza y cuello: sin ingurgitación yugular. No adenopatías palpables. Orofaringe sin alteraciones.
+Auscultación cardiaca: rítmico, sin soplos ni extratonos.
+Auscultación pulmonar: murmullo vesicular conservado.
+Abdomen: blando, depresible, no doloroso a la palpación. No se palpan masas ni megalias.
+Sin signos de irritación peritoneal. Ruidos hidroaéreos conservados.
+Sin edemas ni signos de trombosis venosa profunda (TVP). Insuficiencia venosa periférica. Se aprecia tumefacción de ambas rodillas, sin eritema cutáneo ni aumento de temperatura local. Dolor leve a la movilización.
+
+PRUEBAS COMPLEMENTARIAS
+ECG realizado en el servicio de urgencias con magnesio 1,15 mg/dl y potasio 2,5 mg/dl: ritmo sinusal a 80 latidos por minuto. PR normal. QRS estrecho. Ascenso del segmento ST de 2mm en V1-V2 con morfología rectilínea y que cruza la línea de base, continuando con una onda T negativa y simétrica. QTc normal.
+Analítica realizada en el servicio de urgencias:
+Bioquímica: glucosa 121 mg/dl, urea 46 mg/dl, creatinina 0,85 mg/dl, GPT 63 U/l, bilirrubina 0,5 mg/dl, calcio 9,2 mg/dl, magnesio 1,15 mg/dl, albúmina 4 g/dl, sodio 138 mEq/l, potasio 2,5 mEq/l, PCR 131 mg/l, CK 70 U/l, LDH 317 U/l.
+Gasometría venosa (Fi02 21%): pH 7,48, pCO2 40 mmHg, pO2 48 mmHg, bicarbonato 30 mmol/l, exceso de base 5,8, lactato 1,7 mmol/l.
+Hemograma: hemoglobina 13,5 g/dl, plaquetas 252.000 por microlitro, 7.790 leucocitos por microlitro con 91% de neutrófilos y 5,4% de linfocitos.
+Hemostasia: TTPA 33 seg, tiempo de protrombina 92%, INR 1,1, fibrinógeno 652 mg/dl.
+Radiografía de rodillas: condocalcinosis bilateral, más llamativa en rodilla derecha.
+ECG realizado con corrección del magnesio y con potasio 3,1 mEq/l: ritmo sinusal a 75 latidos por minuto. PR normal. QRS estrecho. Ondas T negativas en V1-V2 con morfología Rsr' en V2. QTc normal.
+ECG realizado con corrección del magnesio y potasio: ritmo sinusal a 80 latidos por minuto. PR normal. QRS estrecho. Sin alteraciones agudas de la repolarización. QTc normal.
+Ecocardiografía transtorácica: hipertrofia ventricular leve. FEVI conservada.
+Test flecainida: tras infusión de flecainida a dosis de 2 mg/kg, el paciente desarrolla un patrón Brugada tipo 1.
+Test genético para síndrome de Brugada: negativo.
+
+EVOLUCIÓN CLÍNICA
+La gonalgia fue tratada con antiinflamatorio no esteroideo (AINE) con sospecha de crisis de pseudogota por probable condrocalcinosis con resolución completa del cuadro en varios días.
+Ante los hallazgos del ECG descritos, se procedió a corregir las alteraciones iónicas, evolucionando el patrón ECG tal y como se ve en las imágenes.
+El paciente permaneció plenamente asintomático desde el punto de vista cardiovascular, siendo dado de alta con controles posteriores en consultas externas de electrofisiología, con sospecha de fenocopia de patrón Brugada en contexto de alteraciones iónicas.
+De forma ambulatoria se realizó un test de flecainida con la administración intravenosa de dicho fármaco a dosis de 2 mg/kg en 10 minutos obteniendo un patrón Brugada tipo 1. Permaneció ingresado varias horas con telemetría sin objetivar eventos arrítmicos. Posteriormente, se realizó una ecocardiografía sin demostrar alteraciones destacables (FEVI conservada, sin valvulopatías significativas). Se realizó estudio genético de p canalopatías/miocardiopatías que resultó negativo.
+El paciente ha permanecido en sus 73 años de vida asintomático desde el punto de vista cardiovascular, sin haber registrado tampoco antecedentes reseñables familiares ni muertes súbitas. Se realizó asimismo una ecocardiografía sin demostrar alteraciones destacables (FEVI conservada, sin valvulopatías significativas). Por lo tanto, lo que en un inicio parecía únicamente una fenocopia de patrón Brugada, resultó ser finalmente un síndrome de Brugada verdadero.
+Se le informó del proceso actual y de los fármacos de uso prohibido, prohibición en la toma de alcohol-tóxicos y tratamiento rápido de la fiebre con antitérmicos, lo cual también ha quedado reflejado en su historia. En la actualidad ha comenzado asimismo el estudio familiar para control de sus familiares.
+
+DIAGNÓSTICO
+Síndrome de Brugada.
+Sin cardiopatía estructural (FEVI conservada).

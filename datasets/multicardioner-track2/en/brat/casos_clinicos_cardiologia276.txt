@@ -1,0 +1,51 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+A 52-year-old man consulted for chest pain.
+
+History
+No known drug allergies.
+Toxic habits: ex-smoker, 30 packs/year, quit in 2013. Drinker of > 100 g/day of alcohol until 2012. Former injecting drug user between 1987 and 1990.
+Currently abstinent.
+No known cardiovascular risk factors.
+Hepatitis C virus genotype 1a infection, cured with triple therapy with boceprevir in 2012. HIV serology negative. Secondary liver cirrhosis, CHILD-PUGH A.
+Admitted in 2016 for community-acquired pneumonia, CURB65 =1, FINE IV and secondary partial respiratory failure.
+Usual home treatment: not performed.
+Baseline functional status: active life, New York Heart Association (NYHA) functional class I
+(NYHA) FUNCTIONAL CLASS I.
+
+Current illness
+Consultation for episodes of oppressive non-radiating central thoracic pain, of one month's duration, unrelated to exertion, which subside spontaneously in approximately 5 minutes. They are associated with dyspnoea and occasional diaphoresis. She also reported syncope with a neuromediated clinical profile that had been evolving for years. In the last episode, unlike the previous ones, she presented chest pain on recovery.
+In the hospital emergency department, an initial assessment was performed, with an electrocardiogram (ECG) and serum markers of myocardial damage, which were normal. The patient was admitted to the cardiology department to complete the study.
+
+Physical examination
+Blood pressure (BP) 80/40 mmHg, oxygen saturation 97% without oxygen therapy. Conscious and oriented. Acceptable general condition, cachectic (45 kg on admission), normal colour. Eupneic at rest, without congestive symptoms. Cardiac auscultation: rhythmic, about 65 bpm, no murmurs or extratonos. Pulmonary auscultation: preserved vesicular murmur without added pathological noises. Abdominal examination was unremarkable. Lower extremities without oedema or signs of deep vein thrombosis.
+
+COMPLEMENTARY TESTS
+Emergency ECG: sinus rhythm at 60 beats per minute. Narrow QRS, morphology of incomplete right bundle branch block. No conduction or repolarisation disturbances.
+Normal QTc. A few hours after admission: sinus bradycardia at 50 bpm. PR 220 ms.
+QRS 120 ms. ST segment elevation of 2 mm in inferior face. ST-segment depression in V1-V4, aVR and aVL, maximum in V3 (5 mm) with deep negative T waves in V1-V3.
+Laboratory tests: normal haemogram and coagulation study. Biochemistry: renal function and ions normal. Hepatobiliary profile without pathological findings. Autoimmunity negative. Toxicity test: positive for benzodiazepines, negative for other toxins. Proteinogram with monoclonal IgM/Kappa band (M component: 0.24 g/dl). Basal cortisol: 0.7 g/dl. Synacthen
+Synacthen test: cortisol 13 g/dl (intermediate response).
+Chest X-ray: normal cardiothoracic index. Free costophrenic sinuses. No consolidation or parenchymal infiltrates.
+Emergent cardiac catheterisation: severe spasm of the left main coronary artery (LMCA), right coronary artery (RCA) and circumflex artery (CxA), with fine calibre of the entire coronary tree, which resolved with intracoronary nitroglycerine.
+Transthoracic echocardiogram: cardiac cavities of normal size and morphology. Mitral valve with a very redundant anterior leaflet, without associated prolapse. Moderate degree of insufficiency (regurgitant volume 23 ml and ORE by PISA 0.12 cm2). Normal left ventricular segmental contractility with LVEF 60% by Simpson biplane. Mild diastolic dysfunction with no evidence of increased filling pressures. Normal right ventricular function. Normal pericardium, no pericardial effusion.
+12-lead ECG performed on the cardiology ward after cardiorespiratory arrest: sinus rhythm at 65 bpm. Narrow QRS. Deep negative T waves V2-V6. Negative T waves of lesser magnitude in inferior face, I and aVL.
+Brain magnetic resonance imaging (MRI): no evidence of space-occupying lesion, haemorrhage or recent acute or subacute infarction.
+CT scan of the chest and abdomen with contrast: thickening of the duodenal papilla. Adenopathies of non-specific appearance in the lesser sac, mesentery and retroperitoneum. Bilateral pleural effusion with passive collapse of posterior basal subsegments. Nonspecific micro-nodule in the right lower lobe.
+
+
+CLINICAL EVOLUTION
+After being assessed in the emergency department with normal complementary tests, he was admitted to the cardiology ward to complete the study. A few hours after admission, he began to experience chest pain and the ECG showed ST elevation in the lower lobe. Urgent coronary angiography showed severe spasm of the left main coronary artery, right coronary artery and circumflex artery, with fine calibre of the entire coronary tree, which resolved with intracoronary nitroglycerine. After administration of intravenous nitroglycerine, no angiographically significant lesions were detected. Subsequently, he was admitted to the intensive care unit (ICU) where myocardial damage markers were normal and, after remaining stable for 48 hours, he was returned to the cardiology ward.
+Once on the ward, treatment was started with calcium antagonists (ACA) and nitrates, which were titrated to the maximum tolerated doses. Despite this, he presented with a new episode of precordial pain followed by cardiorespiratory arrest (CRA) in electromechanical dissociation.
+After advanced cardiopulmonary resuscitation manoeuvres for 10 minutes with the need for orotracheal intubation, he recovered a pulse in sinus tachycardia for 1 minute and subsequently presented with polymorphic ventricular tachycardia requiring urgent electrical cardioversion.
+He was transferred to the ICU where he again registered polymorphic ventricular tachycardia, requiring a new electrical cardioversion, with exit in sinus rhythm. After CRP, myocardial damage markers were serum tested and an enzyme curve was found compatible with acute myocardial infarction and electrocardiographic changes compatible with subendocardial ischaemia. A new urgent echocardiogram was performed with no changes with respect to the previous one. In the control analysis that had been drawn just before the CRA, renal function and ions, including potassium and magnesium, were normal. Subsequently, he required prolonged admission to the ICU due to haemodynamic instability requiring treatment with vasoactive amines.
+After achieving haemodynamic stability, he returned to the cardiology ward, where treatment was optimised with the addition of fluvastatin and high doses of calcium antagonists and nitrates, which were poorly tolerated due to hypotension. Despite this, the patient presented recurrent vasospasm crises (with electrocardiographic confirmation).
+In view of the severe vasospasm refractory to treatment, an extensive study was carried out to detect underlying pathologies that could be associated with or justify the recurrent vasospasm (metabolic, tumour, autoimmune, etc.). As the only findings during admission, the endocrinology department diagnosed partial adrenal insufficiency of pituitary origin due to moderate hypoosmolar hyponatraemia with clinical repercussions (drowsiness), which was corrected with hydrocortisone. In addition, a monoclonal IgM Kappa band was detected in the proteinogram.
+Finally, after ruling out a correctable cause associated with the recurrent vasospasm crises and given the lack of response and poor tolerance of nitrates, it was decided to withdraw the latter and empirically add cilostazol (phosphodiesterase-3 inhibitor) to the ACAs. After starting this treatment, the patient remained asymptomatic, with no new episodes of chest pain or vasospasm.
+After ruling out other possible causes of CRA, it was determined that there was a high possibility that CRA occurred in the context of prolonged vasospasm. Therefore, it was decided to implant an implantable cardioverter defibrillator (ICD) for secondary prevention.
+Once the ICD was implanted and the vasospasm crises were controlled, we progressively reduced cilostazol until complete withdrawal of the drug, after which the patient was asymptomatic and haemodynamically stable. At discharge, treatment with ACA and fluvastatin was maintained with excellent response, with no new events occurring in the first year of follow-up.
+
+DIAGNOSIS
+Recurrent vasospastic angina refractory to treatment.
+In-hospital cardiorespiratory arrest related to acute myocardial infarction secondary to vasospastic angina.
+Implantation of an implantable cardioverter defibrillator (ICD VR) in secondary prevention.
+Partial adrenal insufficiency of pituitary origin.

@@ -1,0 +1,55 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Antefatto
+Maschio di 27 anni, studente e candidato alle forze di sicurezza dello Stato. Corporatura atletica, senza abitudini tossiche o disturbi metabolici noti.
+
+Anamnesi cardiologica:
+Nessuna anamnesi cardiologica di interesse, nessuna storia familiare di malattie cardiache o morte improvvisa.
+
+Altri dati anamnestici:
+Adenocarcinoma infiltrante della giunzione rettosigmoidea T2N2, diagnosticato dopo studio dell'anemia cinque mesi prima dell'episodio. Trattato con rettosigmoidectomia laparoscopica un mese dopo la diagnosi. Attualmente in trattamento chemioterapico con oxaliplatino e capecitabina, dopo aver ricevuto un primo ciclo 15 giorni prima dell'arresto cardiorespiratorio.
+Sarcoidosi polmonare di stadio II, diagnosticata quattro mesi prima dell'episodio, in seguito a studi di estensione della neoplasia rettale. Diagnosi confermata dalla biopsia dell'adenopatia paratracheale e non trattata al momento dell'arresto cardiorespiratorio.
+Nessun altro trattamento medico oltre alla chemioterapia (oxaliplatino e capecitabina, con un primo ciclo effettuato 15 giorni fa).
+
+Malattia attuale
+Il paziente ha subito un arresto cardiorespiratorio durante una partita di calcio. All'arrivo dei servizi di emergenza è stata avviata la rianimazione cardiopolmonare avanzata (RCP) e il paziente ha presentato un ritmo defibrillabile di fibrillazione ventricolare. Dopo due shock e una singola dose di adrenalina, il paziente ha ripreso il ritmo ed è stato trasferito nel nostro ospedale sotto intubazione orotracheale (OTI) e ventilazione meccanica.
+Quando il paziente è stato interrogato durante la sua permanenza in reparto, ha riferito di non ricordare l'episodio. Ha negato qualsiasi manifestazione clinica precedente all'arresto cardiorespiratorio. Inoltre, non ha riferito sintomi precedenti di angina, dispnea o sincope e ha mantenuto la sua abituale classe funzionale NYHA I/IV senza alcun sintomo di insufficienza cardiaca.
+
+Esame fisico
+Il primo esame è stato eseguito all'arrivo nel reparto di terapia critica d'urgenza del nostro ospedale, con il paziente sedato, rilassato e sottoposto a ventilazione invasiva e OTI.
+La temperatura era di 36,8°C; la frequenza cardiaca di 100 bpm; la pressione arteriosa di 105/67 mmHg; la saturazione del 100% (OTI).
+È ben idratato, la pelle è calda e ben perfusa. Suoni cardiaci ritmici senza sovradiagnosi. Murmure vescicale conservato con ventilazione simmetrica in entrambi gli emitoraci e assenza di suoni sovradimensionati. Addome con cicatrice laparoscopica recente di buon aspetto. Morbido, senza masse palpabili o megaliti. Nessuna difesa alla palpazione. Estremità ben perfuse, pulsazioni presenti e simmetriche. Nessun segno di edema o trombosi venosa.
+
+ESAMI COMPLEMENTARI
+
+Esami di laboratorio:
+Biochimica: glucosio 83 mg/dl, urea 30 mg/dl, creatinina 0,94 mg/dl, velocità di filtrazione glomerulare > 90 ml/min/1,78 m , ione sodio 142 mmol/l, ione potassio 4,3 mmol/l, troponina T ultrasensibile 110 ng/l (VN < 14 ng/l), creatinchinasi 537 U/l (VN < 200 U/l), fosfatasi alcalina 49 U/l, AST 64 U/l, ALT 78 U/l, GGT 22 U/l, bilirubina totale < 1,0 mg/dl, colesterolo totale 142 mg/dl, HDL 35 mg/dl, trigliceridi 134 mg/dl, colesterolo LDL calcolato 80 mg/dl, HbA1C 4,9%, TSH 0,92 mU/l.
+Emocromo: emoglobina 16,3 g/dl, ematocrito 45,8%, globuli rossi 5,67x106/μl, leucociti 8.360/μl, neutrofili 7.110/μl, linfociti 680/μl, monociti 540/μl, eosinofili 8/μl, basofili 16/μl, piastrine 105.000/μl.
+Coagulazione: tempo di protrombina (PT) 11,8 sec; tempo di tromboplastina parziale (PTT) 24 sec; INR 1,04; fibrinogeno derivato 37 mg/l
+Tossicità delle urine: negativo per benzodiazepine, cocaina, metadone, oppiacei, metanfetamine, anfetamine, cannabis, ecstasy, barbiturici, antidepressivi triciclici. Sistema urinario e sedimento urinario: normali.
+Elettrocardiogramma (ECG) a 3 derivazioni (ritmo di arresto cardiorespiratorio): fibrillazione ventricolare.
+ECG a 12 derivazioni (arrivo al pronto soccorso dell'ospedale): tachicardia sinusale a 120 bpm. Onda P di dimensioni e durata normali. Segmento PR normale. Complesso QRS stretto, asse a 60o e transizione in V3 nelle derivazioni precordiali. Segmento ST senza soprasoglia. Onda T negativa nelle derivazioni laterali (V6, I e aVL) e nella faccia inferiore (II e aVF).
+
+Radiografia del torace: silhouette cardiaca di dimensioni normali. Allargamento mediastinico con adenopatie ilari bilaterali senza deviazione o compressione tracheale. Tubo endotracheale 2 cm sopra la carina tracheale. Nessuna ridistribuzione vascolare, versamento pleurico o pneumotorace. Camera gastrica distesa.
+Ecocardiogramma transtoracico: atri di dimensioni normali. Ventricolo sinistro (LV) leggermente dilatato con spessore normale, normale funzione sistolica globale e segmentale (LVEF 60%), normali pressioni di riempimento del ventricolo sinistro. Ventricolo destro di dimensioni normali, funzione sistolica conservata (TAPSE 31 mm). Valvole atrioventricolari normalmente funzionanti, senza evidenza di stenosi o insufficienza. Valvola aortica trivalve sottile, funzione normale. Valvola polmonare senza stenosi, con lieve insufficienza polmonare. Assenza di versamento pericardico. Flusso normale nell'aorta discendente e nell'aorta addominale.
+Tomografia computerizzata (TC) delle arterie coronarie: arterie epicardiche senza lesioni o alterazioni anatomiche congenite.
+Risonanza magnetica cardiaca (CMR): ventricolo sinistro leggermente dilatato (TVD 118 ml/m2 e STV 49 ml/m2), massa miocardica normale (104 g/m2) senza alterazioni della contrattilità e con funzione sistolica normale (EF 58%). Non si osservano aree di ipertrofia o non-compattazione. Nella sequenza STIR non si notano aree iperintense suggestive di edema intramiocardico. Nel segmento basale anterosettale e nella giunzione inferiore di entrambi i ventricoli si osservano diverse aree di late gadolinium enhancement (LGE) intramurali, compatibili con aree di cicatrizzazione intramiocardica. Ventricolo destro di dimensioni normali, con funzione sistolica conservata. Atrio sinistro leggermente dilatato (22 cm2) e atrio destro di dimensioni normali. Aorta, arteria polmonare e pericardio senza alterazioni.
+Tomografia a emissione di positroni con 18F-deossiglucosio (PET): adenopatie ipermetaboliche multiple localizzate nei comparti sovraclaveare, mediastinico e ilare compatibili con sarcoidosi polmonare di stadio II confermata. Nessun focolaio patologico ipermetabolico nel miocardio, sospetto di un coinvolgimento sarcoidotico acuto o di un altro tipo di infiammazione. Il resto dello studio non ha mostrato risultati di interesse.
+
+DECORSO CLINICO
+Un uomo di 27 anni ha presentato un arresto cardiorespiratorio extraospedaliero dovuto a fibrillazione ventricolare ripresa. Il paziente è stato ricoverato intubato nel reparto di terapia intensiva cardiaca dove è rimasto per 4 giorni ed è stato estubato nelle prime 24 ore.
+Successivamente è stato trasferito nel reparto di cardiologia per completare gli studi. Per tutta la durata della degenza è rimasto asintomatico dal punto di vista cardiovascolare, senza alterazioni del ritmo rilevate dalla telemetria. I suddetti studi sono stati eseguiti per giungere a una diagnosi e orientare il trattamento.
+Inizialmente, sono state prese in considerazione molte opzioni diagnostiche come possibili eziologie della fibrillazione ventricolare: cardiopatia ischemica, aritmie ventricolari in un cuore strutturalmente sano o anche la possibilità di una tossicità cardiaca dovuta al trattamento chemioterapico.
+Dopo lo studio ecocardiografico iniziale, la TC delle arterie coronarie e il successivo studio CMR, è stata confermata la presenza di fibrosi intramiocardica. Questo dato, insieme all'episodio di fibrillazione ventricolare e alla precedente diagnosi di sarcoidosi sistemica (tramite biopsia), ha confermato la diagnosi di sarcoidosi cardiaca e quindi la causa dell'arresto cardiorespiratorio.
+
+In assenza di dati di attività infiammatoria acuta nella CMR, e al fine di valutare un eventuale trattamento antinfiammatorio, si è deciso di completare gli studi con la PET-CT, che ha nuovamente escluso la presenza di attività infiammatoria intramiocardica.
+
+Per questo motivo, in accordo con l'unità autoimmune del reparto di medicina interna, è stato infine rifiutato il trattamento antinfiammatorio ed è stato impiantato un defibrillatore cardioverter impiantabile (ICD) sottocutaneo per la prevenzione secondaria della morte improvvisa.
+Ad oggi, il paziente rimane stabile e senza nuovi eventi aritmici.
+
+DIAGNOSI
+Arresto cardiorespiratorio extraospedaliero dovuto a fibrillazione ventricolare.
+Sarcoidosi cardiaca con cicatrici intramiocardiche ma senza evidenza di infiammazione intramiocardica attiva.
+Funzione sistolica del ventricolo sinistro conservata.
+Arterie coronarie senza lesioni o anomalie coronariche.
+Impianto di ICD sottocutaneo per la prevenzione secondaria.

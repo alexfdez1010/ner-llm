@@ -1,0 +1,48 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+51-year-old male admitted for out-of-hospital cardiorespiratory arrest.
+
+History
+Allergic to rifampicin. Hypertension of short evolution. No toxic habits. No previous cardiological history, no family history of heart disease or sudden death. No other history of interest.
+Usual treatment: losartan/hydrochlorothiazide 50/12.5 mg 1 tablet per day.
+
+Present illness
+Previously asymptomatic, on the day of admission he presented, while at work, a syncopal episode without previous symptoms, witnessed by a relative. No pulse was noted and basic cardiopulmonary resuscitation manoeuvres were started for 15 minutes. On arrival of the emergency services, orotracheal intubation was performed and advanced cardiopulmonary resuscitation manoeuvres continued for 20 minutes. AED recording showed ventricular fibrillation and after 5 defibrillation attempts and administration of 5 mg of adrenaline, 3 mg of atropine and 300 mg of amiodarone intravenously, the patient recovered a pulse, recording sinus rhythm with ST-segment elevation in leads V1-V5, DI and aVL.
+During transfer to the hospital, he suffered a new episode of cardiorespiratory arrest with pulseless ventricular tachycardia, this time recovering a pulse after a single electrical cardioversion.
+
+On arrival at the hospital, an urgent haemodynamic study was performed, which revealed epicardial coronary arteries without angiographically significant stenosis. In view of the results of the catheterisation, it was decided to perform a cranial CT scan without contrast and a chest CT scan with contrast to assess the pulmonary arteries and rule out other causes of cardiorespiratory arrest, ruling out intracranial haemorrhage, pulmonary thromboembolism and acute aortic syndrome.
+
+Physical examination
+Systolic blood pressure (SBP) 134 mmHg, diastolic blood pressure (DBP) 98 mmHg, heart rate (HR) 81 bpm. Afebrile. Intubated and connected to mechanical ventilation, SatO2 100% with FiO2 80%. No jugular ingurgitation. Negative hepatojugular reflux. Glasgow 8, under the effect of midazolam and cisatracurium used in the induction prior to orotracheal intubation. Rhythmic heart sounds without murmurs. Scattered rhonchi in both lung fields. Abdomen soft and depressible, not distended. Lower extremities without oedema, with femoral, popliteal, tibial and pedial pulses bilaterally present and symmetrical. Radial pulses preserved.
+
+COMPLEMENTARY TESTS
+Semiautomatic defibrillator (AED) recording: ventricular fibrillation. After electrical cardioversion, sinus rhythm at 75 bpm, QRS of 120 ms with intraventricular conduction disturbance, ST segment elevation from V1 to V5, DI and aVL, with specular decrease in inferior face.
+Electrocardiogram (ECG) on admission to the coronary unit: sinus rhythm at 80 bpm, narrow QRS with normal axis, no ST alterations, flattened T wave in limb leads.
+Venous blood gases (on arrival at our centre): pH 7.11, pCO2 67.9 mmHg, pO2 56.9 mmHg, HCO3 16.7 mmol/l, Sat O2 78%, lactic acid 5.4 mmol/l, pO2(a,T)/FIO2 56.9 mmHg.
+Biochemistry (admission): glucose 223 mg/dl, urea 49 mg/dl, creatinine 1.04 mg/dl, CKDEPI estimate 83 ml/min/1.73 m2, sodium 138 mmol/l, potassium 4.4 mEq/l, chlorine 106 mEq/l, calcium 8,2 mg/dl, magnesium 1.8 mg/dl, CK 359 IU/l, CKMB 50 U/l, ultrasensitive troponin 996.1 ng/l (normal < 15 ng/l), procalcitonin 6.45 ng/ml, C-reactive protein 8.3 mg/l.
+Haemogram (admission): leucocytes 23,300 /μl, 84% neutrophils, haemoglobin 17 g/dl, haematocrit 50%, platelets 302,000 /μl.
+Coagulation (admission): prothrombin rate 100%, INR 1, derived fibrinogen 361 mg/dl.
+Haemodynamic study (admission): coronary arteries without angiographically significant stenosis. Ventriculography: left ventricle with normal function, with LVEF 53% (TVD 144 ml and STV 67ml). Aortography: trivalve aorta without insufficiency or significant transvalvular gradient. Ascending aorta not dilated. No images suggestive of aortic dissection.
+Chest CT with contrast (admission): no signs of pulmonary thromboembolism.
+Pulmonary artery trunk and thoracic aorta of normal size. No pericardial or pleural effusion. Right hilar adenopathy of 1.5 cm, non-specific. Small ipsilateral ipsilateral lateroaortic and interlobar prevascular calcified adenopathies, probably residual. Lung apexes artefacted by respiratory movements.
+Endotracheal tube about 3 cm from the carina. The posterior segment of the LSD, part of the apical segment and posterobasal segments of the LID, as well as the apical and posterobasal segments of the LII are consolidated with air bronchogram (suggesting atelectasis), probably secondary to accumulation of secretions, decubitus or bronchoaspiration. Linear subpleural calcification in the posterior subsegment of the LSI of cicatricial or residual appearance. Secretions in proximal trachea. Marked dilatation of gastric chamber with hydro-aerial level in relation to previous CPR manoeuvres.
+CT scan of the brain without contrast (admission): no significant alterations.
+Echocardiogram: left ventricle of normal dimensions and geometry, with preserved ejection fraction (LVEF 60%). Right ventricle of normal dimensions, with normal systolic function. Morphologically normal valves, with trivial mitral insufficiency. No alterations of note.
+Chest X-ray (admission): normal cardiothoracic index, lung parenchyma and bronchovascular tract without alterations.
+Continuous electrocardiographic monitoring (second day of admission): sinus rhythm without repolarisation alterations. Progressive ST-segment elevation was observed in the only lead recorded, subsequently presenting sustained monomorphic ventricular tachycardia that degenerated into ventricular fibrillation with normalisation of repolarisation alterations after administration of intravenous nitroglycerine.
+MRI (12th day of admission): no global or segmental alterations in myocardial contractility. Late enhancement sequences without alterations.
+Normal first-pass myocardial perfusion study. Cardiac cavity diameters: VITD 50 mm, VITS 34 mm, LA 23 cm2, VDTD 40 mm, VDTS 31 mm, AD 22 cm2. Left ventricular function preserved, with LVEF 62%, with values indexed by body surface area (m2): VTD 125 ml, VTS 47 ml, stroke volume 78 ml. Flow artefacts compatible with mitral insufficiency (MI) and tricuspid insufficiency (TI), not significant. Conclusion: study within normal limits.
+
+CLINICAL EVOLUTION
+The patient was transferred to the emergency department of our centre due to out-of-hospital cardiorespiratory arrest. Given that he presented electrocardiographic alterations suggestive of acute coronary syndrome, urgent coronary angiography was performed showing coronary arteries without lesions, cranial CT and thoracic CT angiography, which ruled out acute pathology justifying the arrest. The patient was admitted to the cardiac critical care unit and therapeutic hypothermia was started. Echocardioscopy was performed, showing a left ventricle with preserved ventricular function and no abnormalities of contractility, with no significant alterations.
+On the second day of admission he presented a sudden rise in the ST segment recorded in the single lead of the continuous electrocardiographic monitoring, with a subsequent bout of sustained ventricular tachycardia that degenerated into ventricular fibrillation without haemodynamic compromise, which resolved after treatment with intravenous nitroglycerine. Given clinical suspicion of vasospasm, an urgent blood test and arterial blood gas analysis were performed, ruling out hydroelectrolyte alterations; even so, hypothermia therapy was withdrawn.
+During his stay in the cardiovascular critical care unit, the patient presented a febrile peak and parameters of infection of probable respiratory origin, which was resolved with antibiotic therapy with imipenem 1 g i.v. every 8 hours and linezolid 600 mg i.v. every 12 hours for 10 days. Given the good haemodynamic, neurological and respiratory evolution, the patient was extubated without incident on the eighth day of admission.
+
+After being discharged to the hospital ward, he made good progress. Cardiac magnetic resonance was performed, which was normal, ruling out structural heart disease.
+Prior to discharge, it was decided to implant a single-chamber automatic implantable cardioverter defibrillator (ICD) as secondary prevention, and he was discharged stable and asymptomatic.
+
+DIAGNOSIS
+Out-of-hospital cardiorespiratory arrest recovered due to ventricular fibrillation.
+Structurally normal heart.
+Acute coronary syndrome with non-persistent ST-segment elevation due to coronary vasospasm.
+Single-chamber ICD implantation for secondary prevention.
+Respiratory infection secondary to bronchoaspiration, resolved.

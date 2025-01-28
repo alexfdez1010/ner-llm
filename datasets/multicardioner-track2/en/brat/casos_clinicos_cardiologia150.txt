@@ -1,0 +1,24 @@
+Clinical history and current illness
+A 48-year-old man consulted for recurrent presyncopal symptoms related to exertion and subsequent recovery 'ad integrum' within a few seconds. He reported slight dyspnoea without accompanying chest pain or palpitations. In the previous months he had visited the emergency department on several occasions for episodes of fever, dyspnoea and dizziness and was discharged with a diagnosis of respiratory infection. His personal history included: chronic alcoholism, smoker with clinical criteria for COPD, hypertension on treatment with candesartan, deep vein thrombosis in the right lower limb in 2009 on treatment with acenocoumarol since then.
+
+Physical examination: good general condition, clinical and haemodynamic stability with adequate blood pressure control, maintaining O2 saturation of around 96% with O2 supply in nasal goggles at 2 bpm. Obesity. Eupneic at rest and during conversation, tolerating decubitus adequately. Normal neurological examination. Heart rhythmic, slightly tachycardic, without murmurs or extratonos. Generalised decrease in vesicular murmur with scattered wheezing in both lung fields. Abdomen soft, depressible, not painful on palpation and without visceromegaly. Slight oedema in both lower limbs, in the absence of signs of deep vein thrombosis.  
+
+Complementary tests
+- Chest X-ray: cardiomegaly with thickened pulmonary hilarity with a vascular appearance.
+- Electrocardiogram: sinus rhythm at 95 spm. Pulmonary P wave. Asymmetric negative T wave in III, aVF and from V1 to V4.
+- Haemogram: haemoglobin 16.6 g/dL, haematocrit 50.4%, MCV 99.5 fL. Rest of the study normal.
+- Coagulation: INR 2.85, PT 34.66 ́ ́, APTT 53.78 ́ ́ ́.
+- Biochemistry: creatinine 1.4 mg/dl, urea 57 mg/dl. Minimal mobilisation of ultrasensitive troponin T 88.78 ng/l with normal total CPK. Venous blood gas: pH 7.356, pCO2 45 mmHg, pO2 50 mmHg, EB -2 mEq/l. Rest normal.
+- Urine sediment: protein 320.8 mg/dl. Abundant hyaline cylinders.
+
+
+Clinical evolution
+Given the presence of minimal mobilisation of cardiac ferments in the analytical study and the electrocardiographic findings, the Chest Pain Unit was contacted and it was decided to perform urgent echocardiography, with the following results: non-dilated left ventricle with moderate concentric hypertrophy and preserved systolic function; dilated right ventricle with marked free wall hypokinesia with flattening of the interventricular septum and moderate systolic dysfunction; slightly dilated inferior vena cava with inspiratory collapse greater than 50%; absence of pericardial effusion. Chest CT angiography showed a partial repletion defect in the right pulmonary artery that most significantly affected the segmental artery of the right upper lobe, preserving its distal flow; emphysematous pattern of paraseptal location.
+The patient remains asymptomatic at all times. Anticoagulation was maintained according to the Thrombology Service guidelines and a venous Doppler study was performed, showing deep vein thrombosis (DVT) of both popliteal and posterior tibial veins, the thrombotic material being partially recanalised.
+In the control Doppler echocardiography, marked RV dilatation persisted with moderate systolic dysfunction and evidence of pulmonary hypertension. An autoimmunity study (ANA, ANCA, AntiDNA, anticardiolipin) was performed on the hospital ward and was negative. Studies of iron, thyroid, tumour markers, HIV, HBV, HCV and proteinogram were normal. Nephrotic syndrome was also ruled out as a cause of hypercoagulability by 24-hour urine study (0.5 g/l protein).
+Given the persistence of DVT despite anticoagulation with INR at therapeutic target and the diagnosis of pulmonary thromboembolism (PTE), an inferior vena cava filter implant was indicated. After discharge, the patient was referred to the Heart Failure and Pulmonary Hypertension department of our centre with suspicion of chronic thromboembolic pulmonary hypertension and to the outpatient haematology department for thrombophilia.
+
+Diagnosis
+- Pulmonary thromboembolism of the right main pulmonary artery. Clinical suspicion of recurrent pulmonary thromboembolism.
+- Secondary severe pulmonary hypertension. Suspected chronic thromboembolic pulmonary hypertension.
+- Bilateral deep vein thrombosis.

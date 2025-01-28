@@ -1,0 +1,45 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+ANAMNESI PERSONALE
+Nessuna allergia nota ai farmaci.
+Nessuna abitudine tossica.
+Ipertensione arteriosa essenziale in trattamento con due farmaci.
+Dislipidemia.
+Trattamento abituale: amlodipina 5 mg (1 compressa al giorno), ramipril 5 mg (1 compressa al giorno), atorvastatina 40 mg (1 compressa al giorno).
+
+MALATTIA ATTUALE
+Il paziente viene ricoverato nella stroke unit per 40 minuti di cefalea e perdita transitoria della vista nella metà sinistra del campo visivo. Nega sintomi infettivi.
+
+ESAME FISICO
+Segni vitali: pressione arteriosa 130/72 mmHg. Saturazione basale di ossigeno 98%, temperatura 36,8 ̊C.
+Paziente cosciente, orientato, vigile. Normoperfuso, normoidratato.
+Testa e collo: nessun ingorgo giugulare, nessuna rigidità nucale.
+Auscultazione cardiaca: ritmica, senza soffi.
+Auscultazione polmonare: murmure vescicolare conservato, nessun suono extra.
+Arti inferiori: pulsazioni presenti, simmetriche. Nessun edema o segno di trombosi venosa profonda.
+Esame neurologico: nomia e ripetizione conservate. Nessuna alterazione dei nervi cranici. Forza e sensibilità conservate. Nessuna dismetria o disdiadochinesi. Nessuna presenza di segni meningei.
+
+ESAMI COMPLEMENTARI
+Esami del sangue: glucosio 84 mg/dl. Creatinina 1,17 mg/dl. Velocità di filtrazione glomerulare 66,82 ml/min. Sodio 145 mm/l. Potassio 4,0 mm/l. AST 23 U/l. ALT 38 U/l. LDH 214 U/l.
+Fosfatasi alcalina 43 U/l. Emoglobina 15,8 g/dl. Piastrine 245.000/μl. Leucociti 7.800/μl.
+INR 0,99. HbA1c 5,5%. Anticorpi antinucleari (ANA), Beta-2 glicoproteina (IgM, IgG) cardiolipina (IgM, IgG): negativi. HIV (Elisa): negativo. Sifilide IgG, IgM: negativo.
+Elettrocardiogramma: RS, 70 bpm, PR 180 msec, QRS stretto, rettifica ST laterale.
+Radiografia del torace: indice cardiotoracico nella norma. Nessun infiltrato o condensazione. Nessun versamento pleurico.
+Tomografia computerizzata (TC) multimodale: TC cranica senza VSD: nessun segno precoce di ischemia acuta. Non vengono identificati focolai di emorragia intra/extra-assiale. ASPETTI (10/10). TC-perfusione (immagine 4): tempi aumentati nella regione occipitale destra. Angio-TC: extracranica: tronchi sovra-aortici permeabili, senza evidenza di stenosi significative. Intracranica: circolazione anteriore e posteriore permeabile. Grado di collateralità leptomeningea: buono (3/3 CS Collateral Score).
+RMN cerebrale: piccole lesioni ischemiche corticosottocorticali temporoccipitali destre in fase subacuta nel territorio dell'arteria cerebrale posteriore destra, iperintense in Flair/T2, ipointense in T1 e limitanti in diffusione (caratteristica delle lesioni subacute: 5 giorni).
+Ecocardiogramma transtoracico: ventricolo sinistro non dilatato con funzione sistolica conservata. Camere destre normali. Atri di dimensioni normali. Nessuna valvulopatia significativa o versamento pericardico. Setto atriale ipermobile. È stata somministrata soluzione fisiologica agitata e si è osservato un passaggio di bolle fin dal primo battito, compatibile con il forame ovale pervio (PFO).
+Ecocardiogramma transesofageo: setto atriale aneurismatico. PFO sia anatomicamente che per il passaggio di abbondanti bolle fin dal primo battito.
+Ventricolo sinistro non dilatato con funzione conservata. Camere destre normali.
+Atri di dimensioni normali. Nessuna valvulopatia significativa o versamento pericardico.
+Appendice atriale priva di trombi. Nessuna ateromatosi aortica significativa.
+
+EVOLUZIONE CLINICA
+Il paziente ha avuto una buona evoluzione neurologica, con recupero ad integrum del difetto visivo. È stato dimesso e indirizzato al reparto di cardiologia ambulatoriale per valutare la chiusura percutanea del PFO.
+Dopo una valutazione congiunta da parte di neurologia e cardiologia, è stata programmata la chiusura percutanea del difetto. In anestesia generale e sotto controllo ecocardiografico, il forame è stato chiuso. L'accesso è stato ottenuto attraverso la vena femorale destra. L'atrio sinistro è stato attraversato dal PFO con un catetere MP e un filo guida di supporto è stato fatto passare nella vena polmonare superiore sinistra.
+La guaina di rilascio Occlutech 9 F viene fatta avanzare e il dispositivo di chiusura Occlutech Figulla Flex II 30-27 mm viene fatto passare attraverso la guaina e posizionato a livello del setto atriale.
+Dopo aver verificato l'adeguato ancoraggio con l'ecocardiografia transesofagea, il dispositivo viene rilasciato con successo.
+
+DIAGNOSI
+Ictus ischemico criptogenetico temporo-occipitale destro.
+PFO.
+Chiusura del PFO con dispositivo Figulla Flex 30-27 mm.

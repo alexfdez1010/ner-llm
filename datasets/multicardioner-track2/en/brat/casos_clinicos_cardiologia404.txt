@@ -1,0 +1,36 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+BACKGROUND:
+69-year-old male, worked in indoor mining. No known drug allergies. Cardiovascular risk factors (CVRF): ex-smoker for 40 years, accumulated 25 paq/year. Ex-drinker. No known metabolic disorders.
+Meets criteria for antiphospholipid syndrome (APS) and partially for systemic lupus erythematosus (SLE). Segmental pulmonary thromboembolism (PTE) in 2015 for which she received anticoagulation with acenocoumarol.
+Cardiological history: in December 2017, acute non-ST-segment elevation myocardial infarction (NSTEMI) with 2-vessel coronary artery disease (AMD and PD) with partial revascularisation. On admission, transthoracic echocardiography (TTE) was performed and detected mild left ventricular hypertrophy (LVH) without valvular heart disease. Left ventricular ejection fraction (LVEF) preserved with normofunctioning right ventricle (RV). No family history of early sudden death.
+Treatment: acetylsalicylic acid (ASA) 100 mg, clopidogrel 75 mg, acenocoumarol, atorvastatin 80 mg, bisoprolol 2.5 mg, hydroxychloroquine, hydroxyzine and ranitidine.
+
+
+CURRENT ILLNESS:
+The patient attends the emergency department for chest pain. He reports that 2 hours before consulting and while sitting down after eating, he began to experience central thoracic oppression with irradiation to the left upper limb that reminded him of the previous STEMI, although of lesser intensity. He denied having had anginal episodes since revascularisation. Good adherence to the prescribed treatment.
+On arrival, an electrocardiogram (ECG) was performed which showed sustained monosystolic ventricular tachycardia (SMVT) that was well tolerated haemodynamically, so it was decided to perform pharmacological cardioversion with procainamide. After 700 mg in 100 mg boluses, the patient reverted to sinus rhythm. The patient was admitted to complete studies.
+
+PHYSICAL EXAMINATION:
+Blood pressure (BP) 140/80 mmHg. Heart rate (HR) 160 bpm. SatO2 without oxygen therapy 98%. Afebrile.
+Conscious, oriented and cooperative. Cardiac auscultation: rhythmic heart sounds, tachycardic, no murmurs. Pulmonary auscultation: preserved vesicular murmur, no added sounds. Abdomen: soft, depressible, not painful on palpation. Lower limbs well perfused, positive and symmetrical pulses. No neurological focality on examination.
+
+COMPLEMENTARY TESTS
+BIOCHEMISTRY: renal function and ions normal. Ultrasensitive troponin T 17 ng/l, without significant elevation (limit 35 ng/l).
+Haemogram: haemoglobin 14.9 g/dl, leucocytes 8170 with normal formula, platelets: 278000.
+CHEST X-RAY: normal cardiothoracic index with no evidence of acute pathology.
+ECG on arrival: VT with morphology of left bundle branch block (LBBB), inferior axis and V3-V4 transition.
+Postcardioversion ECG: sinus rhythm at 60 bpm, negative T in I and aVL and from V4 to V6.
+Baseline ECG (2015): SR at 65 bpm, negative T in I and aVL and from V4 to V6.
+Cardiac magnetic resonance (CMR): RV of normal size with dyskinesia in the anterior wall at mid-ventricular level and small sacculations of the free wall at subtricuspid level, right ventricular ejection fraction (RVEF) 44%. Normal sized LV with basal septal hypertrophy (14 mm) and mildly depressed LVEF. Small area of intramyocardial late enhancement at the inferior junction of both ventricles at mid level.
+TTE: mild LVH with preserved LVEF.
+
+CLINICAL EVOLUTION
+Given the morphology of the VT, suggestive of right ventricular outflow tract (RVOT), a CMR was performed to rule out myocardial eschar as the origin of the same and a slightly affected LVEF was observed, but an LVEF of 44% with small subtricuspid sacculations and an area of dyskinesia. An electrophysiological study (EPS) was performed, showing VT with LBBB morphology, inferior axis and transition in V3 and V4. In addition, a zone of maximum precocity is determined at this subtricuspid level where the tachycardia is terminated by performing an effective ablation. The patient remained asymptomatic and without new arrhythmic events at post-discharge follow-up.
+However, given the VT morphology, CMR alterations and baseline ECG characteristics, all minor criteria for RV arrhythmogenic dysplasia, the borderline diagnosis of arrhythmogenic right ventricular dysplasia (ARVD) is established.
+
+DIAGNOSIS
+TVMS of the anterolateral aspect of the RV cardioverted pharmacologically with procainamide and successfully ablated.
+2-vessel coronary artery disease with partial revascularisation.
+Slightly impaired LVEF.
+Possible arrhythmogenic RV dysplasia (3 minor criteria = borderline diagnosis).

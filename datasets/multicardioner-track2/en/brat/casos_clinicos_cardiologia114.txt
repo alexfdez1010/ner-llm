@@ -1,0 +1,18 @@
+We present the case of a 41-year-old patient who was referred to the clinic on the same day for assessment of a pathological ECG, which had been performed as part of the preoperative work-up for surgery on his right shoulder, where he was suffering from chronic pain.
+
+History, current illness and physical examination
+He did not suffer from any illness, except for pain in his back and right shoulder for which he took painkillers sporadically. He practised sport regularly and was in very good physical condition, although he reported greater fatigue in recent months. The patient showed an obvious absence of several phalanges in his left hand which was attributed, in the country of his birth (he was the son of seasonal agricultural workers), to possible maternal exposure to thalidomide. He also had other musculoskeletal anomalies, and claimed to have other relatives with some minor upper limb defects.
+Physical examination revealed pectus excavatum and other musculoskeletal abnormalities in the upper and lower extremities. On cardiac auscultation, there was a rhythmic heartbeat at 35 bpm, and a systolic murmur with fixed splitting of the second sound. No signs of heart failure. BP 100/60. The ECG showed the presence of complete AV block. Transthoracic echocardiography was performed and it was decided to place a definitive bicameral pacemaker and continue the patient's study.
+
+Complementary tests
+- Transthoracic echocardiography: It had shown dilatation of the right chambers, mild tricuspid insufficiency with a PAP of 50 mmHg and preserved ventricular function.
+Due to pectus excavatum, it was not possible to correctly visualise the atrial septum.
+- Chest CT angiography: showed dilatation of the right chambers and the pulmonary cone.
+- Transesophageal echocardiography: it was possible to verify the existence of a 21mm ostium secundum type atrial septal defect, with left-right shunt.
+- Traumatologic study: It reported the presence of pectus excavatum, glenohumeral subluxation in the right shoulder, patellar subluxation of the right knee, agenesis of several phalanges of the fingers of the left hand, radioulnar synostosis in the left elbow, pes cavus and agenesis of the distal phalanx of the first toe of the right foot.
+
+Clinical course
+Given the combination of musculoskeletal defects, complete AV block and ASD ostium secundum, a genetic study was requested. The family tree showed several cases of musculoskeletal defects and even some cases of sudden death. Genetic testing revealed a mutation (c.100-101insG) in the TBX5 gene, and a diagnosis of Holt Oram syndrome was made. Finally, the patient underwent surgery and the interatrial defect was closed using an autologous pericardial patch, without postoperative complications. To date, he remains asymptomatic cardiovascular.
+
+Diagnosis
+Holt Oram syndrome: Various musculoskeletal alterations, Ostium Secundum atrial septal defect and complete atrioventricular block.

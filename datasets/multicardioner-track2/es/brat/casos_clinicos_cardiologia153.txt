@@ -1,0 +1,22 @@
+Historia clínica y enfermedad actual
+Mujer de 46 años con antecedentes de hipertensión arterial y dislipemia. En seguimiento por cardiología en la niñez por patología que la paciente no sabe precisar, sin seguimientos posteriores. Comienza con cuadro brusco de alteración del lenguaje y parálisis facial inferior derecha. Ante ausencia de contraindicación y TAC cerebral (TC) normal se administra tratamiento fibrinolítico con alteplasa, con buena respuesta neurológica inicial. A las 3 horas presenta nuevo deterioro clínico por lo que se realiza nuevo TC cerebral que muestra hemorragia frontoparietal izquierda con pequeña hemorragia subaracnoidea asociada.
+En la exploración física al ingreso existe saturación O2 basal 88%, con signos de hipoperfusión periférica con cianosis labial. En la auscultación cardiaca tonos rítmicos con soplo sistólico eyectivo audible en todos los focos. Hipoventilación en tercio inferior hemitórax izquierdo en la auscultación pulmonar. En la exploración neurológica destaca afasia de expresión y paresia facial central derecha. Durante el ingreso persiste la cianosis labial con saturaciones de oxígeno bajas y síndrome de platipnea-ortodeoxia. Se realiza ecocardiograma transtorácico donde se objetiva válvula tricúspide con desplazamiento atrial e insuficiencia severa compatible con enfermedad de Ebstein. Además se objetiva un comunicación interauricular tipo ostium secundum (CIA-OS) en septo posterior con shunt bidireccional. A pesar del hallazgo de cardiopatía con alto riesgo embolígeno en el ecocardiograma se decide postponer el inicio de la anticoagulación oral debido al sangrado cerebral extenso.
+
+Pruebas complementarias
+• Analítica: normal.
+• Gasometría arterial: acidosis respiratoria compensada, SatO2 basal 77%.
+• Electrocardiograma: ritmo sinusal a 85 lpm, bloqueo de rama derecha.
+• TC cerebral inicial: normal. TC cerebral posfibrinolisis: hematoma frontoparietal izquierdo y pequeña hemorragia subaracnoidea asociada.
+• Ecocardiograma transesofágico: tricúspide con desplazamiento del velo septal de 38 mm e insuficiencia severa, severa dilatación de aurícula derecha (AD), contractilidad de ventrículo derecho (VD) normal, gradiente VD-AD 20 mmHg. Índice Celermajer 1,21. Flujo pulmonar y resto de válvulas normales. Comunicación interauricular (CIA) ostium secundum en septo posterior de 15 mm con shunt bidireccional, ausencia de borde superoposterior.
+• Radiografía tórax: cardiomegalia a expensas de cavidades derechas. Derrame pleural derecho.
+• AngioTC torácico: TEP derecho con infarto pulmonar extenso en lóbulo inferior.
+• Eco-Doppler de miembros inferiores: normal.
+
+Evolución clínica
+Durante el ingreso buena evolución neurológica con recuperación completa al final del mismo. La paciente presenta durante su estancia en planta episodios de desaturación de oxígeno cada vez más severos llegando hasta saturaciones de oxígeno del 67% basal que mejoran parcialmente con oxigenoterapia. La paciente refiere disnea progresiva hasta hacerse de mínimos esfuerzos, con limitación a la deambulación por el pasillo, que mejoran en decúbito supino. Dadas la cifras tan bajas de saturación de oxígeno, que la paciente nunca había presentado previamente, se sospecha patología pulmonar concomitante.
+Se realiza angio-TC torácico que muestra tromboembolismo pulmonar (TEP) derecho con infarto pulmonar extenso en lóbulo inferior. En el momento del diagnóstico habían transcurrido 10 días desde el sangrado cerebral. Ante el hallazgo del TEP se inicia tratamiento con acenocumarol con mejoría clínica y en la cifras de saturación de oxígeno. Desde entonces, buena evolución clínica, sin presentar nuevos sangrados cerebrales ni otras complicaciones embólicas. Dados los datos de IT severa, la CIA-OS amplia, el deterioro de la clase funcional y situación de embolia múltiple (ACV y TEP), se indica cirugía de reparación de válvula tricúspide y cierre de CIA que se llevan a cabo sin complicaciones. La paciente presenta buena clase funcional actual.
+
+Diagnóstico
+• Ictus frontoparietal izquierdo con transformación hemorrágica
+• TEP cardioembólico
+• Anomalía de Ebstein y CIA ostium secundum con shunt bidireccional

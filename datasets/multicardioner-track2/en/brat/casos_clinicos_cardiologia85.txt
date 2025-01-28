@@ -1,0 +1,26 @@
+History, current illness and physical examination
+A 61-year-old woman, with no cardiovascular risk factors or relevant medical history, attended her health centre for oppressive chest pain radiating to the back, associated with palpitations and dyspnoea, of one hour's duration.
+On arrival, he appeared to be in poor general condition with a heart rate of around 250 bpm and hypotension. An electrocardiogram was performed (figure 1), after which it was decided to call the emergency services and administer 300 mg of intravenous amiodarone. On arrival of the mobile ICU, the patient remained symptomatic and cardioversion had not been achieved.
+Given the presence of a tachyarrhythmia that was interpreted as ventricular tachycardia, poorly tolerated haemodynamically, it was decided to perform electrical cardioversion.
+After sedation, cardioversion was performed with three shocks (200-300-360 joules) without success, after which he was transferred urgently to his hospital of reference.
+
+
+Further tests
+analysis: haemogram: haemoglobin 11.7 g/dl, haematocrit 36%, leucocytes 9,000/uL, platelets 183,000/uL. Coagulation normal. Blood glucose 225 mg/dl, creatinine 1.2 mg/dl, sodium 138 mmol/litre, potassium 4.1 mmol/litre, magnesium 1.9 mg/dl, lactate 2.4 mmol/litre, calcium 8.3 mmol/litre and troponin T 130 pg/ml.
+venous blood gases: pH 7.16, pCO2 54, HCO3 19, BE -9.7.
+ʟʟ ECG
+
+Clinical evolution
+Admitted to the intensive care unit where treatment with intravenous lidocaine was started, achieving cardioversion with improvement in blood pressure. Once in sinus rhythm, the electrocardiogram showed a generalised decrease in the ST segment with an increase in aVR, so she contacted the cardiac critical care unit of our centre and was transferred for study.
+On arrival, the patient was asymptomatic and haemodynamically stable.
+On questioning, she denied previous episodes of chest pain or palpitations despite walking several kilometres daily. The baseline electrocardiogram showed pre-excitation.
+
+An echocardiogram was performed showing Ebstein's anomaly with lateral leaflet of the tricuspid valve with low implantation (1.4 cm from the mitral valve) not previously known. The right ventricle was slightly dilated with slightly depressed systolic function and moderate-severe tricuspid insufficiency.
+The tachycardia record was reviewed with the electrophysiology service and, given the suspicion that the patient had supraventricular tachycardia, probably pre-excited atrial fibrillation, it was decided to perform an electrophysiological study and ablation.
+The study detected three accessory pathways: right posteroseptal, left posteroseptal and right inferolateral, and these were effectively ablated.
+As a complication, she presented mild pericardial effusion that remained unchanged during her evolution on the ward, and she was discharged asymptomatic with outpatient monitoring.
+
+Diagnosis
+ʟʟ Wolff Parkinson White Syndrome
+ʟʟʟ Ebstein's Anomaly
+ʟʟ ʟʟ Severe tricuspid insufficiency

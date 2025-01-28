@@ -1,0 +1,26 @@
+Paciente deportista federado de 17 años de edad que consulta en el Servicio de Urgencias hasta en 6 ocasiones por episodios de desvanecimiento, llegando a la pérdida de conciencia en plena competición deportiva, desde hacía unos dos meses.
+
+Antecedentes, enfermedad actual y exploración física
+Antecedentes personales: Varón de 17 años de edad. Deportista federado. No alergias medicamentosas conocidas. No factores de riesgo cardiovascular. No hábitos tóxitos. No antecedentes personales ni familiares de cardiopatía.
+Enfermedad actual: Paciente deportista federado de 17 años de edad que consulta en el Servicio de Urgencias hasta en 6 ocasiones por episodios de desvanecimiento, llegando a la pérdida de conciencia en plena competición deportiva, desde hacía unos dos meses. Ante la presencia de síncopes de repetición en relación con el ejercicio el paciente ingresa en Cardiología para despistaje de causa cardiaca. Refiere además otros episodios de mareo y síncope de perfil vaso-vagal (síncope precedido de malestar abdominal, náuseas y mareo de segundos de duración). Como síntomas añadidos refiere cefalea ocasional que aumenta con la tos y el esfuerzo. No refiere disnea, dolor torácico ni palpitaciones. Ante la normalidad de las pruebas complementarias realizadas inicialmente (ECG, radiografía de tórax, ecocardiograma, monitorización ECG y ergometría), el paciente es dado de alta con el diagnóstico de síncopes de probable origen neuromediado, recomendándose no sobrepasar la frecuencia cardiaca máxima al realizar esfuerzo físico. A las dos semanas ingresa de nuevo tras presentar tres episodios sincopales, uno de ellos justo después de la realización de una ergometría, donde alcanzó los 197 lpm. Se refiere que al terminar la prueba, una vez que ya había finalizado el periodo de recuperación y se habían desconectado los electrodos del ECG, presenta síncope con hipotensión muy severa y sin dar tiempo a monitorización electrocardiográfica. El segundo episodio ocurrió tras haber jugado un partido de fútbol precedido de malestar abdominal, y finalmente el tercer episodio sucedió tras una ducha, tardando unos 4 minutos en recuperarse, según la familia. Para completar estudio se realizó una RNM cardiaca con vistas a descartar displasia arritmogénica, test de flecainida por simular el ECG un patrón de Brugada tipo II, un test de mesa basculante y un estudio neurológico dado lo prolongado del último episodio. La RNM cardiaca es informada como normal, así como el test de flecainida y el electroencefalograma.
+
+Se interconsulta con Neurología y solicitan una RNM craneal que da el diagnóstico al objetivar descenso de las amígdalas cerebelosas con rectificación del suelo del IV ventrículo. El paciente es dado de alta con el diagnóstico de malformación de Chiari tipo I.
+
+Exploración física: TA 90/50. FC 60lpm. Consciente y orientado. Normohidratado y normoperfundido. Eupneico en reposo. ACR: tonos rítmicos sin soplos audibles. MVC sin ruidos sobreañadidos. Abdomen: Blando, depresible, sin masas ni megalias. No doloroso a la palpación. Extremidades inferiores con pulsos conservados y simétricos.
+
+Pruebas complementarias
+• Exploración complementaria.
+• ECG: Ritmo sinusal a 75 lpm y bloqueo incompleto de rama derecha con elevación del punto J en precordiales derechas e intervalo QTc normal.
+• Rx de tórax: Índice cardiotorácico dentro de los límites normales. No signos congestivos.
+• Ecocardiograma: Ventrículo izquierdo no dilatado ni hipertrófico, con función sistólica global y segmentaria dentro de la normalidad. Aurícula izquierda no dilatada. Cavidades derechas normales. Llenado ventricular izquierdo con patrón normal. No anomalías valvulares ni pericárdicas. Raíz aórtica y aorta ascendente normal. Septo interauricular e interventricular íntegros. No gradiente en aorta descendente.
+• Ergometría: Se detiene por contractura gemelar, al 78% de la frecuencia cardiaca submáxima. No se evidencian eventos clínicos ni eléctricos de interés.
+• Test de flecainida: Es detenido a los 7 minutos de infusión (2/3 de dosis del fármaco) al notar el paciente mareo y sin ninguna alteración electrocardiográfica sospechosa de síndrome de Brugada. 
+• RM cardiaca: Ventrículo derecho no dilatado, con pared libre de grosor normal, sin irregularidades ni imágenes de pseudoaneurisma. Tampoco se aprecia infiltración grasa de la pared. No se aprecia disfunción del VD, con volúmenes y FE que se encuentran dentro de límites normales. 
+• Electroencefalograma: Actividad bioeléctrica cerebral de base, de características normales. No se observan anomalías paroxísticas focales ni generalizadas.
+• RM cerebral: Se aprecia descenso de amígdalas cerebelosas con rectificación del suelo del IV ventrículo. No se objetivan signos de hidrocefalia ni lesiones intracerebrales. Se confirma diagnóstico de Arnold-Chiari.
+
+Evolución clínica
+Se deriva a Neurocirugía y es intervenido mediante craniectomía suboccipital y laminectomía de C1. El paciente ha reanudado la actividad deportiva de forma progresiva sin volver a presentar nuevos episodios sincopales.
+
+Diagnóstico
+Síncopes de repetición en paciente con malformación de Chiari tipo I.

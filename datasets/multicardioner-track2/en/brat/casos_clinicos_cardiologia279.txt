@@ -1,0 +1,29 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+A 68-year-old woman was referred to the outpatient cardiology department for a cardiac mass found on computed axial tomography (CT).
+
+History
+No known cardiovascular risk factors. Independent for basic activities of daily living. Left renal neoplasm (clear cell carcinoma with sarcomatoid differentiation 80%, PT3A) with left nephrectomy in 2013 and reoperation for secondary eventration in 2017. Normofunctioning multinodular goitre, in evolutionary follow-up.
+No other history of interest and without usual pharmacological treatment.
+
+Current disease
+Previously asymptomatic cardiovascular patient, she presented with pain in the left hemithorax (VAS 4), with pleuritic characteristics, not triggered by exertion, of prolonged duration and appearing sporadically at rest. In the CT scan of renal neoplasia, a left ventricle-dependent mass was detected, with progressive growth, and the patient was referred to cardiology.
+
+Physical examination
+Blood pressure 120/80 mmHg. Heart rate 70 bpm. Eupneic at rest. Jugular venous pressure normal. Cardiac auscultation rhythmic, with protomesosystolic murmur II/VI in aortic focus with preserved second sound, pulmonary auscultation with preserved vesicular murmur, without added pathological noises. Abdominal examination with no significant findings. No oedema in the lower extremities, with preserved and symmetrical peripheral pulses.
+
+COMPLEMENTARY TESTS
+Electrocardiogram: sinus rhythm at 85 bpm, PR 160ms, QRS 100ms, cardiac axis -15o with HBAI, non-pathological septal Q wave, isolated negative T in V1 without other alterations.
+Analysis: leukocytes 6,600/μl, haemoglobin 14.2 g/dl, platelets 190,000/μl, glucose 93 mg/dl, urea 53 mg/dl, creatinine 0.91 mg/dl, MDRD-IDMS: > 60 ml/min, AST 16 IU/l, ALT 14IU/l, GGT 16IU/l, Na 141 mmol/l, K 4.4 mmol/l.
+Chest X-ray: normal cardiothoracic index. No mediastinal widening. No evidence of heart failure.
+Echocardiogram: left ventricle of normal size with preserved ejection fraction, without segmental contractility abnormalities. Right ventricle of normal size and function. Grade I diastolic dysfunction. Mild mitral regurgitation. Large mass of irregular echogenicity, paracardiac, in the posterior and lateral area of the left ventricle, which does not compromise ventricular function.
+Thoracic-abdominal CT with contrast: solid mass with heterogeneous attenuation and estimated maximum diameters of 6.3 x 5.5 x 3.8 cm (craniocaudal, AP and transverse axes respectively), dependent on the lateral and basal wall of the left ventricle, which imprints and slightly deforms the lateral wall of the left atrium. An asymmetric thickening of the left ventricular wall is observed coinciding with the location of the current lesion.
+Cardiac MRI: large mass in the lateral area of the left ventricle and atrioventricular groove (6.4 x 5.2 cm maximum diameter), affecting the full thickness of the wall and with a mass effect on the lateral aspect of the left atrium. Well-defined outline, with myocardial and pericardial infiltration.
+The signal is isointense on T1 enhancement, faintly hyperintense on T2 and markedly hyperintense on STIR, with evidence of intense vascularisation on first-pass images after intravenous gadolinium administration. Heterogeneous late enhancement, predominantly central, in the form of a ring surrounding the necrotic area.
+Pathology: the endomyocardial fragments show areas of infiltration by a tumour with a growth pattern in solid nests or irregular cords, with dense inflammatory response, and consisting of cells with rounded or lobulated nuclei with moderate anisokaryosis, and clato- or acidophilic cytoplasm. Focally the tumour adopts a rhabdoid pattern and morphology. Immunohistochemistry shows expression of CK AE1-AE3, vimentin and CD10 in neoplastic cells. Diagnosis: endomyocardial fragments with metastasis of renal cell carcinoma (sarcomatoid histopathological pattern, similar to that described in the patient's previous biopsy).
+
+CLINICAL EVOLUTION
+It was decided to extend the study with magnetic resonance imaging (MRI) to better identify the cardiac mass, with the results described above. Given the findings of the MRI and the patient's clinical history, metastatic implantation was suspected as the first option, and an endomyocardial biopsy was performed, which was found to be compatible with metastasis of renal cell carcinoma.
+Subsequently, the patient was referred to the oncology outpatient department, which started treatment with sunitinib 50 mg every 24 hours, 2/1 schedule, presenting growth of the cardiac mass and increased pericardial effusion after 5 months of treatment, so it was decided to start immunotherapy with nivolumab, achieving a complete tumour response, with regression of the cardiac tumour mass, with no evidence of progression at present.
+
+DIAGNOSIS
+Paracardiac mass with pericardial and intramural infiltration, compatible with metastasis of renal carcinoma.

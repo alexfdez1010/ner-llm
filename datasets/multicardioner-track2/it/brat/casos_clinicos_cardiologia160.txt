@@ -1,0 +1,21 @@
+Anamnesi e malattia attuale
+Uomo di 51 anni. Fattori di rischio cardiovascolare: ex fumatore, ipertensione dal 1998, diabete mellito di tipo 2 trattato con antidiabetici orali. Linfoma anaplastico a cellule T nel 2007 trattato con chemioterapia, radioterapia e autotrapianto condizionato con BEAM, attualmente in remissione completa. Sindrome da citopenia mielodisplastica refrattaria con displasia multilineare e cariotipo complesso, trattata con azacitidina come ponte per il trapianto di midollo osseo. Porpora trombopenica idiopatica. Nessuna allergia nota. Visita cardiologica nel 2006 con ECG, ecocardiogramma e test da sforzo normali. Di solito riferisce di essere asintomatico dal punto di vista cardiovascolare.
+Il paziente si è presentato al Pronto Soccorso per 3 giorni con febbre fino a 38,3°C, astenia, malessere generale e dolori generici. Inoltre, il giorno della consultazione, aveva iniziato con un dolore retrosternale opprimente di intensità crescente, che si irradiava alla schiena, alle spalle e alla mandibola, aumentando di intensità con l'ispirazione profonda e il decubito supino, con malessere e dispnea di accompagnamento e livelli di pressione arteriosa di 70/40 mmHg.
+L'esame fisico era normale, ad eccezione dell'ipoventilazione in entrambe le basi polmonari.
+
+Esami complementari
+- ECG: tachicardia sinusale con lieve innalzamento diffuso del segmento ST leggermente superiore al precedente e alterazioni aspecifiche della ripolarizzazione.
+- Gli esami di laboratorio hanno evidenziato un aumento dei parametri infettivo-infiammatori (CRP 32; procalcitonina 10); anemia macrocitica, piastrinopenia e leucopenia. Leggero aumento dei marcatori di danno miocardico: CPK 210; CPK MB 19 e troponina T 0,62. Insufficienza renale acuta (Cr 2,1) con diuresi conservata (GFR 36 mL/min). L'equilibrio acido-base e gli altri esami di laboratorio erano normali.
+- Ecocardiogramma Doppler urgente: sono state escluse alterazioni della contrattilità globale e segmentaria, versamento pericardico e patologia acuta.
+- TC del torace: ha escluso l'esistenza di una patologia aortica acuta, di una tromboembolia polmonare o di un processo infettivo significativo.
+
+
+Evoluzione clinica
+Durante il ricovero sono stati somministrati empiricamente antibiotici e antimicotici ad ampio spettro, senza isolamento microbiologico nelle emocolture, nelle urinocolture e nelle colture dell'espettorato. Anche le sierologie virali erano negative. È stato eseguito il monitoraggio dei marcatori di danno miocardico, con un massimo di troponina T di 1,59, CPK di 279 e CPK di 43 quattro giorni dopo il ricovero, con progressiva diminuzione e normalizzazione alla dimissione. È stato determinato il ProBNP, che ha raggiunto un massimo di 8319 pg/mL 5 giorni dopo il ricovero.
+In assenza di un focus infettivo, 5 giorni dopo è stato eseguito un ecocardiogramma transesofageo, che ha mostrato una funzione ventricolare sinistra borderline (LVEF: 0,45-0,50), senza immagini suggestive di endocardite o altri reperti significativi. È stato iniziato un trattamento con corticoidi, beta-bloccanti, ACE-inibitori e diuretici con un miglioramento clinico e analitico, con una funzione sistolica borderline che persisteva nell'ecocardiogramma alla dimissione. Consultato dieci giorni dopo, ha riferito di essere asintomatico dal punto di vista cardiovascolare. È stato sottoposto a un elettrocardiogramma di controllo in cui persistevano le suddette alterazioni, a un ecocardiogramma in cui si osservava un ventricolo sinistro dilatato con funzione sistolica borderline, senza versamento pericardico o alterazioni della contrattilità, e a un esame del sangue in cui persistevano una lieve trombopenia e una leucopenia, con parametri infettivologici-infiammatori normali.
+Il giorno successivo è stata eseguita una RMN del cuore con stress da adenosina, che ha mostrato segni compatibili con una miopericardite acuta e una funzione sistolica borderline, senza indurre ischemia miocardica. È stato mantenuto lo stesso trattamento e il paziente è stato fissato per una visita di controllo un mese dopo.  
+
+Diagnosi
+- Shock settico con focus non filtrato
+- Miopericardite acuta
+- Sindrome mielodisplastica di tipo citopenia refrattaria

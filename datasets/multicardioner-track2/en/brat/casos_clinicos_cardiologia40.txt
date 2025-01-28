@@ -1,0 +1,42 @@
+A 59-year-old male with a high fever (39o) of 2 days' evolution and an episode of convulsive crisis. He appears stuporous.
+
+BP 97/80 mmHg. Fc 132 bpm. SatO2 95%. Fr 22 rpm. Ta 34,2oC.
+
+Fulfils criteria of SEPSIS SERIOUS: Ta34,2o. Acute renal failure (Creatinine 2,2); elevated PCT and CRP (bacterial infection); Hypotension (97/80) with signs of poor perfusion (cold and sweaty), Metabolic acidosis (low bicarbonate), elevated lactate (hypoperfusion); Oligoanuria; very striking Plateletopenia (16.000); Tachycardia (AF at 132 x ́), Tachypnoea at 26 x ́(low pCO2). The FOCO is unknown.
+
+Let's go by parts:
+
+1) Sepsis-induced hypotension: 2,000 cc of Physiological Serum is administered and later in ICU 1,500 cc SF. -> maintains BP 105/75
+
+2) Atrial fibrillation at 130 x ́ -> AMIODARONE IV .... -> Sinus rhythm.
+
+3) Antibiotic? After 2 blood cultures -> MEROPENEM IV, -> CLOXACILLIN + CEFOTAXIME + CYPROFLOXACIN was chosen in ICU. -> and subsequently: CLOXACILLIN + DAPTOMYCIN -> currently CLOXACILLIN + GENTAMYCIN.
+
+4) Convulsive crisis that recurred after a few hours. CT scan: SUBARACHNOID HEMORRHAGE, probably related to plateletopenia or mycotic (= infectious) aneurysm -> start treatment with IV LEVETIRACETAM.
+
+5) Plateletopenia. -> Consultation with haematology: "does not meet criteria for TTP, HIT or haemophagocytic syndrome; ITP versus vasculitis is not ruled out in addition to the septic picture". Treatment was started with corticoids + platelet perfusion: a daily pool.
+
+6) Search for FOCO: transthoracic echocardiogram was performed: NO warts were visualised.
+
+7) Blood cultures positive for STAPHILOCOCCUS AUREUS (sensitive to methicillin)
+
+8) Transesophageal echocardiogram was carried out: an image of VERRUGE in the anterior leaflet of the mitral valve was visualised.
+
+9) Consultation with Cardiovascular Surgery: surgical treatment was ruled out at the present time due to SAH. Reassessment after 6 weeks.
+
+10) Appearance of purpuric lesions (ecchymotic) of probable embolic origin on the tips of the fingers and soles of the feet.
+
+After a week in ICU, she remained stable. She was transferred to the ward.
+
+DIAGNOSTIC JUDGEMENT:
+
+- Myxomatous myxomatous degeneration due to S. AUREUS.
+
+- SEVERE SEPSIS with RENAL FAILURE (corrected at discharge). SEVERE PLATELETOPENIA.
+
+- SUBARACHNOID HAEMORRHAGE. Generalised EPILEPTIC CRISIS
+
+- ACxFA (reverted to sinus rhythm)
+
+Commentary:
+Staphylococcus aureus: S.Aureus lives on human skin -> causes skin infections: folliculitis, impetigo, skin abscesses, furunculosis, mastitis, cellulitis, wound infection...(also surgical wounds)....

@@ -1,0 +1,44 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+ANAMNESI PERSONALE
+Nessuna allergia nota ai farmaci.
+Fumatore attivo di 20 sigarette al giorno (consumo cumulativo di 20 pacchetti/anno).
+Fattori di rischio cardiovascolare: ipertensione (HT) e dislipidemia. Assenza di diabete mellito di tipo 2 (DM2).
+Sindrome ansioso-depressiva.
+Interventi chirurgici: ernia inguinale sinistra e appendicite.
+Storia familiare di cardiopatia ischemica nel padre a 78 anni.
+Trattamento abituale: losartan 50 mg (1 compressa ogni 24 ore), simvastatina 40 mg (1 compressa ogni 24 ore).
+
+MALATTIA ATTUALE
+Il paziente è un uomo di 47 anni, con la storia personale precedentemente descritta, che una mattina d'estate, mentre lavorava nel suo campo, ha presentato un episodio di dolore toracico centrale, con caratteristiche opprimenti, che si irradiava alla gola, accompagnato da sudorazione fredda e nausea senza vomito. Non erano presenti sintomi di dispnea o palpitazioni. Il paziente conduce una vita attiva. Non aveva mai presentato in precedenza episodi simili a quello che ha richiesto la consultazione. Non erano presenti condizioni infettive o febbre. Nessun segno clinico di insufficienza cardiaca.
+Il paziente è stato assistito dai servizi di emergenza che lo hanno trovato emodinamicamente stabile con pressione arteriosa (BP) 135/85 mmHG, frequenza cardiaca (HR) 84 bpm, cosciente, orientato e collaborante. All'arrivo è stato eseguito un ECG che ha documentato un sopraslivellamento del segmento ST di 2 mm nella parte inferiore e V6, e il paziente è stato trasferito d'urgenza al nostro ospedale. Il dolore si è attenuato durante il trasferimento con nitroglicerina sublinguale.
+All'arrivo al pronto soccorso del nostro ospedale, il paziente era asintomatico dal punto di vista cardiovascolare. È stato eseguito un nuovo ECG che ha mostrato una normalizzazione delle alterazioni elettriche (nessun innalzamento del segmento ST). Il paziente è stato monitorato e la cardiologia di guardia è stata contattata per una valutazione urgente.
+Poiché il paziente è rimasto stabile dal punto di vista clinico ed emodinamico, senza alterazioni suggestive di ischemia sull'elettrocardiogramma e con un'ecocardiografia al letto del paziente normale (Vscan), si è deciso di non attivare il codice di infarto e il paziente è stato classificato come sindrome coronarica acuta senza sopraslivellamento del segmento ST (NSTEACS) a causa del sopraslivellamento transitorio del segmento ST.
+
+ESAME FISICO
+Alla valutazione cardiologica, il paziente era asintomatico dal punto di vista cardiovascolare, senza nuovi episodi di dolore toracico o altri sintomi anginosi.
+Emodinamicamente stabile con pressione arteriosa di 125/76 mmHg e frequenza cardiaca di 79 bpm. Eupneico a riposo e nel parlato, senza ossigenoterapia supplementare. Tolleranza del decubito a 0 ̊. Afebbrile.
+Auscultazione cardiaca: toni ritmici, nessun soffio udibile.
+Auscultazione polmonare: murmure vescicolare conservato, senza suoni patologici aggiunti.
+Arti inferiori: nessun edema, nessun segno di trombosi venosa profonda.
+
+ESAMI COMPLEMENTARI
+ECG con dolore: ritmo sinusale a 80 bpm, asse normale, PR 120 ms, QRS stretto con sopraslivellamento del segmento ST di massimo 2 mm nella faccia inferiore e in V6; diminuzione ST di 1 mm in V1 e aVR con onde T negative in queste derivazioni.
+Radiografia del torace: indice cardiotoracico normale. Seni costofrenici liberi. Nessuna evidenza di congestione polmonare. Nessuna evidenza di pneumotorace o consolidamento.
+Emocromo: glucosio 125 mg/dl, creatinina 1,05 mg/dl, ioni nella norma. Nessuna leucocitosi. Emoglobina 14,2 g/dl. Piastrine 235.000. Coagulazione senza alterazioni (INR 1,02). Marcatori di danno miocardico: TnTus 135 - 580 - 420 - 289 ng/l. CPK 320 - 450 - 177 - 102 mU/ml. Profilo lipidico: colesterolo totale 233 mg/dl, HDL 35 mg/dl, LDL 166 mg/dl, trigliceridi 156 mg/dl. Emoglobina glicata 5,1%
+Ecocardiografia al letto del paziente: il ventricolo sinistro non appare dilatato, con funzione sistolica qualitativamente normale (55-60%), senza alterazioni segmentali della contrattilità. Ventricolo destro con funzione sistolica qualitativamente normale. Radice aortica non dilatata (seni di Valsalva 36 mm), nessuna immagine del lembo visualizzata. Vena cava inferiore non dilatata, variazioni respiratorie. Assenza di versamento pericardico. Non si visualizzano valvulopatie di entità.
+Ecocardiografia: atrio sinistro di dimensioni normali (AP 37 mm, volume 19 ml/m2). Valvola mitrale normale, con foglietti senza coinvolgimento organico o insufficienza. Ventricolo sinistro con volumi normali (DTD 49 mm, VTD 125 ml, VTDi 70 ml/m2, VTS 55 ml). EF 59% senza alterazioni segmentali della contrattilità.
+Spessore miocardico normale, con setto di 8 mm e parete posteriore di 8 mm. Normale pattern di riempimento mitralico con onda E 78 cm/s e onda A 45 cm/s. Valvola aortica trivalve, con foglietti anatomicamente normali, senza insufficienza. Seno di Valsalva 36 mm. Ventricolo destro di dimensioni e contrattilità normali. TAPSE 22 mm, S" tricuspidale 12,7 cm/s. Valvola tricuspide senza insufficienza. Valvola polmonare con leggero getto centrale. Vena cava inferiore normale con adeguato collasso inspiratorio. Assenza di versamento pericardico. Nessuna evidenza indiretta di ipertensione polmonare (PH).
+Angiografia coronarica: arteria radiale destra. Arteria coronaria destra (RCA) ectasica con stenosi grave (90%) nel segmento medio, trattata con l'impianto di uno stent diretto a rilascio di farmaco (Synergy 4 x 38 mm) e post-dilatazione con palloncino non conforme (4,5 x 20 mm). Lieve ateromatosi dell'arteria discendente anteriore (ADA) e dell'arteria circonflessa (ACx).
+
+EVOLUZIONE CLINICA
+Il paziente è stato ricoverato nel reparto di cure intermedie di cardiologia. Durante la sua permanenza nel reparto, l'evoluzione è stata favorevole; è rimasto emodinamicamente stabile in ogni momento, senza nuovi episodi di dolore toracico o alterazioni elettriche. Il monitoraggio continuo non ha rilevato alcun evento aritmico.
+L'angiografia coronarica è stata eseguita 36 ore dopo il ricovero nell'unità, rivelando una lesione significativa nel segmento medio della RCA, che è stata rivascolarizzata mediante l'impianto di uno stent a rilascio di farmaco e la post-dilatazione con un palloncino. La procedura si è svolta senza complicazioni.
+Il trattamento medico è stato adeguato durante il ricovero, insistendo sulle misure di prevenzione secondaria della cardiopatia ischemica e, soprattutto, sulla cessazione del fumo.
+Alla dimissione è stato indirizzato all'unità di riabilitazione cardiaca, con il seguente trattamento: acido acetilsalicilico (ASA) 100 mg (1 compressa ogni 24 ore), ticagrelor 90 mg (1 compressa ogni 12 ore), atorvastatina 80 mg (1 compressa ogni 24 ore), losartan 50 mg (1 compressa ogni 24 ore), bisoprololo 5 mg (1 compressa ogni 24 ore), omeprazolo 20 mg (1 compressa ogni 24 ore), nitroglicerina sublinguale in caso di dolore toracico.
+
+DIAGNOSI
+Elevazione ST transitoria di tipo NSTEACS secondaria a grave lesione del RCA medio rivascolarizzata con 1 stent a rilascio di farmaco.
+Funzione ventricolare conservata.
+Ipertensione e dislipidemia.
+Fumatore.

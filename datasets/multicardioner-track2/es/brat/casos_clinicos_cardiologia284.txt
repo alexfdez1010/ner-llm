@@ -1,0 +1,39 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Hermano con miocarditis previa de repetición en el 2000, con diagnóstico clínico y sin seguimiento posterior.
+Sin antecedentes de muerte súbita ni de otras cardiopatías en familiares de primer grado. No presentaba alergias medicamentosas conocidas.
+Niega hábitos tóxicos.
+No presentaba factores de riesgo cardiovascular ni antecedentes médicos ni quirúrgicos de interés.
+
+Enfermedad actual
+Varón de 36 años que consultó por dolor centrotorácico, de carácter opresivo, no irradiado, que se inició en reposo y le despertó del sueño. El dolor se acompañaba de náuseas, sudoración y sensación de disnea y mejoraba discretamente al incorporarse en la cama. El paciente comentaba la presencia de fiebre y dolor faríngeo 2 días antes del inicio del cuadro.
+A su llegada al hospital se apreciaban alteraciones electrocardiográficas y elevación de marcadores de daño miocárdico en rango de infarto, por lo que se realizó una coronariografía urgente en la que no presentó lesiones coronarias.
+
+Exploración física
+Buen estado general, consciente y orientado en las 3 esferas. Estable hemodinámicamente. Eupneico en reposo. Normocoloreado, bien hidratado y perfundido. Afebril. Tensión arterial (TA) 151/84 mmHg, frecuencia cardiaca (FC) 72 lpm, SatO2 99% sin aportes. No signos de insuficiencia cardiaca. Auscultación cardiorrespiratoria: rítmico a buena frecuencia, sin soplos ni extratonos. Murmullo vesicular conservado, sin ruidos patológicos sobreañadidos. Abdomen: blando y depresible, no doloroso a la palpación. Sin signos de defensa ni irritación peritoneal. Miembros inferiores sin edemas ni signos de trombosis venosa profunda.
+
+
+PRUEBAS COMPLEMENTARIAS
+ECG de ingreso en planta: ritmo sinusal a 64 lpm. PR normal. QTc 441 mseg. Elevación del punto J de < 1 mm de V4 a V6. Onda T negativa de V4 a V6.
+Analítica de urgencias:
+Hemograma: leucocitos 10420 (1360 linfocitos), Hb 15,7 g/dl, plaquetas 182000. Bioquímica: glucosa 142 mg/dl, AST 42 U/l, función renal e iones normales, PCR 195,4 mg/l.
+Seriación enzimática: creatina quinasa 270 - 641 - 723 U/l, troponina T ultrasensible 500 - 1061 - 1744 - 1184 - 1225 ng/dl.
+Radiografía de tórax: normal. Índice cardiotorácico normal. No signos de congestión pulmonar, condensación ni derrame.
+Coronariografía: arterias coronarias angiográficamente normales. Salida anómala de la arteria coronaria derecha del seno izquierdo, sin lesiones angiográficamente significativas.
+Serología: negativo para VIH, sífilis yMycoplasma pneumoniae. Positivo para infección pasada por adenovirus, CMV, Echovirus, VEB, parvovirus B19 y Coxsackie.
+Analítica reglada:
+Bioquímica: glucosa 87 mg/dl, función renal e iones normales, LDH 388.00 U/l, perfil hepatobiliar sin alteraciones. Proteínas totales 7,7 g/dl. NT-proBNP 379 pg/ml. Proteína C reactiva 65,0 mg/l.
+Perfil lipídico: colesterol 210 mg/dl, LDL 153 mg/dl, HDL 26 mg/dl, triglicéridos 156,00 mg/dl.
+Hormonas tiroideas y HbA1c normales. Hemograma: tres series normales.
+Resonancia magnética (RMN) cardiaca: ventrículo izquierdo no dilatado ni hipertrófico, con movilidad global y segmentaria conservada. Fracción de eyección (FE) medida con el método Simpson: 68,8%. VTDVI de 140 ml, indexado por superficie corporal de 67 ml/m2, VTSVI de 44 ml, indexado por superficie corporal de 21 ml/m2. Masa miocárdica 119 g, indexada por superficie corporal de 57 g/m.Ventrículo derecho no dilatado ni hipertrófico, con movilidad global y segmentaria conservada; FE medida con el método Simpson de 81% VTDVD de 110 ml, indexado por superficie corporal de 53 ml/m. VTSVD de 21 ml, indexado por superficie corporal 22 de 10 ml/m. Ambas aurículas de tamaño normal (aurícula izquierda con área de 22 cm, indexada de 11 cm /m y aurícula derecha de 19 cm , indexada de 9 cm /m ). En la secuencia
+STIR presenta señal hiperintensa compatible con edema en los segmentos inferior y anterior basales y medios, lateral medio y en todos los segmentos apicales. En la secuencia de perfusión de primer paso no presenta defectos basales de perfusión. En la secuencia de realce tardío/viabilidad presenta fibrosis extensa de distribución subepicárdica e intramiocárdica, en los segmentos inferior basal y medio, anterior e inferolateral medios y en todos los segmentos apicales. Conclusión: miocarditis aguda con fibrosis extensa y función biventricular conservada.
+
+EVOLUCIÓN CLÍNICA
+Tras una evolución favorable durante el ingreso, nuestro paciente fue dado de alta, con inicio de 5 mg de enalapril al día. Pasados 4 meses durante los cuales estuvo asintomático, ingresa nuevamente por cuadro compatible con miopericarditis aguda (pico de troponina T ultrasensible de 2174 ng/dl), con gastroenteritis de probable origen viral como posible desencadenante. Se realiza un nuevo ecocardiograma transtorácico en el que se objetiva ligera hipoquinesia global con FE del 50%.Tras evolución satisfactoria se procede al alta, pautando colchicina como tratamiento preventivo de nuevas recidivas.
+Se realiza nueva RMN cardiaca de manera ambulatoria, en las primeras 2 semanas tras el alta, en la que se observa la persistencia de fibrosis extensa de distribución similar al estudio previo, así como fibrosis denovo a nivel del septo basal y medio (imágenes 5 y 6). Ambos ventrículos presentaban una morfología y unos volúmenes normales, sin detectase trastornos en la contractilidad segmentaria y la función sistólica biventricular estaba conservada. En las secuencias STIR y sangre negra no presentaba depósitos grasos intramiocárdicos y destacaba la presencia de importante edema a nivel del septo.
+Ante el resultado de la RMN, se solicita Holter de 24 horas en el que se objetivan extrasístoles ventriculares monotópicas aisladas con morfología de bloqueo de rama derecha con transición en V3 y eje superior y se decide aumentar las dosis de IECA (enalapril 5 mg/12 horas) e iniciar tratamiento betabloqueante (bisoprolol 2,5 mg/24 horas). Se cita a su hermano en nuestras consultas ante el antecedente de miocarditis de repetición, para realizar RMN cardiaca confirmándose la presencia de fibrosis subepicárdica en la pared libre del ventrículo izquierdo, compatible con miocarditis pasada.
+Finalmente, ante el patrón de fibrosis de la RMN junto con los antecedentes de familiar de primer grado con miocarditis de repetición, se plantea el diagnóstico diferencial entre miocarditis aguda de repetición con fibrosis extensa frente a miocardiopatía arritmogénica de ventrículo izquierdo y se decide solicitar estudio genético con panel de miocardiopatías que está aún pendiente de resultados.
+
+DIAGNÓSTICO
+Miocarditis aguda con fibrosis extensa y función biventricular conservada frente a displasia arritmogénica de ventrículo izquierdo con brotes miocarditliisk-e.

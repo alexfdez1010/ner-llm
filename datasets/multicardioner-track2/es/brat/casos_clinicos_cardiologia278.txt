@@ -1,0 +1,53 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Varón de 81 años.
+Factores de riesgo cardiovascular (FRCV): dislipidemia, hipertensión arterial, sobrepeso grado 2, diabetes mellitus tipo 2.
+Antecedentes cardiológicos: fibrilación auricular permanente anticoagulada con dabigatrán (150 mg/12 horas).
+Otros antecedentes: síndrome constitucional completo (pérdida de peso de 10 kg en últimos 4 meses, sudoración nocturna) de 2 años de evolución (sospecha de histiocitosis). Gastro/colonoscopia: negativos. PET: depósitos perirrenales de grasa con afectación de huesos de cadera y columna. Biopsia de grasa perirrenal: tejido fibroadiposo con leve infiltrado inflamatorio linfo-plasmocitario con aislados eosinófilos, perivascular y difuso. EPOC fenotipo mixto. Claudicación intermitente MMII.
+Tratamiento habitual: empagliflozina 10 mg 1 comprimido al día: metformina 850 mg 1 comprimido cada 12 horas; dabigatrán 150 mg 1 comprimido cada 12 horas; inhalador (salmeterol + fluticasona); atorvastatina 40 mg 1 comprimido al día; diltiazem 120 mg al día; dutasterida/tamsulosina 0,5/0,4 mg 1 comprimido al día; hierro oral; lorazepam 1 mg 1 comprimido al día; omeprazol 20 mg 1 comprimido al día, valsartán 80 mg 1 comprimido al día.
+
+Enfermedad actual
+Paciente ingresado a cargo del servicio de medicina interna (MIN) por empeoramiento progresivo de clase funcional hasta presentar disnea de mínimos esfuerzos (NYHA III), asociada a ortopnea, disnea paroxística y astenia intensa. No dolor torácico, ni palpitaciones. En estudio por serositis conocida (pleural) y astenia en síndrome constitucional seguido en consultas externas (CCEE) de MIN.
+Una vez ingresado en la planta de MIN presenta escasa mejoría con el tratamiento endovenoso pautado. A las 48 horas del ingreso presenta empeoramiento clínico importante y solicitan valoración por cardiología de guardia.
+
+Exploración física
+Taquipneico con mala tolerancia al decúbito, palidez mucocutánea, MEG.
+Tensión arterial (TA) 80/50 mmHg, Saturación O2 90% con GN a 3L/min, frecuencia respiratoria (FR) 28 rpm, frecuencia cardiaca (FC) 118 lpm.
+Ingurgitación yugular. Reflejo hepatoyugular positivo.
+Cardiopulmonar: ruidos cardiacos irregulares e hipofonéticos sin soplos. Ruidos respiratorios presentes con hipoventilación generalizada.
+Abdomen: globuloso, blando y depresible, doloroso a la palpación de forma difusa, no Bloomberg, no Murphy.
+Extremidades: no edemas en partes declives, no signos de trombosis venosa profunda (TVP). Signos de hipoperfusión distal.
+
+PRUEBAS COMPLEMENTARIAS
+Radiografía de tórax AP del 2019 previa al ingreso actual: silueta cardiomediastínica centrada sin ensanchamiento ni retracciones. Índice cardiotorácico (ICT) menor a 0,5. Campos pulmonares traslucidos sin evidencia de derrame pleural o condensación neumónica.
+Radiografía de tórax AP actual: silueta cardiomediastínica aumentada de tamaño con ICT mayor a 0,5. Infiltrado intersticial bilateral con redistribución del flujo vascular apical. Cisuritis derecha. Sin evidencia de derrame pleural o condensación neumónica.
+Electrocardiograma (ECG): fibrilación auricular a 145 lpm. QRS: 60 ms. EJE: -60o. Hemibloqueo anterior izquierdo del haz de His. Ondas T negativas en DI y aVL. Extrasistolia ventricular aislada. Bajs voltajes.
+
+Analítica sanguínea:
+Hemograma: hematíes 3,11 10*12/l. Hemoglobina 8,8 g/dl. Hematocrito 27,1%. VCM 87,2 fl. HCM 28,2 pg. CHCM 32,3 g/dl. ADE 15,3%. Leucocitos 8,9 10*9/l. Neutrófilos 7,9 10*9/l. Linfocitos 0,5 10*9/l. Monocitos 0,4 10*9/l. Eosinófilos 0,1 10*9/l. Basófilos 0,1 10*9/l. Plaquetas 539 10*9/l.
+Hemostasia (inicial): tiempo de protrombina (TP) 22,8 seg. Índice de Quick 31%. INR 1,97. TTPA 55.5 seg. Ratio (TTPA) 1,86. Fibrinógeno derivado 890 mg/dl.
+Hemostasia (posterior a administración de idarucizumab): tiempo de protrombina (TP) 15,8 seg. Índice de Quick 62%. INR 1,26 TTPA 23,4 seg. Ratio (TTPA) 0,79 Fibrinógeno derivado 700 mg/dl.
+Bioquímica: glucosa 125 mg/dl. Sodio 133 mEq/l. Potasio 3,8 mEq/l. Cloro 103 mEq/l. Bilirrubina total 1,54 mg/dl. Aspartato aminotransferasa GOT 69 U/l. Alanina aminotranferasa GPT 59 U/l. Fosfatasa alcalina 110 U/l. Gammaglutamil transferasa 80 U/l. Creatinina 2,20 mg/dl. Ácido úrico 4,8 mg/dl. Proteínas 7,2 g/dl. Creatin fosfokinasa 119 U/l. PCR 15,1 mg/dl.
+Perfil férrico: ferritina 54 μg/l. Hierro 94 μg/dl. Capacidad total fijación Fe 371 ug/dl. Índice saturación transferrina 12,3%. Capacidad latente fijación Fe 277 ug/dl.
+Marcadores de congestión: NT-proBNP 5700 pg/ml, Ag. carbohidrato 125 (CA125) 225 UI/ml.
+Perfil lipídico: colesterol total 319 mg/d. Triglicéridos 90 mg/dl. Colesterol HDL 72 mg/dl. Colesterol LDL 229 mg/dl. Colesterol Total / HDL 4,4.
+Hormonas: tirotropina (TSH) 1,77 uUI/ml.
+Ecocardiografía transtorácica (ETT) (vídeo 1): ventrículo izquierdo de diámetros conservados función global sistólica conservada (FEVI 64%). Aurículas de tamaño normal. Ausencia de alteraciones de la contractilidad segmentaria en reposo. Ausencia de valvulopatías significativas. Ventrículo derecho con contractilidad conservada. Insuficiencia tricuspídea (IT) trivial con PAPs 45 mmHg. Vena cava inferior dilatada de 24 mm sin colapso inspiratorio. Derrame pericárdico grave de distribución global con importante compromiso hemodinámico de cavidades derechas.
+
+EVOLUCIÓN CLÍNICA
+Al ser evaluado por el cardiólogo de guardia, el paciente se encontraba en estado deshock obstructivo secundario a un taponamiento cardiaco objetivado por ecocardiografía transtorácica. Se decide administrar volumen intravascular de manera cautelosa, asociar tratamiento con norepinefrina y traslado inmediato a la unidad de cuidados coronarios.
+Una vez en la unidad coronaria, se decide comprobar hemograma y hemostasia del paciente para realizar pericardiocentesis diagnóstica/terapéutica objetivando cifras inaceptables para dicho procedimiento sin riesgos hemorrágicos.
+Ante la persistencia del estado de shock obstructivo en el contexto de taponamiento cardiaco a pesar del tratamiento endovenoso pautado, se decide solicitar y administrar 2 ampollas de idarucizumab como antídoto para la anticoagulación del paciente. Se comprueba la mejoría de parámetros hemostáticos en analítica control que permitían realizar el procedimiento tras una hora de su administración.
+Se procede a la realización de pericardiocentesis diagnóstica/terapéutica guiada por ecocardiografía extrayéndose 650 cc de líquido serohemático con mejoría hemodinámica evidente. Se envían muestras del líquido pericárdico para ser estudiadas.
+En los días siguientes el paciente presentó una evolución favorable con estabilidad hemodinámica sin soporte vasoactivo/inotrópico y balances negativos y mejoría progresiva de signos clínicos y radiológicos de congestión.
+Se realizó ecocardiograma control objetivando mínimo derrame pericárdico residual sin datos de compromiso hemodinámico, por lo que se retira drenaje sin complicaciones tras constatar ausencia de débito tras 24 horas, se reintroduce dabigatrán y se decide alta médica.
+
+DIAGNÓSTICO
+Shock obstructivo en el contexto de taponamiento cardiaco.
+Derrame pericárdico grave complicado con taponamiento cardiaco.
+Reversión de anticoagulación por dabigatrán con idarucizumab para pericardiocentesis emergente.
+Pericardiocentesis con drenaje de 560 cc serohemáticos.
+Fibrilación auricular permanente anticoagulada con dabigatrán.
+Poliserositis en estudio.
+Síndrome constitucional en estudio, probable síndrome de Erdheim-Chester (histiocitosis esclerosante poliostótica).

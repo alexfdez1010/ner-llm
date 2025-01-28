@@ -1,0 +1,45 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Un uomo di 60 anni si è presentato al pronto soccorso del nostro centro per un dolore toracico.
+
+Anamnesi
+Il paziente presentava la seguente anamnesi:
+Fattori di rischio cardiovascolare: diabete mellito di tipo 2, non insulino-dipendente, in trattamento con due farmaci, con buon controllo metabolico (HbA1c 6,8%); ipertensione arteriosa ben controllata (pressione arteriosa domiciliare < 140/80 mmHg) con due farmaci.
+Nessun precedente cardiologico.
+Altra anamnesi rilevante: malattia vascolare periferica, con stenosi dell'arteria femorale superficiale destra e assenza di polso al pedale destro, trattata con angioplastica con palloncino a rilascio di farmaco con buoni risultati.
+
+Trattamento abituale:
+Sitagliptin + metformina 50/1000 mg, 1 compressa ogni 12 ore. Valsartan + amlodipina 40/10 mg, 1 compressa al giorno. Omeprazolo 20 mg, 1 capsula al giorno. Acido acetilsalicilico (ASA) 100 mg, 1 compressa al giorno.
+
+Malattia presente
+All'arrivo al pronto soccorso, il paziente ha presentato un dolore toracico centrale opprimente che si irradiava al collo e a entrambe le braccia, della durata di 2 ore dall'esordio a riposo, associato a sudorazione fredda. Nessun episodio simile precedente. Nessun sintomo suggestivo di angina da sforzo con attività fisica abituale.
+
+Esame fisico
+Pressione arteriosa 105/70 mmHg, frequenza cardiaca (FC) 100 bpm, saturazione di ossigeno 95% con aria ambiente. Pressione venosa giugulare normale. Auscultazione cardiaca: ritmica, senza soffi o suoni patologici. Auscultazione polmonare: murmure vescicolare conservato senza suoni aggiuntivi. Addome: morbido e depressibile, non dolente alla palpazione, senza masse o megaliti, Blumberg e Murphy negativi. Estremità: nessun edema agli arti inferiori, pulsazioni periferiche conservate e simmetriche, nessun segno di flebite
+In meno di 10 minuti è stato eseguito un elettrocardiogramma (ECG) che ha mostrato la presenza di una corrente lesionale subepicardica nella faccia inferiore, per cui è stato attivato un allarme emodinamico.
+
+ESAMI COMPLEMENTARI
+ECG all'arrivo al pronto soccorso: ritmo sinusale a 100 bpm. PR normale. QRS 90 ms. qS in V1. Innalzamento del segmento ST fino a 3 mm in DII, DIII e aVF con diminuzione speculare in DI e aVL.
+Radiografia portatile del torace: indice cardiotoracico leggermente aumentato in questa proiezione anteroposteriore. Nessun versamento pleurico, nessun segno di ridistribuzione vascolare. Nessuna condensazione.
+Angiografia coronarica urgente: dominanza destra. Arteria coronaria principale sinistra (LMCA) senza lesioni. Arteria discendente anteriore (AD) con grave lesione del 90% nel segmento medio. Circonflessa con lesione del 40% nel segmento distale. Arteria coronaria destra (RCA) con lesione lunga del 90% che inizia nel segmento prossimale e si estende al segmento medio. Buon letto distale. Si è deciso di eseguire un intervento coronarico percutaneo (PCI) sulla lesione della CC. Dopo la predilatazione con un palloncino semicompliante da 2,5 x 20 mm, è stato impiantato uno stent a rilascio di farmaco sirolimus da 2,75 x 30 mm con un buon risultato angiografico finale.
+Ecocardiogramma nell'unità coronarica: lieve ipertrofia del ventricolo sinistro (LV), con diametri conservati e LVEF leggermente depressa (Simpson BP 50%) secondaria a ipocinesia inferolaterale e mediobasale inferiore. Assenza di cardiopatia valvolare significativa. Riempimento transmitralico normale, pressione end-diastolica LV stimata normale (E/E' = 7). RV con diametri normali e funzione conservata. Assenza di insufficienza tricuspidale (TI) che consenta di stimare la pressione sistolica dell'arteria polmonare (PSAP). Vena cava inferiore (IVC) normale. Assenza di versamento pericardico.
+
+Esami di laboratorio ordinari:
+Emocromo: emoglobina 13,9 g/dl, senza leucocitosi o spostamento a sinistra. Piastrine 241 x 10^9/l.
+Emostasi: INR 0,99, TTPa 29,3 sec.
+Biochimica: glucosio a digiuno 118 mg/dl, sodio 139 mEq/l, potassio 4 mEq/l, creatinina 0,49 mg/dl (GFR > 90 ml/min/1,72 m2), NT-proBNP 266 pg/ml, proteina C-reattiva 0,7 mg/dl, HbA1c 6,8%, colesterolo totale 176 mg/dl, trigliceridi 102 mg/dl, colesterolo HDL 37 mg/dl, colesterolo LDL 119 mg/dl.
+Curva dei biomarcatori di danno miocardico (hsTnI, normale < 19,8 ng/l): 53 - 24.900 (sopra il limite di rilevazione) - 15.000 - 4.408 - 2.977 ng/l.
+ECG alla dimissione (immagine 3): ritmo sinusale a 65 bpm. PR normale. QRS 90 ms con asse a 60o. Onda T negativa in DII, DIII e aVF.
+Angiografia coronarica elettiva (video 4): buon risultato dello stent impiantato in CD. PCI sulla LAD: la lesione viene prediletta con palloncino SC 2,5 x 20 mm e NC 3 x 20 mm, impiantando uno stent a rilascio di farmaco zotarolimus 3 x 26 mm, con un buon risultato angiografico finale.
+
+EVOLUZIONE CLINICA
+Dopo aver riscontrato un sopraslivellamento del segmento ST nella faccia inferiore in un paziente con dolore toracico anginoso, è stata somministrata una dose di carico di prasugrel (il paziente era già in trattamento cronico con ASA 100 mg) ed è stato attivato il codice di infarto. L'angiografia coronarica urgente ha mostrato una malattia a tre vasi, con due lesioni gravi (nel MD e nel DCM) e una lesione moderata nella circonflessa distale (DC). Si è deciso di eseguire una PCI farmacologica costante sulla DC media, l'arteria responsabile dell'infarto (ARI), che è stata eseguita senza incidenti.
+Dopo l'angioplastica, il paziente è stato ricoverato nell'unità coronarica, dove è stato iniziato un trattamento con beta-bloccanti e lipidi, rimanendo asintomatico ed emodinamicamente stabile. Dopo 48 ore senza eventi aritmici, è stato deciso di dimetterlo dal reparto di cardiologia e, dopo una mobilitazione senza incidenti, dal suo domicilio.
+Il trattamento medico alla dimissione è stato:
+Acido acetilsalicilico 100 mg, 1 compressa al giorno. Prasugrel 10 mg, 1 compressa al giorno. Rosuvastatina 20 mg, 1 compressa alla sera. Dapagliflozin + metformina 5/1000 mg, 1 compressa ogni 12 ore. Nebivololo 2,5 mg, 1 compressa al giorno. Omeprazolo 20 mg, 1 capsula al giorno. Valsartan + amlodipina 40/10 mg, 1 compressa al giorno.
+Dopo la dimissione, il paziente è stato programmato 3 settimane dopo per un'angioplastica ambulatoriale elettiva sulla grave lesione dell'arteria discendente anteriore media, che è stata eseguita senza complicazioni.
+Dopo questo secondo intervento, il paziente è stato inserito nel programma di riabilitazione cardiovascolare del nostro centro.
+
+DIAGNOSI
+Infarto miocardico acuto con sopraslivellamento del segmento ST di sede inferiore. Killip I. Coronaropatia a tre vasi: CD media (ARI) 90%, DA media 90%, Cx distale 40%. PCI primaria con stentliberator a rilascio di farmaco sulla CD media. Seconda PCI ambulatoriale elettiva su una grave lesione della LAD centrale. Lieve disfunzione ventricolare sinistra (LVEF 50%).
+Malattia arteriosa periferica.
+Diabete mellito di tipo 2 con buon controllo metabolico. Colesterolo LDL superiore al target (< 50 mg/dl). Ipertensione arteriosa.

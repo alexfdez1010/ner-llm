@@ -1,0 +1,72 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Varón de 70 años.
+
+ANTECEDENTES:
+- No reacciones alérgicas medicamentosas conocidas.
+- Hábitos tóxicos: exfumador.
+- Hipertensión. No diabetes mellitus, ni dislipemias conocidas.
+- Sustitución valvular aórtica por doble lesión (prótesis mecánica Carbomedics no21) el 24 de septiembre de 1993. Múltiples complicaciones posteriores:
+9 de noviembre de 1993: pseudoaneurisma de aorta con compresión del ventrículo derecho (VD) y fístula aorto cutánea con osteolisis esternal. Se cierra la fístula a nivel aórtico y se practica una exéresis esternal y plastia de ambos pectorales con desinserción de los músculos del húmero (mioplastia de pectorales mayores). Requiere durante ese ingreso varias reintervenciones por sangrado en el contexto de coagulopatía, tanto de cirugía cardiaca como de cirugía plástica. Durante sus dos meses de ingreso en cuidados intensivos (UCI) desarrolla un cuadro de fracaso multiorgánico.
+23 de febrero de 1995: reintervención por dehiscencia de la prótesis (leak periprotésico) implantándose una prótesis St. Jude no21.
+
+- Pseudoaneurisma femoral poscoronariografía prequirúrgica.
+- Úlcera duodenal con sangrado digestivo en 1999.
+- Hematoma retroperitoneal espontáneo en el contexto de anticoagulación.
+- Ingreso en cardiología en septiembre de 2017 por síncope de perfil cardiogénico sin causa clara. Electrocardiograma (ECG) en ritmo sinusal con hemibloqueo anterior izquierdo del haz de His (HARIHH), ausencia de hallazgos en la monitorización con telemetría y ecocardiograma sin hallazgos relevantes con hipertrofia ventricular izquierda leve-moderada, función biventricular normal y prótesis aórtica normofuncionante. Por todo ello, se decide implante de Holter subcutáneo.
+
+-Otros:
+Otitis media aguda a repetición en ambos oídos, de predominio en oído izquierdo.
+Hiperplasia benigna de próstata.
+
+Tratamiento habitual: acenocumarol, bisoprolol 2,5 mg/24 horas, simvastatina 40 mg/24 horas, valsartán 160 mg/24 horas, dutasterida/tamsulosina 0,5/0,4 mg/24 horas.
+
+ENFERMEDAD ACTUAL:
+Ingresa el 7/12/2017 en la UCI polivalente tras presentar un traumatismo craneoencefálico (TCE) en el contexto de un nuevo episodio sincopal con amnesia del episodio, refiriendo los testigos traumatismo en región frontal y objetivar hipotensión y bradicardia. A su llegada a Urgencias el paciente está hemodinámicamente y respiratoriamente estable con tensión arterial (TA) 120/70 mmHg, INR de 4,65 y ritmo sinusal a 60 lpm. Se realiza TAC craneal que muestra hematoma subdural en hoz cerebral sin desplazamiento de línea media. Se interroga también el
+Holter subcutáneo que muestra durante el episodio bradicardia sinusal a 50 lpm sin pausas, por lo que no se recomienda implante de marcapasos. Durante su estancia en urgencias el paciente comienza con paresia del miembro inferior derecho, por lo que se repite el TAC, que muestra aumento del hematoma subdural y focos de hemorragia subaracnoidea, decidiéndose ingreso en UCI.
+Inicialmente cursa con hemiparesia derecha y crisis comiciales que requirieron intubación orotraqueal y traqueostomía quirúrgica. Se decide manejo conservador con buena evolución posterior, trasladándose a neurocirugía, quienes solicitan interconsulta a cardiología por el síncope y tendencia a bradicardia ya sin tratamiento betabloqueante, constatándose, en la revisión del Holter subcutáneo, múltiples episodios de bradicardia y rachas de bloqueo auriculoventricular (BAV) completo. Dada la presencia de estos episodios se decide traslado a cardiología para monitorización y valorar implante de marcapasos definitivo.
+
+EXPLORACIÓN FÍSICA (al ingreso en UCI):
+Cabeza y cara: herida de partes blandes en la región frontal derecha, sin sangrado activo. Sin otras lesiones. Cuello: no se identifican heridas, hematomas, ni deformidades. Tórax: Inspección: sin hematomas, buena mecánica respiratoria. No crepitación en la palpación. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos patológicos. Auscultación cardiaca: tonos apagados, rítmicos, click de apertura protésico, sin soplos ni extratonos. Abdomen: inspección: abdomen no distendido, no doloroso. Periné: no signos de hematoma, ni rectorragia. Espalda: no puntos dolorosos ni deformidades. Extremidades: no excoriaciones. No deformidades. No inestabilidad articular. Exploración neurológica: GSC 15 (M6, O4, V5). Pupilas isocóricas, normorreactivas. Motor: parálisis de miembro inferior derecho. Fuerza muscular miembro superior derecho 5/5, miembro superior derecho 5/5, miembro inferior izquierdo 5/5, miembro inferior derecho 0/5.
+
+
+
+PRUEBAS COMPLEMENTARIAS
+MICROBIOLOGÍA: hemocultivos (08/01/18): en dos sets Enterococcus faecalis con antibiograma: ampicilina/amoxicilina S <=1, gentamicina 500 S <=500, estrepto 1000 S < =1.000, vancomicina S 1, teicoplanina S <= 1. Hemocultivos posteriores negativos.
+
+ANALÍTICA:
+Al ingreso: destaca anemia normocítica normocrómica con Hb 9,7g/dl, plaquetas normales, leucocitos normales, con elevación de proteína C reactiva (PCR) 10,39 mg/dl, INR 5,22. Bioquímica con perfil renal sin alteraciones, incluyendo creatinina 0,45 mg/dl que supone un filtrado glomerular (CKD-EPI) > 90 ml/min, perfil hepático y perfil tiroideo normales.
+Al alta (06/03): PCR 0,73 mg/dl, sin leucocitosis ni neutrofilia, con Hb 10,2g/dl.
+ECG en urgencias: ritmo sinusal a 60 lpm. Eje izquierdo, QRS estrecho, HARIHH (similar a previos), sin alteraciones de la repolarización.
+TAC CRANEAL (07/12/18): hematoma subdural en hoz cerebral con niveles hematocrito. No existe desplazamiento de línea media. Cambios inflamatorios en oído medio izquierdo y senos maxilares.
+
+ESTUDIO ECOCARDIOGRÁFICO (11/1/18):
+TRANSTORÁCICO (ETT): ventrículo izquierdo no dilatado, con función sistólica conservada.
+Ventrículo derecho normal. Prótesis mecánica bidisco en posición aórtica: se aprecia movimiento de ambos oclusores con gradientes transvalvulares aumentados (máximo/medio 40/19 mmHg) sin sospecha de obstrucción (morfología triangular del jet, tiempo de aceleración de 70 ms, AT/ET 0,3, DVI 0,57). Válvula mitral: engrosamiento de velos, insuficiencia ligera. Válvula tricúspide: mala visualización, no se aprecia insuficiencia significativa a través de Doppler color. No signos indirectos de hipertensión pulmonar. Vena cava inferior no dilatada con colapso inspiratorio fisiológico (PAD estimada 5 mmHg). Raíz aórtica, aorta ascendente y cayado aórtico no visualizados. Septo interauricular íntegro, sin sospecha de shunt intracardiaco por Doppler color. Pericardio de grosor y refringencia normal, sin derrame. Conclusiones: aumento de gradientes tranprotésicos aórticos sin sospecha de obstrucción.
+TRANSESOFÁGICO (ETE): prótesis mecánica bidisco en posición aórtica con movimiento de ambos oclusores. Se visualiza insuficiencia intraprotésica de lavado con tres jets de regurgitación triviales. Imagen redondeada de 4 mm x 3 mm visualizada en cara aórtica de la prótesis sugerente de verruga. Engrosamiento de la zona posterior del anillo protésico, con extensión hacia fibrosa mitroaórtica, velo anterior mitral que está engrosado (a nivel de A1-A2) y hacia tabique interauricular, no se visualizan trayectos fistulosos. Válvula mitral con engrosamiento de velo anterior, No imágenes compatibles con vegetación. No insuficiencia mitral. Resto de válvulas sin imágenes compatibles con vegetación. Conclusiones: signos de EI: engrosamiento a nivel posterior de anillo aórtico, fibrosa mitroaórtica y de la base del velo anterior mitral sugerente de flemón. Verruga endocardítica de pequeñas dimensiones, visualizada en cara aórtica de prótesis aórtica.
+Prótesis aórtica normofuncionante.
+
+ETE de control (23/1/18): signos sugerentes de EI con progresión ligera respecto al estudio previo a nivel del anillo aórtico, pero sobre todo progresión a nivel de velo anterior mitral con imagen de verruga endocardítica. Prótesis aórtica normofuncionante. Insuficiencia mitral ligera.
+RM CRANEAL (15/01/18): múltiples microinfartos corticales agudos de localización supra e infratentorial. Dada la afectación multiterritorial, sugieren origen embólico. Disminución de tamaño de las contusiones parenquimatosas frontales izquierdas y del hematoma subdural.
+TC abdominal con contraste intravenoso (07/02/2018): aparición de infartos focales en riñón izquierdo, de probable etiología embolígena.
+ETE (16/02/2018): signos sugerentes de EI con abscesificación a nivel de anillo aórtico/fibrosa mitroaórtica, prótesis aórtica con gradientes normales, fuga periprotesica posterior relacionada a la zona abscesificada de grado moderado.
+
+EVOLUCIÓN CLÍNICA
+A su llegada a cardiología se objetivan picos febriles, creciendo en los hemocultivos Enterococcus faecalis. Así mismo, presenta urocultivo positivo para Citrobacter freundii (sensible a fosfomicina con lo que se trata). Ante los hallazgos de los hemocultivos se inicia tratamiento con ampicilina y ceftriaxona y se solicita un ecocardiograma para despistaje de endocarditis, el cual muestra engrosamiento a nivel posterior de anillo aórtico, fibrosa mitroaórtica y de la base del velo anterior mitral sugerente de absceso, visualizándose al mismo tiempo una verruga de pequeñas dimensiones en la prótesis aórtica, todo ello compatible con endocarditis. Como parte del protocolo de búsqueda de embolismos sépticos se realiza una angio-RM cerebral con resultado de múltiples micro infartos corticales agudos de localización supra e infratentorial (que sugieren origen embólico) y un TAC sin evidencia de otras embolias periféricas.
+Ante la presencia afectación local avanzada se presenta el caso en sesión médico-quirúrgica desestimándose la cirugía, dado el historial quirúrgico previo y la alta complejidad técnica.
+Se realiza un ecocardiograma de control tras 2 semanas de antibioterapia en el que se objetiva progresión respecto al estudio previo con aparición de un leak perivalvular aórtico que condiciona una insuficiencia aórtica ligera, desaparición de la verruga aórtica y aparición de una verruga a nivel mitral. En este contexto se decide añadir al tratamiento antibiótico tigeciclina por una mejor penetración en tejidos blandos.
+Posteriormente, en la cuarta semana de antibioterapia, desarrolla dolor súbito en flanco izquierdo con elevación de LDH y PCR, por lo que se realiza un nuevo TC abdominal que mostró la aparición de infartos renales izquierdos.
+Durante la sexta semana de antibioterapia, se realiza nuevo ecocardiograma transesofágico en el que se observa progresión de las lesiones valvulares con abscesificación a nivel de anillo aórtico/fibrosa mitroaórtica, que previamente se encontraba flemonosa, con desaparición de la verruga mitral y progresión de la cuantía del leak, que es moderado.
+No obstante, el paciente se encontraba estable, sin datos de insuficiencia cardiaca, síncope, ni nuevas alteraciones relevantes en el electrocardiograma ni en la telemetría, permaneciendo afebril con tres tandas de hemocultivos de control estériles (tras 1, 2 y 6 semanas de tratamiento antibiótico), completando ciclo antibiótico intravenoso durante 6 semanas de ampicilina y ceftriaxona y 4 semanas de tigeciclina con buena tolerancia. Desde el punto de vista neurológico, presenta franca mejoría con la rehabilitación, pudiendo realizar al alta ejercicios de motricidad gruesa y fina con miembro superior afecto y deambular con ayuda de un apoyo.
+Ante la buena evolución clínica y el empeoramiento ecocardiográfico, se decide antibioterapia ambulatoria con dalbavancina 1.500 mg intravenosa cada 15 días, una vez comprobada la adecuada tolerancia, tras administrar las dos primeras dosis intrahospitalariamente sin haber aparecido complicaciones, fiebre ni positivización de hemocultivos de control.
+Respecto al BAV completo paroxístico, se retira el tratamiento betabloqueante. Dada la presencia de endocarditis, se decide no implantar un marcapasos por el momento, manteniendo la monitorización mediante Holter subcutáneo y el seguimiento ambulatorio tanto por cardiología como por la unidad de enfermedades infecciosas, manteniéndose el paciente estable clínicamente hasta la actualidad.
+
+DIAGNÓSTICO
+Diagnóstico principal:
+EI por Enterococcus faecalis sobre prótesis aórtica mecánica con puerta de entrada indeterminada (bacteriemia), desestimado para tratamiento quirúrgico.
+Otros diagnósticos:
+Absceso mitroaórtico con insuficiencia aórtica ligera-moderada secundaria.
+Múltiples microinfartos cerebrales corticales e infarto renal izquierdo secundarios a EI.
+Anemia en el contexto de la EI.
+Hematoma subdural traumático y contusiones parenquimatosas frontales izquierdas en el contexto de traumatismo craneoencefálico tras episodio sincopal, con hemiparesia y crisis comiciales en fase aguda.
+BAV paroxístico.
+Infección de tracto urinario por Citrobacter freundii.

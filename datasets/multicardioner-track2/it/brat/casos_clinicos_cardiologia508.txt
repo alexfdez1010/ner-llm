@@ -1,0 +1,37 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Uomo di 54 anni senza abitudini tossiche e con un'anamnesi di ipertensione e dislipidemia. Assenza di diabete mellito. Frattura del 5° metacarpo. Sindrome depressiva reattiva. Ricoverato nel marzo 2017 per NSTEACS senza lesioni coronariche all'angiografia coronarica, essendo documentata fibrillazione atriale con successivo passaggio a RS. Funzione sistolica conservata.
+In trattamento all'ammissione con: atorvastatina 40 mg, lorazepam 1 mg, bisoprololo 2,5 mg, pantoprazolo 40 mg, adiro 100 mg, lorazepam 1 mg, escitalopram 10 mg.
+
+Malattia attuale
+Il giorno del ricovero, il paziente si è presentato al pronto soccorso per un episodio di dolore toracico opprimente e palpitazioni rapide a insorgenza improvvisa con irradiazione al collo. I sintomi sono stati precipitati da una lite. All'arrivo è stata osservata una tachicardia ritmica a QRS largo a 237 bpm. Il paziente è stato valutato al pronto soccorso e sottoposto a cardioversione elettrica per ottenere un ritmo sinusale stabile. È stato ricoverato per ulteriori indagini e trattamenti.
+
+Esame fisico
+All'arrivo al Pronto Soccorso: pressione arteriosa 101/65, frequenza cardiaca 190 bpm, saturazione di ossigeno 100. Cosciente, orientato, di colore normale e normoidratato.
+Eupnea. Non c'è ingorgo giugulare. Auscultazione polmonare: normoventilazione, nessun suono extra. Auscultazione cardiaca: toni ritmici, tachicardia.
+Addome morbido e depressibile, non dolente alla palpazione, senza segni di irritazione peritoneale. Peristalsi conservata. Arti inferiori: nessun edema o segno di TVP.
+
+ESAMI COMPLEMENTARI
+ECG all'ammissione: tachicardia a QRS largo. QRS 0,24. QS in I. Morfologia BRD. R in V1 a V4. R R" aVR QRS in V6 con morfologia rS. Visualizzazione di p" senza dissociazione a > 80 ms del QRS precedente.
+ECG alla dimissione: ritmo sinusale a 55 bpm, QRS stretto, nessuna anomalia di ripolarizzazione.
+Radiografia del torace: silhouette conservata. Nessun segno congestizio.
+Radiografia del torace alla dimissione: defibrillatore automatico con estremità distale dell'elettrodo sottocutaneo nella parete toracica. Graffette chirurgiche.
+Emocromo: Biochimica: glucosio 107 mg/dl, urea 37 mg/dl, creatinina 1,04 mg/dl, acido urico 5,00 mg/dl, trigliceridi 135 mg/dl, colesterolo totale 105 mg/dl, HDL 40 mg/dl, LDL 38 mg/dl, sodio 137 mEq/l, potassio 5,0 mEq/l, CK 56 U/L, FA 125 U/L, GGT 101 U/L, AST 29 U/L, ALT 54 U/L. Marcatori cardiaci (numeri di picco): troponina I 0,23 ng/ml. Funzione tiroidea: TSH 3,65 mIU/l, T4 0,65 ng/dl. -Emocromo: globuli rossi 4,67 millimetri/mm3, emoglobina 14,8 g/dl, ematocrito 43 %, MCV 92 fl, leucociti 6,6/mm3 (59 % N, 28 % L), piastrine 150 /mm3.
+
+
+Ecocardiogramma: dimensioni LV al limite superiore della normalità (tenendo conto della superficie corporea). Spessore parietale conservato.
+Funzione sistolica globale conservata (57% secondo Simpson ́s biplanare) e GLS -19%. Nessuna chiara asimmetria contrattile. Nessun dato conclusivo che suggerisca un'elevazione del LVOT. LA leggermente dilatato (volume biplanare 36 ml/m2). Camere destre normali. Radice aortica di dimensioni normali. MV e VAo senza alterazioni.
+Non rilevo l'IT in modo adeguato per stimare la PAP. Assenza di versamento pericardico o di masse intracavitarie per questa via di accesso.
+Risonanza magnetica cardiaca (CMR): miocardite acuta (LV) con edema (ipersegnale lineare subepicardico nei segmenti inferiore medio e apicale e laterale medio) e fibrosi (late enhancement lineare subepicardico nei segmenti anteriore basale e medio, laterale basale e medio, inferiore medio e apicale e inferosettale medio). Ventricolo sinistro moderatamente dilatato (DTD: 60 mm); con funzione sistolica normale (EF 52%). Funzione RV normale. Atri non dilatati. IA lieve.
+Studio elettrofisiologico: nessun risultato significativo. Nessuna evidenza di via accessoria o doppia via nodale. La stimolazione programmata non induce aritmie ventricolari.
+
+EVOLUZIONE
+Dal ricovero, il paziente ha avuto un'evoluzione favorevole senza nuovi episodi di aritmie.
+È stata eseguita una CMR che ha mostrato l'esistenza di edema miocardico e reperti suggestivi di miocardite acuta. Il caso è stato discusso con l'Unità di
+Unità Aritmie, che ha deciso di impiantare un ICD sottocutaneo. L'ICD sottocutaneo modello EMBLEM MRI è stato impiantato senza complicazioni o incidenti. Il sistema impiantato è stato controllato per verificarne il corretto funzionamento. Tollera la deambulazione senza limitazioni.
+I livelli di tensione tendevano a essere al limite basso, quindi è stato adattato il trattamento con beta-bloccanti e ARAII, con una buona tolleranza, asintomatica.
+In una situazione di stabilità clinica si è deciso di dimetterlo dall'ospedale.
+
+DIAGNOSI
+Tachicardia ventricolare sostenuta nel contesto di una miocardite acuta.

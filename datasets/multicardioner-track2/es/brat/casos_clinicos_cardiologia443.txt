@@ -1,0 +1,29 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 51 años sin alergia medicamentosas conocidas, no factores de riesgos cardiovascular.
+
+Antecedentes cardiológicos: cardiopatía congénita tipo anomalía de Ebstein. Síndrome de Wolff-
+Parkinson-White (WPW) intermitente diagnosticado a los 18 años. Seguida en consulta externa de cardiología, en clase funcional habitual II-III/IV de la New York Heart Association (NYHA).
+Episodios de taquicardia paroxística supraventricular (TPSV) ortodrómica. Estudio Holter (octubre/2016): ritmo sinusal sin eventos arrítmicos. No toma ningún tratamiento de forma habitual.
+Ingresa en hospital comarcal por empeoramiento progresivo de su clase funcional en los 3 últimos meses con disnea progresiva hasta hacerse de mínimos esfuerzos. Refiere cuadro de infección de vías respiratorias altas (un mes antes del ingreso), coincidiendo con empeoramiento de la disnea hasta hacerse de reposo y ortopnea. No otra sintomatología. Durante su ingreso en el Hospital El Bierzo se inicia tratamiento depletivo por insuficiencia cardiaca congestiva con tendencia a la hipotensión. Se solicita traslado a nuestro centro para completar estudios y valorar opciones de tratamiento. Cuando es valorada en nuestro servicio refiere astenia intensa con mejoría de la disnea.
+Tensión arterial 124/88 mmHg, frecuencia cardiaca 80 lpm. Cianosis. Acropaquias. Saturación de oxígeno basal en decúbito supino de 80%, en sedestación de 65%. Presión venosa yugular normal. Auscultación cardiaca: rítmica, soplo sistólico en foco tricúspide III/VI, holosistólico.
+Auscultación pulmonar: murmullo vesicular conservado sin ruidos sobreañadidos. Abdomen blando, depresible, no doloroso a la palpación. No se palpa hepatomegalia ni otras masas.
+Extremidades inferiores sin edema, sin signos de trombosis venosa profunda y con presencia de pulsos periféricos simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal a 75 lpm. PR 200ms. Qtc 480ms. Bloqueo de rama derecha de haz de His (BRDHH). Predominio de componente positivo de onda P en V1.
+RADIOGRAFÍA DE TÓRAX: cardiomegalia, sin signos de redistribución vascular. Senos costofrénicos libres. No condensaciones.
+ANALÍTICA: hemograma: leucocitos 9000 mil/mm3 (N 78%, L 11%), Hb 13,9 g/dl, hematócrito 41,7%. VCM 92,4 fl, plaquetas 114000/mm3, haptoglobina 100 mg%. Coagulación: INR 1,2, TP 72%, TTPa 32 segundos. Bioquímica: glucosa 87 mg/dl, urea 30 mg/dl, creatinina 0,98 mg/dl (FG 60), colesterol total 108 mg/dl, HDL 31 mg/dl, LDL 64 mg/dl, triglicéridos 64 mg/dl, GOT 24 U/l, GPT 2624U/l, bilirrubina total 0,72 mg/dl, NT-proBNP 207 pg/ml. Gasometría arterial: pH 7,53, PCO2 30,4, PO2 51, bicarbonato 25,2.
+ECOCARDIOGRAMA: ventrículo derecho gravemente dilatado, con depresión de la contractilidad. Ventrículo izquierdo de tamaño normal con función conservada. Dilatación grave de aurícula derecha (AD) con tabique interventricular que abomba hacia la izquierda. Válvula pulmonar de velos finos con apertura normal. Flujo posvalvular de 1 m/s con flujo Doppler de ramas simétricas. Válvula tricúspide con morfología de Ebstein, implantación más apical del velo septal, a 48 mm del anillo mitral, con regurgitación IV/IV. Morfología triangular en Doppler espectral, con velocidad máxima de 2,4 m/sg. Válvulas mitral y aórtica normales. Tras la inyección de suero agitado, presenta abundante paso de burbujas a cavidades izquierdas, de manera espontánea, presentando durante el procedimiento un síncope, con recuperación posterior progresiva y cefalea. No se aprecia evidente comunicación interauricular (CIA), por lo que se atribuye a FOP. Conclusión: enfermedad de Ebstein, insuficiencia tricuspídea IV/IV con disfunción ventricular, cortocircuito derecha-izquierda por probable FOP.
+ESTUDIO HEMODINÁMICO (arteria femoral derecha): en ventriculografía se objetiva cortocircuito de derecha izquierda. Se comprueba tras oclusión temporal del defecto con balón que no aumentan las presiones en AD ni caen las presiones arteriales. Con el uso de dispositivo Amplatzer FOP Tribiforme MF de 35 mm, se consigue ocluir el defecto de forma casi completa, con mínimo cortocircuito residual, con paso de saturación arterial de 81% a 99% (vídeo 4). Sin complicaciones. Bajo control con ecocardiograma intracardiaco y ecocardiografía transesofágica (ETE), se realiza test con balón de 18 mm, comprobándose ausencia de cambios hemodinámicos (presión arterial y presión en aurícula derecha) significativos.
+
+EVOLUCIÓN CLÍNICA
+Paciente que ingresa para completar estudio por empeoramiento progresivo de la clase funcional. En estudio ecocardiográfico se visualiza importante cortocircuito derecha-izquierda interauricular sugestivo de FOP con comportamiento de platipnea-ortodesoxia. Con estos resultados, se decide realizar técnica percutánea sobre FOP. Previo al cierre definitivo, se valora respuesta hemodinámica con cierre transitorio con balón, siendo favorable, por lo que se procede a implante de dispositivo de cierre Amplatzer cribiforme de 35 mm, con buen resultado final y paso de saturación arterial del 81% basal al 99%. Posprocedimiento, la paciente se encuentra estable y asintomática, con mejoría de la clase funcional y de la saturación basal, decidiéndose traslado a su hospital de referencia.
+
+DIAGNÓSTICO
+Síndrome de platipnea-ortodesoxia.
+FOP con importante cortocircuito espontáneo derecha-izquierda.
+Cardiopatía congénita tipo anomalía de Ebstein.
+Insuficiencia respiratoria global secundaria a shunt intracardiaco, resuelto.
+Implante de dispositivo percutáneo de cierre de FOP Amplatzer cribiforme 35 mm.
+Insuficiencia tricuspídea masiva sin signos de hipertensión pulmonar. FEVI conservada.
+Síndrome WPW intermitente. Episodios de TPSV ortodrómica.

@@ -1,0 +1,36 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi personale
+Donna di 18 anni.
+Nessuna allergia nota ai farmaci.
+Nessuna abitudine tossica.
+Anamnesi cardiologica: in follow-up presso la cardiologia generale per lieve insufficienza mitralica secondaria a prolasso mitralico; asintomatica con funzione sistolica biventricolare conservata.
+G1P1A0. Parto strumentato (estrazione con vuoto) con anestesia epidurale il 23 gennaio per rottura prematura delle membrane a 40,3 settimane di gestazione.
+
+Malattia presente
+La paziente, di 18 anni, si è consultata per due giorni presentando episodi irregolari di dolore toracico centrale oppressivo, non irradiante, della durata di 15-20 minuti.
+Nessun sintomo catarrale o diarroico nei giorni precedenti. In trattamento con bromocriptina dal 27 gennaio.
+
+Esame fisico
+PRESSIONE ARTERIOSA 123/71. FC 77 battiti al minuto. Ta 36°C. Cosciente, orientato, buona perfusione distale. Buone condizioni generali. Eupneico all'aria ambiente senza ossigeno supplementare.
+Tolleranza del decubito. Testa e collo: no IVY, no reflusso epatogiugulare negativo. Auscultazione cardiaca: ritmica, con un soffio mesosistolico II/IV prevalentemente all'apice. Auscultazione polmonare: murmure vescicolare conservato, senza fenomeni aggiuntivi. Addome: morbido, depressibile, non dolente alla palpazione.
+Estremità: nessun edema, nessuna evidenza di trombosi venosa profonda.
+
+ESAMI COMPLEMENTARI
+ECG: ritmo sinusale a 82 battiti al minuto. Innalzamento del tratto ST in DII, DIII e avF. Diminuzione speculare in V2-v3 e aVL.
+ECG di controllo: correzione delle alterazioni precedentemente descritte.
+Esami del sangue: Leucociti 13200 (N 69,4%, L 22%), Hb 14,1, piastrine 349.000. D Dimer 106. Urea 21. Crreat 0,6. Na 136. K 3,9. Coagulazione normale.
+Marcatori di danno miocardico: 1° determinazione del TnI: 4,95 ng/ml. seconda determinazione: 12,5 ng/ml (picco) (valori normali inferiori a 0,017 ng/ml)
+Radiografia del torace: nessuna evidenza di patologia pleuropolmonare acuta. Silhouette cardiopericardica al limite della normalità.
+TTE: ventricolo sinistro non dilatato, non ipertrofico, con LVEF globale e segmentale conservata. Pattern diastolico normale. Insufficienza mitralica dovuta a un lieve prolasso del lembo posteriore. Valvola aortica trivalve, senza gradiente transvalvolare o insufficienza significativa. Camere destre normali. Nessuna insufficienza tricuspidale. Assenza di versamento pericardico. Collasso inspiratorio della vena cava superiore > 50% con la respirazione.
+Angiografia coronarica: albero coronarico sinistro: LMCA senza lesioni angiograficamente significative. Arteria discendente anteriore senza lesioni significative. Circonflessa senza lesioni angiograficamente significative. Dominante destra. Arteria coronaria destra senza lesioni angiograficamente significative.
+
+EVOLUZIONE
+Il paziente è stato ricoverato presso l'Unità Coronarica con una diagnosi di sindrome coronarica acuta con sopraslivellamento transitorio del segmento ST (la soprasoglia è stata documentata nell'ECG presso il centro sanitario, con correzione delle alterazioni dell'ECG all'arrivo presso il nostro ospedale regionale) e il trattamento con bromocriptina è stato sospeso. È stato eseguito un ecocardiogramma transtoracico, che ha mostrato una funzione sistolica ventricolare sinistra globale e segmentaria conservata, con insufficienza mitralica dovuta a prolasso mitralico già noto.
+Nelle prime 24 ore è stata eseguita un'angiografia coronarica, secondo le raccomandazioni delle linee guida ESC, in cui sono state escluse lesioni coronariche angiograficamente significative.
+L'evoluzione del paziente è stata favorevole, rimanendo emodinamicamente stabile, senza complicazioni aritmiche o meccaniche e asintomatico dal punto di vista cardiovascolare.
+
+DIAGNOSI
+Sindrome coronarica acuta con sopraslivellamento transitorio del tratto ST. Killip 1.
+Vasospasmo coronarico secondario a bromocriptina.
+Funzione sistolica ventricolare sinistra conservata.

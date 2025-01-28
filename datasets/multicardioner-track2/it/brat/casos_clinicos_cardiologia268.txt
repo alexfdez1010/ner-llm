@@ -1,0 +1,48 @@
+STORIA, MALATTIA ATTUALE ED ESAME FISICO
+Uomo di 51 anni ricoverato per arresto cardiorespiratorio extraospedaliero.
+
+Anamnesi
+Allergico alla rifampicina. Ipertensione di breve evoluzione. Nessuna abitudine tossica. Nessuna anamnesi cardiologica precedente, nessuna storia familiare di cardiopatia o morte improvvisa. Nessun'altra anamnesi di interesse.
+Trattamento abituale: losartan/idroclorotiazide 50/12,5 mg 1 compressa al giorno.
+
+Malattia attuale
+Precedentemente asintomatico, il giorno del ricovero ha presentato, mentre era al lavoro, un episodio sincopale senza sintomi precedenti, testimoniato da un parente. Non è stato rilevato il polso e sono state avviate le manovre di rianimazione cardiopolmonare di base per 15 minuti. All'arrivo dei servizi di emergenza, è stata eseguita l'intubazione orotracheale e le manovre di rianimazione cardiopolmonare avanzata sono proseguite per 20 minuti. La registrazione del DAE ha mostrato una fibrillazione ventricolare e dopo 5 tentativi di defibrillazione e la somministrazione di 5 mg di adrenalina, 3 mg di atropina e 300 mg di amiodarone per via endovenosa, il paziente ha recuperato il polso, registrando un ritmo sinusale con innalzamento del segmento ST nelle derivazioni V1-V5, DI e aVL.
+Durante il trasferimento in ospedale, ha subito un nuovo episodio di arresto cardiorespiratorio con tachicardia ventricolare senza polso, recuperando questa volta il polso dopo una singola cardioversione elettrica.
+
+All'arrivo in ospedale è stato eseguito uno studio emodinamico urgente, che ha rivelato arterie coronarie epicardiche senza stenosi angiograficamente significative. Alla luce dei risultati del cateterismo, si è deciso di eseguire una TC cranica senza contrasto e una TC del torace con contrasto per valutare le arterie polmonari ed escludere altre cause di arresto cardiorespiratorio, escludendo emorragia intracranica, tromboembolia polmonare e sindrome aortica acuta.
+
+Esame fisico
+Pressione arteriosa sistolica (SBP) 134 mmHg, pressione arteriosa diastolica (DBP) 98 mmHg, frequenza cardiaca (HR) 81 bpm. Febbricitante. Intubato e collegato alla ventilazione meccanica, SatO2 100% con FiO2 80%. Nessun ingorgo giugulare. Reflusso epatogiugulare negativo. Glasgow 8, sotto l'effetto del midazolam e del cisatracurio utilizzati per l'induzione prima dell'intubazione orotracheale. Suoni cardiaci ritmici senza soffi. Ronchi sparsi in entrambi i campi polmonari. Addome morbido e depressibile, non disteso. Arti inferiori senza edema, con pulsazioni femorali, poplitee, tibiali e pediali presenti bilateralmente e simmetriche. Le pulsazioni radiali sono conservate.
+
+ESAMI COMPLEMENTARI
+Registrazione del defibrillatore semiautomatico (DAE): fibrillazione ventricolare. Dopo cardioversione elettrica, ritmo sinusale a 75 bpm, QRS di 120 ms con disturbo della conduzione intraventricolare, innalzamento del segmento ST da V1 a V5, DI e aVL, con diminuzione speculare nella faccia inferiore.
+Elettrocardiogramma (ECG) all'ammissione all'unità coronarica: ritmo sinusale a 80 bpm, QRS stretto con asse normale, nessuna alterazione del tratto ST, onda T appiattita nelle derivazioni degli arti.
+Gas del sangue venoso (all'arrivo nel nostro centro): pH 7,11, pCO2 67,9 mmHg, pO2 56,9 mmHg, HCO3 16,7 mmol/l, Sat O2 78%, acido lattico 5,4 mmol/l, pO2(a,T)/FIO2 56,9 mmHg.
+Biochimica (ammissione): glucosio 223 mg/dl, urea 49 mg/dl, creatinina 1,04 mg/dl, CKDEPI stimata 83 ml/min/1,73 m2, sodio 138 mmol/l, potassio 4,4 mEq/l, cloro 106 mEq/l, calcio 8.2 mg/dl, magnesio 8.2 mg/dl, calcio 8.2 mg/dl,2 mg/dl, magnesio 1,8 mg/dl, CK 359 UI/l, CKMB 50 U/l, troponina ultrasensibile 996,1 ng/l (normale < 15 ng/l), procalcitonina 6,45 ng/ml, proteina C reattiva 8,3 mg/l.
+Emogramma (ammissione): leucociti 23.300 /μl, 84% neutrofili, emoglobina 17 g/dl, ematocrito 50%, piastrine 302.000 /μl.
+Coagulazione (ammissione): tasso di protrombina 100%, INR 1, fibrinogeno derivato 361 mg/dl.
+Studio emodinamico (ammissione): arterie coronarie senza stenosi angiograficamente significative. Ventricolografia: ventricolo sinistro con funzione normale, con LVEF 53% (TVD 144 ml e STV 67ml). Aortografia: aorta trivalve senza insufficienza o gradiente transvalvolare significativo. Aorta ascendente non dilatata. Nessuna immagine suggestiva di dissezione aortica.
+TC del torace con contrasto (ammissione): nessun segno di tromboembolia polmonare.
+Tronco arterioso polmonare e aorta toracica di dimensioni normali. Nessun versamento pericardico o pleurico. Adenopatia ilare destra di 1,5 cm, non specifica. Piccole adenopatie calcificate lateroaortiche e interlobari prevascolari omolaterali, probabilmente residue. Apici polmonari artefatti dai movimenti respiratori.
+Tubo endotracheale a circa 3 cm dalla carina. Il segmento posteriore del LSD, parte del segmento apicale e i segmenti posterobasali del LID, nonché i segmenti apicali e posterobasali del LII sono consolidati con broncogramma aereo (suggerendo atelettasia), probabilmente secondario ad accumulo di secrezioni, decubito o broncoaspirazione. Calcificazione lineare subpleurica nel sottosegmento posteriore della LSI di aspetto cicatriziale o residuo. Secrezioni nella trachea prossimale. Marcata dilatazione della camera gastrica con livello idroaereo in relazione alle precedenti manovre di rianimazione.
+TC dell'encefalo senza contrasto (ammissione): nessuna alterazione significativa.
+Ecocardiogramma: ventricolo sinistro di dimensioni e geometria normali, con frazione di eiezione conservata (LVEF 60%). Ventricolo destro di dimensioni normali, con funzione sistolica normale. Valvole morfologicamente normali, con banale insufficienza mitralica. Nessuna alterazione di rilievo.
+Radiografia del torace (ammissione): indice cardiotoracico normale, parenchima polmonare e tratto broncovascolare senza alterazioni.
+Monitoraggio elettrocardiografico continuo (secondo giorno di ricovero): ritmo sinusale senza alterazioni della ripolarizzazione. Si è osservato un progressivo innalzamento del segmento ST nell'unica derivazione registrata, presentando successivamente una tachicardia ventricolare monomorfa sostenuta che è degenerata in fibrillazione ventricolare con normalizzazione delle alterazioni della ripolarizzazione dopo la somministrazione di nitroglicerina per via endovenosa.
+RMN (12° giorno di ricovero): nessuna alterazione globale o segmentaria della contrattilità miocardica. Sequenze di late enhancement senza alterazioni.
+Studio di perfusione miocardica di primo passaggio normale. Diametri della cavità cardiaca: VITD 50 mm, VITS 34 mm, LA 23 cm2, VTDD 40 mm, VDTS 31 mm, AD 22 cm2. Funzione ventricolare sinistra conservata, con LVEF 62%, con valori indicizzati per superficie corporea (m2): VTD 125 ml, VTS 47 ml, stroke volume 78 ml. Artefatti di flusso compatibili con insufficienza mitralica (MI) e tricuspide (TI), non significativi. Conclusione: studio nei limiti della norma.
+
+EVOLUZIONE CLINICA
+Il paziente è stato trasferito al pronto soccorso del nostro centro a causa di un arresto cardiorespiratorio extraospedaliero. Poiché presentava alterazioni elettrocardiografiche suggestive di sindrome coronarica acuta, è stata eseguita un'angiografia coronarica urgente che ha mostrato arterie coronarie senza lesioni, un'angiografia TC cranica e un'angiografia TC toracica, che hanno escluso una patologia acuta che giustificasse l'arresto. Il paziente è stato ricoverato nell'unità di terapia intensiva cardiaca ed è stata avviata l'ipotermia terapeutica. È stata eseguita un'ecocardioscopia che ha mostrato un ventricolo sinistro con funzione ventricolare conservata e nessuna anomalia della contrattilità, senza alterazioni significative.
+Il secondo giorno di ricovero ha presentato un improvviso innalzamento del segmento ST registrato nella singola derivazione del monitoraggio elettrocardiografico continuo, con un successivo attacco di tachicardia ventricolare sostenuta che è degenerato in fibrillazione ventricolare senza compromissione emodinamica, risolta dopo trattamento con nitroglicerina per via endovenosa. Dato il sospetto clinico di vasospasmo, sono stati eseguiti un esame del sangue urgente e un'emogasanalisi arteriosa, che hanno escluso alterazioni idroelettrolitiche; tuttavia, la terapia ipotermica è stata ritirata.
+Durante la degenza nel reparto di terapia critica cardiovascolare, il paziente ha presentato un picco febbrile e parametri di infezione di probabile origine respiratoria, risolti con terapia antibiotica con imipenem 1 g i.v. ogni 8 ore e linezolid 600 mg i.v. ogni 12 ore per 10 giorni. Data la buona evoluzione emodinamica, neurologica e respiratoria, il paziente è stato estubato senza incidenti all'ottavo giorno di ricovero.
+
+Dopo essere stato dimesso dal reparto ospedaliero, ha fatto buoni progressi. È stata eseguita una risonanza magnetica cardiaca che è risultata normale, escludendo una cardiopatia strutturale.
+Prima della dimissione, è stato deciso di impiantare un defibrillatore cardioverter monocamerale automatico impiantabile (ICD) come prevenzione secondaria, ed è stato dimesso stabile e asintomatico.
+
+DIAGNOSI
+Arresto cardiorespiratorio extraospedaliero recuperato per fibrillazione ventricolare.
+Cuore strutturalmente normale.
+Sindrome coronarica acuta con sopraslivellamento del tratto ST non persistente dovuto a vasospasmo coronarico.
+Impianto di ICD monocamerale per prevenzione secondaria.
+Infezione respiratoria secondaria a broncoaspirazione, risolta.

@@ -1,0 +1,30 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+59-year-old woman with no cardiovascular risk factors with iatrogenic hypothyroidism following thyroidectomy for thyroid cancer on regular treatment with levothyroxine 75 mcg per day. She had no notable family history.
+The patient came to the Emergency Department because she suffered loss of consciousness while talking on the phone with her sister while they were arguing, without prodromes and with spontaneous recovery in a few seconds. She did not report a vegetative cortex and had a similar episode when descending stairs months earlier. She had no dyspnoea, palpitations or chest pain.
+On physical examination the patient was conscious, oriented, normal colour, eupneic, without jugular engorgement, BP 120/70 mmHg, 60 beats/minute, peripheral O2 saturation 96% at baseline, afebrile. Cardiopulmonary auscultation showed preserved vesicular murmur with rhythmic tones and no murmurs. In the abdomen there were no megaliths or signs of ascitesis and in the lower limbs there was no oedema with preserved distal pulses and no signs of deep thrombosis.
+The neurological examination was normal.
+A blood test was performed in the emergency department, which detected mild anaemia with no other notable findings, a portable chest X-ray and an electrocardiogram.
+Based on these data, Cardiology was consulted, and an urgent trathoracic echocardiogram was performed, in which no notable anomalies were observed, and the patient was admitted to the hospital ward with monitoring.
+
+COMPLEMENTARY TESTS
+Laboratory tests: leukocytes 11,500 / mm3, haemoglobin 10.57 g/dl, MCV 87 mm3 , MCH 24/cell, platelets 210,000 / mm3, normal coagulation, creatinine 0.57 mg/dl, urea 34 mg/dl, glomerular filtration rate 98 ml/min/1.73 m2, Na 138 mEq/L, K 4.1 mEq/L, Mg 2.6, CPK 140 IU/L, troponin I 0.04 ng/ml. Urine toxins were negative and thyroid profile was normal.
+Portable chest X-ray: cardiothoracic index not very valuable, without pleural effusion or infiltrates.
+ECG: sinus rhythm at 72 beats/minute, normal axis, normal PR interval and QRS complex and normal QTc interval
+QRS complex and QTc interval of approximately 650 ms.
+Urgent transthoracic echocardiogram: non-dilated left ventricle with DDVI of 40 mm without significant hypertrophy, preserved LVEF without segmental alterations of contractility and normal diastolic function with normal diastolic pattern and average E/E" of 6.5. Mitral valve with preserved structure and function.
+Absence of atrial dilatation. Non-dilated aortic root, normofunctioning trivalve aortic valve. Non-dilated right chambers, normal right ventricular systolic function by TAPSE of 18, absence of tricuspid insufficiency, non-dilated inferior vena cava with inspiratory collapse without pericardial effusion.
+ECG: sinus rhythm with very prolonged QT interval and polymorphic ventricular triplets initiated with "R over T" phenomenon. Telemetry tracing with torsades de pointes and cardioversion at 100 joules.
+Chest X-ray: with bicameral implantable cardioverter defibrillator with normal electrode placement.
+ECG: atrial paced rhythm at 70 beats/minute. There was a reduction in the QT interval with respect to the initial ECG after optimising treatment with beta-blockers.
+
+EVOLUTION
+On the Cardiology hospital ward, the patient presented with polymorphic ventricular extrasystoles and non-sustained polymorphic ventricular tachycardias (PSVT). Given these findings, with a baseline sinus rhythm rate of 65 bpm, intravenous magnesium was administered and, in the absence of improvement, the patient was transferred to the Coronary Care Unit. Despite the initial measures, the patient developed sustained ventricular tachycardia of the torsades de pointes type, with loss of consciousness, and cardioversion at 100 joules was performed, which was effective. However, she presented again with non-sustained DVT, so it was decided to perform sedation. The patient showed signs of respiratory distress, arterial hypertension and finally required deep sedoanalgesia and orotracheal intubation. Beta-blockers were started and haemodynamic and arrhythmic stabilisation was achieved, although these drugs were titrated to low doses as the patient presented sinus bradycardia. An analytical study was completed with detection of toxins in urine, which was negative, and a thyroid profile showed no alterations, and the use of drugs that could prolong the QT interval was ruled out.
+Given the presence of probable congenital long QT syndrome and cardiorespiratory arrest resuscitated by sustained DVT, it was decided to implant a bicameral endovascular automatic defibrillator, which was carried out without incident, and the patient was subsequently transferred to the cardiology ward where the dose of beta-blocker was increased to bisoprolol 5 mg every 8 hours and blood tests were taken for genetic study. This detected a mutation in the KCNQ1 gene in heterozygosis associated with the development of long QT syndrome type 1 with an autosomal dominant pattern of inheritance, and a family study was performed.
+
+DIAGNOSIS
+Long QT syndrome type 1.
+Pathogenic mutation in the KCNQ1 gene.
+Recurrent syncope.
+Cardiac arrest resuscitated by PSVT.
+Absence of significant structural heart disease.
+Implantation of DR ICD in secondary prevention.

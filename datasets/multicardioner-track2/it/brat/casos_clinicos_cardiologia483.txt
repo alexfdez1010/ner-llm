@@ -1,0 +1,19 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Donna di 52 anni, fumatrice, senza storia di ipertensione, diabete mellito o dislipidemia.
+È stata ricoverata nel febbraio 2016 per un episodio sincopale senza prodromo con trauma cranioencefalico associato a un ECG basale senza alterazioni e a una TC cranica che mostrava un piccolo focus di emorragia subaracnoidea nei lobi parietale e temporale di sinistra. Nel novembre 2016 è stato riammesso per un'improvvisa sincope ricorrente con frattura delle ossa del naso; è stato eseguito un ecocardiogramma senza anomalie, un test ortostatico e un massaggio carotideo negativi e un tilt test con risposta mista dopo NTG sl, con vertigini e ipotensione con FC 40 bpm, ma senza perdita di coscienza. Si è quindi deciso di impiantare un Holter sottocutaneo (Reveal LINQ).
+La paziente si è presentata per una revisione del Reveal, dopo averlo attivato a causa di un episodio di perdita di coscienza, mentre si trovava nella toilette per andare al lavoro, preceduto da una sensazione strana e indefinita, con successiva caduta a terra, con rapido recupero, senza rilascio degli sfinteri o morso della lingua. Il monitoraggio della rianimazione ha rilevato una pausa di 15 secondi (con una singola fuga di QRS ampio), senza tachicardia precedente. Il paziente è stato ricoverato per ulteriori accertamenti.
+L'esame fisico ha mostrato buone condizioni generali. Pressione 125/73 mmHg FC 65 bpm. Sat 02 96%. AC: toni cardiaci ritmici senza soffi. AR: MVC, senza aggregati aggiunti. EEII: nessun edema.
+
+ESAMI COMPLEMENTARI
+Emocromo: urea 38 mg/dl, creatinina 0,63 mg/dl, Na 142 mEq/L, K 3,7 mEq/l, Hb 12,1 g/dl, leucociti 8.050, piastrine 309.000, coagulazione nei limiti della norma.
+Elettrocardiogramma: RS a 60lpm PR 164 ms QRS stretto, elevazione del punto J 0,5 mm V3-V6.
+Holter 24 ore: ritmo sinusale per tutta la registrazione con una FC media di 60 bpm; massima di 104 bpm e minima di 49 bpm. Rare extrasistoli sopraventricolari isolate. Nessuna pausa significativa, RR massimo 1,33 secondi.
+Ecocardiogramma transtoracico: normale.
+Elettrocardiogramma dopo l'impianto del pacemaker: ritmo di stimolazione atriale e ventricolare.
+
+EVOLUZIONE
+Nel reparto di cardiologia, il paziente è stato tenuto sotto monitoraggio continuo, Holter di 24 ore senza evidenza di nuovi episodi aritmici e un ecocardiogramma nei limiti della norma. Alla paziente è stata diagnosticata una sincope vasovagale maligna e si è deciso di impiantare un pacemaker DDD, senza incidenti, con soglie di stimolazione e di sensing corrette. Dopo un'adeguata evoluzione, la paziente è stata dimessa a casa.
+
+DIAGNOSI
+Sincope vasovagale maligna.

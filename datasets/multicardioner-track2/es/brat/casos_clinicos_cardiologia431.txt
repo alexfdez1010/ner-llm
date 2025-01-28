@@ -1,0 +1,32 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+Paciente de 60 años, con antecedentes de tabaquismo activo de 1 paquete/día, dislipemia, esofagitis eosinofílica (en tratamiento con corticoides inhalados) y quiste de Tarlov con compresión de raíces sacras izquierdas. Antecedentes familiares de cardiopatía isquémica.
+Antecedentes cardiológicos: episodios de dolor torácico recurrentes. En 2015 se realizó test de isquemia que resultó negativo, y posteriormente TAC coronario que mostró enfermedad coronaria significativa. Se realizó coronariografía donde se objetivó enfermedad grave de circunfleja y coronaria derecha, realizándose intervención coronaria percutánea (ICP) con stents farmacoactivos.
+
+ENFERMEDAD ACTUAL:
+Acude por presentar, tras toma de moxifloxacino por cuadro de bronquitis, episodio de disnea brusca con prurito generalizado y opresión torácica irradiada a ambas extremidades.
+Seguidamente sufre episodio sincopal. Es atendida por 061 que objetiva: mal estado general, tensión arterial (TA) 69/20, saturación de oxígeno (SatO2) 82% y en el electrocardiograma (ECG) ondas T picudas con elevación del punto J de 2 mm en V3-V6. Se inicia O2, fluidoterapia y tratamiento como síndrome coronario agudo con elevación del segmento ST (SCACEST) y se traslada al hospital para ICP primaria. La paciente llega a la sala de hemodinámica con tensión arterial sistólica (TAS) 60 mmHg y somnolienta, iniciándose tratamiento con expansores del plasma y con inotropos. En coronariografía: coronarias sin lesiones y excelente resultado de los stents implantados con anterioridad. Ausencia de disección aórtica. Ventriculografía sin alteraciones segmentarias y con mitral competente. A su llegada a sala eritema cutáneo.
+Posteriormente en ECG de control, en sala de observación: normalización de la repolarización con aplanamiento de las ondas T en cara anterolateral. Evolución clínica favorable con desaparición progresiva de la erupción cutánea y normalización de las cifras tensionales pudiéndose retirar el soporte inotrópico. Ligera elevación de troponina I (TnI pico 0,46) en la seriación de biomarcadores. Ingresa en cardiología con el diagnóstico de shock anafiláctico tras toma de moxifloxacino + probable síndrome de Kounis (SK) (espasmo coronario en el contexto de reacción alérgica).
+
+EXPLORACIÓN FÍSICA:
+TA 122/71, frecuencia cardiaca (FC) 82 lpm, SatO2 95%. Consciente y orientada, congestión cutánea, normohidratada. Auscultación cardiaca: ruidos cardiacos rítmicos, sin soplos. No ingurgitación yugular. Auscultación pulmonar: normoventilación. Abdomen: blando, depresible, no doloroso a la palpación. No masas ni megalias. No signos de irritación peritoneal.
+Peristaltismo conservado. Extremidades inferiores: sin edemas ni signos de trombosis venosa profunda.
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA: glucosa 96 mg/dl. Creatinina 0,54 mg/dl, Na 130 mEq/l, TSH normal. Colesterol 116 mg/dl, HDL 46 mg/dl, LDL 54 mg/dl. Hemoglobina 11,1 g/dl, plaquetas 236 x 10^3/microl.
+RADIOGRAFÍA DE TÓRAX: sin hallazgos relevantes.
+ECG (061): ritmo sinusal a 97 lpm, ondas T hiperagudas con elevación del punto J de unos 2 mm en V3-V6.
+ECG al alta: ritmo sinusal a 63 lpm. rs en III, aVF. T negativa en III. ST rectilíneo en V5-V6.
+ECOCARDIOGRAMA: ventrículo izquierdo (VI) de dimensiones y grosor parietal normales. Función sistólica global normal, sin asimetrías segmentarias de la contractilidad. Patrón diastólico normal. Aurícula izquierda de dimensiones normales. Cavidades derechas normales, ventrículo derecho (VD) normocontráctil. Válvula mitral (VM): velos finos, no limitada en su apertura, competente. Válvula aórtica (VAo): trivalva, sigmoideas normales, no limitada en su apertura, competente. Raíz aórtica y porción visualizada de aorta ascendente proximal normales.
+Insuficiencia tricuspídea (IT) mínima. Vena cava inferior (VCI) no dilatada con normocolapso inspiratorio. Presión arterial pulmonar sistólica (PAPs) estimada normal. Ausencia de derrame pericárdico y de masas intracavitarias por esta vía de acceso.
+CORONARIOGRAFÍA: árbol coronario sin lesiones de interés, con flujo TIMI 3 y excelente resultado de los stents implantados previamente. Ausencia de disección aórtica. Buena función ventricular izquierda, sin alteraciones segmentarias y con mitral competente.
+
+EVOLUCIÓN CLÍNICA
+En planta la paciente permanece estable, asintomática en todo momento. Se realiza ecocardiograma de control que muestra función sistólica normal, sin otras alteraciones de interés. Por antecedentes de hiperreactividad en paciente con función sistólica normal, sin infarto agudo de miocardio (IAM) previo, se suspende betabloqueante. Se remite a la paciente para control en consulta de alergología de forma preferente. Asintomática y estable, se procede al alta hospitalaria.
+
+
+DIAGNÓSTICO
+Shock anafiláctico tras toma de moxifloxacino. Síndrome de Kounis.
+Cardiopatía isquémica crónica: arterias coronarias sin lesiones angiográficas significativas.
+Buen resultado de stents previos.

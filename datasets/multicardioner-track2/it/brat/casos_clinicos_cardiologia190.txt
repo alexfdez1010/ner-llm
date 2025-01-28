@@ -1,0 +1,16 @@
+STORIA, MALATTIA ATTUALE ED ESAME FISICO
+Uomo di 56 anni, senza allergie, ex fumatore e schizofrenia paranoide trattata in passato con ECT e antipsicotici multipli. È stato trovato incosciente dal fratello; all'arrivo dell'ambulanza presentava pressione arteriosa di 60/40 mmHg con saturazione di O2 del 65%, temperatura di 34,8 °C. All'auscultazione presentava crepitii e una temperatura di 34,8 °C. All'auscultazione presentava crepitii e ronchi in entrambi i campi polmonari. È stata eseguita l'intubazione orotracheale e avviata la perfusione di catecolamine (noradrenalina e adrenalina). All'arrivo al pronto soccorso è stata richiesta una valutazione cardiologica per un elettrocardiogramma (ECG) suggestivo di infarto inferolaterale. L'ECG ha mostrato un ritmo nodale con QRS di 120 ms e morfologia rSR di V2-V6 con l'ultima R legata al ST. L'ecocardiografia ha evidenziato una funzione ventricolare sinistra (LV) conservata e nessuna alterazione segmentale. Esami di laboratorio descritti in evidenza. La radiografia del torace era compatibile con una polmonite multilobare. La cardiologia ha mantenuto un atteggiamento attendista e il paziente è stato ricoverato in terapia intensiva per il trattamento del processo infettivo respiratorio.  
+
+ESAMI COMPLEMENTARI
+ECG all'arrivo: ritmo nodale con QRS di 120 ms e morfologia rSR di V2-V6 con l'ultima R legata al ST.
+ECG dopo la correzione della temperatura: scomparsa virtuale delle onde di Osborn, ritorno al normale ritmo sinusale.
+ANALISI: emoglobina 14,4 g/dl, ematocrito 41,6%, leucociti 1700x10^3/μl, neutrofili 93,3%, piastrine 133.000x10^3/μl. Coagulazione: INR 1,61, QI 52%, PT 17,1, APTT 42,9, D-dimero 708 ngr/ml.
+BIOCHIMICA: glucosio 163 mg/dl, urea 57 mg/dl, creatinina 0,39 mg/dl, GFR MDRD4; 60 ml/min/1,73m2, sodio 127 mm/l, potassio 4,4 mm/l, magnesio 2,2 mm/l. Creatina chinasi 672 U/L. Lattato 2,37 mm/l. Procalcitonina 0,96 ng/ml. Troponina I < 0,01 ng/dl. Massa CK-MB 139,93 ng/ml. Gas del sangue arterioso: pH 7,29. pCO2 67 mmHg. pO2 42 mmHg. HCO3 32,2 mm/l. Eccesso di basi 3,36 mm/l.
+RADIOGRAFIA TORACE: compatibile con polmonite multilobare (immagine 2).
+ECOCARDIOSCOPIA: ventricolo sinistro non dilatato con funzione conservata. Nessuna alterazione segmentale della contrattilità. Nessuna valvulopatia aortica. Minima insufficienza mitralica. Camere destre con morfologia e funzione normali. Assenza di versamenti o masse intracardiache.
+
+EVOLUZIONE CLINICA
+Il team di intensivisti ha richiesto una nuova valutazione del paziente a causa di dubbi sulla decisione presa dalla cardiologia. Dopo aver rivalutato gli elettrocardiogrammi, è stata richiesta una nuova temperatura del paziente, che al momento non era rilevabile. Il paziente è stato gradualmente riscaldato con coperte termiche e soluzione fisiologica calda. A 32 °C si osserva una parziale correzione delle onde, che scompaiono completamente a 36 °C. È stata fatta una diagnosi di onde di Osborn dovute a ipotermia e acidosi. Il paziente è infine morto per insufficienza respiratoria.
+
+DIAGNOSI
+Polmonite multilobare acquisita in comunità. Insufficienza respiratoria acuta. Ipotermia e acidosi, con onde di Osborn all'elettrocardiogramma. Funzione ventricolare sinistra conservata, nessuna cardiopatia strutturale. Decesso.

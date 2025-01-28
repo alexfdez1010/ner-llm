@@ -1,0 +1,31 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+BACKGROUND:
+47-year-old female patient with the only history of being an active smoker of 10 cigarettes/day (IPA 9) and family history of myotonic dystrophy (MD) type I (Steinert's disease) in her brother and death of her father with no clear etiology. Younger brother aged 37 years with a diagnosis of type I DM; an older son who died at the age of 17, with the same diagnosis and autism spectrum disorder; and a 25-year-old daughter diagnosed with type 1 DM who presented cerebral haemorrhage at birth and is under investigation for long QT.
+
+CURRENT ILLNESS:
+Referred from neurology with a diagnosis of type I DM to the family heart disease consultation for assessment. She reported asthenia and muscle fatigue with slightly less exertion than usual for the last 2 months. The patient is in New York Heart Association (NYHA) functional class I and otherwise asymptomatic from a cardiovascular point of view.
+
+PHYSICAL EXAMINATION:
+Normal vital signs. Cardiopulmonary auscultation was normal. Neurological examination showed mild bilateral ptosis, mild facial weakness despite complete ocular closure, generalised hyporeflexia, paresis 4/5 and myotonic buckle. The rest of the examination was unremarkable.
+
+COMPLEMENTARY TESTS
+Echocardiogram TT: non-dilated left ventricle (LV) with normal wall thickness, left ventricular ejection fraction (LVEF) 60-65%, no alterations of segmental contractility, anomalous movement of the septum in relation to conduction disorder, normal transmitral filling pattern, non-dilated right ventricle normocrontractile, non-dilated atria. Aortic, mitral, tricuspid and pulmonary valves morphologically and functionally normal. No signs of pulmonary hypertension. No pericardial effusion. Inferior vena cava not dilated and with collapse greater than 50%. Aorta not dilated and no flow acceleration.
+ECG: sinus rhythm at 50 beats per minute, PR 220 milliseconds, axis at -30 o, QRS 130 milliseconds with image of left bundle branch conduction disorder, inverted T from V1 to V3, QTc 445 milliseconds.
+HOLTER: sinus rhythm throughout the recording. Average heart rate 61 bpm. No ventricular or supraventricular arrhythmias. QTc 31% (470-490 msec), 5% (490-510 msec).
+ANALYSIS: biochemistry, haemogram and coagulation without findings.
+GENETIC STUDY: negative for long QT. MYBPC3 p.Arg726Cys, rare variant possibly associated with hypertrophic cardiomyopathy although with reports of families with second mutations and found in the general population (low frequency).
+
+CLINICAL EVOLUTION
+In summary, we are dealing with a 47-year-old patient diagnosed with type I DM with a family history of sudden death. In addition, she had a conduction disorder with wide QRS, first-degree atrioventricular block (AVB) and a borderline QT on the Holter monitor. Although the conduction disturbance may influence the duration of the QT interval, there is a small percentage above 490 milliseconds.
+Conduction study and epinephrine test were requested.
+Positive epinephrine test (Shimizu protocol): after the bolus there is pathological QTc prolongation up to 566 milliseconds. Throughout the infusion the absolute QT slowly decreases to baseline values.
+Electrophysiological study: diagnostic quadripolar catheters are placed in the right atrium, His and right ventricular apex. Abnormal basal intervals (HV 78 milliseconds). Basally poor AV conduction with Wenckebach point at 78 bpm, concentric and decremental. Absence of V-A conduction.
+Due to the results of the previous tests, it was decided to implant a bicameral implantable cardioverter defibrillator (ICD) after cardiac magnetic resonance imaging (MRI) to complete the study. After ICD implantation, treatment was started with 1.25 mg of bisoprolol every 24 hours. Cardiac MRI showed a slightly dilated but not hypertrophic LV, with preserved systolic function (LVEF 55%) and no intramyocardial late enhancement or other alterations of interest.
+From the point of view of relatives, a long QT panel was performed, which was negative.
+
+DIAGNOSIS
+Myotonic dystrophy type 1 (Steinert's disease). Absence of significant structural heart disease on TT echocardiogram and cardiac MRI.
+Long QT syndrome probably associated with DM.
+First-degree history of sudden death, probably arrhythmic.
+Significant nodal conduction disorder and His-Purkinje system with implantation of bicameral ICD.

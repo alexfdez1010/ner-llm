@@ -1,0 +1,31 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+BACKGROUND:
+Paziente donna di 47 anni con l'unica anamnesi di fumatrice attiva di 10 sigarette al giorno (IPA 9) e storia familiare di distrofia miotonica (DM) di tipo I (malattia di Steinert) nel fratello e morte del padre senza chiara eziologia. Un fratello minore di 37 anni con diagnosi di DM di tipo I; un figlio maggiore morto all'età di 17 anni, con la stessa diagnosi e un disturbo dello spettro autistico; e una figlia di 25 anni con diagnosi di DM di tipo 1 che ha presentato emorragia cerebrale alla nascita ed è in fase di indagine per il QT lungo.
+
+MALATTIA ATTUALE:
+La figlia è stata indirizzata dalla neurologia con una diagnosi di DM di tipo I alla consulenza sulle cardiopatie familiari per una valutazione. Ha riferito astenia e affaticamento muscolare con uno sforzo leggermente inferiore al solito negli ultimi 2 mesi. La paziente è in classe funzionale I della New York Heart Association (NYHA) e per il resto è asintomatica dal punto di vista cardiovascolare.
+
+ESAME FISICO:
+Segni vitali normali. L'auscultazione cardiopolmonare era normale. L'esame neurologico ha evidenziato una lieve ptosi bilaterale, una lieve debolezza facciale nonostante la completa chiusura oculare, iporeflessia generalizzata, paresi 4/5 e inarcamento miotonico. Il resto dell'esame era irrilevante.
+
+ESAMI COMPLEMENTARI
+Ecocardiogramma TT: ventricolo sinistro (LV) non dilatato con normale spessore di parete, frazione di eiezione ventricolare sinistra (LVEF) 60-65%, nessuna alterazione della contrattilità segmentale, movimento anomalo del setto in relazione al disturbo di conduzione, normale pattern di riempimento transmitralico, ventricolo destro normocontrattile, atri non dilatati. Valvole aortica, mitrale, tricuspide e polmonare morfologicamente e funzionalmente normali. Nessun segno di ipertensione polmonare. Assenza di versamento pericardico. Vena cava inferiore non dilatata e con collasso superiore al 50%. Aorta non dilatata e senza accelerazione del flusso.
+ECG: ritmo sinusale a 50 battiti al minuto, PR 220 millisecondi, asse a -30 o, QRS 130 millisecondi con immagine di disturbo di conduzione del fascio sinistro, T invertita da V1 a V3, QTc 445 millisecondi.
+HOLTER: ritmo sinusale per tutta la registrazione. Frequenza cardiaca media 61 bpm. Nessuna aritmia ventricolare o sopraventricolare. QTc 31% (470-490 msec), 5% (490-510 msec).
+ANALISI: biochimica, emogramma e coagulazione senza risultati.
+STUDIO GENETICO: negativo per il QT lungo. MYBPC3 p.Arg726Cys, variante rara forse associata a cardiomiopatia ipertrofica, anche se sono state segnalate famiglie con seconde mutazioni e si trova nella popolazione generale (bassa frequenza).
+
+EVOLUZIONE CLINICA
+In sintesi, ci troviamo di fronte a una paziente di 47 anni con diagnosi di DM di tipo I e una storia familiare di morte improvvisa. Inoltre, presentava un disturbo della conduzione con QRS ampio, blocco atrioventricolare di primo grado (AVB) e un QT borderline sul monitor Holter. Sebbene il disturbo di conduzione possa influenzare la durata dell'intervallo QT, vi è una piccola percentuale superiore a 490 millisecondi.
+Sono stati richiesti lo studio della conduzione e il test dell'epinefrina.
+Test dell'epinefrina positivo (protocollo Shimizu): dopo il bolo si verifica un prolungamento patologico del QTc fino a 566 millisecondi. Durante l'infusione il QT assoluto diminuisce lentamente fino ai valori basali.
+Studio elettrofisiologico: vengono posizionati cateteri quadripolari diagnostici nell'atrio destro, nell'apice di His e nel ventricolo destro. Intervalli basali anormali (HV 78 millisecondi). Conduzione AV basalmente scarsa con punto di Wenckebach a 78 bpm, concentrico e decrementale. Assenza di conduzione V-A.
+A causa dei risultati dei test precedenti, si è deciso di impiantare un defibrillatore cardioverter impiantabile (ICD) bicamerale dopo la risonanza magnetica cardiaca (RM) per completare lo studio. Dopo l'impianto dell'ICD, è stato iniziato un trattamento con 1,25 mg di bisoprololo ogni 24 ore. La risonanza magnetica cardiaca ha mostrato un LV leggermente dilatato ma non ipertrofico, con funzione sistolica conservata (LVEF 55%) e nessun late enhancement intramiocardico o altre alterazioni di interesse.
+Dal punto di vista dei familiari, è stato eseguito un pannello del QT lungo, che è risultato negativo.
+
+DIAGNOSI
+Distrofia miotonica di tipo 1 (malattia di Steinert). Assenza di cardiopatie strutturali significative all'ecocardiogramma TT e alla RMN cardiaca.
+Sindrome del QT lungo probabilmente associata a DM.
+Storia di primo grado di morte improvvisa, probabilmente aritmica.
+Disturbo significativo della conduzione nodale e del sistema di His-Purkinje con impianto di ICD bicamerale.

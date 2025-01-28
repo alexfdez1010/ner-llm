@@ -1,0 +1,42 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+47-year-old woman referred for syncope with 2:1 atrioventricular block (AVB).
+
+History
+Independent for ABVD, but in need of support. Lives with her parents. Separated.
+No known drug allergies.
+No family history of heart disease or early sudden cardiac death.
+No toxic habits. No cardiovascular risk factors. Normal weight (weight 57.5 kg, height 1.58 m).
+Mitochondrial cytopathy phenotype MELAS (diagnosis at 23 years of age). Predominance of severe sensorineural deafness and exercise intolerance due to myopathy. On treatment with valproate and phenobarbital, with last complex tonic comical seizure 1 year ago. CT scan with no new lesions. Frequent hyponatremia.
+Right bundle branch block and left anterior hemiblock.
+Surgical interventions: cholecystectomy (2012) and appendectomy in childhood.
+Usual medication: valproate 500 mg 1-1-1, phenobarbital 50 mg 0-0-1, ubiquinone 100 mg 0-1-0, lorazepam 1 mg 0-0-0-1.
+
+Present illness
+Anamnesis through the family for aphasia and severe hypoacusis of the patient. They report that on waking up in the morning she is pale with sweating and nausea. Subsequently, dizziness intensified, falling to the floor with loss of consciousness and rapid recovery.
+
+The emergency service was called, but the clinical manifestations persisted on arrival, revealing a 2:1 AVB, conducted heartbeat with morphology of left bundle branch block. She was referred to the regional hospital, being asymptomatic on arrival and with ECG in sinus rhythm with AV conduction 1:1. No chest pain, palpitations, dyspnoea or other accompanying symptoms. She was referred to our centre for cardiology assessment.
+
+Physical examination
+Blood pressure (BP) 92/62 mmHg, heart rate (HR) 72 bpm, SatO99%, temperature 35 oC.
+Conscious and oriented. No neurological focality.
+Rhythmic tones, no murmurs or rubs. Symmetrical pulses. No jugular ingurgitation. No oedema.
+Good bilateral air entry, no extra sounds.
+Abdomen soft, slight distension at epigastric level, not painful on palpation. Peristalsis preserved.
+
+COMPLEMENTARY TESTS
+First ECG (performed by the emergency service at the first medical contact): BAV 2:1 at 35 bpm, conducted beat with QRS of 110 msec with short PR of 100 msec and electrical image compatible with negative delta wave in V1, positive in V3-V6, II, III, aVF.
+ECG on admission to our centre: sinus rhythm at 80 bpm, AV conduction 1:1 PR 100 ms and QRS of 110 msec with image compatible with pre-excitation, similar to the previous one.
+Posteroanterior chest X-ray performed in the emergency room of our centre: normal cardiac silhouette. No condensation in the lung parenchyma. No signs of heart failure or pleural effusion.
+Initial blood tests: glucose 305 mg/dl, creatinine 0.8 mg/dl (GFR > 90 ml/min), urea 61 mmol/l, CK 328 mU/ml, TnUs 61 ng/l, Na 130 mEq/l (corrected 136 mEq/l), K 4.6 mEq/l. Haemogram: leucocytes 13.1x109 l (N 53.1%, L 37.3%), haemoglobin 12.1 g/dl, haematocrit 36%, platelets 217 x109 l, INR 0.98.
+Venous blood gas on admission: pH 7.231, pCO2 40.7 mmHg, HCO3 15.5 mEq/L, EB -10.5 mEq/L, lactate 8.6 mEq/l.
+Control blood test 5 hours after admission: CK 292 mU/ml, troponin I US 100 ng/l, lactate 4.4m Eq/l.
+Transthoracic echocardiogram: non-dilated left ventricle, slightly concentrically hypertrophied, with normal systolic diastolic function. No significant valvulopathies. Mild pulmonary hypertension (estimated PAPs 36-38 mmHg). Normal right ventricle.
+
+CLINICAL EVOLUTION
+A 47-year-old woman with MELAS syndrome was admitted for symptomatic (syncopal) 2:1 AVB and with an image compatible with pre-excitation that persisted despite the conduction disorder, leading to the diagnosis of an associated fasciculoventricular accessory pathway (origin posterior to the atrioventricular node). The echocardiogram showed mild ventricular hypertrophy with slightly elevated PSAP. Laboratory tests showed initial lactate of 8 mEq/l and later 4 mEq/l, with slight initial acidosis that remained with slightly elevated lactate and was attributed to mitochondrial disease (previous lactate always elevated 2.5-11).
+Admitted to the coronary unit for close monitoring and implantation of a permanent pacemaker. Favourable evolution since admission, remaining asymptomatic at all times, in sinus rhythm with 1:1 AV conduction, with no recurrence of bradyarrhythmia. Twenty-four hours after admission, a bicameral pacemaker was implanted without incident and subsequently, after verifying the normal functioning of the device and the absence of complications, she was discharged home.
+
+DIAGNOSIS
+Symptomatic 2:1 AV block (syncopal).
+Electrocardiographic image compatible with ventricular pre-excitation by a fasciculoventricular accessory pathway (considering persistence of QRS morphology despite AVB).
+MELAS syndrome (mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke).

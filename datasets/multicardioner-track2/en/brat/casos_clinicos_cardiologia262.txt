@@ -1,0 +1,52 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+History
+This is a 73-year-old woman with arterial hypertension as a cardiovascular risk factor. She was assessed by cardiology in a private centre for mitral prolapse, with normal ventricular function and asymptomatic during follow-up. Her main comorbidity is oncological, with a history of moderately differentiated adenocarcinoma of the descending colon stage II (pT3 pN0 cM0), which debuted with intestinal obstruction in 2014, initially treated with total colectomy in August 2014, followed by adjuvant chemotherapy with Gramont scheme with 5-fluorouracil (5-FU) x 12 cycles (last cycle date: February 2015). A CT scan in December 2015 revealed millimetric lung lesions, which were observed until their growth was confirmed by PET scan in June 2016, so first-line chemotherapy with FOLFOX (oxaliplatin, 5-fluorouracil and folinic acid) was started, with oxaliplatin being discontinued after 7 cycles due to neurotoxicity. She was maintained on 5-fluorouracil until the present day, achieving stabilisation of the disease
+
+Current disease
+While the patient was in the supermarket, she had an apparently sudden loss of consciousness and cardiorespiratory arrest was observed, and basic cardiopulmonary resuscitation (CPR) manoeuvres were started immediately by the health personnel present. The semi-automatic external defibrillator (AED) detected a shockable rhythm and 2 shocks were administered, with recovery of pulse and consciousness, and orotracheal intubation was not required. The output electrocardiogram (ECG) showed complete right bundle branch block, with no evidence of acute ischaemia. She was transferred by the out-of-hospital emergency services to our centre, where she arrived haemodynamically stable, conscious and oriented. On initial anamnesis, the patient reported short episodes (2 minutes) of chest pain in the previous days, at rest, with no other associated symptoms.
+
+Physical examination
+Blood pressure (BP) 115/70 mmHg, heart rate (HR) 74 bpm. Good general condition, conscious and oriented, eupneic at rest. Normoperfused. Cardiac auscultation: rhythmic, no murmurs or extratonos. Pulmonary auscultation: preserved vesicular murmur with no extra sounds. Lower limbs: no oedema.
+
+COMPLEMENTARY TESTS
+EGC: sinus rhythm at 80lpm. Normal PR. QRS 120 msec with BCRDHH morphology. No significant repolarisation alterations.
+Blood tests (on admission): normal haemogram. Normal coagulation except D-dimer 4477 ng/ml. Arterial blood gases: pH 7.38, pCO2 35 mmHg, bicarbonate 21 mEq/l, lactate 4.2 mmol/l.
+In the biochemistry normal renal function, without ionic alterations and with negative acute phase reactants.
+Cardiac markers: evolution of ultrasensitive troponin I 7.7 - 174 - 40 ng/ml, with normal CK. Nt-proBNP 457 pg/ml.
+Chest X-ray on admission: normal cardiothoracic index, no evidence of heart failure.
+Control chest X-ray after ICD implantation: subcutaneous defibrillator with pre-sternal electrode. Minimal subcutaneous emphysema. Subcutaneous reservoir with terminal at the confluence of the brachiocephalic venous trunks.
+Urgent coronary angiography: access via right radial artery. 177 cc of contrast. Left coronary trunk without lesions. Anterior descending artery of small calibre and development with a non-significant lesion in the distal portion (corresponding to the middle third of the theoretical trajectory) with a blurred image and with a distal vessel of small development and calibre. Coronary anomaly with middle and distal portion of the anterior descending artery with exit from the right coronary sinus, close to the exit of the right coronary artery. Circumflex and right coronary without lesions.
+Echocardiogram: left ventricle not dilated, with normal wall thickness.
+Normal global systolic function (LVEF 60-65%), hypokinesia of inferior septum and inferior face.
+Transmitral filling pattern of impaired relaxation. E/e' ratio 6. Left atrium not dilated. Non-dilated right atrium. Non-dilated right ventricle, with normal global systolic function. Mitral valve with calcium in the annulus and leaflets. No stenosis. Slight insufficiency.
+Aortic valve morphologically and functionally normal. Tricuspid valve morphologically normal. Slight insufficiency. Pulmonary artery systolic pressure not estimable. Inferior vena cava not dilated with physiological inspiratory collapse. No pericardial effusion. Epicardial fat. Non-dilated aortic root.
+Cardiac magnetic resonance: study within normal limits. No areas of myocardial inflammation or ischaemic scarring. Biventricular size and systolic function within normal limits.
+CT coronary arteries: calcium quantification (Agatston) 410 (80th percentile for age, sex and race). CT angiography: extensive coronary atheromatosis. Anterior descending artery that exhausts at the proximal-middle level of the IV anterior sulcus. Ectopic vessel originating in the right sinus running anterior to the TAP that reaches the IV groove at mid level. It has a concentric stenosis at its origin of 30%.
+
+Assessment by medical oncology: in the absence of further information, it appears that pulmonary metastases have an indolent behaviour, with long-lasting stabilisation, so that in the face of this complication and the current suspicion, therapeutic rest could even be considered. If this is not the case or if progression occurs, there are non-cardiotoxic alternatives to 5-fluorouracil (raltitrexed, irinotecan). It will be up to the discretion of your regular oncologist to choose the most suitable treatment depending on the clinical situation at discharge.
+Electrophysiology: a 6 cm incision is made in the left mid-axillary region and dissection is carried out up to the muscular plane, the serratus anterior muscle is divided to form the pocket for the generator; tunneling is carried out from the left mid-axillary line to the left parasternal region where a 3 cm incision is made at the level of the sixth intercostal space (EIC) and from the latter it is tunneled to the second EIC (left parasternal). An electrode is fixed at the level of the sixth parasternal left EIC and connected to the generator, which is fixed to the muscular plane; it is closed in planes. The procedure was concluded without complications. Induction of ventricular fibrillation (VF) was performed on three occasions, which cardioverted to sinus rhythm spontaneously, for which a 10 J shock was performed to measure the impedance of the circuit, which was normal (75 Ohm); at the end of the procedure the radiological position was assessed as adequate and a low probability of defibrillation failure was estimated (PRAETORIAN SCORE). Conditional zone is programmed at 220 bpm and VF zone at 250 bpm (5 therapies of 80 J).
+Post-discharge pacing on. Shock impedance in normal range. Smart Pass filter on. Vector chosen primary x 1.
+
+CLINICAL EVOLUTION
+The patient arrived at our centre haemodynamically stable, without chest pain or signs of heart failure, without ionic or other alterations. In the transthoracic echocardiogram, biventricular size and function were normal, with no significant alterations.
+It was decided to perform emergent coronary angiography, which showed the anomaly in the anterior descending artery (LAD) described, with no images suggestive of significant disease. Analytically, there was minimal elevation of myocardial damage markers in the serialisation, with a peak of 140 of ultra-sensitive troponin I.
+Once the initial study had been performed, three aetiologies of the arrest were considered:
+Coronary anomaly, although coronary angiography did not show an inter- or intra-arterial trajectory of the LAD.
+Acute coronary syndrome due to plaque rupture in the distal LAD, this entity being unlikely.
+Vasospasm secondary to treatment with 5-fluorouracil on previous plaque.
+With these options, it was decided to first perform a coronary CT scan, which ruled out an intra-arterial trajectory of the anterior descending artery. The study continued with cardiac MRI as a myocardial study, with no evidence of structural heart disease or ischaemic lesions.
+During admission, the patient remained on cardiac monitoring, with no arrhythmic events.
+At this point, having ruled out all other aetiologies, the first diagnostic possibility was vasospasm due to 5-fluorouracil; however, as this could not be confirmed reliably, she was presented at an interdisciplinary medical-surgical session (clinical and interventional cardiology, cardiac surgery and medical oncology), where it was considered that the implantation of an ICD device was indicated for secondary prevention, with a subcutaneous ICD being the ICD of choice, as she was a carrier of a central venous reservoir for active use.
+
+The procedure was performed without periprocedural complications. However, in the following 12 hours on the ward, she presented two inappropriate shocks, assessed by electrophysiology and the company's technicians, and showed evidence of retrosternal air interference visualised in the first control X-ray after the procedure. After two days of monitoring, a new X-ray was taken which showed reabsorption of the subcutaneous emphysema, with no further discharges after 48 hours of observation. In view of the good evolution, the patient was discharged from hospital with follow-up in monographic cardio-oncology consultations.
+During the follow-up, new administrations of 5-fluouracil were prohibited and replaced by a new chemotherapy agent, and the patient progressed favourably from both the cardiological and oncological points of view. She has not presented any new discharges since discharge.
+
+DIAGNOSIS
+Out-of-hospital cardiorespiratory arrest with immediate cardiopulmonary resuscitation (CPR) recovered in second shock.
+Possible vasospasm due to fluoropyrimidines.
+Subcutaneous ICD implantation in secondary prevention. Inappropriate discharge due to air interference.
+Anterior descending with middle and distal portion with exit from right coronary sinus.
+Normal biventricular function.
+Adenocarcinoma of the colon intervened in control with 5-FU chemotherapy.
+Arterial hypertension.

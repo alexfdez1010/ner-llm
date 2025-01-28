@@ -1,0 +1,29 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Se trata de una mujer de 42 años, con hipertensión en tratamiento con enalapril/ hidroclorotizida 20/12,5 mg/día, dislipemia en tratamiento con atorvastatina 20 mg/día y exfumadora de 10 paquetes/año.
+Antecedentes de lupus eritematoso sistémico (LES) diagnosticado con 27 años a raíz de un cuadro de afectación cutánea y renal, en tratamiento crónico con prednisona a dosis bajas (5 mg/día). Nefropatía lúpica clase IIIB, con biopsia compatible con glomerulonefritis segmentaria y focal. Anticuerpos antifosfolípidos positivos (anticardiolipina IgG, anticardiolipina IgM, anti-beta-2 glicoproteína-I y anticoagulante lúpico positivos). Sin antecedentes trombóticos ni gineco-obstétricos.
+Consulta en Urgencias por un cuadro de dos días de evolución consistente en parestesias, dolor y frialdad en el pie derecho que empeoran con el decúbito supino y claudicación de la marcha al cabo de 50 m. Además, episodio de mareo y sudoración sin claro dolor torácico, ni otra sintomatología.
+A la exploración presenta buen estado general. Eupneica. TA 115/75 mmHg, FC 75 lpm. Auscultación cardiaca rítmica, sin soplos ni extratonos. Auscultación pulmonar con murmullo vesicular conservado. Miembro inferior derecho con pulso femoral grado 3, poplíteo grado 3, sin pulsos distales. Palidez y frialdad del pie derecho, relleno venocapilar muy enlentecido con respecto al contralateral. Movilidad y sensibilidad conservadas. Ausencia de lesiones tróficas.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal a 91 lpm. PR normal. QRS estrecho, eje normal. Onda Q en V1-V5 con onda T negativa en V1-V2, aplanada en V3-V6.
+Eco-Doppler miembro inferior derecho: oclusión de 2o porción de arteria poplítea con recanalización en tibial posterior.
+Ecocardiograma transtorácico: ventrículo izquierdo no dilatado, con espesores parietales normales. Disquinesia apical y aquinesia de los tercios distales de todas las caras; hipoquinesia del tercio medio de septo anterior y cara anterior. FEVI conservada (Simpson biplano 55 %). Se observa ocupación del ápex por una masa sésil, semilunar; como primera posibilidad diagnóstica: trombo intraventricular.
+Válvula mitral con masa redondeada de aproximadamente 1 x 1 cm adherida a la cara auricular del anillo posterior y la base del velo posterior, que condiciona una insuficiencia muy excéntrica dirigida hacia el septo interauricular.
+Ventrículo derecho no dilatado, con función sistólica global normal. Sin otras valvulopatías.
+Sin derrame pericárdico.
+Ecocardiograma transesofágico: válvula mitral con velos finos, apertura normal. Se observa una imagen redondeada, de ecogenicidad homogénea y bordes bien definidos, adherida a la cara auricular de la porción posterior del anillo y la base del velo posterior, a nivel de la unión de los festones P2 y P3, de diámetro máximo de 1,12 cm, que condiciona insuficiencia II/IV.
+TC coronario: disección trombosada del segmento medio de la descendente anterior, con afectación del origen de la segunda rama diagonal. Trombo intraventricular izquierdo.
+Coronariografía: dominancia derecha. Enfermedad de un vaso con lesión larga en tercio medio de descendente anterior compatible con disección, vaso distal con flujo TIMI 3. Resto sin lesiones.
+
+EVOLUCIÓN
+Se realizó un diagnóstico inicial de isquemia subaguda de miembro inferior derecho secundaria a trombosis infrapoplítea, que se puso en relación con síndrome antifosfolípido. Se inició tratamiento médico con anticoagulación y prostaglandinas con buena respuesta. Sin embargo al realizarse el ECG se objetivó QS anteroseptal, que motivó la realización de un ecocardiograma transtorácico con hallazgo de alteraciones de la contractilidad compatibles con infarto anterior, trombo intraventricular apical, y masa redondeada adherida a la válvula mitral.
+Un ecocardiograma transesofágico con hemocultivos negativos confirmó el diagnóstico de endocarditis de Libman-Sacks embolígena.
+Además se realizó un TC coronario y una coronariografía que mostraron una lesión larga en la DA media compatible con disección coronaria espontánea trombosada.
+Se completó el estudio con una RMN cerebral que mostró pequeñas lesiones isquémicas lacunares en ambos hemisferios cerebrales y un aneurisma situado en la bifurcación de la carótida interna del lado izquierdo.
+Se realizó un tratamiento agresivo del brote de LES con pulsos de metilprednisolona, rituximab, micofenolato de mofetilo y sulfato de hidroxicloroquina y tratamiento médico de las trombosis con anticoagulación. Asintomática al alta, se inició tratamiento con dosis bajas de betabloqueante.
+En el seguimiento posterior presenta buena evolución: VI con función sistólica preservada, sin nuevos episodios de isquemia, y resolución de la endocarditis de Libman-Sacks con desaparición de la masa.
+
+DIAGNÓSTICO
+Brote agudo de lupus eritematoso sistémico:
+Endocarditis de Libman-Sacks embolígena. Trombo ventricular izquierdo. Isquemia subaguda infrapoplítea de miembro inferior derecho.
+Disección coronaria espontánea de descendente anterior. Infarto de miocardio anterior evolucionado con función ventricular global conservada.

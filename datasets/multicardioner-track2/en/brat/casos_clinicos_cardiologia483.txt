@@ -1,0 +1,19 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+A 52-year-old female smoker, with no history of hypertension, diabetes mellitus or dyslipidaemia.
+She was admitted in February 2016 for a syncopal episode without prodrome with cranioencephalic trauma associated with a baseline ECG without alterations and cranial CT scan showing a small focus of subarachnoid haemorrhage in the left parietal and temporal lobes. In November 2016, he was readmitted for sudden recurrent syncope with fracture of the bones of the nose, and an echocardiogram was performed with no abnormalities, an orthostatic test and carotid massage were negative, and a tilt test with mixed response after NTG sl, with dizziness and hypotension with HR 40 bpm, but without loss of consciousness. It was therefore decided to implant a subcutaneous Holter (Reveal LINQ).
+She came for a Reveal review, after activating it due to an episode of loss of consciousness, while in the washroom preparing to go to work, preceded by a strange, undefined sensation, with a subsequent fall to the floor, with rapid recovery, without sphincter release or tongue biting. Reveal monitoring detected a 15-second pause (with a single wide QRS escape), with no previous tachycardia. The patient was admitted for further investigation.
+Physical examination showed a good general condition. BP 125/73 mmHg HR 65 bpm. Sat 02 96 %. AC: rhythmic heart tones without murmurs. AR: MVC, without added aggregates. EEII: no oedema.
+
+COMPLEMENTARY TESTS
+CBC: urea 38 mg/dl, creatinine 0.63 mg/dl, Na 142 mEq/L, K 3.7 mEq/l, Hb 12.1 g/dl, leukocytes 8,050, platelets 309,000, coagulation within normal limits.
+Electrocardiogram: RS at 60lpm PR 164 ms narrow QRS, J-point elevation 0.5 mm V3-V6.
+24-hour Holter: sinus rhythm throughout the recording at a mean HR of 60 bpm; maximum of 104 bpm and minimum of 49 bpm. Rare isolated supraventricular extrasystoles. No significant pauses, maximum RR 1.33 seconds.
+Transthoracic echocardiogram: normal.
+Electrocardiogram after pacemaker implantation: atrial and ventricular pacing rhythm.
+
+EVOLUTION
+On the cardiology ward, he was kept under continuous monitoring, 24-hour Holter with no evidence of new arrhythmic episodes and an echocardiogram within normal limits. The patient was diagnosed with malignant vasovagal syncope and it was decided to implant a DDD pacemaker, without incident, with correct pacing and sensing thresholds. After an adequate evolution, she was discharged home.
+
+DIAGNOSIS
+Malignant vasovagal syncope.

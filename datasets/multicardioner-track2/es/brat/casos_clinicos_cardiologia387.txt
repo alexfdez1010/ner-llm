@@ -1,0 +1,35 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+No alergias medicamentosas conocidas.
+FRCV: exfumador de un paquete/día desde hace 2 años tras un infarto agudo de miocardio (IAM). Dislipemia en tratamiento farmacológico.
+Historia cardiológica: en control en consultas externas por cardiopatía isquémica crónica y dislipemia.
+En 2016 síndrome coronario agudo con elevación del segmento ST (SCACEST) inferoposterolateral: en cateterismo se apreció enfermedad arterial coronaria grave de dos vasos: circunfleja (lesión aguda) y coronaria derecha, con implantación de un stent farmacoactivo en cada uno de los vasos.
+Último ecocardiograma (julio 2017): ventrículo izquierdo (VI) no dilatado, hipertrófico leve con función sistólica global conservada e hipocinesia inferoposterior. Válvula aórtica trivalva sin alteraciones funcionales. Válvula mitral sin alteraciones funcionales detectables. Ventrículo derecho (VD) no dilatado con buena función. No se detecta insuficiencia tricuspídea (IT). Curva de aceleración pulmonar no sugestiva de hipertensión pulmonar. No derrame pericárdico.
+No broncopatía conocida.
+No antecedentes de intervenciones quirúrgicas.
+Tratamiento habitual: omeprazol 20 mg (1-0-0), ácido aceltisalicílico (AAS) 100 mg (0-1-0), ramipril 2,5 mg (0-1-0), rosuvastatina 20 mg (0-0-1), ezetimiba 10 mg (0-0-1).
+
+ENFERMEDAD ACTUAL:
+El paciente acude a su cita en consultas externas de cardiología, un año después del infarto.
+Subjetivamente se encuentra bien, sin disnea, ni nuevos episodios de dolor torácico con los esfuerzos. Desde el último cambio en el tratamiento de estatinas no ha vuelto a presentar dolores musculares. Sale a la calle a diario y pasea más de 1 hora. Sube a su vivienda habitual (3o piso) usando las escaleras sin disnea que le obligue a parar para descansar. Niega ortopnea y disnea paroxística nocturna.
+Impaciente por los resultados de la analítica. Desde el ingreso por el IAM, se diagnosticó de dislipemia, comenzando tratamiento con atorvastatina 80 mg, que tuvo que ser suspendido a los 4 meses de iniciarlo por dolores musculares incapacitantes. En el momento actual, se encuentra en tratamiento con rosuvastatina 20 mg y ezetimiba 10 mg.
+
+EXPLORACIÓN FÍSICA:
+Tensión arterial (TA) 135/70 mmHg, frecuencia cardiaca (FC) 85 lpm, saturación arterial de oxígeno medido por pulsimetría (SpO2) 98% aire ambiente. Eupneico en reposo. C/C: No plétora yugular. Auscultación cardiaca: rítmica sin soplos. Auscultación pulmonar: murmullo vesicular conservado. Extremidades: no edemas ni datos de trombosis venosa profunda (TVP).
+
+PRUEBAS COMPLEMENTARIAS
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal a 80 lpm. Eje normal. PR normal. QRS estrecho. Onda Q en DIII y avF, sin alteraciones agudas de la repolarización.
+ANALÍTICA: glucosa 83 mg/dl, urea 53 mg/dl, creatinina 0,93mg/dl, colesterol total 160 mg/dl, colesterol HDL 47mg/dl, colesterol LDL 70 mg/dl, triglicéridos 130 mg/dl, CK 112 U/l, GOT 17 U/l, GPT 30 U/l, GGT 45 U/l, sodio 141 mmol/l, potasio 4,6 mmol/l, hemoglobina 14,6 g/dl, leucocitos 8.40010^3/μl (N 45%), plaquetas 267.000 10^3/μl.
+ECOCARDIOGRAMA TRANSTORÁCICO: VI no dilatado, hipertrófico leve con función sistólica global conservada e hipocinesia basal inferoposterior. Patrón diastólico pseudonormalizado. Raíz de aorta normal (35 mm). Válvula aórtica trivalva sin alteraciones funcionales. Válvula mitral normal en estructura y función. VD no dilatado con buena función. No se detecta IT. Curva de aceleración pulmonar no sugestiva de hipertensión pulmonar. No derrame pericárdico.
+
+EVOLUCIÓN CLÍNICA
+Tras el IAM, el paciente fue diagnosticado de dislipemia. Inicialmente comenzó tratamiento con atorvastatina 80 mg, que tuvo que ser suspendido por mialgias incapacitantes a los 3 meses, sin datos de miositis ni rabdomiolisis. Posteriormente, se pautó rosuvastatina 40 mg, consiguiéndose mejoría de los dolores musculares, pero sin ceder por completo, siendo necesaria la disminución de la dosis a rosuvastatina 20 mg al cuarto mes del evento. Con ello presentó gran mejoría sintomática con desaparición de las mialgias, pudiendo mantener una vida activa habitual. Sin embargo, en el siguiente control ambulatorio a los 6 meses del evento cardiovascular, no se consiguieron las cifras de colesterol unido a lipoproteínas de baja densidad (cLDL) recomendadas para prevención secundaria, por lo que se añadió al tratamiento ezetimiba, además de incidir especialmente en la importancia del cumplimiento de las medidas higiénico-dietéticas. Fue citado de nuevo al año del IAM.
+En el momento actual, el paciente refiere encontrarse completamente asintomático desde el punto de vista cardiológico, aunque algo nervioso y desesperado por la imposibilidad de conseguir un adecuado control de los niveles de cLDL. Realiza dieta mediterránea con escaso consumo de grasas, camina diariamente a paso ligero 2 horas y toma de forma exhaustiva toda la medicación.
+Con todo ello, finalmente, se han conseguido unos niveles de cLDL objetivo óptimos, sabiendo que nuestro paciente presenta un riesgo cardiovascular establecido muy alto.
+
+DIAGNÓSTICO
+Cardiopatía isquémica crónica.
+Dislipemia de difícil control.
+Intolerancia a estatinas (mialgias).
+Función sistólica de VI conservada.

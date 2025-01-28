@@ -1,0 +1,19 @@
+History, current illness and physical examination
+54-year-old male patient with a history of arterial hypertension, type 2 diabetes mellitus, with no known allergies.
+Home treatment with insulin Lantus 24 IU/24h and rapid insulin 4 IU/8h, losartan 100 mg/24h. She came to the emergency department with a sensation of numbness in the right upper limb (MSD) the previous night, and when she woke up she was unable to move it. He denied any other symptoms. Conscious, oriented, alert. Normal language. Normal EOM. Normal cranial nerves. Paresis in MSD 3/5 and slight hypoesthesia. Rhythmic heart tones without murmurs. Preserved MV without added noises. No oedema in lower limbs. Rest normal.
+
+Complementary tests
+CBC: normal haemogram, normal coagulation. Biochemistry with G 123 mg/dl, Cr 1 mg/dl. Cholesterol 192 mg/dl, LDL 133 mg/dl, TG 97 mg/dl. Rest normal.
+ECG: sinus rhythm at 54 bpm, normal axis, no repolarisation alterations.
+Cranial CT scan: ischaemic lesion in the most posterior portion of the left parietal lobe. There is another hypodense image of triangular morphology in the left frontal lobe suggesting ischaemic lesion. No other relevant findings.
+TSA echo-Doppler: parvus tardus wave at the level of the ICA in discordance with what was seen in B-mode and colour, which may be related to stenosis, so angio-MRI is recommended.
+Angio-MRI of TSA: no significant stenosis data are seen in the carotid bulbs or in the internal or external carotid arteries on both sides. Basilar and vertebral arteries are patent.
+Cerebral MRI: several lesions in the left MCA territory with diffusion restriction, corresponding to acute ischaemic lesions of probable embolic origin.
+Transthoracic echocardiogram: aI 35.9 mm and Ao 32 mm. Preserved LV systolic function with LVEF of 64%. Ventricular filling with altered relaxation pattern. Mild LVH. Peripheral intravenous FSS was injected and no bubbles were observed passing through the interatrial septum suggestive of PFO.
+
+Clinical evolution
+The patient recovered muscle strength, but presented mild hypoaesthesia in the right arm. He was discharged with a diagnosis of left parietal and frontal cerebral infarction of uncertain nature; under treatment with Adiro 300 mg/24h and atorvastatin 80 mg/24h. She was readmitted after 8 months due to vertiginous symptoms, vomiting, dysarthria and gait instability, as well as horizontal nystagmus to the left which, in addition to the previous infarcts, showed a new lesion in the cranial CAT scan, compatible with acute infarction in the left PICA territory. The cardiological study was normal and transesophageal echocardiography (TEE) was requested on a scheduled basis. He was discharged with a diagnosis of cryptogenetic left cerebellar ischaemic stroke, and treatment with Sintrom, suspending Adiro. TEE was performed and reported as no dilatation of cavities. Thinning of the interatrial septum at the level of the foramen ovale without macroscopic detachment and without abnormalities in mobility, with no signs of shunt seen with colour Doppler. Echocontrast was performed with agitated colloidal solution both at baseline and after the Valsalva manoeuvre. Early passage of microbubbles to the left cavities was observed after the Valsalva manoeuvre. The patient remained stable during follow-up without new cardioembolic episodes.
+
+Diagnosis
+Patent foramen ovale
+Recurrent cryptogenic ischaemic stroke

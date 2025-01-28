@@ -1,0 +1,16 @@
+Historia clínica y enfermedad actual
+Mujer de 49 años con antecedente de enfermedad de Chagas crónica, portadora de marcapaso desde hace 35 años, no toma ningún medicamento. Diabetes (-), HTA (-). Cirugías: 3 cambios de electrodo (la última hace 9 años).
+
+Examen físico: PA 110/65 FC 70 lpm, peso 62 kg, talla 1,65 m. Auscultación cardiaca: rítmico, soplo sistólico leve +/+6 en foco mitra, choque de punta entre 4to y 5to EII. Auscultación pulmonar: MV sin ruidos agregados. Clase Funcional I según NYHA. La paciente refiere mareo frecuente hace 2 semanas llegando a presentar síncope cuando estaba sentada conversando con su familia en su domicilio, motivo por el cual decide consultar. Relata que el marcapaso le fue implantado cuando tenía 14 años y nunca realizó cambio de generador por tratarse de un marcapaso con batería en base a energía nuclear (plutonio) que le fue donado en el año 1974. Las cirugías que realizó hasta el momento fueron cambios de electrodos, no existiendo historia clínica que indique el motivo de dicho cambio.
+
+Pruebas complementarias
+• Analítica sanguínea: hemoglobina 13 gr/dl , leucocitos 6.443, plaquetas 254.000, glucosa 88, creatinina 1,1, Na 142, K:4,0.
+• ECG: sinusal, con ritmo de marcapaso unicameral estimulando Unipolar en ventrículo FC 70 lpm, sin conducción VA.
+• Radiografía de tórax: área cardiaca con aumento leve, se observan 2 electrodos endocárdicos abandonados y 1 epicárdico conectado a generador con pastilla de plutonio en su interior.
+• Ecocardiograma: FE 59%, DDVI 57 mm, AI: 45 mm, septo IV 10 mm. Hipoquinesia leve pared inferior, sin trombos, sin derrame pericárdico. Holter 24 horas. Ritmo de MP VVI 70 lpm EVs aisladas poco frecuentes polimorfas, periodos de perdida de comando ventricular generando asistolia entre 5 y 7 segundos en vigilia y en periodo nocturno (no se registra la espícula durante la perdida de captura).
+
+Evolución clínica
+Al no disponer de un programador para ese modelo de marcapaso se decide realizar procedimiento quirúrgico para evaluar la integridad del sistema de marcapaso (la paciente solicita que si se trata de falla del electrodo, que se le mantenga el mismo marcapasos, ya que lo ha tenido casi toda su vida y sabe que tiene energía ilimitada). Durante el procedimiento quirúrgico, al retirar el generador del bolsillo, se observó el conector dañado y haciendo contacto con el electrodo con material de silicona que fue colocado en la anterior cirugía, resultando actualmente en un contacto intermitente después de 9 años de operada. La paciente recibió nuevo sistema de estimulación St. Jude Zephyr SR programado VVIR 70 lpm, epicárdico al no poder tener acceso por vía venosa. Recibiendo alta en 48 horas y manteniéndose asintomática hace aproximadamente 12 meses.
+
+Diagnóstico
+Falla de captura por bloqueo de salida intermitente.

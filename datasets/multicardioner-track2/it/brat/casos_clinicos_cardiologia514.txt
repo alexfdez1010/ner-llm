@@ -1,0 +1,14 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Un uomo di 70 anni, iperteso e senza altre anamnesi personali o familiari di interesse, è stato trasferito in elicottero dal Pronto Soccorso con un sospetto di sindrome coronarica acuta. Il paziente si trovava in una zona di difficile accesso stradale e ha chiamato il Pronto Soccorso riferendo un intenso dolore toracico e nausea.
+Al momento della valutazione da parte della Cardiologia, il paziente era torbido, emodinamicamente instabile (pressione 70/40), scarsamente perfuso e con un forte dolore toracico. All'auscultazione cardiaca non si sentivano soffi e i toni erano smorzati. L'auscultazione polmonare non ha rivelato suoni aggiuntivi. Non sono palpabili pulsazioni periferiche.
+
+ESAMI COMPLEMENTARI
+ECG: ritmo sinusale con innalzamento del segmento ST di 5 mm V2-V6, I, aVL, II, III e aVF con innalzamento del segmento ST in V1 e aVR. Ecocardiogramma transtoracico: LV senza alterazioni apparenti della contrattilità. Si osserva un lembo dell'aorta nella cavità ventricolare, con moderata insufficienza aortica, senza un'adeguata visualizzazione dell'aorta ascendente. Le cavità destre sono normali e non c'è versamento pericardico. Angio-TC: in fase di non contrasto, si identificano calcificazioni lineari nel lume dell'arco aortico, nonché calcificazioni nel lume dell'aorta addominale in corrispondenza dei vasi renali e di entrambe le arterie iliache comuni, compatibili con placche di ateroma con spostamento dell'intima e quindi compatibili con il sospetto di dissezione. Aneurisma dell'aorta ascendente di 5 cm. Il parenchima polmonare mostrava ispessimento interstiziale, infiltrati bilaterali prevalentemente nelle regioni posteriori e piccoli versamenti pleurici, suggestivi di edema.
+
+EVOLUZIONE
+Visti i risultati ecocardiografici, è stata richiesta un'angiografia TC d'urgenza ed è stata avvisata la Cardiochirurgia per un eventuale intervento. È stata avviata la perfusione con noradrenalina e il paziente è stato immediatamente trasferito in radiologia. Qui ha presentato una desaturazione che ha richiesto l'OTI e poi una bradicardia estrema che ha impedito un'angiografia TC valida. Sono state acquisite solo immagini non contrastate in fase arteriosa, compatibili con il sospetto di dissezione di un aneurisma dell'aorta ascendente di 5 cm, insieme a un edema polmonare. Il paziente evolve rapidamente in modo sfavorevole, con una bradicardia estrema che persiste nonostante le manovre di rianimazione avanzate e che degenera in asistolia e morte.
+
+DIAGNOSI
+Aneurisma dell'aorta ascendente.
+Sindrome aortica acuta con sospetto coinvolgimento delle coronarie e della valvola aortica.
+Evoluzione in shock cardiogeno e exitus.

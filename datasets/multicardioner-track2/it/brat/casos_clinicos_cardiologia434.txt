@@ -1,0 +1,32 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+BACKGROUND:
+Maschio di 60 anni, nessuna allergia nota a farmaci, come fattori di rischio cardiovascolare è un fumatore di 15 sigarette al giorno, iperteso e dislipidemico. Altri antecedenti sono una sindrome ansioso-depressiva, una bronchite cronica con trattamento broncodilatatore ed è un ex-minatore. È stato operato per una frattura dell'anca destra 5 anni fa e per una frattura della caviglia destra più di 20 anni fa. Non ha precedenti personali o familiari di malattie cardiache o di morte improvvisa.
+Segue un trattamento regolare con fluoxetina 40 mg/24 ore, omeprazolo 20 mg/24 ore, bromazepam 1,5 mg/24 ore, valsartan 160 mg/24 ore, pravastatina 20 mg/24 ore, formoterolo 100/beclometasone 6 mcg 1 inalazione/24 ore e salbutamolo al bisogno.
+
+MALATTIA ATTUALE:
+Il giorno precedente il ricovero, il paziente ha riferito di aver iniziato con una condizione catarrale, con malessere generale e senza febbre, per cui si è recato dal suo medico di base il giorno del ricovero, che gli ha prescritto un trattamento antibiotico con moxifloxacina 400 mg. Dopo l'assunzione della prima dose, ha iniziato a manifestare un intenso prurito al cuoio capelluto, seguito da sudorazione, rash cutaneo, dolore toracico centrale oppressivo non irradiante e dispnea intensa. Hanno chiamato i servizi di emergenza e all'arrivo del 112 hanno trovato il paziente dispnoico, con notevole distress respiratorio, ipoteso (pressione arteriosa [BP] 80/60) e con una saturazione di ossigeno del 78%, che è migliorata dopo la somministrazione di sieroterapia e broncodilatatori, per cui è stato trasferito al nostro centro. All'arrivo nel nostro centro, il paziente è stato ricoverato al pronto soccorso ed è risultato emodinamicamente stabile e non in distress respiratorio, con un miglioramento dei parametri di ossigenazione; è stata contattata la cardiologia ed è stato ricoverato nell'unità coronarica del nostro centro.
+
+
+ESAME FISICO:
+Pressione arteriosa 130/70. Frequenza cardiaca 85 bpm. Temperatura 36 °C. Cosciente, orientato, buona perfusione distale. Eupnea con aria ambiente senza ossigeno supplementare. Torace enfisematoso. Testa e collo: no IVY, no reflusso epatogiugulare. Auscultazione cardiaca: ritmica, nessun soffio udibile. Auscultazione polmonare: Ipoventilazione globale. Addome: morbido, depressibile, non dolente alla palpazione. Estremità: nessun edema, nessuna evidenza di trombosi venosa profonda.
+
+ESAMI COMPLEMENTARI
+ELETTROCARDIOGRAMMA (ECG) (112): ritmo sinusale a 95 bpm, PR 160 MS, QRS stretto. Asse 60o. Elevazione del soprasegmento ST inferiore.
+ECG (unità coronarica): ritmo sinusale a 100 bpm, PR 160 ms, QRS stretto. q III. Normalizzazione del segmento ST.
+RADIOGRAFIA TORACE: indice cardiotoracico normale senza evidenza di ridistribuzione vascolare.
+ANALISI (nell'unità coronarica):
+Emocromo: leucociti: 18,8 10e3/ul (80,2% neutrofili, 16,7% linfociti); emoglobina 17,5 g/dl; piastrine 331 10e3/u.
+Biochimica: creatinina 1,02 mg/dl (GFR 72ml/min/m2); urea 42 mg/dl, sodio 140 mEq/l, potassio 4,1 mEq/l, glicemia 119 mg/dl. Picco CK 232 U/l (range normale 10-192); picco CKMB 35 U/l; picco troponina ultrasensibile 195 ng/l (range normale 0-13).
+Colesterolo totale 187; LDL 106; HDL 38; trigliceridi 212. AST 23 U/l (range normale 15-41); ALT 15 U/l (range normale 0-13). Ormoni tiroidei nella norma.
+Coagulazione: INR 1,02; tasso di protrombina 89%.
+Emogasanalisi arteriosa (FiO2 21%): pH 7,30, PCO2 37, PO2 76, bicarbonato 18, saturazione 90%.
+CATETERE CARDIACO: arterie coronarie senza lesioni angiograficamente significative.
+ECOCARDIOGRAMMA: ventricolo sinistro non dilatato, con lieve ipertrofia, con funzione globale conservata senza anomalie segmentali della contrattilità (LVEF calcolato al 60%). Ventricolo destro di dimensioni e funzione normali. Atrio sinistro leggermente dilatato. Nessuna cardiopatia valvolare. Vena cava inferiore non dilatata con adeguato collasso inspiratorio. Assenza di versamento pericardico. Arco aortico normale.
+
+EVOLUZIONE CLINICA
+All'arrivo in unità coronarica, il paziente era asintomatico, senza nuovi episodi di angina, ed emodinamicamente stabile, con normalizzazione delle alterazioni della ripolarizzazione che presentava all'inizio del quadro. È stato eseguito uno studio emodinamico che ha mostrato arterie coronarie senza lesioni e un ecocardiogramma che ha mostrato un ventricolo di dimensioni e funzione conservate, senza anomalie della contrattilità. Durante il ricovero, il paziente ha presentato un'insufficienza renale acuta, con acidosi metabolica che si è risolta con il trattamento, ed è stato inviato al reparto di allergologia. Dopo l'esecuzione di test cutanei, i sintomi sono stati interpretati come angina vasospastica allergica o KS secondaria alla moxifloxacina. Successivamente, durante la degenza nel reparto di cardiologia, il paziente è rimasto asintomatico dal punto di vista cardiovascolare e si è deciso di dimetterlo in quinta giornata e di continuare i controlli ambulatoriali.
+
+DIAGNOSI
+Angina vasospastica allergica (SK).
+Allergia ai chinoloni.

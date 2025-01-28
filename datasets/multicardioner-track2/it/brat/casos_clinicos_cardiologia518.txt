@@ -1,0 +1,17 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi personale
+HBP. Dislipidemia. Fibrillazione atriale parossistica in trattamento con OAC.
+Diagnosi di tumore alla vescica, TUR eseguita dal reparto di Urologia. In follow-up ambulatoriale. Ha un pacemaker permanente DDDR da 2 mesi a causa di una malattia del nodo del seno diagnosticata in seguito a un episodio sincopale. Elettrodo di fissaggio attivo.  Malattia attuale Ricoverata inizialmente nel reparto di Pneumologia per dispnea da sforzo, astenia e dolore toracico pleuritico.
+
+Esame fisico
+Pressione arteriosa 110/60 mmHg. FC 90 bpm. SatO2 98% con occhiali nasali a 2 l/min. Auscultazione cardiaca: R1 e R2 ritmici e regolari, nessun soffio. Auscultazione polmonare: ipoventilazione nell'emitorace medio e inferiore di sinistra. Addome: non dolente, senza segni di irritazione peritoneale. Arti inferiori: nessun edema. Esame neurologico: funzioni conservate.
+
+ESAMI COMPLEMENTARI
+ECG: ritmo sinusale a 75 bpm, BRDHH, HBAS. T-negativo inferiore e laterale della faccia. Emocromo: leucociti 6.800/uL con 63,7% di neutrofili, Hb 11,5 g/dL, Ht: 33,8%, piastrine 255.000/uL, urea 23 mg/dL, creatinina 0,91 mg/dL, Na 142 mEq/L, K 4,3 mEq/L. Radiografia del torace: pacemaker bicamerale. Significativo versamento pleurico sinistro. Ecocardiografia: LV di dimensioni normali. LVEF conservata. Nessuna apparente alterazione segmentale della contrattilità. Cavità destra normale con contrattilità visiva conservata. Assenza di valvulopatie significative. Assenza di versamento pericardico. Tomografia computerizzata (TC) del torace: pacemaker bicamerale con derivazioni in atrio e ventricolo destro. È confermata la perforazione dell'apice del ventricolo destro da parte dell'elettrodo ventricolare, la cui estremità si trova circa 4 cm al di fuori del contorno cardiaco. È presente un piccolo ematoma nel seno del grasso cardiofrenico. Non c'è versamento pericardico. È presente un abbondante versamento pleurico sinistro, di elevata densità, compatibile con un emotorace. Non è stato identificato alcun pneumotorace. Atelettasia passiva parziale di LSI e atelettasia completa di LII.
+
+EVOLUZIONE
+Ventiquattro ore dopo il ricovero, ha presentato vertigini e instabilità posturale senza perdita di coscienza e dolore toracico con caratteristiche pleuritiche, per cui abbiamo richiesto una valutazione. Il dispositivo pacemaker è stato controllato e non ha rilevato e stimolato l'elettrodo ventricolare. Ecocardiografia senza versamento pericardico. Nonostante l'assenza di versamento pericardico, per il sospetto di perforazione del miocardio da parte dell'elettrodo ventricolare, è stata richiesta una TC toracica urgente e la diagnosi è stata confermata. Il paziente è stato sottoposto a un intervento d'urgenza in sala operatoria e l'elettrodo ventricolare è stato rimosso per via percutanea con riposizionamento nel RVOT, verificando le corrette soglie, il rilevamento e l'impedenza, e il rispettivo drenaggio toracico è stato impiantato nella stessa procedura. L'evoluzione è stata favorevole, con risoluzione dell'emotorace, corretto funzionamento del dispositivo di stimolazione e asintomatico alla dimissione.
+
+DIAGNOSI
+Perforazione miocardica tardiva dell'apice RV da parte dell'elettrocatetere del pacemaker. Reimpianto di elettrocatetere ventricolare nel RVOT. Emotorace secondario risolto alla dimissione.

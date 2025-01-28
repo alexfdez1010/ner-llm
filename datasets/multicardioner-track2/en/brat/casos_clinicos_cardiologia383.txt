@@ -1,0 +1,39 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+BACKGROUND:
+72-year-old male. No known allergies. Retired administrative worker.
+Cardiovascular risk factors (CVR): arterial hypertension (AHT) of 10 years of evolution with good control with two drugs. Diabetes mellitus (DM) type 2 of 3 years of evolution under treatment with an oral antidiabetic (ADO), with good control. Dyslipidaemia treated with statins since 2002. Ex-smoker since 2002 (20 packs/year).
+Previous cardiological history:
+Ischaemic heart disease. Debuted in 2002 with acute coronary syndrome (ACS) of the unstable angina type with disease of a vessel: proximal anterior descending (LAD) with 80% stenosis, revascularised with conventional stent. Normal left ventricular ejection fraction (LVEF). Subsequently stable, without angina.
+Mild aortic stenosis with last echocardiographic study in October 2016: normal ascending aorta. Left atrium (LA) slightly dilated (area of 28 cm2).
+Left ventricle (LV) slightly hypertrophic, not dilated, without alterations in segmental contractility and preserved LVEF. Diastolic pattern of poor relaxation.
+Degenerative aortic valve disease with mild stenosis (maximum gradient of 31 mmHg), without insufficiency. Mitral valve with good opening and no insufficiency. Normal right chambers. Trivial tricuspid insufficiency. Pulmonary arterial systolic pressure (PSAP) 32 mmHg + central venous pressure (CVP) (estimated at 3-5 mmHg). Normal inferior vena cava and pericardium.
+Paroxysmal atrial fibrillation. CHA2DS2-VASc = 4, on treatment with rivaroxaban since 2016 without haemorrhagic events.
+No other history of interest, nor surgical interventions.
+Home medication: acetylsalicylic acid (ASA) 100 mg (0-1-0), diltiazem 60 mg (1-0-0), simvastatin 20 mg (0-0-1), enalapril 10 mg (1-0-0), metformin 850 mg (1-0-1), omeprazole 20 mg (1-0-0), rivaroxaban 20 mg (1-0-0).
+
+CURRENT ILLNESS:
+She came to the emergency department of our centre for episodes of oppressive central thoracic pain, accompanied by dyspnoea and vegetative cortex, which had started 3 weeks previously. Initially they appeared with intense exertion, but over the days they became more frequent and were triggered by progressively less exertion. On the day of admission, she had a 15-minute episode at rest that subsided spontaneously.
+
+PHYSICAL EXAMINATION:
+Blood pressure (BP) 136/82 mmHg, heart rate (HR) 66 bpm, baseline oxygen saturation (SatO2) 96%. Afebrile. COC. BEG. NH. NC. Body mass index (BMI) 28 kg/m2. Jugular venous pressure normal. Cardiac auscultation: rhythmic, aortic systolic murmur II/VI with second sound respected. Pulmonary auscultation: preserved vesicular murmur. Abdomen soft, depressible, non-painful, without masses or megaliths. Lower extremities without oedema, with evidence of diabetic dermopathy and weak but present paedial pulses.
+
+COMPLEMENTARY TESTS
+ANALYSIS: coagulation: prothrombin time 12.9 sec, prothrombin time (ratio) 1.15. Partial thromboplastin time 26.6 sec, partial thromboplastin time (ratio): 0.89, INR 1.15. Haemogram: haematitis 4.14 x106/μl, haemoglobin 11.7 g/dl, haematocrit 34.6%, mean corpuscular volume 83.6 fl, MCH 28.3 pg, MCHC 33.8 g/dl. Leukocytes 4.82 x103/μl with normal formula. Platelets 158 x103/μl. Complete biochemistry: glucose 89 mg/dl, urea 32 mg/dl, creatinine 0.73 mg/dl, glomerular filtration rate (GRF) 90 ml/min, sodium 142 mmol/l, potassium 4.7 mmol/l. Amylase 67 U/l, lipase 30 U/l. Alkaline phosphatase 44 U/l, aspartate aminotransferase 16 U/l, alanine aminotransferase 19 U/l, gamma glutamyl transferase 41 U/l, total bilirubin < 1 mg/dl, total cholesterol 163 mg/dl, HDL cholesterol 53 mg/dl, triglycerides 82 mg/dl, calculated LDL cholesterol 94 mg/dl. HbA1c 6,5%, TSH 2,4 mU/l. Cardiac enzymes: creatine kinase 48 U/l with increase to 50 U/l at 3 hours, ultrasensitive troponin T (TnT-us) 22 ng/l with increase to 70 ng/l at 3 hours (normal up to 14 ng/l).
+ELECTROCARDIOGRAM (ECG): sinus rhythm at 62 bpm, complete left bundle branch block without Sgarbossa criteria (LBBB already present in previous ECGs). Serial ECG without changes.
+THORAX RADIOGRAPHY: portable, AP projection. Normal cardiothoracic index, without costophrenic sinus pinching or vascular redistribution data. No pneumonic condensation.
+TELEMETRY during admission: sinus rhythm without arrhythmic events.
+Transthoracic echocardiography (TTE): left atrium (LA) moderately dilated. Left ventricle (LV) not dilated, with moderate hypertrophy and preserved LVEF. No segmental alterations. Prolonged LV relaxation. Right ventricle (RV) of normal size and function. Fibrosed mitral valve, not stenotic. Mild mitral insufficiency. Calcified aortic valve, mobile, with mild aortic stenosis by gradient, moderate by estimated area. Mild tricuspid insufficiency. PSAP 32 mmHg + PVC.
+CORONARYGRAPHY: left coronary trunk: no stenosis. Proximal LAD with 80% stenosis in the context of in-stent restenosis, TIMI grade 3 flow with good distal bed. Mid LAD with 70% stenosis, TIMI grade 3 flow with good distal bed. Distal DA with 70% stenosis and TIMI grade 3 flow. Distal circumflex artery (Cx) has 60% stenosis, TIMI grade 3 flow and good distal bed. Right coronary artery: no stenosis.
+PERCUTANEOUS CORONARY INTERVENTION (PCI) on the LAD: Percutaneous transluminal coronary angioplasty (PTCA) is performed on in-stent restenosis in the proximal LAD, with predilatation and subsequent implantation of a 3 x 20 mm everolimus-eluting stent. Another 3 x 12 mm everolimus-eluting stent is overlapped distally in the middle third stenosis. We finished by implanting another 2.5 x 12 mm everolimus-eluting stent over the distal LAD stenosis.
+
+CLINICAL EVOLUTION
+The patient was admitted to the hospital ward as non-ST-segment elevation acute coronary syndrome (NSTEACS) of the non-Q acute myocardial infarction (AMI) type in a stable haemodynamic situation (Killip Kimball [KK] I). Given the aortic murmur and the history of mild aortic valve disease, echocardiography was performed to confirm that there was no severe stenosis and to assess LV systolic function. TTE reveals mildly moderate aortic stenosis with preserved LVEF. Given a high-risk ACS, coronary angiography was performed in the first 24 hours, revealing severe in-stent restenosis in the proximal LAD and severe lesions in the mid and distal LAD with moderate lesions in the distal Cx. In the same procedure, PCI was performed on the LAD with implantation of three overlapping drug-eluting stents from proximal to distal. The patient evolved favourably without complications.
+As for his CVRF, it seems clear that LDL cholesterol is off target and we will increase his statin; but will this be enough? And regarding his type 2 DM, he is well controlled with metformin (HbA1c 6.5%). So, do I maintain his treatment or should I take advantage of this moment to do something else?
+
+DIAGNOSIS
+Ischaemic heart disease. NSTEACS non-Q AMI. KKI. 2-vessel coronary artery disease: Severe proximal LAD with in-stent restenosis and severe mid and distal LAD; moderate distal Cx. PCI over LAD with three overlapping drug-eluting stents. Preserved LVEF without asynergies.
+Degenerative aortic valve disease, mild-moderate aortic stenosis.
+Paroxysmal atrial fibrillation, CHA2DS2-VASc = 4, HAS-BLED = 2.
+Type 2 DM with good control (HbA1c 6.5%).
+LDL cholesterol out of target.

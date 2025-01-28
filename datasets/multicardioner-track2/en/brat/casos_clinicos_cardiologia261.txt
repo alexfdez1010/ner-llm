@@ -1,0 +1,41 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+65-year-old male referred preferentially from primary care to cardiology outpatient clinics due to chest pain.
+
+History
+Cardiovascular risk factors (CVRF): ex-smoker for 10 years (35 pack-years).
+No arterial hypertension (AHT), diabetes mellitus (DM) or dyslipidaemia.
+No previous cardiological history. No family history of heart disease.
+Other history: glaucoma, peptic ulcus.
+Treatment: omeprazole 20 mg: 1 tablet per day. Latanoprost, dorzolamide and timolol eye drops.
+
+Present illness
+He reported chest pain in the left hemithorax with oppressive characteristics, without irradiation, sometimes accompanied by cold sweating, generally triggered by exertion, although there were also some episodes at rest, and progressive improvement of the pain in about 30 minutes after cessation of exertion. The patient denied changes in the threshold of exertion or progression of the symptoms in recent weeks. He reported no symptoms suggestive of heart failure, palpitations or episodes of loss of consciousness.
+
+Physical examination
+Good general condition, normal colour and normohydrated, eupneic at rest and conscious, oriented and cooperative.
+Blood pressure (BP) 124/73 mmHg, heart rate (HR) 55 bpm, SatO2 98% on room air.
+No murmurs were detected on cardiac auscultation and pulmonary auscultation showed a preserved vesicular murmur with no added noises except for some isolated tele-expiratory wheezing.
+Radial and pedial pulses were palpable, rhythmic and symmetrical.
+
+
+COMPLEMENTARY TESTS
+Basal electrocardiogram (ECG): sinus rhythm at 55 beats per minute. Axis 60o. PR 0.16s. Narrow QRS. No repolarisation alterations.
+Laboratory tests: glucose 91 mg/dl, creatinine 0.78 mg/dl, estimated glomerular filtration rate (CKD-EPI) over 90 ml/min/1.73 m2, total cholesterol 172 mg/dl, triglycerides 71 mg/dl, HDL cholesterol 54 mg/dl, calculated LDL cholesterol 113 mg/dl.
+Transthoracic echocardiography: left ventricle of normal diameter and wall thickness with preserved LVEF (67%). No segmental alterations in contractility were observed. Normal transmitral filling pattern. Mean E/e" of 9.5 (LVEDP globally estimated as normal). Non-dilated right ventricle with good contractility (TAPSE 21 mm, s" tricuspid annulus 13.2 cm/s). Atria of normal size. No relevant valvulopathies. Inferior vena cava (IVC) not dilated with adequate inspiratory collapse. Absence of pericardial effusion.
+Ergometry on treadmill: maximum ergometry with Bruce protocol on a moving treadmill, the test was stopped due to oppressive, non-limiting precordial pain, similar to that which motivated the request, and maximum horizontal ST depression of 2 mm in 5 leads (II, III, aVF, V4 and V5); both the clinical and ECG changes persisted for about 5 minutes after the end of the effort.
+Correct adaptation of HR and BP. Normal functional capacity (reaches 12.6 METS). No significant arrhythmias detected.
+Coronary angiography (video 2): left dominance. Left coronary trunk, anterior descending artery and circumflex artery without significant angiographic lesions. Right coronary artery with anomalous origin from left coronary sinus and probable interarterial trajectory, of scarce development and without significant angiographic lesions.
+CT of the coronary arteries with cardiac synchronisation and prospective acquisition: coronary anatomy: left dominance. Intermediate branch as an anatomical variant of normality. Anomalous right coronary outflow from left coronary sinus with high interarterial course. Left main coronary artery: long, without lesions. Anterior descending: no lesions. Circumflex: no lesions. Right coronary artery: outflow from contralateral coronary sinus with high interarterial course, without lesions. Other cardiac findings: small diverticulum in the left inferoposterior wall of the left atrium. No intra-atrial thrombus. Extracardiac findings: hiatal hernia.
+Stress cardiac MRI with dipyridamole: left ventricle with wall thickness, volumes and segmental and global systolic function within normal (LVEF 70%). Right ventricle volume and systolic function within normal (LVEF 64%). Atria and great vessels of normal size. Provocation of ischaemia with i.v. dipyridamole (0.84 mg/kg, well tolerated) NEGATIVE. Basal 57 bpm and 137/76 mmHg. Stress 84 bpm and 127/70 mmHg. Absence of myocardial fibrosis or necrosis. In short, absence of inducible ischaemia.
+
+CLINICAL EVOLUTION
+Following the echocardiographic assessment, which showed no structural heart disease, the available data, the clinical management recommendations at that time, the local availability of complementary tests and estimating an intermediate pretest probability, treadmill exercise testing was requested to assess the presence of ischaemia and confirm the diagnosis of suspected stable exertional angina. This was clinically and electrically compatible with high-load ischaemia. With this result and the patient's clinical presentation, treatment was started with acetylsalicylic acid 100 mg 1 tablet per day and atorvastatin 20 mg 1 tablet per day, and coronary angiography was requested.
+During the technique, cannulation of the left main coronary artery showed left-dominant anterior descending and circumflex arteries without significant lesions. The right coronary artery could not be cannulated from the right coronary sinus, so the origin of the right coronary artery was sought in the left coronary sinus. After several attempts and sub-selective injections, the right coronary artery was found to have an anomalous origin in the left coronary sinus, with a probable interarterial course. The artery itself was poorly developed and practically rudimentary. To confirm the origin and especially the course of the right coronary artery, a coronary CT scan was requested, which showed, in agreement with the coronary angiography, an origin from the left sinus, as well as a high interarterial course.
+The patient was presented at a medical-surgical session to consider reimplantation of the right coronary artery, parietal resection or unroofing or bypass with proximal ligation. It was decided to request an imaging test to assess and locate the presence of ischaemia as additional data to indicate possible surgery. Antianginal treatment was added sequentially with nitrate patch 5 mg per day, lercanidipine 10 mg 1 tablet per day and ranolazine 500 mg 1 tablet every 12 hours. Beta-blockers were not tolerated due to a tendency to sinus bradycardia.
+A stress CMR with vasodilator (dipyridamole) was performed, which ruled out the presence of myocardial necrosis and also showed no evidence of ischaemia. It should be noted that the mechanism of stress induction by this technique (vasodilatation) did not produce an increase in BP, so there would have been no evidence of ischaemia if the mechanism had been compression of the coronary artery with interarterial trajectory by expansion of the aorta and pulmonary trunk, a mechanism that would have occurred if the stress induction had been due to exertion.
+Finally, surgery by cardiac surgery was ruled out due to the small calibre and development of the affected artery, the technical difficulties of the intervention and the good response to medical treatment. To date, the patient remains stable with a CCS (Canadian Cardiovascular Society) functional class for angina II/IV, pending full optimisation of anti-anginal treatment. He has had no cardiovascular events during follow-up.
+
+DIAGNOSIS
+Coronary anomaly: right coronary artery with origin in left coronary sinus and high interarterial path.
+Stable angina.
+Normal LVEF

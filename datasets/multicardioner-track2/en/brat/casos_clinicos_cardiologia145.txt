@@ -1,0 +1,20 @@
+Clinical history and current illness
+A 73-year-old man was admitted to the Infectious Diseases Department for a new febrile syndrome of 4 days' duration, with no clear focal symptoms and a physical examination with no significant findings. No known drug allergies. Ex-smoker. High blood pressure under pharmacological treatment. Operated in 2008 on right femoropopliteal bypass with thrombosis of the bypass one year later and self-limited febrile syndrome in relation to the thrombosis. Iron deficiency anaemia and removal of several colonic polyps in 2009.
+Usual treatment: amlodipine, lisinopril/HCTZ, clopidogrel, ranitidine, haemovas. ECG on admission: sinus rhythm at 45 bpm, PR 260 msec, HBAI, BCRDHH, negative T waves in III and aVF. Chest X-ray on admission: no alterations.
+Blood cultures were taken from the emergency department, treatment with augmentin iv was prescribed and the patient was admitted to the Infectious Diseases Department. During his stay on the ward, after infusion of a dose of augmentin iv, the patient reported intense itching all over the body with the appearance of exanthematous skin lesions, arterial hypotension, precordial pressure and episode of syncope on getting out of bed with spontaneous recovery in a few seconds.
+A new ECG was performed at that time which showed complete AVB with ST elevation of 4mm in the inferior face and specular decrease in I, aVL and V1-V4. Treatment was started with iv corticoids + iv polaramine + serotherapy, which improved the AT and the allergic symptoms.
+Following this clinical improvement, the ECG was repeated and the aforementioned alterations disappeared, returning to an ECG similar to that on admission. Given the ECG alterations and the presence of chest pain, the patient was transferred to the Cardiology Department.
+
+Complementary tests
+- Myocardial damage marker curve: negative.
+- Cardiac catheterisation: shows coronary arteries without significant lesions and ectasia of CD and middle DA.
+- Holter ECG: stable RS with low mean HR. No VE. No significant pauses.
+- TT echocardiography: LV slightly dilated with slightly increased wall thickness and preserved global and segmental systolic function. Diastolic pattern of elongated relaxation. Sclerosed MV with mild MR. Aortic valve without alterations. LA slightly dilated. RV not dilated, without dysfunction. Mild TR with RV-AD gradient of 30 mmHg and estimated PSAP of 40 mmHg. No pericardial effusion.
+
+Clinical evolution
+Once the allergic reaction was overcome, the patient remained asymptomatic and did not present any further episodes of chest pain. Following the results of these complementary tests, the picture was interpreted as right coronary artery vasospasm secondary to anaphylaxis due to the infusion of augmentin iv, causing what is known as allergic angina or Kounis syndrome. The patient was sent to the Allergy Service and was found to be allergic to penicillin G, penicillin V, ampicillin and amoxicillin. The patient evolved favourably and was discharged.  
+
+Diagnosis
+- Allergic angina-Kounis disease
+- Coronary vasospasm secondary to anaphylaxis
+- Anaphylactic reaction secondary to amoxicillin-clavulanate infusion

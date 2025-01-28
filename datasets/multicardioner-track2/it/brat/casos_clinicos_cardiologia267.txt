@@ -1,0 +1,48 @@
+Presentiamo il caso di un uomo di 70 anni con cardiopatia ischemica e fibrillazione atriale con indicazione all'anticoagulazione.
+
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+Anamnesi
+Nessuna allergia nota ai farmaci.
+Fattori di rischio cardiovascolare: ipertensione, dislipidemia, ex fumatore da 12 anni (storia di fumo 20 pacchetti/anno). Bevitore di due birre al giorno e un bicchiere di vino al giorno.
+
+Anamnesi cardiologica precedente:
+Cardiopatia ischemica cronica; esordio come infarto miocardico acuto nel 1998.
+Malattia coronarica multivessuale diffusa. Cateterismo (4/11/2008): arteria discendente anteriore ateromatosa e calcificata nei segmenti prossimale e medio, vaso malato non avvicinabile. Arteria circonflessa con malattia diffusa dell'intero vaso con letti distali insufficienti. Arteria coronaria destra ateromatosa con irregolarità.
+Frazione di eiezione ventricolare sinistra conservata.
+Altri dati anamnestici:
+Lieve broncopneumopatia cronica ostruttiva.
+Nessun intervento chirurgico.
+Trattamento in corso: acido acetilsalicilico 100 mg/24 ore, cerotto di nitroglicerina 15 mg/24 ore, carvedilolo 25 mg/12 ore, ivabradina 5 mg/12 ore, candesartan 4 mg/24 ore, rosuvastatina 20 mg/24 ore, ezetimibe 10 mg/24 ore, tiotropio e budesonide per via inalatoria.
+
+Malattia attuale
+Uomo di 70 anni con episodi di angina da sforzo da un anno. Quando saliva in collina o accelerava il passo, avvertiva un fastidio opprimente nell'emitorace sinistro che talvolta si irradiava all'interno del braccio, che si auto-limitava entro 5-10 minuti dall'interruzione dell'attività.
+È anche associato a dolore toracico durante i rapporti sessuali. Nessun episodio a riposo.
+
+
+Esame fisico
+Buone condizioni generali. Cosciente, orientato e collaborativo. Colorito normale. Pressione arteriosa (BP) 130/71 mmHg. Frequenza cardiaca (FC) 75 bpm. Nessuna semiologia di insufficienza cardiaca.
+Auscultazione cardiopolmonare: cuore aritmico, nessun soffio. Mormorio vescicale conservato senza rumori patologici aggiunti.
+Arti inferiori: nessun edema o fovea. Nessuna evidenza di trombosi venosa profonda.
+
+ESAMI COMPLEMENTARI
+Elettrocardiogramma: fibrillazione atriale a 90 bpm. QRS stretto, asse normale. Nessuna alterazione della ripolarizzazione.
+Radiografia del torace: indice cardiotoracico normale. Seni costofrenici liberi. Nessuna immagine di condensazione polmonare.
+Esami di laboratorio: creatinina 0,8 mg/dl. Emoglobina 15,4 g/dl. Troponina T ultrasensibile 17 ng/l (normale < 14 ng/l).
+Ecocardiogramma: radice aortica normale, valvola aortica trivalve con apertura e chiusura conservate. Atrio sinistro non dilatato. Valvola mitrale normale. Ventricolo sinistro di dimensioni normali, con spessore miocardico normale. Funzione sistolica globale e segmentale normale.
+Riempimento ventricolare con pattern monofasico. Camere destre normali. Assenza di versamento pericardico. Vena cava inferiore non dilatata.
+Ergometria prognostica, treadmill, protocollo Bruce, in trattamento con beta-bloccanti: clinicamente negativo. Elettricamente positivo con sopraslivellamento del segmento ST alla fine dello stadio 2, dovuto a un sopraslivellamento del segmento ST in V3-V6 di 1 mm, con una diminuzione accentuata del recupero fino a 3 mm.
+Recupero lento, che persiste dopo 6 minuti con un calo di 2 mm in V3 (calo V2-V6).
+Tempo di esercizio 6:06 minuti, limitato dall'affaticamento delle gambe. Capacità funzionale: 7,2 METS. Risposta pressoria normale. Risposta HR attenuata dai beta-bloccanti.
+Recupero normale della FC. Raggiunto l'86% della frequenza cardiaca massima. Tutti i tracciati in fibrillazione atriale.
+Ecocardiogramma immediatamente successivo allo stress: ipercontrattilità fisiologica con acinesia apicale.
+Angiografia coronarica diagnostica e terapeutica: accesso radiale destro. Dominanza sinistra. Tronco comune sinistro praticamente inesistente che dà origine a 2 ostia indipendenti dell'arteria discendente anteriore (ADA) e dell'arteria circonflessa (ACx). ADA molto calcificata, di piccolo calibro con ateromatosi diffusa su tutta la lunghezza, che causa aree di stenosi significativa a livello medio-distale su un vaso di piccolo calibro, sottile e malato. Arteria circonflessa dominante, di grosso calibro e decorso. Presenta una stenosi eccentrica significativa a livello prossimale e mediale. Emette un primo ramo marginale di scarsa entità e un secondo ramo di grande calibro e percorso, dove è presente una stenosi breve e significativa nel suo segmento prossimale. Arteria coronaria destra iposviluppata con ateromatosi diffusa.
+Intervento coronarico percutaneo: sul ramo marginale della LMCA mediante angioplastica semplice con palloncino convenzionale (2 mm). Su CAx mediante impianto di due stent a rilascio di farmaco dopo dilatazione con palloncino convenzionale a livello medio-distale (Resolute Onyx 3 x 30 mm, post-dilatato ad alta pressione con un palloncino non conforme da 3,5 mm) e prossimale (Resolute Onyx 3,5 x 22 mm a 16 atmosfere). Buon risultato angiografico finale.
+
+EVOLUZIONE CLINICA
+Il paziente è stato valutato nell'unità di dolore toracico dove è stata eseguita un'ergometria con positività elettrica con alterazioni segmentali nell'ecocardiografia immediatamente successiva al rinforzo, per cui si è deciso di ricoverare il paziente in ospedale per un'angiografia coronarica. Inoltre, un elettrocardiogramma mostrava una fibrillazione atriale di cronologia incerta con risposta ventricolare controllata. Dopo che l'angiografia coronarica ha rivelato lesioni coronariche accessibili, dato che il paziente presentava angina nonostante un trattamento antianginoso ottimale e un'ischemia inducibile al test di rilevazione dell'ischemia non invasiva, è stato eseguito un intervento percutaneo sul ramo marginale e sull'arteria circonflessa prossimale e media al fine di migliorare i sintomi del paziente.
+Alla dimissione, il paziente necessitava di anticoagulazione (fibrillazione atriale con CHA2DS2-VASc 3 punti) e di terapia antiaggregante (rivascolarizzazione coronarica), per cui, considerando che il rischio emorragico è elevato (HAS-BLED 4 punti) e superiore al rischio ischemico, è stata decisa una strategia PIONEER e il paziente è stato dimesso con clopidogrel 75 mg/24 ore e rivaroxaban 15 mg/24 ore (incluso acido acetilsalicilico 100 mg/24 ore per la prima settimana). Il clopidogrel, se non si verificano incidenti, sarà ritirato dopo 6 mesi, per continuare con rivaroxaban alla dose di 20 mg al giorno se la velocità di filtrazione glomerulare renale rimane superiore a 50 ml/min.
+
+DIAGNOSI
+Cardiopatia ischemica cronica con coronaropatia multivasale e angina da sforzo nonostante il trattamento medico. Funzione sistolica LV conservata. Rivascolarizzazione percutanea dell'arteria circonflessa e del ramo marginale.
+Fibrillazione atriale di cronologia incerta (CHA2DS2-VASc 3 punti; HAS-BLED 4 punti).

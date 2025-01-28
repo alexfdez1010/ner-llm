@@ -1,0 +1,34 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+BACKGROUND:
+64-year-old male diagnosed with dextrocardia at 54 years of age, following family screening. Toxic habits: non-smoker, moderate drinker. He leads an active life.
+
+CURRENT DISEASE:
+At the time of diagnosis in New York Heart Association (NYHA) functional class I with recurrent symptoms of palpitations, dizziness and syncope, limiting his quality of life. The night before admission she presented with precordial pain and palpitations together with loss of postural tone and level of consciousness, for which she consulted her doctor, who arranged hospital admission for medical care and examination.
+
+PHYSICAL EXAMINATION:
+Blood pressure 120/80 mmHg. Heart rate (HR) 100 bpm. Oxygen saturation 97%. No jugular ingurgitation. Cardiac auscultation: rhythmic without murmurs. Pulmonary auscultation: normoventilation, no crackles. Abdomen nondescript. Lower limbs without oedema.
+Neurological examination: normoreactive isochoric pupils. Normal cranial nerves. Normal language. Strength and sensitivity preserved. Normal gait.
+
+COMPLEMENTARY TESTS
+THORAX RADIOGRAPHY: dextrocardia. Cardiothoracic index greater than 0.5 with slight vascular redistribution to upper fields.
+
+ELECTROCARDIOGRAM (ECG): sinus rhythm. Atrioventricular conduction preserved, QRS 120 ms with axis -30o. Initial Q wave in aVL. Negative T wave in DIII-aVF, DI-aVL and V5-V6.
+ANALYTICS: Hb 14 g/dl, Ht 42, Cr 0.9 mg/dl, NT-proBNP 1,000 pg/ml.
+HOLTER ECG: sinus rhythm with a maximum HR of 93 bpm, minimum of 50 bpm, average of 61 bpm.
+Ventricular extrasystoles in repetitive forms, three bouts of non-sustained ventricular tachycardia, lasting seconds, with a maximum HR of 166 bpm.
+ECOCARDIOGRAM: left atrium (LA) slightly dilated. Left ventricle (LV) of normal diameter with moderate asymmetric septal hypertrophy (> 15 mm) with no obstruction across the LV outflow tract and no systolic anterior motion of the mitral valve. Mild LV systolic dysfunction (EF 55%) and grade 1 diastolic dysfunction.
+CARDIAC NUCLEAR MAGNETIC RESONANCE (CMRI): late gadolinium enhancement irregularly distributed in the medial wall of the entire septum, anterior wall and free wall of the right ventricle. Interventricular septum 15 mm thick.
+CARDIODESFIBRILLATOR CONTROL: programmer shows appropriate shocks.
+
+CLINICAL EVOLUTION
+During his admission, the patient was asked about his family history: his paternal grandfather and two of his uncles died of MS. We found a patient with clinical symptoms that limited his quality of life and, after the studies performed, the diagnosis of hypertrophic cardiomyopathy was confirmed. An intermediate risk of SD was estimated (HCM Risk-SCD Calculator: 5-year risk of 4.68%), and a decision was made to implant an implantable cardioverter defibrillator (ICD) for primary prevention of SD.
+After a stable period of 11 months, he presented appropriate ICD shocks at 80 J, demonstrating the effectiveness of the therapy in the prevention of SD in a patient with hypertrophic cardiomyopathy.
+The evolution at the following year is favourable. Medical treatment was optimised, and the absence of ICD discharges was found in the controls, and the control electrocardiogram was in sinus rhythm. A control echocardiogram was performed, showing LV with moderate asymmetric septal hypertrophy, which has not progressed, and maintaining LV systolic function (EF 57%). No dynamic gradient was observed in the LV outflow tract.
+
+DIAGNOSIS
+Non-obstructive asymmetric septal hypertrophic cardiomyopathy (HCM).
+Family history of MS (2nd degree). Repeated syncope.
+Record of non-sustained ventricular tachycardia (NSVT).
+Late intramyocardial enhancement on cardiac MRI.
+ICD carrier with appropriate shocks.

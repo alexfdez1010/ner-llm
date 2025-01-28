@@ -1,0 +1,28 @@
+History, current illness and physical examination
+A 64-year-old man consulted for right-sided sudden amaurosis. Personal history: allergy to penicillin, hypertension, dyslipidaemia, obesity and smoking. Without providing reports, he refers that he was admitted to another hospital in 2007 for a left hemispheric stroke from which he recovered without sequelae and was being followed up for valvular heart disease.
+Regular treatment with enalapril, simvastatin and clopidogrel. Present illness: sudden total visual loss of the right eye after 24 hours of evolution. No dyspnoea, chest pain, fever or any other symptoms.
+
+Physical examination:
+BP 145/88 mmHg, 88 bpm, 36.7 oC, conscious, oriented, eupneic, hydrated and normal colour. Cardiopulmonary auscultation: preserved vesicular murmur without added noise. Cardiac auscultation revealed a grade III/VI systolic ejection murmur in the aorta, radiating to the carotids, and a grade III/VI systolic murmur in the left sternal border, radiating to the axilla. Abdomen and limbs without notable findings.
+
+Complementary tests
+PA chest X-ray: absence of cardiomegaly, no pleural effusion, no infiltrates or consolidations.
+Electrocardiography: sinus rhythm at 91 bpm, left cardiac axis at -45o. Left atrial enlargement. Cornell criteria for left ventricular hypertrophy. Left anterior hemiblock. ST descending 1 mm drop in I and AvL with negative T wave in these leads. No dynamic changes in repolarisation. QTc 443 msec.
+CBC: 12,000 leukocytes, Hb 11.5 g/dl, 335,000 platelets. Coagulation normal. ESR 39 mm/h, CRP 4.27 mg/L. Biochemistry and thyroid function normal. ANA, anti-DNA and ANCA negative. Hypercoagulability study without pathological findings.
+Serology (Mycoplasma, Chlamydia, Coxiella, Lúes, Brucella and HBV) negative.
+Right eye fundus: red-cherry macula, whitish oedema due to ischaemia, narrowing of retinal arteries and whitish exudates.
+Transesophageal echocardiogram: very unstructured aortic valve with severe thickening and calcification with severe aortic stenosis (mean gradient 50 mmHg), mild aortic insufficiency. Mitral valve with several images suggestive of warts. On the atrial side of the posterior leaflet there are two images of mobile vegetations, the largest of 6 mm. There is a jet of mild mitral insufficiency suggesting perforation of the posterior leaflet. Severe left ventricular hypertrophy and preserved LVEF. Absence of patent foramen ovale by injection of agitated saline.
+CT angiography of supra-aortic trunks: carotid atherosclerosis and in the CT angiography of TSA, 60-70% stenosis of the right internal carotid artery.
+Independent blood cultures x3: positive for Streptococcus viridans.
+
+Clinical course
+After evaluation by ophthalmology at our centre, a diagnosis of right central retinal artery occlusion (RTAO) was made. The patient was admitted to internal medicine for further investigation. Carotid atherosclerosis was observed in the supra-aortic trunk duplex (TSA) and 60-70% stenosis of the right internal carotid artery in the TSA angio-CT scan. Despite the carotid findings that could justify the picture, a transthoracic echocardiogram (TTE) was performed to search for an embolic source, showing severe aortic stenosis, degenerative signs in the mitral valve (MV) with mild mitral insufficiency (MI) and calcium in its annulus. Due to the poor echocardiographic window, a transesophageal echocardiogram (TEE) was performed, which confirmed the existence of severe aortic stenosis with preserved left ventricular ejection fraction (LVEF), visualising vegetations on the MV and perforation of the posterior leaflet. The patient was afebrile and three blood cultures were taken, with Streptococcus viridans growing in all samples.
+With the diagnosis of subacute mitral infective endocarditis (IE) on native valve (and possibly aortic) and the history described, he was treated with vancomycin and gentamicin according to the usual regimen.
+The patient remained afebrile throughout admission, with negative control blood cultures. Control TTE and TEE were performed, with disappearance of vegetations and mild-moderate MI as sequelae. After resolution of the infective endocarditis, he was referred to the outpatient vascular surgery department for evaluation of carotid endarterectomy and to cardiology for follow-up of his valvular heart disease. Two months after admission, carotid surgery was performed and subsequently, due to the onset of symptoms, aortic valve replacement with metallic prosthesis was performed without complications and with good cardiovascular evolution. However, the patient has not recovered vision in the right eye.
+
+
+Diagnosis
+Occlusion of the central artery of the right retina.
+Subacute endocarditis on native mitral valve due to Streptococcus viridans.
+Asymptomatic severe aortic stenosis with preserved LVEF.
+Significant right carotid stenosis.

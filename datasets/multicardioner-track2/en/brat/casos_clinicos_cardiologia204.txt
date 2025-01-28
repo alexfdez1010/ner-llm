@@ -1,0 +1,67 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+Personal history
+Allergies: doubtful intolerance to penicillin (syncope in youth after IM penicillin), toxicoderma with ondasetron.
+Cardiovascular risk factors: no hypertension. Dyslipidaemia. No diabetes mellitus. Never smoker. No alcoholism. Overweight.
+Cardiological history: not reported.
+
+Other history:
+Nasosinusal polyposis in ASA triad (asthma, nasal polyposis and intolerance to acetylsalicylic acid). Rhinitis with chronic right ototubaritis with chronic hypereosinophilia. Prostatic adenocarcinoma operated on in 2012 with subsequent radiotherapy. Underwent check-ups and last PET-CT scan in May 2019 with left para-aortic adenopathies suggestive of tumour relapse.
+Usual treatment: triptorelin (GnRH agonist) every six months.
+
+Present illness
+A 61 year-old man came to the emergency department. He reported mild central thoracic pinch-like pain, which appeared with deep inspiration a day earlier. For the previous 5 days he had been experiencing night sweats, arthromyalgia, asthenia and a feeling of dystrophy with a fever of up to 37.5oC. She presented with pre-syncopal symptoms in relation to these symptoms, which is why she went to the emergency department. No alterations in bowel habits, no pathological products or blood in the stool. She refers to a trip to Japan 1 month ago, without any notable incident.
+There was evidence of elevated biomarkers of myocardial damage and the echocardioscopic study showed moderate pericardial effusion, for which reason he was admitted to the coronary unit with suspected myocarditis.
+
+Physical examination
+Blood pressure (BP) 105/70 mmHg, heart rate (HR) 70 bpm, Sat2O98% on room air. Jugular venous pressure normal. Cardiac auscultation: rhythmic, no murmurs or pathological sounds. Pulmonary auscultation: preserved vesicular murmur with no extra sounds. Abdomen: soft and depressible, not painful on palpation, no masses or megaliths, Blumberg and Murphy negative. Extremities: no oedema in the lower extremities, peripheral pulses preserved and symmetrical, no signs of phlebitis.
+
+COMPLEMENTARY TESTS
+ECG:
+Emergency: sinus rhythm at 61 bpm, PR 160 ms, QRS 100 ms with axis at 0o, minimal J point descent in V3-V6, flat T wave in aVF.
+At discharge: sinus rhythm at 70 bpm, PR 160 ms, QRS 100 ms with axis at 0o, without repolarisation alterations.
+
+Chest X-ray on admission: CTI slightly increased, no pulmonary infiltrates or masses, no costophrenic sinus pinching, no signs of venous congestion.
+
+Laboratory tests:
+CBC: red cells 3.8 10*12/l, haemoglobin 11.8 g/dl, haematocrit 34.9%, MCV 91.8 fl, MCH 31.2 pg, MCHC 34 g/dl, ADE 14%, leukocytes 17.9 10*9/l, neutrophils 5.8 10*9/l, lymphocytes 0.4 10*9/l, monocytes 0.8 10*9/l, eosinophils 10.9 10*9/l, basophils 0 10*9/l, platelets 286 10*9/l, reticulocytes 1.14%, reticulocytes 43.3 10*9/l, ESR 33 mm/h. Leukocyte morphology: presence of some eosinophils with altered cytoplasmic distribution of granulation.
+Haemostasis: prothrombin time (PT) 13.5 sec, Quick's index 78%, INR 1.16, aPTT 30 sec, ratio (aPTT) 1.01, Clauss fibrinogen 498 mg/dl.
+Biochemistry: glucose 97 mg/dl, sodium 140 mEq/l, potassium 3.9 mEq/l, chlorine 105 mEq/l, magnesium 1.9 mg/dl, total bilirubin 0.51 mg/dl, aspartate aminotransferase GOT 37 U/l, alanine aminotransferase GPT 25 U/l, gamma-glutamyl transferase 23 U/l, urea 21,1 mg/dl, creatinine 0.78 mg/dl, estimated GFR CKD-EPI >= 90 ml/min/1.73 m, uric acid 3.3 mg/dl, protein 5.1 g/dl, albumin 2.9 g/dl, creatinine phosphokinase 274 U/l, lactate dehydrogenase 521 U/l, C-reactive protein 3.9 mg/dl.
+Iron metabolism: ferritin 376 μg/l, iron 36 μg/dl, total Fe-binding capacity 184 g/dl, transferrin saturation index 19.5%, latent Fe-binding capacity 148.5 ug/dl.
+Lipid profile: total cholesterol 134 mg/dl, triglycerides 99 mg/dl, HDL cholesterol 39 mg/dl, non-HDL cholesterol 95 mg/dl, LDLc cholesterol 75 mg/dl, total cholesterol / HDL 3.4.
+Biomarkers of myocardial damage: troponin I (hsTnI) 3,109 ng/l (0.0 - 19.8 ng/l).
+Immunology: immunoglobulin IgG 886 mg/dl, immunoglobulin IgA 68 mg/dl, immunoglobulin IgM 38 mg/dl, total immunoglobulin IgE 988 KU/l, negative anti-neutrophil cytoplasm antibodies, negative ANA immunofluorescence, negative IFA pattern, negative rheumatoid factor 22 U/ml, negative direct Coombs test.
+Complement C3 (serum) 108 mg/dl, complement C4 (serum) 24 mg/dl.
+
+Proteinogram (serum): albumin 49.8%, alpha 1 globulin 8.3%, alpha 2 globulin 14.4%, beta globulin 12.4%, gamma globulin 15.1%, albumin/globulin ratio 1, no monoclonal peak observed.
+Vitamins and hormones: vitamin B12 308 pg/ml, folic acid 4.1 ng/ml, basal cortisol 15.2 μg/dl, thyrotropin 0.57 IUU/ml.
+Tumour markers: CEA 1.7 ng/ml, PSA 0.0 ng/ml. Microbiology: antiStrongyloides stercolaris IgG negative 0.80, negative blood cultures, negative stool cultures, negative legionella and pneumococcus antigenuria, negative IGRA.
+Eosinophil count (day by day): 8.4 x109/l -> 10.9 x10 9/l -> 0.4 x10 9/l -> 1.2 x10 9/l -> 0.3 x10 9/l -> 0.9 x10 9/l -> 0.4 x10 9/l.
+Evolution of troponin I levels (ng/l): 1,095 -> 3,109 -> 6,549 -> 5,309 -> 5,398 -> 6,143 -> 6,779 -> 4,510 -> 1,753 -> until negative.
+
+Echocardiogram:
+On admission: both ventricles of normal diameters and contractility (LVEF 60%, TAPSE 24 mm). Normal diastolic pattern. Normal filling pressures. Normal LA and aorta. Mild mitral anterior leaflet prolapse, without regurgitation. No data of increased PAPs. Moderate pericardial effusion predominantly lateral and apical (maximum 17 mm posterior and 5 mm anterior). Normal IVC. No signs of haemodynamic compromise.
+At discharge: left ventricle of normal diameters, volumes and global systolic function. No alterations of segmental contractility at rest. Atria of normal size. Normal diastolic pattern. Absence of significant valvular heart disease. Right ventricle of normal diameters with preserved systolic function. Mild tricuspid regurgitation allowing estimation of a systolic pulmonary artery pressure of 25 mmHg. Normal inferior vena cava. Mild to moderate pericardial effusion of global distribution, predominantly posterior and lateral (posterior 12 mm -especially posteroapical-, lateral 10 mm, anterior 5 mm), without significant functional repercussions (respiratory E wave variation of 12%).
+Cardio-MRI: non-dilated left ventricle (IVTDVI: 65 ml/m2), without hypertrophy or remodelling (61 g/m2), with preserved systolic function and EF calculated by Simpson of 56%. Non-dilated right ventricle (IVTDVD: 92 ml/m2) with good systolic function and an EF calculated by Simpson of 65%. Normal atria. T2-weighted sequences showed oedema in the apex. Perfusion sequences show a slight delay of perfusion in the apex. Mild to moderate pericardial effusion predominantly in the lateral aspect of the left ventricle with a maximum end-diastolic thickness of 18 mm. Late transmural gadolinium enhancement in the apex (segment 17). Intraventricular thrombus is seen in the area of transmural enhancement.
+
+CLINICAL EVOLUTION
+During his stay in the coronary unit, hypereosinophilia secondary to nasosinusal polyposis (ASA triad syndrome) was noted, which was present in most of the analytical controls prior to the clinical picture. Haematology was contacted and ruled out monoclonal expansion and alteration of fusion genes (tyrosine kinase).
+Cardio-MRI was performed, showing findings compatible with eosinophilic endomyocarditis (or Loeffler's) with intraventricular thrombus, so treatment was started with methylprenisolone 1g IV and later changed to prednisone 1 mg/kg/day, with a gradual decrease in eosinophil numbers and pericardial effusion. In addition, enoxaparin was started at an anticoagulant dose.
+Within hours of enoxaparin administration, the patient presented a reaction consisting of erythematous exanthema with central clearing involving both inguinal flexures, which was categorised by dermatology as SDRIFE (symmetric drug-related intertriginous and flexural exanthema) attenuated by corticosteroids, recommending the replacement of enoxaparin with bemiparin.
+Subsequent echocardiography showed a reduction in pericardial effusion, located mainly at the posterolateral level, which did not require drainage.
+Given the favourable response and compatible findings in cardio-MRI with idiopathic hypereosinophilic hypereosinophilic syndrome with cardiac involvement (eosinophilic endomyocarditis), endomyocardial endomyocarditis was rejected for confirmation given the invasiveness of this test and the limited experience in our centre.
+Troponin I levels plateaued at 6,000 ng/l for the first 6 days and subsequently decreased to normal.
+During his stay in the coronary unit he remained haemodynamically stable, with no arrhythmic events and resolution of flu-like symptoms (arthromyalgia, fever, etc.).
+After transfer to the cardiology ward, he presented adequate tolerance to ambulation and remained asymptomatic, so he was discharged home with therapeutic adjustment and follow-up in outpatient clinics.
+
+Treatment on discharge:
+Bemiparin 10,000 IU subcutaneous daily as a bridge to acenocoumarol.
+Acenocoumarol according to guideline.
+Prednisone 110 mg orally in the morning and after 4 weeks reduce the dose by 10 mg and then reduce by 10 mg every 3 weeks to a maintenance dose of 5-10 mg for 6 months.
+Omeprazole 40 mg 1 tablet per day.
+Calcium supplement 500 mg every 12 hours.
+
+DIAGNOSIS
+Eosinophilic or Loeffler's endocarditis. Intraventricular thrombus. Hypereosinophilic syndrome. ASA triad.
+Enoxaparin toxicoderma (SDRIFE).
+Prostatic adenocarcinoma.

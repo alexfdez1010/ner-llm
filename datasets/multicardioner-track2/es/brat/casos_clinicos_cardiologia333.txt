@@ -1,0 +1,49 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES PERSONALES
+Varón de 43 años deportista habitual de moderada-alta intensidad.
+No alergias medicamentosas.
+No hábitos tóxicos, ni factores de riesgo cardiovasculares.
+No historia cardiológica previa.
+Migraña con aura estudiada en 2015 con resonancia magnética cerebral sin hallazgos patológicos y asintomático desde entonces.
+No intervenciones quirúrgicas, ni tratamientos crónicos.
+
+ENFERMEDAD ACTUAL
+Varón de 43 años quien presenta pérdida brusca de consciencia mientras realizaba ejercicio físico de moderada intensidad (corriendo), sin clínica previa. Los testigos que lo acompañaban refieren haber observado caída al suelo sin repuesta a estímulos y con ausencia de respiración espontánea sin pulso palpable, por lo que inician maniobras de reanimación cardiopulmonar (RCP) básica y avisan a los servicios de emergencias.
+A la llegada del equipo médico se detecta fibrilación ventricular. Se administra un único choque efectivo consiguiendo ritmo sinusal con pulso. Es trasladado inmediatamente al centro de referencia sedoanalgesiado, con intubación orotraqueal en ventilación mecánica y estable hemodinámicamente sin aminas.
+
+EXPLORACIÓN FÍSICA
+Datos antropométricos: peso 74 kg, talla 1,82 m. Índice de masa corporal (IMC) 22,3 kg/m2.
+Constantes vitales: tensión arterial (TA) 104/82 mmHg. Frecuencia cardiaca (FC) 62 lpm.
+Saturación de O2 (SatO2) 98% con FiO2 al 21%.
+Cardiovascular: presión venosa yugular normal. Reflejo hepatoyugular negativo.
+Auscultación cardiaca: regular, sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado. Sin agregados.
+Abdomen: plano. Ruidos hidroaéreos presentes. Blando, depresible. Sin visceromegalias.
+Neurológico: pupilas isocóricas. Reflejos pupilares conservados. Reflejos motores en extremidades sin alteraciones (II/IV).
+Extremidades: sin edemas. Pulsos periféricos conservados y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+Electrocardiograma (ECG): ritmo sinusal a 93 lpm. PR 120 ms. QRS 60 ms. QTc 398ms. Sin alteraciones de la repolarización.
+Analítica de ingreso: hemoglobina 16 g/dl, hematocrito 47,5%, plaquetas 223.000 /μl, leucocitos 7.400 /μl. Razón internacional normalizada (INR) 1,05. Glucemia basal 82 mg/dl.
+Urea 36 mg/dl. Creatinina 0,81 mg/dl. Sodio 137 mEq/l. Potasio 4,1 mEq/l.
+Marcadores de daño miocárdico: troponina I US: 0,0 ng/ml.
+Radiografía de tórax: silueta cardiomediastinica centrada. ICT menor a 0,5. Campos pulmonares sin condensación, ni derrame pleural.
+Ecocardiograma transtorácico: ventrículo izquierdo de diámetros, volúmenes y función global sistólica conservados (FEVI 65%). Ausencia de alteraciones de la contractilidad segmentaria en reposo. Patrón de llenado transmitral normal. Ausencia de valvulopatías significativas. Aurícula izquierda normal. Ventrículo derecho normal. Ausencia de insuficiencia tricuspídea (IT) que permita estimar presión sistólica de la arterial pulmonar (PAPs) sin datos sugestivos de hipertensión pulmonar (HTP). Vena cava inferior (VCI) normal. Exploración en ritmo sinusal.
+Coronariografía: arterias coronarias epicárdicas sin ateromatosis.
+Origen anómalo de trono coronario izquierdo (TCI) en seno de Valsalva derecho, alto y anterior, opuesto al origen de la arteria coronaria derecha (CD) que se rellena durante la administración de contraste en la canulación del TCI. Posible trayecto interarterial del TCI.
+Angio-TAC de coronarias: válvula aórtica trivalva de diámetros conservados. Se confirma la presencia de TCI con origen en seno de Valsalva derecho y trayecto interarterial (entre tronco pulmonar y aorta). Arteria descendente con evidencia de gran diagonal sin lesiones significativas. Arteria circunfleja sin lesiones. Origen de la arteria coronaria derecha en seno de Valsalva derecho y sin lesiones. Conclusión: origen de la arteria coronaria izquierda en seno de Valsalva derecho con trayecto interarterial.
+Ergometría posquirúrgica: prueba máxima que se detiene a los 13:33 minutos del protocolo de Bruce (14.5 METS) por agotamiento físico. No angor ni alteraciones del segmento ST que cumplan criterios de positividad en relación con electrocardiograma basal. No arritmias. Adecuada respuesta tensional y cronotropa. Buena capacidad funcional.
+Ecocardiograma de estrés posquirúrgico: prueba de esfuerzo en cicloergómetro. Prueba máxima alcanzando el 103% de la frecuencia cardiaca teórica máxima. Realiza un total de 15 minutos 26 segundos de ejercicio, correspondientes a 1 minuto 27 segundos de la etapa 8 del protocolo OMS (200 vatios). No se aprecian alteraciones de la contractilidad segmentaria en reposo ni con el esfuerzo, sin cambios eléctricos ni dolor torácico.
+
+EVOLUCIÓN CLÍNICA
+Varón joven con parada cardiorrespiratoria recuperada en fibrilación ventricular durante la realización de esfuerzo moderado, que presenta electrocardiograma post-PCR en ritmo sinusal, sin alteraciones de repolarización y con intervalo QTc normal. Se realiza ecocardiograma emergente que no muestra alteraciones con FEVI normal, sin signos indirectos de tromboembolismo pulmonar (TEP) masivo, ni flap aórtico y sin derrame pericárdico. La radiografía tórax de urgencias descarta neumotórax. En gasometría arterial se objetiva hiperlactidemia con resto de parámetros y cifras de hemoglobina normales. Tomografía computarizada (TC) cerebral emergente sin evento hemorrágico ni isquémico agudo.
+Ante la normalidad de los estudios etiológicos iniciales, se decide realizar coronariografía emergente donde se objetivan arterias epicárdicas sin lesiones angiográficas con origen anómalo de tronco común izquierdo (TCI) en seno de Valsalva derecho con posible trayecto interarterial.
+Ingresa en la unidad coronaria, estable hemodinámicamente sin necesidad de aminas, en ritmo sinusal sin eventos arrítmicos y permitiendo progresar en el weaning con extubación precoz en primeras 48 horas con ausencia de déficit neurológico. Se completan estudios con TC de coronarias que confirma origen anómalo de TCI en seno de Valsalva derecho con trayecto interarterial.
+Durante su ingreso en la unidad coronaria se mantiene asintomático y estable hemodinámicamente. Se plantea el caso en sesión médico-quirúrgica y se decide intervención quirúrgica con implante de doble bypass: arteria mamaria derecha a obtusa marginal y arteria mamaria izquierda a descendente anterior con un posoperatorio favorable sin incidencias.
+En los controles ambulatorios posteriores el paciente se mantiene asintomático. Se realizan ergometría y ecocardiograma de estrés resultando ambas pruebas máximas y negativas para isquemia.
+
+DIAGNÓSTICO
+Parada cardiorrespiratoria durante ejercicio físico en fibrilación ventricular.
+Origen anómalo del tronco de la coronaria izquierda del seno de Valsalva derecho con trayecto interarterial.
+Revascularización quirúrgica con doble bypass.

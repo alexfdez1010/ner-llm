@@ -1,0 +1,27 @@
+Clinical history and present illness
+43-year-old male admitted for non-ST-segment elevation acute coronary syndrome (NSTEACS).
+
+Personal history
+- Allergy to pollen and mites
+- Allergic rhinitis. Strinsic bronchial asthma with frequent flare-ups
+- Smoker
+- No known hypertension, dyslipidaemia or DM
+- IQ: appendectomy and right ulnar-radius fracture
+
+Usual treatment: seretide 50/500. Ventolin on demand. Omeprazole and occasional almax. Current illness: on 15/10/2011 she woke up in the early hours of the morning with oppressive chest pain radiating to the left arm. She went to the hospital emergency department 12 hours after the onset of the pain, presenting ST-segment depression and elevated cardiac enzymes in the ECG.
+Physical examination: good general condition. A.T. 100/70. Eurnic. No IY. C.C.: rhythmic, without murmurs or friction. A.P.: normal. Abdomen and EEII: no significant findings.
+
+Complementary tests
+- ECG: sinus rhythm with slight ST-segment elevation in II, V3 to V5, without Q waves.
+- Laboratory tests: creatinine 1.14. Glucose 78, urate 7.6. Cholesterol 182. HDL-C 30. TG 136. LDL-C 125. TnT ultrasensitive on admission 306, TnT ultrasensitive peak 1,503, ProBNP 105, CPK 98. GOT 47. GPT 61. C-reactive protein 12.2. TSH 1.68. Haemogram with 12300 leucocytes.
+- Coronary angiography: angiographically normal coronary arteries. Preserved EF and no regional motility disorders.
+- Echocardiogram: left ventricle neither dilated nor hypertrophic, with normal EF (60%). No alterations in segmental contractility were observed. E: 52, A: 57, TDE: 190. Anatomically and functionally normal valves. Non-dilated left atrium. Right chambers not dilated. TAPSE: 19 mm. Aortic root and ascending aorta of normal calibre. No pericardial effusion.
+- Cardiac MRI: multiple areas of patchy subepicardial and intramyocardial involvement affecting anterolateral, lateral, apical, inferomedial face in left ventricle. Preserved systolic function.
+
+Clinical course
+On admission the symptoms were interpreted as NSTEACS and treatment was started with double antiplatelet therapy, LMWH, nitrates and ACE inhibitors. Beta-blocker treatment was not started due to a history of asthma with frequent flare-ups. The clinical evolution was good, with no recurrence of chest pain or signs of heart failure. There was no electrocardiographic evolution and no new Q waves appeared. However, ultrasensitive TnT remained elevated after admission. Cardiac catheterisation was performed the day after admission, showing angiographically normal coronary arteries and preserved global systolic function without segmental alterations of contractility in ventriculography or echocardiography. Cardiac MRI was performed showing late gadolinium enhancement typical of myocarditis.
+
+Diagnosis
+- Acute myocarditis
+- Angiographically normal coronary arteries
+- Preserved left ventricular systolic function

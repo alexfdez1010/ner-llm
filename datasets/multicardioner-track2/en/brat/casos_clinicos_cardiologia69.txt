@@ -1,0 +1,50 @@
+A 47-year-old man was brought to our centre by the emergency services after presenting a recovered cardiorespiratory arrest.
+
+History
+Cardiovascular risk factors: type 2 diabetes mellitus, hypertension, dyslipidaemia, smoker of 1 pack/day.
+Gout episode in 2010 treated with colchicine and allopurinol. he underwent bilateral inguinal hernioplasty. ʟʟ No known previous cardiovascular history or family history of early ischaemic heart disease.
+
+Usual treatment: losartan 50 mg, metformin 850 mg (half a tablet per day).
+
+Present illness: he was brought to our centre by the emergency services after presenting with witnessed cardiorespiratory arrest in the street, and basic cardiopulmonary resuscitation (CPR) manoeuvres were started by a technician for 15 minutes.
+After the arrival of the emergency services, advanced CPR and orotracheal intubation (OTI) were started. A defibrillable rhythm was identified on the monitor and two shocks were applied at maximum energy, after which sinus rhythm was restored and the electrocardiogram (ECG) showed an ST-segment elevation in the lower face.
+On arrival at our centre, the ECG was repeated, showing normalisation of the ST segment in the inferior face. A portable transthoracic echocardiogram (TTE) was performed, showing akinesia of the inferior face. The patient was transferred urgently to the haemodynamics room and a therapeutic hypothermia protocol was initiated. Coronary angiography was performed, showing occlusion of the ostial circumflex artery (CX), which receives heterocoronary collateral circulation from the anterior descending artery (AD), and severe stenosis in the middle segment of the right coronary artery (RCA) with an image of complex plaque. In view of the electrocardiographic and TTE findings, the CD artery was considered to be responsible for the condition, so angioplasty and implantation of 2 coated stents was performed with suboptimal results due to poor stent apposition due to the significant calcium load and irregular distribution of calcium. Subsequently, he was transferred to the Acute Cardiac Care Unit intubated, sedoanalgesiated and relaxed, and cooled with physiological saline solution at 4oC.
+
+Physical examination
+Blood pressure: 108/60.
+Heart rate: 65 bpm.
+oxygen saturation: 100%.
+Head and neck: jugular venous pressure normal.
+Pulmonary auscultation: decreased vesicular murmur in the right hemithorax. Cardiac auscultation: no murmurs or extratonos.
+Abdomen: hydro-aerial sounds present. Soft, without masses or organomegaly.
+Extremities: pulses of slightly decreased amplitude, symmetrical, no oedema in the lower limbs, slow capillary filling.
+Neurological: reactive symmetrical pupils. Ramsay 6.
+
+
+COMPLEMENTARY TESTS
+ECG (after defibrillation): sinus rhythm, narrow QRS, ST-segment elevation of up to 4 mm in inferior face, greater in lead III than in II, with specular decrease from V1 to V3.
+ECG (on arrival at our centre): normalisation of ST-segment elevation in the inferior face.
+
+Analysis on admission: Hb 14 g/dL, leukocytes 17300/μL (neutrophils 85%), platelets 270000/μL, INR 1, D-dimer 15346 ng/mL, glucose 346 mg/dL, urea 27 mg/dL, creatinine 0.83 mg/dL, Na 134 mg/dL, potassium 4.3 mg/dL, NTproBNP 280 pg/mL, ALT 48 U/L, GGT 32U/L, alkaline phosphatase 76U/L, amylase and lipase normal, Mg 2.3 mg/dL, Ca 8.1 mg/dL, P 6.4 mg/dL, total cholesterol 138 mg/dL, LDL 84 mg/dL, HDL 35 mg/dL, triglycerides 92 mg/dL, HbA1c 6.2%, TSH 0.03 ulU/mL, free T4 17.6 pg/mL, free T3 3.9 pg/mL. Myocardial necrosis markers: peak troponin I 149 ng/mL, peak CK 2512 U/L. Neuron specific enolase: 1st determination: 29.4 ng/mL. Second determination: 43.3 ng/mL.
+
+Blood cultures, urine culture and bronchial aspirate culture: negative. Chest X-ray on admission: atelectasis in the right upper lobe.
+
+Chest X-ray 2 days after admission: alveolointerstitial infiltrate in right lung and left lung base. Resolution of right upper lobe atelectasis.
+
+Portable echocardiogram on admission (during induction of hypothermia): moderate-severe left ventricular dysfunction with estimated LVEF 35%, with posterior and inferior akinesia and lateral hypokinesia. Right ventricle with slightly reduced systolic function (TAPSE 15 mm), mild mitral insufficiency, no pericardial effusion.
+
+Echocardiogram after termination of hypothermia and extubation: mildly reduced left ventricular systolic function (LVEF by biplane 57%). Apical akinesia and hypokinesia of the inferior and septal aspect. Mild mitral insufficiency. Urgent coronary angiography: left main coronary artery: no stenosis. DA artery: vessel of adequate calibre and development, without stenosis. Artery CX: vessel of adequate size and development, with 100% ostial occlusion that receives homocoronary Rentrop-3 collateral circulation from the diagonal branches of the DA artery. CD artery: severely calcified dominant vessel, of adequate size and development, with 75% stenosis in its proximal segment and 90% ulcerated plaque image in its middle segment. Balloon angioplasty and implantation of 2 overlapping drug-eluting stents in the middle and proximal segments of the CD artery, with TIMI III distal flow.
+
+EVOLUTION
+On arrival at the Acute Cardiac Care Unit, a femoral venous hypothermia catheter (Coolgard®) was inserted and cooling was completed, reaching a target temperature of 33°C within a few hours. The admission X-ray showed an image of atelectasis in the right upper lobe, probably related to secretion impaction, which resolved in the subsequent control X-ray after aspiration of the endotracheal tube and mobilisation of the patient. Therapeutic hypothermia was maintained for 24 hours, and subsequent rewarming was carried out without complications.
+The patient evolved well, allowing him to be extubated on the third day of admission. After rewarming and extubation, the patient made a good neurological recovery, with adequate mobilisation of all four limbs, and was oriented, able to understand and obey orders, with some frontal deficit, which gradually recovered.
+On discharge he persisted with mild dysarthria, pending assessment and follow-up by rehabilitation and speech therapy. Incidentally, during his admission he presented a bout of atrial fibrillation on telemetry, which cardioverted to sinus rhythm after starting amiodarone, with no new arrhythmic episodes. On arrival at the hospital, the emergency services informed us of the possibility of bronchoaspiration during OTI, so blood, urine and bronchial aspirate cultures were taken on admission, and empirical antibiotic coverage with amoxicillin-clavulanic acid was started. The cultures, however, were negative. After completing rewarming, fever was observed for more than 24 hours, with purulent secretions in the ventilation tube, so antibiotic therapy was modified and meropenem and metronidazole were started, with good evolution, with no new febrile peaks.
+The patient was discharged with treatment with adiro 100 mg, prasugrel 10 mg, pantoprazole 20 mg, atorvastatin 80 mg, enalapril 10 mg and metoprolol 50 mg at breakfast and 25 mg at dinner. The patient was referred to the cardiac rehabilitation department of our centre.
+
+DIAGNOSIS
+Cardio-respiratory arrest due to recovered ventricular fibrillation.
+Killip I inferior STEACS.
+Angioplasty and implantation of drug-eluting stents in the proximal and middle right coronary artery.
+Total occlusion of ostial circumflex artery with collateral circulation.
+Therapeutic hypothermia.
+Bronchoaspiration pneumonia.

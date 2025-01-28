@@ -1,0 +1,30 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+ANTECEDENTES:
+Varón de 29 años exfumador desde hace un año de un paquete al día durante 15 años, sin otros antecedentes personales de interés. No toma ningún tratamiento de forma habitual. Como antecedentes familiares, su tío y abuelo paternos fallecieron de infarto agudo de miocardio (IAM) a una edad superior a los 65 años.
+El ECG previo basal está en ritmo sinusal con eje normal, QRS estrecho sin alteraciones en la repolarización.
+
+ENFERMEDAD ACTUAL:
+El paciente acude a urgencias de nuestro centro en julio de 2017 por un cuadro de 48 horas de evolución de odinofagia intensa, que dificulta la deglución y fiebre termometrada en domicilio de hasta 39 oC. Niega disnea, tos o expectoración purulenta. Asimismo refiere desde hace meses molestias centrotorácicas de características mecánicas que no limitan su actividad habitual.
+
+EXPLORACIÓN FÍSICA:
+A su llegada a urgencias se objetiva fiebre de 38 oC y taquicardia sinusal a 110 lpm. Se mantiene estable hemodinámicamente con adecuadas cifras tensionales y buena saturación basal de oxígeno. La exploración física objetiva orofaringe eritematosa con placas pultáceas amigdalares bilaterales y restos de secreciones en pared faríngea posterior, sin adenopatías palpables. La auscultación cardiopulmonar es normal.
+
+PRUEBAS COMPLEMENTARIAS
+ANALÍTICA: leucocitosis con neutrofilia, iones normales.
+GASOMETRÍA VENOSA: alcalosis respiratoria.
+ECG a su llegada a urgencias (con fiebre de 38 oC): taquicardia sinusal a 110 lpm, PR normal,
+QRS 120 milisegundos. En V1-V2 se objetiva imagen de RsR' con elevación descendente del segmento ST y onda T negativa. Compatible con patrón de Brugada tipo I.
+ESG tras una dosis iv de paracetamol, 37 oC: ritmo sinusal a 95 lpm, PR normal, QRS 113 milisegundos. En V1-V2 se objetiva una imagen de RsR' con elevación descendente del segmento ST pero menos pronunciada que en ECG previo y onda T negativa.
+RADIOGRAFÍA DE TÓRAX: normal.
+ECOCARDIOGRAMA TRANSTORÁCICO: sin datos de cardiopatía estructural. Ventrículo izquierdo no dilatado con espesores parietales normales y función sistólica normal. Ventrículo derecho de tamaño normal con función sistólica normal. Aurículas de tamaño normal. No valvulopatías.
+Ausencia de derrame pericárdico.
+
+EVOLUCIÓN CLÍNICA
+Tras estos hallazgos, se reinterroga al paciente que refiere episodios sincopales de perfil vasovagal (un episodio en los últimos dos años) en relación con el calor o las extracciones sanguíneas, sin otra sintomatología cardiovascular. Asimismo niega antecedentes de muerte súbita en su familia.
+El paciente es dado de alta con tratamiento antibiótico con amoxicilina para la faringoamigdalitis aguda y es derivado a la unidad de arritmias para completar estudio, donde se realiza un test de provocación con flecainida que resulta positivo.
+Se realiza un estudio electrofisiológico, durante el cual no se hallaron arritmias ventriculares inducibles ni prologación del intervalo HV. Al no presentar el paciente antecedentes de muerte súbita en la familia, no tener patrón de Brugada tipo 1 de forma espontánea, y ser los síncopes de muy baja recurrencia y claro perfil vasovagal, se decide no implantar un desfibrilador automático implantable (DAI) y realizar seguimiento clínico.
+
+DIAGNÓSTICO
+Patrón electrocardiográfico de Brugada tipo I desenmascarado por fiebre.
+Síncopes de probable perfil vasovagal.

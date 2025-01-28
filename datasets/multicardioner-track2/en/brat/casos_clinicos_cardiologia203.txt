@@ -1,0 +1,58 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+62-year-old male.
+
+History
+No known drug allergies.
+Baseline functional status: independent for daily activities, higher functions preserved. Active life without dyspnoea or angina.
+No family history of sudden death or early ischaemic heart disease.
+Non-smoker. As the only cardiovascular risk factor: arterial hypertension (AHT), on pharmacological treatment with telmisartan/amlodipine 80/10 mg (1-0-0).
+No known previous heart disease.
+Other personal medical history: anxiety disorder being monitored by psychiatry and treated with ziprasidone 40 mg (0-0-1), lorazepam 5 mg (0-0-0.5), mirtazapine 30 mg (0-0-1) and vortioxetine 10 mg (1-0-0).
+
+Present illness
+An asymptomatic patient, while in a shoe shop, suddenly lost consciousness witnessed by his wife without subsequent recovery, so she called the emergency services. On arrival of the first resuscitators (after 5-8 minutes without basic CPR) they observed CPR in a defibrillable rhythm for the AED. S1e administered 2 adrenaline and 4 AED shocks. After advanced life support arrived, the patient persisted in CPR with a shockable rhythm, so a new shock was administered and spontaneous circulation was restored. In the output electrocardiogram (ECG), atrial fibrillation (AF) rhythm with ventricular response at 160 bpm with ST elevation in I, aVL and V3-V6. After this, in view of the Glasgow Coma Scale (GCS) of 3 points, orotracheal intubation (OTI) was performed.
+Contact was made with our cardiology department and, in view of CRA due to shockable rhythm with anterolateral ST elevation, it was decided to transfer the patient directly to the haemodynamics department for emergent coronary angiography, and the hypothermia protocol was initiated.
+Total time of cardiorespiratory arrest: 20 minutes. Time without assistance: 5-8 minutes.
+
+Physical examination
+On arrival at hospital: blood pressure (BP) 139/87 mmHg; heart rate (HR) 94 bpm; post-OIOT oxygen saturation 100%; afebrile. GCS 4 points. On admission he was kept on sedative treatment with continuous perfusion of midazolam. Intubated, well adapted to the ventilator with FiO2 35%, normal colour and well perfused. On examination: no jugular plethora. Rhythmic cardiac auscultation without murmurs. Normal pulmonary auscultation, good bilateral ventilation. Abdomen soft and depressible. No oedema or evidence of venous thrombosis in the lower extremities, with palpable pulses.
+
+COMPLEMENTARY TESTS
+AED recording: ventricular fibrillation arrest rhythm.
+ECG (immediately after discharge): atrial fibrillation with ventricular response at 160 bpm and ST elevation of up to 3 mm anterolateral (lateral and precordial).
+ECG on admission to the coronary unit: sinus rhythm at 100 bpm, axis at 60o, normal PR, narrow QRS. Normal QT. Correct progression of R in precordial leads. No acute repolarisation abnormalities. No early repolarisation pattern.
+Post-PCR analysis on admission:
+Biochemical parameters within normal range, including lipid profile, with renal function and ions (magnesium, sodium, calcium, potassium) in range. Normal haemogram and coagulation.
+Initial myocardial damage markers: CK 181 U/l and ultrasensitive TnT 187 ng/l (N: 0-14); with maximum peak CK 2,127 U/l and ultrasensitive TnT 951 ng/l. Urine toxicity test: negative.
+Emergency echocardioscopy: LV neither dilated nor hypertrophic with preserved global and segmental systolic function, hyperdynamic. No significant valvulopathies. RV not dilated with good function. No pericardial effusion.
+
+Emergency tests performed on arrival:
+Emergent coronary angiography: coronary arteries without lesions.
+Cerebral CT and thoraco-abdominal CT angiography: no significant findings.
+Transthoracic echocardiogram (in coronary unit): left ventricle (LV) not dilated or hypertrophic with preserved systolic function (LVEF 65%) without alterations in segmental contractility. Diastolic pattern of elongated relaxation (E/E'9). Normal left atrium (20 cm2). Right ventricle (RV) not dilated and with good function. Trivalve aortic valve with preserved opening, without functional alterations. Aortic root not dilated (30 mm). Mitral valve of normal appearance with minimal insufficiency. Tricuspid valve with mild insufficiency. Inferior vena cava not dilated with inspiratory collapse > 50%. Estimated pulmonary artery systolic pressure (PSAP) of 25 mmHg. No pericardial effusion.
+
+Cardiac magnetic resonance imaging (MRI) on the general cardiology hospital ward: non-dilated left ventricle (LV) with preserved global and segmental function (LVEF 62%). Mild-moderate concentric LV hypertrophy (12-13 mm). Non-dilated right ventricle (RV) with preserved global and segmental function (RVEF 63%). In the late enhancement sequences no pathological uptakes were seen. Findings compatible with hypertensive heart disease, with good biventricular function, without pathological enhancements.
+
+Negative for the phenotype of long QT syndrome: standing ECG with normal QTc (440 ms) and stress test with measurement of QTc at the 4th minute of recovery also normal (445 ms). During the stress test, there were no arrhythmic events compatible with catecholaminergic polymorphic ventricular tachycardia.
+Negative for Brugada syndrome phenotype: modified ECG negative for Brugada pattern in right precordial leads, and negative flecainide test: normal basal sinus rhythm, normal atrioventricular (AV) conduction and normal QRS. The test was negative, although during the pharmacological test with flecainide, the frequent appearance of monomorphic ventricular extrasystoles with right bundle branch block morphology (RBBB) and superior axis, suggestive of origin in the posterior fascicle, drew attention.
+Finally, with the history of ST elevation in the ECG after the arrest, it was decided to perform an echocardiographic test with ergobasin: clinically, electrically and echocardiographically negative.
+
+CLINICAL EVOLUTION
+The patient was admitted to the coronary unit after coronary angiography, cerebral-thoracic-abdominal CT and TTE without alterations. After haemodynamic stabilisation with a slow but progressive neurological improvement, and without new arrhythmic events on telemetry, it was decided to transfer him to the general cardiology hospital ward to complete the study with advanced cardiac imaging and provocation tests for channelopathies or coronary vasospasm, the results of which have been detailed previously.
+The patient remains cardiologically asymptomatic throughout the hospital stay. He was monitored with telemetry, with no recorded arrhythmic events, and daily ECGs were performed, with normal QTc in all of them.
+
+The tests performed during admission ruled out the main causes of cardiac arrest:
+1. Ischaemia: normal coronary network in urgent coronary angiography. Cardiac magnetic resonance imaging also showed no pathological ischaemic enhancements.
+2. Structural: no evidence of pulmonary thromboembolism (PTE) or cardiac tamponade in emergency echocardiography or CT; no evidence of underlying cardiomyopathy in regular transthoracic echocardiography or cardiac magnetic resonance imaging.
+3. Channelopathies: negative provocation tests for long QT syndrome, Brugada, and catecholaminergic polymorphic ventricular tachycardia. The baseline ECG also shows no short QTc morphology or early repolarisation pattern.
+4. Coronary vasospasm: negative ergobasin echocardiography test. 5. No toxic-metabolic alterations to justify the picture.
+The patient had no family history of sudden death or early ischaemic heart disease.
+His father has permanent atrial fibrillation and his mother has paroxysmal atrial fibrillation. On discharge, his two children and his sister, all of whom were healthy, were referred to the family heart disease clinic for an ECG and transthoracic echocardiogram.
+A diagnosis of idiopathic ventricular fibrillation was established. A subcutaneous implantable cardioverter defibrillator (ICD) was placed for secondary prevention, and the patient underwent outpatient monitoring in the electrophysiology department.
+
+DIAGNOSIS
+Out-of-hospital CRA resuscitated by shockable rhythm. Idiopathic ventricular fibrillation:
+Angiographically normal coronary network.
+No structural heart disease.
+Good biventricular function.
+Pharmacological tests to unmask channelopathy and vasospasm negative.

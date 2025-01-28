@@ -1,0 +1,29 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+Donna di 51 anni senza allergie note ai farmaci e senza fattori di rischio cardiovascolare.
+
+Anamnesi cardiologica: anomalia di Ebstein tipo cardiopatia congenita. Sindrome di Wolff
+Sindrome di Parkinson-White (WPW) diagnosticata a 18 anni. Seguito in ambulatorio cardiologico, in classe funzionale abituale II-III/IV della New York Heart Association (NYHA).
+Episodi di tachicardia parossistica sopraventricolare ortodromica (PSVT). Studio Holter (ottobre 2016): ritmo sinusale senza eventi aritmici. Non assume regolarmente alcun trattamento.
+Ricoverata in un ospedale regionale a causa del progressivo peggioramento della sua classe funzionale negli ultimi 3 mesi con dispnea progressiva fino al minimo sforzo. Ha riferito un caso di infezione delle vie respiratorie superiori (un mese prima del ricovero), coincidente con un peggioramento della dispnea fino al riposo e dell'ortopnea. Nessun altro sintomo. Durante il ricovero all'Ospedale El Bierzo, è stato iniziato un trattamento depletivo per insufficienza cardiaca congestizia con tendenza all'ipotensione. È stato richiesto il trasferimento al nostro centro per completare gli studi e valutare le opzioni terapeutiche. Alla valutazione nel nostro reparto, la paziente ha riferito un'intensa astenia con miglioramento della dispnea.
+Pressione arteriosa 124/88 mmHg, frequenza cardiaca 80 bpm. Cianosi. Acropazie. Saturazione basale di ossigeno in posizione supina 80%, in posizione seduta 65%. Pressione venosa giugulare normale. All'auscultazione cardiaca: soffio ritmico, sistolico nel III/VI fuoco tricuspidale, olosistolico.
+Auscultazione polmonare: murmure vescicolare conservato senza rumori aggiunti. Addome morbido, depressibile, non dolente alla palpazione. Nessuna palpazione di epatomegalia o altre masse.
+Arti inferiori senza edema, nessun segno di trombosi venosa profonda e pulsazioni periferiche simmetriche.
+
+ESAMI COMPLEMENTARI
+ELETTROCARDIOGRAMMA (ECG): ritmo sinusale a 75 bpm. PR 200 ms. Qtc 480 ms. Blocco di branca destro (RBBB). Predominanza della componente positiva dell'onda P in V1.
+RADIOGRAFIA TORACE: cardiomegalia, senza segni di ridistribuzione vascolare. Seni costofrenici liberi. Assenza di condensazione.
+ANALISI: emogramma: leucociti 9000 mil/mm3 (N 78%, L 11%), Hb 13,9 g/dl, ematocrito 41,7%. MCV 92,4 fl, piastrine 114000/mm3, aptoglobina 100 mg%. Coagulazione: INR 1,2, PT 72%, TTPa 32 secondi. Biochimica: glucosio 87 mg/dl, urea 30 mg/dl, creatinina 0,98 mg/dl (FG 60), colesterolo totale 108 mg/dl, HDL 31 mg/dl, LDL 64 mg/dl, trigliceridi 64 mg/dl, GOT 24 U/l, GPT 2624U/l, bilirubina totale 0,72 mg/dl, NT-proBNP 207 pg/ml. Gas ematici arteriosi: pH 7,53, PCO2 30,4, PO2 51, bicarbonato 25,2.
+Ecocardiogramma: ventricolo destro gravemente dilatato con contrattilità depressa. Ventricolo sinistro di dimensioni normali con funzione conservata. Atrio destro (RA) gravemente dilatato con setto interventricolare sporgente a sinistra. Valvola polmonare a foglietto sottile con apertura normale. Flusso post-valvolare di 1 m/s con flusso Doppler di branca simmetrico. Valvola tricuspide con morfologia di Ebstein, impianto più apicale del foglietto settale, a 48 mm dall'anulus mitralico, con rigurgito IV/IV. Morfologia triangolare in Doppler spettrale, con velocità massima di 2,4 m/sg. Valvole mitrale e aortica normali. Dopo l'iniezione di soluzione fisiologica agitata, si è verificato un abbondante passaggio spontaneo di bolle nelle cavità di sinistra, presentando una sincope durante la procedura, con successivo recupero progressivo e cefalea. Non è stato osservato alcun evidente difetto del setto atriale (ASD), per cui è stato attribuito al PFO. Conclusione: malattia di Ebstein, IV/IV rigurgito tricuspidale con disfunzione ventricolare, shunt da destra a sinistra dovuto a probabile PFO.
+STUDIO EMODINAMICO (arteria femorale destra): la ventricolografia mostra uno shunt destro-sinistro. Dopo l'occlusione temporanea del difetto con un palloncino, si è constatato che le pressioni nell'atrio destro non aumentavano e le pressioni arteriose non scendevano. Con l'uso di un dispositivo Amplatzer FOP Tribiform MF 35 mm, il difetto è quasi completamente occluso, con uno shunt residuo minimo, con una saturazione arteriosa dall'81% al 99% (video 4). Nessuna complicazione. Sotto controllo con ecocardiografia intracardiaca ed ecocardiografia transesofagea (TEE), è stato eseguito un test con palloncino da 18 mm, che non ha mostrato variazioni emodinamiche significative (pressione arteriosa e pressione atriale destra).
+
+EVOLUZIONE CLINICA
+Il paziente è stato ricoverato per completare lo studio a causa del progressivo peggioramento della classe funzionale. Uno studio ecocardiografico ha mostrato un significativo shunt interatriale destro-sinistro suggestivo di PFO con comportamento di platinfonia-ortodossia. Alla luce di questi risultati, si è deciso di eseguire una tecnica percutanea sul PFO. Prima della chiusura definitiva, è stata valutata la risposta emodinamica con una chiusura transitoria con palloncino, che è risultata favorevole, quindi è stato impiantato un dispositivo di chiusura cribroso Amplatzer da 35 mm, con buoni risultati finali e una saturazione arteriosa aumentata dall'81% del basale al 99%. Dopo la procedura, la paziente era stabile e asintomatica, con un miglioramento della classe funzionale e della saturazione basale, e si è deciso di trasferirla al suo ospedale di riferimento.
+
+DIAGNOSI
+Sindrome ortopnoica-ortodossa.
+PFO con significativo shunt spontaneo destra-sinistra.
+Cardiopatia congenita del tipo anomalia di Ebstein.
+Insufficienza respiratoria globale secondaria a shunt intracardiaco, risolta.
+Impianto di un dispositivo di chiusura del PFO percutaneo Amplatzer criforme da 35 mm.
+Rigurgito tricuspidale massivo senza segni di ipertensione polmonare. LVEF conservata.
+Sindrome WPW intermittente. Episodi di TPSV ortodromica.

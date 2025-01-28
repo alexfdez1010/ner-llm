@@ -1,0 +1,24 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+BACKGROUND:
+This is a 17-year-old male patient, the younger of two siblings. His older sister (index case) has clinical suspicion of MFS, presenting with marfanoid habitus and ectopia lentis but no aortic dilatation (she is the index case but does not meet diagnostic criteria for MFS).
+The patient's mother has marfanoid habitus, but has not developed ectopia lentis or aortic dilatation.
+After family screening, our patient, a competitive sportsman (basketball), was studied.
+
+PHYSICAL EXAMINATION:
+The patient was normotensive and afebrile, well perfused, eupneic at rest and with good skin and mucous membrane colouring. Carotid pulses rhythmic and symmetrical. No jugular ingurgitation. Thoracic deformity due to pectus carinatum. Cardiopulmonary auscultation with rhythmic tones and no murmurs, with preserved vesicular murmur. Pedial and posterior tibial pulses present and symmetrical without malleolar oedema or stigmata of venous insufficiency or deep vein thrombosis. Positive wrist and thumb sign. Increased arm/stature ratio. Scoliosis. Subluxation of the crystalline lens.
+
+COMPLEMENTARY TESTS
+ELECTROCARDIOGRAM (ECG): RS at 47 bpm. Narrow QRS. Normal axis. No repolarisation alterations.
+ECOCARDIOGRAM: left ventricle not dilated, with normal thickness and preserved function (EF 60%), highlights inferolateral and apical hypertrabeculation. Normal right cavities.
+Absence of valvular heart disease. Aorta not dilated with maximum diameter at sinus level: 31 mm.
+
+CARDIAC NUCLEAR MAGNETIC RESONANCE (MRI): no alterations of interest, except for increased trabeculation in the areas referred to in the echocardiogram, without fulfilling the criteria for non-compacted myocardium. Aorta within the normal range.
+EXERCISE TEST: stopped at minute 14.30 of the Bruce protocol after reaching the maximum theoretical heart rate (HR). Normal tension and chronotropic response. Isolated supraventricular extrasystoles. Conclusion: clinically and electrically negative for ischaemia. Good functional capacity. No significant arrhythmias.
+HOLTER-ECG: no significant arrhythmias.
+GENETIC STUDY: studied by massively parallel sequencing method using a library that includes 35 genes related to aortic-vascular syndromes. A heterozygous mutation in the FBN1 gene (p.Glu 1811Lys) previously described and considered pathogenic or associated with the disease and another heterozygous mutation in the FBN1 gene (p.Arg2Cys) previously undescribed and with uncertain pathogenicity are identified.
+CLINICAL EVOLUTION
+The patient presents with marfanoid habitus (more than 7 points between characteristic systemic findings, including pectus carinatum and scoliosis) and lens subluxation. However, there was no aortic dilatation. In the absence of a family history of MFS, the diagnosis is not confirmed and genetic testing is necessary. After confirming the pathogenic mutation in the FBN1 gene, the diagnosis of MFS was confirmed, and the patient was advised against intense physical exercise and competition.
+
+DIAGNOSIS
+MFS (systemic scores > 7 points and lens subluxation) without involvement of the cardiovascular system, with heterozygous mutation of the FBN1 gene.

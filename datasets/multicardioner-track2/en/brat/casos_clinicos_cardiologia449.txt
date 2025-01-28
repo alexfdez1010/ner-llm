@@ -1,0 +1,42 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+
+Personal history
+53-year-old male, active, civil servant. He had no drug allergies, had smoked sporadically (1-2 packs/year accumulated) and was diagnosed with mild arterial hypertension, with no other associated cardiovascular risk factors. He took omeprazole on demand for occasional dyspepsia, but did not take any treatment on a regular basis.
+
+Current history
+She consulted her primary care physician for several episodes of oppressive central thoracic pain, of sudden onset, at rest, lasting a few minutes. The pain is not related to meals, does not change with respiratory movements or postural changes and is accompanied only by mild sweating.
+He was prescribed treatment with acetylsalicylic acid 100 mg (1-0-0), bisoprolol 2.5 mg (1-0-1), omeprazole 20 mg (1-0-0) and sublingual nitroglycerin on demand and was referred to the Cardiology Department.
+He went to the emergency department a few days later because the symptoms persisted despite treatment.
+With the use of nitroglycerine, the duration was shorter, but not the frequency; he reported up to 7 episodes in the last 3 weeks, with a clear predominance at night.
+
+Physical examination in the emergency department
+Blood pressure: 145/89 mmHg. Heart rate 60 beats per minute, basal oxygen saturation 100%. Temperature 36.5°C. Good general condition. Conscious, oriented, cooperative. Eupneic at rest. Not hydrated. Normal colour.
+Jugular venous pressure normal. Carotid rhythmic, no murmurs. Cardiac auscultation rhythmic without murmurs, friction rubs or extratonos. Pulmonary auscultation with preserved vesicular murmur, without extra sounds. Abdomen with no notable alterations.
+Lower extremities normal. Peripheral pulses present and symmetrical.
+
+COMPLEMENTARY TESTS
+
+Emergency ECG: sinus rhythm at 55 bpm, normal PR, narrow QRS, without repolarisation alterations.
+
+Emergency laboratory tests: haemoglobin 15.8 g/dl, leukocytes 8,650/mm3 (normal formula), platelets 212,000/mm3. Coagulation: prothrombin rate 91 %, activated partial thromboplastin time 26.6 s, fibrinogen 309 mg/dl. Biochemistry: glucose 113 mg/dl, urea 40 mg/dl, creatinine 1.13 mg/dl, sodium 140 mEq/l, potassium 3.4 mEq/l, serial troponin I 0.00 ng/ml.
+
+Chest X-ray in the emergency department: normal.
+
+Echocardioscopy in the ED: left ventricle of normal size and overall systolic function, without alterations in segmental contractility. Right ventricle of normal size and systolic function Normal atria. Absence of significant valvular heart disease. Visible segments of the great vessels normal.
+Normal pericardium.
+
+Stress test: discontinued at minute 10.50 of the Bruce protocol (11.80 METS) for reaching the maximum theoretical heart rate. Normal blood pressure and chronotropic response. No arrhythmias were recorded. Conclusion: clinically and electrically negative for ischaemia.
+
+Holter ECG of events of 10 days duration: coinciding with an episode of chest pain identical to the previous ones, ST segment elevation of a few minutes duration is recorded, as well as frequent supraventricular and ventricular extrasystoles.
+
+CT scan of the coronary arteries: calcium score 191. Calcific plaques were seen in the proximal third of the anterior descending and circumflex arteries that did not cause significant stenosis, as well as soft plaque in the middle third of the anterior descending artery that caused 50% stenosis.
+
+EVOLUTION
+During his stay in the ED, the patient remained asymptomatic and haemodynamically stable at all times. Serial myocardial damage markers were negative. He was assessed by the on-call Cardiology team, who performed echocardioscopy where no alterations were observed. In view of the characteristics of the episodes, the possibility of coronary vasospasm was raised, so nitrates were added to his treatment and it was decided to complete the study on an outpatient basis. Admission was not considered necessary because the episodes of pain had not increased in intensity or duration and were not accompanied by palpitations, dizziness or syncope.
+The Holter recording of long-term events two weeks later showed transient ST-segment elevation coinciding with a new episode of chest pain, identical to the previous ones, confirming the diagnosis of coronary vasospasm. Bisoprolol was discontinued (the patient had already discontinued nitrates due to headache and acetylsalicylic acid due to dyspepsia) and diltiazem was started at a dose of 120 mg every 12 hours. Given that he did not perform strenuous physical exertion, ergometry was requested, which was clinically and electrically negative for ischaemia. Despite this result, in order to rule out underlying obstructive coronary lesions with greater certainty, a CT scan of the coronary arteries was performed, which showed non-significant stenosis in the anterior descending and circumflex arteries, and simvastatin was added to his treatment at a dose of 20 mg daily.
+The patient has progressed well, with no recurrence of symptoms to date.
+It is explained to him that in order to avoid new episodes as far as possible, it is essential that he abstains from smoking and adheres to the pharmacological treatment.
+
+DIAGNOSIS
+Vasospastic angina.
+Coronary arteries without significant lesions.

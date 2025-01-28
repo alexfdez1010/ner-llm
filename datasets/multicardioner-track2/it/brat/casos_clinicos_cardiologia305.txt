@@ -1,0 +1,38 @@
+ANAMNESI, MALATTIA ATTUALE ED ESAME FISICO
+
+STORIA PERSONALE
+Uomo di 76 anni. Nessuna allergia nota ai farmaci. Vive da solo, è indipendente per le attività di base della vita quotidiana, non ha problemi cognitivi. Ex fumatore (80 anni) ed ex forte bevitore da 7 anni.
+Nessuna malattia metabolica nota di interesse.
+Anamnesi cardiologica: episodio autolimitato di fibrillazione atriale (FA), diagnosticato 2 mesi fa al pronto soccorso, per il quale è stata iniziata un'anticoagulazione orale con acenocumarolo.
+Interventi chirurgici: cataratta (entrambi gli occhi).
+Farmaci cronici: omeprazolo 20 mg/24h, acenocumarolo (secondo le linee guida di ematologia) e clometiazolo 192 mg/24h.
+
+MALATTIA ATTUALE
+Consultazione cardiologica in seguito alla diagnosi di fibrillazione atriale al momento della presentazione al Pronto Soccorso, 2 mesi fa, a causa di vertigini e perdita di coscienza della durata di alcuni secondi, con successivo recupero ad integrum. La fibrillazione atriale, registrata al pronto soccorso, è tornata spontaneamente al ritmo sinusale ed è stato iniziato un trattamento con acenocumarolo e amiodarone. Dopo 3 settimane di trattamento, il paziente ha interrotto l'amiodarone a causa di un errore nel dosaggio. Attualmente nega dispnea, dolore toracico o palpitazioni e non ha accusato vertigini o sincope. Non riferisce inoltre alcuna sindrome costituzionale o altri sintomi di accompagnamento e riferisce di condurre una vita attiva senza limitazioni.
+
+ESAME FISICO
+Pressione sanguigna 156/89 mmHg. Battito cardiaco 68 bpm.
+Buone condizioni generali. Cosciente, orientato e collaborativo. Eupnea. Magrezza e pallore cutaneo. Ben perfuso.
+Auscultazione cardiaca: suoni cardiaci ritmici, nessun soffio.
+Auscultazione polmonare: soffio vescicolare conservato.
+Addome: morbido, depressibile, non dolente alla palpazione, senza masse o megaliti.
+Arti inferiori: nessun edema o segno di trombosi venosa profonda.
+
+
+ESAMI COMPLEMENTARI
+Esami di laboratorio: biochimica: glucosio 108 mg/dl. Urea 32 mg/dl. Creatinina 1,11 mg/dl. Sodio 142 mmol/l. Potassio 4 mmol/l. Troponina I ultrasensibile < 17ng/l. Emogramma: 13.550 leucociti (10.080 neutrofili). Emoglobina 16,5 g/dl. 182.000 piastrine. Coagulazione:
+PT 92%, fibrinogeno 509 mg/dl, D-dimero 380 ng/ml.
+Elettrocardiogramma (ECG) al pronto soccorso: FA con risposta ventricolare a 120 bpm, blocco di branca destro incompleto (RBBB), senza alterazioni della ripolarizzazione.
+ECG al consulto cardiologico: ritmo sinusale (SR) a 68 bpm, PR normale, RBBB, nessuna anomalia della ripolarizzazione.
+Radiografia del torace: indice cardiotoracico normale, nessuna condensazione o ridistribuzione vascolare.
+Ecocardiogramma transtoracico (TTE): ventricolo sinistro non dilatato (DTD 47), non ipertrofico, con normale funzione sistolica globale (LVEF 65%), senza alterazioni della contrattilità segmentale. Ventricolo destro non dilatato, con morfologia e funzione sistolica normali (TAPSE 20). Modello di riempimento mitralico normale, con rilassamento alterato senza aumento delle pressioni di riempimento (E/E ́11). Valvola mitrale normale. Valvola aortica sclerotica, sembra trivalve, funzione normale. Atri di dimensioni normali. Setto atriale (AIS) apparentemente intatto. Massa impiantata sul lato atriale della valvola tricuspide, a livello laterale, 2 x 1,8 cm, pattern ecocardiografico a chiazze.
+Assenza di stenosi e minima insufficienza tricuspidale che non consente di stimare la pressione sistolica arteriosa polmonare (PSAP). Nessuna evidenza indiretta di ipertensione polmonare.
+Segmenti visibili di radice e arco aortico e arteria polmonare senza alterazioni. Vena cava inferiore normale. Assenza di versamento pericardico.
+
+EVOLUZIONE CLINICA
+Alla luce dei reperti ecocardiografici, la massa impiantata sul lato atriale della valvola tricuspide è stata interpretata come una prima possibilità come un mixoma di localizzazione atipica.
+Il sospetto diagnostico e la necessità di un intervento chirurgico per rimuovere la massa a scopo diagnostico e terapeutico vengono spiegati al paziente. Il paziente comprende la situazione e accetta l'intervento; pertanto, gli studi pre-chirurgici vengono completati con un'angiografia coronarica che non mostra lesioni coronariche. Il paziente è stato sottoposto a intervento chirurgico, senza incidenti, e la diagnosi di mixoma è stata confermata dallo studio istologico del campione escisso.
+
+DIAGNOSI
+Mixoma localizzato sul lato atriale della valvola tricuspide.
+Fibrillazione atriale parossistica, primo episodio registrato, CHA2DVASc 2, HASBLED 1.

@@ -1,0 +1,61 @@
+Se trata de una mujer de 50 años con hallazgo de bloqueo completo de rama izquierda de has de His (BCRIHH) y QT corregido (QTc) alargado en un electrocardiograma (ECG) de rutina. Se realizan las principales pruebas diagnósticas para el estudio completo del síndrome de QT largo (SQTL) siendo diagnosticada de dicha enfermedad pero sin encontrar una mutación genética subyacente.
+
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+
+Antecedentes
+Antecedentes familiares
+Sin antecedentes de cardiopatía ni muerte súbita.
+Prima carnal materna estudiada por sincopes de repetición.
+
+Antecedentes personales
+No alergias medicamentosas conocidas
+Fumadora de 5 cigarrillos/día (8 paquetes-año). No bebedora.
+Hipertensión arterial en tratamiento farmacológico, con buen control habitual. No diabetes mellitus ni dislipemia conocidas.
+Ingreso por meningitis aguda bacteriana a los 20 años, sin secuelas.
+Intervenciones quirúrgicas: apendicectomía. Hernioplastia inguinal izquierda
+
+Tratamiento habitual:
+Ramipril 5 mg al día.
+
+Enfermedad actual
+Mujer de 50 años derivada a las consultas de cardiología por hallazgo en ECG de rutina de BCRIHH. La paciente refiere encontrarse completamente asintomática, sin disnea de esfuerzo, sin episodios de dolor torácico, palpitaciones o síncopes.
+
+Exploración física
+Buen estado general. Bien hidratada y perfundida. Eupneica en reposo. SatO2 99% con FiO2 0.21. Tensión arterial (TA) 128/64 mmHg. Frecuencia cardiaca (FC) 63 lpm.
+Cuello: ausencia de IY. No adenopatías palpables. Carótidas sin soplos.
+Auscultación cardiaca y pulmonar: rítmica, a buena frecuencia. No soplos ni extratonos audibles. Murmullo vesicular conservado, sin ruidos patológicos.
+Abdomen: blando y depresible. No doloroso a la palpación, sin signos de peritonismo. No masas ni megalias.
+Miembros inferiores: no edemas ni signos de trombosis venosa profunda (TVP). Pulsos distales presentes y simétricos.
+
+PRUEBAS COMPLEMENTARIAS
+ECG en consulta: bradicardia sinusal a 57 lpm, eje normal, PR 120 ms, QRS ancho (130 ms) con morfología de BCRIHH con alteraciones secundarias de la repolarización, QT 480ms, QTc 470 ms.
+
+Ecocardiograma:
+Cavidades y grandes vasos: ventrículo izquierdo no dilatado (DTDVI 42mm), con hipertrofia concéntrica ligera de sus paredes (SIV 12mm, PIL 11mm). Aurícula izquierda no dilatada. Ventrículo derecho de dimensiones normales. aurícula derecha normal. Tramos de aorta visualizables normales.
+Válvulas: Válvula aórtica trivalva con signos degenerativos ligeros y jet de insuficiencia de grado ligero, con gradientes anterógrados normales. Mitral de aspecto y función normal.
+No se detecta insuficiencia tricuspidea.
+Función ventricular: Función sistólica del VI preservada, estimada en 55% por Simpson BP.
+No se aprecian alteraciones segmentarias de la contractilidad, aunque si se aprecia una marcada asincronía del tabique interventricular por el BCRIHH. Función diastólica compatible con alteración de la relajación, sin aumento de las presiones de llenado.
+Función sistólica del VD preservada.
+Otros: Vena cava inferior no dilatada y con adecuado colapso inspiratorio. No derrame pericárdico.
+Tomografía por emisión monofotónica (SPECT) cardiaco: negativo para isquemia miocárdica.
+Holter 24 horas: trazado en ritmo sinusal con BCRIHH, con FC mínima 49 lpm, media 68 lpm y máxima 115 lpm, sin pausas significativas. QTc mínimo 391 ms, medio 461 ms y máximo 562ms. No se aprecia alternancia de onda T ni arritmias ventriculares.
+Ergometría (imágenes 2, 3 y 4): FC basal de 63 lpm. QT basal 480 ms. QTc basal 511 ms. FC máxima de 138 lpm (81% de FC máxima) alcanzada a las 5:20 minutos de ejercicio. QT máximo ejercicio 320 ms. QTc máximo ejercicio 482 ms. Presencia de extrasístoles ventriculares aisladas durante el ejercicio. En fase de recuperación (5 minutos): FC 74 lpm, QT 460 ms y QTc 490 ms.
+Sin evidencia de signos isquémicos durante toda la prueba.
+Test de bidepestación de Viskin. en reposo: FC 60 lpm, QT 480 ms y QTc 480 ms.
+Tras la bipedestación: FC 70 lpm, QT 500 ms, QTc 559 ms.
+Test genético (panel de canalopatías): negativo.
+
+EVOLUCIÓN CLÍNICA
+La paciente es remitida por su médico de atención primaria por hallazgo en ECG de rutina de BCRIHH. En el ECG en consulta, se confirma dicho hallazgo junto a la presencia de alteraciones secundarias de la repolarización, un QT 480 ms y un QTc 470 ms. La paciente niega en todo momento haber presentado sintomatología alguna, negando episodios sincopales, ni palpitaciones, ni dolor torácico con los esfuerzos.
+Dadas las alteraciones eléctricas, se decide completar el estudio con un ecocardiograma, que muestra un ventrículo izquierdo con hipertrofia concéntrica ligera de sus paredes con función normal y una insuficiencia aórtica degenerativa de grado ligero, con resto del estudio compatible con la normalidad. Se solicita igualmente SPECT miocárdico que descarta la presencia de isquemia.
+Para completar el estudio de la sospecha de un posible síndrome de QT largo, se realiza la prueba de bipedestación de Viskin que muestra un alargamiento del intervalo QTc, pasando de 480 ms en decúbito supino tras 10 minutos de reposo a 559 ms tras la bipedestación. También se realiza una ergometría con QTc basal y en máximo ejercicio alargado, presencia de extrasístoles ventriculares aisladas y QTc en recuperación de 490 ms. Finalmente se solicita un Holter de 24 horas sin observar eventos arrítmicos ni alternancia de la onda T.
+Con estas pruebas, se diagnostica a la paciente de un Síndrome de QT largo (SQTL) asintomático y se inicia tratamiento con betabloqueantes (bisoprolol 2.5 mg al día). Además, se solicita estudio genético, pero resulta negativo.
+Posteriormente la paciente nos explicó que sus dos primas carnales maternos habían sido diagnosticadas de SQTL pero ambas habían presentado un estudio genético negativo.
+Actualmente la paciente persiste asintomática, sin haber presentado eventos cardiacos durante el seguimiento.
+
+DIAGNÓSTICO
+Síndrome de QT largo (genética negativa).
+Insuficiencia aortica leve.
+Función sistólica normal.
+Bloqueo completo de rama izquierda del haz de His.

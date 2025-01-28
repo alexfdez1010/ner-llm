@@ -13,10 +13,11 @@ from pipeline import Pipeline
 from model.category import Category
 from datasets_info.dataset_info_interface import DatasetInfo
 
-MODELS = ["deepseek-r1:7b", "llama3.2-vision", "llama3.3", "qwen2.5:32b", "phi4"]
+MODELS = ["deepseek-r1:14b", "llama3.2-vision", "llama3.3", "qwen2.5:32b", "phi4"]
 
 DATASETS = {
     "multicardioner_track1": ("datasets_info.multicardioner_track1", "MultiCardionerTrack1"),
+    "pharmaconer": ("datasets_info.pharmaconer", "PharmaCoNER"),
 }
 
 
