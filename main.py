@@ -3,8 +3,6 @@ Main script for executing the NER pipeline.
 """
 
 import argparse
-from pathlib import Path
-from typing import TypeAlias
 
 from ai.extractor_ner import ExtractorNER
 from ai.llm import LLM, LRM
@@ -12,6 +10,7 @@ from dataset import Dataset
 from pipeline import Pipeline
 from model.category import Category
 from datasets_info.dataset_info_interface import DatasetInfo
+from utils import save_experiment_results
 
 MODELS = ["deepseek-r1:14b", "llama3.2-vision", "llama3.3", "qwen2.5:32b", "phi4"]
 
@@ -156,7 +155,20 @@ def main():
         language=language,
     )
     print(f"\nStarting evaluation of {args.dataset} with model {args.model} and categories {', '.join([cat.name for cat in categories])}...")
-    pipeline.evaluate(sentences_per_call=args.sentences_per_call)
+    # Evaluate pipeline
+    micro_metrics, macro_metrics = pipeline.evaluate(
+        sentences_per_call=args.sentences_per_call
+    )
+
+    # Save results
+    save_experiment_results(
+        args.results_file,
+        args.model,
+        args.dataset,
+        args.paragraphs_per_call,
+        micro_metrics,
+        macro_metrics,
+    )
 
 
 if __name__ == "__main__":

@@ -3,10 +3,20 @@ Pipeline for computing metrics from a dataset using a NER extractor based in LLM
 """
 
 import time
+from typing import NamedTuple
 
 from ai.extractor_ner import ExtractorNER
 from dataset import Dataset, Instance
 from model.category import Category
+from model.entity import Entity
+
+
+class TokenMetrics(NamedTuple):
+    """Metrics for token-level evaluation."""
+
+    tp: float
+    fp: float
+    fn: float
 
 
 class Pipeline:
@@ -29,29 +39,152 @@ class Pipeline:
         self.dataset = dataset
         self.categories = categories
 
-    def evaluate(self, sentences_per_call: int = 0) -> tuple[dict, dict]:
-        """
-        Evaluates NER performance on a dataset using BIO annotations.
-        Computes both micro-average (weighted by sentence length) and macro-average metrics.
+    def compute_instance_metrics(
+        self, gold_bio: list[str], pred_bio: list[str]
+    ) -> TokenMetrics:
+        """Compute token-level metrics for a single instance.
 
         Args:
-            sentences_per_call (int): Number of sentences to process per model call. If 0, process all text at once.
+            gold_bio: Gold standard BIO annotations
+            pred_bio: Predicted BIO annotations
 
         Returns:
-            tuple[dict, dict]: Tuple containing micro-average and macro-average metrics
+            TokenMetrics containing true positives, false positives, and false negatives
+        """
+        tp = fp = fn = 0.0
+
+        for gold, pred in zip(gold_bio, pred_bio):
+            # Both are O, nothing to count
+            if gold == "O" and pred == "O":
+                continue
+
+            # Both are entity tags
+            if gold != "O" and pred != "O":
+                gold_tag = gold.split("-", 1)
+                pred_tag = pred.split("-", 1)
+
+                # Same entity type
+                if (
+                    len(gold_tag) == 2
+                    and len(pred_tag) == 2
+                    and gold_tag[1] == pred_tag[1]
+                ):
+                    # Both B or both I
+                    if gold_tag[0] == pred_tag[0]:
+                        tp += 1
+                    # One is B and one is I - partial match
+                    else:
+                        tp += 0.5
+                        fp += 0.5
+                # Different entity types
+                else:
+                    fp += 1
+                    fn += 1
+            # One is O and one is an entity
+            else:
+                if gold != "O":
+                    fn += 1
+                if pred != "O":
+                    fp += 1
+
+        return TokenMetrics(tp=tp, fp=fp, fn=fn)
+
+    def _calculate_f1_metrics(
+        self, tp: float, fp: float, fn: float
+    ) -> dict[str, float]:
+        """Calculate precision, recall, and F1 score.
+
+        Args:
+            tp: True positives
+            fp: False positives
+            fn: False negatives
+
+        Returns:
+            Dictionary containing precision, recall, and F1 score
+        """
+        precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
+        recall = tp / (tp + fn) if (tp + fn) > 0 else 0.0
+        f1 = (
+            2 * (precision * recall) / (precision + recall)
+            if (precision + recall) > 0
+            else 0.0
+        )
+
+        return {"precision": precision, "recall": recall, "f1": f1}
+
+    def _print_evaluation_progress(
+        self,
+        instance_idx: int,
+        total_instances: int,
+        predicted_entities: list[Entity],
+        gold_entities: list[Entity],
+        instance_metrics: dict[str, float],
+        micro_metrics: dict[str, float],
+        macro_metrics: dict[str, float],
+        instance_time: float,
+        total_time: float,
+    ) -> None:
+        """Print evaluation progress and metrics.
+
+        Args:
+            instance_idx: Current instance index
+            total_instances: Total number of instances
+            predicted_entities: List of predicted entities
+            gold_entities: List of gold entities
+            instance_metrics: Metrics for current instance
+            micro_metrics: Running micro-average metrics
+            macro_metrics: Running macro-average metrics
+            instance_time: Time taken for current instance
+            total_time: Total time taken so far
+        """
+        print(
+            f"\nInstance {instance_idx}/{total_instances} ({(instance_idx/total_instances)*100:.1f}%)"
+        )
+        print("\nPredicted entities:")
+        for entity in predicted_entities:
+            print(
+                f"{entity.category}: {entity.entity} ({entity.span[0]}, {entity.span[1]})"
+            )
+        print("\nGold entities:")
+        for entity in gold_entities:
+            print(
+                f"{entity.category}: {entity.entity} ({entity.span[0]}, {entity.span[1]})"
+            )
+        print(f"\nInstance {instance_idx} of {total_instances}")
+        print(
+            f"Instance metrics:     Precision: {instance_metrics['precision']:.2f}  "
+            f"Recall: {instance_metrics['recall']:.2f}  F1: {instance_metrics['f1']:.2f}"
+        )
+        print(
+            f"Running micro-avg:    Precision: {micro_metrics['precision']:.2f}  "
+            f"Recall: {micro_metrics['recall']:.2f}  F1: {micro_metrics['f1']:.2f}"
+        )
+        print(
+            f"Running macro-avg:    Precision: {macro_metrics['precision']:.2f}  "
+            f"Recall: {macro_metrics['recall']:.2f}  F1: {macro_metrics['f1']:.2f}"
+        )
+        print(f"Time: {instance_time:.2f}s (instance) / {total_time:.2f}s (total)")
+        print("-" * 80)
+
+    def evaluate(
+        self, sentences_per_call: int = 0
+    ) -> tuple[dict[str, float], dict[str, float]]:
+        """Evaluate NER performance on a dataset using BIO annotations.
+
+        Args:
+            sentences_per_call: Number of sentences to process per model call. If 0, process all text at once.
+
+        Returns:
+            Tuple containing micro-average and macro-average metrics
         """
         instances = self.dataset.get_instances()
         total_instances = len(instances)
 
         # Initialize counters for micro-average
-        total_tp = 0
-        total_fp = 0
-        total_fn = 0
+        total_metrics = TokenMetrics(tp=0.0, fp=0.0, fn=0.0)
 
-        # Initialize counters for macro-average
-        all_precisions = []
-        all_recalls = []
-        all_f1s = []
+        # Initialize lists for macro-average
+        all_metrics = []
 
         print(f"\nEvaluating {total_instances} instances...")
         print("-" * 80)
@@ -59,7 +192,6 @@ class Pipeline:
         start_time = time.time()
 
         for idx, instance in enumerate(instances, 1):
-
             if instance.entities is None:
                 print(f"Skipping instance {idx} because there are no entities")
                 continue
@@ -80,126 +212,64 @@ class Pipeline:
             predicted_instance = Instance(text=text, entities=predicted_entities)
             pred_bio = predicted_instance.get_bio_annotations()
 
-            # Compute token-level TP, FP, FN for this instance
-            instance_tp = 0
-            instance_fp = 0
-            instance_fn = 0
-
-            for gold, pred in zip(gold_bio, pred_bio):
-                if gold == pred:
-                    if gold != "O":
-                        instance_tp += 1
-                elif gold != "O" or pred != "O":
-                    gold_category = gold.split("-")[1] if "-" in gold else ""
-                    pred_category = pred.split("-")[1] if "-" in pred else ""
-
-                    if gold_category == pred_category and gold_category:
-                        instance_tp += 0.5
-                        instance_fp += 0.5
-                    else:
-                        if pred != "O":
-                            instance_fp += 1
-                        if gold != "O":
-                            instance_fn += 1
+            # Compute token-level metrics for this instance
+            instance_metrics = self.compute_instance_metrics(gold_bio, pred_bio)
 
             # Update micro-average counters
-            total_tp += instance_tp
-            total_fp += instance_fp
-            total_fn += instance_fn
-
-            # Compute instance-level metrics
-            instance_precision = (
-                instance_tp / (instance_tp + instance_fp)
-                if (instance_tp + instance_fp) > 0
-                else 0.0
-            )
-            instance_recall = (
-                instance_tp / (instance_tp + instance_fn)
-                if (instance_tp + instance_fn) > 0
-                else 0.0
-            )
-            instance_f1 = (
-                2
-                * (instance_precision * instance_recall)
-                / (instance_precision + instance_recall)
-                if (instance_precision + instance_recall) > 0
-                else 0.0
+            total_metrics = TokenMetrics(
+                tp=total_metrics.tp + instance_metrics.tp,
+                fp=total_metrics.fp + instance_metrics.fp,
+                fn=total_metrics.fn + instance_metrics.fn,
             )
 
-            all_precisions.append(instance_precision)
-            all_recalls.append(instance_recall)
-            all_f1s.append(instance_f1)
+            # Calculate instance-level F1 metrics
+            instance_f1_metrics = self._calculate_f1_metrics(
+                instance_metrics.tp, instance_metrics.fp, instance_metrics.fn
+            )
+            all_metrics.append(instance_f1_metrics)
 
-            # Compute current micro-average metrics
-            current_micro_precision = (
-                total_tp / (total_tp + total_fp) if (total_tp + total_fp) > 0 else 0.0
-            )
-            current_micro_recall = (
-                total_tp / (total_tp + total_fn) if (total_tp + total_fn) > 0 else 0.0
-            )
-            current_micro_f1 = (
-                2
-                * (current_micro_precision * current_micro_recall)
-                / (current_micro_precision + current_micro_recall)
-                if (current_micro_precision + current_micro_recall) > 0
-                else 0.0
+            # Calculate current micro and macro metrics
+            current_micro_metrics = self._calculate_f1_metrics(
+                total_metrics.tp, total_metrics.fp, total_metrics.fn
             )
 
-            # Compute current macro-average metrics
-            current_macro_precision = sum(all_precisions) / len(all_precisions)
-            current_macro_recall = sum(all_recalls) / len(all_recalls)
-            current_macro_f1 = sum(all_f1s) / len(all_f1s)
+            current_macro_metrics = {
+                metric: sum(m[metric] for m in all_metrics) / len(all_metrics)
+                for metric in ["precision", "recall", "f1"]
+            }
 
-            # Calculate time metrics
+            # Print progress
             instance_time = time.time() - instance_start_time
             total_time = time.time() - start_time
 
-            # Print progress with metrics
-            print(
-                f"\nInstance {idx}/{total_instances} ({(idx/total_instances)*100:.1f}%)"
+            self._print_evaluation_progress(
+                idx,
+                total_instances,
+                predicted_entities,
+                gold_entities,
+                instance_f1_metrics,
+                current_micro_metrics,
+                current_macro_metrics,
+                instance_time,
+                total_time,
             )
-            print("\nPredicted entities:")
-            for entity in predicted_entities:
-                print(
-                    f"{entity.category}: {entity.entity} ({entity.span[0]}, {entity.span[1]})"
-                )
-            print("\nGold entities:")
-            for entity in gold_entities:
-                print(
-                    f"{entity.category}: {entity.entity} ({entity.span[0]}, {entity.span[1]})"
-                )
-            print(f"\nInstance {idx} of {total_instances}")
-            print(
-                f"Instance metrics:     Precision: {instance_precision:.2f}  Recall: {instance_recall:.2f}  F1: {instance_f1:.2f}"
-            )
-            print(
-                f"Running micro-avg:    Precision: {current_micro_precision:.2f}  Recall: {current_micro_recall:.2f}  F1: {current_micro_f1:.2f}"
-            )
-            print(
-                f"Running macro-avg:    Precision: {current_macro_precision:.2f}  Recall: {current_macro_recall:.2f}  F1: {current_macro_f1:.2f}"
-            )
-            print(f"Time: {instance_time:.2f}s (instance) / {total_time:.2f}s (total)")
-            print("-" * 80)
-
-        # Final metrics are the same as the last running metrics
-        micro_metrics = {
-            "precision": current_micro_precision,
-            "recall": current_micro_recall,
-            "f1": current_micro_f1,
-        }
-
-        macro_metrics = {
-            "precision": current_macro_precision,
-            "recall": current_macro_recall,
-            "f1": current_macro_f1,
-        }
 
         total_time = time.time() - start_time
-
         print("\n\nEvaluation completed!")
         print(f"\nTotal time: {total_time:.2f}s")
         print("\nFinal Metrics:")
-        print("Micro-average metrics:", micro_metrics)
-        print("Macro-average metrics:", macro_metrics)
+
+        # Final metrics are the same as the last running metrics
+        micro_metrics = self._calculate_f1_metrics(
+            total_metrics.tp, total_metrics.fp, total_metrics.fn
+        )
+
+        macro_metrics = {
+            metric: sum(m[metric] for m in all_metrics) / len(all_metrics)
+            for metric in ["precision", "recall", "f1"]
+        }
+
+        print(f"Micro-average metrics: {micro_metrics}")
+        print(f"Macro-average metrics: {macro_metrics}")
 
         return micro_metrics, macro_metrics

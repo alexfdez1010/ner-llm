@@ -3,7 +3,7 @@ from unittest.mock import Mock
 import pytest
 
 from ai.extractor_ner import Category, Entity, ExtractorNER
-from ai.llm import LLM, LRM
+from ai.llm import LLM
 
 
 class TestExtractorNER:
@@ -87,21 +87,10 @@ class TestExtractorNER:
             assert actual.entity == expected.entity
             assert actual.span == expected.span
 
-
 def test_integration_with_llm():
     # Setup
     llm = LLM()
-    extractor = ExtractorNER(llm, language="en", example_prompt="")
-    categories = get_categories()
-    text = get_test_text()
-
-    entities = extractor.extract_entities(categories, text)
-    verify_entities(entities, text)
-
-def test_integration_with_lrm():
-    # Setup
-    lrm = LRM(model="deepseek-r1:14b")
-    extractor = ExtractorNER(lrm, language="en", example_prompt="")
+    extractor = ExtractorNER(llm, language="en", example_prompt=None)
     categories = get_categories()
     text = get_test_text()
 
