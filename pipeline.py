@@ -2,10 +2,11 @@
 Pipeline for computing metrics from a dataset using a NER extractor based in LLMs.
 """
 
+import time
+
 from ai.extractor_ner import ExtractorNER
 from dataset import Dataset, Instance
 from model.category import Category
-import time
 
 
 class Pipeline:
@@ -28,13 +29,16 @@ class Pipeline:
         self.dataset = dataset
         self.categories = categories
 
-    def evaluate(self, sentences_per_call: int = 0) -> None:
+    def evaluate(self, sentences_per_call: int = 0) -> tuple[dict, dict]:
         """
         Evaluates NER performance on a dataset using BIO annotations.
         Computes both micro-average (weighted by sentence length) and macro-average metrics.
 
         Args:
             sentences_per_call (int): Number of sentences to process per model call. If 0, process all text at once.
+
+        Returns:
+            tuple[dict, dict]: Tuple containing micro-average and macro-average metrics
         """
         instances = self.dataset.get_instances()
         total_instances = len(instances)
@@ -55,20 +59,25 @@ class Pipeline:
         start_time = time.time()
 
         for idx, instance in enumerate(instances, 1):
+
+            if instance.entities is None:
+                print(f"Skipping instance {idx} because there are no entities")
+                continue
+
             instance_start_time = time.time()
-            
+
             # Get gold BIO annotations and entities
             gold_bio = instance.get_bio_annotations()
             gold_entities = instance.entities
 
             # Get predicted BIO annotations by processing the sentence
             text = instance.get_sentence()
-            predicted_entities = self.extractor.extract_entities(self.categories, text, sentences_per_call)
+            predicted_entities = self.extractor.extract_entities(
+                self.categories, text, sentences_per_call
+            )
 
             # Create a temporary instance with predicted entities to get BIO annotations
-            predicted_instance = Instance(
-                text=text, entities=predicted_entities
-            )
+            predicted_instance = Instance(text=text, entities=predicted_entities)
             pred_bio = predicted_instance.get_bio_annotations()
 
             # Compute token-level TP, FP, FN for this instance
@@ -77,12 +86,21 @@ class Pipeline:
             instance_fn = 0
 
             for gold, pred in zip(gold_bio, pred_bio):
-                if gold == pred and gold != "O":
-                    instance_tp += 1
-                elif pred != "O" and gold != pred:
-                    instance_fp += 1
-                elif gold != "O" and pred != gold:
-                    instance_fn += 1
+                if gold == pred:
+                    if gold != "O":
+                        instance_tp += 1
+                elif gold != "O" or pred != "O":
+                    gold_category = gold.split("-")[1] if "-" in gold else ""
+                    pred_category = pred.split("-")[1] if "-" in pred else ""
+
+                    if gold_category == pred_category and gold_category:
+                        instance_tp += 0.5
+                        instance_fp += 0.5
+                    else:
+                        if pred != "O":
+                            instance_fp += 1
+                        if gold != "O":
+                            instance_fn += 1
 
             # Update micro-average counters
             total_tp += instance_tp
@@ -137,17 +155,29 @@ class Pipeline:
             total_time = time.time() - start_time
 
             # Print progress with metrics
-            print(f"\nInstance {idx}/{total_instances} ({(idx/total_instances)*100:.1f}%)")
+            print(
+                f"\nInstance {idx}/{total_instances} ({(idx/total_instances)*100:.1f}%)"
+            )
             print("\nPredicted entities:")
             for entity in predicted_entities:
-                print(f"{entity.category}: {entity.entity} ({entity.span[0]}, {entity.span[1]})")
+                print(
+                    f"{entity.category}: {entity.entity} ({entity.span[0]}, {entity.span[1]})"
+                )
             print("\nGold entities:")
             for entity in gold_entities:
-                print(f"{entity.category}: {entity.entity} ({entity.span[0]}, {entity.span[1]})")
+                print(
+                    f"{entity.category}: {entity.entity} ({entity.span[0]}, {entity.span[1]})"
+                )
             print(f"\nInstance {idx} of {total_instances}")
-            print(f"Instance metrics:     Precision: {instance_precision:.2f}  Recall: {instance_recall:.2f}  F1: {instance_f1:.2f}")
-            print(f"Running micro-avg:    Precision: {current_micro_precision:.2f}  Recall: {current_micro_recall:.2f}  F1: {current_micro_f1:.2f}")
-            print(f"Running macro-avg:    Precision: {current_macro_precision:.2f}  Recall: {current_macro_recall:.2f}  F1: {current_macro_f1:.2f}")
+            print(
+                f"Instance metrics:     Precision: {instance_precision:.2f}  Recall: {instance_recall:.2f}  F1: {instance_f1:.2f}"
+            )
+            print(
+                f"Running micro-avg:    Precision: {current_micro_precision:.2f}  Recall: {current_micro_recall:.2f}  F1: {current_micro_f1:.2f}"
+            )
+            print(
+                f"Running macro-avg:    Precision: {current_macro_precision:.2f}  Recall: {current_macro_recall:.2f}  F1: {current_macro_f1:.2f}"
+            )
             print(f"Time: {instance_time:.2f}s (instance) / {total_time:.2f}s (total)")
             print("-" * 80)
 
@@ -171,3 +201,5 @@ class Pipeline:
         print("\nFinal Metrics:")
         print("Micro-average metrics:", micro_metrics)
         print("Macro-average metrics:", macro_metrics)
+
+        return micro_metrics, macro_metrics

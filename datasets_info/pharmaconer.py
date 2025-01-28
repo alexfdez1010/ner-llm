@@ -9,7 +9,7 @@ from datasets_info.utils.brat import load_brat_file
 
 class PharmaCoNER(DatasetInfo):
     """Implementation of DatasetInfo for PharmaCoNER dataset.
-    
+
     The PharmaCoNER dataset contains Spanish clinical cases annotated with pharmacological
     substances, focusing on PROTEINAS (proteins) and NORMALIZABLES (normalizable mentions).
     """
@@ -25,14 +25,14 @@ class PharmaCoNER(DatasetInfo):
 
         # Get all .txt files
         txt_files = list(base_path.glob("*.txt"))
-        
+
         for txt_file in txt_files:
             # Get corresponding .ann file
             ann_file = txt_file.with_suffix(".ann")
-            
+
             # Load the BRAT file
             text, entities = load_brat_file(ann_file, txt_file)
-            
+
             if entities:
                 instances.append(Instance(text=text, entities=entities))
 

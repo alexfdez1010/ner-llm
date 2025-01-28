@@ -1,5 +1,6 @@
 from pathlib import Path
 
+from dataset import Dataset, Instance
 from model.category import Category
 from model.entity import Entity
 from datasets_info.dataset_info_interface import DatasetInfo
@@ -33,6 +34,24 @@ class MultiCardionerTrack2En(DatasetInfo):
                 description="Drug mentions, including medications, active ingredients, and pharmaceutical substances",
             ),
         ]
+
+    def load_dataset(self) -> Dataset:
+        """Load the dataset from the given base path.
+
+        Returns:
+            A Dataset object containing the loaded data
+        """
+        instances: list[Instance] = []
+
+        # Process brat data
+        brat_dir = self.dataset_path / "brat"
+        for ann_file in brat_dir.glob("*.ann"):
+            txt_file = ann_file.with_suffix(".txt")
+            if txt_file.exists():
+                text, entities = load_brat_file(ann_file, txt_file)
+                instances.append(Instance(text=text, entities=entities))
+
+        return Dataset(instances=instances)
 
     def load_file(self, ann_file: Path, txt_file: Path) -> tuple[str, list[Entity] | None]:
         """Load a file from the dataset.

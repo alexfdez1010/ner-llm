@@ -7,9 +7,7 @@ from model.category import Category
 from datasets_info.dataset_info_interface import DatasetInfo
 
 
-def load_brat_file(
-    ann_file: Path, txt_file: Path
-) -> tuple[str, list[Entity] | None]:
+def load_brat_file(ann_file: Path, txt_file: Path) -> tuple[str, list[Entity] | None]:
     """Load a BRAT annotation file and its corresponding text file.
 
     Args:
@@ -34,14 +32,10 @@ def load_brat_file(
                         _, entity_info, entity_text = parts
                         tag, start, end = entity_info.split()
                         start, end = int(start), int(end)
-                        
+
                         # Create entity with the exact span and text
                         entities.append(
-                            Entity(
-                                category=tag,
-                                entity=entity_text,
-                                span=(start, end)
-                            )
+                            Entity(category=tag, entity=entity_text, span=(start, end))
                         )
 
     return text, entities if entities else None
@@ -71,9 +65,7 @@ class MultiCardionerTrack1(DatasetInfo):
 
     def categories(self) -> List[Category]:
         """Return a list of all categories in the dataset."""
-        return [
-            Category(name="ENFERMEDAD", description="Enfermedades")
-        ]
+        return [Category(name="ENFERMEDAD", description="Enfermedades")]
 
     def language(self) -> str:
         """Return the language of the dataset."""
