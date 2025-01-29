@@ -2,8 +2,6 @@
 
 # Run experiments with deepseek-r1 models
 models=(
-    "llama3.2:1b"
-    "llama3.2"
     "phi3.5"
     "granite3.1-dense"
     "falcon3:10b"
