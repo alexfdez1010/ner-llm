@@ -13,20 +13,17 @@ from datasets_info.dataset_info_interface import DatasetInfo
 from utils import save_experiment_results
 
 MODELS = [
-    "deepseek-r1:1.5b",
     "deepseek-r1:7b",
     "deepseek-r1:8b",
     "deepseek-r1:14b",
     "deepseek-r1:32b",
-    "llama3.2:1b",
-    "llama3.2",
-    "phi3.5",
-    "granite3.1-dense",
+    "phi3.5", #3.6B
+    "granite3.1-dense", #8B
     "falcon3:10b",
-    "llama3.2-vision",
-    "phi4",
-    "mixtral",
-    "qwen2.5:32b",
+    "llama3.2-vision", #11B
+    "phi4", #14B
+    "mixtral", #8x7B
+    "qwen2.5:32b", #32B
 ]
 
 RESULTS_FILE = "results.csv"
