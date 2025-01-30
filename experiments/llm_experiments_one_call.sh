@@ -7,7 +7,6 @@ models=(
     "falcon3:10b"
     "llama3.2-vision"
     "phi4"
-    "mixtral"
     "qwen2.5:32b"
 )
 
