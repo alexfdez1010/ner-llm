@@ -17,7 +17,9 @@ def mock_extractor() -> Mock:
     """Create a mock extractor that returns entities based on input text."""
     extractor = Mock()
 
-    def extract_entities_side_effect(categories: List[Category], text: str, sentences_per_call: int = 0) -> List[Entity]:
+    def extract_entities_side_effect(
+        categories: List[Category], text: str, sentences_per_call: int = 0
+    ) -> List[Entity]:
         if "first" in text:
             return [
                 Entity("DISEASE", "diabetes", (15, 23)),  # Matches token boundaries
@@ -71,12 +73,16 @@ def categories() -> List[Category]:
 
 
 @pytest.fixture
-def pipeline(mock_extractor: Mock, mock_dataset: Mock, categories: List[Category]) -> Pipeline:
+def pipeline(
+    mock_extractor: Mock, mock_dataset: Mock, categories: List[Category]
+) -> Pipeline:
     """Create a pipeline instance for testing."""
     return Pipeline(mock_extractor, mock_dataset, categories)
 
 
-def test_pipeline_evaluate(mock_extractor: Mock, mock_dataset: Mock, categories: List[Category]) -> None:
+def test_pipeline_evaluate(
+    mock_extractor: Mock, mock_dataset: Mock, categories: List[Category]
+) -> None:
     """Test pipeline evaluation with mock components."""
     try:
         # Create pipeline
@@ -100,14 +106,22 @@ def test_pipeline_evaluate(mock_extractor: Mock, mock_dataset: Mock, categories:
         micro_metrics, macro_metrics = pipeline.evaluate()
 
         # Verify extractor was called correctly
-        assert mock_extractor.extract_entities.call_count == 2, "Extractor should be called twice"
+        assert (
+            mock_extractor.extract_entities.call_count == 2
+        ), "Extractor should be called twice"
 
         # Verify metrics structure
         for metrics in [micro_metrics, macro_metrics]:
             assert isinstance(metrics, dict), "Metrics should be a dictionary"
-            assert all(k in metrics for k in ["precision", "recall", "f1"]), "Missing required metrics"
-            assert all(isinstance(v, float) for v in metrics.values()), "Metric values should be floats"
-            assert all(0 <= v <= 1 for v in metrics.values()), "Metric values should be between 0 and 1"
+            assert all(
+                k in metrics for k in ["precision", "recall", "f1"]
+            ), "Missing required metrics"
+            assert all(
+                isinstance(v, float) for v in metrics.values()
+            ), "Metric values should be floats"
+            assert all(
+                0 <= v <= 1 for v in metrics.values()
+            ), "Metric values should be between 0 and 1"
 
     except Exception as e:
         pytest.fail(f"Pipeline evaluation test failed: {str(e)}")
@@ -122,7 +136,9 @@ class TestComputeInstanceMetrics:
             gold_bio = ["O", "B-DISEASE", "I-DISEASE", "O", "B-DRUG", "O"]
             pred_bio = ["O", "B-DISEASE", "I-DISEASE", "O", "B-DRUG", "O"]
             metrics = pipeline.compute_instance_metrics(gold_bio, pred_bio)
-            assert metrics == TokenMetrics(tp=3.0, fp=0.0, fn=0.0), "Metrics incorrect for exact match"
+            assert metrics == TokenMetrics(
+                tp=3.0, fp=0.0, fn=0.0
+            ), "Metrics incorrect for exact match"
         except Exception as e:
             pytest.fail(f"Exact match test failed: {str(e)}")
 
@@ -132,7 +148,9 @@ class TestComputeInstanceMetrics:
             gold_bio = ["O", "B-DISEASE", "I-DISEASE", "O", "B-DRUG", "O"]
             pred_bio = ["O", "O", "O", "O", "O", "O"]
             metrics = pipeline.compute_instance_metrics(gold_bio, pred_bio)
-            assert metrics == TokenMetrics(tp=0.0, fp=0.0, fn=3.0), "Metrics incorrect for no match"
+            assert metrics == TokenMetrics(
+                tp=0.0, fp=0.0, fn=3.0
+            ), "Metrics incorrect for no match"
         except Exception as e:
             pytest.fail(f"No match test failed: {str(e)}")
 
@@ -142,7 +160,9 @@ class TestComputeInstanceMetrics:
             gold_bio = ["O", "B-DISEASE", "I-DISEASE", "O"]
             pred_bio = ["O", "I-DISEASE", "I-DISEASE", "O"]
             metrics = pipeline.compute_instance_metrics(gold_bio, pred_bio)
-            assert metrics == TokenMetrics(tp=1.5, fp=0.5, fn=0.5), "Metrics incorrect for partial match"
+            assert metrics == TokenMetrics(
+                tp=1.5, fp=0.5, fn=0.5
+            ), "Metrics incorrect for partial match"
         except Exception as e:
             pytest.fail(f"Partial match test failed: {str(e)}")
 
@@ -152,7 +172,9 @@ class TestComputeInstanceMetrics:
             gold_bio = ["O", "B-DISEASE", "I-DISEASE", "O"]
             pred_bio = ["O", "B-DRUG", "I-DRUG", "O"]
             metrics = pipeline.compute_instance_metrics(gold_bio, pred_bio)
-            assert metrics == TokenMetrics(tp=0.0, fp=2.0, fn=2.0), "Metrics incorrect for wrong entity type"
+            assert metrics == TokenMetrics(
+                tp=0.0, fp=2.0, fn=2.0
+            ), "Metrics incorrect for wrong entity type"
         except Exception as e:
             pytest.fail(f"Wrong entity type test failed: {str(e)}")
 
@@ -162,7 +184,9 @@ class TestComputeInstanceMetrics:
             gold_bio = ["O", "B-DISEASE", "I-DISEASE", "O", "B-DRUG", "O"]
             pred_bio = ["O", "B-DISEASE", "O", "O", "B-SYMPTOM", "O"]
             metrics = pipeline.compute_instance_metrics(gold_bio, pred_bio)
-            assert metrics == TokenMetrics(tp=1.0, fp=1.0, fn=2.0), "Metrics incorrect for mixed scenarios"
+            assert metrics == TokenMetrics(
+                tp=1.0, fp=1.0, fn=2.0
+            ), "Metrics incorrect for mixed scenarios"
         except Exception as e:
             pytest.fail(f"Mixed scenarios test failed: {str(e)}")
 
@@ -172,7 +196,9 @@ class TestComputeInstanceMetrics:
             gold_bio = ["O", "O", "O"]
             pred_bio = ["O", "O", "O"]
             metrics = pipeline.compute_instance_metrics(gold_bio, pred_bio)
-            assert metrics == TokenMetrics(tp=0.0, fp=0.0, fn=0.0), "Metrics incorrect for empty sequences"
+            assert metrics == TokenMetrics(
+                tp=0.0, fp=0.0, fn=0.0
+            ), "Metrics incorrect for empty sequences"
         except Exception as e:
             pytest.fail(f"Empty sequences test failed: {str(e)}")
 
@@ -192,7 +218,9 @@ class TestComputeInstanceMetrics:
             gold_bio = ["O", "O", "B-FARMACO", "O", "O"]
             pred_bio = ["O", "O", "B-FARMACO", "O", "O"]
             metrics = pipeline.compute_instance_metrics(gold_bio, pred_bio)
-            assert metrics == TokenMetrics(tp=1.0, fp=0.0, fn=0.0), "Metrics incorrect for single token exact match"
+            assert metrics == TokenMetrics(
+                tp=1.0, fp=0.0, fn=0.0
+            ), "Metrics incorrect for single token exact match"
         except Exception as e:
             pytest.fail(f"Single token exact match test failed: {str(e)}")
 
@@ -201,18 +229,18 @@ class TestComputeInstanceMetrics:
         try:
             text = "The patient was prescribed amiodarone for arrhythmia."
             gold_instance = Instance(
-                text=text,
-                entities=[Entity("FARMACO", "amiodarone", (24, 34))]
+                text=text, entities=[Entity("FARMACO", "amiodarone", (24, 34))]
             )
             pred_instance = Instance(
-                text=text,
-                entities=[Entity("FARMACO", "amiodarone", (24, 34))]
+                text=text, entities=[Entity("FARMACO", "amiodarone", (24, 34))]
             )
 
             gold_bio = gold_instance.get_bio_annotations()
             pred_bio = pred_instance.get_bio_annotations()
 
             metrics = pipeline.compute_instance_metrics(gold_bio, pred_bio)
-            assert metrics == TokenMetrics(tp=2.0, fp=0.0, fn=0.0), "Metrics incorrect for real text exact match"
+            assert metrics == TokenMetrics(
+                tp=2.0, fp=0.0, fn=0.0
+            ), "Metrics incorrect for real text exact match"
         except Exception as e:
             pytest.fail(f"Real text exact match test failed: {str(e)}")

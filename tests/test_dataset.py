@@ -1,7 +1,11 @@
-from typing import List, Optional, Tuple
+"""
+Tests for the Instance class.
+"""
+
+from typing import List
 
 import pytest
-from dataset import Dataset, Instance
+from dataset import Instance
 from model.entity import Entity
 
 

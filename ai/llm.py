@@ -2,8 +2,7 @@
 Implementions of LLM models using Ollama.
 """
 import concurrent.futures
-import httpx
-from typing import Iterator, List
+from typing import List
 from langchain.schema import AIMessage, BaseMessage, HumanMessage, SystemMessage
 from langchain_ollama import ChatOllama
 from langchain_together import ChatTogether

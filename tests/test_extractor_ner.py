@@ -18,7 +18,9 @@ class TestExtractorNER:
         """Create an ExtractorNER instance with mock LLM."""
         return ExtractorNER(mock_llm, language="en", example_prompt="")
 
-    def test_extract_entities_basic(self, mock_llm: Mock, extractor: ExtractorNER) -> None:
+    def test_extract_entities_basic(
+        self, mock_llm: Mock, extractor: ExtractorNER
+    ) -> None:
         """Test basic entity extraction functionality."""
         try:
             # Setup
@@ -45,15 +47,25 @@ class TestExtractorNER:
                 Entity("ORG", "Apple", (39, 44)),
             ]
 
-            assert len(entities) == len(expected_entities), "Number of extracted entities does not match expected"
+            assert len(entities) == len(
+                expected_entities
+            ), "Number of extracted entities does not match expected"
             for actual, expected in zip(entities, expected_entities):
-                assert actual.category == expected.category, f"Category mismatch for entity {actual.entity}"
-                assert actual.entity == expected.entity, f"Entity text mismatch for {actual.entity}"
-                assert actual.span == expected.span, f"Span mismatch for entity {actual.entity}"
+                assert (
+                    actual.category == expected.category
+                ), f"Category mismatch for entity {actual.entity}"
+                assert (
+                    actual.entity == expected.entity
+                ), f"Entity text mismatch for {actual.entity}"
+                assert (
+                    actual.span == expected.span
+                ), f"Span mismatch for entity {actual.entity}"
         except Exception as e:
             pytest.fail(f"Basic entity extraction test failed: {str(e)}")
 
-    def test_extract_entities_with_examples(self, mock_llm: Mock, extractor: ExtractorNER) -> None:
+    def test_extract_entities_with_examples(
+        self, mock_llm: Mock, extractor: ExtractorNER
+    ) -> None:
         """Test entity extraction with example prompts."""
         try:
             # Setup
@@ -69,14 +81,22 @@ class TestExtractorNER:
 
             # Assert
             expected_entities = [Entity("PRODUCT", "iPhone 15 Pro", (8, 21))]
-            assert len(entities) == len(expected_entities), "Number of extracted entities does not match expected"
-            assert entities[0].category == expected_entities[0].category, "Category mismatch"
-            assert entities[0].entity == expected_entities[0].entity, "Entity text mismatch"
+            assert len(entities) == len(
+                expected_entities
+            ), "Number of extracted entities does not match expected"
+            assert (
+                entities[0].category == expected_entities[0].category
+            ), "Category mismatch"
+            assert (
+                entities[0].entity == expected_entities[0].entity
+            ), "Entity text mismatch"
             assert entities[0].span == expected_entities[0].span, "Span mismatch"
         except Exception as e:
             pytest.fail(f"Entity extraction with examples test failed: {str(e)}")
 
-    def test_multiple_occurrences(self, mock_llm: Mock, extractor: ExtractorNER) -> None:
+    def test_multiple_occurrences(
+        self, mock_llm: Mock, extractor: ExtractorNER
+    ) -> None:
         """Test handling of multiple occurrences of the same entity."""
         try:
             # Setup
@@ -84,7 +104,9 @@ class TestExtractorNER:
             text = "Apple makes great products. I love Apple products."
 
             # Mock LLM response
-            mock_llm.generate_completion.return_value = "<COMPANY>:Apple\n<COMPANY>:Apple"
+            mock_llm.generate_completion.return_value = (
+                "<COMPANY>:Apple\n<COMPANY>:Apple"
+            )
 
             # Execute
             entities = extractor.extract_entities(categories, text)
@@ -94,11 +116,19 @@ class TestExtractorNER:
                 Entity("COMPANY", "Apple", (0, 5)),
                 Entity("COMPANY", "Apple", (35, 40)),
             ]
-            assert len(entities) == len(expected_entities), "Number of extracted entities does not match expected"
+            assert len(entities) == len(
+                expected_entities
+            ), "Number of extracted entities does not match expected"
             for actual, expected in zip(entities, expected_entities):
-                assert actual.category == expected.category, f"Category mismatch for entity {actual.entity}"
-                assert actual.entity == expected.entity, f"Entity text mismatch for {actual.entity}"
-                assert actual.span == expected.span, f"Span mismatch for entity {actual.entity}"
+                assert (
+                    actual.category == expected.category
+                ), f"Category mismatch for entity {actual.entity}"
+                assert (
+                    actual.entity == expected.entity
+                ), f"Entity text mismatch for {actual.entity}"
+                assert (
+                    actual.span == expected.span
+                ), f"Span mismatch for entity {actual.entity}"
         except Exception as e:
             pytest.fail(f"Multiple occurrences test failed: {str(e)}")
 
@@ -114,7 +144,7 @@ def test_integration_with_llm() -> None:
 
         # Execute
         entities = extractor.extract_entities(categories, text)
-        
+
         # Verify
         verify_entities(entities, text)
     except TimeoutError:
@@ -144,16 +174,20 @@ def verify_entities(entities: List[Entity], text: str) -> None:
     """Verify extracted entities."""
     # Check that we got some entities
     assert len(entities) > 0, "No entities were extracted"
-    
+
     # Verify each entity's span matches its text
     for entity in entities:
-        assert text[entity.span[0]:entity.span[1]] == entity.entity, \
-            f"Entity span does not match text for {entity.entity}"
-        
+        assert (
+            text[entity.span[0] : entity.span[1]] == entity.entity
+        ), f"Entity span does not match text for {entity.entity}"
+
         # Verify entity categories
-        assert entity.category in ["PERSON", "ORG", "LOCATION"], \
-            f"Invalid category {entity.category} for entity {entity.entity}"
-        
+        assert entity.category in [
+            "PERSON",
+            "ORG",
+            "LOCATION",
+        ], f"Invalid category {entity.category} for entity {entity.entity}"
+
     # Check for specific entities
     expected_entities = [
         Entity("PERSON", "Tim Cook", (5, 13)),
