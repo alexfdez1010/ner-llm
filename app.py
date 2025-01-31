@@ -1,6 +1,8 @@
 """Demo NER app."""
 
 from typing import Dict
+import threading
+import signal
 
 import spacy
 import streamlit as st
@@ -22,19 +24,16 @@ LANGUAGES = {
 # Load environment variables
 load_dotenv()
 
-
 # Load spaCy model for visualization
 @st.cache_resource
 def load_spacy():
     """Load the spaCy model."""
     return spacy.blank("en")
 
-
 @st.cache_resource
 def get_llm() -> LLM:
     """Initialize the LLM with the specified model."""
     return LLM(MODEL_NAME)
-
 
 def main() -> None:
     """Main function to run the NER app."""
@@ -124,7 +123,7 @@ def main() -> None:
             return
 
         # Create Category objects
-        categories: list[Category] = [
+        categories = [
             Category(name=name, description=descriptions[name])
             for name in category_names
         ]
@@ -135,13 +134,13 @@ def main() -> None:
                 llm = get_llm()
                 extractor = ExtractorNER(llm=llm, language=LANGUAGES[language])
 
+                print("hi")
+
                 # Extract entities
                 entities = extractor.extract_entities(
                     categories=categories,
                     text=text_input
                 )
-
-                st.write(entities)
 
                 # Visualize results
                 st.markdown("### Results")
@@ -152,9 +151,7 @@ def main() -> None:
 
                 # Convert the text to HTML with entity highlighting
                 html_text = text_input
-                for entity in reversed(
-                    entities
-                ):  # Reversed to handle overlapping spans
+                for entity in reversed(entities):  # Reversed to handle overlapping spans
                     start, end = entity.span
                     entity_text = text_input[start:end]
                     color = f"hsl({hash(entity.category) % 360}, 70%, 80%)"
@@ -170,16 +167,14 @@ def main() -> None:
 
                 # Show entities in a table
                 st.markdown("### Extracted Entities")
-                entities_df: list[dict[str, str | int]] = []
+                entities_df = []
                 for entity in entities:
-                    entities_df.append(
-                        {
-                            "Category": entity.category,
-                            "Entity": entity.entity,
-                            "Start": entity.span[0],
-                            "End": entity.span[1],
-                        }
-                    )
+                    entities_df.append({
+                        "Category": entity.category,
+                        "Entity": entity.entity,
+                        "Start": entity.span[0],
+                        "End": entity.span[1],
+                    })
 
                 if entities_df:
                     st.table(entities_df)
@@ -189,7 +184,6 @@ def main() -> None:
             except Exception as e:
                 print(e)
                 st.error("We have received too many calls to the model. Please try again later.")
-
 
 if __name__ == "__main__":
     main()

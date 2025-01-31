@@ -1,5 +1,5 @@
 import pytest
-from ai.llm import LLM, LRM
+from ai.llm import LLM, LRM, TimeoutException
 
 
 @pytest.fixture
@@ -26,10 +26,27 @@ def test_generate_completion(llm: LLM) -> None:
 
         assert isinstance(response, str)
         assert len(response) > 0
-    except TimeoutError:
+    except TimeoutException:
         pytest.skip("LLM call timed out")
     except Exception as e:
         pytest.fail(f"LLM call failed: {str(e)}")
+
+
+def test_generate_completion_with_timeout(llm: LLM) -> None:
+    """Test that the generate_completion method properly handles timeouts."""
+    system_prompt = "You are a helpful assistant."
+    user_prompt = "Write a very long essay about the history of the world."
+
+    try:
+        response = llm.generate_completion(
+            system_prompt=system_prompt, user_prompt=user_prompt, timeout=1
+        )
+
+        assert isinstance(response, str)
+    except TimeoutException:
+        pass
+    except Exception as e:
+        pytest.fail(f"Unexpected error during timeout test: {str(e)}")
 
 
 def test_lrm_generate_completion(lrm: LRM) -> None:
@@ -44,12 +61,31 @@ def test_lrm_generate_completion(lrm: LRM) -> None:
 
         assert isinstance(response, str)
         assert len(response) > 0
-        # The response should not contain any reasoning tags since they should be removed
         assert "<think>" not in response
         assert "</think>" not in response
-        # Check that we're using a reasoning model but don't assert specific version
         assert any(name in lrm.model.lower() for name in ["deepseek", "mixtral", "llama"])
-    except TimeoutError:
+    except TimeoutException:
         pytest.skip("LLM call timed out")
     except Exception as e:
         pytest.fail(f"LLM call failed: {str(e)}")
+
+
+def test_stream_output(llm: LLM) -> None:
+    """Test streaming output functionality."""
+    system_prompt = "You are a helpful assistant."
+    user_prompt = "Count from 1 to 5."
+
+    try:
+        response = llm.generate_completion(
+            system_prompt=system_prompt,
+            user_prompt=user_prompt,
+            stream_output=True,
+            timeout=30
+        )
+
+        assert isinstance(response, str)
+        assert len(response) > 0
+    except TimeoutException:
+        pytest.skip("LLM call timed out")
+    except Exception as e:
+        pytest.fail(f"LLM call failed during streaming: {str(e)}")
