@@ -1,7 +1,10 @@
 langchain
-huggingface
-huggingface-hub
 langchain-community
 langchain-ollama
+langchain-together
 python-dotenv
 pytest
+streamlit
+streamlit-tags
+streamlit-option-menu
+spacy

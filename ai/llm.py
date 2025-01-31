@@ -1,12 +1,13 @@
 """
 Implementions of LLM models using Ollama.
 """
-
-import signal
 import httpx
+import signal
 from langchain_ollama import ChatOllama
+from langchain_together import ChatTogether
 
 DEFAULT_TIMEOUT = 600
+TOGETHER_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
 
 
 def timeout_handler(_signum, _frame):
@@ -33,9 +34,15 @@ class LLM:
         """Initialize the LLM class with Ollama client."""
         self.model = model
 
-        self.client = ChatOllama(
-            model=self.model, num_predict=-1, num_ctx=128000, temperature=0
-        )
+        if model == TOGETHER_MODEL:
+            self.client = ChatTogether(
+                model=TOGETHER_MODEL,
+                temperature=0,
+            )
+        else:
+            self.client = ChatOllama(
+                model=self.model, num_predict=-1, num_ctx=128000, temperature=0
+            )
 
     def generate_completion(
         self,
@@ -85,7 +92,8 @@ class LLM:
             print(full_response)
             return ""
         finally:
-            signal.alarm(0)
+            if self.model != TOGETHER_MODEL:
+                signal.alarm(0)
 
 
 class LRM(LLM):
@@ -93,7 +101,7 @@ class LRM(LLM):
     Extension of LLM class to be able to work with reasoning models.
     """
 
-    def __init__(self, model: str = "deepseek-r1:7b"):
+    def __init__(self, model: str = "deepseek-r1:14b"):
         """Initialize the LRM class with Ollama model."""
         super().__init__(model=model)
 
