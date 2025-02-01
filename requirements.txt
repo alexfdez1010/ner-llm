@@ -2,8 +2,10 @@ langchain
 langchain-community
 langchain-ollama
 langchain-together
+ollama
 python-dotenv
 pytest
+pytest-retry
 streamlit
 streamlit-tags
 streamlit-option-menu

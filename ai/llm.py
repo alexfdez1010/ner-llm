@@ -2,11 +2,14 @@
 Implementions of LLM models using Ollama.
 """
 import re
+from typing import AsyncGenerator
 from langchain.schema import BaseMessage, HumanMessage, SystemMessage
-from langchain_ollama import ChatOllama
 from langchain_together import ChatTogether
+import ollama
+from ollama._client import Message
 
 TOGETHER_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
+OLLAMA_TIMEOUT = 600  # Timeout in seconds for Ollama models
 
 
 class LLM:
@@ -24,15 +27,21 @@ class LLM:
                 temperature=0,
             )
         else:
-            self.client = ChatOllama(
-                model=self.model, num_predict=-2, num_ctx=128000, temperature=0
+            self.client = ollama.Client(
+                host='http://localhost:11434',
+                timeout=OLLAMA_TIMEOUT
             )
 
-    def _create_messages(self, system_prompt: str, user_prompt: str) -> list[BaseMessage]:
+    def create_messages(self, system_prompt: str, user_prompt: str) -> list[Message] | list[BaseMessage]:
         """Create message list for the chat model."""
+        if self.model == TOGETHER_MODEL:
+            return [
+                SystemMessage(content=system_prompt),
+                HumanMessage(content=user_prompt)
+            ]
         return [
-            SystemMessage(content=system_prompt),
-            HumanMessage(content=user_prompt)
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
         ]
 
     def generate_completion(
@@ -52,26 +61,52 @@ class LLM:
         Returns:
             str: The complete generated response
         """
-        messages = self._create_messages(system_prompt, user_prompt)
+        messages = self.create_messages(system_prompt, user_prompt)
 
-        if not stream_output:
-            # For non-streaming, just return the complete response
-            response = self.client.invoke(input=messages)
-            return response.content
+        if self.model == TOGETHER_MODEL:
+            if not stream_output:
+                response = self.client.invoke(input=messages)
+                return response.content
 
-        # For streaming, collect chunks
-        chunks = self.client.stream(input=messages)
-        response = ""
-        for chunk in chunks:
-            if hasattr(chunk, "content"):
-                content = chunk.content
-            else:
-                content = str(chunk)
-            print(content, end="", flush=True)
-            response += content
-        if response:
-            print()
-        return response
+            chunks = self.client.stream(input=messages)
+            response = ""
+            for chunk in chunks:
+                if hasattr(chunk, "content"):
+                    content = chunk.content
+                else:
+                    content = str(chunk)
+                print(content, end="", flush=True)
+                response += content
+            if response:
+                print()
+            return response
+        
+        # For Ollama models
+        try:
+            if not stream_output:
+                response = self.client.chat(
+                    model=self.model,
+                    messages=messages,
+                    stream=False
+                )
+                return response['message']['content']
+
+            # For streaming with Ollama
+            response = ""
+            for chunk in self.client.chat(
+                model=self.model,
+                messages=messages,
+                stream=True
+            ):
+                content = chunk['message']['content']
+                print(content, end="", flush=True)
+                response += content
+            if response:
+                print()
+            return response
+        except Exception as e:
+            # Add proper error handling
+            raise Exception(f"Error generating completion with Ollama: {str(e)}")
 
 
 class LRM(LLM):

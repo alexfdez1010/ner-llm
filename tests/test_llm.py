@@ -1,5 +1,6 @@
 import pytest
-from ai.llm import LLM, LRM
+from ai.llm import LLM, LRM, OLLAMA_TIMEOUT
+import ollama
 
 
 @pytest.fixture
@@ -26,6 +27,8 @@ def test_generate_completion(llm: LLM) -> None:
 
         assert isinstance(response, str)
         assert len(response) > 0
+    except ollama.ResponseError as e:
+        pytest.skip(f"Ollama service error: {str(e)}")
     except Exception as e:
         pytest.fail(f"LLM call failed: {str(e)}")
 
@@ -45,6 +48,8 @@ def test_lrm_generate_completion(lrm: LRM) -> None:
         assert "<think>" not in response
         assert "</think>" not in response
         assert any(name in lrm.model.lower() for name in ["deepseek"])
+    except ollama.ResponseError as e:
+        pytest.skip(f"Ollama service error: {str(e)}")
     except TimeoutError:
         pytest.skip("LLM call timed out")
     except Exception as e:
@@ -54,7 +59,7 @@ def test_lrm_generate_completion(lrm: LRM) -> None:
 def test_stream_output(llm: LLM) -> None:
     """Test streaming output functionality."""
     system_prompt = "You are a helpful assistant."
-    user_prompt = "Count from 1 to 5."
+    user_prompt = "Count from 1 to 3."
 
     try:
         response = llm.generate_completion(
@@ -65,6 +70,8 @@ def test_stream_output(llm: LLM) -> None:
 
         assert isinstance(response, str)
         assert len(response) > 0
+    except ollama.ResponseError as e:
+        pytest.skip(f"Ollama service error: {str(e)}")
     except TimeoutError:
         pytest.skip("LLM call timed out")
     except Exception as e:

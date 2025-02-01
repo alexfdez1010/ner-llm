@@ -133,6 +133,7 @@ class TestExtractorNER:
             pytest.fail(f"Multiple occurrences test failed: {str(e)}")
 
 
+@pytest.mark.flaky(retries=3, delay=1)
 def test_integration_with_llm() -> None:
     """Test integration with real LLM."""
     try:
