@@ -1,9 +1,5 @@
 """Demo NER app."""
 
-from typing import Dict
-import threading
-import signal
-
 import spacy
 import streamlit as st
 from dotenv import load_dotenv
@@ -95,7 +91,7 @@ def main() -> None:
         )
 
         # Description input for each category
-        descriptions: Dict[str, str] = {}
+        descriptions: dict[str, str] = {}
         for cat in category_names:
             desc = st.text_area(
                 f"Description for {cat}:",

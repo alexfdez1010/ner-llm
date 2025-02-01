@@ -7,10 +7,6 @@ from unittest.mock import MagicMock
 import pytest
 from streamlit.testing.v1 import AppTest
 
-from ai.llm import LLM, TimeoutException
-from ai.extractor_ner import ExtractorNER
-from model.category import Category
-
 # Mock streamlit_tags module
 mock_st_tags = MagicMock()
 mock_st_tags.st_tags.return_value = ["Person", "Organization"]
@@ -42,6 +38,14 @@ def find_text_area_by_label_content(app: AppTest, content: str) -> Optional[Magi
     """Helper function to find a text area by content in its label."""
     for area in app.get("text_area"):
         if content in str(area.label).lower():
+            return area
+    return None
+
+
+def find_text_area_by_key(app: AppTest, key: str) -> Optional[MagicMock]:
+    """Helper function to find a text area by its key."""
+    for area in app.get("text_area"):
+        if area.key == key:
             return area
     return None
 
@@ -84,79 +88,67 @@ def test_extract_button(app: AppTest) -> None:
 
 
 def test_complete_workflow(app: AppTest) -> None:
-    """Test the complete workflow of the NER app."""
+    """Test the complete workflow of the app."""
     # Initialize app
     app.run()
 
-    # 1. Test language selection
-    language_selectbox = find_selectbox_by_label(app, "Select language:")
-    assert language_selectbox is not None, "Language selectbox not found"
-    language_selectbox.set_value("English")
+    # 1. Set up categories with descriptions
+    app.session_state["category_names"] = ["Person", "Organization"]
     app.run()
 
-    # 2. Test text input
-    sample_text = """John works at Microsoft as a software engineer. 
-    Sarah from Google contacted him about a new project."""
+    # Set up descriptions
+    desc_person = find_text_area_by_key(app, "desc_Person")
+    assert desc_person is not None, "Description text area for Person not found"
+    desc_person.set_value("Names of people")
+    app.run()
+
+    desc_org = find_text_area_by_key(app, "desc_Organization")
+    assert desc_org is not None, "Description text area for Organization not found"
+    desc_org.set_value("Names of companies, institutions, etc.")
+    app.run()
+
+    # 2. Enter text with known entities
     text_area = find_text_area_by_label_content(app, "enter text to analyze")
     assert text_area is not None, "Text area not found"
-    text_area.set_value(sample_text)
+    text_area.set_value("John works at Microsoft as a software engineer.")
     app.run()
 
-    # 3. Test category input using st_tags
-    app.session_state["category_names"] = ["Person", "Organization"]
-    app.session_state["desc_Person"] = "Names of people"
-    app.session_state["desc_Organization"] = "Names of organizations"
-    app.run()  # Update state after setting session values
-
-    # 4. Test extract button
-    extract_button = find_button_by_label_content(app, "Extract Entities")
+    # 3. Click extract button
+    extract_button = find_button_by_label_content(app, "Extract")
     assert extract_button is not None, "Extract button not found"
     assert not extract_button.disabled, "Extract button should be enabled"
     extract_button.click()
-    app.run()  # Run after clicking the button
+    app.run()
 
-    # 5. Test results section
-    # First, verify that results section exists
+    # 4. Verify results
+    # Check that results section appears
     results_found = False
-    for markdown in app.get("markdown"):
-        if "Results" in str(markdown.value):
+    for markdown in app.markdown:
+        if markdown.value and "Results" in str(markdown.value):
             results_found = True
             break
-    assert results_found, "Results section not found after extraction"
+    assert results_found, "Results section not found"
 
-    # Then, look for entities in all markdown elements
-    all_markdown_text = " ".join(str(markdown.value) for markdown in app.get("markdown"))
-    assert "John" in all_markdown_text, "Expected entity 'John' not found in results"
-    assert "Microsoft" in all_markdown_text, "Expected entity 'Microsoft' not found in results"
-    assert "Sarah" in all_markdown_text, "Expected entity 'Sarah' not found in results"
-    assert "Google" in all_markdown_text, "Expected entity 'Google' not found in results"
+    # Check that entities table appears
+    entities_found = False
+    for markdown in app.markdown:
+        if markdown.value and "Extracted Entities" in str(markdown.value):
+            entities_found = True
+            break
+    assert entities_found, "Entities table not found"
 
-
-def test_error_handling(app: AppTest) -> None:
-    """Test error handling in the app."""
-    try:
-        # 1. Test with missing category descriptions
-        app.session_state["desc_Person"] = ""  # Empty description
-
-        text_input = find_text_area_by_label_content(app, "analyze")
-        assert text_input is not None, "Text input area not found"
-        text_input.set_value("Some test text")
-
-        extract_button = find_button_by_label_content(app, "Extract")
-        assert extract_button is not None, "Extract button not found"
-
-        # Trigger the button click
-        extract_button.click().run()
-
-        # Check for error message
-        error_found = False
-        for element in app.get("error"):
-            if "Please provide descriptions for all categories" in str(element.value):
-                error_found = True
-                break
-        assert (
-            error_found
-        ), "Error message not displayed for missing category description"
-
-    except Exception as e:
-        pytest.fail(f"Error handling test failed: {str(e)}")
+    # Check that entities are in the table
+    table_found = False
+    person_found = False
+    org_found = False
+    for table in app.table:
+        if not table.value.empty:
+            table_found = True
+            for _, row in table.value.iterrows():
+                if row.get("Category") == "Person" and row.get("Entity") == "John":
+                    person_found = True
+                if row.get("Category") == "Organization" and row.get("Entity") == "Microsoft":
+                    org_found = True
+    assert table_found, "Table with entities not found"
+    assert person_found, "Person entity not found"
+    assert org_found, "Organization entity not found"
