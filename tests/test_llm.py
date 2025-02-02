@@ -12,7 +12,7 @@ def llm() -> LLM:
 @pytest.fixture
 def lrm() -> LRM:
     """Fixture to create an LRM instance."""
-    return LRM()
+    return LRM(model="deepseek-r1:7b")
 
 
 def test_generate_completion(llm: LLM) -> None:

@@ -71,13 +71,12 @@ class TestExtractorNER:
             # Setup
             categories: List[Category] = [Category("PRODUCT", "Names of products")]
             text = "The new iPhone 15 Pro is amazing"
-            examples = "Text: The MacBook Pro is great\nOutput: <PRODUCT>:MacBook Pro"
 
             # Mock LLM response
             mock_llm.generate_completion.return_value = "<PRODUCT>:iPhone 15 Pro"
 
             # Execute
-            entities = extractor.extract_entities(categories, text, examples=examples)
+            entities = extractor.extract_entities(categories, text)
 
             # Assert
             expected_entities = [Entity("PRODUCT", "iPhone 15 Pro", (8, 21))]

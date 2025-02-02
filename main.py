@@ -151,7 +151,7 @@ def main():
     parser.add_argument(
         "--model",
         type=str,
-        default="llama3.2-vision",
+        default="phi4",
         choices=MODELS,
         help="Model to use for NER",
     )

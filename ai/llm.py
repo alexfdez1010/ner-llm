@@ -11,6 +11,7 @@ from ollama._client import Message
 TOGETHER_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
 OLLAMA_TIMEOUT = 600  # Timeout in seconds for Ollama models
 MAX_TOKENS = 16384
+CONTEXT_SIZE = 8192
 
 class LLM:
     """
@@ -49,12 +50,12 @@ class LLM:
         try:
             if not stream_output:
                 response = self.client.chat(
-                    model=self.model, messages=messages, stream=False, options={"num_predict": MAX_TOKENS}
+                    model=self.model, messages=messages, stream=False, options={"num_predict": MAX_TOKENS, "num_ctx": CONTEXT_SIZE}
                 )
                 return response["message"]["content"]
             response = ""
             for chunk in self.client.chat(
-                model=self.model, messages=messages, stream=True, options={"num_predict": MAX_TOKENS}
+                model=self.model, messages=messages, stream=True, options={"num_predict": MAX_TOKENS, "num_ctx": CONTEXT_SIZE}
             ):
                 content = chunk["message"]["content"]
                 print(content, end="", flush=True)

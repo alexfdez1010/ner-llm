@@ -65,7 +65,7 @@ class MultiCardionerTrack1(DatasetInfo):
 
     def categories(self) -> List[Category]:
         """Return a list of all categories in the dataset."""
-        return [Category(name="ENFERMEDAD", description="Cualquier condición médica o patológica, incluyendo: enfermedades cardiovasculares (cardiopatías, arritmias, valvulopatías), enfermedades crónicas (hipertensión, diabetes), condiciones agudas (infartos, ictus), anomalías anatómicas, complicaciones médicas, y síntomas significativos")]
+        return [Category(name="ENFERMEDAD", description="Cualquier condición médica o patológica")]
 
     def language(self) -> str:
         """Return the language of the dataset."""
