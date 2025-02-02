@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from streamlit_tags import st_tags
 
 from ai.extractor_ner import ExtractorNER
-from ai.llm import LLM
+from ai.llm import LLM, LLMTogether
 from model.category import Category
 
 MODEL_NAME = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
@@ -29,9 +29,12 @@ def load_spacy():
 
 
 @st.cache_resource
-def get_llm() -> LLM:
+def get_llm() -> LLM | LLMTogether:
     """Initialize the LLM with the specified model."""
-    return LLM(MODEL_NAME)
+    if MODEL_NAME == "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free":
+        return LLMTogether()
+    else:
+        return LLM(MODEL_NAME)
 
 
 def main() -> None:
