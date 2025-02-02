@@ -96,17 +96,6 @@ def test_complete_workflow(app: AppTest) -> None:
     app.session_state["category_names"] = ["Person", "Organization"]
     app.run()
 
-    # Set up descriptions
-    desc_person = find_text_area_by_key(app, "desc_Person")
-    assert desc_person is not None, "Description text area for Person not found"
-    desc_person.set_value("Names of people")
-    app.run()
-
-    desc_org = find_text_area_by_key(app, "desc_Organization")
-    assert desc_org is not None, "Description text area for Organization not found"
-    desc_org.set_value("Names of companies, institutions, etc.")
-    app.run()
-
     # 2. Enter text with known entities
     text_area = find_text_area_by_label_content(app, "enter text to analyze")
     assert text_area is not None, "Text area not found"

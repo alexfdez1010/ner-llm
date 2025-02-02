@@ -74,11 +74,18 @@ def main() -> None:
     """
     )
 
-    # Sidebar for categories
-    with st.sidebar:
-        st.header("Category Configuration")
-        st.markdown("Add between 1 and 5 categories with their descriptions.")
+    st.markdown("### Model Configuration")
 
+    st.header("Category Configuration")
+    st.markdown("Add between 1 and 5 categories with their descriptions.")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        # Language selector
+        language = st.selectbox("Select language:", LANGUAGES, index=0)
+
+    with col2:
         # Category input
         category_names = st_tags(
             label="Enter Categories:",
@@ -88,19 +95,10 @@ def main() -> None:
             key="category_names",
         )
 
-        # Description input for each category
-        descriptions: dict[str, str] = {}
-        for cat in category_names:
-            desc = st.text_area(
-                f"Description for {cat}:",
-                key=f"desc_{cat}",
-                placeholder="Enter a description for this category...",
-            )
-            if desc:
-                descriptions[cat] = desc
-    st.markdown("### Model Configuration")
-
-    language = st.selectbox("Select language:", LANGUAGES, index=0)
+    # Description input for each category
+    descriptions: dict[str, str] = {
+        cat: cat for cat in category_names
+    }
 
     # Text input
     text_input = st.text_area(
@@ -157,8 +155,8 @@ def main() -> None:
                         + entity_text
                         + '<span style="font-size: 0.8em; font-weight: bold; line-height: 1; '
                         + 'border-radius: 0.35em; vertical-align: middle; margin-left: 0.5rem">'
-                        + f'{entity.category}</span>'
-                        + '</mark>'
+                        + f"{entity.category}</span>"
+                        + "</mark>"
                         + html_text[end:]
                     )
 
