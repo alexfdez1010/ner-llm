@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from streamlit_tags import st_tags
 
 from ai.extractor_ner import ExtractorNER
-from ai.llm import LLM, LLMTogether
+from ai.llm import LLMTogether
 from model.category import Category
 
 LANGUAGES = {
@@ -29,7 +29,7 @@ def load_spacy():
 @st.cache_resource
 def get_llm() -> LLMTogether:
     """Initialize the LLM with the Together Llama 3.3 free endpoint."""
-    return LLMTogether()
+    return LLMTogether(api_key=st.secrets["TOGETHER_API_KEY"])
 
 
 def main() -> None:

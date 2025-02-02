@@ -64,7 +64,7 @@ class LLM:
                 print()
             return response
         except Exception as e:
-            raise Exception(f"Error generating completion with Ollama: {str(e)}")
+            return ""
 
 
 class LRM(LLM):
@@ -97,10 +97,14 @@ class LLMTogether:
     Class for interacting with Together AI models.
     """
 
-    def __init__(self, model: str = TOGETHER_MODEL):
-        """Initialize the LLMTogether class with ChatTogether client."""
-        self.model = model
-        self.client = ChatTogether(model=TOGETHER_MODEL, temperature=0)
+    def __init__(self, api_key: str):
+        """
+        Initialize the LLMTogether class with ChatTogether client.
+
+        Args:
+            api_key (str): The API key for Together AI
+        """
+        self.client = ChatTogether(model=TOGETHER_MODEL, temperature=0, api_key=api_key)
 
     def create_messages(self, system_prompt: str, user_prompt: str) -> list[Message] | list[BaseMessage]:
         """Create message list for the Together chat model."""
