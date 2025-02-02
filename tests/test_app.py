@@ -147,7 +147,10 @@ def test_complete_workflow(app: AppTest) -> None:
             for _, row in table.value.iterrows():
                 if row.get("Category") == "Person" and row.get("Entity") == "John":
                     person_found = True
-                if row.get("Category") == "Organization" and row.get("Entity") == "Microsoft":
+                if (
+                    row.get("Category") == "Organization"
+                    and row.get("Entity") == "Microsoft"
+                ):
                     org_found = True
     assert table_found, "Table with entities not found"
     assert person_found, "Person entity not found"

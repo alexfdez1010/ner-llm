@@ -141,7 +141,7 @@ def main() -> None:
 
                 # Create spaCy-like visualization
                 nlp = load_spacy()
-                doc = nlp(text_input)
+                _doc = nlp(text_input)
 
                 # Convert the text to HTML with entity highlighting
                 html_text = text_input
@@ -153,7 +153,12 @@ def main() -> None:
                     color = f"hsl({hash(entity.category) % 360}, 70%, 80%)"
                     html_text = (
                         html_text[:start]
-                        + f'<mark class="entity-box" style="background: {color}">{entity_text}<span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; vertical-align: middle; margin-left: 0.5rem">{entity.category}</span></mark>'
+                        + f'<mark class="entity-box" style="background: {color}">'
+                        + entity_text
+                        + '<span style="font-size: 0.8em; font-weight: bold; line-height: 1; '
+                        + 'border-radius: 0.35em; vertical-align: middle; margin-left: 0.5rem">'
+                        + f'{entity.category}</span>'
+                        + '</mark>'
                         + html_text[end:]
                     )
 

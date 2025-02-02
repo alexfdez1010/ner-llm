@@ -50,28 +50,34 @@ class Pipeline:
 
         Returns:
             TokenMetrics containing true positives, false positives, and false negatives
-            
+
         Raises:
             AssertionError: If gold_bio and pred_bio have different lengths
         """
         # Check that sequences have same length
         if len(gold_bio) != len(pred_bio):
-            raise AssertionError("Gold and predicted BIO sequences must have same length")
-            
+            raise AssertionError(
+                "Gold and predicted BIO sequences must have same length"
+            )
+
         tp = fp = fn = 0.0
 
         for gold, pred in zip(gold_bio, pred_bio):
             # Both are O, nothing to count
             if gold == "O" and pred == "O":
                 continue
-                
+
             # Both are entity tags
             if gold != "O" and pred != "O":
                 gold_tag = gold.split("-", 1)
                 pred_tag = pred.split("-", 1)
-                
+
                 # Same entity type
-                if len(gold_tag) == 2 and len(pred_tag) == 2 and gold_tag[1] == pred_tag[1]:
+                if (
+                    len(gold_tag) == 2
+                    and len(pred_tag) == 2
+                    and gold_tag[1] == pred_tag[1]
+                ):
                     # Both B or both I
                     if gold_tag[0] == pred_tag[0]:
                         tp += 1
@@ -142,7 +148,8 @@ class Pipeline:
             total_time: Total time taken so far
         """
         print(
-            f"\nInstance {instance_idx}/{total_instances} ({(instance_idx/total_instances)*100:.1f}%)"
+            f"\nInstance {instance_idx}/{total_instances} "
+            f"({(instance_idx/total_instances)*100:.1f}%)"
         )
         print("\nPredicted entities:")
         for entity in predicted_entities:
@@ -176,7 +183,7 @@ class Pipeline:
         """Evaluate NER performance on a dataset using BIO annotations.
 
         Args:
-            sentences_per_call: Number of sentences to process per model call. If 0, process all text at once.
+            sentences_per_call: Number of sentences to process per model call. If 0, all
 
         Returns:
             Tuple containing micro-average and macro-average metrics

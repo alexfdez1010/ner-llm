@@ -4,14 +4,14 @@ DATASETS=(
     "pharmaconer"
     "multicardioner_track2_es"
     "multicardioner_track2_it"
-    "multicardioner_track2_en"
-    "multicardioner_track1"
+    #"multicardioner_track2_en"
+    #"multicardioner_track1"
 )
 
 MODELS=(
-    "phi3.5"
-    "granite3.1-dense"
-    "phi4"
+    #"phi3.5"
+    #"granite3.1-dense"
+    #"phi4"
     "deepseek-r1:14b"
 )
 

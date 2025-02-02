@@ -186,7 +186,8 @@ def main():
         language=language,
     )
     print(
-        f"\nStarting evaluation of {args.dataset} with model {args.model} and categories {', '.join([cat.name for cat in categories])}..."
+        f"\nStarting evaluation of {args.dataset} with model {args.model} and "
+        f"categories {', '.join([cat.name for cat in categories])}..."
     )
     # Evaluate pipeline
     micro_metrics, macro_metrics = pipeline.evaluate(

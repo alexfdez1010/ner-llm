@@ -11,7 +11,8 @@ from ollama._client import Message
 TOGETHER_MODEL = "meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
 OLLAMA_TIMEOUT = 600  # Timeout in seconds for Ollama models
 MAX_TOKENS = 16384
-CONTEXT_SIZE = 8192
+CONTEXT_SIZE = 4096
+
 
 class LLM:
     """
@@ -21,7 +22,9 @@ class LLM:
     def __init__(self, model: str = "llama3.2-vision"):
         """Initialize the LLM class with Ollama client."""
         self.model = model
-        self.client = ollama.Client(host="http://localhost:11434", timeout=OLLAMA_TIMEOUT)
+        self.client = ollama.Client(
+            host="http://localhost:11434", timeout=OLLAMA_TIMEOUT
+        )
 
     def create_messages(
         self, system_prompt: str, user_prompt: str
@@ -50,12 +53,18 @@ class LLM:
         try:
             if not stream_output:
                 response = self.client.chat(
-                    model=self.model, messages=messages, stream=False, options={"num_predict": MAX_TOKENS, "num_ctx": CONTEXT_SIZE}
+                    model=self.model,
+                    messages=messages,
+                    stream=False,
+                    options={"num_predict": MAX_TOKENS, "num_ctx": CONTEXT_SIZE},
                 )
                 return response["message"]["content"]
             response = ""
             for chunk in self.client.chat(
-                model=self.model, messages=messages, stream=True, options={"num_predict": MAX_TOKENS, "num_ctx": CONTEXT_SIZE}
+                model=self.model,
+                messages=messages,
+                stream=True,
+                options={"num_predict": MAX_TOKENS, "num_ctx": CONTEXT_SIZE},
             ):
                 content = chunk["message"]["content"]
                 print(content, end="", flush=True)
@@ -63,7 +72,7 @@ class LLM:
             if response:
                 print()
             return response
-        except Exception as e:
+        except Exception as _e:
             return ""
 
 
@@ -106,14 +115,18 @@ class LLMTogether:
         """
         self.client = ChatTogether(model=TOGETHER_MODEL, temperature=0, api_key=api_key)
 
-    def create_messages(self, system_prompt: str, user_prompt: str) -> list[Message] | list[BaseMessage]:
+    def create_messages(
+        self, system_prompt: str, user_prompt: str
+    ) -> list[Message] | list[BaseMessage]:
         """Create message list for the Together chat model."""
         return [
             SystemMessage(content=system_prompt),
             HumanMessage(content=user_prompt),
         ]
 
-    def generate_completion(self, system_prompt: str, user_prompt: str, stream_output: bool = False) -> str:
+    def generate_completion(
+        self, system_prompt: str, user_prompt: str, stream_output: bool = False
+    ) -> str:
         """
         Generate a completion using the Together model, optionally streaming the output.
         """
