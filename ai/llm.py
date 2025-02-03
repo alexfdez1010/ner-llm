@@ -56,7 +56,7 @@ class LLM:
                     model=self.model,
                     messages=messages,
                     stream=False,
-                    options={"num_predict": MAX_TOKENS, "num_ctx": CONTEXT_SIZE},
+                    options={"num_predict": MAX_TOKENS, "num_ctx": CONTEXT_SIZE, "temperature": 0},
                 )
                 return response["message"]["content"]
             response = ""
@@ -64,7 +64,7 @@ class LLM:
                 model=self.model,
                 messages=messages,
                 stream=True,
-                options={"num_predict": MAX_TOKENS, "num_ctx": CONTEXT_SIZE},
+                options={"num_predict": MAX_TOKENS, "num_ctx": CONTEXT_SIZE, "temperature": 0},
             ):
                 content = chunk["message"]["content"]
                 print(content, end="", flush=True)
