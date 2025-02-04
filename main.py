@@ -22,7 +22,6 @@ MODELS = [
     "falcon3:10b",
     "llama3.2-vision", #11B
     "phi4", #14B
-    "mixtral", #8x7B
     "qwen2.5:32b", #32B
 ]
 
