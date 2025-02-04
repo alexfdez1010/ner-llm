@@ -96,10 +96,13 @@ ner-llm/
 ├── ai/                     # AI components
 │   ├── extractor_ner.py   # NER extraction logic
 │   ├── llm.py             # LLM integrations
-│   └── prompts.py         # Prompt templates
+│   └── prompts.py         # Prompt templates dataset/
+├── datasets/               # Where datasets are stored
 ├── datasets_info/          # Dataset definitions
+├── experiments/           # Shell scripts for experiments
+├── graphs/                 # Graphs generated from the results
 ├── model/                  # Data models
-├── tests/                  # Test suite
+├── tests/                  # Test suite (includes unit, integration, and e2e)
 ├── app.py                 # Interactive demo
 └── main.py               # Experimental pipeline
 ```
